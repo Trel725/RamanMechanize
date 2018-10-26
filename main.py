@@ -7,9 +7,10 @@ import design
 import platform
 import glob
 from SerialCommunicator import SerialCommunicator
-from RamanController import RamanController
+from CommandExecutor import CommandExecutor
 import time
 import serial
+
 
 class JogSender(QThread):
 
@@ -45,44 +46,6 @@ class JogSender(QThread):
             
             self.feed+=self.DTime*self.acc
             time.sleep(self.DTime*0.95)
-
-class CommandExecutor(QThread):
-
-    updateRow = pyqtSignal(int)
-    def __init__(self):
-        QThread.__init__(self)
-        self.listWidget=None
-        self.sc=None
-        self.ramanc=RamanController()
-    def __del__(self):
-        self.wait()
-
-    def Raman(self, filename):
-        print("Starting signal collection to the file "+filename)
-        self.ramanc.makeScan()
-        self.ramanc.saveSpectrum(filename)
-        time.sleep(1)
-        print("Data is collected!")
-
-    def run(self):
-        for i in range(self.listWidget.count()):
-            print("\nRow {0}: ".format(i), end="")
-            self.updateRow.emit(i)
-            item=self.listWidget.item(i)
-            data=item.data(0)
-            print(data)
-            if data[0:5]=="Goto:":
-                coords=data[5:].strip().split(";")
-                resp=self.sc.sendCommand("G0X{0}Y{1}".format(coords[0].strip(), coords[1].strip()), read_resp=True)
-                print("Going to coordinates X={0}, Y={1}".format(coords[0].strip(), coords[1].strip()))
-                resp=self.sc.sendCommand("G4P0.01", wait_for_ok=True, block=True)
-                print("Moving is finished")
-                time.sleep(1)
-            elif data[0:5]=="Raman":
-                filename=data.split(":")[1].strip()
-                self.Raman(filename)
-            else:
-                print("Unknown command, skipping...")
 
 class Logger(QtCore.QObject):
     writeData=pyqtSignal(str)
@@ -122,6 +85,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.ramanButton.clicked.connect(self.addRamanCommand)
         self.homingButton.clicked.connect(self.startHoming)
         self.unlockButton.clicked.connect(self.unlock)
+        self.addCircleButton.clicked.connect(self.addCircle)
         self.actionLoad_program.triggered.connect(self.loadProgram)
         self.actionSave_program.triggered.connect(self.saveProgram)
         self.settings = QSettings('VSCHT', 'StepperControl')
@@ -162,6 +126,14 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.logger.writeData.connect(self.writeDataToConsole)
         sys.stdout = self.logger
 
+
+    def addCircle(self):
+        newitem=QtWidgets.QListWidgetItem(None)
+        print(self.coordinates)
+        data="Circle: x: {0}, y: {1}, rad: {2}, n: {3}, fname: {4}".format(self.coordinates[0], self.coordinates[1], self.radiusBox.value(), self.circlePointsBox.value(), self.ramanFilename.text())
+        newitem.setData(0, data)
+        newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
+        self.listWidget.addItem(newitem)
 
 
     def saveProgram(self):
