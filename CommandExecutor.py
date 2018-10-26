@@ -9,6 +9,8 @@ class CommandExecutor(QThread):
         QThread.__init__(self)
         self.listWidget=None
         self.sc=None
+        self.ramanc=RamanController()
+
     def __del__(self):
         self.wait()
 
@@ -66,10 +68,10 @@ class CommandExecutor(QThread):
             elif data[0:7] =="Circle:":
                 param=self.decodeString(data[7:])
                 print(param)
-                try:
-                    self.scanCircle(param['x'], param['y'],param['rad'], param['n'], param["fname"])
-                except:
-                    print("Can't parse the string, skipping...")
+                #try:
+                self.scanCircle(param['x'], param['y'],param['rad'], param['n'], param["fname"])
+                #except:
+                #    print("Can't parse the string, skipping...")
 
             elif data[0:5]=="Raman":
                 filename=data.split(":")[1].strip()
