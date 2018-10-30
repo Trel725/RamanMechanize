@@ -18,6 +18,8 @@ class RamanController(object):
 		
 		self.w=self.app['EZRaman Reader  V8.2.0 MV']
 		self.pb=self.w.ProgressBar
+		self.path='C:\\AutoRaman\\Mapping\\'
+		self.suffix=""
 
 	def startScan(self):
 		self.w.set_focus()
@@ -47,15 +49,20 @@ class RamanController(object):
 			print(str(e))
 			pass
 
-	def saveMapping(self, dirname, fname):
+	def initializeFolder(self, dirname):
 		timestamp=datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
-		path='C:\\AutoRaman\\Mapping\\'
-		newpath=path+dirname
+		newpath=self.path+dirname+self.suffix
 		if not os.path.exists(newpath):
 			os.makedirs(newpath)
 		else:
-			newpath+=timestamp
+			self.suffix=timestamp
+			newpath=self.path+dirname+self.suffix
 			os.makedirs(newpath)
+
+
+	def saveMapping(self, dirname, fname):
+		timestamp=datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
+		newpath=self.path+dirname+self.suffix
 		try:
 			self.w.menu_select("File -> Save AS")
 			SendKeys('{VK_DOWN}')

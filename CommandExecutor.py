@@ -31,6 +31,7 @@ class CommandExecutor(QThread):
         print("Data is collected!")
 
     def Mapping(self, x0, y0, x1, y1, xres, yres, fname):
+        self.ramanc.initializeFolder(fname)
         x0=float(x0)
         y0=float(y0)
         x1=float(x1)
