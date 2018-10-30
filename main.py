@@ -3,6 +3,7 @@
 import sys  
 from PyQt5 import QtWidgets, QtCore, QtGui
 from PyQt5.QtCore import Qt, QThread, QSettings, QEvent, pyqtSignal, pyqtSlot
+from PyQt5.QtWidgets import QFileDialog
 import design  
 import platform
 import glob
@@ -152,7 +153,10 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
     		print("Stopped!")
 
     def saveProgram(self):
-        name = QtWidgets.QFileDialog.getSaveFileName(self, 'Save Program', filter="Text files (*.txt)")[0]
+        options = QFileDialog.Options()
+        options |= QFileDialog.DontUseNativeDialog
+        name = QtWidgets.QFileDialog.getSaveFileName(self, 'Save Program', "c:/AutoRaman/Programs", filter="Text files (*.txt)", options=options)[0]
+        print("test")
         txt=""
         for i in range(self.listWidget.count()):
             item=self.listWidget.item(i)
@@ -163,11 +167,15 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         file.write(txt)
 
     def loadProgram(self):
-        name = QtWidgets.QFileDialog.getOpenFileName(None, "Open File","/some/dir/","TXT(*.txt);;AllFiles(*.*)")[0]
+        options = QFileDialog.Options()
+        options |= QFileDialog.DontUseNativeDialog
+        name = QtWidgets.QFileDialog.getOpenFileName(self, "Open File","c:/AutoRaman/Programs","TXT(*.txt);;AllFiles(*.*)", options=options)[0]
         file=open(name, 'r')
         for line in file:
-            line=line.strip('\n')
-            line=line.strip('\r')
+            line=line.replace('\n', "")
+            line=line.replace('\r', "")
+            if len(line) < 1:
+            	continue
             newitem=QtWidgets.QListWidgetItem(None)
             newitem.setData(0, line)
             newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)

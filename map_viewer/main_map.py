@@ -122,14 +122,15 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
             return xnew, ynew, znew
         g = np.meshgrid(xnew, ynew)
         positions = np.vstack(map(np.ravel, g))
-        print(positions.shape)
         return xnew, ynew, griddata(points, z, positions.T, fill_value=0.0, method="cubic", rescale=True)
 
     def get_directory(self):
-        pth = str(QFileDialog.getExistingDirectory(self, "Select Directory"))
+        pth = str(QFileDialog.getExistingDirectory(self, "Select Directory", "c:/AutoRaman/Mapping"))
         if len(pth)<2:
             return 
         self.scan_for_spc(pth)
+        if len(self.spectra) < 1:
+            return
         datax=self.spectra[0].datax
         self.slider.setMinimum(datax.min())
         self.slider.setMaximum(datax.max())
