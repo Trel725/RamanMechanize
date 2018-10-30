@@ -86,8 +86,14 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.homingButton.clicked.connect(self.startHoming)
         self.unlockButton.clicked.connect(self.unlock)
         self.addCircleButton.clicked.connect(self.addCircle)
+        self.mapButton.clicked.connect(self.addMapping)
+        self.topLeftButton.clicked.connect(self.topLeftCoord)
+        self.botRightButton.clicked.connect(self.botRightCoord)
         self.actionLoad_program.triggered.connect(self.loadProgram)
         self.actionSave_program.triggered.connect(self.saveProgram)
+        self.stopButton.clicked.connect(self.stopExecutor)
+        self.pauseButton.clicked.connect(self.pauseExecutor)
+        self.ce.finished.connect(self.execTerminated)
         self.settings = QSettings('VSCHT', 'StepperControl')
         self.selectSerialBox.addItems(self.list_serial_ports())
         if self.settings.contains("port"):
@@ -126,15 +132,24 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.logger.writeData.connect(self.writeDataToConsole)
         sys.stdout = self.logger
 
+        self.mappoints=[[0,0],[0,0]]
 
-    def addCircle(self):
-        newitem=QtWidgets.QListWidgetItem(None)
-        print(self.coordinates)
-        data="Circle: x: {0}, y: {1}, rad: {2}, n: {3}, fname: {4}".format(self.coordinates[0], self.coordinates[1], self.radiusBox.value(), self.circlePointsBox.value(), self.ramanFilename.text())
-        newitem.setData(0, data)
-        newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
-        self.listWidget.addItem(newitem)
+    def execTerminated(self):
+    	self.StartExecutionButton.setEnabled(True)
 
+    def pauseExecutor(self):
+    	if self.ce.isRunning():
+    		if self.pauseButton.text()=="Pause":
+    			self.ce.paused=True
+    			self.pauseButton.setText("Resume")
+    		else:
+    			self.ce.paused=False
+    			self.pauseButton.setText("Pause")
+
+    def stopExecutor(self):
+    	if self.ce.isRunning():
+    		self.ce.terminate()
+    		print("Stopped!")
 
     def saveProgram(self):
         name = QtWidgets.QFileDialog.getSaveFileName(self, 'Save Program', filter="Text files (*.txt)")[0]
@@ -301,9 +316,32 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
         self.listWidget.addItem(newitem)
 
+    def addCircle(self):
+        newitem=QtWidgets.QListWidgetItem(None)
+        data="Circle: x: {0}, y: {1}, rad: {:4.3f}, n: {3}, fname: {4}".format(self.coordinates[0], self.coordinates[1], 
+            self.radiusBox.value(), self.circlePointsBox.value(), self.ramanFilename.text())
+        newitem.setData(0, data)
+        newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
+        self.listWidget.addItem(newitem)
+
+    def addMapping(self):
+        newitem=QtWidgets.QListWidgetItem(None)
+        data="Map: x1: {0}, y1: {1}, x2: {2}, y2: {3}, xres: {4:4.3f}, yres: {5:4.3f}, fname: {6}".format(self.mappoints[0][0], self.mappoints[0][1], 
+            self.mappoints[1][0], self.mappoints[1][1], self.xresBox.value(), self.yresBox.value(), self.ramanFilename.text())
+        newitem.setData(0, data)
+        newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
+        self.listWidget.addItem(newitem)
+
+    def topLeftCoord(self):
+    	self.mappoints[0]=self.coordinates[0:2]
+
+    def botRightCoord(self):
+    	self.mappoints[1]=self.coordinates[0:2]
+
     def startExecution(self):
         if self.sc is not None:
             self.ce.start()
+            self.StartExecutionButton.setEnabled(False)
         else:
             QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
 
@@ -322,6 +360,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.sc.sendCommand("$X")
         else:
             QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
+
+
 
     @pyqtSlot(int)
     def onrowChange(self, value):

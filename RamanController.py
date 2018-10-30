@@ -2,7 +2,7 @@ from pywinauto.application import Application
 from pywinauto.keyboard import SendKeys
 import time
 import datetime
-
+import os
 class RamanController(object):
 	"""docstring for RamanController"""
 	def __init__(self, path="C:\Program Files (x86)\EZRamanI 7B1\ProRaman L7B1 V829X3.exe"):
@@ -27,17 +27,46 @@ class RamanController(object):
 		self.pb.wait("enabled")
 
 	def makeScan(self):
-		self.startScan()
-		self.waitForFinish()
+		try:
+			self.startScan()	
+			self.waitForFinish()
+		except Exception as e:
+			print(str(e))
+			pass
 
 	def saveSpectrum(self, filename):
 		timestamp=datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
-		self.w.menu_select("File -> Save AS")
-		SendKeys('{VK_DOWN}')
-		SendKeys('{ENTER}')
-		time.sleep(0.1) 
-		SendKeys("C:{\}AutoRaman{\}"+filename+"_"+timestamp+".spc")
-		SendKeys("{ENTER}")
+		try:
+			self.w.menu_select("File -> Save AS")
+			SendKeys('{VK_DOWN}')
+			SendKeys('{ENTER}')
+			time.sleep(0.1) 
+			SendKeys("C:{\}AutoRaman{\}"+filename+"_"+timestamp+".spc")
+			SendKeys("{ENTER}")
+		except Exception as e:
+			print(str(e))
+			pass
+
+	def saveMapping(self, dirname, fname):
+		timestamp=datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
+		path='C:\\AutoRaman\\Mapping\\'
+		newpath=path+dirname
+		if not os.path.exists(newpath):
+			os.makedirs(newpath)
+		else:
+			newpath+=timestamp
+			os.makedirs(newpath)
+		try:
+			self.w.menu_select("File -> Save AS")
+			SendKeys('{VK_DOWN}')
+			SendKeys('{ENTER}')
+			time.sleep(0.1) 
+			path=newpath+"\\"+fname
+			SendKeys(path.replace("\\", "{\}"))
+			SendKeys("{ENTER}")
+		except Exception as e:
+			print(str(e))
+			pass
 
 if __name__ == '__main__':  
 	rc=RamanController()
