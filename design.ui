@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>557</width>
-    <height>555</height>
+    <width>526</width>
+    <height>395</height>
    </rect>
   </property>
   <property name="focusPolicy">
@@ -383,7 +383,7 @@
          </font>
         </property>
         <property name="text">
-         <string>STOP</string>
+         <string>RESET</string>
         </property>
        </widget>
       </item>
@@ -445,6 +445,9 @@
         </property>
         <property name="dragEnabled">
          <bool>true</bool>
+        </property>
+        <property name="dragDropOverwriteMode">
+         <bool>false</bool>
         </property>
         <property name="dragDropMode">
          <enum>QAbstractItemView::InternalMove</enum>
@@ -511,7 +514,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>557</width>
+     <width>526</width>
      <height>21</height>
     </rect>
    </property>

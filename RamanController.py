@@ -1,8 +1,10 @@
+import pywinauto
 from pywinauto.application import Application
 from pywinauto.keyboard import SendKeys
 import time
 import datetime
 import os
+import pyperclip
 class RamanController(object):
 	"""docstring for RamanController"""
 	def __init__(self, path="C:\Program Files (x86)\EZRamanI 7B1\ProRaman L7B1 V829X3.exe"):
@@ -21,12 +23,22 @@ class RamanController(object):
 		self.path='C:\\AutoRaman\\Mapping\\'
 		self.suffix=""
 
+
 	def startScan(self):
 		self.w.set_focus()
 		SendKeys("{F1}")
 
 	def waitForFinish(self):
-		self.pb.wait("enabled")
+		#self.pb.wait("enabled", timeout=3600)
+		running=True
+		prev_time=0.0
+		while(running):			
+			#time.sleep(0.1)
+			if self.pb.is_enabled():
+				now=time.time()
+				if now-prev_time<1:
+					running=False
+				prev_time=now
 
 	def makeScan(self):
 		try:
@@ -67,9 +79,11 @@ class RamanController(object):
 			self.w.menu_select("File -> Save AS")
 			SendKeys('{VK_DOWN}')
 			SendKeys('{ENTER}')
-			time.sleep(0.1) 
+			time.sleep(0.5) 
 			path=newpath+"\\"+fname
-			SendKeys(path.replace("\\", "{\}"))
+			pyperclip.copy(path)
+			#SendKeys(path.replace("\\", "{\}"))
+			SendKeys("^v")
 			SendKeys("{ENTER}")
 		except Exception as e:
 			print(str(e))

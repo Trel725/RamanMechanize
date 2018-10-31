@@ -80,7 +80,7 @@ class CommandExecutor(QThread):
             print("Scanning point {0} of circle".format(i))
             self.goToPos(x+dx, y+dy)
             self.Raman(filename+"_circle_"+str(i))
-            self.goToPos(x,y)
+            #self.goToPos(x,y)
             i=i+1
 
     def goToPos(self, x, y):

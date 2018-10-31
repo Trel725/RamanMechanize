@@ -48,23 +48,17 @@ class JogSender(QThread):
             self.feed+=self.DTime*self.acc
             time.sleep(self.DTime*0.95)
 
+
 class Logger(QtCore.QObject):
     writeData=pyqtSignal(str)
     def __init__(self):
         super().__init__()
         self.terminal = sys.stdout
-        #self.log = open("logfile.log", "a")
 
     def write(self, message):
-        #self.terminal.write(message)
-        self.writeData.emit(message)
-        #self.log.write(message)
-        
+        self.writeData.emit(message)   
 
     def flush(self):
-        #this flush method is needed for python 3 compatibility.
-        #this handles the flush command by doing nothing.
-        #you might want to specify some extra behavior here.
         pass    
 
 
@@ -73,6 +67,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
     def __init__(self):
         
         super().__init__()
+        QtWidgets.QMainWindow.__init__(self, None, QtCore.Qt.WindowStaysOnTopHint)
         self.setupUi(self)
         self.sc=None
         self.ce=CommandExecutor()
@@ -104,7 +99,6 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                 self.selectSerialBox.setCurrentIndex(idx+1)
             except:
                 pass
-
         
         self.DTime=0.05
         self.startTimer(300)
@@ -120,6 +114,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         Qt.Key_Up: False,
         Qt.Key_Down: False,
         Qt.Key_Left: False,
+
         Qt.Key_Right: False,
         }
 
@@ -134,6 +129,14 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         sys.stdout = self.logger
 
         self.mappoints=[[0,0],[0,0]]
+
+    def makeEnterFilename(self):
+        txt=self.ramanFilename.text()
+        while( len(txt)==0 or txt=="raman_filename"):
+            #QtWidgets.QMessageBox.warning(self, "Warning", "Please enter the file name")
+            txt=QtWidgets.QInputDialog.getText(self, "Warning", "Please enter the file name")[0]
+        self.ramanFilename.setText(txt)
+
 
     def execTerminated(self):
     	self.StartExecutionButton.setEnabled(True)
@@ -156,7 +159,6 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         options = QFileDialog.Options()
         options |= QFileDialog.DontUseNativeDialog
         name = QtWidgets.QFileDialog.getSaveFileName(self, 'Save Program', "c:/AutoRaman/Programs", filter="Text files (*.txt)", options=options)[0]
-        print("test")
         txt=""
         for i in range(self.listWidget.count()):
             item=self.listWidget.item(i)
@@ -319,6 +321,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.listWidget.addItem(newitem)
 
     def addRamanCommand(self):
+        self.makeEnterFilename()
         newitem=QtWidgets.QListWidgetItem(None)
         newitem.setData(0, "Raman: "+self.ramanFilename.text())
         newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
@@ -326,7 +329,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     def addCircle(self):
         newitem=QtWidgets.QListWidgetItem(None)
-        data="Circle: x: {0}, y: {1}, rad: {:4.3f}, n: {3}, fname: {4}".format(self.coordinates[0], self.coordinates[1], 
+        self.makeEnterFilename()
+        data="Circle: x: {0}, y: {1}, rad: {2:4.3f}, n: {3}, fname: {4}".format(self.coordinates[0], self.coordinates[1], 
             self.radiusBox.value(), self.circlePointsBox.value(), self.ramanFilename.text())
         newitem.setData(0, data)
         newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
@@ -334,6 +338,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     def addMapping(self):
         newitem=QtWidgets.QListWidgetItem(None)
+        self.makeEnterFilename()
         data="Map: x1: {0}, y1: {1}, x2: {2}, y2: {3}, xres: {4:4.3f}, yres: {5:4.3f}, fname: {6}".format(self.mappoints[0][0], self.mappoints[0][1], 
             self.mappoints[1][0], self.mappoints[1][1], self.xresBox.value(), self.yresBox.value(), self.ramanFilename.text())
         newitem.setData(0, data)
