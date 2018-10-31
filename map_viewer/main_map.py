@@ -128,6 +128,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         pth = str(QFileDialog.getExistingDirectory(self, "Select Directory", "c:/AutoRaman/Mapping"))
         if len(pth)<2:
             return 
+        self.spectra=[]
         self.scan_for_spc(pth)
         if len(self.spectra) < 1:
             return
