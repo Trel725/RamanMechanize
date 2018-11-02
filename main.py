@@ -1,17 +1,20 @@
 # -*- coding: utf-8 -*- 
 
-import sys  
-from PyQt5 import QtWidgets, QtCore, QtGui
-from PyQt5.QtCore import Qt, QThread, QSettings, QEvent, pyqtSignal, pyqtSlot
-from PyQt5.QtWidgets import QFileDialog
+import sys
 import design  
 import platform
 import glob
-from SerialCommunicator import SerialCommunicator
-from CommandExecutor import CommandExecutor
 import time
 import serial
+  
+from PyQt5 import QtWidgets, QtCore, QtGui
+from PyQt5.QtCore import Qt, QThread, QSettings, QEvent, pyqtSignal, pyqtSlot
+from PyQt5.QtWidgets import QFileDialog
 
+
+from help import HelpWindow
+from SerialCommunicator import SerialCommunicator
+from CommandExecutor import CommandExecutor
 
 class JogSender(QThread):
 
@@ -129,6 +132,16 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         sys.stdout = self.logger
 
         self.mappoints=[[0,0],[0,0]]
+
+        self.help=HelpWindow()
+        self.actionUsage.triggered.connect(self.showHelp)
+        self.actionLicense.triggered.connect(self.showLicense)
+
+    def showHelp(self):
+        self.help.showHelp()
+
+    def showLicense(self):
+        self.help.showLincense()
 
     def makeEnterFilename(self):
         txt=self.ramanFilename.text()
