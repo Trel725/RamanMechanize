@@ -116,7 +116,8 @@ may be performed by pressing on the "STOP" button in the bottom. After that,
 re-homing may be necessary.</p>
     """
 
-    license="GNU GPL v3.0 \n Source code is available at https://github.com/Trel725/RamanMechanize"
+    license="""<h1>GNU GPL v3.0</h1> <br/> 
+    Source code is available at https://github.com/Trel725/RamanMechanize"""
 
 def main():
     app = QtWidgets.QApplication(sys.argv)  
