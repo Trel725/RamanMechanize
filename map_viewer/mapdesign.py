@@ -2,11 +2,12 @@
 
 # Form implementation generated from reading ui file './mapdesign.ui'
 #
-# Created by: PyQt5 UI code generator 5.11.3
+# Created by: PyQt5 UI code generator 5.12
 #
 # WARNING! All changes made in this file will be lost!
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -45,6 +46,14 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
         spacerItem = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.horizontalLayout_2.addItem(spacerItem)
+        self.TriangCheckBox = QtWidgets.QCheckBox(self.centralwidget)
+        self.TriangCheckBox.setObjectName("TriangCheckBox")
+        self.horizontalLayout_2.addWidget(self.TriangCheckBox)
+        self.TriangSpinBox = QtWidgets.QSpinBox(self.centralwidget)
+        self.TriangSpinBox.setMinimum(1)
+        self.TriangSpinBox.setMaximum(4)
+        self.TriangSpinBox.setObjectName("TriangSpinBox")
+        self.horizontalLayout_2.addWidget(self.TriangSpinBox)
         self.interpcheckBox = QtWidgets.QCheckBox(self.centralwidget)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Maximum, QtWidgets.QSizePolicy.Fixed)
         sizePolicy.setHorizontalStretch(0)
@@ -53,9 +62,6 @@ class Ui_MainWindow(object):
         self.interpcheckBox.setSizePolicy(sizePolicy)
         self.interpcheckBox.setObjectName("interpcheckBox")
         self.horizontalLayout_2.addWidget(self.interpcheckBox)
-        self.label_4 = QtWidgets.QLabel(self.centralwidget)
-        self.label_4.setObjectName("label_4")
-        self.horizontalLayout_2.addWidget(self.label_4)
         self.methodBox = QtWidgets.QComboBox(self.centralwidget)
         self.methodBox.setObjectName("methodBox")
         self.methodBox.addItem("")
@@ -106,7 +112,7 @@ class Ui_MainWindow(object):
         self.statusbar.setObjectName("statusbar")
         MainWindow.setStatusBar(self.statusbar)
         self.menuBar = QtWidgets.QMenuBar(MainWindow)
-        self.menuBar.setGeometry(QtCore.QRect(0, 0, 681, 23))
+        self.menuBar.setGeometry(QtCore.QRect(0, 0, 681, 22))
         self.menuBar.setObjectName("menuBar")
         self.menuFile = QtWidgets.QMenu(self.menuBar)
         self.menuFile.setObjectName("menuFile")
@@ -123,8 +129,8 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.label_3.setText(_translate("MainWindow", "ṽ, cm^-1"))
-        self.interpcheckBox.setText(_translate("MainWindow", "Interpolate"))
-        self.label_4.setText(_translate("MainWindow", "Method:"))
+        self.TriangCheckBox.setText(_translate("MainWindow", "Triangulate:"))
+        self.interpcheckBox.setText(_translate("MainWindow", "Interpolate:"))
         self.methodBox.setItemText(0, _translate("MainWindow", "Clough-Tocher"))
         self.methodBox.setItemText(1, _translate("MainWindow", "Spline"))
         self.label.setText(_translate("MainWindow", "Step:"))
@@ -132,4 +138,5 @@ class Ui_MainWindow(object):
         self.label_5.setText(_translate("MainWindow", "Smooth:"))
         self.menuFile.setTitle(_translate("MainWindow", "Fi&le"))
         self.actionOpen_Folder.setText(_translate("MainWindow", "&Open Folder"))
+
 
