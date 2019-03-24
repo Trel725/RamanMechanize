@@ -2,7 +2,6 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
 
 
-
 class HelpWindow(QtWidgets.QMainWindow):
     def __init__(self, parent=None):
         super(HelpWindow, self).__init__(parent)
@@ -36,7 +35,7 @@ class HelpWindow(QtWidgets.QMainWindow):
         _translate = QtCore.QCoreApplication.translate
         HelpWindow.setWindowTitle(_translate("HelpWindow", "HelpWindow"))
 
-    hlp="""
+    hlp = """
  <h1 id="steppercontrol">Stepper Control</h1>
 
 <p>This program is written to bring the capability of automated positioning and
@@ -116,14 +115,16 @@ may be performed by pressing on the "STOP" button in the bottom. After that,
 re-homing may be necessary.</p>
     """
 
-    license="""<h1>GNU GPL v3.0</h1> <br/> 
+    license = """<h1>GNU GPL v3.0</h1> <br/> 
     Source code is available at https://github.com/Trel725/RamanMechanize"""
 
-def main():
-    app = QtWidgets.QApplication(sys.argv)  
-    window = HelpWindow()  
-    window.show()  
-    app.exec_()  
 
-if __name__ == '__main__':  
-    main()  
+def main():
+    app = QtWidgets.QApplication(sys.argv)
+    window = HelpWindow()
+    window.show()
+    app.exec_()
+
+
+if __name__ == '__main__':
+    main()
