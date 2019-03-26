@@ -75,9 +75,12 @@ class SerialCommunicator(object):
 
     def get_status(self):
         if not self.busy:
+            #self.ser.reset_input_buffer()
+            self.verifyBuffer()
             status, coord, fs = None, None, None
             keys = ['status', 'coordinates', 'fs']
             self.ser.write('?'.encode())
+            time.sleep(0.1)
             try:
                 resp = self.ser.read(size=self.ser.in_waiting).decode()
             except Exception as e:
@@ -85,7 +88,7 @@ class SerialCommunicator(object):
                 print(str(e))
                 return None
             # print(resp)
-            self.verifyBuffer(resp)
+            
             resp = resp[resp.find("<") + 1:resp.find(">")]
             if len(resp) > 0:
                 try:
@@ -109,7 +112,8 @@ class SerialCommunicator(object):
             else:
                 return None
 
-    def verifyBuffer(self, buf):
+    def verifyBuffer(self):
+        buf=self.ser.read(self.ser.in_waiting).decode()
         idx = buf.find("ALARM")
         if idx > -1:
             self.alarm = buf[idx + 6:idx + 7]

@@ -398,6 +398,10 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         else:
             QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
 
+    @pyqtSlot(int)
+    def onrowChange(self, value):
+        item=self.listWidget.item(value)
+        self.listWidget.setCurrentItem(item)
 
 def main():
     app = QtWidgets.QApplication(sys.argv)
