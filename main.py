@@ -4,6 +4,7 @@ import platform
 import glob
 import time
 import serial
+import os
 from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtCore import Qt, QThread, QSettings, pyqtSignal, pyqtSlot
 from PyQt5.QtWidgets import QFileDialog, QMessageBox
@@ -12,6 +13,8 @@ from help import HelpWindow
 from SerialCommunicator import SerialCommunicator
 from CommandExecutor import CommandExecutor
 from math import *
+
+import datetime
 
 
 class JogSender(QThread):
@@ -57,9 +60,14 @@ class Logger(QtCore.QObject):
     def __init__(self):
         super().__init__()
         self.terminal = sys.stdout
+        log_folder = r"C:/RamanMechanize/Logs"
+        timestamp = datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
+        log_filename = "raman_controller_{}.log".format(timestamp)
+        self.log_path = os.path.join(log_folder, log_filename)
 
     def write(self, message):
         self.writeData.emit(message)
+        print(message, file=log_filename)
 
     def flush(self):
         pass
@@ -400,8 +408,9 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     @pyqtSlot(int)
     def onrowChange(self, value):
-        item=self.listWidget.item(value)
+        item = self.listWidget.item(value)
         self.listWidget.setCurrentItem(item)
+
 
 def main():
     app = QtWidgets.QApplication(sys.argv)
