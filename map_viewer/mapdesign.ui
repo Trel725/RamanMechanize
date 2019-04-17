@@ -201,7 +201,7 @@
      <x>0</x>
      <y>0</y>
      <width>681</width>
-     <height>22</height>
+     <height>21</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
@@ -209,12 +209,18 @@
      <string>Fi&amp;le</string>
     </property>
     <addaction name="actionOpen_Folder"/>
+    <addaction name="actionExport_to_Gwyddion"/>
    </widget>
    <addaction name="menuFile"/>
   </widget>
   <action name="actionOpen_Folder">
    <property name="text">
     <string>&amp;Open Folder</string>
+   </property>
+  </action>
+  <action name="actionExport_to_Gwyddion">
+   <property name="text">
+    <string>Export to Gwyddion</string>
    </property>
   </action>
  </widget>

@@ -15,6 +15,7 @@ from matplotlib.figure import Figure
 from matplotlib import cm
 
 from scipy.interpolate import griddata, bisplrep, bisplev
+from gwyfile.objects import GwyContainer, GwyDataField
 
 
 class PlotCanvas(FigureCanvas):
@@ -40,6 +41,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         self.setupUi(self)
         self.directory = None
         self.actionOpen_Folder.triggered.connect(self.get_directory)
+        self.actionExport_to_Gwyddion.triggered.connect(self.export_gwyddion)
         self.spectra = []
         self.dxSpinBox.setValue(0.1)
         self.pltWidget = PlotCanvas(self, width=5, height=5)
@@ -61,6 +63,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         self.freqEdit.setValidator(val)
         self.method = "CT"
         self.triangulate = False
+        self.zdata=None
 
     def method_box_handler(self):
         if self.methodBox.currentText() == "Spline":
@@ -105,6 +108,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
             if len(znew.shape) < 2:
                 znew = znew.reshape(ynew.shape[0], xnew.shape[0]).T
             im = self.pltWidget.ax.pcolormesh(xnew, ynew, znew.T)
+            self.zdata=znew
             self.cb = self.pltWidget.fig.colorbar(im)
             self.pltWidget.draw()
             self.freqEdit.setText(str(value))
@@ -156,6 +160,20 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         self.slider.setMinimum(datax.min())
         self.slider.setMaximum(datax.max())
         self.plot(1000)
+
+    def export_gwyddion(self):
+        obj = GwyContainer()
+        if self.zdata is not None:
+            obj['/0/data'] = GwyDataField(np.flipud(self.zdata))
+        else:
+            QtWidgets.QMessageBox.warning(self, "Warning", "Data need to be on a grid. Please interpolate firstly")
+            return
+        pth = str(QFileDialog.getSaveFileName(self, 'Export to', filter="Gwyddion files (*.gwy)",)[0])
+        if pth[-4:] != ".gwy":
+            pth+=".gwy"
+        print(pth)
+
+        obj.tofile(pth)
 
     def scan_for_spc(self, pth):
         counter = 0

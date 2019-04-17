@@ -2,12 +2,11 @@
 
 # Form implementation generated from reading ui file './mapdesign.ui'
 #
-# Created by: PyQt5 UI code generator 5.12
+# Created by: PyQt5 UI code generator 5.11.3
 #
 # WARNING! All changes made in this file will be lost!
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -112,14 +111,17 @@ class Ui_MainWindow(object):
         self.statusbar.setObjectName("statusbar")
         MainWindow.setStatusBar(self.statusbar)
         self.menuBar = QtWidgets.QMenuBar(MainWindow)
-        self.menuBar.setGeometry(QtCore.QRect(0, 0, 681, 22))
+        self.menuBar.setGeometry(QtCore.QRect(0, 0, 681, 21))
         self.menuBar.setObjectName("menuBar")
         self.menuFile = QtWidgets.QMenu(self.menuBar)
         self.menuFile.setObjectName("menuFile")
         MainWindow.setMenuBar(self.menuBar)
         self.actionOpen_Folder = QtWidgets.QAction(MainWindow)
         self.actionOpen_Folder.setObjectName("actionOpen_Folder")
+        self.actionExport_to_Gwyddion = QtWidgets.QAction(MainWindow)
+        self.actionExport_to_Gwyddion.setObjectName("actionExport_to_Gwyddion")
         self.menuFile.addAction(self.actionOpen_Folder)
+        self.menuFile.addAction(self.actionExport_to_Gwyddion)
         self.menuBar.addAction(self.menuFile.menuAction())
 
         self.retranslateUi(MainWindow)
@@ -138,5 +140,5 @@ class Ui_MainWindow(object):
         self.label_5.setText(_translate("MainWindow", "Smooth:"))
         self.menuFile.setTitle(_translate("MainWindow", "Fi&le"))
         self.actionOpen_Folder.setText(_translate("MainWindow", "&Open Folder"))
-
+        self.actionExport_to_Gwyddion.setText(_translate("MainWindow", "Export to Gwyddion"))
 

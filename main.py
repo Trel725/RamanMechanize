@@ -67,7 +67,11 @@ class Logger(QtCore.QObject):
 
     def write(self, message):
         self.writeData.emit(message)
-        print(message, file=log_filename)
+        timestamp = datetime.datetime.now().strftime("%d.%m %H:%M:%S ")
+        if len(message) < 5:
+        	timestamp = ""
+        with open(self.log_path, "a+") as f:
+        	f.write(timestamp + message)
 
     def flush(self):
         pass
