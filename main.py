@@ -336,7 +336,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     def goZero(self):
         if self.sc is not None:
-            self.sc.sendCommand("G0X-28Y-38Z0", block=False)
+            self.sc.sendCommand("G0X0Y0Z0", block=False)
 
     def addCurrentPosition(self):
         newitem = QtWidgets.QListWidgetItem(None)
