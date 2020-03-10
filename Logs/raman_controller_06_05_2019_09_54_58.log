@@ -1,8 +1,0 @@
-06.05 09:55:00 Initializing grbl...
-06.05 09:55:01 Got the response: b''
-06.05 10:13:42 Row 0: 06.05 10:13:42 Goto: -28.000; -38.000; 0.000
-06.05 10:13:42 Going to coordinates X=-28.000, Y=-38.000
-06.05 10:13:42 Moving is finished
-06.05 10:13:43 Row 1: 06.05 10:13:43 Goto: -48.000; -58.000; 0.000
-06.05 10:13:43 Going to coordinates X=-48.000, Y=-58.000
-06.05 10:13:50 Stopped!

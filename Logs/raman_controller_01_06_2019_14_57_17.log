@@ -1,7 +1,0 @@
-01.06 14:57:19 Initializing grbl...
-01.06 14:57:20 Got the response: b''
-01.06 14:59:27 Can't send the command to GRBL
-01.06 14:59:27 Write timeout01.06 14:59:27 Write timeout
-01.06 15:45:59 Row 0: 01.06 15:45:59 Map: x1: -32.185, y1: -36.856, x2: -31.566, y2: -36.866, xres: 0.010, yres: 0.010, fname: vemnh2
-01.06 15:45:59 Scanning 0 point from 126
-01.06 15:45:59 Going to coordinates X=-32.185, Y=-36.866

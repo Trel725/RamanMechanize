@@ -1,8 +1,0 @@
-23.12 12:35:20 Initializing grbl...
-23.12 12:35:21 Got the response: b''
-23.12 12:36:14 Row 0: 23.12 12:36:14 Map: x1: -14.293, y1: -37.467, x2: -14.0, y2: -38.0, xres: 0.100, yres: 0.100, fname: erger
-23.12 12:36:14 Scanning 0 point from 28
-23.12 12:36:18 Going to coordinates X=-14.293, Y=-38.000
-23.12 12:36:22 Moving is finished
-23.12 12:36:27 Scanning 1 point from 28
-23.12 12:36:27 Going to coordinates X=-14.193, Y=-38.000

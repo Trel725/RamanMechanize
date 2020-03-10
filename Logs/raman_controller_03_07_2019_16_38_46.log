@@ -1,9 +1,0 @@
-03.07 16:38:47 Initializing grbl...
-03.07 16:38:48 Got the response: b''
-03.07 16:44:12 Can't send the command to GRBL
-03.07 16:44:12 Write timeout03.07 16:44:12 Write timeout
-03.07 17:10:52 Can't send the command to GRBL
-03.07 17:10:52 Write timeout03.07 17:10:52 Write timeout
-03.07 17:32:17 Row 0: 03.07 17:32:17 Goto: -30.693; -38.804; 0.000
-03.07 17:32:17 Going to coordinates X=-30.693, Y=-38.804
-03.07 17:32:19 Moving is finished
