@@ -1,0 +1,36 @@
+10.06 11:55:36 Initializing grbl...
+10.06 11:55:37 Got the response: b''
+10.06 11:57:11 Row 0: 10.06 11:57:11 Goto: -27.980; -38.371; 0.000
+10.06 11:57:11 Going to coordinates X=-27.980, Y=-38.371
+10.06 11:57:11 Moving is finished
+10.06 11:57:12 Row 1: 10.06 11:57:12 Raman: AAC mod
+10.06 11:57:12 Starting signal collection to the file AAC mod
+10.06 11:59:22 Data is collected!
+10.06 11:59:22 Row 2: 10.06 11:59:22 Goto: -27.898; -38.433; 0.000
+10.06 11:59:22 Going to coordinates X=-27.898, Y=-38.433
+10.06 11:59:22 Moving is finished
+10.06 11:59:23 Row 3: 10.06 11:59:23 Raman: AAC mod
+10.06 11:59:23 Starting signal collection to the file AAC mod
+
+10.06 11:59:25 Data is collected!
+10.06 11:59:25 Row 4: 10.06 11:59:25 Goto: -27.815; -38.515; 0.000
+10.06 11:59:25 Going to coordinates X=-27.815, Y=-38.515
+10.06 11:59:25 Moving is finished
+10.06 11:59:26 Row 5: 10.06 11:59:26 Raman: AAC mod
+10.06 11:59:26 Starting signal collection to the file AAC mod
+
+10.06 11:59:28 Data is collected!
+10.06 11:59:28 Row 6: 10.06 11:59:28 Goto: -28.210; -38.495; 0.000
+10.06 11:59:28 Going to coordinates X=-28.210, Y=-38.495
+10.06 11:59:28 Moving is finished
+10.06 11:59:29 Row 7: 10.06 11:59:29 Raman: AAC mod
+10.06 11:59:29 Starting signal collection to the file AAC mod
+
+10.06 11:59:31 Data is collected!
+10.06 11:59:31 Row 8: 10.06 11:59:31 Goto: -28.210; -38.330; 0.000
+10.06 11:59:31 Going to coordinates X=-28.210, Y=-38.330
+10.06 11:59:31 Moving is finished
+10.06 11:59:32 Row 9: 10.06 11:59:32 Raman: AAC mod
+10.06 11:59:32 Starting signal collection to the file AAC mod
+
+10.06 11:59:34 Data is collected!

@@ -1,0 +1,260 @@
+25.04 13:21:56 Initializing grbl...
+25.04 13:21:57 Got the response: b''
+25.04 13:23:28 Row 0: 25.04 13:23:28 Map: x1: -28.0, y1: -38.0, x2: -27.79, y2: -38.155, xres: 0.050, yres: 0.050, fname: mellpnh2bez
+25.04 13:23:28 Scanning 0 point from 30
+25.04 13:23:28 Going to coordinates X=-28.000, Y=-38.155
+25.04 13:23:29 Moving is finished
+25.04 13:25:06 Scanning 1 point from 30
+25.04 13:25:06 Going to coordinates X=-27.950, Y=-38.155
+25.04 13:25:06 Moving is finished
+25.04 13:26:44 Scanning 2 point from 30
+25.04 13:26:44 Going to coordinates X=-27.900, Y=-38.155
+25.04 13:26:44 Moving is finished
+25.04 13:28:21 Scanning 3 point from 30
+25.04 13:28:21 Going to coordinates X=-27.850, Y=-38.155
+25.04 13:28:21 Moving is finished
+25.04 13:29:57 Scanning 4 point from 30
+25.04 13:29:57 Going to coordinates X=-27.800, Y=-38.155
+25.04 13:29:57 Moving is finished
+25.04 13:31:34 Scanning 5 point from 30
+25.04 13:31:34 Going to coordinates X=-27.750, Y=-38.155
+25.04 13:31:34 Moving is finished
+25.04 13:33:11 Scanning 6 point from 30
+25.04 13:33:11 Going to coordinates X=-28.000, Y=-38.105
+25.04 13:33:12 Moving is finished
+25.04 13:34:48 Scanning 7 point from 30
+25.04 13:34:48 Going to coordinates X=-27.950, Y=-38.105
+25.04 13:34:48 Moving is finished
+25.04 13:36:25 Scanning 8 point from 30
+25.04 13:36:25 Going to coordinates X=-27.900, Y=-38.105
+25.04 13:36:25 Moving is finished
+25.04 13:38:02 Scanning 9 point from 30
+25.04 13:38:02 Going to coordinates X=-27.850, Y=-38.105
+25.04 13:38:02 Moving is finished
+25.04 13:39:39 Scanning 10 point from 30
+25.04 13:39:39 Going to coordinates X=-27.800, Y=-38.105
+25.04 13:39:39 Moving is finished
+25.04 13:41:16 Scanning 11 point from 30
+25.04 13:41:16 Going to coordinates X=-27.750, Y=-38.105
+25.04 13:41:16 Moving is finished
+25.04 13:42:53 Scanning 12 point from 30
+25.04 13:42:53 Going to coordinates X=-28.000, Y=-38.055
+25.04 13:42:53 Moving is finished
+25.04 13:44:30 Scanning 13 point from 30
+25.04 13:44:30 Going to coordinates X=-27.950, Y=-38.055
+25.04 13:44:30 Moving is finished
+25.04 13:46:06 Scanning 14 point from 30
+25.04 13:46:06 Going to coordinates X=-27.900, Y=-38.055
+25.04 13:46:06 Moving is finished
+25.04 13:47:43 Scanning 15 point from 30
+25.04 13:47:43 Going to coordinates X=-27.850, Y=-38.055
+25.04 13:47:43 Moving is finished
+25.04 13:49:20 Scanning 16 point from 30
+25.04 13:49:20 Going to coordinates X=-27.800, Y=-38.055
+25.04 13:49:20 Moving is finished
+25.04 13:50:56 Scanning 17 point from 30
+25.04 13:50:56 Going to coordinates X=-27.750, Y=-38.055
+25.04 13:50:57 Moving is finished
+25.04 13:52:33 Scanning 18 point from 30
+25.04 13:52:33 Going to coordinates X=-28.000, Y=-38.005
+25.04 13:52:34 Moving is finished
+25.04 13:54:10 Scanning 19 point from 30
+25.04 13:54:10 Going to coordinates X=-27.950, Y=-38.005
+25.04 13:54:10 Moving is finished
+25.04 13:55:47 Scanning 20 point from 30
+25.04 13:55:47 Going to coordinates X=-27.900, Y=-38.005
+25.04 13:55:47 Moving is finished
+25.04 13:57:23 Scanning 21 point from 30
+25.04 13:57:23 Going to coordinates X=-27.850, Y=-38.005
+25.04 13:57:24 Moving is finished
+25.04 13:59:01 Scanning 22 point from 30
+25.04 13:59:01 Going to coordinates X=-27.800, Y=-38.005
+25.04 13:59:01 Moving is finished
+25.04 14:00:38 Scanning 23 point from 30
+25.04 14:00:38 Going to coordinates X=-27.750, Y=-38.005
+25.04 14:00:38 Moving is finished
+25.04 14:01:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:01:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:01:21 Scanning 24 point from 30
+25.04 14:01:21 Going to coordinates X=-28.000, Y=-37.955
+25.04 14:01:22 Moving is finished
+25.04 14:01:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:01:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:01:33 Scanning 25 point from 30
+25.04 14:01:33 Going to coordinates X=-27.950, Y=-37.955
+25.04 14:01:33 Moving is finished
+25.04 14:02:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:16 Scanning 26 point from 30
+25.04 14:02:16 Going to coordinates X=-27.900, Y=-37.955
+25.04 14:02:17 Moving is finished
+25.04 14:02:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:28 Scanning 27 point from 30
+25.04 14:02:28 Going to coordinates X=-27.850, Y=-37.955
+25.04 14:02:28 Moving is finished
+25.04 14:02:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:39 Scanning 28 point from 30
+25.04 14:02:39 Going to coordinates X=-27.800, Y=-37.955
+25.04 14:02:39 Moving is finished
+25.04 14:02:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:02:51 Scanning 29 point from 30
+25.04 14:02:51 Going to coordinates X=-27.750, Y=-37.955
+25.04 14:02:51 Moving is finished
+25.04 14:02:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+25.04 14:03:03 Row 1: 25.04 14:03:03 Map: x1: -27.517, y1: -38.01, x2: -27.156, y2: -37.835, xres: 0.050, yres: 0.050, fname: mellpnh2bez
+25.04 14:03:03 Scanning 0 point from 45
+25.04 14:03:03 Going to coordinates X=-27.517, Y=-38.010
+25.04 14:03:04 Moving is finished
+25.04 14:04:40 Scanning 1 point from 45
+25.04 14:04:40 Going to coordinates X=-27.467, Y=-38.010
+25.04 14:04:40 Moving is finished
+25.04 14:06:17 Scanning 2 point from 45
+25.04 14:06:17 Going to coordinates X=-27.417, Y=-38.010
+25.04 14:06:17 Moving is finished
+25.04 14:07:54 Scanning 3 point from 45
+25.04 14:07:54 Going to coordinates X=-27.367, Y=-38.010
+25.04 14:07:54 Moving is finished
+25.04 14:09:30 Scanning 4 point from 45
+25.04 14:09:30 Going to coordinates X=-27.317, Y=-38.010
+25.04 14:09:31 Moving is finished
+25.04 14:11:07 Scanning 5 point from 45
+25.04 14:11:07 Going to coordinates X=-27.267, Y=-38.010
+25.04 14:11:07 Moving is finished
+25.04 14:12:44 Scanning 6 point from 45
+25.04 14:12:44 Going to coordinates X=-27.217, Y=-38.010
+25.04 14:12:44 Moving is finished
+25.04 14:14:21 Scanning 7 point from 45
+25.04 14:14:21 Going to coordinates X=-27.167, Y=-38.010
+25.04 14:14:21 Moving is finished
+25.04 14:15:58 Scanning 8 point from 45
+25.04 14:15:58 Going to coordinates X=-27.117, Y=-38.010
+25.04 14:15:58 Moving is finished
+25.04 14:17:34 Scanning 9 point from 45
+25.04 14:17:34 Going to coordinates X=-27.517, Y=-37.960
+25.04 14:17:35 Moving is finished
+25.04 14:19:11 Scanning 10 point from 45
+25.04 14:19:11 Going to coordinates X=-27.467, Y=-37.960
+25.04 14:19:11 Moving is finished
+25.04 14:20:48 Scanning 11 point from 45
+25.04 14:20:48 Going to coordinates X=-27.417, Y=-37.960
+25.04 14:20:48 Moving is finished
+25.04 14:22:24 Scanning 12 point from 45
+25.04 14:22:24 Going to coordinates X=-27.367, Y=-37.960
+25.04 14:22:25 Moving is finished
+25.04 14:24:01 Scanning 13 point from 45
+25.04 14:24:01 Going to coordinates X=-27.317, Y=-37.960
+25.04 14:24:01 Moving is finished
+25.04 14:25:38 Scanning 14 point from 45
+25.04 14:25:38 Going to coordinates X=-27.267, Y=-37.960
+25.04 14:25:38 Moving is finished
+25.04 14:27:15 Scanning 15 point from 45
+25.04 14:27:15 Going to coordinates X=-27.217, Y=-37.960
+25.04 14:27:15 Moving is finished
+25.04 14:28:51 Scanning 16 point from 45
+25.04 14:28:51 Going to coordinates X=-27.167, Y=-37.960
+25.04 14:28:51 Moving is finished
+25.04 14:30:28 Scanning 17 point from 45
+25.04 14:30:28 Going to coordinates X=-27.117, Y=-37.960
+25.04 14:30:28 Moving is finished
+25.04 14:31:12 Stopped!
+25.04 14:43:02 Row 0: 25.04 14:43:02 Map: x1: -27.044, y1: -37.959, x2: -27.415, y2: -38.134, xres: 0.050, yres: 0.050, fname: mellpnh2bez
+25.04 14:43:02 Scanning 0 point from 45
+25.04 14:43:02 Going to coordinates X=-27.415, Y=-38.134
+25.04 14:43:02 Moving is finished
+25.04 14:44:38 Scanning 1 point from 45
+25.04 14:44:38 Going to coordinates X=-27.365, Y=-38.134
+25.04 14:44:39 Moving is finished
+25.04 14:46:15 Scanning 2 point from 45
+25.04 14:46:15 Going to coordinates X=-27.315, Y=-38.134
+25.04 14:46:15 Moving is finished
+25.04 14:47:52 Scanning 3 point from 45
+25.04 14:47:52 Going to coordinates X=-27.265, Y=-38.134
+25.04 14:47:52 Moving is finished
+25.04 14:49:29 Scanning 4 point from 45
+25.04 14:49:29 Going to coordinates X=-27.215, Y=-38.134
+25.04 14:49:29 Moving is finished
+25.04 14:51:06 Scanning 5 point from 45
+25.04 14:51:06 Going to coordinates X=-27.165, Y=-38.134
+25.04 14:51:06 Moving is finished
+25.04 14:52:43 Scanning 6 point from 45
+25.04 14:52:43 Going to coordinates X=-27.115, Y=-38.134
+25.04 14:52:43 Moving is finished
+25.04 14:54:22 Scanning 7 point from 45
+25.04 14:54:22 Going to coordinates X=-27.065, Y=-38.134
+25.04 14:54:22 Moving is finished
+25.04 14:55:59 Scanning 8 point from 45
+25.04 14:55:59 Going to coordinates X=-27.015, Y=-38.134
+25.04 14:55:59 Moving is finished
+25.04 14:57:36 Scanning 9 point from 45
+25.04 14:57:36 Going to coordinates X=-27.415, Y=-38.084
+25.04 14:57:37 Moving is finished
+25.04 14:59:14 Scanning 10 point from 45
+25.04 14:59:14 Going to coordinates X=-27.365, Y=-38.084
+25.04 14:59:14 Moving is finished
+25.04 15:00:51 Scanning 11 point from 45
+25.04 15:00:51 Going to coordinates X=-27.315, Y=-38.084
+25.04 15:00:51 Moving is finished
+25.04 15:02:28 Scanning 12 point from 45
+25.04 15:02:28 Going to coordinates X=-27.265, Y=-38.084
+25.04 15:02:28 Moving is finished
+25.04 15:04:06 Scanning 13 point from 45
+25.04 15:04:06 Going to coordinates X=-27.215, Y=-38.084
+25.04 15:04:06 Moving is finished
+25.04 15:05:43 Scanning 14 point from 45
+25.04 15:05:43 Going to coordinates X=-27.165, Y=-38.084
+25.04 15:05:43 Moving is finished
+25.04 15:07:20 Scanning 15 point from 45
+25.04 15:07:20 Going to coordinates X=-27.115, Y=-38.084
+25.04 15:07:20 Moving is finished
+25.04 15:08:56 Scanning 16 point from 45
+25.04 15:08:56 Going to coordinates X=-27.065, Y=-38.084
+25.04 15:08:56 Moving is finished
+25.04 15:10:33 Scanning 17 point from 45
+25.04 15:10:33 Going to coordinates X=-27.015, Y=-38.084
+25.04 15:10:34 Moving is finished
+25.04 15:12:10 Scanning 18 point from 45
+25.04 15:12:10 Going to coordinates X=-27.415, Y=-38.034
+25.04 15:12:11 Moving is finished
+25.04 15:13:47 Scanning 19 point from 45
+25.04 15:13:47 Going to coordinates X=-27.365, Y=-38.034
+25.04 15:13:47 Moving is finished
+25.04 15:15:25 Scanning 20 point from 45
+25.04 15:15:25 Going to coordinates X=-27.315, Y=-38.034
+25.04 15:15:25 Moving is finished
+25.04 15:17:02 Scanning 21 point from 45
+25.04 15:17:02 Going to coordinates X=-27.265, Y=-38.034
+25.04 15:17:02 Moving is finished
+25.04 15:18:38 Scanning 22 point from 45
+25.04 15:18:38 Going to coordinates X=-27.215, Y=-38.034
+25.04 15:18:38 Moving is finished
+25.04 15:20:15 Scanning 23 point from 45
+25.04 15:20:15 Going to coordinates X=-27.165, Y=-38.034
+25.04 15:20:15 Moving is finished
+25.04 15:21:52 Scanning 24 point from 45
+25.04 15:21:52 Going to coordinates X=-27.115, Y=-38.034
+25.04 15:21:52 Moving is finished
+25.04 15:23:28 Scanning 25 point from 45
+25.04 15:23:28 Going to coordinates X=-27.065, Y=-38.034
+25.04 15:23:29 Moving is finished
+25.04 15:25:05 Scanning 26 point from 45
+25.04 15:25:05 Going to coordinates X=-27.015, Y=-38.034
+25.04 15:25:05 Moving is finished
+25.04 15:26:42 Scanning 27 point from 45
+25.04 15:26:42 Going to coordinates X=-27.415, Y=-37.984
+25.04 15:26:42 Moving is finished
+25.04 15:28:19 Scanning 28 point from 45
+25.04 15:28:19 Going to coordinates X=-27.365, Y=-37.984
+25.04 15:28:19 Moving is finished
+25.04 15:29:55 Scanning 29 point from 45
+25.04 15:29:55 Going to coordinates X=-27.315, Y=-37.984
+25.04 15:29:56 Moving is finished
+25.04 15:30:43 Stopped!
+25.04 15:38:24 Can't send the command to GRBL
+25.04 15:38:24 Write timeout25.04 15:38:24 Write timeout
+
+25.04 15:58:35 Can't send the command to GRBL
+25.04 15:58:35 Write timeout25.04 15:58:35 Write timeout
+

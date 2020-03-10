@@ -1,0 +1,623 @@
+24.12 11:03:58 Initializing grbl...
+24.12 11:03:59 Got the response: b''
+24.12 11:05:02 Focused at  1
+24.12 11:05:09 Focused at  139
+24.12 11:05:20 Focused at  6
+24.12 11:06:10 Row 0: 24.12 11:06:10 Map: x1: -19.966, y1: -37.692, x2: -21.322, y2: -36.903, xres: 0.070, yres: 0.100, fname: Mart gluc-Sol3 C
+24.12 11:06:10 Scanning 0 point from 189
+24.12 11:06:14 Going to coordinates X=-21.322, Y=-37.692
+24.12 11:06:15 Moving is finished
+24.12 11:08:23 Scanning 1 point from 189
+24.12 11:08:23 Going to coordinates X=-21.252, Y=-37.692
+24.12 11:08:24 Moving is finished
+24.12 11:10:32 Scanning 2 point from 189
+24.12 11:10:32 Going to coordinates X=-21.182, Y=-37.692
+24.12 11:10:32 Moving is finished
+24.12 11:12:41 Scanning 3 point from 189
+24.12 11:12:41 Going to coordinates X=-21.112, Y=-37.692
+24.12 11:12:41 Moving is finished
+24.12 11:14:49 Scanning 4 point from 189
+24.12 11:14:49 Going to coordinates X=-21.042, Y=-37.692
+24.12 11:14:49 Moving is finished
+24.12 11:16:57 Scanning 5 point from 189
+24.12 11:16:57 Going to coordinates X=-20.972, Y=-37.692
+24.12 11:16:58 Moving is finished
+24.12 11:19:06 Scanning 6 point from 189
+24.12 11:19:06 Going to coordinates X=-20.902, Y=-37.692
+24.12 11:19:06 Moving is finished
+24.12 11:21:15 Scanning 7 point from 189
+24.12 11:21:15 Going to coordinates X=-20.832, Y=-37.692
+24.12 11:21:15 Moving is finished
+24.12 11:23:23 Scanning 8 point from 189
+24.12 11:23:23 Going to coordinates X=-20.762, Y=-37.692
+24.12 11:23:23 Moving is finished
+24.12 11:25:32 Scanning 9 point from 189
+24.12 11:25:32 Going to coordinates X=-20.692, Y=-37.692
+24.12 11:25:32 Moving is finished
+24.12 11:27:40 Scanning 10 point from 189
+24.12 11:27:44 Going to coordinates X=-20.622, Y=-37.692
+24.12 11:27:44 Moving is finished
+24.12 11:29:52 Scanning 11 point from 189
+24.12 11:29:52 Going to coordinates X=-20.552, Y=-37.692
+24.12 11:29:52 Moving is finished
+24.12 11:32:01 Scanning 12 point from 189
+24.12 11:32:01 Going to coordinates X=-20.482, Y=-37.692
+24.12 11:32:02 Moving is finished
+24.12 11:34:09 Scanning 13 point from 189
+24.12 11:34:09 Going to coordinates X=-20.412, Y=-37.692
+24.12 11:34:10 Moving is finished
+24.12 11:36:18 Scanning 14 point from 189
+24.12 11:36:18 Going to coordinates X=-20.342, Y=-37.692
+24.12 11:36:18 Moving is finished
+24.12 11:38:27 Scanning 15 point from 189
+24.12 11:38:27 Going to coordinates X=-20.272, Y=-37.692
+24.12 11:38:27 Moving is finished
+24.12 11:40:35 Scanning 16 point from 189
+24.12 11:40:35 Going to coordinates X=-20.202, Y=-37.692
+24.12 11:40:35 Moving is finished
+24.12 11:42:44 Scanning 17 point from 189
+24.12 11:42:44 Going to coordinates X=-20.132, Y=-37.692
+24.12 11:42:44 Moving is finished
+24.12 11:44:52 Scanning 18 point from 189
+24.12 11:44:52 Going to coordinates X=-20.062, Y=-37.692
+24.12 11:44:52 Moving is finished
+24.12 11:47:01 Scanning 19 point from 189
+24.12 11:47:01 Going to coordinates X=-19.992, Y=-37.692
+24.12 11:47:01 Moving is finished
+24.12 11:49:10 Scanning 20 point from 189
+24.12 11:49:13 Going to coordinates X=-19.922, Y=-37.692
+24.12 11:49:13 Moving is finished
+24.12 11:51:22 Scanning 21 point from 189
+24.12 11:51:22 Going to coordinates X=-21.322, Y=-37.592
+24.12 11:51:23 Moving is finished
+24.12 11:53:32 Scanning 22 point from 189
+24.12 11:53:32 Going to coordinates X=-21.252, Y=-37.592
+24.12 11:53:32 Moving is finished
+24.12 11:55:40 Scanning 23 point from 189
+24.12 11:55:40 Going to coordinates X=-21.182, Y=-37.592
+24.12 11:55:40 Moving is finished
+24.12 11:57:48 Scanning 24 point from 189
+24.12 11:57:48 Going to coordinates X=-21.112, Y=-37.592
+24.12 11:57:48 Moving is finished
+24.12 11:59:57 Scanning 25 point from 189
+24.12 11:59:57 Going to coordinates X=-21.042, Y=-37.592
+24.12 11:59:57 Moving is finished
+24.12 12:02:06 Scanning 26 point from 189
+24.12 12:02:06 Going to coordinates X=-20.972, Y=-37.592
+24.12 12:02:06 Moving is finished
+24.12 12:04:14 Scanning 27 point from 189
+24.12 12:04:14 Going to coordinates X=-20.902, Y=-37.592
+24.12 12:04:14 Moving is finished
+24.12 12:06:23 Scanning 28 point from 189
+24.12 12:06:23 Going to coordinates X=-20.832, Y=-37.592
+24.12 12:06:23 Moving is finished
+24.12 12:08:31 Scanning 29 point from 189
+24.12 12:08:31 Going to coordinates X=-20.762, Y=-37.592
+24.12 12:08:32 Moving is finished
+24.12 12:10:40 Scanning 30 point from 189
+24.12 12:10:43 Going to coordinates X=-20.692, Y=-37.592
+24.12 12:10:44 Moving is finished
+24.12 12:12:52 Scanning 31 point from 189
+24.12 12:12:52 Going to coordinates X=-20.622, Y=-37.592
+24.12 12:12:52 Moving is finished
+24.12 12:14:59 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+24.12 12:15:00 Scanning 32 point from 189
+24.12 12:15:00 Going to coordinates X=-20.552, Y=-37.592
+24.12 12:15:00 Moving is finished
+24.12 12:17:08 Scanning 33 point from 189
+24.12 12:17:08 Going to coordinates X=-20.482, Y=-37.592
+24.12 12:17:08 Moving is finished
+24.12 12:17:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:17:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:17:31 Scanning 34 point from 189
+24.12 12:17:31 Going to coordinates X=-20.412, Y=-37.592
+24.12 12:17:32 Moving is finished
+24.12 12:17:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:17:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:17:44 Scanning 35 point from 189
+24.12 12:17:44 Going to coordinates X=-20.342, Y=-37.592
+24.12 12:17:44 Moving is finished
+24.12 12:17:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:17:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:17:58 Scanning 36 point from 189
+24.12 12:17:58 Going to coordinates X=-20.272, Y=-37.592
+24.12 12:17:58 Moving is finished
+24.12 12:18:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:10 Scanning 37 point from 189
+24.12 12:18:10 Going to coordinates X=-20.202, Y=-37.592
+24.12 12:18:11 Moving is finished
+24.12 12:18:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:23 Scanning 38 point from 189
+24.12 12:18:23 Going to coordinates X=-20.132, Y=-37.592
+24.12 12:18:23 Moving is finished
+24.12 12:18:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:36 Scanning 39 point from 189
+24.12 12:18:36 Going to coordinates X=-20.062, Y=-37.592
+24.12 12:18:36 Moving is finished
+24.12 12:18:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:18:49 Scanning 40 point from 189
+24.12 12:18:53 Going to coordinates X=-19.992, Y=-37.592
+24.12 12:18:53 Moving is finished
+24.12 12:19:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:06 Scanning 41 point from 189
+24.12 12:19:06 Going to coordinates X=-19.922, Y=-37.592
+24.12 12:19:06 Moving is finished
+24.12 12:19:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:18 Scanning 42 point from 189
+24.12 12:19:18 Going to coordinates X=-21.322, Y=-37.492
+24.12 12:19:19 Moving is finished
+24.12 12:19:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:31 Scanning 43 point from 189
+24.12 12:19:31 Going to coordinates X=-21.252, Y=-37.492
+24.12 12:19:31 Moving is finished
+24.12 12:19:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:43 Scanning 44 point from 189
+24.12 12:19:43 Going to coordinates X=-21.182, Y=-37.492
+24.12 12:19:43 Moving is finished
+24.12 12:19:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:19:55 Scanning 45 point from 189
+24.12 12:19:55 Going to coordinates X=-21.112, Y=-37.492
+24.12 12:19:55 Moving is finished
+24.12 12:20:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:07 Scanning 46 point from 189
+24.12 12:20:07 Going to coordinates X=-21.042, Y=-37.492
+24.12 12:20:07 Moving is finished
+24.12 12:20:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:19 Scanning 47 point from 189
+24.12 12:20:19 Going to coordinates X=-20.972, Y=-37.492
+24.12 12:20:19 Moving is finished
+24.12 12:20:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:31 Scanning 48 point from 189
+24.12 12:20:31 Going to coordinates X=-20.902, Y=-37.492
+24.12 12:20:31 Moving is finished
+24.12 12:20:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:43 Scanning 49 point from 189
+24.12 12:20:43 Going to coordinates X=-20.832, Y=-37.492
+24.12 12:20:43 Moving is finished
+24.12 12:20:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:20:55 Scanning 50 point from 189
+24.12 12:20:59 Going to coordinates X=-20.762, Y=-37.492
+24.12 12:21:00 Moving is finished
+24.12 12:21:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:11 Scanning 51 point from 189
+24.12 12:21:11 Going to coordinates X=-20.692, Y=-37.492
+24.12 12:21:12 Moving is finished
+24.12 12:21:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:23 Scanning 52 point from 189
+24.12 12:21:23 Going to coordinates X=-20.622, Y=-37.492
+24.12 12:21:24 Moving is finished
+24.12 12:21:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:36 Scanning 53 point from 189
+24.12 12:21:36 Going to coordinates X=-20.552, Y=-37.492
+24.12 12:21:36 Moving is finished
+24.12 12:21:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:48 Scanning 54 point from 189
+24.12 12:21:48 Going to coordinates X=-20.482, Y=-37.492
+24.12 12:21:48 Moving is finished
+24.12 12:21:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:21:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:22:00 Scanning 55 point from 189
+24.12 12:22:00 Going to coordinates X=-20.412, Y=-37.492
+24.12 12:22:00 Moving is finished
+24.12 12:22:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:22:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:22:12 Scanning 56 point from 189
+24.12 12:22:12 Going to coordinates X=-20.342, Y=-37.492
+24.12 12:22:12 Moving is finished
+24.12 12:22:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:22:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:22:24 Scanning 57 point from 189
+24.12 12:22:24 Going to coordinates X=-20.272, Y=-37.492
+24.12 12:22:24 Moving is finished
+24.12 12:22:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+24.12 12:22:34 Scanning 58 point from 189
+24.12 12:22:34 Going to coordinates X=-20.202, Y=-37.492
+24.12 12:22:34 Moving is finished
+24.12 12:24:42 Scanning 59 point from 189
+24.12 12:24:42 Going to coordinates X=-20.132, Y=-37.492
+24.12 12:24:43 Moving is finished
+24.12 12:26:51 Scanning 60 point from 189
+24.12 12:26:54 Going to coordinates X=-20.062, Y=-37.492
+24.12 12:26:55 Moving is finished
+24.12 12:29:03 Scanning 61 point from 189
+24.12 12:29:03 Going to coordinates X=-19.992, Y=-37.492
+24.12 12:29:04 Moving is finished
+24.12 12:31:11 Scanning 62 point from 189
+24.12 12:31:11 Going to coordinates X=-19.922, Y=-37.492
+24.12 12:31:12 Moving is finished
+24.12 12:33:20 Scanning 63 point from 189
+24.12 12:33:20 Going to coordinates X=-21.322, Y=-37.392
+24.12 12:33:21 Moving is finished
+24.12 12:35:29 Scanning 64 point from 189
+24.12 12:35:29 Going to coordinates X=-21.252, Y=-37.392
+24.12 12:35:29 Moving is finished
+24.12 12:37:37 Scanning 65 point from 189
+24.12 12:37:37 Going to coordinates X=-21.182, Y=-37.392
+24.12 12:37:37 Moving is finished
+24.12 12:39:46 Scanning 66 point from 189
+24.12 12:39:46 Going to coordinates X=-21.112, Y=-37.392
+24.12 12:39:46 Moving is finished
+24.12 12:41:54 Scanning 67 point from 189
+24.12 12:41:54 Going to coordinates X=-21.042, Y=-37.392
+24.12 12:41:54 Moving is finished
+24.12 12:44:03 Scanning 68 point from 189
+24.12 12:44:03 Going to coordinates X=-20.972, Y=-37.392
+24.12 12:44:03 Moving is finished
+24.12 12:46:11 Scanning 69 point from 189
+24.12 12:46:11 Going to coordinates X=-20.902, Y=-37.392
+24.12 12:46:12 Moving is finished
+24.12 12:48:20 Scanning 70 point from 189
+24.12 12:48:24 Going to coordinates X=-20.832, Y=-37.392
+24.12 12:48:24 Moving is finished
+24.12 12:50:32 Scanning 71 point from 189
+24.12 12:50:32 Going to coordinates X=-20.762, Y=-37.392
+24.12 12:50:32 Moving is finished
+24.12 12:52:40 Scanning 72 point from 189
+24.12 12:52:40 Going to coordinates X=-20.692, Y=-37.392
+24.12 12:52:41 Moving is finished
+24.12 12:54:49 Scanning 73 point from 189
+24.12 12:54:49 Going to coordinates X=-20.622, Y=-37.392
+24.12 12:54:49 Moving is finished
+24.12 12:56:57 Scanning 74 point from 189
+24.12 12:56:57 Going to coordinates X=-20.552, Y=-37.392
+24.12 12:56:57 Moving is finished
+24.12 12:59:05 Scanning 75 point from 189
+24.12 12:59:05 Going to coordinates X=-20.482, Y=-37.392
+24.12 12:59:06 Moving is finished
+24.12 13:01:13 Scanning 76 point from 189
+24.12 13:01:13 Going to coordinates X=-20.412, Y=-37.392
+24.12 13:01:14 Moving is finished
+24.12 13:03:22 Scanning 77 point from 189
+24.12 13:03:22 Going to coordinates X=-20.342, Y=-37.392
+24.12 13:03:22 Moving is finished
+24.12 13:05:31 Scanning 78 point from 189
+24.12 13:05:31 Going to coordinates X=-20.272, Y=-37.392
+24.12 13:05:31 Moving is finished
+24.12 13:07:39 Scanning 79 point from 189
+24.12 13:07:39 Going to coordinates X=-20.202, Y=-37.392
+24.12 13:07:39 Moving is finished
+24.12 13:09:47 Scanning 80 point from 189
+24.12 13:09:51 Going to coordinates X=-20.132, Y=-37.392
+24.12 13:09:51 Moving is finished
+24.12 13:12:00 Scanning 81 point from 189
+24.12 13:12:00 Going to coordinates X=-20.062, Y=-37.392
+24.12 13:12:00 Moving is finished
+24.12 13:14:08 Scanning 82 point from 189
+24.12 13:14:08 Going to coordinates X=-19.992, Y=-37.392
+24.12 13:14:08 Moving is finished
+24.12 13:16:17 Scanning 83 point from 189
+24.12 13:16:17 Going to coordinates X=-19.922, Y=-37.392
+24.12 13:16:17 Moving is finished
+24.12 13:18:25 Scanning 84 point from 189
+24.12 13:18:25 Going to coordinates X=-21.322, Y=-37.292
+24.12 13:18:25 Moving is finished
+24.12 13:20:34 Scanning 85 point from 189
+24.12 13:20:34 Going to coordinates X=-21.252, Y=-37.292
+24.12 13:20:34 Moving is finished
+24.12 13:22:42 Scanning 86 point from 189
+24.12 13:22:42 Going to coordinates X=-21.182, Y=-37.292
+24.12 13:22:42 Moving is finished
+24.12 13:24:50 Scanning 87 point from 189
+24.12 13:24:50 Going to coordinates X=-21.112, Y=-37.292
+24.12 13:24:50 Moving is finished
+24.12 13:26:59 Scanning 88 point from 189
+24.12 13:26:59 Going to coordinates X=-21.042, Y=-37.292
+24.12 13:26:59 Moving is finished
+24.12 13:29:07 Scanning 89 point from 189
+24.12 13:29:07 Going to coordinates X=-20.972, Y=-37.292
+24.12 13:29:08 Moving is finished
+24.12 13:31:16 Scanning 90 point from 189
+24.12 13:31:19 Going to coordinates X=-20.902, Y=-37.292
+24.12 13:31:20 Moving is finished
+24.12 13:33:29 Scanning 91 point from 189
+24.12 13:33:29 Going to coordinates X=-20.832, Y=-37.292
+24.12 13:33:29 Moving is finished
+24.12 13:35:37 Scanning 92 point from 189
+24.12 13:35:37 Going to coordinates X=-20.762, Y=-37.292
+24.12 13:35:37 Moving is finished
+24.12 13:37:46 Scanning 93 point from 189
+24.12 13:37:46 Going to coordinates X=-20.692, Y=-37.292
+24.12 13:37:46 Moving is finished
+24.12 13:39:54 Scanning 94 point from 189
+24.12 13:39:54 Going to coordinates X=-20.622, Y=-37.292
+24.12 13:39:54 Moving is finished
+24.12 13:42:03 Scanning 95 point from 189
+24.12 13:42:03 Going to coordinates X=-20.552, Y=-37.292
+24.12 13:42:03 Moving is finished
+24.12 13:44:12 Scanning 96 point from 189
+24.12 13:44:12 Going to coordinates X=-20.482, Y=-37.292
+24.12 13:44:12 Moving is finished
+24.12 13:46:20 Scanning 97 point from 189
+24.12 13:46:20 Going to coordinates X=-20.412, Y=-37.292
+24.12 13:46:21 Moving is finished
+24.12 13:48:29 Scanning 98 point from 189
+24.12 13:48:29 Going to coordinates X=-20.342, Y=-37.292
+24.12 13:48:29 Moving is finished
+24.12 13:50:38 Scanning 99 point from 189
+24.12 13:50:38 Going to coordinates X=-20.272, Y=-37.292
+24.12 13:50:38 Moving is finished
+24.12 13:52:46 Scanning 100 point from 189
+24.12 13:52:50 Going to coordinates X=-20.202, Y=-37.292
+24.12 13:52:50 Moving is finished
+24.12 13:54:58 Scanning 101 point from 189
+24.12 13:54:58 Going to coordinates X=-20.132, Y=-37.292
+24.12 13:54:58 Moving is finished
+24.12 13:57:06 Scanning 102 point from 189
+24.12 13:57:06 Going to coordinates X=-20.062, Y=-37.292
+24.12 13:57:07 Moving is finished
+24.12 13:59:14 Scanning 103 point from 189
+24.12 13:59:14 Going to coordinates X=-19.992, Y=-37.292
+24.12 13:59:15 Moving is finished
+24.12 14:01:23 Scanning 104 point from 189
+24.12 14:01:23 Going to coordinates X=-19.922, Y=-37.292
+24.12 14:01:23 Moving is finished
+24.12 14:03:32 Scanning 105 point from 189
+24.12 14:03:32 Going to coordinates X=-21.322, Y=-37.192
+24.12 14:03:33 Moving is finished
+24.12 14:05:40 Scanning 106 point from 189
+24.12 14:05:40 Going to coordinates X=-21.252, Y=-37.192
+24.12 14:05:41 Moving is finished
+24.12 14:07:49 Scanning 107 point from 189
+24.12 14:07:49 Going to coordinates X=-21.182, Y=-37.192
+24.12 14:07:50 Moving is finished
+24.12 14:09:58 Scanning 108 point from 189
+24.12 14:09:58 Going to coordinates X=-21.112, Y=-37.192
+24.12 14:09:58 Moving is finished
+24.12 14:12:07 Scanning 109 point from 189
+24.12 14:12:07 Going to coordinates X=-21.042, Y=-37.192
+24.12 14:12:07 Moving is finished
+24.12 14:14:15 Scanning 110 point from 189
+24.12 14:14:18 Going to coordinates X=-20.972, Y=-37.192
+24.12 14:14:19 Moving is finished
+24.12 14:16:27 Scanning 111 point from 189
+24.12 14:16:27 Going to coordinates X=-20.902, Y=-37.192
+24.12 14:16:28 Moving is finished
+24.12 14:18:36 Scanning 112 point from 189
+24.12 14:18:36 Going to coordinates X=-20.832, Y=-37.192
+24.12 14:18:36 Moving is finished
+24.12 14:20:44 Scanning 113 point from 189
+24.12 14:20:44 Going to coordinates X=-20.762, Y=-37.192
+24.12 14:20:45 Moving is finished
+24.12 14:22:53 Scanning 114 point from 189
+24.12 14:22:53 Going to coordinates X=-20.692, Y=-37.192
+24.12 14:22:53 Moving is finished
+24.12 14:25:01 Scanning 115 point from 189
+24.12 14:25:01 Going to coordinates X=-20.622, Y=-37.192
+24.12 14:25:02 Moving is finished
+24.12 14:27:10 Scanning 116 point from 189
+24.12 14:27:10 Going to coordinates X=-20.552, Y=-37.192
+24.12 14:27:10 Moving is finished
+24.12 14:29:18 Scanning 117 point from 189
+24.12 14:29:18 Going to coordinates X=-20.482, Y=-37.192
+24.12 14:29:18 Moving is finished
+24.12 14:31:26 Scanning 118 point from 189
+24.12 14:31:26 Going to coordinates X=-20.412, Y=-37.192
+24.12 14:31:27 Moving is finished
+24.12 14:33:35 Scanning 119 point from 189
+24.12 14:33:35 Going to coordinates X=-20.342, Y=-37.192
+24.12 14:33:35 Moving is finished
+24.12 14:35:43 Scanning 120 point from 189
+24.12 14:35:47 Going to coordinates X=-20.272, Y=-37.192
+24.12 14:35:47 Moving is finished
+24.12 14:37:56 Scanning 121 point from 189
+24.12 14:37:56 Going to coordinates X=-20.202, Y=-37.192
+24.12 14:37:56 Moving is finished
+24.12 14:40:04 Scanning 122 point from 189
+24.12 14:40:04 Going to coordinates X=-20.132, Y=-37.192
+24.12 14:40:04 Moving is finished
+24.12 14:42:12 Scanning 123 point from 189
+24.12 14:42:12 Going to coordinates X=-20.062, Y=-37.192
+24.12 14:42:12 Moving is finished
+24.12 14:44:21 Scanning 124 point from 189
+24.12 14:44:21 Going to coordinates X=-19.992, Y=-37.192
+24.12 14:44:21 Moving is finished
+24.12 14:46:29 Scanning 125 point from 189
+24.12 14:46:29 Going to coordinates X=-19.922, Y=-37.192
+24.12 14:46:30 Moving is finished
+24.12 14:48:38 Scanning 126 point from 189
+24.12 14:48:38 Going to coordinates X=-21.322, Y=-37.092
+24.12 14:48:39 Moving is finished
+24.12 14:50:47 Scanning 127 point from 189
+24.12 14:50:47 Going to coordinates X=-21.252, Y=-37.092
+24.12 14:50:47 Moving is finished
+24.12 14:52:56 Scanning 128 point from 189
+24.12 14:52:56 Going to coordinates X=-21.182, Y=-37.092
+24.12 14:52:56 Moving is finished
+24.12 14:55:05 Scanning 129 point from 189
+24.12 14:55:05 Going to coordinates X=-21.112, Y=-37.092
+24.12 14:55:05 Moving is finished
+24.12 14:57:13 Scanning 130 point from 189
+24.12 14:57:17 Going to coordinates X=-21.042, Y=-37.092
+24.12 14:57:17 Moving is finished
+24.12 14:59:25 Scanning 131 point from 189
+24.12 14:59:25 Going to coordinates X=-20.972, Y=-37.092
+24.12 14:59:25 Moving is finished
+24.12 15:01:34 Scanning 132 point from 189
+24.12 15:01:34 Going to coordinates X=-20.902, Y=-37.092
+24.12 15:01:34 Moving is finished
+24.12 15:03:42 Scanning 133 point from 189
+24.12 15:03:42 Going to coordinates X=-20.832, Y=-37.092
+24.12 15:03:42 Moving is finished
+24.12 15:05:50 Scanning 134 point from 189
+24.12 15:05:50 Going to coordinates X=-20.762, Y=-37.092
+24.12 15:05:51 Moving is finished
+24.12 15:07:59 Scanning 135 point from 189
+24.12 15:07:59 Going to coordinates X=-20.692, Y=-37.092
+24.12 15:07:59 Moving is finished
+24.12 15:10:07 Scanning 136 point from 189
+24.12 15:10:07 Going to coordinates X=-20.622, Y=-37.092
+24.12 15:10:08 Moving is finished
+24.12 15:12:16 Scanning 137 point from 189
+24.12 15:12:16 Going to coordinates X=-20.552, Y=-37.092
+24.12 15:12:17 Moving is finished
+24.12 15:14:25 Scanning 138 point from 189
+24.12 15:14:25 Going to coordinates X=-20.482, Y=-37.092
+24.12 15:14:25 Moving is finished
+24.12 15:16:33 Scanning 139 point from 189
+24.12 15:16:33 Going to coordinates X=-20.412, Y=-37.092
+24.12 15:16:33 Moving is finished
+24.12 15:18:42 Scanning 140 point from 189
+24.12 15:18:46 Going to coordinates X=-20.342, Y=-37.092
+24.12 15:18:46 Moving is finished
+24.12 15:20:54 Scanning 141 point from 189
+24.12 15:20:54 Going to coordinates X=-20.272, Y=-37.092
+24.12 15:20:55 Moving is finished
+24.12 15:23:03 Scanning 142 point from 189
+24.12 15:23:03 Going to coordinates X=-20.202, Y=-37.092
+24.12 15:23:03 Moving is finished
+24.12 15:25:12 Scanning 143 point from 189
+24.12 15:25:12 Going to coordinates X=-20.132, Y=-37.092
+24.12 15:25:12 Moving is finished
+24.12 15:27:21 Scanning 144 point from 189
+24.12 15:27:21 Going to coordinates X=-20.062, Y=-37.092
+24.12 15:27:21 Moving is finished
+24.12 15:29:29 Scanning 145 point from 189
+24.12 15:29:29 Going to coordinates X=-19.992, Y=-37.092
+24.12 15:29:30 Moving is finished
+24.12 15:31:38 Scanning 146 point from 189
+24.12 15:31:38 Going to coordinates X=-19.922, Y=-37.092
+24.12 15:31:38 Moving is finished
+24.12 15:33:47 Scanning 147 point from 189
+24.12 15:33:47 Going to coordinates X=-21.322, Y=-36.992
+24.12 15:33:48 Moving is finished
+24.12 15:35:56 Scanning 148 point from 189
+24.12 15:35:56 Going to coordinates X=-21.252, Y=-36.992
+24.12 15:35:56 Moving is finished
+24.12 15:38:05 Scanning 149 point from 189
+24.12 15:38:05 Going to coordinates X=-21.182, Y=-36.992
+24.12 15:38:05 Moving is finished
+24.12 15:40:14 Scanning 150 point from 189
+24.12 15:40:17 Going to coordinates X=-21.112, Y=-36.992
+24.12 15:40:17 Moving is finished
+24.12 15:42:26 Scanning 151 point from 189
+24.12 15:42:26 Going to coordinates X=-21.042, Y=-36.992
+24.12 15:42:26 Moving is finished
+24.12 15:44:34 Scanning 152 point from 189
+24.12 15:44:34 Going to coordinates X=-20.972, Y=-36.992
+24.12 15:44:34 Moving is finished
+24.12 15:46:43 Scanning 153 point from 189
+24.12 15:46:43 Going to coordinates X=-20.902, Y=-36.992
+24.12 15:46:43 Moving is finished
+24.12 15:48:51 Scanning 154 point from 189
+24.12 15:48:51 Going to coordinates X=-20.832, Y=-36.992
+24.12 15:48:51 Moving is finished
+24.12 15:50:59 Scanning 155 point from 189
+24.12 15:50:59 Going to coordinates X=-20.762, Y=-36.992
+24.12 15:51:00 Moving is finished
+24.12 15:53:08 Scanning 156 point from 189
+24.12 15:53:08 Going to coordinates X=-20.692, Y=-36.992
+24.12 15:53:08 Moving is finished
+24.12 15:55:16 Scanning 157 point from 189
+24.12 15:55:16 Going to coordinates X=-20.622, Y=-36.992
+24.12 15:55:17 Moving is finished
+24.12 15:57:25 Scanning 158 point from 189
+24.12 15:57:25 Going to coordinates X=-20.552, Y=-36.992
+24.12 15:57:25 Moving is finished
+24.12 15:59:34 Scanning 159 point from 189
+24.12 15:59:34 Going to coordinates X=-20.482, Y=-36.992
+24.12 15:59:34 Moving is finished
+24.12 16:01:43 Scanning 160 point from 189
+24.12 16:01:46 Going to coordinates X=-20.412, Y=-36.992
+24.12 16:01:47 Moving is finished
+24.12 16:03:55 Scanning 161 point from 189
+24.12 16:03:55 Going to coordinates X=-20.342, Y=-36.992
+24.12 16:03:55 Moving is finished
+24.12 16:06:04 Scanning 162 point from 189
+24.12 16:06:04 Going to coordinates X=-20.272, Y=-36.992
+24.12 16:06:04 Moving is finished
+24.12 16:08:12 Scanning 163 point from 189
+24.12 16:08:12 Going to coordinates X=-20.202, Y=-36.992
+24.12 16:08:12 Moving is finished
+24.12 16:10:21 Scanning 164 point from 189
+24.12 16:10:21 Going to coordinates X=-20.132, Y=-36.992
+24.12 16:10:21 Moving is finished
+24.12 16:12:30 Scanning 165 point from 189
+24.12 16:12:30 Going to coordinates X=-20.062, Y=-36.992
+24.12 16:12:30 Moving is finished
+24.12 16:14:38 Scanning 166 point from 189
+24.12 16:14:38 Going to coordinates X=-19.992, Y=-36.992
+24.12 16:14:38 Moving is finished
+24.12 16:16:47 Scanning 167 point from 189
+24.12 16:16:47 Going to coordinates X=-19.922, Y=-36.992
+24.12 16:16:47 Moving is finished
+24.12 16:18:55 Scanning 168 point from 189
+24.12 16:18:55 Going to coordinates X=-21.322, Y=-36.892
+24.12 16:18:56 Moving is finished
+24.12 16:21:04 Scanning 169 point from 189
+24.12 16:21:04 Going to coordinates X=-21.252, Y=-36.892
+24.12 16:21:04 Moving is finished
+24.12 16:23:12 Scanning 170 point from 189
+24.12 16:23:16 Going to coordinates X=-21.182, Y=-36.892
+24.12 16:23:16 Moving is finished
+24.12 16:25:25 Scanning 171 point from 189
+24.12 16:25:25 Going to coordinates X=-21.112, Y=-36.892
+24.12 16:25:25 Moving is finished
+24.12 16:27:33 Scanning 172 point from 189
+24.12 16:27:33 Going to coordinates X=-21.042, Y=-36.892
+24.12 16:27:33 Moving is finished
+24.12 16:29:41 Scanning 173 point from 189
+24.12 16:29:41 Going to coordinates X=-20.972, Y=-36.892
+24.12 16:29:42 Moving is finished
+24.12 16:31:50 Scanning 174 point from 189
+24.12 16:31:50 Going to coordinates X=-20.902, Y=-36.892
+24.12 16:31:50 Moving is finished
+24.12 16:33:58 Scanning 175 point from 189
+24.12 16:33:58 Going to coordinates X=-20.832, Y=-36.892
+24.12 16:33:59 Moving is finished
+24.12 16:36:07 Scanning 176 point from 189
+24.12 16:36:07 Going to coordinates X=-20.762, Y=-36.892
+24.12 16:36:08 Moving is finished
+24.12 16:38:16 Scanning 177 point from 189
+24.12 16:38:16 Going to coordinates X=-20.692, Y=-36.892
+24.12 16:38:16 Moving is finished
+24.12 16:40:24 Scanning 178 point from 189
+24.12 16:40:24 Going to coordinates X=-20.622, Y=-36.892
+24.12 16:40:25 Moving is finished
+24.12 16:42:33 Scanning 179 point from 189
+24.12 16:42:33 Going to coordinates X=-20.552, Y=-36.892
+24.12 16:42:33 Moving is finished
+24.12 16:44:41 Scanning 180 point from 189
+24.12 16:44:45 Going to coordinates X=-20.482, Y=-36.892
+24.12 16:44:45 Moving is finished
+24.12 16:46:54 Scanning 181 point from 189
+24.12 16:46:54 Going to coordinates X=-20.412, Y=-36.892
+24.12 16:46:54 Moving is finished
+24.12 16:49:02 Scanning 182 point from 189
+24.12 16:49:02 Going to coordinates X=-20.342, Y=-36.892
+24.12 16:49:02 Moving is finished
+24.12 16:51:10 Scanning 183 point from 189
+24.12 16:51:10 Going to coordinates X=-20.272, Y=-36.892
+24.12 16:51:10 Moving is finished
+24.12 16:53:18 Scanning 184 point from 189
+24.12 16:53:18 Going to coordinates X=-20.202, Y=-36.892
+24.12 16:53:19 Moving is finished
+24.12 16:55:27 Scanning 185 point from 189
+24.12 16:55:27 Going to coordinates X=-20.132, Y=-36.892
+24.12 16:55:27 Moving is finished
+24.12 16:57:35 Scanning 186 point from 189
+24.12 16:57:35 Going to coordinates X=-20.062, Y=-36.892
+24.12 16:57:35 Moving is finished
+24.12 16:59:44 Scanning 187 point from 189
+24.12 16:59:44 Going to coordinates X=-19.992, Y=-36.892
+24.12 16:59:44 Moving is finished
+24.12 17:01:52 Scanning 188 point from 189
+24.12 17:01:52 Going to coordinates X=-19.922, Y=-36.892
+24.12 17:01:53 Moving is finished

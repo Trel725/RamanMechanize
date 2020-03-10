@@ -1,0 +1,32 @@
+23.05 12:58:12 Initializing grbl...
+23.05 12:58:12 Got the response: b''
+23.05 12:59:14 Can't send the command to GRBL
+23.05 12:59:14 Write timeout23.05 12:59:14 Write timeout
+
+23.05 12:59:18 Can't send the command to GRBL
+23.05 12:59:18 Write timeout23.05 12:59:18 Write timeout
+
+23.05 13:05:55 Row 0: 23.05 13:05:55 Goto: -27.722; -38.000; 0.000
+23.05 13:05:55 Going to coordinates X=-27.722, Y=-38.000
+23.05 13:05:55 Moving is finished
+23.05 13:05:56 Row 1: 23.05 13:05:56 Goto: -27.722; -28.000; 0.000
+23.05 13:05:56 Going to coordinates X=-27.722, Y=-28.000
+23.05 13:05:58 Moving is finished
+23.05 13:05:59 Row 2: 23.05 13:05:59 Goto: -37.722; -38.000; 0.000
+23.05 13:05:59 Going to coordinates X=-37.722, Y=-38.000
+23.05 13:06:02 Moving is finished
+23.05 13:06:03 Row 3: 23.05 13:06:03 Goto: -7.722; -18.000; 0.000
+23.05 13:06:03 Going to coordinates X=-7.722, Y=-18.000
+23.05 13:06:06 Moving is finished
+23.05 13:06:07 Row 4: 23.05 13:06:07 Goto: -47.722; -8.000; 0.000
+23.05 13:06:07 Going to coordinates X=-47.722, Y=-8.000
+23.05 13:06:11 Moving is finished
+23.05 13:06:12 Row 5: 23.05 13:06:12 Goto: -47.722; -48.000; 0.000
+23.05 13:06:12 Going to coordinates X=-47.722, Y=-48.000
+23.05 13:06:16 Moving is finished
+23.05 13:06:17 Row 6: 23.05 13:06:17 Goto: -27.722; -38.000; 0.000
+23.05 13:06:17 Going to coordinates X=-27.722, Y=-38.000
+23.05 13:06:20 Moving is finished
+23.05 13:09:39 Can't send the command to GRBL
+23.05 13:09:39 Write timeout23.05 13:09:39 Write timeout
+

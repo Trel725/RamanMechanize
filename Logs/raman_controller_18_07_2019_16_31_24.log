@@ -1,0 +1,2659 @@
+18.07 16:31:26 Initializing grbl...
+18.07 16:31:26 Got the response: b''
+18.07 17:41:09 Can't send the command to GRBL
+18.07 17:41:09 Write timeout18.07 17:41:09 Write timeout
+
+18.07 17:41:18 Write timeout18.07 17:41:18 Can't send the command to GRBL
+18.07 18:02:48 Row 0: 18.07 18:02:48 Map: x1: -12.245, y1: -37.538, x2: -11.962, y2: -37.159, xres: 0.010, yres: 0.010, fname: M1N918.07.19
+18.07 18:02:48 Scanning 0 point from 1170
+18.07 18:02:48 Going to coordinates X=-12.245, Y=-37.538
+18.07 18:02:48 Moving is finished
+18.07 18:03:53 Scanning 1 point from 1170
+18.07 18:03:53 Going to coordinates X=-12.235, Y=-37.538
+18.07 18:03:53 Moving is finished
+18.07 18:04:57 Scanning 2 point from 1170
+18.07 18:04:57 Going to coordinates X=-12.225, Y=-37.538
+18.07 18:04:58 Moving is finished
+18.07 18:06:02 Scanning 3 point from 1170
+18.07 18:06:02 Going to coordinates X=-12.215, Y=-37.538
+18.07 18:06:02 Moving is finished
+18.07 18:07:07 Scanning 4 point from 1170
+18.07 18:07:07 Going to coordinates X=-12.205, Y=-37.538
+18.07 18:07:07 Moving is finished
+18.07 18:08:13 Scanning 5 point from 1170
+18.07 18:08:13 Going to coordinates X=-12.195, Y=-37.538
+18.07 18:08:13 Moving is finished
+18.07 18:09:17 Scanning 6 point from 1170
+18.07 18:09:17 Going to coordinates X=-12.185, Y=-37.538
+18.07 18:09:17 Moving is finished
+18.07 18:10:22 Scanning 7 point from 1170
+18.07 18:10:22 Going to coordinates X=-12.175, Y=-37.538
+18.07 18:10:23 Moving is finished
+18.07 18:11:27 Scanning 8 point from 1170
+18.07 18:11:27 Going to coordinates X=-12.165, Y=-37.538
+18.07 18:11:27 Moving is finished
+18.07 18:12:32 Scanning 9 point from 1170
+18.07 18:12:32 Going to coordinates X=-12.155, Y=-37.538
+18.07 18:12:32 Moving is finished
+18.07 18:13:37 Scanning 10 point from 1170
+18.07 18:13:37 Going to coordinates X=-12.145, Y=-37.538
+18.07 18:13:37 Moving is finished
+18.07 18:14:41 Scanning 11 point from 1170
+18.07 18:14:41 Going to coordinates X=-12.135, Y=-37.538
+18.07 18:14:42 Moving is finished
+18.07 18:15:47 Scanning 12 point from 1170
+18.07 18:15:47 Going to coordinates X=-12.125, Y=-37.538
+18.07 18:15:47 Moving is finished
+18.07 18:16:51 Scanning 13 point from 1170
+18.07 18:16:51 Going to coordinates X=-12.115, Y=-37.538
+18.07 18:16:51 Moving is finished
+18.07 18:17:56 Scanning 14 point from 1170
+18.07 18:17:56 Going to coordinates X=-12.105, Y=-37.538
+18.07 18:17:57 Moving is finished
+18.07 18:19:02 Scanning 15 point from 1170
+18.07 18:19:02 Going to coordinates X=-12.095, Y=-37.538
+18.07 18:19:02 Moving is finished
+18.07 18:20:07 Scanning 16 point from 1170
+18.07 18:20:07 Going to coordinates X=-12.085, Y=-37.538
+18.07 18:20:07 Moving is finished
+18.07 18:21:13 Scanning 17 point from 1170
+18.07 18:21:13 Going to coordinates X=-12.075, Y=-37.538
+18.07 18:21:13 Moving is finished
+18.07 18:22:17 Scanning 18 point from 1170
+18.07 18:22:17 Going to coordinates X=-12.065, Y=-37.538
+18.07 18:22:17 Moving is finished
+18.07 18:23:22 Scanning 19 point from 1170
+18.07 18:23:22 Going to coordinates X=-12.055, Y=-37.538
+18.07 18:23:22 Moving is finished
+18.07 18:24:27 Scanning 20 point from 1170
+18.07 18:24:27 Going to coordinates X=-12.045, Y=-37.538
+18.07 18:24:27 Moving is finished
+18.07 18:25:32 Scanning 21 point from 1170
+18.07 18:25:32 Going to coordinates X=-12.035, Y=-37.538
+18.07 18:25:32 Moving is finished
+18.07 18:26:37 Scanning 22 point from 1170
+18.07 18:26:37 Going to coordinates X=-12.025, Y=-37.538
+18.07 18:26:37 Moving is finished
+18.07 18:27:42 Scanning 23 point from 1170
+18.07 18:27:42 Going to coordinates X=-12.015, Y=-37.538
+18.07 18:27:42 Moving is finished
+18.07 18:28:46 Scanning 24 point from 1170
+18.07 18:28:46 Going to coordinates X=-12.005, Y=-37.538
+18.07 18:28:46 Moving is finished
+18.07 18:29:51 Scanning 25 point from 1170
+18.07 18:29:51 Going to coordinates X=-11.995, Y=-37.538
+18.07 18:29:51 Moving is finished
+18.07 18:30:56 Scanning 26 point from 1170
+18.07 18:30:56 Going to coordinates X=-11.985, Y=-37.538
+18.07 18:30:56 Moving is finished
+18.07 18:32:01 Scanning 27 point from 1170
+18.07 18:32:01 Going to coordinates X=-11.975, Y=-37.538
+18.07 18:32:01 Moving is finished
+18.07 18:33:06 Scanning 28 point from 1170
+18.07 18:33:06 Going to coordinates X=-11.965, Y=-37.538
+18.07 18:33:06 Moving is finished
+18.07 18:34:11 Scanning 29 point from 1170
+18.07 18:34:11 Going to coordinates X=-11.955, Y=-37.538
+18.07 18:34:11 Moving is finished
+18.07 18:35:16 Scanning 30 point from 1170
+18.07 18:35:16 Going to coordinates X=-12.245, Y=-37.528
+18.07 18:35:16 Moving is finished
+18.07 18:36:21 Scanning 31 point from 1170
+18.07 18:36:21 Going to coordinates X=-12.235, Y=-37.528
+18.07 18:36:21 Moving is finished
+18.07 18:37:26 Scanning 32 point from 1170
+18.07 18:37:26 Going to coordinates X=-12.225, Y=-37.528
+18.07 18:37:26 Moving is finished
+18.07 18:38:31 Scanning 33 point from 1170
+18.07 18:38:31 Going to coordinates X=-12.215, Y=-37.528
+18.07 18:38:31 Moving is finished
+18.07 18:39:35 Scanning 34 point from 1170
+18.07 18:39:35 Going to coordinates X=-12.205, Y=-37.528
+18.07 18:39:35 Moving is finished
+18.07 18:40:41 Scanning 35 point from 1170
+18.07 18:40:41 Going to coordinates X=-12.195, Y=-37.528
+18.07 18:40:41 Moving is finished
+18.07 18:41:45 Scanning 36 point from 1170
+18.07 18:41:45 Going to coordinates X=-12.185, Y=-37.528
+18.07 18:41:45 Moving is finished
+18.07 18:42:50 Scanning 37 point from 1170
+18.07 18:42:50 Going to coordinates X=-12.175, Y=-37.528
+18.07 18:42:50 Moving is finished
+18.07 18:43:56 Scanning 38 point from 1170
+18.07 18:43:56 Going to coordinates X=-12.165, Y=-37.528
+18.07 18:43:56 Moving is finished
+18.07 18:45:01 Scanning 39 point from 1170
+18.07 18:45:01 Going to coordinates X=-12.155, Y=-37.528
+18.07 18:45:01 Moving is finished
+18.07 18:46:06 Scanning 40 point from 1170
+18.07 18:46:06 Going to coordinates X=-12.145, Y=-37.528
+18.07 18:46:06 Moving is finished
+18.07 18:47:11 Scanning 41 point from 1170
+18.07 18:47:11 Going to coordinates X=-12.135, Y=-37.528
+18.07 18:47:12 Moving is finished
+18.07 18:48:16 Scanning 42 point from 1170
+18.07 18:48:16 Going to coordinates X=-12.125, Y=-37.528
+18.07 18:48:16 Moving is finished
+18.07 18:49:21 Scanning 43 point from 1170
+18.07 18:49:21 Going to coordinates X=-12.115, Y=-37.528
+18.07 18:49:21 Moving is finished
+18.07 18:50:26 Scanning 44 point from 1170
+18.07 18:50:26 Going to coordinates X=-12.105, Y=-37.528
+18.07 18:50:26 Moving is finished
+18.07 18:51:30 Scanning 45 point from 1170
+18.07 18:51:30 Going to coordinates X=-12.095, Y=-37.528
+18.07 18:51:30 Moving is finished
+18.07 18:52:35 Scanning 46 point from 1170
+18.07 18:52:35 Going to coordinates X=-12.085, Y=-37.528
+18.07 18:52:36 Moving is finished
+18.07 18:53:40 Scanning 47 point from 1170
+18.07 18:53:40 Going to coordinates X=-12.075, Y=-37.528
+18.07 18:53:40 Moving is finished
+18.07 18:54:45 Scanning 48 point from 1170
+18.07 18:54:45 Going to coordinates X=-12.065, Y=-37.528
+18.07 18:54:45 Moving is finished
+18.07 18:55:50 Scanning 49 point from 1170
+18.07 18:55:50 Going to coordinates X=-12.055, Y=-37.528
+18.07 18:55:50 Moving is finished
+18.07 18:56:55 Scanning 50 point from 1170
+18.07 18:56:55 Going to coordinates X=-12.045, Y=-37.528
+18.07 18:56:55 Moving is finished
+18.07 18:57:59 Scanning 51 point from 1170
+18.07 18:57:59 Going to coordinates X=-12.035, Y=-37.528
+18.07 18:58:00 Moving is finished
+18.07 18:59:04 Scanning 52 point from 1170
+18.07 18:59:04 Going to coordinates X=-12.025, Y=-37.528
+18.07 18:59:04 Moving is finished
+18.07 19:00:09 Scanning 53 point from 1170
+18.07 19:00:09 Going to coordinates X=-12.015, Y=-37.528
+18.07 19:00:09 Moving is finished
+18.07 19:01:14 Scanning 54 point from 1170
+18.07 19:01:14 Going to coordinates X=-12.005, Y=-37.528
+18.07 19:01:14 Moving is finished
+18.07 19:02:18 Scanning 55 point from 1170
+18.07 19:02:18 Going to coordinates X=-11.995, Y=-37.528
+18.07 19:02:19 Moving is finished
+18.07 19:03:23 Scanning 56 point from 1170
+18.07 19:03:23 Going to coordinates X=-11.985, Y=-37.528
+18.07 19:03:23 Moving is finished
+18.07 19:04:28 Scanning 57 point from 1170
+18.07 19:04:28 Going to coordinates X=-11.975, Y=-37.528
+18.07 19:04:28 Moving is finished
+18.07 19:05:32 Scanning 58 point from 1170
+18.07 19:05:32 Going to coordinates X=-11.965, Y=-37.528
+18.07 19:05:33 Moving is finished
+18.07 19:06:37 Scanning 59 point from 1170
+18.07 19:06:37 Going to coordinates X=-11.955, Y=-37.528
+18.07 19:06:37 Moving is finished
+18.07 19:07:42 Scanning 60 point from 1170
+18.07 19:07:42 Going to coordinates X=-12.245, Y=-37.518
+18.07 19:07:42 Moving is finished
+18.07 19:08:47 Scanning 61 point from 1170
+18.07 19:08:47 Going to coordinates X=-12.235, Y=-37.518
+18.07 19:08:47 Moving is finished
+18.07 19:09:51 Scanning 62 point from 1170
+18.07 19:09:51 Going to coordinates X=-12.225, Y=-37.518
+18.07 19:09:51 Moving is finished
+18.07 19:10:56 Scanning 63 point from 1170
+18.07 19:10:56 Going to coordinates X=-12.215, Y=-37.518
+18.07 19:10:56 Moving is finished
+18.07 19:12:01 Scanning 64 point from 1170
+18.07 19:12:01 Going to coordinates X=-12.205, Y=-37.518
+18.07 19:12:01 Moving is finished
+18.07 19:13:06 Scanning 65 point from 1170
+18.07 19:13:06 Going to coordinates X=-12.195, Y=-37.518
+18.07 19:13:06 Moving is finished
+18.07 19:14:11 Scanning 66 point from 1170
+18.07 19:14:11 Going to coordinates X=-12.185, Y=-37.518
+18.07 19:14:11 Moving is finished
+18.07 19:15:16 Scanning 67 point from 1170
+18.07 19:15:16 Going to coordinates X=-12.175, Y=-37.518
+18.07 19:15:16 Moving is finished
+18.07 19:16:20 Scanning 68 point from 1170
+18.07 19:16:20 Going to coordinates X=-12.165, Y=-37.518
+18.07 19:16:20 Moving is finished
+18.07 19:17:25 Scanning 69 point from 1170
+18.07 19:17:25 Going to coordinates X=-12.155, Y=-37.518
+18.07 19:17:25 Moving is finished
+18.07 19:18:30 Scanning 70 point from 1170
+18.07 19:18:30 Going to coordinates X=-12.145, Y=-37.518
+18.07 19:18:30 Moving is finished
+18.07 19:19:35 Scanning 71 point from 1170
+18.07 19:19:35 Going to coordinates X=-12.135, Y=-37.518
+18.07 19:19:35 Moving is finished
+18.07 19:20:40 Scanning 72 point from 1170
+18.07 19:20:40 Going to coordinates X=-12.125, Y=-37.518
+18.07 19:20:40 Moving is finished
+18.07 19:21:45 Scanning 73 point from 1170
+18.07 19:21:45 Going to coordinates X=-12.115, Y=-37.518
+18.07 19:21:45 Moving is finished
+18.07 19:22:50 Scanning 74 point from 1170
+18.07 19:22:50 Going to coordinates X=-12.105, Y=-37.518
+18.07 19:22:51 Moving is finished
+18.07 19:23:55 Scanning 75 point from 1170
+18.07 19:23:55 Going to coordinates X=-12.095, Y=-37.518
+18.07 19:23:56 Moving is finished
+18.07 19:25:00 Scanning 76 point from 1170
+18.07 19:25:00 Going to coordinates X=-12.085, Y=-37.518
+18.07 19:25:01 Moving is finished
+18.07 19:26:06 Scanning 77 point from 1170
+18.07 19:26:06 Going to coordinates X=-12.075, Y=-37.518
+18.07 19:26:06 Moving is finished
+18.07 19:27:11 Scanning 78 point from 1170
+18.07 19:27:11 Going to coordinates X=-12.065, Y=-37.518
+18.07 19:27:11 Moving is finished
+18.07 19:28:16 Scanning 79 point from 1170
+18.07 19:28:16 Going to coordinates X=-12.055, Y=-37.518
+18.07 19:28:16 Moving is finished
+18.07 19:29:21 Scanning 80 point from 1170
+18.07 19:29:21 Going to coordinates X=-12.045, Y=-37.518
+18.07 19:29:21 Moving is finished
+18.07 19:30:26 Scanning 81 point from 1170
+18.07 19:30:26 Going to coordinates X=-12.035, Y=-37.518
+18.07 19:30:26 Moving is finished
+18.07 19:31:31 Scanning 82 point from 1170
+18.07 19:31:31 Going to coordinates X=-12.025, Y=-37.518
+18.07 19:31:31 Moving is finished
+18.07 19:32:35 Scanning 83 point from 1170
+18.07 19:32:35 Going to coordinates X=-12.015, Y=-37.518
+18.07 19:32:35 Moving is finished
+18.07 19:33:40 Scanning 84 point from 1170
+18.07 19:33:40 Going to coordinates X=-12.005, Y=-37.518
+18.07 19:33:40 Moving is finished
+18.07 19:34:46 Scanning 85 point from 1170
+18.07 19:34:46 Going to coordinates X=-11.995, Y=-37.518
+18.07 19:34:46 Moving is finished
+18.07 19:35:50 Scanning 86 point from 1170
+18.07 19:35:50 Going to coordinates X=-11.985, Y=-37.518
+18.07 19:35:50 Moving is finished
+18.07 19:36:56 Scanning 87 point from 1170
+18.07 19:36:56 Going to coordinates X=-11.975, Y=-37.518
+18.07 19:36:56 Moving is finished
+18.07 19:38:00 Scanning 88 point from 1170
+18.07 19:38:00 Going to coordinates X=-11.965, Y=-37.518
+18.07 19:38:00 Moving is finished
+18.07 19:39:05 Scanning 89 point from 1170
+18.07 19:39:05 Going to coordinates X=-11.955, Y=-37.518
+18.07 19:39:05 Moving is finished
+18.07 19:40:10 Scanning 90 point from 1170
+18.07 19:40:10 Going to coordinates X=-12.245, Y=-37.508
+18.07 19:40:10 Moving is finished
+18.07 19:41:15 Scanning 91 point from 1170
+18.07 19:41:15 Going to coordinates X=-12.235, Y=-37.508
+18.07 19:41:15 Moving is finished
+18.07 19:42:20 Scanning 92 point from 1170
+18.07 19:42:20 Going to coordinates X=-12.225, Y=-37.508
+18.07 19:42:20 Moving is finished
+18.07 19:43:25 Scanning 93 point from 1170
+18.07 19:43:25 Going to coordinates X=-12.215, Y=-37.508
+18.07 19:43:25 Moving is finished
+18.07 19:44:30 Scanning 94 point from 1170
+18.07 19:44:30 Going to coordinates X=-12.205, Y=-37.508
+18.07 19:44:30 Moving is finished
+18.07 19:45:35 Scanning 95 point from 1170
+18.07 19:45:35 Going to coordinates X=-12.195, Y=-37.508
+18.07 19:45:35 Moving is finished
+18.07 19:46:40 Scanning 96 point from 1170
+18.07 19:46:40 Going to coordinates X=-12.185, Y=-37.508
+18.07 19:46:40 Moving is finished
+18.07 19:47:45 Scanning 97 point from 1170
+18.07 19:47:45 Going to coordinates X=-12.175, Y=-37.508
+18.07 19:47:45 Moving is finished
+18.07 19:48:50 Scanning 98 point from 1170
+18.07 19:48:50 Going to coordinates X=-12.165, Y=-37.508
+18.07 19:48:50 Moving is finished
+18.07 19:49:55 Scanning 99 point from 1170
+18.07 19:49:55 Going to coordinates X=-12.155, Y=-37.508
+18.07 19:49:55 Moving is finished
+18.07 19:51:00 Scanning 100 point from 1170
+18.07 19:51:00 Going to coordinates X=-12.145, Y=-37.508
+18.07 19:51:00 Moving is finished
+18.07 19:52:05 Scanning 101 point from 1170
+18.07 19:52:05 Going to coordinates X=-12.135, Y=-37.508
+18.07 19:52:05 Moving is finished
+18.07 19:53:10 Scanning 102 point from 1170
+18.07 19:53:10 Going to coordinates X=-12.125, Y=-37.508
+18.07 19:53:10 Moving is finished
+18.07 19:54:15 Scanning 103 point from 1170
+18.07 19:54:15 Going to coordinates X=-12.115, Y=-37.508
+18.07 19:54:16 Moving is finished
+18.07 19:55:20 Scanning 104 point from 1170
+18.07 19:55:20 Going to coordinates X=-12.105, Y=-37.508
+18.07 19:55:20 Moving is finished
+18.07 19:56:25 Scanning 105 point from 1170
+18.07 19:56:25 Going to coordinates X=-12.095, Y=-37.508
+18.07 19:56:25 Moving is finished
+18.07 19:57:30 Scanning 106 point from 1170
+18.07 19:57:30 Going to coordinates X=-12.085, Y=-37.508
+18.07 19:57:30 Moving is finished
+18.07 19:58:34 Scanning 107 point from 1170
+18.07 19:58:34 Going to coordinates X=-12.075, Y=-37.508
+18.07 19:58:35 Moving is finished
+18.07 19:59:39 Scanning 108 point from 1170
+18.07 19:59:39 Going to coordinates X=-12.065, Y=-37.508
+18.07 19:59:39 Moving is finished
+18.07 20:00:43 Scanning 109 point from 1170
+18.07 20:00:43 Going to coordinates X=-12.055, Y=-37.508
+18.07 20:00:44 Moving is finished
+18.07 20:01:48 Scanning 110 point from 1170
+18.07 20:01:48 Going to coordinates X=-12.045, Y=-37.508
+18.07 20:01:48 Moving is finished
+18.07 20:02:53 Scanning 111 point from 1170
+18.07 20:02:53 Going to coordinates X=-12.035, Y=-37.508
+18.07 20:02:53 Moving is finished
+18.07 20:03:58 Scanning 112 point from 1170
+18.07 20:03:58 Going to coordinates X=-12.025, Y=-37.508
+18.07 20:03:58 Moving is finished
+18.07 20:05:03 Scanning 113 point from 1170
+18.07 20:05:03 Going to coordinates X=-12.015, Y=-37.508
+18.07 20:05:03 Moving is finished
+18.07 20:06:08 Scanning 114 point from 1170
+18.07 20:06:08 Going to coordinates X=-12.005, Y=-37.508
+18.07 20:06:08 Moving is finished
+18.07 20:07:12 Scanning 115 point from 1170
+18.07 20:07:12 Going to coordinates X=-11.995, Y=-37.508
+18.07 20:07:12 Moving is finished
+18.07 20:08:17 Scanning 116 point from 1170
+18.07 20:08:17 Going to coordinates X=-11.985, Y=-37.508
+18.07 20:08:17 Moving is finished
+18.07 20:09:22 Scanning 117 point from 1170
+18.07 20:09:22 Going to coordinates X=-11.975, Y=-37.508
+18.07 20:09:22 Moving is finished
+18.07 20:10:27 Scanning 118 point from 1170
+18.07 20:10:27 Going to coordinates X=-11.965, Y=-37.508
+18.07 20:10:27 Moving is finished
+18.07 20:11:32 Scanning 119 point from 1170
+18.07 20:11:32 Going to coordinates X=-11.955, Y=-37.508
+18.07 20:11:32 Moving is finished
+18.07 20:12:36 Scanning 120 point from 1170
+18.07 20:12:36 Going to coordinates X=-12.245, Y=-37.498
+18.07 20:12:37 Moving is finished
+18.07 20:13:41 Scanning 121 point from 1170
+18.07 20:13:41 Going to coordinates X=-12.235, Y=-37.498
+18.07 20:13:41 Moving is finished
+18.07 20:14:46 Scanning 122 point from 1170
+18.07 20:14:46 Going to coordinates X=-12.225, Y=-37.498
+18.07 20:14:46 Moving is finished
+18.07 20:15:51 Scanning 123 point from 1170
+18.07 20:15:51 Going to coordinates X=-12.215, Y=-37.498
+18.07 20:15:51 Moving is finished
+18.07 20:16:56 Scanning 124 point from 1170
+18.07 20:16:56 Going to coordinates X=-12.205, Y=-37.498
+18.07 20:16:56 Moving is finished
+18.07 20:18:01 Scanning 125 point from 1170
+18.07 20:18:01 Going to coordinates X=-12.195, Y=-37.498
+18.07 20:18:01 Moving is finished
+18.07 20:19:06 Scanning 126 point from 1170
+18.07 20:19:06 Going to coordinates X=-12.185, Y=-37.498
+18.07 20:19:06 Moving is finished
+18.07 20:20:10 Scanning 127 point from 1170
+18.07 20:20:10 Going to coordinates X=-12.175, Y=-37.498
+18.07 20:20:11 Moving is finished
+18.07 20:21:15 Scanning 128 point from 1170
+18.07 20:21:15 Going to coordinates X=-12.165, Y=-37.498
+18.07 20:21:15 Moving is finished
+18.07 20:22:20 Scanning 129 point from 1170
+18.07 20:22:20 Going to coordinates X=-12.155, Y=-37.498
+18.07 20:22:20 Moving is finished
+18.07 20:23:25 Scanning 130 point from 1170
+18.07 20:23:25 Going to coordinates X=-12.145, Y=-37.498
+18.07 20:23:25 Moving is finished
+18.07 20:24:29 Scanning 131 point from 1170
+18.07 20:24:29 Going to coordinates X=-12.135, Y=-37.498
+18.07 20:24:30 Moving is finished
+18.07 20:25:34 Scanning 132 point from 1170
+18.07 20:25:34 Going to coordinates X=-12.125, Y=-37.498
+18.07 20:25:34 Moving is finished
+18.07 20:26:39 Scanning 133 point from 1170
+18.07 20:26:39 Going to coordinates X=-12.115, Y=-37.498
+18.07 20:26:39 Moving is finished
+18.07 20:27:44 Scanning 134 point from 1170
+18.07 20:27:44 Going to coordinates X=-12.105, Y=-37.498
+18.07 20:27:44 Moving is finished
+18.07 20:28:48 Scanning 135 point from 1170
+18.07 20:28:48 Going to coordinates X=-12.095, Y=-37.498
+18.07 20:28:48 Moving is finished
+18.07 20:29:53 Scanning 136 point from 1170
+18.07 20:29:53 Going to coordinates X=-12.085, Y=-37.498
+18.07 20:29:53 Moving is finished
+18.07 20:30:57 Scanning 137 point from 1170
+18.07 20:30:57 Going to coordinates X=-12.075, Y=-37.498
+18.07 20:30:58 Moving is finished
+18.07 20:32:02 Scanning 138 point from 1170
+18.07 20:32:02 Going to coordinates X=-12.065, Y=-37.498
+18.07 20:32:02 Moving is finished
+18.07 20:33:07 Scanning 139 point from 1170
+18.07 20:33:07 Going to coordinates X=-12.055, Y=-37.498
+18.07 20:33:07 Moving is finished
+18.07 20:34:12 Scanning 140 point from 1170
+18.07 20:34:12 Going to coordinates X=-12.045, Y=-37.498
+18.07 20:34:12 Moving is finished
+18.07 20:35:16 Scanning 141 point from 1170
+18.07 20:35:16 Going to coordinates X=-12.035, Y=-37.498
+18.07 20:35:16 Moving is finished
+18.07 20:36:21 Scanning 142 point from 1170
+18.07 20:36:21 Going to coordinates X=-12.025, Y=-37.498
+18.07 20:36:21 Moving is finished
+18.07 20:37:27 Scanning 143 point from 1170
+18.07 20:37:27 Going to coordinates X=-12.015, Y=-37.498
+18.07 20:37:27 Moving is finished
+18.07 20:38:32 Scanning 144 point from 1170
+18.07 20:38:32 Going to coordinates X=-12.005, Y=-37.498
+18.07 20:38:32 Moving is finished
+18.07 20:39:37 Scanning 145 point from 1170
+18.07 20:39:37 Going to coordinates X=-11.995, Y=-37.498
+18.07 20:39:37 Moving is finished
+18.07 20:40:42 Scanning 146 point from 1170
+18.07 20:40:42 Going to coordinates X=-11.985, Y=-37.498
+18.07 20:40:42 Moving is finished
+18.07 20:41:46 Scanning 147 point from 1170
+18.07 20:41:46 Going to coordinates X=-11.975, Y=-37.498
+18.07 20:41:46 Moving is finished
+18.07 20:42:52 Scanning 148 point from 1170
+18.07 20:42:52 Going to coordinates X=-11.965, Y=-37.498
+18.07 20:42:52 Moving is finished
+18.07 20:43:56 Scanning 149 point from 1170
+18.07 20:43:56 Going to coordinates X=-11.955, Y=-37.498
+18.07 20:43:57 Moving is finished
+18.07 20:45:01 Scanning 150 point from 1170
+18.07 20:45:01 Going to coordinates X=-12.245, Y=-37.488
+18.07 20:45:02 Moving is finished
+18.07 20:46:07 Scanning 151 point from 1170
+18.07 20:46:07 Going to coordinates X=-12.235, Y=-37.488
+18.07 20:46:07 Moving is finished
+18.07 20:47:12 Scanning 152 point from 1170
+18.07 20:47:12 Going to coordinates X=-12.225, Y=-37.488
+18.07 20:47:12 Moving is finished
+18.07 20:48:17 Scanning 153 point from 1170
+18.07 20:48:17 Going to coordinates X=-12.215, Y=-37.488
+18.07 20:48:18 Moving is finished
+18.07 20:49:22 Scanning 154 point from 1170
+18.07 20:49:22 Going to coordinates X=-12.205, Y=-37.488
+18.07 20:49:22 Moving is finished
+18.07 20:50:27 Scanning 155 point from 1170
+18.07 20:50:27 Going to coordinates X=-12.195, Y=-37.488
+18.07 20:50:27 Moving is finished
+18.07 20:51:32 Scanning 156 point from 1170
+18.07 20:51:32 Going to coordinates X=-12.185, Y=-37.488
+18.07 20:51:32 Moving is finished
+18.07 20:52:36 Scanning 157 point from 1170
+18.07 20:52:36 Going to coordinates X=-12.175, Y=-37.488
+18.07 20:52:36 Moving is finished
+18.07 20:53:41 Scanning 158 point from 1170
+18.07 20:53:41 Going to coordinates X=-12.165, Y=-37.488
+18.07 20:53:41 Moving is finished
+18.07 20:54:46 Scanning 159 point from 1170
+18.07 20:54:46 Going to coordinates X=-12.155, Y=-37.488
+18.07 20:54:46 Moving is finished
+18.07 20:55:50 Scanning 160 point from 1170
+18.07 20:55:50 Going to coordinates X=-12.145, Y=-37.488
+18.07 20:55:50 Moving is finished
+18.07 20:56:56 Scanning 161 point from 1170
+18.07 20:56:56 Going to coordinates X=-12.135, Y=-37.488
+18.07 20:56:56 Moving is finished
+18.07 20:58:01 Scanning 162 point from 1170
+18.07 20:58:01 Going to coordinates X=-12.125, Y=-37.488
+18.07 20:58:01 Moving is finished
+18.07 20:59:06 Scanning 163 point from 1170
+18.07 20:59:06 Going to coordinates X=-12.115, Y=-37.488
+18.07 20:59:06 Moving is finished
+18.07 21:00:11 Scanning 164 point from 1170
+18.07 21:00:11 Going to coordinates X=-12.105, Y=-37.488
+18.07 21:00:11 Moving is finished
+18.07 21:01:15 Scanning 165 point from 1170
+18.07 21:01:15 Going to coordinates X=-12.095, Y=-37.488
+18.07 21:01:15 Moving is finished
+18.07 21:02:20 Scanning 166 point from 1170
+18.07 21:02:20 Going to coordinates X=-12.085, Y=-37.488
+18.07 21:02:20 Moving is finished
+18.07 21:03:25 Scanning 167 point from 1170
+18.07 21:03:25 Going to coordinates X=-12.075, Y=-37.488
+18.07 21:03:25 Moving is finished
+18.07 21:04:29 Scanning 168 point from 1170
+18.07 21:04:29 Going to coordinates X=-12.065, Y=-37.488
+18.07 21:04:29 Moving is finished
+18.07 21:05:34 Scanning 169 point from 1170
+18.07 21:05:34 Going to coordinates X=-12.055, Y=-37.488
+18.07 21:05:34 Moving is finished
+18.07 21:06:39 Scanning 170 point from 1170
+18.07 21:06:39 Going to coordinates X=-12.045, Y=-37.488
+18.07 21:06:40 Moving is finished
+18.07 21:07:44 Scanning 171 point from 1170
+18.07 21:07:44 Going to coordinates X=-12.035, Y=-37.488
+18.07 21:07:44 Moving is finished
+18.07 21:08:49 Scanning 172 point from 1170
+18.07 21:08:49 Going to coordinates X=-12.025, Y=-37.488
+18.07 21:08:49 Moving is finished
+18.07 21:09:54 Scanning 173 point from 1170
+18.07 21:09:54 Going to coordinates X=-12.015, Y=-37.488
+18.07 21:09:54 Moving is finished
+18.07 21:10:58 Scanning 174 point from 1170
+18.07 21:10:58 Going to coordinates X=-12.005, Y=-37.488
+18.07 21:10:58 Moving is finished
+18.07 21:12:04 Scanning 175 point from 1170
+18.07 21:12:04 Going to coordinates X=-11.995, Y=-37.488
+18.07 21:12:04 Moving is finished
+18.07 21:13:08 Scanning 176 point from 1170
+18.07 21:13:08 Going to coordinates X=-11.985, Y=-37.488
+18.07 21:13:08 Moving is finished
+18.07 21:14:13 Scanning 177 point from 1170
+18.07 21:14:13 Going to coordinates X=-11.975, Y=-37.488
+18.07 21:14:13 Moving is finished
+18.07 21:15:17 Scanning 178 point from 1170
+18.07 21:15:17 Going to coordinates X=-11.965, Y=-37.488
+18.07 21:15:17 Moving is finished
+18.07 21:16:22 Scanning 179 point from 1170
+18.07 21:16:22 Going to coordinates X=-11.955, Y=-37.488
+18.07 21:16:22 Moving is finished
+18.07 21:17:26 Scanning 180 point from 1170
+18.07 21:17:26 Going to coordinates X=-12.245, Y=-37.478
+18.07 21:17:27 Moving is finished
+18.07 21:18:32 Scanning 181 point from 1170
+18.07 21:18:32 Going to coordinates X=-12.235, Y=-37.478
+18.07 21:18:32 Moving is finished
+18.07 21:19:36 Scanning 182 point from 1170
+18.07 21:19:36 Going to coordinates X=-12.225, Y=-37.478
+18.07 21:19:36 Moving is finished
+18.07 21:20:41 Scanning 183 point from 1170
+18.07 21:20:41 Going to coordinates X=-12.215, Y=-37.478
+18.07 21:20:41 Moving is finished
+18.07 21:21:46 Scanning 184 point from 1170
+18.07 21:21:46 Going to coordinates X=-12.205, Y=-37.478
+18.07 21:21:46 Moving is finished
+18.07 21:22:51 Scanning 185 point from 1170
+18.07 21:22:51 Going to coordinates X=-12.195, Y=-37.478
+18.07 21:22:52 Moving is finished
+18.07 21:23:56 Scanning 186 point from 1170
+18.07 21:23:56 Going to coordinates X=-12.185, Y=-37.478
+18.07 21:23:56 Moving is finished
+18.07 21:25:01 Scanning 187 point from 1170
+18.07 21:25:01 Going to coordinates X=-12.175, Y=-37.478
+18.07 21:25:01 Moving is finished
+18.07 21:26:06 Scanning 188 point from 1170
+18.07 21:26:06 Going to coordinates X=-12.165, Y=-37.478
+18.07 21:26:06 Moving is finished
+18.07 21:27:11 Scanning 189 point from 1170
+18.07 21:27:11 Going to coordinates X=-12.155, Y=-37.478
+18.07 21:27:11 Moving is finished
+18.07 21:28:16 Scanning 190 point from 1170
+18.07 21:28:16 Going to coordinates X=-12.145, Y=-37.478
+18.07 21:28:16 Moving is finished
+18.07 21:29:21 Scanning 191 point from 1170
+18.07 21:29:21 Going to coordinates X=-12.135, Y=-37.478
+18.07 21:29:21 Moving is finished
+18.07 21:30:26 Scanning 192 point from 1170
+18.07 21:30:26 Going to coordinates X=-12.125, Y=-37.478
+18.07 21:30:26 Moving is finished
+18.07 21:31:31 Scanning 193 point from 1170
+18.07 21:31:31 Going to coordinates X=-12.115, Y=-37.478
+18.07 21:31:31 Moving is finished
+18.07 21:32:36 Scanning 194 point from 1170
+18.07 21:32:36 Going to coordinates X=-12.105, Y=-37.478
+18.07 21:32:36 Moving is finished
+18.07 21:33:41 Scanning 195 point from 1170
+18.07 21:33:41 Going to coordinates X=-12.095, Y=-37.478
+18.07 21:33:41 Moving is finished
+18.07 21:34:46 Scanning 196 point from 1170
+18.07 21:34:46 Going to coordinates X=-12.085, Y=-37.478
+18.07 21:34:46 Moving is finished
+18.07 21:35:51 Scanning 197 point from 1170
+18.07 21:35:51 Going to coordinates X=-12.075, Y=-37.478
+18.07 21:35:51 Moving is finished
+18.07 21:36:56 Scanning 198 point from 1170
+18.07 21:36:56 Going to coordinates X=-12.065, Y=-37.478
+18.07 21:36:57 Moving is finished
+18.07 21:38:02 Scanning 199 point from 1170
+18.07 21:38:02 Going to coordinates X=-12.055, Y=-37.478
+18.07 21:38:02 Moving is finished
+18.07 21:39:07 Scanning 200 point from 1170
+18.07 21:39:07 Going to coordinates X=-12.045, Y=-37.478
+18.07 21:39:08 Moving is finished
+18.07 21:40:13 Scanning 201 point from 1170
+18.07 21:40:13 Going to coordinates X=-12.035, Y=-37.478
+18.07 21:40:13 Moving is finished
+18.07 21:41:18 Scanning 202 point from 1170
+18.07 21:41:18 Going to coordinates X=-12.025, Y=-37.478
+18.07 21:41:18 Moving is finished
+18.07 21:42:22 Scanning 203 point from 1170
+18.07 21:42:22 Going to coordinates X=-12.015, Y=-37.478
+18.07 21:42:22 Moving is finished
+18.07 21:43:27 Scanning 204 point from 1170
+18.07 21:43:27 Going to coordinates X=-12.005, Y=-37.478
+18.07 21:43:27 Moving is finished
+18.07 21:44:32 Scanning 205 point from 1170
+18.07 21:44:32 Going to coordinates X=-11.995, Y=-37.478
+18.07 21:44:32 Moving is finished
+18.07 21:45:37 Scanning 206 point from 1170
+18.07 21:45:37 Going to coordinates X=-11.985, Y=-37.478
+18.07 21:45:37 Moving is finished
+18.07 21:46:42 Scanning 207 point from 1170
+18.07 21:46:42 Going to coordinates X=-11.975, Y=-37.478
+18.07 21:46:42 Moving is finished
+18.07 21:47:47 Scanning 208 point from 1170
+18.07 21:47:47 Going to coordinates X=-11.965, Y=-37.478
+18.07 21:47:47 Moving is finished
+18.07 21:48:53 Scanning 209 point from 1170
+18.07 21:48:53 Going to coordinates X=-11.955, Y=-37.478
+18.07 21:48:53 Moving is finished
+18.07 21:49:58 Scanning 210 point from 1170
+18.07 21:49:58 Going to coordinates X=-12.245, Y=-37.468
+18.07 21:49:58 Moving is finished
+18.07 21:51:03 Scanning 211 point from 1170
+18.07 21:51:03 Going to coordinates X=-12.235, Y=-37.468
+18.07 21:51:03 Moving is finished
+18.07 21:52:08 Scanning 212 point from 1170
+18.07 21:52:08 Going to coordinates X=-12.225, Y=-37.468
+18.07 21:52:08 Moving is finished
+18.07 21:53:13 Scanning 213 point from 1170
+18.07 21:53:13 Going to coordinates X=-12.215, Y=-37.468
+18.07 21:53:13 Moving is finished
+18.07 21:54:18 Scanning 214 point from 1170
+18.07 21:54:18 Going to coordinates X=-12.205, Y=-37.468
+18.07 21:54:18 Moving is finished
+18.07 21:55:23 Scanning 215 point from 1170
+18.07 21:55:23 Going to coordinates X=-12.195, Y=-37.468
+18.07 21:55:23 Moving is finished
+18.07 21:56:28 Scanning 216 point from 1170
+18.07 21:56:28 Going to coordinates X=-12.185, Y=-37.468
+18.07 21:56:29 Moving is finished
+18.07 21:57:33 Scanning 217 point from 1170
+18.07 21:57:33 Going to coordinates X=-12.175, Y=-37.468
+18.07 21:57:33 Moving is finished
+18.07 21:58:38 Scanning 218 point from 1170
+18.07 21:58:38 Going to coordinates X=-12.165, Y=-37.468
+18.07 21:58:38 Moving is finished
+18.07 21:59:43 Scanning 219 point from 1170
+18.07 21:59:43 Going to coordinates X=-12.155, Y=-37.468
+18.07 21:59:43 Moving is finished
+18.07 22:00:47 Scanning 220 point from 1170
+18.07 22:00:47 Going to coordinates X=-12.145, Y=-37.468
+18.07 22:00:47 Moving is finished
+18.07 22:01:52 Scanning 221 point from 1170
+18.07 22:01:52 Going to coordinates X=-12.135, Y=-37.468
+18.07 22:01:52 Moving is finished
+18.07 22:02:57 Scanning 222 point from 1170
+18.07 22:02:57 Going to coordinates X=-12.125, Y=-37.468
+18.07 22:02:57 Moving is finished
+18.07 22:04:02 Scanning 223 point from 1170
+18.07 22:04:02 Going to coordinates X=-12.115, Y=-37.468
+18.07 22:04:02 Moving is finished
+18.07 22:05:06 Scanning 224 point from 1170
+18.07 22:05:06 Going to coordinates X=-12.105, Y=-37.468
+18.07 22:05:07 Moving is finished
+18.07 22:06:11 Scanning 225 point from 1170
+18.07 22:06:11 Going to coordinates X=-12.095, Y=-37.468
+18.07 22:06:11 Moving is finished
+18.07 22:07:16 Scanning 226 point from 1170
+18.07 22:07:16 Going to coordinates X=-12.085, Y=-37.468
+18.07 22:07:16 Moving is finished
+18.07 22:08:21 Scanning 227 point from 1170
+18.07 22:08:21 Going to coordinates X=-12.075, Y=-37.468
+18.07 22:08:21 Moving is finished
+18.07 22:09:25 Scanning 228 point from 1170
+18.07 22:09:25 Going to coordinates X=-12.065, Y=-37.468
+18.07 22:09:26 Moving is finished
+18.07 22:10:30 Scanning 229 point from 1170
+18.07 22:10:30 Going to coordinates X=-12.055, Y=-37.468
+18.07 22:10:30 Moving is finished
+18.07 22:11:35 Scanning 230 point from 1170
+18.07 22:11:35 Going to coordinates X=-12.045, Y=-37.468
+18.07 22:11:35 Moving is finished
+18.07 22:12:39 Scanning 231 point from 1170
+18.07 22:12:39 Going to coordinates X=-12.035, Y=-37.468
+18.07 22:12:39 Moving is finished
+18.07 22:13:44 Scanning 232 point from 1170
+18.07 22:13:44 Going to coordinates X=-12.025, Y=-37.468
+18.07 22:13:44 Moving is finished
+18.07 22:14:49 Scanning 233 point from 1170
+18.07 22:14:49 Going to coordinates X=-12.015, Y=-37.468
+18.07 22:14:49 Moving is finished
+18.07 22:15:54 Scanning 234 point from 1170
+18.07 22:15:54 Going to coordinates X=-12.005, Y=-37.468
+18.07 22:15:54 Moving is finished
+18.07 22:16:59 Scanning 235 point from 1170
+18.07 22:16:59 Going to coordinates X=-11.995, Y=-37.468
+18.07 22:16:59 Moving is finished
+18.07 22:18:04 Scanning 236 point from 1170
+18.07 22:18:04 Going to coordinates X=-11.985, Y=-37.468
+18.07 22:18:04 Moving is finished
+18.07 22:19:09 Scanning 237 point from 1170
+18.07 22:19:09 Going to coordinates X=-11.975, Y=-37.468
+18.07 22:19:09 Moving is finished
+18.07 22:20:14 Scanning 238 point from 1170
+18.07 22:20:14 Going to coordinates X=-11.965, Y=-37.468
+18.07 22:20:14 Moving is finished
+18.07 22:21:19 Scanning 239 point from 1170
+18.07 22:21:19 Going to coordinates X=-11.955, Y=-37.468
+18.07 22:21:19 Moving is finished
+18.07 22:22:24 Scanning 240 point from 1170
+18.07 22:22:24 Going to coordinates X=-12.245, Y=-37.458
+18.07 22:22:24 Moving is finished
+18.07 22:23:29 Scanning 241 point from 1170
+18.07 22:23:29 Going to coordinates X=-12.235, Y=-37.458
+18.07 22:23:29 Moving is finished
+18.07 22:24:35 Scanning 242 point from 1170
+18.07 22:24:35 Going to coordinates X=-12.225, Y=-37.458
+18.07 22:24:35 Moving is finished
+18.07 22:25:39 Scanning 243 point from 1170
+18.07 22:25:39 Going to coordinates X=-12.215, Y=-37.458
+18.07 22:25:39 Moving is finished
+18.07 22:26:44 Scanning 244 point from 1170
+18.07 22:26:44 Going to coordinates X=-12.205, Y=-37.458
+18.07 22:26:44 Moving is finished
+18.07 22:27:49 Scanning 245 point from 1170
+18.07 22:27:49 Going to coordinates X=-12.195, Y=-37.458
+18.07 22:27:49 Moving is finished
+18.07 22:28:55 Scanning 246 point from 1170
+18.07 22:28:55 Going to coordinates X=-12.185, Y=-37.458
+18.07 22:28:55 Moving is finished
+18.07 22:30:00 Scanning 247 point from 1170
+18.07 22:30:00 Going to coordinates X=-12.175, Y=-37.458
+18.07 22:30:00 Moving is finished
+18.07 22:31:05 Scanning 248 point from 1170
+18.07 22:31:05 Going to coordinates X=-12.165, Y=-37.458
+18.07 22:31:05 Moving is finished
+18.07 22:32:09 Scanning 249 point from 1170
+18.07 22:32:09 Going to coordinates X=-12.155, Y=-37.458
+18.07 22:32:09 Moving is finished
+18.07 22:33:14 Scanning 250 point from 1170
+18.07 22:33:14 Going to coordinates X=-12.145, Y=-37.458
+18.07 22:33:14 Moving is finished
+18.07 22:34:19 Scanning 251 point from 1170
+18.07 22:34:19 Going to coordinates X=-12.135, Y=-37.458
+18.07 22:34:19 Moving is finished
+18.07 22:35:24 Scanning 252 point from 1170
+18.07 22:35:24 Going to coordinates X=-12.125, Y=-37.458
+18.07 22:35:24 Moving is finished
+18.07 22:36:29 Scanning 253 point from 1170
+18.07 22:36:29 Going to coordinates X=-12.115, Y=-37.458
+18.07 22:36:30 Moving is finished
+18.07 22:37:34 Scanning 254 point from 1170
+18.07 22:37:34 Going to coordinates X=-12.105, Y=-37.458
+18.07 22:37:34 Moving is finished
+18.07 22:38:39 Scanning 255 point from 1170
+18.07 22:38:39 Going to coordinates X=-12.095, Y=-37.458
+18.07 22:38:39 Moving is finished
+18.07 22:39:43 Scanning 256 point from 1170
+18.07 22:39:43 Going to coordinates X=-12.085, Y=-37.458
+18.07 22:39:43 Moving is finished
+18.07 22:40:48 Scanning 257 point from 1170
+18.07 22:40:48 Going to coordinates X=-12.075, Y=-37.458
+18.07 22:40:48 Moving is finished
+18.07 22:41:53 Scanning 258 point from 1170
+18.07 22:41:53 Going to coordinates X=-12.065, Y=-37.458
+18.07 22:41:53 Moving is finished
+18.07 22:42:57 Scanning 259 point from 1170
+18.07 22:42:57 Going to coordinates X=-12.055, Y=-37.458
+18.07 22:42:58 Moving is finished
+18.07 22:44:03 Scanning 260 point from 1170
+18.07 22:44:03 Going to coordinates X=-12.045, Y=-37.458
+18.07 22:44:03 Moving is finished
+18.07 22:45:08 Scanning 261 point from 1170
+18.07 22:45:08 Going to coordinates X=-12.035, Y=-37.458
+18.07 22:45:08 Moving is finished
+18.07 22:46:13 Scanning 262 point from 1170
+18.07 22:46:13 Going to coordinates X=-12.025, Y=-37.458
+18.07 22:46:13 Moving is finished
+18.07 22:47:17 Scanning 263 point from 1170
+18.07 22:47:17 Going to coordinates X=-12.015, Y=-37.458
+18.07 22:47:18 Moving is finished
+18.07 22:48:23 Scanning 264 point from 1170
+18.07 22:48:23 Going to coordinates X=-12.005, Y=-37.458
+18.07 22:48:23 Moving is finished
+18.07 22:49:28 Scanning 265 point from 1170
+18.07 22:49:28 Going to coordinates X=-11.995, Y=-37.458
+18.07 22:49:28 Moving is finished
+18.07 22:50:33 Scanning 266 point from 1170
+18.07 22:50:33 Going to coordinates X=-11.985, Y=-37.458
+18.07 22:50:33 Moving is finished
+18.07 22:51:37 Scanning 267 point from 1170
+18.07 22:51:37 Going to coordinates X=-11.975, Y=-37.458
+18.07 22:51:37 Moving is finished
+18.07 22:52:43 Scanning 268 point from 1170
+18.07 22:52:43 Going to coordinates X=-11.965, Y=-37.458
+18.07 22:52:43 Moving is finished
+18.07 22:53:47 Scanning 269 point from 1170
+18.07 22:53:47 Going to coordinates X=-11.955, Y=-37.458
+18.07 22:53:48 Moving is finished
+18.07 22:54:52 Scanning 270 point from 1170
+18.07 22:54:52 Going to coordinates X=-12.245, Y=-37.448
+18.07 22:54:52 Moving is finished
+18.07 22:55:58 Scanning 271 point from 1170
+18.07 22:55:58 Going to coordinates X=-12.235, Y=-37.448
+18.07 22:55:58 Moving is finished
+18.07 22:57:03 Scanning 272 point from 1170
+18.07 22:57:03 Going to coordinates X=-12.225, Y=-37.448
+18.07 22:57:03 Moving is finished
+18.07 22:58:08 Scanning 273 point from 1170
+18.07 22:58:08 Going to coordinates X=-12.215, Y=-37.448
+18.07 22:58:08 Moving is finished
+18.07 22:59:13 Scanning 274 point from 1170
+18.07 22:59:13 Going to coordinates X=-12.205, Y=-37.448
+18.07 22:59:13 Moving is finished
+18.07 23:00:18 Scanning 275 point from 1170
+18.07 23:00:18 Going to coordinates X=-12.195, Y=-37.448
+18.07 23:00:18 Moving is finished
+18.07 23:01:23 Scanning 276 point from 1170
+18.07 23:01:23 Going to coordinates X=-12.185, Y=-37.448
+18.07 23:01:24 Moving is finished
+18.07 23:02:28 Scanning 277 point from 1170
+18.07 23:02:28 Going to coordinates X=-12.175, Y=-37.448
+18.07 23:02:28 Moving is finished
+18.07 23:03:33 Scanning 278 point from 1170
+18.07 23:03:33 Going to coordinates X=-12.165, Y=-37.448
+18.07 23:03:33 Moving is finished
+18.07 23:04:38 Scanning 279 point from 1170
+18.07 23:04:38 Going to coordinates X=-12.155, Y=-37.448
+18.07 23:04:38 Moving is finished
+18.07 23:05:44 Scanning 280 point from 1170
+18.07 23:05:44 Going to coordinates X=-12.145, Y=-37.448
+18.07 23:05:44 Moving is finished
+18.07 23:06:48 Scanning 281 point from 1170
+18.07 23:06:48 Going to coordinates X=-12.135, Y=-37.448
+18.07 23:06:48 Moving is finished
+18.07 23:07:53 Scanning 282 point from 1170
+18.07 23:07:53 Going to coordinates X=-12.125, Y=-37.448
+18.07 23:07:53 Moving is finished
+18.07 23:08:58 Scanning 283 point from 1170
+18.07 23:08:58 Going to coordinates X=-12.115, Y=-37.448
+18.07 23:08:58 Moving is finished
+18.07 23:10:03 Scanning 284 point from 1170
+18.07 23:10:03 Going to coordinates X=-12.105, Y=-37.448
+18.07 23:10:03 Moving is finished
+18.07 23:11:08 Scanning 285 point from 1170
+18.07 23:11:08 Going to coordinates X=-12.095, Y=-37.448
+18.07 23:11:08 Moving is finished
+18.07 23:12:13 Scanning 286 point from 1170
+18.07 23:12:13 Going to coordinates X=-12.085, Y=-37.448
+18.07 23:12:14 Moving is finished
+18.07 23:13:18 Scanning 287 point from 1170
+18.07 23:13:18 Going to coordinates X=-12.075, Y=-37.448
+18.07 23:13:19 Moving is finished
+18.07 23:14:23 Scanning 288 point from 1170
+18.07 23:14:23 Going to coordinates X=-12.065, Y=-37.448
+18.07 23:14:23 Moving is finished
+18.07 23:15:28 Scanning 289 point from 1170
+18.07 23:15:28 Going to coordinates X=-12.055, Y=-37.448
+18.07 23:15:28 Moving is finished
+18.07 23:16:33 Scanning 290 point from 1170
+18.07 23:16:33 Going to coordinates X=-12.045, Y=-37.448
+18.07 23:16:33 Moving is finished
+18.07 23:17:37 Scanning 291 point from 1170
+18.07 23:17:37 Going to coordinates X=-12.035, Y=-37.448
+18.07 23:17:37 Moving is finished
+18.07 23:18:42 Scanning 292 point from 1170
+18.07 23:18:42 Going to coordinates X=-12.025, Y=-37.448
+18.07 23:18:42 Moving is finished
+18.07 23:19:48 Scanning 293 point from 1170
+18.07 23:19:48 Going to coordinates X=-12.015, Y=-37.448
+18.07 23:19:48 Moving is finished
+18.07 23:20:53 Scanning 294 point from 1170
+18.07 23:20:53 Going to coordinates X=-12.005, Y=-37.448
+18.07 23:20:53 Moving is finished
+18.07 23:21:58 Scanning 295 point from 1170
+18.07 23:21:58 Going to coordinates X=-11.995, Y=-37.448
+18.07 23:21:58 Moving is finished
+18.07 23:23:03 Scanning 296 point from 1170
+18.07 23:23:03 Going to coordinates X=-11.985, Y=-37.448
+18.07 23:23:03 Moving is finished
+18.07 23:24:08 Scanning 297 point from 1170
+18.07 23:24:08 Going to coordinates X=-11.975, Y=-37.448
+18.07 23:24:08 Moving is finished
+18.07 23:25:13 Scanning 298 point from 1170
+18.07 23:25:13 Going to coordinates X=-11.965, Y=-37.448
+18.07 23:25:13 Moving is finished
+18.07 23:26:18 Scanning 299 point from 1170
+18.07 23:26:18 Going to coordinates X=-11.955, Y=-37.448
+18.07 23:26:18 Moving is finished
+18.07 23:27:23 Scanning 300 point from 1170
+18.07 23:27:23 Going to coordinates X=-12.245, Y=-37.438
+18.07 23:27:23 Moving is finished
+18.07 23:28:28 Scanning 301 point from 1170
+18.07 23:28:28 Going to coordinates X=-12.235, Y=-37.438
+18.07 23:28:28 Moving is finished
+18.07 23:29:33 Scanning 302 point from 1170
+18.07 23:29:33 Going to coordinates X=-12.225, Y=-37.438
+18.07 23:29:33 Moving is finished
+18.07 23:30:37 Scanning 303 point from 1170
+18.07 23:30:37 Going to coordinates X=-12.215, Y=-37.438
+18.07 23:30:37 Moving is finished
+18.07 23:31:43 Scanning 304 point from 1170
+18.07 23:31:43 Going to coordinates X=-12.205, Y=-37.438
+18.07 23:31:43 Moving is finished
+18.07 23:32:48 Scanning 305 point from 1170
+18.07 23:32:48 Going to coordinates X=-12.195, Y=-37.438
+18.07 23:32:48 Moving is finished
+18.07 23:33:52 Scanning 306 point from 1170
+18.07 23:33:52 Going to coordinates X=-12.185, Y=-37.438
+18.07 23:33:53 Moving is finished
+18.07 23:34:57 Scanning 307 point from 1170
+18.07 23:34:57 Going to coordinates X=-12.175, Y=-37.438
+18.07 23:34:57 Moving is finished
+18.07 23:36:02 Scanning 308 point from 1170
+18.07 23:36:02 Going to coordinates X=-12.165, Y=-37.438
+18.07 23:36:02 Moving is finished
+18.07 23:37:06 Scanning 309 point from 1170
+18.07 23:37:06 Going to coordinates X=-12.155, Y=-37.438
+18.07 23:37:06 Moving is finished
+18.07 23:38:12 Scanning 310 point from 1170
+18.07 23:38:12 Going to coordinates X=-12.145, Y=-37.438
+18.07 23:38:12 Moving is finished
+18.07 23:39:16 Scanning 311 point from 1170
+18.07 23:39:16 Going to coordinates X=-12.135, Y=-37.438
+18.07 23:39:17 Moving is finished
+18.07 23:40:21 Scanning 312 point from 1170
+18.07 23:40:21 Going to coordinates X=-12.125, Y=-37.438
+18.07 23:40:22 Moving is finished
+18.07 23:41:26 Scanning 313 point from 1170
+18.07 23:41:26 Going to coordinates X=-12.115, Y=-37.438
+18.07 23:41:26 Moving is finished
+18.07 23:42:31 Scanning 314 point from 1170
+18.07 23:42:31 Going to coordinates X=-12.105, Y=-37.438
+18.07 23:42:31 Moving is finished
+18.07 23:43:36 Scanning 315 point from 1170
+18.07 23:43:36 Going to coordinates X=-12.095, Y=-37.438
+18.07 23:43:36 Moving is finished
+18.07 23:44:41 Scanning 316 point from 1170
+18.07 23:44:41 Going to coordinates X=-12.085, Y=-37.438
+18.07 23:44:41 Moving is finished
+18.07 23:45:45 Scanning 317 point from 1170
+18.07 23:45:45 Going to coordinates X=-12.075, Y=-37.438
+18.07 23:45:45 Moving is finished
+18.07 23:46:50 Scanning 318 point from 1170
+18.07 23:46:50 Going to coordinates X=-12.065, Y=-37.438
+18.07 23:46:50 Moving is finished
+18.07 23:47:55 Scanning 319 point from 1170
+18.07 23:47:55 Going to coordinates X=-12.055, Y=-37.438
+18.07 23:47:55 Moving is finished
+18.07 23:48:59 Scanning 320 point from 1170
+18.07 23:48:59 Going to coordinates X=-12.045, Y=-37.438
+18.07 23:49:00 Moving is finished
+18.07 23:50:04 Scanning 321 point from 1170
+18.07 23:50:04 Going to coordinates X=-12.035, Y=-37.438
+18.07 23:50:04 Moving is finished
+18.07 23:51:09 Scanning 322 point from 1170
+18.07 23:51:09 Going to coordinates X=-12.025, Y=-37.438
+18.07 23:51:09 Moving is finished
+18.07 23:52:14 Scanning 323 point from 1170
+18.07 23:52:14 Going to coordinates X=-12.015, Y=-37.438
+18.07 23:52:14 Moving is finished
+18.07 23:53:19 Scanning 324 point from 1170
+18.07 23:53:19 Going to coordinates X=-12.005, Y=-37.438
+18.07 23:53:19 Moving is finished
+18.07 23:54:24 Scanning 325 point from 1170
+18.07 23:54:24 Going to coordinates X=-11.995, Y=-37.438
+18.07 23:54:24 Moving is finished
+18.07 23:55:28 Scanning 326 point from 1170
+18.07 23:55:28 Going to coordinates X=-11.985, Y=-37.438
+18.07 23:55:29 Moving is finished
+18.07 23:56:33 Scanning 327 point from 1170
+18.07 23:56:33 Going to coordinates X=-11.975, Y=-37.438
+18.07 23:56:34 Moving is finished
+18.07 23:57:38 Scanning 328 point from 1170
+18.07 23:57:38 Going to coordinates X=-11.965, Y=-37.438
+18.07 23:57:38 Moving is finished
+18.07 23:58:42 Scanning 329 point from 1170
+18.07 23:58:42 Going to coordinates X=-11.955, Y=-37.438
+18.07 23:58:42 Moving is finished
+18.07 23:59:47 Scanning 330 point from 1170
+18.07 23:59:47 Going to coordinates X=-12.245, Y=-37.428
+18.07 23:59:47 Moving is finished
+19.07 00:00:52 Scanning 331 point from 1170
+19.07 00:00:52 Going to coordinates X=-12.235, Y=-37.428
+19.07 00:00:52 Moving is finished
+19.07 00:01:56 Scanning 332 point from 1170
+19.07 00:01:56 Going to coordinates X=-12.225, Y=-37.428
+19.07 00:01:56 Moving is finished
+19.07 00:03:01 Scanning 333 point from 1170
+19.07 00:03:01 Going to coordinates X=-12.215, Y=-37.428
+19.07 00:03:01 Moving is finished
+19.07 00:04:06 Scanning 334 point from 1170
+19.07 00:04:06 Going to coordinates X=-12.205, Y=-37.428
+19.07 00:04:06 Moving is finished
+19.07 00:05:10 Scanning 335 point from 1170
+19.07 00:05:10 Going to coordinates X=-12.195, Y=-37.428
+19.07 00:05:10 Moving is finished
+19.07 00:06:15 Scanning 336 point from 1170
+19.07 00:06:15 Going to coordinates X=-12.185, Y=-37.428
+19.07 00:06:16 Moving is finished
+19.07 00:07:21 Scanning 337 point from 1170
+19.07 00:07:21 Going to coordinates X=-12.175, Y=-37.428
+19.07 00:07:21 Moving is finished
+19.07 00:08:26 Scanning 338 point from 1170
+19.07 00:08:26 Going to coordinates X=-12.165, Y=-37.428
+19.07 00:08:26 Moving is finished
+19.07 00:09:31 Scanning 339 point from 1170
+19.07 00:09:31 Going to coordinates X=-12.155, Y=-37.428
+19.07 00:09:31 Moving is finished
+19.07 00:10:36 Scanning 340 point from 1170
+19.07 00:10:36 Going to coordinates X=-12.145, Y=-37.428
+19.07 00:10:36 Moving is finished
+19.07 00:11:40 Scanning 341 point from 1170
+19.07 00:11:40 Going to coordinates X=-12.135, Y=-37.428
+19.07 00:11:40 Moving is finished
+19.07 00:12:45 Scanning 342 point from 1170
+19.07 00:12:45 Going to coordinates X=-12.125, Y=-37.428
+19.07 00:12:45 Moving is finished
+19.07 00:13:50 Scanning 343 point from 1170
+19.07 00:13:50 Going to coordinates X=-12.115, Y=-37.428
+19.07 00:13:50 Moving is finished
+19.07 00:14:55 Scanning 344 point from 1170
+19.07 00:14:55 Going to coordinates X=-12.105, Y=-37.428
+19.07 00:14:55 Moving is finished
+19.07 00:15:59 Scanning 345 point from 1170
+19.07 00:15:59 Going to coordinates X=-12.095, Y=-37.428
+19.07 00:16:00 Moving is finished
+19.07 00:17:04 Scanning 346 point from 1170
+19.07 00:17:04 Going to coordinates X=-12.085, Y=-37.428
+19.07 00:17:04 Moving is finished
+19.07 00:18:10 Scanning 347 point from 1170
+19.07 00:18:10 Going to coordinates X=-12.075, Y=-37.428
+19.07 00:18:10 Moving is finished
+19.07 00:19:15 Scanning 348 point from 1170
+19.07 00:19:15 Going to coordinates X=-12.065, Y=-37.428
+19.07 00:19:15 Moving is finished
+19.07 00:20:20 Scanning 349 point from 1170
+19.07 00:20:20 Going to coordinates X=-12.055, Y=-37.428
+19.07 00:20:20 Moving is finished
+19.07 00:21:24 Scanning 350 point from 1170
+19.07 00:21:24 Going to coordinates X=-12.045, Y=-37.428
+19.07 00:21:24 Moving is finished
+19.07 00:22:29 Scanning 351 point from 1170
+19.07 00:22:29 Going to coordinates X=-12.035, Y=-37.428
+19.07 00:22:29 Moving is finished
+19.07 00:23:33 Scanning 352 point from 1170
+19.07 00:23:33 Going to coordinates X=-12.025, Y=-37.428
+19.07 00:23:33 Moving is finished
+19.07 00:24:38 Scanning 353 point from 1170
+19.07 00:24:38 Going to coordinates X=-12.015, Y=-37.428
+19.07 00:24:38 Moving is finished
+19.07 00:25:43 Scanning 354 point from 1170
+19.07 00:25:43 Going to coordinates X=-12.005, Y=-37.428
+19.07 00:25:43 Moving is finished
+19.07 00:26:48 Scanning 355 point from 1170
+19.07 00:26:48 Going to coordinates X=-11.995, Y=-37.428
+19.07 00:26:48 Moving is finished
+19.07 00:27:54 Scanning 356 point from 1170
+19.07 00:27:54 Going to coordinates X=-11.985, Y=-37.428
+19.07 00:27:54 Moving is finished
+19.07 00:28:59 Scanning 357 point from 1170
+19.07 00:28:59 Going to coordinates X=-11.975, Y=-37.428
+19.07 00:28:59 Moving is finished
+19.07 00:30:04 Scanning 358 point from 1170
+19.07 00:30:04 Going to coordinates X=-11.965, Y=-37.428
+19.07 00:30:04 Moving is finished
+19.07 00:31:09 Scanning 359 point from 1170
+19.07 00:31:09 Going to coordinates X=-11.955, Y=-37.428
+19.07 00:31:09 Moving is finished
+19.07 00:32:14 Scanning 360 point from 1170
+19.07 00:32:14 Going to coordinates X=-12.245, Y=-37.418
+19.07 00:32:15 Moving is finished
+19.07 00:33:19 Scanning 361 point from 1170
+19.07 00:33:19 Going to coordinates X=-12.235, Y=-37.418
+19.07 00:33:19 Moving is finished
+19.07 00:34:24 Scanning 362 point from 1170
+19.07 00:34:24 Going to coordinates X=-12.225, Y=-37.418
+19.07 00:34:24 Moving is finished
+19.07 00:35:29 Scanning 363 point from 1170
+19.07 00:35:29 Going to coordinates X=-12.215, Y=-37.418
+19.07 00:35:29 Moving is finished
+19.07 00:36:34 Scanning 364 point from 1170
+19.07 00:36:34 Going to coordinates X=-12.205, Y=-37.418
+19.07 00:36:34 Moving is finished
+19.07 00:37:38 Scanning 365 point from 1170
+19.07 00:37:38 Going to coordinates X=-12.195, Y=-37.418
+19.07 00:37:39 Moving is finished
+19.07 00:38:43 Scanning 366 point from 1170
+19.07 00:38:43 Going to coordinates X=-12.185, Y=-37.418
+19.07 00:38:43 Moving is finished
+19.07 00:39:48 Scanning 367 point from 1170
+19.07 00:39:48 Going to coordinates X=-12.175, Y=-37.418
+19.07 00:39:48 Moving is finished
+19.07 00:40:53 Scanning 368 point from 1170
+19.07 00:40:53 Going to coordinates X=-12.165, Y=-37.418
+19.07 00:40:53 Moving is finished
+19.07 00:41:58 Scanning 369 point from 1170
+19.07 00:41:58 Going to coordinates X=-12.155, Y=-37.418
+19.07 00:41:58 Moving is finished
+19.07 00:43:03 Scanning 370 point from 1170
+19.07 00:43:03 Going to coordinates X=-12.145, Y=-37.418
+19.07 00:43:03 Moving is finished
+19.07 00:44:08 Scanning 371 point from 1170
+19.07 00:44:08 Going to coordinates X=-12.135, Y=-37.418
+19.07 00:44:08 Moving is finished
+19.07 00:45:13 Scanning 372 point from 1170
+19.07 00:45:13 Going to coordinates X=-12.125, Y=-37.418
+19.07 00:45:13 Moving is finished
+19.07 00:46:17 Scanning 373 point from 1170
+19.07 00:46:17 Going to coordinates X=-12.115, Y=-37.418
+19.07 00:46:17 Moving is finished
+19.07 00:47:22 Scanning 374 point from 1170
+19.07 00:47:22 Going to coordinates X=-12.105, Y=-37.418
+19.07 00:47:22 Moving is finished
+19.07 00:48:26 Scanning 375 point from 1170
+19.07 00:48:26 Going to coordinates X=-12.095, Y=-37.418
+19.07 00:48:26 Moving is finished
+19.07 00:49:31 Scanning 376 point from 1170
+19.07 00:49:31 Going to coordinates X=-12.085, Y=-37.418
+19.07 00:49:31 Moving is finished
+19.07 00:50:36 Scanning 377 point from 1170
+19.07 00:50:36 Going to coordinates X=-12.075, Y=-37.418
+19.07 00:50:36 Moving is finished
+19.07 00:51:41 Scanning 378 point from 1170
+19.07 00:51:41 Going to coordinates X=-12.065, Y=-37.418
+19.07 00:51:41 Moving is finished
+19.07 00:52:46 Scanning 379 point from 1170
+19.07 00:52:46 Going to coordinates X=-12.055, Y=-37.418
+19.07 00:52:46 Moving is finished
+19.07 00:53:51 Scanning 380 point from 1170
+19.07 00:53:51 Going to coordinates X=-12.045, Y=-37.418
+19.07 00:53:51 Moving is finished
+19.07 00:54:56 Scanning 381 point from 1170
+19.07 00:54:56 Going to coordinates X=-12.035, Y=-37.418
+19.07 00:54:56 Moving is finished
+19.07 00:56:00 Scanning 382 point from 1170
+19.07 00:56:00 Going to coordinates X=-12.025, Y=-37.418
+19.07 00:56:01 Moving is finished
+19.07 00:57:05 Scanning 383 point from 1170
+19.07 00:57:05 Going to coordinates X=-12.015, Y=-37.418
+19.07 00:57:05 Moving is finished
+19.07 00:58:10 Scanning 384 point from 1170
+19.07 00:58:10 Going to coordinates X=-12.005, Y=-37.418
+19.07 00:58:10 Moving is finished
+19.07 00:59:15 Scanning 385 point from 1170
+19.07 00:59:15 Going to coordinates X=-11.995, Y=-37.418
+19.07 00:59:16 Moving is finished
+19.07 01:00:20 Scanning 386 point from 1170
+19.07 01:00:20 Going to coordinates X=-11.985, Y=-37.418
+19.07 01:00:20 Moving is finished
+19.07 01:01:25 Scanning 387 point from 1170
+19.07 01:01:25 Going to coordinates X=-11.975, Y=-37.418
+19.07 01:01:25 Moving is finished
+19.07 01:02:30 Scanning 388 point from 1170
+19.07 01:02:30 Going to coordinates X=-11.965, Y=-37.418
+19.07 01:02:30 Moving is finished
+19.07 01:03:35 Scanning 389 point from 1170
+19.07 01:03:35 Going to coordinates X=-11.955, Y=-37.418
+19.07 01:03:35 Moving is finished
+19.07 01:04:40 Scanning 390 point from 1170
+19.07 01:04:40 Going to coordinates X=-12.245, Y=-37.408
+19.07 01:04:40 Moving is finished
+19.07 01:05:45 Scanning 391 point from 1170
+19.07 01:05:45 Going to coordinates X=-12.235, Y=-37.408
+19.07 01:05:45 Moving is finished
+19.07 01:06:49 Scanning 392 point from 1170
+19.07 01:06:49 Going to coordinates X=-12.225, Y=-37.408
+19.07 01:06:50 Moving is finished
+19.07 01:07:54 Scanning 393 point from 1170
+19.07 01:07:54 Going to coordinates X=-12.215, Y=-37.408
+19.07 01:07:54 Moving is finished
+19.07 01:08:59 Scanning 394 point from 1170
+19.07 01:08:59 Going to coordinates X=-12.205, Y=-37.408
+19.07 01:08:59 Moving is finished
+19.07 01:10:04 Scanning 395 point from 1170
+19.07 01:10:04 Going to coordinates X=-12.195, Y=-37.408
+19.07 01:10:04 Moving is finished
+19.07 01:11:10 Scanning 396 point from 1170
+19.07 01:11:10 Going to coordinates X=-12.185, Y=-37.408
+19.07 01:11:10 Moving is finished
+19.07 01:12:15 Scanning 397 point from 1170
+19.07 01:12:15 Going to coordinates X=-12.175, Y=-37.408
+19.07 01:12:15 Moving is finished
+19.07 01:13:20 Scanning 398 point from 1170
+19.07 01:13:20 Going to coordinates X=-12.165, Y=-37.408
+19.07 01:13:20 Moving is finished
+19.07 01:14:25 Scanning 399 point from 1170
+19.07 01:14:25 Going to coordinates X=-12.155, Y=-37.408
+19.07 01:14:25 Moving is finished
+19.07 01:15:29 Scanning 400 point from 1170
+19.07 01:15:29 Going to coordinates X=-12.145, Y=-37.408
+19.07 01:15:30 Moving is finished
+19.07 01:16:35 Scanning 401 point from 1170
+19.07 01:16:35 Going to coordinates X=-12.135, Y=-37.408
+19.07 01:16:35 Moving is finished
+19.07 01:17:40 Scanning 402 point from 1170
+19.07 01:17:40 Going to coordinates X=-12.125, Y=-37.408
+19.07 01:17:40 Moving is finished
+19.07 01:18:46 Scanning 403 point from 1170
+19.07 01:18:46 Going to coordinates X=-12.115, Y=-37.408
+19.07 01:18:46 Moving is finished
+19.07 01:19:51 Scanning 404 point from 1170
+19.07 01:19:51 Going to coordinates X=-12.105, Y=-37.408
+19.07 01:19:51 Moving is finished
+19.07 01:20:56 Scanning 405 point from 1170
+19.07 01:20:56 Going to coordinates X=-12.095, Y=-37.408
+19.07 01:20:56 Moving is finished
+19.07 01:22:00 Scanning 406 point from 1170
+19.07 01:22:00 Going to coordinates X=-12.085, Y=-37.408
+19.07 01:22:01 Moving is finished
+19.07 01:23:05 Scanning 407 point from 1170
+19.07 01:23:05 Going to coordinates X=-12.075, Y=-37.408
+19.07 01:23:05 Moving is finished
+19.07 01:24:10 Scanning 408 point from 1170
+19.07 01:24:10 Going to coordinates X=-12.065, Y=-37.408
+19.07 01:24:10 Moving is finished
+19.07 01:25:16 Scanning 409 point from 1170
+19.07 01:25:16 Going to coordinates X=-12.055, Y=-37.408
+19.07 01:25:16 Moving is finished
+19.07 01:26:20 Scanning 410 point from 1170
+19.07 01:26:20 Going to coordinates X=-12.045, Y=-37.408
+19.07 01:26:21 Moving is finished
+19.07 01:27:25 Scanning 411 point from 1170
+19.07 01:27:25 Going to coordinates X=-12.035, Y=-37.408
+19.07 01:27:26 Moving is finished
+19.07 01:28:31 Scanning 412 point from 1170
+19.07 01:28:31 Going to coordinates X=-12.025, Y=-37.408
+19.07 01:28:31 Moving is finished
+19.07 01:29:36 Scanning 413 point from 1170
+19.07 01:29:36 Going to coordinates X=-12.015, Y=-37.408
+19.07 01:29:36 Moving is finished
+19.07 01:30:40 Scanning 414 point from 1170
+19.07 01:30:40 Going to coordinates X=-12.005, Y=-37.408
+19.07 01:30:41 Moving is finished
+19.07 01:31:46 Scanning 415 point from 1170
+19.07 01:31:46 Going to coordinates X=-11.995, Y=-37.408
+19.07 01:31:46 Moving is finished
+19.07 01:32:50 Scanning 416 point from 1170
+19.07 01:32:50 Going to coordinates X=-11.985, Y=-37.408
+19.07 01:32:51 Moving is finished
+19.07 01:33:56 Scanning 417 point from 1170
+19.07 01:33:56 Going to coordinates X=-11.975, Y=-37.408
+19.07 01:33:56 Moving is finished
+19.07 01:35:01 Scanning 418 point from 1170
+19.07 01:35:01 Going to coordinates X=-11.965, Y=-37.408
+19.07 01:35:01 Moving is finished
+19.07 01:36:05 Scanning 419 point from 1170
+19.07 01:36:05 Going to coordinates X=-11.955, Y=-37.408
+19.07 01:36:06 Moving is finished
+19.07 01:37:10 Scanning 420 point from 1170
+19.07 01:37:10 Going to coordinates X=-12.245, Y=-37.398
+19.07 01:37:10 Moving is finished
+19.07 01:38:15 Scanning 421 point from 1170
+19.07 01:38:15 Going to coordinates X=-12.235, Y=-37.398
+19.07 01:38:15 Moving is finished
+19.07 01:39:20 Scanning 422 point from 1170
+19.07 01:39:20 Going to coordinates X=-12.225, Y=-37.398
+19.07 01:39:20 Moving is finished
+19.07 01:40:25 Scanning 423 point from 1170
+19.07 01:40:25 Going to coordinates X=-12.215, Y=-37.398
+19.07 01:40:25 Moving is finished
+19.07 01:41:29 Scanning 424 point from 1170
+19.07 01:41:29 Going to coordinates X=-12.205, Y=-37.398
+19.07 01:41:29 Moving is finished
+19.07 01:42:34 Scanning 425 point from 1170
+19.07 01:42:34 Going to coordinates X=-12.195, Y=-37.398
+19.07 01:42:34 Moving is finished
+19.07 01:43:38 Scanning 426 point from 1170
+19.07 01:43:38 Going to coordinates X=-12.185, Y=-37.398
+19.07 01:43:39 Moving is finished
+19.07 01:44:44 Scanning 427 point from 1170
+19.07 01:44:44 Going to coordinates X=-12.175, Y=-37.398
+19.07 01:44:44 Moving is finished
+19.07 01:45:48 Scanning 428 point from 1170
+19.07 01:45:48 Going to coordinates X=-12.165, Y=-37.398
+19.07 01:45:49 Moving is finished
+19.07 01:46:53 Scanning 429 point from 1170
+19.07 01:46:53 Going to coordinates X=-12.155, Y=-37.398
+19.07 01:46:53 Moving is finished
+19.07 01:47:58 Scanning 430 point from 1170
+19.07 01:47:58 Going to coordinates X=-12.145, Y=-37.398
+19.07 01:47:58 Moving is finished
+19.07 01:49:03 Scanning 431 point from 1170
+19.07 01:49:03 Going to coordinates X=-12.135, Y=-37.398
+19.07 01:49:03 Moving is finished
+19.07 01:50:08 Scanning 432 point from 1170
+19.07 01:50:08 Going to coordinates X=-12.125, Y=-37.398
+19.07 01:50:08 Moving is finished
+19.07 01:51:13 Scanning 433 point from 1170
+19.07 01:51:13 Going to coordinates X=-12.115, Y=-37.398
+19.07 01:51:13 Moving is finished
+19.07 01:52:18 Scanning 434 point from 1170
+19.07 01:52:18 Going to coordinates X=-12.105, Y=-37.398
+19.07 01:52:18 Moving is finished
+19.07 01:53:22 Scanning 435 point from 1170
+19.07 01:53:22 Going to coordinates X=-12.095, Y=-37.398
+19.07 01:53:23 Moving is finished
+19.07 01:54:27 Scanning 436 point from 1170
+19.07 01:54:27 Going to coordinates X=-12.085, Y=-37.398
+19.07 01:54:27 Moving is finished
+19.07 01:55:32 Scanning 437 point from 1170
+19.07 01:55:32 Going to coordinates X=-12.075, Y=-37.398
+19.07 01:55:33 Moving is finished
+19.07 01:56:38 Scanning 438 point from 1170
+19.07 01:56:38 Going to coordinates X=-12.065, Y=-37.398
+19.07 01:56:38 Moving is finished
+19.07 01:57:42 Scanning 439 point from 1170
+19.07 01:57:42 Going to coordinates X=-12.055, Y=-37.398
+19.07 01:57:43 Moving is finished
+19.07 01:58:47 Scanning 440 point from 1170
+19.07 01:58:47 Going to coordinates X=-12.045, Y=-37.398
+19.07 01:58:47 Moving is finished
+19.07 01:59:52 Scanning 441 point from 1170
+19.07 01:59:52 Going to coordinates X=-12.035, Y=-37.398
+19.07 01:59:53 Moving is finished
+19.07 02:00:57 Scanning 442 point from 1170
+19.07 02:00:57 Going to coordinates X=-12.025, Y=-37.398
+19.07 02:00:57 Moving is finished
+19.07 02:02:02 Scanning 443 point from 1170
+19.07 02:02:02 Going to coordinates X=-12.015, Y=-37.398
+19.07 02:02:02 Moving is finished
+19.07 02:03:06 Scanning 444 point from 1170
+19.07 02:03:06 Going to coordinates X=-12.005, Y=-37.398
+19.07 02:03:07 Moving is finished
+19.07 02:04:12 Scanning 445 point from 1170
+19.07 02:04:12 Going to coordinates X=-11.995, Y=-37.398
+19.07 02:04:12 Moving is finished
+19.07 02:05:17 Scanning 446 point from 1170
+19.07 02:05:17 Going to coordinates X=-11.985, Y=-37.398
+19.07 02:05:17 Moving is finished
+19.07 02:06:22 Scanning 447 point from 1170
+19.07 02:06:22 Going to coordinates X=-11.975, Y=-37.398
+19.07 02:06:22 Moving is finished
+19.07 02:07:26 Scanning 448 point from 1170
+19.07 02:07:26 Going to coordinates X=-11.965, Y=-37.398
+19.07 02:07:27 Moving is finished
+19.07 02:08:31 Scanning 449 point from 1170
+19.07 02:08:31 Going to coordinates X=-11.955, Y=-37.398
+19.07 02:08:31 Moving is finished
+19.07 02:09:36 Scanning 450 point from 1170
+19.07 02:09:36 Going to coordinates X=-12.245, Y=-37.388
+19.07 02:09:36 Moving is finished
+19.07 02:10:40 Scanning 451 point from 1170
+19.07 02:10:40 Going to coordinates X=-12.235, Y=-37.388
+19.07 02:10:41 Moving is finished
+19.07 02:11:46 Scanning 452 point from 1170
+19.07 02:11:46 Going to coordinates X=-12.225, Y=-37.388
+19.07 02:11:46 Moving is finished
+19.07 02:12:51 Scanning 453 point from 1170
+19.07 02:12:51 Going to coordinates X=-12.215, Y=-37.388
+19.07 02:12:51 Moving is finished
+19.07 02:13:56 Scanning 454 point from 1170
+19.07 02:13:56 Going to coordinates X=-12.205, Y=-37.388
+19.07 02:13:56 Moving is finished
+19.07 02:15:01 Scanning 455 point from 1170
+19.07 02:15:01 Going to coordinates X=-12.195, Y=-37.388
+19.07 02:15:01 Moving is finished
+19.07 02:16:06 Scanning 456 point from 1170
+19.07 02:16:06 Going to coordinates X=-12.185, Y=-37.388
+19.07 02:16:06 Moving is finished
+19.07 02:17:11 Scanning 457 point from 1170
+19.07 02:17:11 Going to coordinates X=-12.175, Y=-37.388
+19.07 02:17:12 Moving is finished
+19.07 02:18:17 Scanning 458 point from 1170
+19.07 02:18:17 Going to coordinates X=-12.165, Y=-37.388
+19.07 02:18:17 Moving is finished
+19.07 02:19:22 Scanning 459 point from 1170
+19.07 02:19:22 Going to coordinates X=-12.155, Y=-37.388
+19.07 02:19:22 Moving is finished
+19.07 02:20:27 Scanning 460 point from 1170
+19.07 02:20:27 Going to coordinates X=-12.145, Y=-37.388
+19.07 02:20:27 Moving is finished
+19.07 02:21:32 Scanning 461 point from 1170
+19.07 02:21:32 Going to coordinates X=-12.135, Y=-37.388
+19.07 02:21:32 Moving is finished
+19.07 02:22:37 Scanning 462 point from 1170
+19.07 02:22:37 Going to coordinates X=-12.125, Y=-37.388
+19.07 02:22:37 Moving is finished
+19.07 02:23:43 Scanning 463 point from 1170
+19.07 02:23:43 Going to coordinates X=-12.115, Y=-37.388
+19.07 02:23:43 Moving is finished
+19.07 02:24:48 Scanning 464 point from 1170
+19.07 02:24:48 Going to coordinates X=-12.105, Y=-37.388
+19.07 02:24:49 Moving is finished
+19.07 02:25:53 Scanning 465 point from 1170
+19.07 02:25:53 Going to coordinates X=-12.095, Y=-37.388
+19.07 02:25:53 Moving is finished
+19.07 02:26:59 Scanning 466 point from 1170
+19.07 02:26:59 Going to coordinates X=-12.085, Y=-37.388
+19.07 02:26:59 Moving is finished
+19.07 02:28:04 Scanning 467 point from 1170
+19.07 02:28:04 Going to coordinates X=-12.075, Y=-37.388
+19.07 02:28:04 Moving is finished
+19.07 02:29:09 Scanning 468 point from 1170
+19.07 02:29:09 Going to coordinates X=-12.065, Y=-37.388
+19.07 02:29:09 Moving is finished
+19.07 02:30:13 Scanning 469 point from 1170
+19.07 02:30:13 Going to coordinates X=-12.055, Y=-37.388
+19.07 02:30:13 Moving is finished
+19.07 02:31:18 Scanning 470 point from 1170
+19.07 02:31:18 Going to coordinates X=-12.045, Y=-37.388
+19.07 02:31:18 Moving is finished
+19.07 02:32:23 Scanning 471 point from 1170
+19.07 02:32:23 Going to coordinates X=-12.035, Y=-37.388
+19.07 02:32:23 Moving is finished
+19.07 02:33:28 Scanning 472 point from 1170
+19.07 02:33:28 Going to coordinates X=-12.025, Y=-37.388
+19.07 02:33:28 Moving is finished
+19.07 02:34:32 Scanning 473 point from 1170
+19.07 02:34:32 Going to coordinates X=-12.015, Y=-37.388
+19.07 02:34:32 Moving is finished
+19.07 02:35:37 Scanning 474 point from 1170
+19.07 02:35:37 Going to coordinates X=-12.005, Y=-37.388
+19.07 02:35:37 Moving is finished
+19.07 02:36:42 Scanning 475 point from 1170
+19.07 02:36:42 Going to coordinates X=-11.995, Y=-37.388
+19.07 02:36:43 Moving is finished
+19.07 02:37:48 Scanning 476 point from 1170
+19.07 02:37:48 Going to coordinates X=-11.985, Y=-37.388
+19.07 02:37:48 Moving is finished
+19.07 02:38:52 Scanning 477 point from 1170
+19.07 02:38:52 Going to coordinates X=-11.975, Y=-37.388
+19.07 02:38:53 Moving is finished
+19.07 02:39:57 Scanning 478 point from 1170
+19.07 02:39:57 Going to coordinates X=-11.965, Y=-37.388
+19.07 02:39:57 Moving is finished
+19.07 02:41:02 Scanning 479 point from 1170
+19.07 02:41:02 Going to coordinates X=-11.955, Y=-37.388
+19.07 02:41:02 Moving is finished
+19.07 02:42:07 Scanning 480 point from 1170
+19.07 02:42:07 Going to coordinates X=-12.245, Y=-37.378
+19.07 02:42:07 Moving is finished
+19.07 02:43:12 Scanning 481 point from 1170
+19.07 02:43:12 Going to coordinates X=-12.235, Y=-37.378
+19.07 02:43:13 Moving is finished
+19.07 02:44:17 Scanning 482 point from 1170
+19.07 02:44:17 Going to coordinates X=-12.225, Y=-37.378
+19.07 02:44:18 Moving is finished
+19.07 02:45:22 Scanning 483 point from 1170
+19.07 02:45:22 Going to coordinates X=-12.215, Y=-37.378
+19.07 02:45:23 Moving is finished
+19.07 02:46:27 Scanning 484 point from 1170
+19.07 02:46:27 Going to coordinates X=-12.205, Y=-37.378
+19.07 02:46:28 Moving is finished
+19.07 02:47:33 Scanning 485 point from 1170
+19.07 02:47:33 Going to coordinates X=-12.195, Y=-37.378
+19.07 02:47:33 Moving is finished
+19.07 02:48:38 Scanning 486 point from 1170
+19.07 02:48:38 Going to coordinates X=-12.185, Y=-37.378
+19.07 02:48:38 Moving is finished
+19.07 02:49:43 Scanning 487 point from 1170
+19.07 02:49:43 Going to coordinates X=-12.175, Y=-37.378
+19.07 02:49:43 Moving is finished
+19.07 02:50:47 Scanning 488 point from 1170
+19.07 02:50:47 Going to coordinates X=-12.165, Y=-37.378
+19.07 02:50:47 Moving is finished
+19.07 02:51:52 Scanning 489 point from 1170
+19.07 02:51:52 Going to coordinates X=-12.155, Y=-37.378
+19.07 02:51:52 Moving is finished
+19.07 02:52:57 Scanning 490 point from 1170
+19.07 02:52:57 Going to coordinates X=-12.145, Y=-37.378
+19.07 02:52:57 Moving is finished
+19.07 02:54:02 Scanning 491 point from 1170
+19.07 02:54:02 Going to coordinates X=-12.135, Y=-37.378
+19.07 02:54:03 Moving is finished
+19.07 02:55:08 Scanning 492 point from 1170
+19.07 02:55:08 Going to coordinates X=-12.125, Y=-37.378
+19.07 02:55:09 Moving is finished
+19.07 02:56:13 Scanning 493 point from 1170
+19.07 02:56:13 Going to coordinates X=-12.115, Y=-37.378
+19.07 02:56:13 Moving is finished
+19.07 02:57:18 Scanning 494 point from 1170
+19.07 02:57:18 Going to coordinates X=-12.105, Y=-37.378
+19.07 02:57:18 Moving is finished
+19.07 02:58:23 Scanning 495 point from 1170
+19.07 02:58:23 Going to coordinates X=-12.095, Y=-37.378
+19.07 02:58:23 Moving is finished
+19.07 02:59:28 Scanning 496 point from 1170
+19.07 02:59:28 Going to coordinates X=-12.085, Y=-37.378
+19.07 02:59:28 Moving is finished
+19.07 03:00:33 Scanning 497 point from 1170
+19.07 03:00:33 Going to coordinates X=-12.075, Y=-37.378
+19.07 03:00:33 Moving is finished
+19.07 03:01:37 Scanning 498 point from 1170
+19.07 03:01:37 Going to coordinates X=-12.065, Y=-37.378
+19.07 03:01:38 Moving is finished
+19.07 03:02:42 Scanning 499 point from 1170
+19.07 03:02:42 Going to coordinates X=-12.055, Y=-37.378
+19.07 03:02:42 Moving is finished
+19.07 03:03:47 Scanning 500 point from 1170
+19.07 03:03:47 Going to coordinates X=-12.045, Y=-37.378
+19.07 03:03:48 Moving is finished
+19.07 03:04:53 Scanning 501 point from 1170
+19.07 03:04:53 Going to coordinates X=-12.035, Y=-37.378
+19.07 03:04:53 Moving is finished
+19.07 03:05:58 Scanning 502 point from 1170
+19.07 03:05:58 Going to coordinates X=-12.025, Y=-37.378
+19.07 03:05:58 Moving is finished
+19.07 03:07:03 Scanning 503 point from 1170
+19.07 03:07:03 Going to coordinates X=-12.015, Y=-37.378
+19.07 03:07:03 Moving is finished
+19.07 03:08:08 Scanning 504 point from 1170
+19.07 03:08:08 Going to coordinates X=-12.005, Y=-37.378
+19.07 03:08:08 Moving is finished
+19.07 03:09:13 Scanning 505 point from 1170
+19.07 03:09:13 Going to coordinates X=-11.995, Y=-37.378
+19.07 03:09:13 Moving is finished
+19.07 03:10:17 Scanning 506 point from 1170
+19.07 03:10:17 Going to coordinates X=-11.985, Y=-37.378
+19.07 03:10:17 Moving is finished
+19.07 03:11:22 Scanning 507 point from 1170
+19.07 03:11:22 Going to coordinates X=-11.975, Y=-37.378
+19.07 03:11:22 Moving is finished
+19.07 03:12:27 Scanning 508 point from 1170
+19.07 03:12:27 Going to coordinates X=-11.965, Y=-37.378
+19.07 03:12:27 Moving is finished
+19.07 03:13:31 Scanning 509 point from 1170
+19.07 03:13:31 Going to coordinates X=-11.955, Y=-37.378
+19.07 03:13:31 Moving is finished
+19.07 03:14:36 Scanning 510 point from 1170
+19.07 03:14:36 Going to coordinates X=-12.245, Y=-37.368
+19.07 03:14:36 Moving is finished
+19.07 03:15:41 Scanning 511 point from 1170
+19.07 03:15:41 Going to coordinates X=-12.235, Y=-37.368
+19.07 03:15:41 Moving is finished
+19.07 03:16:46 Scanning 512 point from 1170
+19.07 03:16:46 Going to coordinates X=-12.225, Y=-37.368
+19.07 03:16:46 Moving is finished
+19.07 03:17:51 Scanning 513 point from 1170
+19.07 03:17:51 Going to coordinates X=-12.215, Y=-37.368
+19.07 03:17:51 Moving is finished
+19.07 03:18:55 Scanning 514 point from 1170
+19.07 03:18:55 Going to coordinates X=-12.205, Y=-37.368
+19.07 03:18:55 Moving is finished
+19.07 03:20:01 Scanning 515 point from 1170
+19.07 03:20:01 Going to coordinates X=-12.195, Y=-37.368
+19.07 03:20:01 Moving is finished
+19.07 03:21:06 Scanning 516 point from 1170
+19.07 03:21:06 Going to coordinates X=-12.185, Y=-37.368
+19.07 03:21:06 Moving is finished
+19.07 03:22:11 Scanning 517 point from 1170
+19.07 03:22:11 Going to coordinates X=-12.175, Y=-37.368
+19.07 03:22:11 Moving is finished
+19.07 03:23:16 Scanning 518 point from 1170
+19.07 03:23:16 Going to coordinates X=-12.165, Y=-37.368
+19.07 03:23:16 Moving is finished
+19.07 03:24:22 Scanning 519 point from 1170
+19.07 03:24:22 Going to coordinates X=-12.155, Y=-37.368
+19.07 03:24:22 Moving is finished
+19.07 03:25:27 Scanning 520 point from 1170
+19.07 03:25:27 Going to coordinates X=-12.145, Y=-37.368
+19.07 03:25:27 Moving is finished
+19.07 03:26:32 Scanning 521 point from 1170
+19.07 03:26:32 Going to coordinates X=-12.135, Y=-37.368
+19.07 03:26:32 Moving is finished
+19.07 03:27:36 Scanning 522 point from 1170
+19.07 03:27:36 Going to coordinates X=-12.125, Y=-37.368
+19.07 03:27:36 Moving is finished
+19.07 03:28:42 Scanning 523 point from 1170
+19.07 03:28:42 Going to coordinates X=-12.115, Y=-37.368
+19.07 03:28:42 Moving is finished
+19.07 03:29:46 Scanning 524 point from 1170
+19.07 03:29:46 Going to coordinates X=-12.105, Y=-37.368
+19.07 03:29:46 Moving is finished
+19.07 03:30:51 Scanning 525 point from 1170
+19.07 03:30:51 Going to coordinates X=-12.095, Y=-37.368
+19.07 03:30:51 Moving is finished
+19.07 03:31:56 Scanning 526 point from 1170
+19.07 03:31:56 Going to coordinates X=-12.085, Y=-37.368
+19.07 03:31:56 Moving is finished
+19.07 03:33:01 Scanning 527 point from 1170
+19.07 03:33:01 Going to coordinates X=-12.075, Y=-37.368
+19.07 03:33:01 Moving is finished
+19.07 03:34:05 Scanning 528 point from 1170
+19.07 03:34:05 Going to coordinates X=-12.065, Y=-37.368
+19.07 03:34:05 Moving is finished
+19.07 03:35:10 Scanning 529 point from 1170
+19.07 03:35:10 Going to coordinates X=-12.055, Y=-37.368
+19.07 03:35:10 Moving is finished
+19.07 03:36:15 Scanning 530 point from 1170
+19.07 03:36:15 Going to coordinates X=-12.045, Y=-37.368
+19.07 03:36:15 Moving is finished
+19.07 03:37:19 Scanning 531 point from 1170
+19.07 03:37:19 Going to coordinates X=-12.035, Y=-37.368
+19.07 03:37:19 Moving is finished
+19.07 03:38:25 Scanning 532 point from 1170
+19.07 03:38:25 Going to coordinates X=-12.025, Y=-37.368
+19.07 03:38:25 Moving is finished
+19.07 03:39:30 Scanning 533 point from 1170
+19.07 03:39:30 Going to coordinates X=-12.015, Y=-37.368
+19.07 03:39:30 Moving is finished
+19.07 03:40:34 Scanning 534 point from 1170
+19.07 03:40:34 Going to coordinates X=-12.005, Y=-37.368
+19.07 03:40:35 Moving is finished
+19.07 03:41:39 Scanning 535 point from 1170
+19.07 03:41:39 Going to coordinates X=-11.995, Y=-37.368
+19.07 03:41:40 Moving is finished
+19.07 03:42:44 Scanning 536 point from 1170
+19.07 03:42:44 Going to coordinates X=-11.985, Y=-37.368
+19.07 03:42:44 Moving is finished
+19.07 03:43:49 Scanning 537 point from 1170
+19.07 03:43:49 Going to coordinates X=-11.975, Y=-37.368
+19.07 03:43:49 Moving is finished
+19.07 03:44:54 Scanning 538 point from 1170
+19.07 03:44:54 Going to coordinates X=-11.965, Y=-37.368
+19.07 03:44:54 Moving is finished
+19.07 03:45:59 Scanning 539 point from 1170
+19.07 03:45:59 Going to coordinates X=-11.955, Y=-37.368
+19.07 03:45:59 Moving is finished
+19.07 03:47:04 Scanning 540 point from 1170
+19.07 03:47:04 Going to coordinates X=-12.245, Y=-37.358
+19.07 03:47:05 Moving is finished
+19.07 03:48:09 Scanning 541 point from 1170
+19.07 03:48:09 Going to coordinates X=-12.235, Y=-37.358
+19.07 03:48:09 Moving is finished
+19.07 03:49:14 Scanning 542 point from 1170
+19.07 03:49:14 Going to coordinates X=-12.225, Y=-37.358
+19.07 03:49:14 Moving is finished
+19.07 03:50:19 Scanning 543 point from 1170
+19.07 03:50:19 Going to coordinates X=-12.215, Y=-37.358
+19.07 03:50:19 Moving is finished
+19.07 03:51:24 Scanning 544 point from 1170
+19.07 03:51:24 Going to coordinates X=-12.205, Y=-37.358
+19.07 03:51:24 Moving is finished
+19.07 03:52:29 Scanning 545 point from 1170
+19.07 03:52:29 Going to coordinates X=-12.195, Y=-37.358
+19.07 03:52:29 Moving is finished
+19.07 03:53:34 Scanning 546 point from 1170
+19.07 03:53:34 Going to coordinates X=-12.185, Y=-37.358
+19.07 03:53:35 Moving is finished
+19.07 03:54:39 Scanning 547 point from 1170
+19.07 03:54:39 Going to coordinates X=-12.175, Y=-37.358
+19.07 03:54:39 Moving is finished
+19.07 03:55:44 Scanning 548 point from 1170
+19.07 03:55:44 Going to coordinates X=-12.165, Y=-37.358
+19.07 03:55:44 Moving is finished
+19.07 03:56:49 Scanning 549 point from 1170
+19.07 03:56:49 Going to coordinates X=-12.155, Y=-37.358
+19.07 03:56:49 Moving is finished
+19.07 03:57:54 Scanning 550 point from 1170
+19.07 03:57:54 Going to coordinates X=-12.145, Y=-37.358
+19.07 03:57:54 Moving is finished
+19.07 03:58:59 Scanning 551 point from 1170
+19.07 03:58:59 Going to coordinates X=-12.135, Y=-37.358
+19.07 03:58:59 Moving is finished
+19.07 04:00:05 Scanning 552 point from 1170
+19.07 04:00:05 Going to coordinates X=-12.125, Y=-37.358
+19.07 04:00:05 Moving is finished
+19.07 04:01:10 Scanning 553 point from 1170
+19.07 04:01:10 Going to coordinates X=-12.115, Y=-37.358
+19.07 04:01:10 Moving is finished
+19.07 04:02:15 Scanning 554 point from 1170
+19.07 04:02:15 Going to coordinates X=-12.105, Y=-37.358
+19.07 04:02:15 Moving is finished
+19.07 04:03:21 Scanning 555 point from 1170
+19.07 04:03:21 Going to coordinates X=-12.095, Y=-37.358
+19.07 04:03:21 Moving is finished
+19.07 04:04:26 Scanning 556 point from 1170
+19.07 04:04:26 Going to coordinates X=-12.085, Y=-37.358
+19.07 04:04:26 Moving is finished
+19.07 04:05:31 Scanning 557 point from 1170
+19.07 04:05:31 Going to coordinates X=-12.075, Y=-37.358
+19.07 04:05:31 Moving is finished
+19.07 04:06:36 Scanning 558 point from 1170
+19.07 04:06:36 Going to coordinates X=-12.065, Y=-37.358
+19.07 04:06:36 Moving is finished
+19.07 04:07:42 Scanning 559 point from 1170
+19.07 04:07:42 Going to coordinates X=-12.055, Y=-37.358
+19.07 04:07:42 Moving is finished
+19.07 04:08:46 Scanning 560 point from 1170
+19.07 04:08:46 Going to coordinates X=-12.045, Y=-37.358
+19.07 04:08:46 Moving is finished
+19.07 04:09:52 Scanning 561 point from 1170
+19.07 04:09:52 Going to coordinates X=-12.035, Y=-37.358
+19.07 04:09:52 Moving is finished
+19.07 04:10:57 Scanning 562 point from 1170
+19.07 04:10:57 Going to coordinates X=-12.025, Y=-37.358
+19.07 04:10:57 Moving is finished
+19.07 04:12:02 Scanning 563 point from 1170
+19.07 04:12:02 Going to coordinates X=-12.015, Y=-37.358
+19.07 04:12:02 Moving is finished
+19.07 04:13:06 Scanning 564 point from 1170
+19.07 04:13:06 Going to coordinates X=-12.005, Y=-37.358
+19.07 04:13:06 Moving is finished
+19.07 04:14:11 Scanning 565 point from 1170
+19.07 04:14:11 Going to coordinates X=-11.995, Y=-37.358
+19.07 04:14:11 Moving is finished
+19.07 04:15:16 Scanning 566 point from 1170
+19.07 04:15:16 Going to coordinates X=-11.985, Y=-37.358
+19.07 04:15:16 Moving is finished
+19.07 04:16:21 Scanning 567 point from 1170
+19.07 04:16:21 Going to coordinates X=-11.975, Y=-37.358
+19.07 04:16:21 Moving is finished
+19.07 04:17:25 Scanning 568 point from 1170
+19.07 04:17:25 Going to coordinates X=-11.965, Y=-37.358
+19.07 04:17:25 Moving is finished
+19.07 04:18:31 Scanning 569 point from 1170
+19.07 04:18:31 Going to coordinates X=-11.955, Y=-37.358
+19.07 04:18:31 Moving is finished
+19.07 04:19:36 Scanning 570 point from 1170
+19.07 04:19:36 Going to coordinates X=-12.245, Y=-37.348
+19.07 04:19:36 Moving is finished
+19.07 04:20:41 Scanning 571 point from 1170
+19.07 04:20:41 Going to coordinates X=-12.235, Y=-37.348
+19.07 04:20:41 Moving is finished
+19.07 04:21:46 Scanning 572 point from 1170
+19.07 04:21:46 Going to coordinates X=-12.225, Y=-37.348
+19.07 04:21:46 Moving is finished
+19.07 04:22:52 Scanning 573 point from 1170
+19.07 04:22:52 Going to coordinates X=-12.215, Y=-37.348
+19.07 04:22:52 Moving is finished
+19.07 04:23:56 Scanning 574 point from 1170
+19.07 04:23:56 Going to coordinates X=-12.205, Y=-37.348
+19.07 04:23:57 Moving is finished
+19.07 04:25:01 Scanning 575 point from 1170
+19.07 04:25:01 Going to coordinates X=-12.195, Y=-37.348
+19.07 04:25:01 Moving is finished
+19.07 04:26:06 Scanning 576 point from 1170
+19.07 04:26:06 Going to coordinates X=-12.185, Y=-37.348
+19.07 04:26:07 Moving is finished
+19.07 04:27:11 Scanning 577 point from 1170
+19.07 04:27:11 Going to coordinates X=-12.175, Y=-37.348
+19.07 04:27:11 Moving is finished
+19.07 04:28:16 Scanning 578 point from 1170
+19.07 04:28:16 Going to coordinates X=-12.165, Y=-37.348
+19.07 04:28:16 Moving is finished
+19.07 04:29:21 Scanning 579 point from 1170
+19.07 04:29:21 Going to coordinates X=-12.155, Y=-37.348
+19.07 04:29:21 Moving is finished
+19.07 04:30:25 Scanning 580 point from 1170
+19.07 04:30:25 Going to coordinates X=-12.145, Y=-37.348
+19.07 04:30:26 Moving is finished
+19.07 04:31:30 Scanning 581 point from 1170
+19.07 04:31:30 Going to coordinates X=-12.135, Y=-37.348
+19.07 04:31:30 Moving is finished
+19.07 04:32:35 Scanning 582 point from 1170
+19.07 04:32:35 Going to coordinates X=-12.125, Y=-37.348
+19.07 04:32:35 Moving is finished
+19.07 04:33:39 Scanning 583 point from 1170
+19.07 04:33:39 Going to coordinates X=-12.115, Y=-37.348
+19.07 04:33:39 Moving is finished
+19.07 04:34:44 Scanning 584 point from 1170
+19.07 04:34:44 Going to coordinates X=-12.105, Y=-37.348
+19.07 04:34:44 Moving is finished
+19.07 04:35:49 Scanning 585 point from 1170
+19.07 04:35:49 Going to coordinates X=-12.095, Y=-37.348
+19.07 04:35:49 Moving is finished
+19.07 04:36:54 Scanning 586 point from 1170
+19.07 04:36:54 Going to coordinates X=-12.085, Y=-37.348
+19.07 04:36:54 Moving is finished
+19.07 04:37:59 Scanning 587 point from 1170
+19.07 04:37:59 Going to coordinates X=-12.075, Y=-37.348
+19.07 04:37:59 Moving is finished
+19.07 04:39:03 Scanning 588 point from 1170
+19.07 04:39:03 Going to coordinates X=-12.065, Y=-37.348
+19.07 04:39:03 Moving is finished
+19.07 04:40:08 Scanning 589 point from 1170
+19.07 04:40:08 Going to coordinates X=-12.055, Y=-37.348
+19.07 04:40:08 Moving is finished
+19.07 04:41:12 Scanning 590 point from 1170
+19.07 04:41:12 Going to coordinates X=-12.045, Y=-37.348
+19.07 04:41:12 Moving is finished
+19.07 04:42:17 Scanning 591 point from 1170
+19.07 04:42:17 Going to coordinates X=-12.035, Y=-37.348
+19.07 04:42:17 Moving is finished
+19.07 04:43:22 Scanning 592 point from 1170
+19.07 04:43:22 Going to coordinates X=-12.025, Y=-37.348
+19.07 04:43:22 Moving is finished
+19.07 04:44:27 Scanning 593 point from 1170
+19.07 04:44:27 Going to coordinates X=-12.015, Y=-37.348
+19.07 04:44:27 Moving is finished
+19.07 04:45:32 Scanning 594 point from 1170
+19.07 04:45:32 Going to coordinates X=-12.005, Y=-37.348
+19.07 04:45:32 Moving is finished
+19.07 04:46:36 Scanning 595 point from 1170
+19.07 04:46:36 Going to coordinates X=-11.995, Y=-37.348
+19.07 04:46:36 Moving is finished
+19.07 04:47:41 Scanning 596 point from 1170
+19.07 04:47:41 Going to coordinates X=-11.985, Y=-37.348
+19.07 04:47:41 Moving is finished
+19.07 04:48:45 Scanning 597 point from 1170
+19.07 04:48:45 Going to coordinates X=-11.975, Y=-37.348
+19.07 04:48:45 Moving is finished
+19.07 04:49:50 Scanning 598 point from 1170
+19.07 04:49:50 Going to coordinates X=-11.965, Y=-37.348
+19.07 04:49:50 Moving is finished
+19.07 04:50:55 Scanning 599 point from 1170
+19.07 04:50:55 Going to coordinates X=-11.955, Y=-37.348
+19.07 04:50:55 Moving is finished
+19.07 04:52:00 Scanning 600 point from 1170
+19.07 04:52:00 Going to coordinates X=-12.245, Y=-37.338
+19.07 04:52:00 Moving is finished
+19.07 04:53:05 Scanning 601 point from 1170
+19.07 04:53:05 Going to coordinates X=-12.235, Y=-37.338
+19.07 04:53:05 Moving is finished
+19.07 04:54:10 Scanning 602 point from 1170
+19.07 04:54:10 Going to coordinates X=-12.225, Y=-37.338
+19.07 04:54:10 Moving is finished
+19.07 04:55:15 Scanning 603 point from 1170
+19.07 04:55:15 Going to coordinates X=-12.215, Y=-37.338
+19.07 04:55:16 Moving is finished
+19.07 04:56:21 Scanning 604 point from 1170
+19.07 04:56:21 Going to coordinates X=-12.205, Y=-37.338
+19.07 04:56:21 Moving is finished
+19.07 04:57:26 Scanning 605 point from 1170
+19.07 04:57:26 Going to coordinates X=-12.195, Y=-37.338
+19.07 04:57:26 Moving is finished
+19.07 04:58:31 Scanning 606 point from 1170
+19.07 04:58:31 Going to coordinates X=-12.185, Y=-37.338
+19.07 04:58:31 Moving is finished
+19.07 04:59:36 Scanning 607 point from 1170
+19.07 04:59:36 Going to coordinates X=-12.175, Y=-37.338
+19.07 04:59:36 Moving is finished
+19.07 05:00:41 Scanning 608 point from 1170
+19.07 05:00:41 Going to coordinates X=-12.165, Y=-37.338
+19.07 05:00:41 Moving is finished
+19.07 05:01:45 Scanning 609 point from 1170
+19.07 05:01:45 Going to coordinates X=-12.155, Y=-37.338
+19.07 05:01:45 Moving is finished
+19.07 05:02:50 Scanning 610 point from 1170
+19.07 05:02:50 Going to coordinates X=-12.145, Y=-37.338
+19.07 05:02:50 Moving is finished
+19.07 05:03:55 Scanning 611 point from 1170
+19.07 05:03:55 Going to coordinates X=-12.135, Y=-37.338
+19.07 05:03:55 Moving is finished
+19.07 05:04:59 Scanning 612 point from 1170
+19.07 05:04:59 Going to coordinates X=-12.125, Y=-37.338
+19.07 05:04:59 Moving is finished
+19.07 05:06:04 Scanning 613 point from 1170
+19.07 05:06:04 Going to coordinates X=-12.115, Y=-37.338
+19.07 05:06:04 Moving is finished
+19.07 05:07:09 Scanning 614 point from 1170
+19.07 05:07:09 Going to coordinates X=-12.105, Y=-37.338
+19.07 05:07:09 Moving is finished
+19.07 05:08:14 Scanning 615 point from 1170
+19.07 05:08:14 Going to coordinates X=-12.095, Y=-37.338
+19.07 05:08:15 Moving is finished
+19.07 05:09:20 Scanning 616 point from 1170
+19.07 05:09:20 Going to coordinates X=-12.085, Y=-37.338
+19.07 05:09:20 Moving is finished
+19.07 05:10:24 Scanning 617 point from 1170
+19.07 05:10:24 Going to coordinates X=-12.075, Y=-37.338
+19.07 05:10:25 Moving is finished
+19.07 05:11:29 Scanning 618 point from 1170
+19.07 05:11:29 Going to coordinates X=-12.065, Y=-37.338
+19.07 05:11:30 Moving is finished
+19.07 05:12:34 Scanning 619 point from 1170
+19.07 05:12:34 Going to coordinates X=-12.055, Y=-37.338
+19.07 05:12:34 Moving is finished
+19.07 05:13:40 Scanning 620 point from 1170
+19.07 05:13:40 Going to coordinates X=-12.045, Y=-37.338
+19.07 05:13:40 Moving is finished
+19.07 05:14:44 Scanning 621 point from 1170
+19.07 05:14:44 Going to coordinates X=-12.035, Y=-37.338
+19.07 05:14:44 Moving is finished
+19.07 05:15:49 Scanning 622 point from 1170
+19.07 05:15:49 Going to coordinates X=-12.025, Y=-37.338
+19.07 05:15:49 Moving is finished
+19.07 05:16:54 Scanning 623 point from 1170
+19.07 05:16:54 Going to coordinates X=-12.015, Y=-37.338
+19.07 05:16:54 Moving is finished
+19.07 05:17:59 Scanning 624 point from 1170
+19.07 05:17:59 Going to coordinates X=-12.005, Y=-37.338
+19.07 05:18:00 Moving is finished
+19.07 05:19:04 Scanning 625 point from 1170
+19.07 05:19:04 Going to coordinates X=-11.995, Y=-37.338
+19.07 05:19:04 Moving is finished
+19.07 05:20:09 Scanning 626 point from 1170
+19.07 05:20:09 Going to coordinates X=-11.985, Y=-37.338
+19.07 05:20:09 Moving is finished
+19.07 05:21:14 Scanning 627 point from 1170
+19.07 05:21:14 Going to coordinates X=-11.975, Y=-37.338
+19.07 05:21:14 Moving is finished
+19.07 05:22:19 Scanning 628 point from 1170
+19.07 05:22:19 Going to coordinates X=-11.965, Y=-37.338
+19.07 05:22:19 Moving is finished
+19.07 05:23:23 Scanning 629 point from 1170
+19.07 05:23:23 Going to coordinates X=-11.955, Y=-37.338
+19.07 05:23:24 Moving is finished
+19.07 05:24:29 Scanning 630 point from 1170
+19.07 05:24:29 Going to coordinates X=-12.245, Y=-37.328
+19.07 05:24:29 Moving is finished
+19.07 05:25:35 Scanning 631 point from 1170
+19.07 05:25:35 Going to coordinates X=-12.235, Y=-37.328
+19.07 05:25:35 Moving is finished
+19.07 05:26:40 Scanning 632 point from 1170
+19.07 05:26:40 Going to coordinates X=-12.225, Y=-37.328
+19.07 05:26:40 Moving is finished
+19.07 05:27:45 Scanning 633 point from 1170
+19.07 05:27:45 Going to coordinates X=-12.215, Y=-37.328
+19.07 05:27:45 Moving is finished
+19.07 05:28:50 Scanning 634 point from 1170
+19.07 05:28:50 Going to coordinates X=-12.205, Y=-37.328
+19.07 05:28:51 Moving is finished
+19.07 05:29:55 Scanning 635 point from 1170
+19.07 05:29:55 Going to coordinates X=-12.195, Y=-37.328
+19.07 05:29:55 Moving is finished
+19.07 05:31:00 Scanning 636 point from 1170
+19.07 05:31:00 Going to coordinates X=-12.185, Y=-37.328
+19.07 05:31:00 Moving is finished
+19.07 05:32:05 Scanning 637 point from 1170
+19.07 05:32:05 Going to coordinates X=-12.175, Y=-37.328
+19.07 05:32:05 Moving is finished
+19.07 05:33:10 Scanning 638 point from 1170
+19.07 05:33:10 Going to coordinates X=-12.165, Y=-37.328
+19.07 05:33:10 Moving is finished
+19.07 05:34:16 Scanning 639 point from 1170
+19.07 05:34:16 Going to coordinates X=-12.155, Y=-37.328
+19.07 05:34:16 Moving is finished
+19.07 05:35:20 Scanning 640 point from 1170
+19.07 05:35:20 Going to coordinates X=-12.145, Y=-37.328
+19.07 05:35:20 Moving is finished
+19.07 05:36:25 Scanning 641 point from 1170
+19.07 05:36:25 Going to coordinates X=-12.135, Y=-37.328
+19.07 05:36:25 Moving is finished
+19.07 05:37:30 Scanning 642 point from 1170
+19.07 05:37:30 Going to coordinates X=-12.125, Y=-37.328
+19.07 05:37:30 Moving is finished
+19.07 05:38:35 Scanning 643 point from 1170
+19.07 05:38:35 Going to coordinates X=-12.115, Y=-37.328
+19.07 05:38:35 Moving is finished
+19.07 05:39:39 Scanning 644 point from 1170
+19.07 05:39:39 Going to coordinates X=-12.105, Y=-37.328
+19.07 05:39:39 Moving is finished
+19.07 05:40:45 Scanning 645 point from 1170
+19.07 05:40:45 Going to coordinates X=-12.095, Y=-37.328
+19.07 05:40:45 Moving is finished
+19.07 05:41:50 Scanning 646 point from 1170
+19.07 05:41:50 Going to coordinates X=-12.085, Y=-37.328
+19.07 05:41:50 Moving is finished
+19.07 05:42:55 Scanning 647 point from 1170
+19.07 05:42:55 Going to coordinates X=-12.075, Y=-37.328
+19.07 05:42:55 Moving is finished
+19.07 05:43:59 Scanning 648 point from 1170
+19.07 05:43:59 Going to coordinates X=-12.065, Y=-37.328
+19.07 05:44:00 Moving is finished
+19.07 05:45:04 Scanning 649 point from 1170
+19.07 05:45:04 Going to coordinates X=-12.055, Y=-37.328
+19.07 05:45:04 Moving is finished
+19.07 05:46:10 Scanning 650 point from 1170
+19.07 05:46:10 Going to coordinates X=-12.045, Y=-37.328
+19.07 05:46:10 Moving is finished
+19.07 05:47:15 Scanning 651 point from 1170
+19.07 05:47:15 Going to coordinates X=-12.035, Y=-37.328
+19.07 05:47:15 Moving is finished
+19.07 05:48:19 Scanning 652 point from 1170
+19.07 05:48:19 Going to coordinates X=-12.025, Y=-37.328
+19.07 05:48:19 Moving is finished
+19.07 05:49:24 Scanning 653 point from 1170
+19.07 05:49:24 Going to coordinates X=-12.015, Y=-37.328
+19.07 05:49:24 Moving is finished
+19.07 05:50:29 Scanning 654 point from 1170
+19.07 05:50:29 Going to coordinates X=-12.005, Y=-37.328
+19.07 05:50:29 Moving is finished
+19.07 05:51:34 Scanning 655 point from 1170
+19.07 05:51:34 Going to coordinates X=-11.995, Y=-37.328
+19.07 05:51:34 Moving is finished
+19.07 05:52:39 Scanning 656 point from 1170
+19.07 05:52:39 Going to coordinates X=-11.985, Y=-37.328
+19.07 05:52:39 Moving is finished
+19.07 05:53:44 Scanning 657 point from 1170
+19.07 05:53:44 Going to coordinates X=-11.975, Y=-37.328
+19.07 05:53:44 Moving is finished
+19.07 05:54:48 Scanning 658 point from 1170
+19.07 05:54:48 Going to coordinates X=-11.965, Y=-37.328
+19.07 05:54:48 Moving is finished
+19.07 05:55:53 Scanning 659 point from 1170
+19.07 05:55:53 Going to coordinates X=-11.955, Y=-37.328
+19.07 05:55:53 Moving is finished
+19.07 05:56:58 Scanning 660 point from 1170
+19.07 05:56:58 Going to coordinates X=-12.245, Y=-37.318
+19.07 05:56:58 Moving is finished
+19.07 05:58:03 Scanning 661 point from 1170
+19.07 05:58:03 Going to coordinates X=-12.235, Y=-37.318
+19.07 05:58:03 Moving is finished
+19.07 05:59:08 Scanning 662 point from 1170
+19.07 05:59:08 Going to coordinates X=-12.225, Y=-37.318
+19.07 05:59:08 Moving is finished
+19.07 06:00:13 Scanning 663 point from 1170
+19.07 06:00:13 Going to coordinates X=-12.215, Y=-37.318
+19.07 06:00:13 Moving is finished
+19.07 06:01:18 Scanning 664 point from 1170
+19.07 06:01:18 Going to coordinates X=-12.205, Y=-37.318
+19.07 06:01:18 Moving is finished
+19.07 06:02:23 Scanning 665 point from 1170
+19.07 06:02:23 Going to coordinates X=-12.195, Y=-37.318
+19.07 06:02:23 Moving is finished
+19.07 06:03:28 Scanning 666 point from 1170
+19.07 06:03:28 Going to coordinates X=-12.185, Y=-37.318
+19.07 06:03:28 Moving is finished
+19.07 06:04:33 Scanning 667 point from 1170
+19.07 06:04:33 Going to coordinates X=-12.175, Y=-37.318
+19.07 06:04:33 Moving is finished
+19.07 06:05:38 Scanning 668 point from 1170
+19.07 06:05:38 Going to coordinates X=-12.165, Y=-37.318
+19.07 06:05:38 Moving is finished
+19.07 06:06:42 Scanning 669 point from 1170
+19.07 06:06:42 Going to coordinates X=-12.155, Y=-37.318
+19.07 06:06:42 Moving is finished
+19.07 06:07:47 Scanning 670 point from 1170
+19.07 06:07:47 Going to coordinates X=-12.145, Y=-37.318
+19.07 06:07:47 Moving is finished
+19.07 06:08:52 Scanning 671 point from 1170
+19.07 06:08:52 Going to coordinates X=-12.135, Y=-37.318
+19.07 06:08:52 Moving is finished
+19.07 06:09:57 Scanning 672 point from 1170
+19.07 06:09:57 Going to coordinates X=-12.125, Y=-37.318
+19.07 06:09:57 Moving is finished
+19.07 06:11:02 Scanning 673 point from 1170
+19.07 06:11:02 Going to coordinates X=-12.115, Y=-37.318
+19.07 06:11:02 Moving is finished
+19.07 06:12:07 Scanning 674 point from 1170
+19.07 06:12:07 Going to coordinates X=-12.105, Y=-37.318
+19.07 06:12:07 Moving is finished
+19.07 06:13:12 Scanning 675 point from 1170
+19.07 06:13:12 Going to coordinates X=-12.095, Y=-37.318
+19.07 06:13:12 Moving is finished
+19.07 06:14:17 Scanning 676 point from 1170
+19.07 06:14:17 Going to coordinates X=-12.085, Y=-37.318
+19.07 06:14:17 Moving is finished
+19.07 06:15:22 Scanning 677 point from 1170
+19.07 06:15:22 Going to coordinates X=-12.075, Y=-37.318
+19.07 06:15:22 Moving is finished
+19.07 06:16:27 Scanning 678 point from 1170
+19.07 06:16:27 Going to coordinates X=-12.065, Y=-37.318
+19.07 06:16:27 Moving is finished
+19.07 06:17:31 Scanning 679 point from 1170
+19.07 06:17:31 Going to coordinates X=-12.055, Y=-37.318
+19.07 06:17:32 Moving is finished
+19.07 06:18:37 Scanning 680 point from 1170
+19.07 06:18:37 Going to coordinates X=-12.045, Y=-37.318
+19.07 06:18:37 Moving is finished
+19.07 06:19:42 Scanning 681 point from 1170
+19.07 06:19:42 Going to coordinates X=-12.035, Y=-37.318
+19.07 06:19:42 Moving is finished
+19.07 06:20:47 Scanning 682 point from 1170
+19.07 06:20:47 Going to coordinates X=-12.025, Y=-37.318
+19.07 06:20:47 Moving is finished
+19.07 06:21:51 Scanning 683 point from 1170
+19.07 06:21:51 Going to coordinates X=-12.015, Y=-37.318
+19.07 06:21:51 Moving is finished
+19.07 06:22:56 Scanning 684 point from 1170
+19.07 06:22:56 Going to coordinates X=-12.005, Y=-37.318
+19.07 06:22:56 Moving is finished
+19.07 06:24:02 Scanning 685 point from 1170
+19.07 06:24:02 Going to coordinates X=-11.995, Y=-37.318
+19.07 06:24:02 Moving is finished
+19.07 06:25:06 Scanning 686 point from 1170
+19.07 06:25:06 Going to coordinates X=-11.985, Y=-37.318
+19.07 06:25:07 Moving is finished
+19.07 06:26:12 Scanning 687 point from 1170
+19.07 06:26:12 Going to coordinates X=-11.975, Y=-37.318
+19.07 06:26:12 Moving is finished
+19.07 06:27:17 Scanning 688 point from 1170
+19.07 06:27:17 Going to coordinates X=-11.965, Y=-37.318
+19.07 06:27:17 Moving is finished
+19.07 06:28:22 Scanning 689 point from 1170
+19.07 06:28:22 Going to coordinates X=-11.955, Y=-37.318
+19.07 06:28:22 Moving is finished
+19.07 06:29:27 Scanning 690 point from 1170
+19.07 06:29:27 Going to coordinates X=-12.245, Y=-37.308
+19.07 06:29:28 Moving is finished
+19.07 06:30:33 Scanning 691 point from 1170
+19.07 06:30:33 Going to coordinates X=-12.235, Y=-37.308
+19.07 06:30:33 Moving is finished
+19.07 06:31:38 Scanning 692 point from 1170
+19.07 06:31:38 Going to coordinates X=-12.225, Y=-37.308
+19.07 06:31:38 Moving is finished
+19.07 06:32:43 Scanning 693 point from 1170
+19.07 06:32:43 Going to coordinates X=-12.215, Y=-37.308
+19.07 06:32:43 Moving is finished
+19.07 06:33:48 Scanning 694 point from 1170
+19.07 06:33:48 Going to coordinates X=-12.205, Y=-37.308
+19.07 06:33:48 Moving is finished
+19.07 06:34:53 Scanning 695 point from 1170
+19.07 06:34:53 Going to coordinates X=-12.195, Y=-37.308
+19.07 06:34:54 Moving is finished
+19.07 06:35:59 Scanning 696 point from 1170
+19.07 06:35:59 Going to coordinates X=-12.185, Y=-37.308
+19.07 06:35:59 Moving is finished
+19.07 06:37:05 Scanning 697 point from 1170
+19.07 06:37:05 Going to coordinates X=-12.175, Y=-37.308
+19.07 06:37:05 Moving is finished
+19.07 06:38:10 Scanning 698 point from 1170
+19.07 06:38:10 Going to coordinates X=-12.165, Y=-37.308
+19.07 06:38:10 Moving is finished
+19.07 06:39:14 Scanning 699 point from 1170
+19.07 06:39:14 Going to coordinates X=-12.155, Y=-37.308
+19.07 06:39:14 Moving is finished
+19.07 06:40:19 Scanning 700 point from 1170
+19.07 06:40:19 Going to coordinates X=-12.145, Y=-37.308
+19.07 06:40:20 Moving is finished
+19.07 06:41:24 Scanning 701 point from 1170
+19.07 06:41:24 Going to coordinates X=-12.135, Y=-37.308
+19.07 06:41:24 Moving is finished
+19.07 06:42:29 Scanning 702 point from 1170
+19.07 06:42:29 Going to coordinates X=-12.125, Y=-37.308
+19.07 06:42:29 Moving is finished
+19.07 06:43:35 Scanning 703 point from 1170
+19.07 06:43:35 Going to coordinates X=-12.115, Y=-37.308
+19.07 06:43:35 Moving is finished
+19.07 06:44:40 Scanning 704 point from 1170
+19.07 06:44:40 Going to coordinates X=-12.105, Y=-37.308
+19.07 06:44:40 Moving is finished
+19.07 06:45:45 Scanning 705 point from 1170
+19.07 06:45:45 Going to coordinates X=-12.095, Y=-37.308
+19.07 06:45:45 Moving is finished
+19.07 06:46:50 Scanning 706 point from 1170
+19.07 06:46:50 Going to coordinates X=-12.085, Y=-37.308
+19.07 06:46:51 Moving is finished
+19.07 06:47:56 Scanning 707 point from 1170
+19.07 06:47:56 Going to coordinates X=-12.075, Y=-37.308
+19.07 06:47:56 Moving is finished
+19.07 06:49:01 Scanning 708 point from 1170
+19.07 06:49:01 Going to coordinates X=-12.065, Y=-37.308
+19.07 06:49:01 Moving is finished
+19.07 06:50:06 Scanning 709 point from 1170
+19.07 06:50:06 Going to coordinates X=-12.055, Y=-37.308
+19.07 06:50:07 Moving is finished
+19.07 06:51:11 Scanning 710 point from 1170
+19.07 06:51:11 Going to coordinates X=-12.045, Y=-37.308
+19.07 06:51:11 Moving is finished
+19.07 06:52:16 Scanning 711 point from 1170
+19.07 06:52:16 Going to coordinates X=-12.035, Y=-37.308
+19.07 06:52:16 Moving is finished
+19.07 06:53:20 Scanning 712 point from 1170
+19.07 06:53:20 Going to coordinates X=-12.025, Y=-37.308
+19.07 06:53:20 Moving is finished
+19.07 06:54:25 Scanning 713 point from 1170
+19.07 06:54:25 Going to coordinates X=-12.015, Y=-37.308
+19.07 06:54:25 Moving is finished
+19.07 06:55:30 Scanning 714 point from 1170
+19.07 06:55:30 Going to coordinates X=-12.005, Y=-37.308
+19.07 06:55:30 Moving is finished
+19.07 06:56:35 Scanning 715 point from 1170
+19.07 06:56:35 Going to coordinates X=-11.995, Y=-37.308
+19.07 06:56:35 Moving is finished
+19.07 06:57:40 Scanning 716 point from 1170
+19.07 06:57:40 Going to coordinates X=-11.985, Y=-37.308
+19.07 06:57:40 Moving is finished
+19.07 06:58:45 Scanning 717 point from 1170
+19.07 06:58:45 Going to coordinates X=-11.975, Y=-37.308
+19.07 06:58:45 Moving is finished
+19.07 06:59:50 Scanning 718 point from 1170
+19.07 06:59:50 Going to coordinates X=-11.965, Y=-37.308
+19.07 06:59:50 Moving is finished
+19.07 07:00:55 Scanning 719 point from 1170
+19.07 07:00:55 Going to coordinates X=-11.955, Y=-37.308
+19.07 07:00:55 Moving is finished
+19.07 07:02:00 Scanning 720 point from 1170
+19.07 07:02:00 Going to coordinates X=-12.245, Y=-37.298
+19.07 07:02:00 Moving is finished
+19.07 07:03:05 Scanning 721 point from 1170
+19.07 07:03:05 Going to coordinates X=-12.235, Y=-37.298
+19.07 07:03:06 Moving is finished
+19.07 07:04:11 Scanning 722 point from 1170
+19.07 07:04:11 Going to coordinates X=-12.225, Y=-37.298
+19.07 07:04:11 Moving is finished
+19.07 07:05:16 Scanning 723 point from 1170
+19.07 07:05:16 Going to coordinates X=-12.215, Y=-37.298
+19.07 07:05:16 Moving is finished
+19.07 07:06:20 Scanning 724 point from 1170
+19.07 07:06:20 Going to coordinates X=-12.205, Y=-37.298
+19.07 07:06:21 Moving is finished
+19.07 07:07:25 Scanning 725 point from 1170
+19.07 07:07:25 Going to coordinates X=-12.195, Y=-37.298
+19.07 07:07:25 Moving is finished
+19.07 07:08:30 Scanning 726 point from 1170
+19.07 07:08:30 Going to coordinates X=-12.185, Y=-37.298
+19.07 07:08:31 Moving is finished
+19.07 07:09:36 Scanning 727 point from 1170
+19.07 07:09:36 Going to coordinates X=-12.175, Y=-37.298
+19.07 07:09:36 Moving is finished
+19.07 07:10:41 Scanning 728 point from 1170
+19.07 07:10:41 Going to coordinates X=-12.165, Y=-37.298
+19.07 07:10:41 Moving is finished
+19.07 07:11:46 Scanning 729 point from 1170
+19.07 07:11:46 Going to coordinates X=-12.155, Y=-37.298
+19.07 07:11:47 Moving is finished
+19.07 07:12:51 Scanning 730 point from 1170
+19.07 07:12:51 Going to coordinates X=-12.145, Y=-37.298
+19.07 07:12:51 Moving is finished
+19.07 07:13:56 Scanning 731 point from 1170
+19.07 07:13:56 Going to coordinates X=-12.135, Y=-37.298
+19.07 07:13:56 Moving is finished
+19.07 07:15:01 Scanning 732 point from 1170
+19.07 07:15:01 Going to coordinates X=-12.125, Y=-37.298
+19.07 07:15:01 Moving is finished
+19.07 07:16:06 Scanning 733 point from 1170
+19.07 07:16:06 Going to coordinates X=-12.115, Y=-37.298
+19.07 07:16:06 Moving is finished
+19.07 07:17:10 Scanning 734 point from 1170
+19.07 07:17:10 Going to coordinates X=-12.105, Y=-37.298
+19.07 07:17:10 Moving is finished
+19.07 07:18:15 Scanning 735 point from 1170
+19.07 07:18:15 Going to coordinates X=-12.095, Y=-37.298
+19.07 07:18:15 Moving is finished
+19.07 07:19:20 Scanning 736 point from 1170
+19.07 07:19:20 Going to coordinates X=-12.085, Y=-37.298
+19.07 07:19:20 Moving is finished
+19.07 07:20:24 Scanning 737 point from 1170
+19.07 07:20:24 Going to coordinates X=-12.075, Y=-37.298
+19.07 07:20:24 Moving is finished
+19.07 07:21:29 Scanning 738 point from 1170
+19.07 07:21:29 Going to coordinates X=-12.065, Y=-37.298
+19.07 07:21:29 Moving is finished
+19.07 07:22:34 Scanning 739 point from 1170
+19.07 07:22:34 Going to coordinates X=-12.055, Y=-37.298
+19.07 07:22:34 Moving is finished
+19.07 07:23:39 Scanning 740 point from 1170
+19.07 07:23:39 Going to coordinates X=-12.045, Y=-37.298
+19.07 07:23:39 Moving is finished
+19.07 07:24:43 Scanning 741 point from 1170
+19.07 07:24:43 Going to coordinates X=-12.035, Y=-37.298
+19.07 07:24:43 Moving is finished
+19.07 07:25:48 Scanning 742 point from 1170
+19.07 07:25:48 Going to coordinates X=-12.025, Y=-37.298
+19.07 07:25:48 Moving is finished
+19.07 07:26:52 Scanning 743 point from 1170
+19.07 07:26:52 Going to coordinates X=-12.015, Y=-37.298
+19.07 07:26:53 Moving is finished
+19.07 07:27:57 Scanning 744 point from 1170
+19.07 07:27:57 Going to coordinates X=-12.005, Y=-37.298
+19.07 07:27:58 Moving is finished
+19.07 07:29:03 Scanning 745 point from 1170
+19.07 07:29:03 Going to coordinates X=-11.995, Y=-37.298
+19.07 07:29:03 Moving is finished
+19.07 07:30:08 Scanning 746 point from 1170
+19.07 07:30:08 Going to coordinates X=-11.985, Y=-37.298
+19.07 07:30:08 Moving is finished
+19.07 07:31:13 Scanning 747 point from 1170
+19.07 07:31:13 Going to coordinates X=-11.975, Y=-37.298
+19.07 07:31:13 Moving is finished
+19.07 07:32:18 Scanning 748 point from 1170
+19.07 07:32:18 Going to coordinates X=-11.965, Y=-37.298
+19.07 07:32:18 Moving is finished
+19.07 07:33:22 Scanning 749 point from 1170
+19.07 07:33:22 Going to coordinates X=-11.955, Y=-37.298
+19.07 07:33:22 Moving is finished
+19.07 07:34:27 Scanning 750 point from 1170
+19.07 07:34:27 Going to coordinates X=-12.245, Y=-37.288
+19.07 07:34:27 Moving is finished
+19.07 07:35:32 Scanning 751 point from 1170
+19.07 07:35:32 Going to coordinates X=-12.235, Y=-37.288
+19.07 07:35:32 Moving is finished
+19.07 07:36:37 Scanning 752 point from 1170
+19.07 07:36:37 Going to coordinates X=-12.225, Y=-37.288
+19.07 07:36:37 Moving is finished
+19.07 07:37:42 Scanning 753 point from 1170
+19.07 07:37:42 Going to coordinates X=-12.215, Y=-37.288
+19.07 07:37:42 Moving is finished
+19.07 07:38:47 Scanning 754 point from 1170
+19.07 07:38:47 Going to coordinates X=-12.205, Y=-37.288
+19.07 07:38:47 Moving is finished
+19.07 07:39:52 Scanning 755 point from 1170
+19.07 07:39:52 Going to coordinates X=-12.195, Y=-37.288
+19.07 07:39:52 Moving is finished
+19.07 07:40:56 Scanning 756 point from 1170
+19.07 07:40:56 Going to coordinates X=-12.185, Y=-37.288
+19.07 07:40:57 Moving is finished
+19.07 07:42:02 Scanning 757 point from 1170
+19.07 07:42:02 Going to coordinates X=-12.175, Y=-37.288
+19.07 07:42:02 Moving is finished
+19.07 07:43:07 Scanning 758 point from 1170
+19.07 07:43:07 Going to coordinates X=-12.165, Y=-37.288
+19.07 07:43:07 Moving is finished
+19.07 07:44:11 Scanning 759 point from 1170
+19.07 07:44:11 Going to coordinates X=-12.155, Y=-37.288
+19.07 07:44:12 Moving is finished
+19.07 07:45:17 Scanning 760 point from 1170
+19.07 07:45:17 Going to coordinates X=-12.145, Y=-37.288
+19.07 07:45:17 Moving is finished
+19.07 07:46:22 Scanning 761 point from 1170
+19.07 07:46:22 Going to coordinates X=-12.135, Y=-37.288
+19.07 07:46:22 Moving is finished
+19.07 07:47:27 Scanning 762 point from 1170
+19.07 07:47:27 Going to coordinates X=-12.125, Y=-37.288
+19.07 07:47:27 Moving is finished
+19.07 07:48:32 Scanning 763 point from 1170
+19.07 07:48:32 Going to coordinates X=-12.115, Y=-37.288
+19.07 07:48:32 Moving is finished
+19.07 07:49:38 Scanning 764 point from 1170
+19.07 07:49:38 Going to coordinates X=-12.105, Y=-37.288
+19.07 07:49:38 Moving is finished
+19.07 07:50:43 Scanning 765 point from 1170
+19.07 07:50:43 Going to coordinates X=-12.095, Y=-37.288
+19.07 07:50:43 Moving is finished
+19.07 07:51:48 Scanning 766 point from 1170
+19.07 07:51:48 Going to coordinates X=-12.085, Y=-37.288
+19.07 07:51:48 Moving is finished
+19.07 07:52:53 Scanning 767 point from 1170
+19.07 07:52:53 Going to coordinates X=-12.075, Y=-37.288
+19.07 07:52:53 Moving is finished
+19.07 07:53:58 Scanning 768 point from 1170
+19.07 07:53:58 Going to coordinates X=-12.065, Y=-37.288
+19.07 07:53:59 Moving is finished
+19.07 07:55:03 Scanning 769 point from 1170
+19.07 07:55:03 Going to coordinates X=-12.055, Y=-37.288
+19.07 07:55:04 Moving is finished
+19.07 07:56:09 Scanning 770 point from 1170
+19.07 07:56:09 Going to coordinates X=-12.045, Y=-37.288
+19.07 07:56:09 Moving is finished
+19.07 07:57:13 Scanning 771 point from 1170
+19.07 07:57:13 Going to coordinates X=-12.035, Y=-37.288
+19.07 07:57:14 Moving is finished
+19.07 07:58:18 Scanning 772 point from 1170
+19.07 07:58:18 Going to coordinates X=-12.025, Y=-37.288
+19.07 07:58:18 Moving is finished
+19.07 07:59:23 Scanning 773 point from 1170
+19.07 07:59:23 Going to coordinates X=-12.015, Y=-37.288
+19.07 07:59:24 Moving is finished
+19.07 08:00:28 Scanning 774 point from 1170
+19.07 08:00:28 Going to coordinates X=-12.005, Y=-37.288
+19.07 08:00:28 Moving is finished
+19.07 08:01:33 Scanning 775 point from 1170
+19.07 08:01:33 Going to coordinates X=-11.995, Y=-37.288
+19.07 08:01:33 Moving is finished
+19.07 08:02:38 Scanning 776 point from 1170
+19.07 08:02:38 Going to coordinates X=-11.985, Y=-37.288
+19.07 08:02:38 Moving is finished
+19.07 08:03:42 Scanning 777 point from 1170
+19.07 08:03:42 Going to coordinates X=-11.975, Y=-37.288
+19.07 08:03:42 Moving is finished
+19.07 08:04:47 Scanning 778 point from 1170
+19.07 08:04:47 Going to coordinates X=-11.965, Y=-37.288
+19.07 08:04:47 Moving is finished
+19.07 08:05:52 Scanning 779 point from 1170
+19.07 08:05:52 Going to coordinates X=-11.955, Y=-37.288
+19.07 08:05:52 Moving is finished
+19.07 08:06:56 Scanning 780 point from 1170
+19.07 08:06:56 Going to coordinates X=-12.245, Y=-37.278
+19.07 08:06:57 Moving is finished
+19.07 08:08:02 Scanning 781 point from 1170
+19.07 08:08:02 Going to coordinates X=-12.235, Y=-37.278
+19.07 08:08:02 Moving is finished
+19.07 08:09:06 Scanning 782 point from 1170
+19.07 08:09:06 Going to coordinates X=-12.225, Y=-37.278
+19.07 08:09:06 Moving is finished
+19.07 08:10:11 Scanning 783 point from 1170
+19.07 08:10:11 Going to coordinates X=-12.215, Y=-37.278
+19.07 08:10:11 Moving is finished
+19.07 08:11:15 Scanning 784 point from 1170
+19.07 08:11:15 Going to coordinates X=-12.205, Y=-37.278
+19.07 08:11:16 Moving is finished
+19.07 08:12:20 Scanning 785 point from 1170
+19.07 08:12:20 Going to coordinates X=-12.195, Y=-37.278
+19.07 08:12:20 Moving is finished
+19.07 08:13:25 Scanning 786 point from 1170
+19.07 08:13:25 Going to coordinates X=-12.185, Y=-37.278
+19.07 08:13:26 Moving is finished
+19.07 08:14:30 Scanning 787 point from 1170
+19.07 08:14:30 Going to coordinates X=-12.175, Y=-37.278
+19.07 08:14:30 Moving is finished
+19.07 08:15:36 Scanning 788 point from 1170
+19.07 08:15:36 Going to coordinates X=-12.165, Y=-37.278
+19.07 08:15:36 Moving is finished
+19.07 08:16:41 Scanning 789 point from 1170
+19.07 08:16:41 Going to coordinates X=-12.155, Y=-37.278
+19.07 08:16:41 Moving is finished
+19.07 08:17:45 Scanning 790 point from 1170
+19.07 08:17:45 Going to coordinates X=-12.145, Y=-37.278
+19.07 08:17:45 Moving is finished
+19.07 08:18:50 Scanning 791 point from 1170
+19.07 08:18:50 Going to coordinates X=-12.135, Y=-37.278
+19.07 08:18:50 Moving is finished
+19.07 08:19:55 Scanning 792 point from 1170
+19.07 08:19:55 Going to coordinates X=-12.125, Y=-37.278
+19.07 08:19:55 Moving is finished
+19.07 08:21:00 Scanning 793 point from 1170
+19.07 08:21:00 Going to coordinates X=-12.115, Y=-37.278
+19.07 08:21:00 Moving is finished
+19.07 08:22:05 Scanning 794 point from 1170
+19.07 08:22:05 Going to coordinates X=-12.105, Y=-37.278
+19.07 08:22:05 Moving is finished
+19.07 08:23:10 Scanning 795 point from 1170
+19.07 08:23:10 Going to coordinates X=-12.095, Y=-37.278
+19.07 08:23:11 Moving is finished
+19.07 08:24:15 Scanning 796 point from 1170
+19.07 08:24:15 Going to coordinates X=-12.085, Y=-37.278
+19.07 08:24:15 Moving is finished
+19.07 08:25:20 Scanning 797 point from 1170
+19.07 08:25:20 Going to coordinates X=-12.075, Y=-37.278
+19.07 08:25:20 Moving is finished
+19.07 08:26:25 Scanning 798 point from 1170
+19.07 08:26:25 Going to coordinates X=-12.065, Y=-37.278
+19.07 08:26:25 Moving is finished
+19.07 08:27:29 Scanning 799 point from 1170
+19.07 08:27:29 Going to coordinates X=-12.055, Y=-37.278
+19.07 08:27:30 Moving is finished
+19.07 08:28:34 Scanning 800 point from 1170
+19.07 08:28:34 Going to coordinates X=-12.045, Y=-37.278
+19.07 08:28:35 Moving is finished
+19.07 08:29:40 Scanning 801 point from 1170
+19.07 08:29:40 Going to coordinates X=-12.035, Y=-37.278
+19.07 08:29:40 Moving is finished
+19.07 08:30:45 Scanning 802 point from 1170
+19.07 08:30:45 Going to coordinates X=-12.025, Y=-37.278
+19.07 08:30:45 Moving is finished
+19.07 08:31:49 Scanning 803 point from 1170
+19.07 08:31:49 Going to coordinates X=-12.015, Y=-37.278
+19.07 08:31:50 Moving is finished
+19.07 08:32:55 Scanning 804 point from 1170
+19.07 08:32:55 Going to coordinates X=-12.005, Y=-37.278
+19.07 08:32:55 Moving is finished
+19.07 08:33:59 Scanning 805 point from 1170
+19.07 08:33:59 Going to coordinates X=-11.995, Y=-37.278
+19.07 08:34:00 Moving is finished
+19.07 08:35:04 Scanning 806 point from 1170
+19.07 08:35:04 Going to coordinates X=-11.985, Y=-37.278
+19.07 08:35:05 Moving is finished
+19.07 08:36:09 Scanning 807 point from 1170
+19.07 08:36:09 Going to coordinates X=-11.975, Y=-37.278
+19.07 08:36:09 Moving is finished
+19.07 08:37:14 Scanning 808 point from 1170
+19.07 08:37:14 Going to coordinates X=-11.965, Y=-37.278
+19.07 08:37:14 Moving is finished
+19.07 08:38:19 Scanning 809 point from 1170
+19.07 08:38:19 Going to coordinates X=-11.955, Y=-37.278
+19.07 08:38:19 Moving is finished
+19.07 08:39:24 Scanning 810 point from 1170
+19.07 08:39:24 Going to coordinates X=-12.245, Y=-37.268
+19.07 08:39:24 Moving is finished
+19.07 08:40:29 Scanning 811 point from 1170
+19.07 08:40:29 Going to coordinates X=-12.235, Y=-37.268
+19.07 08:40:29 Moving is finished
+19.07 08:41:35 Scanning 812 point from 1170
+19.07 08:41:35 Going to coordinates X=-12.225, Y=-37.268
+19.07 08:41:35 Moving is finished
+19.07 08:42:39 Scanning 813 point from 1170
+19.07 08:42:39 Going to coordinates X=-12.215, Y=-37.268
+19.07 08:42:39 Moving is finished
+19.07 08:43:44 Scanning 814 point from 1170
+19.07 08:43:44 Going to coordinates X=-12.205, Y=-37.268
+19.07 08:43:45 Moving is finished
+19.07 08:44:49 Scanning 815 point from 1170
+19.07 08:44:49 Going to coordinates X=-12.195, Y=-37.268
+19.07 08:44:49 Moving is finished
+19.07 08:45:54 Scanning 816 point from 1170
+19.07 08:45:54 Going to coordinates X=-12.185, Y=-37.268
+19.07 08:45:54 Moving is finished
+19.07 08:46:59 Scanning 817 point from 1170
+19.07 08:46:59 Going to coordinates X=-12.175, Y=-37.268
+19.07 08:47:00 Moving is finished
+19.07 08:48:05 Scanning 818 point from 1170
+19.07 08:48:05 Going to coordinates X=-12.165, Y=-37.268
+19.07 08:48:05 Moving is finished
+19.07 08:49:10 Scanning 819 point from 1170
+19.07 08:49:10 Going to coordinates X=-12.155, Y=-37.268
+19.07 08:49:10 Moving is finished
+19.07 08:50:15 Scanning 820 point from 1170
+19.07 08:50:15 Going to coordinates X=-12.145, Y=-37.268
+19.07 08:50:15 Moving is finished
+19.07 08:51:20 Scanning 821 point from 1170
+19.07 08:51:20 Going to coordinates X=-12.135, Y=-37.268
+19.07 08:51:20 Moving is finished
+19.07 08:52:25 Scanning 822 point from 1170
+19.07 08:52:25 Going to coordinates X=-12.125, Y=-37.268
+19.07 08:52:25 Moving is finished
+19.07 08:53:30 Scanning 823 point from 1170
+19.07 08:53:30 Going to coordinates X=-12.115, Y=-37.268
+19.07 08:53:30 Moving is finished
+19.07 08:54:36 Scanning 824 point from 1170
+19.07 08:54:36 Going to coordinates X=-12.105, Y=-37.268
+19.07 08:54:36 Moving is finished
+19.07 08:55:40 Scanning 825 point from 1170
+19.07 08:55:40 Going to coordinates X=-12.095, Y=-37.268
+19.07 08:55:41 Moving is finished
+19.07 08:56:46 Scanning 826 point from 1170
+19.07 08:56:46 Going to coordinates X=-12.085, Y=-37.268
+19.07 08:56:46 Moving is finished
+19.07 08:57:51 Scanning 827 point from 1170
+19.07 08:57:51 Going to coordinates X=-12.075, Y=-37.268
+19.07 08:57:51 Moving is finished
+19.07 08:58:56 Scanning 828 point from 1170
+19.07 08:58:56 Going to coordinates X=-12.065, Y=-37.268
+19.07 08:58:57 Moving is finished
+19.07 09:00:02 Scanning 829 point from 1170
+19.07 09:00:02 Going to coordinates X=-12.055, Y=-37.268
+19.07 09:00:02 Moving is finished
+19.07 09:01:07 Scanning 830 point from 1170
+19.07 09:01:07 Going to coordinates X=-12.045, Y=-37.268
+19.07 09:01:07 Moving is finished
+19.07 09:02:12 Scanning 831 point from 1170
+19.07 09:02:12 Going to coordinates X=-12.035, Y=-37.268
+19.07 09:02:12 Moving is finished
+19.07 09:03:16 Scanning 832 point from 1170
+19.07 09:03:16 Going to coordinates X=-12.025, Y=-37.268
+19.07 09:03:16 Moving is finished
+19.07 09:04:21 Scanning 833 point from 1170
+19.07 09:04:21 Going to coordinates X=-12.015, Y=-37.268
+19.07 09:04:21 Moving is finished
+19.07 09:05:26 Scanning 834 point from 1170
+19.07 09:05:26 Going to coordinates X=-12.005, Y=-37.268
+19.07 09:05:26 Moving is finished
+19.07 09:06:30 Scanning 835 point from 1170
+19.07 09:06:30 Going to coordinates X=-11.995, Y=-37.268
+19.07 09:06:30 Moving is finished
+19.07 09:07:35 Scanning 836 point from 1170
+19.07 09:07:35 Going to coordinates X=-11.985, Y=-37.268
+19.07 09:07:35 Moving is finished
+19.07 09:08:40 Scanning 837 point from 1170
+19.07 09:08:40 Going to coordinates X=-11.975, Y=-37.268
+19.07 09:08:40 Moving is finished
+19.07 09:09:45 Scanning 838 point from 1170
+19.07 09:09:45 Going to coordinates X=-11.965, Y=-37.268
+19.07 09:09:45 Moving is finished
+19.07 09:10:50 Scanning 839 point from 1170
+19.07 09:10:50 Going to coordinates X=-11.955, Y=-37.268
+19.07 09:10:50 Moving is finished
+19.07 09:11:54 Scanning 840 point from 1170
+19.07 09:11:54 Going to coordinates X=-12.245, Y=-37.258
+19.07 09:11:55 Moving is finished
+19.07 09:13:00 Scanning 841 point from 1170
+19.07 09:13:00 Going to coordinates X=-12.235, Y=-37.258
+19.07 09:13:00 Moving is finished
+19.07 09:14:05 Scanning 842 point from 1170
+19.07 09:14:05 Going to coordinates X=-12.225, Y=-37.258
+19.07 09:14:05 Moving is finished
+19.07 09:15:10 Scanning 843 point from 1170
+19.07 09:15:10 Going to coordinates X=-12.215, Y=-37.258
+19.07 09:15:10 Moving is finished
+19.07 09:16:15 Scanning 844 point from 1170
+19.07 09:16:15 Going to coordinates X=-12.205, Y=-37.258
+19.07 09:16:15 Moving is finished
+19.07 09:17:20 Scanning 845 point from 1170
+19.07 09:17:20 Going to coordinates X=-12.195, Y=-37.258
+19.07 09:17:20 Moving is finished
+19.07 09:18:25 Scanning 846 point from 1170
+19.07 09:18:25 Going to coordinates X=-12.185, Y=-37.258
+19.07 09:18:25 Moving is finished
+19.07 09:19:30 Scanning 847 point from 1170
+19.07 09:19:30 Going to coordinates X=-12.175, Y=-37.258
+19.07 09:19:30 Moving is finished
+19.07 09:20:34 Scanning 848 point from 1170
+19.07 09:20:34 Going to coordinates X=-12.165, Y=-37.258
+19.07 09:20:35 Moving is finished
+19.07 09:21:39 Scanning 849 point from 1170
+19.07 09:21:39 Going to coordinates X=-12.155, Y=-37.258
+19.07 09:21:40 Moving is finished
+19.07 09:22:44 Scanning 850 point from 1170
+19.07 09:22:44 Going to coordinates X=-12.145, Y=-37.258
+19.07 09:22:44 Moving is finished
+19.07 09:23:49 Scanning 851 point from 1170
+19.07 09:23:49 Going to coordinates X=-12.135, Y=-37.258
+19.07 09:23:49 Moving is finished
+19.07 09:24:53 Scanning 852 point from 1170
+19.07 09:24:53 Going to coordinates X=-12.125, Y=-37.258
+19.07 09:24:54 Moving is finished
+19.07 09:25:58 Scanning 853 point from 1170
+19.07 09:25:58 Going to coordinates X=-12.115, Y=-37.258
+19.07 09:25:58 Moving is finished
+19.07 09:27:03 Scanning 854 point from 1170
+19.07 09:27:03 Going to coordinates X=-12.105, Y=-37.258
+19.07 09:27:03 Moving is finished
+19.07 09:28:08 Scanning 855 point from 1170
+19.07 09:28:08 Going to coordinates X=-12.095, Y=-37.258
+19.07 09:28:08 Moving is finished
+19.07 09:29:12 Scanning 856 point from 1170
+19.07 09:29:12 Going to coordinates X=-12.085, Y=-37.258
+19.07 09:29:12 Moving is finished
+19.07 09:30:17 Scanning 857 point from 1170
+19.07 09:30:17 Going to coordinates X=-12.075, Y=-37.258
+19.07 09:30:17 Moving is finished
+19.07 09:31:22 Scanning 858 point from 1170
+19.07 09:31:22 Going to coordinates X=-12.065, Y=-37.258
+19.07 09:31:22 Moving is finished
+19.07 09:32:27 Scanning 859 point from 1170
+19.07 09:32:27 Going to coordinates X=-12.055, Y=-37.258
+19.07 09:32:27 Moving is finished
+19.07 09:33:32 Scanning 860 point from 1170
+19.07 09:33:32 Going to coordinates X=-12.045, Y=-37.258
+19.07 09:33:32 Moving is finished
+19.07 09:34:37 Scanning 861 point from 1170
+19.07 09:34:37 Going to coordinates X=-12.035, Y=-37.258
+19.07 09:34:37 Moving is finished
+19.07 09:35:42 Scanning 862 point from 1170
+19.07 09:35:42 Going to coordinates X=-12.025, Y=-37.258
+19.07 09:35:42 Moving is finished
+19.07 09:36:47 Scanning 863 point from 1170
+19.07 09:36:47 Going to coordinates X=-12.015, Y=-37.258
+19.07 09:36:47 Moving is finished
+19.07 09:37:52 Scanning 864 point from 1170
+19.07 09:37:52 Going to coordinates X=-12.005, Y=-37.258
+19.07 09:37:52 Moving is finished
+19.07 09:38:57 Scanning 865 point from 1170
+19.07 09:38:57 Going to coordinates X=-11.995, Y=-37.258
+19.07 09:38:57 Moving is finished
+19.07 09:40:02 Scanning 866 point from 1170
+19.07 09:40:02 Going to coordinates X=-11.985, Y=-37.258
+19.07 09:40:02 Moving is finished
+19.07 09:41:07 Scanning 867 point from 1170
+19.07 09:41:07 Going to coordinates X=-11.975, Y=-37.258
+19.07 09:41:07 Moving is finished
+19.07 09:42:11 Scanning 868 point from 1170
+19.07 09:42:11 Going to coordinates X=-11.965, Y=-37.258
+19.07 09:42:11 Moving is finished
+19.07 09:43:16 Scanning 869 point from 1170
+19.07 09:43:16 Going to coordinates X=-11.955, Y=-37.258
+19.07 09:43:16 Moving is finished
+19.07 09:44:21 Scanning 870 point from 1170
+19.07 09:44:21 Going to coordinates X=-12.245, Y=-37.248
+19.07 09:44:21 Moving is finished
+19.07 09:45:26 Scanning 871 point from 1170
+19.07 09:45:26 Going to coordinates X=-12.235, Y=-37.248
+19.07 09:45:26 Moving is finished
+19.07 09:46:31 Scanning 872 point from 1170
+19.07 09:46:31 Going to coordinates X=-12.225, Y=-37.248
+19.07 09:46:31 Moving is finished
+19.07 09:47:37 Scanning 873 point from 1170
+19.07 09:47:37 Going to coordinates X=-12.215, Y=-37.248
+19.07 09:47:37 Moving is finished
+19.07 09:48:42 Scanning 874 point from 1170
+19.07 09:48:42 Going to coordinates X=-12.205, Y=-37.248
+19.07 09:48:42 Moving is finished
+19.07 09:49:47 Scanning 875 point from 1170
+19.07 09:49:47 Going to coordinates X=-12.195, Y=-37.248
+19.07 09:49:47 Moving is finished
+19.07 09:50:51 Scanning 876 point from 1170
+19.07 09:50:51 Going to coordinates X=-12.185, Y=-37.248
+19.07 09:50:51 Moving is finished
+19.07 09:51:56 Scanning 877 point from 1170
+19.07 09:51:56 Going to coordinates X=-12.175, Y=-37.248
+19.07 09:51:56 Moving is finished
+19.07 09:53:01 Scanning 878 point from 1170
+19.07 09:53:01 Going to coordinates X=-12.165, Y=-37.248
+19.07 09:53:01 Moving is finished
+19.07 09:54:06 Scanning 879 point from 1170
+19.07 09:54:06 Going to coordinates X=-12.155, Y=-37.248
+19.07 09:54:06 Moving is finished
+19.07 09:55:10 Scanning 880 point from 1170
+19.07 09:55:10 Going to coordinates X=-12.145, Y=-37.248
+19.07 09:55:11 Moving is finished
+19.07 09:56:16 Scanning 881 point from 1170
+19.07 09:56:16 Going to coordinates X=-12.135, Y=-37.248
+19.07 09:56:16 Moving is finished
+19.07 09:57:14 Stopped!
+19.07 10:08:51 Can't send the command to GRBL
+19.07 10:08:51 Write timeout19.07 10:08:51 Write timeout
+
+19.07 10:20:33 Can't send the command to GRBL
+19.07 10:20:33 Write timeout

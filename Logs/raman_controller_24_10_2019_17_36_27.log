@@ -1,0 +1,101 @@
+24.10 17:36:28 Initializing grbl...
+24.10 17:36:29 Got the response: b''
+24.10 17:38:36 Can't send the command to GRBL
+24.10 17:38:36 Write timeout24.10 17:38:36 Write timeout
+
+24.10 17:39:19 Row 0: 24.10 17:39:19 Goto: -10.769; -39.569; 0.000
+24.10 17:39:19 Going to coordinates X=-10.769, Y=-39.569
+24.10 17:39:19 Moving is finished
+24.10 17:39:20 Row 1: 24.10 17:39:20 Raman: nitrostar
+24.10 17:39:20 Starting signal collection to the file nitrostar
+24.10 17:41:07 Data is collected!
+24.10 17:41:07 Row 2: 24.10 17:41:07 Goto: -10.769; -39.600; 0.000
+24.10 17:41:07 Going to coordinates X=-10.769, Y=-39.600
+24.10 17:41:07 Moving is finished
+24.10 17:41:08 Row 3: 24.10 17:41:08 Raman: nitrostar
+24.10 17:41:08 Starting signal collection to the file nitrostar
+24.10 17:42:54 Data is collected!
+24.10 17:42:54 Row 4: 24.10 17:42:54 Goto: -10.769; -39.641; 0.000
+24.10 17:42:54 Going to coordinates X=-10.769, Y=-39.641
+24.10 17:42:54 Moving is finished
+24.10 17:42:55 Row 5: 24.10 17:42:55 Raman: nitrostar
+24.10 17:42:55 Starting signal collection to the file nitrostar
+24.10 17:44:41 Data is collected!
+24.10 17:44:41 Row 6: 24.10 17:44:41 Goto: -10.750; -39.641; 0.000
+24.10 17:44:41 Going to coordinates X=-10.750, Y=-39.641
+24.10 17:44:41 Moving is finished
+24.10 17:44:42 Row 7: 24.10 17:44:42 Raman: nitrostar
+24.10 17:44:42 Starting signal collection to the file nitrostar
+24.10 17:46:28 Data is collected!
+24.10 17:46:28 Row 8: 24.10 17:46:28 Goto: -10.788; -39.641; 0.000
+24.10 17:46:28 Going to coordinates X=-10.788, Y=-39.641
+24.10 17:46:28 Moving is finished
+24.10 17:46:29 Row 9: 24.10 17:46:29 Raman: nitrostar
+24.10 17:46:29 Starting signal collection to the file nitrostar
+24.10 17:48:16 Data is collected!
+24.10 17:48:16 Row 10: 24.10 17:48:16 Map: x1: -10.673, y1: -39.805, x2: -10.654, y2: -39.887, xres: 0.010, yres: 0.010, fname: nitrostar
+24.10 17:48:16 Scanning 0 point from 30
+24.10 17:48:16 Going to coordinates X=-10.673, Y=-39.887
+24.10 17:48:16 Moving is finished
+24.10 17:50:01 Scanning 1 point from 30
+24.10 17:50:01 Going to coordinates X=-10.663, Y=-39.887
+24.10 17:50:01 Moving is finished
+24.10 17:51:46 Scanning 2 point from 30
+24.10 17:51:46 Going to coordinates X=-10.653, Y=-39.887
+24.10 17:51:46 Moving is finished
+24.10 17:53:31 Scanning 3 point from 30
+24.10 17:53:31 Going to coordinates X=-10.673, Y=-39.877
+24.10 17:53:31 Moving is finished
+24.10 17:55:15 Scanning 4 point from 30
+24.10 17:55:15 Going to coordinates X=-10.663, Y=-39.877
+24.10 17:55:16 Moving is finished
+24.10 17:57:00 Scanning 5 point from 30
+24.10 17:57:00 Going to coordinates X=-10.653, Y=-39.877
+24.10 17:57:00 Moving is finished
+24.10 17:58:45 Scanning 6 point from 30
+24.10 17:58:45 Going to coordinates X=-10.673, Y=-39.867
+24.10 17:58:45 Moving is finished
+24.10 18:00:29 Scanning 7 point from 30
+24.10 18:00:29 Going to coordinates X=-10.663, Y=-39.867
+24.10 18:00:30 Moving is finished
+24.10 18:02:14 Scanning 8 point from 30
+24.10 18:02:14 Going to coordinates X=-10.653, Y=-39.867
+24.10 18:02:14 Moving is finished
+24.10 18:03:58 Scanning 9 point from 30
+24.10 18:03:58 Going to coordinates X=-10.673, Y=-39.857
+24.10 18:03:59 Moving is finished
+24.10 18:05:43 Scanning 10 point from 30
+24.10 18:05:43 Going to coordinates X=-10.663, Y=-39.857
+24.10 18:05:43 Moving is finished
+24.10 18:07:27 Scanning 11 point from 30
+24.10 18:07:27 Going to coordinates X=-10.653, Y=-39.857
+24.10 18:07:27 Moving is finished
+24.10 18:09:12 Scanning 12 point from 30
+24.10 18:09:12 Going to coordinates X=-10.673, Y=-39.847
+24.10 18:09:12 Moving is finished
+24.10 18:10:57 Scanning 13 point from 30
+24.10 18:10:57 Going to coordinates X=-10.663, Y=-39.847
+24.10 18:10:57 Moving is finished
+24.10 18:12:41 Scanning 14 point from 30
+24.10 18:12:41 Going to coordinates X=-10.653, Y=-39.847
+24.10 18:12:41 Moving is finished
+24.10 18:14:26 Scanning 15 point from 30
+24.10 18:14:26 Going to coordinates X=-10.673, Y=-39.837
+24.10 18:14:26 Moving is finished
+24.10 18:16:10 Scanning 16 point from 30
+24.10 18:16:10 Going to coordinates X=-10.663, Y=-39.837
+24.10 18:16:11 Moving is finished
+24.10 18:17:55 Scanning 17 point from 30
+24.10 18:17:55 Going to coordinates X=-10.653, Y=-39.837
+24.10 18:17:55 Moving is finished
+24.10 18:19:40 Scanning 18 point from 30
+24.10 18:19:40 Going to coordinates X=-10.673, Y=-39.827
+24.10 18:19:40 Moving is finished
+24.10 18:21:24 Scanning 19 point from 30
+24.10 18:21:24 Going to coordinates X=-10.663, Y=-39.827
+24.10 18:21:24 Moving is finished
+24.10 18:23:09 Scanning 20 point from 30
+24.10 18:23:59 Going to coordinates X=-10.653, Y=-39.827
+24.10 18:24:59 Moving is finished
+24.10 18:26:44 Scanning 21 point from 30
+24.10 18:27:10 Stopped!

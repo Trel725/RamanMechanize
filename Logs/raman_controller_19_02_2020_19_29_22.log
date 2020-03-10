@@ -1,0 +1,1028 @@
+19.02 19:29:24 Initializing grbl...
+19.02 19:29:25 Got the response: b''
+19.02 19:30:04 Focused at  107
+19.02 19:30:15 Focused at  82
+19.02 19:31:20 Row 0: 19.02 19:31:20 Map: x1: -14.0, y1: -40.328, x2: -15.486, y2: -39.374, xres: 0.050, yres: 0.100, fname: T-5
+19.02 19:31:20 Scanning 0 point from 341
+19.02 19:31:20 Going to coordinates X=-15.486, Y=-40.328
+19.02 19:31:21 Moving is finished
+19.02 19:33:06 Scanning 1 point from 341
+19.02 19:33:06 Going to coordinates X=-15.436, Y=-40.328
+19.02 19:33:06 Moving is finished
+19.02 19:34:51 Scanning 2 point from 341
+19.02 19:34:51 Going to coordinates X=-15.386, Y=-40.328
+19.02 19:34:51 Moving is finished
+19.02 19:36:36 Scanning 3 point from 341
+19.02 19:36:36 Going to coordinates X=-15.336, Y=-40.328
+19.02 19:36:36 Moving is finished
+19.02 19:38:22 Scanning 4 point from 341
+19.02 19:38:22 Going to coordinates X=-15.286, Y=-40.328
+19.02 19:38:22 Moving is finished
+19.02 19:40:08 Scanning 5 point from 341
+19.02 19:40:08 Going to coordinates X=-15.236, Y=-40.328
+19.02 19:40:08 Moving is finished
+19.02 19:41:53 Scanning 6 point from 341
+19.02 19:41:53 Going to coordinates X=-15.186, Y=-40.328
+19.02 19:41:53 Moving is finished
+19.02 19:43:38 Scanning 7 point from 341
+19.02 19:43:38 Going to coordinates X=-15.136, Y=-40.328
+19.02 19:43:38 Moving is finished
+19.02 19:45:23 Scanning 8 point from 341
+19.02 19:45:23 Going to coordinates X=-15.086, Y=-40.328
+19.02 19:45:23 Moving is finished
+19.02 19:47:08 Scanning 9 point from 341
+19.02 19:47:08 Going to coordinates X=-15.036, Y=-40.328
+19.02 19:47:09 Moving is finished
+19.02 19:48:53 Scanning 10 point from 341
+19.02 19:48:53 Going to coordinates X=-14.986, Y=-40.328
+19.02 19:48:54 Moving is finished
+19.02 19:50:38 Scanning 11 point from 341
+19.02 19:50:38 Going to coordinates X=-14.936, Y=-40.328
+19.02 19:50:39 Moving is finished
+19.02 19:52:24 Scanning 12 point from 341
+19.02 19:52:24 Going to coordinates X=-14.886, Y=-40.328
+19.02 19:52:24 Moving is finished
+19.02 19:54:09 Scanning 13 point from 341
+19.02 19:54:09 Going to coordinates X=-14.836, Y=-40.328
+19.02 19:54:09 Moving is finished
+19.02 19:55:54 Scanning 14 point from 341
+19.02 19:55:54 Going to coordinates X=-14.786, Y=-40.328
+19.02 19:55:55 Moving is finished
+19.02 19:57:39 Scanning 15 point from 341
+19.02 19:57:39 Going to coordinates X=-14.736, Y=-40.328
+19.02 19:57:40 Moving is finished
+19.02 19:59:24 Scanning 16 point from 341
+19.02 19:59:24 Going to coordinates X=-14.686, Y=-40.328
+19.02 19:59:25 Moving is finished
+19.02 20:01:09 Scanning 17 point from 341
+19.02 20:01:09 Going to coordinates X=-14.636, Y=-40.328
+19.02 20:01:09 Moving is finished
+19.02 20:02:54 Scanning 18 point from 341
+19.02 20:02:54 Going to coordinates X=-14.586, Y=-40.328
+19.02 20:02:54 Moving is finished
+19.02 20:04:39 Scanning 19 point from 341
+19.02 20:04:39 Going to coordinates X=-14.536, Y=-40.328
+19.02 20:04:40 Moving is finished
+19.02 20:06:24 Scanning 20 point from 341
+19.02 20:06:24 Going to coordinates X=-14.486, Y=-40.328
+19.02 20:06:24 Moving is finished
+19.02 20:08:09 Scanning 21 point from 341
+19.02 20:08:09 Going to coordinates X=-14.436, Y=-40.328
+19.02 20:08:09 Moving is finished
+19.02 20:09:55 Scanning 22 point from 341
+19.02 20:09:55 Going to coordinates X=-14.386, Y=-40.328
+19.02 20:09:55 Moving is finished
+19.02 20:11:40 Scanning 23 point from 341
+19.02 20:11:40 Going to coordinates X=-14.336, Y=-40.328
+19.02 20:11:40 Moving is finished
+19.02 20:13:26 Scanning 24 point from 341
+19.02 20:13:26 Going to coordinates X=-14.286, Y=-40.328
+19.02 20:13:26 Moving is finished
+19.02 20:15:11 Scanning 25 point from 341
+19.02 20:15:11 Going to coordinates X=-14.236, Y=-40.328
+19.02 20:15:11 Moving is finished
+19.02 20:16:56 Scanning 26 point from 341
+19.02 20:16:56 Going to coordinates X=-14.186, Y=-40.328
+19.02 20:16:56 Moving is finished
+19.02 20:18:40 Scanning 27 point from 341
+19.02 20:18:40 Going to coordinates X=-14.136, Y=-40.328
+19.02 20:18:40 Moving is finished
+19.02 20:20:26 Scanning 28 point from 341
+19.02 20:20:26 Going to coordinates X=-14.086, Y=-40.328
+19.02 20:20:26 Moving is finished
+19.02 20:22:11 Scanning 29 point from 341
+19.02 20:22:11 Going to coordinates X=-14.036, Y=-40.328
+19.02 20:22:11 Moving is finished
+19.02 20:23:56 Scanning 30 point from 341
+19.02 20:23:56 Going to coordinates X=-13.986, Y=-40.328
+19.02 20:23:56 Moving is finished
+19.02 20:25:40 Scanning 31 point from 341
+19.02 20:25:40 Going to coordinates X=-15.486, Y=-40.228
+19.02 20:25:41 Moving is finished
+19.02 20:27:27 Scanning 32 point from 341
+19.02 20:27:27 Going to coordinates X=-15.436, Y=-40.228
+19.02 20:27:27 Moving is finished
+19.02 20:29:12 Scanning 33 point from 341
+19.02 20:29:12 Going to coordinates X=-15.386, Y=-40.228
+19.02 20:29:13 Moving is finished
+19.02 20:30:58 Scanning 34 point from 341
+19.02 20:30:58 Going to coordinates X=-15.336, Y=-40.228
+19.02 20:30:58 Moving is finished
+19.02 20:32:43 Scanning 35 point from 341
+19.02 20:32:43 Going to coordinates X=-15.286, Y=-40.228
+19.02 20:32:43 Moving is finished
+19.02 20:34:28 Scanning 36 point from 341
+19.02 20:34:28 Going to coordinates X=-15.236, Y=-40.228
+19.02 20:34:29 Moving is finished
+19.02 20:36:14 Scanning 37 point from 341
+19.02 20:36:14 Going to coordinates X=-15.186, Y=-40.228
+19.02 20:36:14 Moving is finished
+19.02 20:37:59 Scanning 38 point from 341
+19.02 20:37:59 Going to coordinates X=-15.136, Y=-40.228
+19.02 20:37:59 Moving is finished
+19.02 20:39:43 Scanning 39 point from 341
+19.02 20:39:43 Going to coordinates X=-15.086, Y=-40.228
+19.02 20:39:44 Moving is finished
+19.02 20:41:29 Scanning 40 point from 341
+19.02 20:41:29 Going to coordinates X=-15.036, Y=-40.228
+19.02 20:41:29 Moving is finished
+19.02 20:43:14 Scanning 41 point from 341
+19.02 20:43:14 Going to coordinates X=-14.986, Y=-40.228
+19.02 20:43:14 Moving is finished
+19.02 20:44:59 Scanning 42 point from 341
+19.02 20:44:59 Going to coordinates X=-14.936, Y=-40.228
+19.02 20:44:59 Moving is finished
+19.02 20:46:44 Scanning 43 point from 341
+19.02 20:46:44 Going to coordinates X=-14.886, Y=-40.228
+19.02 20:46:44 Moving is finished
+19.02 20:48:29 Scanning 44 point from 341
+19.02 20:48:29 Going to coordinates X=-14.836, Y=-40.228
+19.02 20:48:30 Moving is finished
+19.02 20:50:14 Scanning 45 point from 341
+19.02 20:50:14 Going to coordinates X=-14.786, Y=-40.228
+19.02 20:50:15 Moving is finished
+19.02 20:51:59 Scanning 46 point from 341
+19.02 20:51:59 Going to coordinates X=-14.736, Y=-40.228
+19.02 20:51:59 Moving is finished
+19.02 20:53:44 Scanning 47 point from 341
+19.02 20:53:44 Going to coordinates X=-14.686, Y=-40.228
+19.02 20:53:44 Moving is finished
+19.02 20:55:29 Scanning 48 point from 341
+19.02 20:55:29 Going to coordinates X=-14.636, Y=-40.228
+19.02 20:55:30 Moving is finished
+19.02 20:57:14 Scanning 49 point from 341
+19.02 20:57:14 Going to coordinates X=-14.586, Y=-40.228
+19.02 20:57:15 Moving is finished
+19.02 20:59:00 Scanning 50 point from 341
+19.02 20:59:00 Going to coordinates X=-14.536, Y=-40.228
+19.02 20:59:00 Moving is finished
+19.02 21:00:45 Scanning 51 point from 341
+19.02 21:00:45 Going to coordinates X=-14.486, Y=-40.228
+19.02 21:00:46 Moving is finished
+19.02 21:02:31 Scanning 52 point from 341
+19.02 21:02:31 Going to coordinates X=-14.436, Y=-40.228
+19.02 21:02:31 Moving is finished
+19.02 21:04:16 Scanning 53 point from 341
+19.02 21:04:16 Going to coordinates X=-14.386, Y=-40.228
+19.02 21:04:17 Moving is finished
+19.02 21:06:02 Scanning 54 point from 341
+19.02 21:06:02 Going to coordinates X=-14.336, Y=-40.228
+19.02 21:06:02 Moving is finished
+19.02 21:07:47 Scanning 55 point from 341
+19.02 21:07:47 Going to coordinates X=-14.286, Y=-40.228
+19.02 21:07:47 Moving is finished
+19.02 21:09:32 Scanning 56 point from 341
+19.02 21:09:32 Going to coordinates X=-14.236, Y=-40.228
+19.02 21:09:32 Moving is finished
+19.02 21:11:18 Scanning 57 point from 341
+19.02 21:11:18 Going to coordinates X=-14.186, Y=-40.228
+19.02 21:11:18 Moving is finished
+19.02 21:13:03 Scanning 58 point from 341
+19.02 21:13:03 Going to coordinates X=-14.136, Y=-40.228
+19.02 21:13:03 Moving is finished
+19.02 21:14:48 Scanning 59 point from 341
+19.02 21:14:48 Going to coordinates X=-14.086, Y=-40.228
+19.02 21:14:48 Moving is finished
+19.02 21:16:33 Scanning 60 point from 341
+19.02 21:16:33 Going to coordinates X=-14.036, Y=-40.228
+19.02 21:16:33 Moving is finished
+19.02 21:18:18 Scanning 61 point from 341
+19.02 21:18:18 Going to coordinates X=-13.986, Y=-40.228
+19.02 21:18:18 Moving is finished
+19.02 21:20:03 Scanning 62 point from 341
+19.02 21:20:03 Going to coordinates X=-15.486, Y=-40.128
+19.02 21:20:04 Moving is finished
+19.02 21:21:49 Scanning 63 point from 341
+19.02 21:21:49 Going to coordinates X=-15.436, Y=-40.128
+19.02 21:21:49 Moving is finished
+19.02 21:23:34 Scanning 64 point from 341
+19.02 21:23:34 Going to coordinates X=-15.386, Y=-40.128
+19.02 21:23:34 Moving is finished
+19.02 21:25:19 Scanning 65 point from 341
+19.02 21:25:19 Going to coordinates X=-15.336, Y=-40.128
+19.02 21:25:19 Moving is finished
+19.02 21:27:04 Scanning 66 point from 341
+19.02 21:27:04 Going to coordinates X=-15.286, Y=-40.128
+19.02 21:27:04 Moving is finished
+19.02 21:28:49 Scanning 67 point from 341
+19.02 21:28:49 Going to coordinates X=-15.236, Y=-40.128
+19.02 21:28:49 Moving is finished
+19.02 21:30:34 Scanning 68 point from 341
+19.02 21:30:34 Going to coordinates X=-15.186, Y=-40.128
+19.02 21:30:35 Moving is finished
+19.02 21:32:20 Scanning 69 point from 341
+19.02 21:32:20 Going to coordinates X=-15.136, Y=-40.128
+19.02 21:32:20 Moving is finished
+19.02 21:34:05 Scanning 70 point from 341
+19.02 21:34:05 Going to coordinates X=-15.086, Y=-40.128
+19.02 21:34:05 Moving is finished
+19.02 21:35:50 Scanning 71 point from 341
+19.02 21:35:50 Going to coordinates X=-15.036, Y=-40.128
+19.02 21:35:50 Moving is finished
+19.02 21:37:35 Scanning 72 point from 341
+19.02 21:37:35 Going to coordinates X=-14.986, Y=-40.128
+19.02 21:37:35 Moving is finished
+19.02 21:39:21 Scanning 73 point from 341
+19.02 21:39:21 Going to coordinates X=-14.936, Y=-40.128
+19.02 21:39:21 Moving is finished
+19.02 21:41:07 Scanning 74 point from 341
+19.02 21:41:07 Going to coordinates X=-14.886, Y=-40.128
+19.02 21:41:07 Moving is finished
+19.02 21:42:52 Scanning 75 point from 341
+19.02 21:42:52 Going to coordinates X=-14.836, Y=-40.128
+19.02 21:42:52 Moving is finished
+19.02 21:44:37 Scanning 76 point from 341
+19.02 21:44:37 Going to coordinates X=-14.786, Y=-40.128
+19.02 21:44:37 Moving is finished
+19.02 21:46:22 Scanning 77 point from 341
+19.02 21:46:22 Going to coordinates X=-14.736, Y=-40.128
+19.02 21:46:22 Moving is finished
+19.02 21:48:06 Scanning 78 point from 341
+19.02 21:48:06 Going to coordinates X=-14.686, Y=-40.128
+19.02 21:48:06 Moving is finished
+19.02 21:49:51 Scanning 79 point from 341
+19.02 21:49:51 Going to coordinates X=-14.636, Y=-40.128
+19.02 21:49:52 Moving is finished
+19.02 21:51:37 Scanning 80 point from 341
+19.02 21:51:37 Going to coordinates X=-14.586, Y=-40.128
+19.02 21:51:37 Moving is finished
+19.02 21:53:21 Scanning 81 point from 341
+19.02 21:53:21 Going to coordinates X=-14.536, Y=-40.128
+19.02 21:53:22 Moving is finished
+19.02 21:55:06 Scanning 82 point from 341
+19.02 21:55:06 Going to coordinates X=-14.486, Y=-40.128
+19.02 21:55:07 Moving is finished
+19.02 21:56:52 Scanning 83 point from 341
+19.02 21:56:52 Going to coordinates X=-14.436, Y=-40.128
+19.02 21:56:52 Moving is finished
+19.02 21:58:37 Scanning 84 point from 341
+19.02 21:58:37 Going to coordinates X=-14.386, Y=-40.128
+19.02 21:58:37 Moving is finished
+19.02 22:00:22 Scanning 85 point from 341
+19.02 22:00:22 Going to coordinates X=-14.336, Y=-40.128
+19.02 22:00:22 Moving is finished
+19.02 22:02:07 Scanning 86 point from 341
+19.02 22:02:07 Going to coordinates X=-14.286, Y=-40.128
+19.02 22:02:07 Moving is finished
+19.02 22:03:52 Scanning 87 point from 341
+19.02 22:03:52 Going to coordinates X=-14.236, Y=-40.128
+19.02 22:03:52 Moving is finished
+19.02 22:05:37 Scanning 88 point from 341
+19.02 22:05:37 Going to coordinates X=-14.186, Y=-40.128
+19.02 22:05:37 Moving is finished
+19.02 22:07:23 Scanning 89 point from 341
+19.02 22:07:23 Going to coordinates X=-14.136, Y=-40.128
+19.02 22:07:23 Moving is finished
+19.02 22:09:08 Scanning 90 point from 341
+19.02 22:09:08 Going to coordinates X=-14.086, Y=-40.128
+19.02 22:09:08 Moving is finished
+19.02 22:10:53 Scanning 91 point from 341
+19.02 22:10:53 Going to coordinates X=-14.036, Y=-40.128
+19.02 22:10:53 Moving is finished
+19.02 22:12:38 Scanning 92 point from 341
+19.02 22:12:38 Going to coordinates X=-13.986, Y=-40.128
+19.02 22:12:38 Moving is finished
+19.02 22:14:23 Scanning 93 point from 341
+19.02 22:14:23 Going to coordinates X=-15.486, Y=-40.028
+19.02 22:14:23 Moving is finished
+19.02 22:16:09 Scanning 94 point from 341
+19.02 22:16:09 Going to coordinates X=-15.436, Y=-40.028
+19.02 22:16:09 Moving is finished
+19.02 22:17:53 Scanning 95 point from 341
+19.02 22:17:53 Going to coordinates X=-15.386, Y=-40.028
+19.02 22:17:54 Moving is finished
+19.02 22:19:39 Scanning 96 point from 341
+19.02 22:19:39 Going to coordinates X=-15.336, Y=-40.028
+19.02 22:19:39 Moving is finished
+19.02 22:21:24 Scanning 97 point from 341
+19.02 22:21:24 Going to coordinates X=-15.286, Y=-40.028
+19.02 22:21:25 Moving is finished
+19.02 22:23:09 Scanning 98 point from 341
+19.02 22:23:09 Going to coordinates X=-15.236, Y=-40.028
+19.02 22:23:09 Moving is finished
+19.02 22:24:54 Scanning 99 point from 341
+19.02 22:24:54 Going to coordinates X=-15.186, Y=-40.028
+19.02 22:24:54 Moving is finished
+19.02 22:26:39 Scanning 100 point from 341
+19.02 22:26:39 Going to coordinates X=-15.136, Y=-40.028
+19.02 22:26:39 Moving is finished
+19.02 22:28:24 Scanning 101 point from 341
+19.02 22:28:24 Going to coordinates X=-15.086, Y=-40.028
+19.02 22:28:25 Moving is finished
+19.02 22:30:10 Scanning 102 point from 341
+19.02 22:30:10 Going to coordinates X=-15.036, Y=-40.028
+19.02 22:30:10 Moving is finished
+19.02 22:31:55 Scanning 103 point from 341
+19.02 22:31:55 Going to coordinates X=-14.986, Y=-40.028
+19.02 22:31:55 Moving is finished
+19.02 22:33:40 Scanning 104 point from 341
+19.02 22:33:40 Going to coordinates X=-14.936, Y=-40.028
+19.02 22:33:40 Moving is finished
+19.02 22:35:25 Scanning 105 point from 341
+19.02 22:35:25 Going to coordinates X=-14.886, Y=-40.028
+19.02 22:35:25 Moving is finished
+19.02 22:37:10 Scanning 106 point from 341
+19.02 22:37:10 Going to coordinates X=-14.836, Y=-40.028
+19.02 22:37:10 Moving is finished
+19.02 22:38:55 Scanning 107 point from 341
+19.02 22:38:55 Going to coordinates X=-14.786, Y=-40.028
+19.02 22:38:55 Moving is finished
+19.02 22:40:41 Scanning 108 point from 341
+19.02 22:40:41 Going to coordinates X=-14.736, Y=-40.028
+19.02 22:40:41 Moving is finished
+19.02 22:42:26 Scanning 109 point from 341
+19.02 22:42:26 Going to coordinates X=-14.686, Y=-40.028
+19.02 22:42:26 Moving is finished
+19.02 22:44:11 Scanning 110 point from 341
+19.02 22:44:11 Going to coordinates X=-14.636, Y=-40.028
+19.02 22:44:11 Moving is finished
+19.02 22:45:56 Scanning 111 point from 341
+19.02 22:45:56 Going to coordinates X=-14.586, Y=-40.028
+19.02 22:45:57 Moving is finished
+19.02 22:47:42 Scanning 112 point from 341
+19.02 22:47:42 Going to coordinates X=-14.536, Y=-40.028
+19.02 22:47:42 Moving is finished
+19.02 22:49:27 Scanning 113 point from 341
+19.02 22:49:27 Going to coordinates X=-14.486, Y=-40.028
+19.02 22:49:27 Moving is finished
+19.02 22:51:12 Scanning 114 point from 341
+19.02 22:51:12 Going to coordinates X=-14.436, Y=-40.028
+19.02 22:51:12 Moving is finished
+19.02 22:52:57 Scanning 115 point from 341
+19.02 22:52:57 Going to coordinates X=-14.386, Y=-40.028
+19.02 22:52:57 Moving is finished
+19.02 22:54:42 Scanning 116 point from 341
+19.02 22:54:42 Going to coordinates X=-14.336, Y=-40.028
+19.02 22:54:42 Moving is finished
+19.02 22:56:27 Scanning 117 point from 341
+19.02 22:56:27 Going to coordinates X=-14.286, Y=-40.028
+19.02 22:56:27 Moving is finished
+19.02 22:58:12 Scanning 118 point from 341
+19.02 22:58:12 Going to coordinates X=-14.236, Y=-40.028
+19.02 22:58:13 Moving is finished
+19.02 22:59:57 Scanning 119 point from 341
+19.02 22:59:57 Going to coordinates X=-14.186, Y=-40.028
+19.02 22:59:58 Moving is finished
+19.02 23:01:43 Scanning 120 point from 341
+19.02 23:01:43 Going to coordinates X=-14.136, Y=-40.028
+19.02 23:01:43 Moving is finished
+19.02 23:03:28 Scanning 121 point from 341
+19.02 23:03:28 Going to coordinates X=-14.086, Y=-40.028
+19.02 23:03:29 Moving is finished
+19.02 23:05:14 Scanning 122 point from 341
+19.02 23:05:14 Going to coordinates X=-14.036, Y=-40.028
+19.02 23:05:14 Moving is finished
+19.02 23:06:58 Scanning 123 point from 341
+19.02 23:06:58 Going to coordinates X=-13.986, Y=-40.028
+19.02 23:06:59 Moving is finished
+19.02 23:08:43 Scanning 124 point from 341
+19.02 23:08:43 Going to coordinates X=-15.486, Y=-39.928
+19.02 23:08:44 Moving is finished
+19.02 23:10:29 Scanning 125 point from 341
+19.02 23:10:29 Going to coordinates X=-15.436, Y=-39.928
+19.02 23:10:29 Moving is finished
+19.02 23:12:15 Scanning 126 point from 341
+19.02 23:12:15 Going to coordinates X=-15.386, Y=-39.928
+19.02 23:12:15 Moving is finished
+19.02 23:13:59 Scanning 127 point from 341
+19.02 23:13:59 Going to coordinates X=-15.336, Y=-39.928
+19.02 23:14:00 Moving is finished
+19.02 23:15:44 Scanning 128 point from 341
+19.02 23:15:44 Going to coordinates X=-15.286, Y=-39.928
+19.02 23:15:45 Moving is finished
+19.02 23:17:30 Scanning 129 point from 341
+19.02 23:17:30 Going to coordinates X=-15.236, Y=-39.928
+19.02 23:17:30 Moving is finished
+19.02 23:19:15 Scanning 130 point from 341
+19.02 23:19:15 Going to coordinates X=-15.186, Y=-39.928
+19.02 23:19:15 Moving is finished
+19.02 23:21:01 Scanning 131 point from 341
+19.02 23:21:01 Going to coordinates X=-15.136, Y=-39.928
+19.02 23:21:01 Moving is finished
+19.02 23:22:46 Scanning 132 point from 341
+19.02 23:22:46 Going to coordinates X=-15.086, Y=-39.928
+19.02 23:22:47 Moving is finished
+19.02 23:24:32 Scanning 133 point from 341
+19.02 23:24:32 Going to coordinates X=-15.036, Y=-39.928
+19.02 23:24:32 Moving is finished
+19.02 23:26:17 Scanning 134 point from 341
+19.02 23:26:17 Going to coordinates X=-14.986, Y=-39.928
+19.02 23:26:17 Moving is finished
+19.02 23:28:02 Scanning 135 point from 341
+19.02 23:28:02 Going to coordinates X=-14.936, Y=-39.928
+19.02 23:28:02 Moving is finished
+19.02 23:29:47 Scanning 136 point from 341
+19.02 23:29:47 Going to coordinates X=-14.886, Y=-39.928
+19.02 23:29:47 Moving is finished
+19.02 23:31:32 Scanning 137 point from 341
+19.02 23:31:32 Going to coordinates X=-14.836, Y=-39.928
+19.02 23:31:33 Moving is finished
+19.02 23:33:17 Scanning 138 point from 341
+19.02 23:33:17 Going to coordinates X=-14.786, Y=-39.928
+19.02 23:33:18 Moving is finished
+19.02 23:35:03 Scanning 139 point from 341
+19.02 23:35:03 Going to coordinates X=-14.736, Y=-39.928
+19.02 23:35:03 Moving is finished
+19.02 23:36:48 Scanning 140 point from 341
+19.02 23:36:48 Going to coordinates X=-14.686, Y=-39.928
+19.02 23:36:48 Moving is finished
+19.02 23:38:33 Scanning 141 point from 341
+19.02 23:38:33 Going to coordinates X=-14.636, Y=-39.928
+19.02 23:38:33 Moving is finished
+19.02 23:40:18 Scanning 142 point from 341
+19.02 23:40:18 Going to coordinates X=-14.586, Y=-39.928
+19.02 23:40:18 Moving is finished
+19.02 23:42:03 Scanning 143 point from 341
+19.02 23:42:03 Going to coordinates X=-14.536, Y=-39.928
+19.02 23:42:03 Moving is finished
+19.02 23:43:49 Scanning 144 point from 341
+19.02 23:43:49 Going to coordinates X=-14.486, Y=-39.928
+19.02 23:43:49 Moving is finished
+19.02 23:45:34 Scanning 145 point from 341
+19.02 23:45:34 Going to coordinates X=-14.436, Y=-39.928
+19.02 23:45:34 Moving is finished
+19.02 23:47:19 Scanning 146 point from 341
+19.02 23:47:19 Going to coordinates X=-14.386, Y=-39.928
+19.02 23:47:19 Moving is finished
+19.02 23:49:04 Scanning 147 point from 341
+19.02 23:49:04 Going to coordinates X=-14.336, Y=-39.928
+19.02 23:49:05 Moving is finished
+19.02 23:50:50 Scanning 148 point from 341
+19.02 23:50:50 Going to coordinates X=-14.286, Y=-39.928
+19.02 23:50:50 Moving is finished
+19.02 23:52:35 Scanning 149 point from 341
+19.02 23:52:35 Going to coordinates X=-14.236, Y=-39.928
+19.02 23:52:36 Moving is finished
+19.02 23:54:20 Scanning 150 point from 341
+19.02 23:54:20 Going to coordinates X=-14.186, Y=-39.928
+19.02 23:54:20 Moving is finished
+19.02 23:56:05 Scanning 151 point from 341
+19.02 23:56:05 Going to coordinates X=-14.136, Y=-39.928
+19.02 23:56:06 Moving is finished
+19.02 23:57:50 Scanning 152 point from 341
+19.02 23:57:50 Going to coordinates X=-14.086, Y=-39.928
+19.02 23:57:51 Moving is finished
+19.02 23:59:36 Scanning 153 point from 341
+19.02 23:59:36 Going to coordinates X=-14.036, Y=-39.928
+19.02 23:59:36 Moving is finished
+20.02 00:01:20 Scanning 154 point from 341
+20.02 00:01:20 Going to coordinates X=-13.986, Y=-39.928
+20.02 00:01:21 Moving is finished
+20.02 00:03:06 Scanning 155 point from 341
+20.02 00:03:06 Going to coordinates X=-15.486, Y=-39.828
+20.02 00:03:06 Moving is finished
+20.02 00:04:51 Scanning 156 point from 341
+20.02 00:04:51 Going to coordinates X=-15.436, Y=-39.828
+20.02 00:04:52 Moving is finished
+20.02 00:06:37 Scanning 157 point from 341
+20.02 00:06:37 Going to coordinates X=-15.386, Y=-39.828
+20.02 00:06:37 Moving is finished
+20.02 00:08:22 Scanning 158 point from 341
+20.02 00:08:22 Going to coordinates X=-15.336, Y=-39.828
+20.02 00:08:22 Moving is finished
+20.02 00:10:07 Scanning 159 point from 341
+20.02 00:10:07 Going to coordinates X=-15.286, Y=-39.828
+20.02 00:10:08 Moving is finished
+20.02 00:11:53 Scanning 160 point from 341
+20.02 00:11:53 Going to coordinates X=-15.236, Y=-39.828
+20.02 00:11:53 Moving is finished
+20.02 00:13:38 Scanning 161 point from 341
+20.02 00:13:38 Going to coordinates X=-15.186, Y=-39.828
+20.02 00:13:38 Moving is finished
+20.02 00:15:23 Scanning 162 point from 341
+20.02 00:15:23 Going to coordinates X=-15.136, Y=-39.828
+20.02 00:15:24 Moving is finished
+20.02 00:17:09 Scanning 163 point from 341
+20.02 00:17:09 Going to coordinates X=-15.086, Y=-39.828
+20.02 00:17:09 Moving is finished
+20.02 00:18:53 Scanning 164 point from 341
+20.02 00:18:53 Going to coordinates X=-15.036, Y=-39.828
+20.02 00:18:54 Moving is finished
+20.02 00:20:39 Scanning 165 point from 341
+20.02 00:20:39 Going to coordinates X=-14.986, Y=-39.828
+20.02 00:20:39 Moving is finished
+20.02 00:22:24 Scanning 166 point from 341
+20.02 00:22:24 Going to coordinates X=-14.936, Y=-39.828
+20.02 00:22:24 Moving is finished
+20.02 00:24:09 Scanning 167 point from 341
+20.02 00:24:09 Going to coordinates X=-14.886, Y=-39.828
+20.02 00:24:09 Moving is finished
+20.02 00:25:54 Scanning 168 point from 341
+20.02 00:25:54 Going to coordinates X=-14.836, Y=-39.828
+20.02 00:25:54 Moving is finished
+20.02 00:27:39 Scanning 169 point from 341
+20.02 00:27:39 Going to coordinates X=-14.786, Y=-39.828
+20.02 00:27:39 Moving is finished
+20.02 00:29:24 Scanning 170 point from 341
+20.02 00:29:24 Going to coordinates X=-14.736, Y=-39.828
+20.02 00:29:24 Moving is finished
+20.02 00:31:08 Scanning 171 point from 341
+20.02 00:31:08 Going to coordinates X=-14.686, Y=-39.828
+20.02 00:31:09 Moving is finished
+20.02 00:32:54 Scanning 172 point from 341
+20.02 00:32:54 Going to coordinates X=-14.636, Y=-39.828
+20.02 00:32:54 Moving is finished
+20.02 00:34:39 Scanning 173 point from 341
+20.02 00:34:39 Going to coordinates X=-14.586, Y=-39.828
+20.02 00:34:39 Moving is finished
+20.02 00:36:24 Scanning 174 point from 341
+20.02 00:36:24 Going to coordinates X=-14.536, Y=-39.828
+20.02 00:36:25 Moving is finished
+20.02 00:38:10 Scanning 175 point from 341
+20.02 00:38:10 Going to coordinates X=-14.486, Y=-39.828
+20.02 00:38:10 Moving is finished
+20.02 00:39:55 Scanning 176 point from 341
+20.02 00:39:55 Going to coordinates X=-14.436, Y=-39.828
+20.02 00:39:55 Moving is finished
+20.02 00:41:40 Scanning 177 point from 341
+20.02 00:41:40 Going to coordinates X=-14.386, Y=-39.828
+20.02 00:41:41 Moving is finished
+20.02 00:43:25 Scanning 178 point from 341
+20.02 00:43:25 Going to coordinates X=-14.336, Y=-39.828
+20.02 00:43:25 Moving is finished
+20.02 00:45:10 Scanning 179 point from 341
+20.02 00:45:10 Going to coordinates X=-14.286, Y=-39.828
+20.02 00:45:10 Moving is finished
+20.02 00:46:55 Scanning 180 point from 341
+20.02 00:46:55 Going to coordinates X=-14.236, Y=-39.828
+20.02 00:46:55 Moving is finished
+20.02 00:48:40 Scanning 181 point from 341
+20.02 00:48:40 Going to coordinates X=-14.186, Y=-39.828
+20.02 00:48:40 Moving is finished
+20.02 00:50:25 Scanning 182 point from 341
+20.02 00:50:25 Going to coordinates X=-14.136, Y=-39.828
+20.02 00:50:25 Moving is finished
+20.02 00:52:10 Scanning 183 point from 341
+20.02 00:52:10 Going to coordinates X=-14.086, Y=-39.828
+20.02 00:52:10 Moving is finished
+20.02 00:53:55 Scanning 184 point from 341
+20.02 00:53:55 Going to coordinates X=-14.036, Y=-39.828
+20.02 00:53:56 Moving is finished
+20.02 00:55:40 Scanning 185 point from 341
+20.02 00:55:40 Going to coordinates X=-13.986, Y=-39.828
+20.02 00:55:40 Moving is finished
+20.02 00:57:26 Scanning 186 point from 341
+20.02 00:57:26 Going to coordinates X=-15.486, Y=-39.728
+20.02 00:57:27 Moving is finished
+20.02 00:59:11 Scanning 187 point from 341
+20.02 00:59:11 Going to coordinates X=-15.436, Y=-39.728
+20.02 00:59:11 Moving is finished
+20.02 01:00:57 Scanning 188 point from 341
+20.02 01:00:57 Going to coordinates X=-15.386, Y=-39.728
+20.02 01:00:57 Moving is finished
+20.02 01:02:41 Scanning 189 point from 341
+20.02 01:02:41 Going to coordinates X=-15.336, Y=-39.728
+20.02 01:02:42 Moving is finished
+20.02 01:04:27 Scanning 190 point from 341
+20.02 01:04:27 Going to coordinates X=-15.286, Y=-39.728
+20.02 01:04:27 Moving is finished
+20.02 01:06:12 Scanning 191 point from 341
+20.02 01:06:12 Going to coordinates X=-15.236, Y=-39.728
+20.02 01:06:12 Moving is finished
+20.02 01:07:57 Scanning 192 point from 341
+20.02 01:07:57 Going to coordinates X=-15.186, Y=-39.728
+20.02 01:07:57 Moving is finished
+20.02 01:09:42 Scanning 193 point from 341
+20.02 01:09:42 Going to coordinates X=-15.136, Y=-39.728
+20.02 01:09:43 Moving is finished
+20.02 01:11:27 Scanning 194 point from 341
+20.02 01:11:27 Going to coordinates X=-15.086, Y=-39.728
+20.02 01:11:28 Moving is finished
+20.02 01:13:13 Scanning 195 point from 341
+20.02 01:13:13 Going to coordinates X=-15.036, Y=-39.728
+20.02 01:13:13 Moving is finished
+20.02 01:14:58 Scanning 196 point from 341
+20.02 01:14:58 Going to coordinates X=-14.986, Y=-39.728
+20.02 01:14:58 Moving is finished
+20.02 01:16:43 Scanning 197 point from 341
+20.02 01:16:43 Going to coordinates X=-14.936, Y=-39.728
+20.02 01:16:43 Moving is finished
+20.02 01:18:28 Scanning 198 point from 341
+20.02 01:18:28 Going to coordinates X=-14.886, Y=-39.728
+20.02 01:18:28 Moving is finished
+20.02 01:20:14 Scanning 199 point from 341
+20.02 01:20:14 Going to coordinates X=-14.836, Y=-39.728
+20.02 01:20:14 Moving is finished
+20.02 01:21:59 Scanning 200 point from 341
+20.02 01:21:59 Going to coordinates X=-14.786, Y=-39.728
+20.02 01:21:59 Moving is finished
+20.02 01:23:44 Scanning 201 point from 341
+20.02 01:23:44 Going to coordinates X=-14.736, Y=-39.728
+20.02 01:23:44 Moving is finished
+20.02 01:25:29 Scanning 202 point from 341
+20.02 01:25:29 Going to coordinates X=-14.686, Y=-39.728
+20.02 01:25:29 Moving is finished
+20.02 01:27:14 Scanning 203 point from 341
+20.02 01:27:14 Going to coordinates X=-14.636, Y=-39.728
+20.02 01:27:14 Moving is finished
+20.02 01:29:00 Scanning 204 point from 341
+20.02 01:29:00 Going to coordinates X=-14.586, Y=-39.728
+20.02 01:29:00 Moving is finished
+20.02 01:30:44 Scanning 205 point from 341
+20.02 01:30:44 Going to coordinates X=-14.536, Y=-39.728
+20.02 01:30:45 Moving is finished
+20.02 01:32:29 Scanning 206 point from 341
+20.02 01:32:29 Going to coordinates X=-14.486, Y=-39.728
+20.02 01:32:30 Moving is finished
+20.02 01:34:15 Scanning 207 point from 341
+20.02 01:34:15 Going to coordinates X=-14.436, Y=-39.728
+20.02 01:34:15 Moving is finished
+20.02 01:36:00 Scanning 208 point from 341
+20.02 01:36:00 Going to coordinates X=-14.386, Y=-39.728
+20.02 01:36:00 Moving is finished
+20.02 01:37:44 Scanning 209 point from 341
+20.02 01:37:44 Going to coordinates X=-14.336, Y=-39.728
+20.02 01:37:45 Moving is finished
+20.02 01:39:31 Scanning 210 point from 341
+20.02 01:39:31 Going to coordinates X=-14.286, Y=-39.728
+20.02 01:39:31 Moving is finished
+20.02 01:41:15 Scanning 211 point from 341
+20.02 01:41:15 Going to coordinates X=-14.236, Y=-39.728
+20.02 01:41:15 Moving is finished
+20.02 01:43:00 Scanning 212 point from 341
+20.02 01:43:00 Going to coordinates X=-14.186, Y=-39.728
+20.02 01:43:00 Moving is finished
+20.02 01:44:45 Scanning 213 point from 341
+20.02 01:44:45 Going to coordinates X=-14.136, Y=-39.728
+20.02 01:44:46 Moving is finished
+20.02 01:46:31 Scanning 214 point from 341
+20.02 01:46:31 Going to coordinates X=-14.086, Y=-39.728
+20.02 01:46:31 Moving is finished
+20.02 01:48:17 Scanning 215 point from 341
+20.02 01:48:17 Going to coordinates X=-14.036, Y=-39.728
+20.02 01:48:17 Moving is finished
+20.02 01:50:01 Scanning 216 point from 341
+20.02 01:50:01 Going to coordinates X=-13.986, Y=-39.728
+20.02 01:50:01 Moving is finished
+20.02 01:51:47 Scanning 217 point from 341
+20.02 01:51:47 Going to coordinates X=-15.486, Y=-39.628
+20.02 01:51:48 Moving is finished
+20.02 01:53:33 Scanning 218 point from 341
+20.02 01:53:33 Going to coordinates X=-15.436, Y=-39.628
+20.02 01:53:33 Moving is finished
+20.02 01:55:18 Scanning 219 point from 341
+20.02 01:55:18 Going to coordinates X=-15.386, Y=-39.628
+20.02 01:55:18 Moving is finished
+20.02 01:57:03 Scanning 220 point from 341
+20.02 01:57:03 Going to coordinates X=-15.336, Y=-39.628
+20.02 01:57:03 Moving is finished
+20.02 01:58:48 Scanning 221 point from 341
+20.02 01:58:48 Going to coordinates X=-15.286, Y=-39.628
+20.02 01:58:48 Moving is finished
+20.02 02:00:33 Scanning 222 point from 341
+20.02 02:00:33 Going to coordinates X=-15.236, Y=-39.628
+20.02 02:00:33 Moving is finished
+20.02 02:02:18 Scanning 223 point from 341
+20.02 02:02:18 Going to coordinates X=-15.186, Y=-39.628
+20.02 02:02:18 Moving is finished
+20.02 02:04:04 Scanning 224 point from 341
+20.02 02:04:04 Going to coordinates X=-15.136, Y=-39.628
+20.02 02:04:05 Moving is finished
+20.02 02:05:50 Scanning 225 point from 341
+20.02 02:05:50 Going to coordinates X=-15.086, Y=-39.628
+20.02 02:05:50 Moving is finished
+20.02 02:07:35 Scanning 226 point from 341
+20.02 02:07:35 Going to coordinates X=-15.036, Y=-39.628
+20.02 02:07:35 Moving is finished
+20.02 02:09:20 Scanning 227 point from 341
+20.02 02:09:20 Going to coordinates X=-14.986, Y=-39.628
+20.02 02:09:20 Moving is finished
+20.02 02:11:05 Scanning 228 point from 341
+20.02 02:11:05 Going to coordinates X=-14.936, Y=-39.628
+20.02 02:11:05 Moving is finished
+20.02 02:12:50 Scanning 229 point from 341
+20.02 02:12:50 Going to coordinates X=-14.886, Y=-39.628
+20.02 02:12:50 Moving is finished
+20.02 02:14:35 Scanning 230 point from 341
+20.02 02:14:35 Going to coordinates X=-14.836, Y=-39.628
+20.02 02:14:35 Moving is finished
+20.02 02:16:20 Scanning 231 point from 341
+20.02 02:16:20 Going to coordinates X=-14.786, Y=-39.628
+20.02 02:16:20 Moving is finished
+20.02 02:18:05 Scanning 232 point from 341
+20.02 02:18:05 Going to coordinates X=-14.736, Y=-39.628
+20.02 02:18:05 Moving is finished
+20.02 02:19:50 Scanning 233 point from 341
+20.02 02:19:50 Going to coordinates X=-14.686, Y=-39.628
+20.02 02:19:50 Moving is finished
+20.02 02:21:34 Scanning 234 point from 341
+20.02 02:21:34 Going to coordinates X=-14.636, Y=-39.628
+20.02 02:21:35 Moving is finished
+20.02 02:23:19 Scanning 235 point from 341
+20.02 02:23:19 Going to coordinates X=-14.586, Y=-39.628
+20.02 02:23:20 Moving is finished
+20.02 02:25:05 Scanning 236 point from 341
+20.02 02:25:05 Going to coordinates X=-14.536, Y=-39.628
+20.02 02:25:05 Moving is finished
+20.02 02:26:49 Scanning 237 point from 341
+20.02 02:26:49 Going to coordinates X=-14.486, Y=-39.628
+20.02 02:26:50 Moving is finished
+20.02 02:28:35 Scanning 238 point from 341
+20.02 02:28:35 Going to coordinates X=-14.436, Y=-39.628
+20.02 02:28:35 Moving is finished
+20.02 02:30:19 Scanning 239 point from 341
+20.02 02:30:19 Going to coordinates X=-14.386, Y=-39.628
+20.02 02:30:19 Moving is finished
+20.02 02:32:05 Scanning 240 point from 341
+20.02 02:32:05 Going to coordinates X=-14.336, Y=-39.628
+20.02 02:32:05 Moving is finished
+20.02 02:33:50 Scanning 241 point from 341
+20.02 02:33:50 Going to coordinates X=-14.286, Y=-39.628
+20.02 02:33:51 Moving is finished
+20.02 02:35:35 Scanning 242 point from 341
+20.02 02:35:35 Going to coordinates X=-14.236, Y=-39.628
+20.02 02:35:35 Moving is finished
+20.02 02:37:21 Scanning 243 point from 341
+20.02 02:37:21 Going to coordinates X=-14.186, Y=-39.628
+20.02 02:37:21 Moving is finished
+20.02 02:39:05 Scanning 244 point from 341
+20.02 02:39:05 Going to coordinates X=-14.136, Y=-39.628
+20.02 02:39:05 Moving is finished
+20.02 02:40:50 Scanning 245 point from 341
+20.02 02:40:50 Going to coordinates X=-14.086, Y=-39.628
+20.02 02:40:51 Moving is finished
+20.02 02:42:35 Scanning 246 point from 341
+20.02 02:42:35 Going to coordinates X=-14.036, Y=-39.628
+20.02 02:42:36 Moving is finished
+20.02 02:44:20 Scanning 247 point from 341
+20.02 02:44:20 Going to coordinates X=-13.986, Y=-39.628
+20.02 02:44:21 Moving is finished
+20.02 02:46:05 Scanning 248 point from 341
+20.02 02:46:05 Going to coordinates X=-15.486, Y=-39.528
+20.02 02:46:06 Moving is finished
+20.02 02:47:52 Scanning 249 point from 341
+20.02 02:47:52 Going to coordinates X=-15.436, Y=-39.528
+20.02 02:47:52 Moving is finished
+20.02 02:49:37 Scanning 250 point from 341
+20.02 02:49:37 Going to coordinates X=-15.386, Y=-39.528
+20.02 02:49:37 Moving is finished
+20.02 02:51:22 Scanning 251 point from 341
+20.02 02:51:22 Going to coordinates X=-15.336, Y=-39.528
+20.02 02:51:22 Moving is finished
+20.02 02:53:07 Scanning 252 point from 341
+20.02 02:53:07 Going to coordinates X=-15.286, Y=-39.528
+20.02 02:53:07 Moving is finished
+20.02 02:54:52 Scanning 253 point from 341
+20.02 02:54:52 Going to coordinates X=-15.236, Y=-39.528
+20.02 02:54:52 Moving is finished
+20.02 02:56:37 Scanning 254 point from 341
+20.02 02:56:37 Going to coordinates X=-15.186, Y=-39.528
+20.02 02:56:37 Moving is finished
+20.02 02:58:21 Scanning 255 point from 341
+20.02 02:58:21 Going to coordinates X=-15.136, Y=-39.528
+20.02 02:58:22 Moving is finished
+20.02 03:00:07 Scanning 256 point from 341
+20.02 03:00:07 Going to coordinates X=-15.086, Y=-39.528
+20.02 03:00:07 Moving is finished
+20.02 03:01:52 Scanning 257 point from 341
+20.02 03:01:52 Going to coordinates X=-15.036, Y=-39.528
+20.02 03:01:53 Moving is finished
+20.02 03:03:38 Scanning 258 point from 341
+20.02 03:03:38 Going to coordinates X=-14.986, Y=-39.528
+20.02 03:03:38 Moving is finished
+20.02 03:05:24 Scanning 259 point from 341
+20.02 03:05:24 Going to coordinates X=-14.936, Y=-39.528
+20.02 03:05:24 Moving is finished
+20.02 03:07:09 Scanning 260 point from 341
+20.02 03:07:09 Going to coordinates X=-14.886, Y=-39.528
+20.02 03:07:09 Moving is finished
+20.02 03:08:54 Scanning 261 point from 341
+20.02 03:08:54 Going to coordinates X=-14.836, Y=-39.528
+20.02 03:08:54 Moving is finished
+20.02 03:10:39 Scanning 262 point from 341
+20.02 03:10:39 Going to coordinates X=-14.786, Y=-39.528
+20.02 03:10:39 Moving is finished
+20.02 03:12:24 Scanning 263 point from 341
+20.02 03:12:24 Going to coordinates X=-14.736, Y=-39.528
+20.02 03:12:24 Moving is finished
+20.02 03:14:09 Scanning 264 point from 341
+20.02 03:14:09 Going to coordinates X=-14.686, Y=-39.528
+20.02 03:14:10 Moving is finished
+20.02 03:15:55 Scanning 265 point from 341
+20.02 03:15:55 Going to coordinates X=-14.636, Y=-39.528
+20.02 03:15:55 Moving is finished
+20.02 03:17:40 Scanning 266 point from 341
+20.02 03:17:40 Going to coordinates X=-14.586, Y=-39.528
+20.02 03:17:40 Moving is finished
+20.02 03:19:25 Scanning 267 point from 341
+20.02 03:19:25 Going to coordinates X=-14.536, Y=-39.528
+20.02 03:19:26 Moving is finished
+20.02 03:21:11 Scanning 268 point from 341
+20.02 03:21:11 Going to coordinates X=-14.486, Y=-39.528
+20.02 03:21:11 Moving is finished
+20.02 03:23:10 Scanning 269 point from 341
+20.02 03:23:10 Going to coordinates X=-14.436, Y=-39.528
+20.02 03:23:10 Moving is finished
+20.02 03:24:55 Scanning 270 point from 341
+20.02 03:24:55 Going to coordinates X=-14.386, Y=-39.528
+20.02 03:24:55 Moving is finished
+20.02 03:26:40 Scanning 271 point from 341
+20.02 03:26:40 Going to coordinates X=-14.336, Y=-39.528
+20.02 03:26:40 Moving is finished
+20.02 03:28:25 Scanning 272 point from 341
+20.02 03:28:25 Going to coordinates X=-14.286, Y=-39.528
+20.02 03:28:25 Moving is finished
+20.02 03:30:10 Scanning 273 point from 341
+20.02 03:30:10 Going to coordinates X=-14.236, Y=-39.528
+20.02 03:30:10 Moving is finished
+20.02 03:31:55 Scanning 274 point from 341
+20.02 03:31:55 Going to coordinates X=-14.186, Y=-39.528
+20.02 03:31:55 Moving is finished
+20.02 03:33:40 Scanning 275 point from 341
+20.02 03:33:40 Going to coordinates X=-14.136, Y=-39.528
+20.02 03:33:40 Moving is finished
+20.02 03:35:25 Scanning 276 point from 341
+20.02 03:35:25 Going to coordinates X=-14.086, Y=-39.528
+20.02 03:35:25 Moving is finished
+20.02 03:37:10 Scanning 277 point from 341
+20.02 03:37:10 Going to coordinates X=-14.036, Y=-39.528
+20.02 03:37:10 Moving is finished
+20.02 03:38:55 Scanning 278 point from 341
+20.02 03:38:55 Going to coordinates X=-13.986, Y=-39.528
+20.02 03:38:55 Moving is finished
+20.02 03:40:39 Scanning 279 point from 341
+20.02 03:40:39 Going to coordinates X=-15.486, Y=-39.428
+20.02 03:40:40 Moving is finished
+20.02 03:42:25 Scanning 280 point from 341
+20.02 03:42:25 Going to coordinates X=-15.436, Y=-39.428
+20.02 03:42:25 Moving is finished
+20.02 03:44:11 Scanning 281 point from 341
+20.02 03:44:11 Going to coordinates X=-15.386, Y=-39.428
+20.02 03:44:11 Moving is finished
+20.02 03:45:56 Scanning 282 point from 341
+20.02 03:45:56 Going to coordinates X=-15.336, Y=-39.428
+20.02 03:45:57 Moving is finished
+20.02 03:47:42 Scanning 283 point from 341
+20.02 03:47:42 Going to coordinates X=-15.286, Y=-39.428
+20.02 03:47:42 Moving is finished
+20.02 03:49:27 Scanning 284 point from 341
+20.02 03:49:27 Going to coordinates X=-15.236, Y=-39.428
+20.02 03:49:27 Moving is finished
+20.02 03:51:13 Scanning 285 point from 341
+20.02 03:51:13 Going to coordinates X=-15.186, Y=-39.428
+20.02 03:51:13 Moving is finished
+20.02 03:52:58 Scanning 286 point from 341
+20.02 03:52:58 Going to coordinates X=-15.136, Y=-39.428
+20.02 03:52:58 Moving is finished
+20.02 03:54:42 Scanning 287 point from 341
+20.02 03:54:42 Going to coordinates X=-15.086, Y=-39.428
+20.02 03:54:43 Moving is finished
+20.02 03:56:27 Scanning 288 point from 341
+20.02 03:56:27 Going to coordinates X=-15.036, Y=-39.428
+20.02 03:56:28 Moving is finished
+20.02 03:58:13 Scanning 289 point from 341
+20.02 03:58:13 Going to coordinates X=-14.986, Y=-39.428
+20.02 03:58:13 Moving is finished
+20.02 03:59:58 Scanning 290 point from 341
+20.02 03:59:58 Going to coordinates X=-14.936, Y=-39.428
+20.02 03:59:58 Moving is finished
+20.02 04:01:43 Scanning 291 point from 341
+20.02 04:01:43 Going to coordinates X=-14.886, Y=-39.428
+20.02 04:01:43 Moving is finished
+20.02 04:03:28 Scanning 292 point from 341
+20.02 04:03:28 Going to coordinates X=-14.836, Y=-39.428
+20.02 04:03:28 Moving is finished
+20.02 04:05:12 Scanning 293 point from 341
+20.02 04:05:12 Going to coordinates X=-14.786, Y=-39.428
+20.02 04:05:13 Moving is finished
+20.02 04:06:57 Scanning 294 point from 341
+20.02 04:06:57 Going to coordinates X=-14.736, Y=-39.428
+20.02 04:06:58 Moving is finished
+20.02 04:08:43 Scanning 295 point from 341
+20.02 04:08:43 Going to coordinates X=-14.686, Y=-39.428
+20.02 04:08:43 Moving is finished
+20.02 04:10:29 Scanning 296 point from 341
+20.02 04:10:29 Going to coordinates X=-14.636, Y=-39.428
+20.02 04:10:29 Moving is finished
+20.02 04:12:14 Scanning 297 point from 341
+20.02 04:12:14 Going to coordinates X=-14.586, Y=-39.428
+20.02 04:12:14 Moving is finished
+20.02 04:13:59 Scanning 298 point from 341
+20.02 04:13:59 Going to coordinates X=-14.536, Y=-39.428
+20.02 04:13:59 Moving is finished
+20.02 04:15:44 Scanning 299 point from 341
+20.02 04:15:44 Going to coordinates X=-14.486, Y=-39.428
+20.02 04:15:44 Moving is finished
+20.02 04:17:30 Scanning 300 point from 341
+20.02 04:17:30 Going to coordinates X=-14.436, Y=-39.428
+20.02 04:17:30 Moving is finished
+20.02 04:19:15 Scanning 301 point from 341
+20.02 04:19:15 Going to coordinates X=-14.386, Y=-39.428
+20.02 04:19:15 Moving is finished
+20.02 04:21:00 Scanning 302 point from 341
+20.02 04:21:00 Going to coordinates X=-14.336, Y=-39.428
+20.02 04:21:01 Moving is finished
+20.02 04:22:45 Scanning 303 point from 341
+20.02 04:22:45 Going to coordinates X=-14.286, Y=-39.428
+20.02 04:22:45 Moving is finished
+20.02 04:24:30 Scanning 304 point from 341
+20.02 04:24:30 Going to coordinates X=-14.236, Y=-39.428
+20.02 04:24:30 Moving is finished
+20.02 04:26:15 Scanning 305 point from 341
+20.02 04:26:15 Going to coordinates X=-14.186, Y=-39.428
+20.02 04:26:15 Moving is finished
+20.02 04:28:00 Scanning 306 point from 341
+20.02 04:28:00 Going to coordinates X=-14.136, Y=-39.428
+20.02 04:28:00 Moving is finished
+20.02 04:29:45 Scanning 307 point from 341
+20.02 04:29:45 Going to coordinates X=-14.086, Y=-39.428
+20.02 04:29:46 Moving is finished
+20.02 04:31:30 Scanning 308 point from 341
+20.02 04:31:30 Going to coordinates X=-14.036, Y=-39.428
+20.02 04:31:30 Moving is finished
+20.02 04:33:15 Scanning 309 point from 341
+20.02 04:33:15 Going to coordinates X=-13.986, Y=-39.428
+20.02 04:33:15 Moving is finished
+20.02 04:35:00 Scanning 310 point from 341
+20.02 04:35:00 Going to coordinates X=-15.486, Y=-39.328
+20.02 04:35:00 Moving is finished
+20.02 04:36:45 Scanning 311 point from 341
+20.02 04:36:45 Going to coordinates X=-15.436, Y=-39.328
+20.02 04:36:46 Moving is finished
+20.02 04:38:31 Scanning 312 point from 341
+20.02 04:38:31 Going to coordinates X=-15.386, Y=-39.328
+20.02 04:38:31 Moving is finished
+20.02 04:40:16 Scanning 313 point from 341
+20.02 04:40:16 Going to coordinates X=-15.336, Y=-39.328
+20.02 04:40:17 Moving is finished
+20.02 04:42:01 Scanning 314 point from 341
+20.02 04:42:01 Going to coordinates X=-15.286, Y=-39.328
+20.02 04:42:02 Moving is finished
+20.02 04:43:46 Scanning 315 point from 341
+20.02 04:43:46 Going to coordinates X=-15.236, Y=-39.328
+20.02 04:43:46 Moving is finished
+20.02 04:45:31 Scanning 316 point from 341
+20.02 04:45:31 Going to coordinates X=-15.186, Y=-39.328
+20.02 04:45:31 Moving is finished
+20.02 04:47:17 Scanning 317 point from 341
+20.02 04:47:17 Going to coordinates X=-15.136, Y=-39.328
+20.02 04:47:17 Moving is finished
+20.02 04:49:02 Scanning 318 point from 341
+20.02 04:49:02 Going to coordinates X=-15.086, Y=-39.328
+20.02 04:49:03 Moving is finished
+20.02 04:50:47 Scanning 319 point from 341
+20.02 04:50:47 Going to coordinates X=-15.036, Y=-39.328
+20.02 04:50:48 Moving is finished
+20.02 04:52:33 Scanning 320 point from 341
+20.02 04:52:33 Going to coordinates X=-14.986, Y=-39.328
+20.02 04:52:33 Moving is finished
+20.02 04:54:18 Scanning 321 point from 341
+20.02 04:54:18 Going to coordinates X=-14.936, Y=-39.328
+20.02 04:54:18 Moving is finished
+20.02 04:56:02 Scanning 322 point from 341
+20.02 04:56:02 Going to coordinates X=-14.886, Y=-39.328
+20.02 04:56:03 Moving is finished
+20.02 04:57:48 Scanning 323 point from 341
+20.02 04:57:48 Going to coordinates X=-14.836, Y=-39.328
+20.02 04:57:48 Moving is finished
+20.02 04:59:33 Scanning 324 point from 341
+20.02 04:59:33 Going to coordinates X=-14.786, Y=-39.328
+20.02 04:59:33 Moving is finished
+20.02 05:01:18 Scanning 325 point from 341
+20.02 05:01:18 Going to coordinates X=-14.736, Y=-39.328
+20.02 05:01:18 Moving is finished
+20.02 05:03:03 Scanning 326 point from 341
+20.02 05:03:03 Going to coordinates X=-14.686, Y=-39.328
+20.02 05:03:03 Moving is finished
+20.02 05:04:48 Scanning 327 point from 341
+20.02 05:04:48 Going to coordinates X=-14.636, Y=-39.328
+20.02 05:04:49 Moving is finished
+20.02 05:06:33 Scanning 328 point from 341
+20.02 05:06:33 Going to coordinates X=-14.586, Y=-39.328
+20.02 05:06:34 Moving is finished
+20.02 05:08:18 Scanning 329 point from 341
+20.02 05:08:18 Going to coordinates X=-14.536, Y=-39.328
+20.02 05:08:19 Moving is finished
+20.02 05:10:03 Scanning 330 point from 341
+20.02 05:10:03 Going to coordinates X=-14.486, Y=-39.328
+20.02 05:10:03 Moving is finished
+20.02 05:11:49 Scanning 331 point from 341
+20.02 05:11:49 Going to coordinates X=-14.436, Y=-39.328
+20.02 05:11:49 Moving is finished
+20.02 05:13:34 Scanning 332 point from 341
+20.02 05:13:34 Going to coordinates X=-14.386, Y=-39.328
+20.02 05:13:34 Moving is finished
+20.02 05:15:19 Scanning 333 point from 341
+20.02 05:15:19 Going to coordinates X=-14.336, Y=-39.328
+20.02 05:15:19 Moving is finished
+20.02 05:17:04 Scanning 334 point from 341
+20.02 05:17:04 Going to coordinates X=-14.286, Y=-39.328
+20.02 05:17:04 Moving is finished
+20.02 05:18:49 Scanning 335 point from 341
+20.02 05:18:49 Going to coordinates X=-14.236, Y=-39.328
+20.02 05:18:50 Moving is finished
+20.02 05:20:35 Scanning 336 point from 341
+20.02 05:20:35 Going to coordinates X=-14.186, Y=-39.328
+20.02 05:20:35 Moving is finished
+20.02 05:22:20 Scanning 337 point from 341
+20.02 05:22:20 Going to coordinates X=-14.136, Y=-39.328
+20.02 05:22:20 Moving is finished
+20.02 05:24:05 Scanning 338 point from 341
+20.02 05:24:05 Going to coordinates X=-14.086, Y=-39.328
+20.02 05:24:05 Moving is finished
+20.02 05:25:50 Scanning 339 point from 341
+20.02 05:25:50 Going to coordinates X=-14.036, Y=-39.328
+20.02 05:25:50 Moving is finished
+20.02 05:27:35 Scanning 340 point from 341
+20.02 05:27:35 Going to coordinates X=-13.986, Y=-39.328
+20.02 05:27:36 Moving is finished

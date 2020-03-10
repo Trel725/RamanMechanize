@@ -12,7 +12,8 @@ class SerialCommunicator(object):
         self.alarm = None
         self.buf = None
         self.timeout = 50
-        self.ser = serial.Serial(port, baudrate, timeout=self.timeout, write_timeout=self.timeout)
+        self.ser = serial.Serial(
+            port, baudrate, timeout=self.timeout, write_timeout=self.timeout)
         self.busy = False
 
     def isOpen(self):
@@ -75,7 +76,7 @@ class SerialCommunicator(object):
 
     def get_status(self):
         if not self.busy:
-            #self.ser.reset_input_buffer()
+            # self.ser.reset_input_buffer()
             self.verifyBuffer()
             status, coord, fs = None, None, None
             keys = ['status', 'coordinates', 'fs']
@@ -88,7 +89,7 @@ class SerialCommunicator(object):
                 print(str(e))
                 return None
             # print(resp)
-            
+
             resp = resp[resp.find("<") + 1:resp.find(">")]
             if len(resp) > 0:
                 try:
@@ -113,7 +114,7 @@ class SerialCommunicator(object):
                 return None
 
     def verifyBuffer(self):
-        buf=self.ser.read(self.ser.in_waiting).decode()
+        buf = self.ser.read(self.ser.in_waiting).decode()
         idx = buf.find("ALARM")
         if idx > -1:
             self.alarm = buf[idx + 6:idx + 7]

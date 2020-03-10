@@ -1,0 +1,181 @@
+17.05 17:16:08 Initializing grbl...
+17.05 17:16:08 Got the response: b''
+17.05 17:18:07 Can't send the command to GRBL
+17.05 17:18:07 Write timeout17.05 17:18:07 Write timeout
+17.05 17:19:15 Row 0: 17.05 17:19:15 Map: x1: -29.61, y1: -40.794, x2: -29.244, y2: -40.454, xres: 0.050, yres: 0.050, fname: coohhfp3
+17.05 17:19:15 Scanning 0 point from 72
+17.05 17:19:15 Going to coordinates X=-29.610, Y=-40.794
+17.05 17:19:16 Moving is finished
+17.05 17:20:53 Scanning 1 point from 72
+17.05 17:20:53 Going to coordinates X=-29.560, Y=-40.794
+17.05 17:20:53 Moving is finished
+17.05 17:22:29 Scanning 2 point from 72
+17.05 17:22:29 Going to coordinates X=-29.510, Y=-40.794
+17.05 17:22:30 Moving is finished
+17.05 17:24:06 Scanning 3 point from 72
+17.05 17:24:06 Going to coordinates X=-29.460, Y=-40.794
+17.05 17:24:06 Moving is finished
+17.05 17:25:43 Scanning 4 point from 72
+17.05 17:25:43 Going to coordinates X=-29.410, Y=-40.794
+17.05 17:25:44 Moving is finished
+17.05 17:27:21 Scanning 5 point from 72
+17.05 17:27:21 Going to coordinates X=-29.360, Y=-40.794
+17.05 17:27:21 Moving is finished
+17.05 17:28:58 Scanning 6 point from 72
+17.05 17:28:58 Going to coordinates X=-29.310, Y=-40.794
+17.05 17:28:58 Moving is finished
+17.05 17:30:35 Scanning 7 point from 72
+17.05 17:30:35 Going to coordinates X=-29.260, Y=-40.794
+17.05 17:30:36 Moving is finished
+17.05 17:32:12 Scanning 8 point from 72
+17.05 17:32:12 Going to coordinates X=-29.210, Y=-40.794
+17.05 17:32:12 Moving is finished
+17.05 17:33:49 Scanning 9 point from 72
+17.05 17:33:49 Going to coordinates X=-29.610, Y=-40.744
+17.05 17:33:49 Moving is finished
+17.05 17:35:26 Scanning 10 point from 72
+17.05 17:35:26 Going to coordinates X=-29.560, Y=-40.744
+17.05 17:35:26 Moving is finished
+17.05 17:37:03 Scanning 11 point from 72
+17.05 17:37:03 Going to coordinates X=-29.510, Y=-40.744
+17.05 17:37:03 Moving is finished
+17.05 17:38:40 Scanning 12 point from 72
+17.05 17:38:40 Going to coordinates X=-29.460, Y=-40.744
+17.05 17:38:40 Moving is finished
+17.05 17:40:17 Scanning 13 point from 72
+17.05 17:40:17 Going to coordinates X=-29.410, Y=-40.744
+17.05 17:40:17 Moving is finished
+17.05 17:41:53 Scanning 14 point from 72
+17.05 17:41:53 Going to coordinates X=-29.360, Y=-40.744
+17.05 17:41:53 Moving is finished
+17.05 17:43:31 Scanning 15 point from 72
+17.05 17:43:31 Going to coordinates X=-29.310, Y=-40.744
+17.05 17:43:31 Moving is finished
+17.05 17:45:07 Scanning 16 point from 72
+17.05 17:45:07 Going to coordinates X=-29.260, Y=-40.744
+17.05 17:45:07 Moving is finished
+17.05 17:46:44 Scanning 17 point from 72
+17.05 17:46:44 Going to coordinates X=-29.210, Y=-40.744
+17.05 17:46:44 Moving is finished
+17.05 17:48:21 Scanning 18 point from 72
+17.05 17:48:21 Going to coordinates X=-29.610, Y=-40.694
+17.05 17:48:21 Moving is finished
+17.05 17:49:58 Scanning 19 point from 72
+17.05 17:49:58 Going to coordinates X=-29.560, Y=-40.694
+17.05 17:49:58 Moving is finished
+17.05 17:51:35 Scanning 20 point from 72
+17.05 17:51:35 Going to coordinates X=-29.510, Y=-40.694
+17.05 17:51:35 Moving is finished
+17.05 17:53:11 Scanning 21 point from 72
+17.05 17:53:11 Going to coordinates X=-29.460, Y=-40.694
+17.05 17:53:11 Moving is finished
+17.05 17:54:48 Scanning 22 point from 72
+17.05 17:54:48 Going to coordinates X=-29.410, Y=-40.694
+17.05 17:54:48 Moving is finished
+17.05 17:56:24 Scanning 23 point from 72
+17.05 17:56:24 Going to coordinates X=-29.360, Y=-40.694
+17.05 17:56:25 Moving is finished
+17.05 17:58:01 Scanning 24 point from 72
+17.05 17:58:01 Going to coordinates X=-29.310, Y=-40.694
+17.05 17:58:01 Moving is finished
+17.05 17:59:38 Scanning 25 point from 72
+17.05 17:59:38 Going to coordinates X=-29.260, Y=-40.694
+17.05 17:59:38 Moving is finished
+17.05 18:01:15 Scanning 26 point from 72
+17.05 18:01:15 Going to coordinates X=-29.210, Y=-40.694
+17.05 18:01:15 Moving is finished
+17.05 18:02:51 Scanning 27 point from 72
+17.05 18:02:51 Going to coordinates X=-29.610, Y=-40.644
+17.05 18:02:52 Moving is finished
+17.05 18:04:28 Scanning 28 point from 72
+17.05 18:04:28 Going to coordinates X=-29.560, Y=-40.644
+17.05 18:04:28 Moving is finished
+17.05 18:06:05 Scanning 29 point from 72
+17.05 18:06:05 Going to coordinates X=-29.510, Y=-40.644
+17.05 18:06:05 Moving is finished
+17.05 18:07:42 Scanning 30 point from 72
+17.05 18:07:42 Going to coordinates X=-29.460, Y=-40.644
+17.05 18:07:42 Moving is finished
+17.05 18:09:19 Scanning 31 point from 72
+17.05 18:09:19 Going to coordinates X=-29.410, Y=-40.644
+17.05 18:09:19 Moving is finished
+17.05 18:10:55 Scanning 32 point from 72
+17.05 18:10:55 Going to coordinates X=-29.360, Y=-40.644
+17.05 18:10:56 Moving is finished
+17.05 18:12:32 Scanning 33 point from 72
+17.05 18:12:32 Going to coordinates X=-29.310, Y=-40.644
+17.05 18:12:32 Moving is finished
+17.05 18:14:09 Scanning 34 point from 72
+17.05 18:14:09 Going to coordinates X=-29.260, Y=-40.644
+17.05 18:14:09 Moving is finished
+17.05 18:15:46 Scanning 35 point from 72
+17.05 18:15:46 Going to coordinates X=-29.210, Y=-40.644
+17.05 18:15:46 Moving is finished
+17.05 18:17:22 Scanning 36 point from 72
+17.05 18:17:22 Going to coordinates X=-29.610, Y=-40.594
+17.05 18:17:23 Moving is finished
+17.05 18:19:00 Scanning 37 point from 72
+17.05 18:19:00 Going to coordinates X=-29.560, Y=-40.594
+17.05 18:19:00 Moving is finished
+17.05 18:20:37 Scanning 38 point from 72
+17.05 18:20:37 Going to coordinates X=-29.510, Y=-40.594
+17.05 18:20:37 Moving is finished
+17.05 18:22:14 Scanning 39 point from 72
+17.05 18:22:14 Going to coordinates X=-29.460, Y=-40.594
+17.05 18:22:14 Moving is finished
+17.05 18:23:51 Scanning 40 point from 72
+17.05 18:23:51 Going to coordinates X=-29.410, Y=-40.594
+17.05 18:23:51 Moving is finished
+17.05 18:25:28 Scanning 41 point from 72
+17.05 18:25:28 Going to coordinates X=-29.360, Y=-40.594
+17.05 18:25:29 Moving is finished
+17.05 18:27:05 Scanning 42 point from 72
+17.05 18:27:05 Going to coordinates X=-29.310, Y=-40.594
+17.05 18:27:06 Moving is finished
+17.05 18:28:43 Scanning 43 point from 72
+17.05 18:28:43 Going to coordinates X=-29.260, Y=-40.594
+17.05 18:28:43 Moving is finished
+17.05 18:30:20 Scanning 44 point from 72
+17.05 18:30:20 Going to coordinates X=-29.210, Y=-40.594
+17.05 18:30:20 Moving is finished
+17.05 18:31:56 Scanning 45 point from 72
+17.05 18:31:56 Going to coordinates X=-29.610, Y=-40.544
+17.05 18:31:57 Moving is finished
+17.05 18:33:34 Scanning 46 point from 72
+17.05 18:33:34 Going to coordinates X=-29.560, Y=-40.544
+17.05 18:33:34 Moving is finished
+17.05 18:35:11 Scanning 47 point from 72
+17.05 18:35:11 Going to coordinates X=-29.510, Y=-40.544
+17.05 18:35:11 Moving is finished
+17.05 18:36:48 Scanning 48 point from 72
+17.05 18:36:48 Going to coordinates X=-29.460, Y=-40.544
+17.05 18:36:48 Moving is finished
+17.05 18:38:25 Scanning 49 point from 72
+17.05 18:38:25 Going to coordinates X=-29.410, Y=-40.544
+17.05 18:38:26 Moving is finished
+17.05 18:40:02 Scanning 50 point from 72
+17.05 18:40:02 Going to coordinates X=-29.360, Y=-40.544
+17.05 18:40:02 Moving is finished
+17.05 18:41:39 Scanning 51 point from 72
+17.05 18:41:39 Going to coordinates X=-29.310, Y=-40.544
+17.05 18:41:39 Moving is finished
+17.05 18:43:16 Scanning 52 point from 72
+17.05 18:43:16 Going to coordinates X=-29.260, Y=-40.544
+17.05 18:43:16 Moving is finished
+17.05 18:44:53 Scanning 53 point from 72
+17.05 18:44:53 Going to coordinates X=-29.210, Y=-40.544
+17.05 18:44:53 Moving is finished
+17.05 18:46:29 Scanning 54 point from 72
+17.05 18:46:29 Going to coordinates X=-29.610, Y=-40.494
+17.05 18:46:30 Moving is finished
+17.05 18:48:07 Scanning 55 point from 72
+17.05 18:48:07 Going to coordinates X=-29.560, Y=-40.494
+17.05 18:48:07 Moving is finished
+17.05 18:48:38 Stopped!
+17.05 18:57:21 Row 0: 17.05 18:57:21 Map: x1: -30.044, y1: -40.103, x2: -32.059, y2: -39.443, xres: 0.050, yres: 0.050, fname: NH2hfp2
+17.05 18:57:21 Scanning 0 point from 630
+17.05 18:57:21 Going to coordinates X=-32.059, Y=-40.103
+17.05 18:57:22 Moving is finished
+17.05 18:58:59 Scanning 1 point from 630
+17.05 18:58:59 Going to coordinates X=-32.009, Y=-40.103
+17.05 18:58:59 Moving is finished

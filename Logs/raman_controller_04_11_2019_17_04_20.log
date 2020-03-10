@@ -1,0 +1,97 @@
+04.11 17:04:22 Initializing grbl...
+04.11 17:04:22 Got the response: b''
+04.11 17:19:15 Can't send the command to GRBL
+04.11 17:19:15 Write timeout04.11 17:19:15 Write timeout
+04.11 17:53:36 Row 0: 04.11 17:53:36 Circle: x: -12.577, y: -40.164, rad: 0.010, n: 10, fname: CuCTF-1 co2
+04.11 17:53:36 Scanning point 1 of circle
+04.11 17:53:36 Going to coordinates X=-12.567, Y=-40.164
+04.11 17:53:36 Moving is finished
+04.11 17:53:37 Starting signal collection to the file CuCTF-1co2_circle_1
+04.11 17:55:16 Data is collected!
+04.11 17:55:16 Scanning point 2 of circle
+04.11 17:55:16 Going to coordinates X=-12.569, Y=-40.158
+04.11 17:55:17 Moving is finished
+04.11 17:55:18 Starting signal collection to the file CuCTF-1co2_circle_2
+04.11 17:56:57 Data is collected!
+04.11 17:56:57 Scanning point 3 of circle
+04.11 17:56:57 Going to coordinates X=-12.574, Y=-40.154
+04.11 17:56:57 Moving is finished
+04.11 17:56:58 Starting signal collection to the file CuCTF-1co2_circle_3
+04.11 17:58:38 Data is collected!
+04.11 17:58:38 Scanning point 4 of circle
+04.11 17:58:38 Going to coordinates X=-12.580, Y=-40.154
+04.11 17:58:38 Moving is finished
+04.11 17:58:39 Starting signal collection to the file CuCTF-1co2_circle_4
+04.11 18:00:19 Data is collected!
+04.11 18:00:19 Scanning point 5 of circle
+04.11 18:00:19 Going to coordinates X=-12.585, Y=-40.158
+04.11 18:00:20 Moving is finished
+04.11 18:00:21 Starting signal collection to the file CuCTF-1co2_circle_5
+04.11 18:02:00 Data is collected!
+04.11 18:02:00 Scanning point 6 of circle
+04.11 18:02:00 Going to coordinates X=-12.587, Y=-40.164
+04.11 18:02:00 Moving is finished
+04.11 18:02:01 Starting signal collection to the file CuCTF-1co2_circle_6
+04.11 18:03:40 Data is collected!
+04.11 18:03:40 Scanning point 7 of circle
+04.11 18:03:40 Going to coordinates X=-12.585, Y=-40.170
+04.11 18:03:40 Moving is finished
+04.11 18:03:41 Starting signal collection to the file CuCTF-1co2_circle_7
+04.11 18:05:21 Data is collected!
+04.11 18:05:21 Scanning point 8 of circle
+04.11 18:05:21 Going to coordinates X=-12.580, Y=-40.174
+04.11 18:05:21 Moving is finished
+04.11 18:05:22 Starting signal collection to the file CuCTF-1co2_circle_8
+04.11 18:07:01 Data is collected!
+04.11 18:07:01 Scanning point 9 of circle
+04.11 18:07:01 Going to coordinates X=-12.574, Y=-40.174
+04.11 18:07:01 Moving is finished
+04.11 18:07:02 Starting signal collection to the file CuCTF-1co2_circle_9
+04.11 18:08:42 Data is collected!
+04.11 18:08:42 Scanning point 10 of circle
+04.11 18:08:42 Going to coordinates X=-12.569, Y=-40.170
+04.11 18:08:42 Moving is finished
+04.11 18:08:43 Starting signal collection to the file CuCTF-1co2_circle_10
+04.11 18:10:22 Data is collected!
+04.11 18:31:26 Row 0: 04.11 18:31:26 Circle: x: -12.577, y: -40.164, rad: 0.010, n: 10, fname: CuCTF-1 co2
+04.11 18:31:26 Scanning point 1 of circle
+04.11 18:31:26 Going to coordinates X=-12.567, Y=-40.164
+04.11 18:31:26 Moving is finished
+04.11 18:31:27 Starting signal collection to the file CuCTF-1co2_circle_1
+04.11 18:33:07 Data is collected!
+04.11 18:33:07 Scanning point 2 of circle
+04.11 18:33:07 Going to coordinates X=-12.569, Y=-40.158
+04.11 18:33:07 Moving is finished
+04.11 18:33:08 Starting signal collection to the file CuCTF-1co2_circle_2
+04.11 18:34:49 Data is collected!
+04.11 18:34:49 Scanning point 3 of circle
+04.11 18:34:49 Going to coordinates X=-12.574, Y=-40.154
+04.11 18:34:49 Moving is finished
+04.11 18:34:50 Starting signal collection to the file CuCTF-1co2_circle_3
+04.11 18:36:30 Data is collected!
+04.11 18:36:30 Scanning point 4 of circle
+04.11 18:36:30 Going to coordinates X=-12.580, Y=-40.154
+04.11 18:36:30 Moving is finished
+04.11 18:36:31 Starting signal collection to the file CuCTF-1co2_circle_4
+04.11 18:38:11 Data is collected!
+04.11 18:38:11 Scanning point 5 of circle
+04.11 18:38:11 Going to coordinates X=-12.585, Y=-40.158
+04.11 18:38:11 Moving is finished
+04.11 18:38:12 Starting signal collection to the file CuCTF-1co2_circle_5
+04.11 18:39:51 Data is collected!
+04.11 18:39:51 Scanning point 6 of circle
+04.11 18:39:51 Going to coordinates X=-12.587, Y=-40.164
+04.11 18:39:52 Moving is finished
+04.11 18:39:53 Starting signal collection to the file CuCTF-1co2_circle_6
+04.11 18:41:32 Data is collected!
+04.11 18:41:32 Scanning point 7 of circle
+04.11 18:41:32 Going to coordinates X=-12.585, Y=-40.170
+04.11 18:41:32 Moving is finished
+04.11 18:41:33 Starting signal collection to the file CuCTF-1co2_circle_7
+04.11 18:43:12 timed out
+04.11 18:43:13 Data is collected!
+04.11 18:43:13 Scanning point 8 of circle
+04.11 18:43:13 Going to coordinates X=-12.580, Y=-40.174
+04.11 18:43:14 Moving is finished
+04.11 18:43:15 Starting signal collection to the file CuCTF-1co2_circle_8
+04.11 18:43:21 Stopped!

@@ -1,0 +1,195 @@
+07.05 16:47:07 Initializing grbl...
+07.05 16:47:08 Got the response: b''
+07.05 16:48:35 Row 0: 07.05 16:48:35 Goto: -27.859; -38.258; 0.000
+07.05 16:48:35 Going to coordinates X=-27.859, Y=-38.258
+07.05 16:48:36 Moving is finished
+07.05 16:48:37 Row 1: 07.05 16:48:37 Raman: c3bez
+07.05 16:48:37 Starting signal collection to the file c3bez
+07.05 16:50:15 Data is collected!
+07.05 16:50:15 Row 2: 07.05 16:50:15 Goto: -27.878; -38.433; 0.000
+07.05 16:50:15 Going to coordinates X=-27.878, Y=-38.433
+07.05 16:50:16 Moving is finished
+07.05 16:50:17 Row 3: 07.05 16:50:17 Raman: c3bez
+07.05 16:50:17 Starting signal collection to the file c3bez
+07.05 16:51:55 Data is collected!
+07.05 16:51:55 Row 4: 07.05 16:51:55 Goto: -27.878; -38.629; 0.000
+07.05 16:51:55 Going to coordinates X=-27.878, Y=-38.629
+07.05 16:51:55 Moving is finished
+07.05 16:51:56 Row 5: 07.05 16:51:56 Raman: c3bez
+07.05 16:51:56 Starting signal collection to the file c3bez
+07.05 16:53:34 Data is collected!
+07.05 16:53:34 Row 6: 07.05 16:53:34 Goto: -27.780; -38.629; 0.000
+07.05 16:53:34 Going to coordinates X=-27.780, Y=-38.629
+07.05 16:53:35 Moving is finished
+07.05 16:53:36 Row 7: 07.05 16:53:36 Raman: c3bez
+07.05 16:53:36 Starting signal collection to the file c3bez
+07.05 16:55:14 Data is collected!
+07.05 16:56:47 Row 0: 07.05 16:56:47 Goto: -27.688; -38.660; 0.000
+07.05 16:56:47 Going to coordinates X=-27.688, Y=-38.660
+07.05 16:56:47 Moving is finished
+07.05 16:56:48 Row 1: 07.05 16:56:48 Raman: c3bez
+07.05 16:56:48 Starting signal collection to the file c3bez
+07.05 16:58:27 Data is collected!
+07.05 16:58:27 Row 2: 07.05 16:58:27 Goto: -27.688; -38.753; 0.000
+07.05 16:58:27 Going to coordinates X=-27.688, Y=-38.753
+07.05 16:58:27 Moving is finished
+07.05 16:58:28 Row 3: 07.05 16:58:28 Raman: c3bez
+07.05 16:58:28 Starting signal collection to the file c3bez
+07.05 17:00:07 Data is collected!
+07.05 17:00:07 Row 4: 07.05 17:00:07 Goto: -27.707; -38.753; 0.000
+07.05 17:00:07 Going to coordinates X=-27.707, Y=-38.753
+07.05 17:00:07 Moving is finished
+07.05 17:00:08 Row 5: 07.05 17:00:08 Raman: c3bez
+07.05 17:00:08 Starting signal collection to the file c3bez
+07.05 17:01:46 Data is collected!
+07.05 17:01:46 Row 6: 07.05 17:01:46 Goto: -27.707; -38.732; 0.000
+07.05 17:01:46 Going to coordinates X=-27.707, Y=-38.732
+07.05 17:01:47 Moving is finished
+07.05 17:01:48 Row 7: 07.05 17:01:48 Raman: c3bez
+07.05 17:01:48 Starting signal collection to the file c3bez
+07.05 17:03:26 Data is collected!
+07.05 17:03:26 Row 8: 07.05 17:03:26 Goto: -27.776; -38.794; 0.000
+07.05 17:03:26 Going to coordinates X=-27.776, Y=-38.794
+07.05 17:03:26 Moving is finished
+07.05 17:03:27 Row 9: 07.05 17:03:27 Raman: c3bez
+07.05 17:03:27 Starting signal collection to the file c3bez
+07.05 17:05:06 Data is collected!
+07.05 17:05:06 Row 10: 07.05 17:05:06 Goto: -27.741; -38.794; 0.000
+07.05 17:05:06 Going to coordinates X=-27.741, Y=-38.794
+07.05 17:05:06 Moving is finished
+07.05 17:05:07 Row 11: 07.05 17:05:07 Raman: c3bez
+07.05 17:05:07 Starting signal collection to the file c3bez
+07.05 17:06:45 Data is collected!
+07.05 17:06:45 Row 12: 07.05 17:06:45 Goto: -27.761; -38.918; 0.000
+07.05 17:06:45 Going to coordinates X=-27.761, Y=-38.918
+07.05 17:06:45 Moving is finished
+07.05 17:06:46 Row 13: 07.05 17:06:46 Raman: c3bez
+07.05 17:06:46 Starting signal collection to the file c3bez
+07.05 17:08:25 Data is collected!
+07.05 17:11:07 Row 0: 07.05 17:11:07 Goto: -27.541; -38.887; 0.000
+07.05 17:11:07 Going to coordinates X=-27.541, Y=-38.887
+07.05 17:11:07 Moving is finished
+07.05 17:11:08 Row 1: 07.05 17:11:08 Raman: c3bez
+07.05 17:11:08 Starting signal collection to the file c3bez
+07.05 17:12:47 Data is collected!
+07.05 17:12:47 Row 2: 07.05 17:12:47 Goto: -27.327; -38.887; 0.000
+07.05 17:12:47 Going to coordinates X=-27.327, Y=-38.887
+07.05 17:12:47 Moving is finished
+07.05 17:12:48 Row 3: 07.05 17:12:48 Raman: c3bez
+07.05 17:12:48 Starting signal collection to the file c3bez
+07.05 17:14:27 Data is collected!
+07.05 17:14:27 Row 4: 07.05 17:14:27 Goto: -27.190; -38.876; 0.000
+07.05 17:14:27 Going to coordinates X=-27.190, Y=-38.876
+07.05 17:14:27 Moving is finished
+07.05 17:14:28 Row 5: 07.05 17:14:28 Raman: c3bez
+07.05 17:14:28 Starting signal collection to the file c3bez
+07.05 17:16:06 Data is collected!
+07.05 17:16:06 Row 6: 07.05 17:16:06 Goto: -27.078; -38.876; 0.000
+07.05 17:16:06 Going to coordinates X=-27.078, Y=-38.876
+07.05 17:16:07 Moving is finished
+07.05 17:16:08 Row 7: 07.05 17:16:08 Raman: c3bez
+07.05 17:16:08 Starting signal collection to the file c3bez
+07.05 17:17:46 Data is collected!
+07.05 17:17:46 Row 8: 07.05 17:17:46 Goto: -27.039; -38.918; 0.000
+07.05 17:17:46 Going to coordinates X=-27.039, Y=-38.918
+07.05 17:17:46 Moving is finished
+07.05 17:17:47 Row 9: 07.05 17:17:47 Raman: c3bez
+07.05 17:17:47 Starting signal collection to the file c3bez
+07.05 17:19:26 Data is collected!
+07.05 17:19:26 Row 10: 07.05 17:19:26 Goto: -26.990; -38.938; 0.000
+07.05 17:19:26 Going to coordinates X=-26.990, Y=-38.938
+07.05 17:19:26 Moving is finished
+07.05 17:19:28 Row 11: 07.05 17:19:28 Raman: c3bez
+07.05 17:19:28 Starting signal collection to the file c3bez
+07.05 17:21:07 Data is collected!
+07.05 17:21:07 Row 12: 07.05 17:21:07 Goto: -26.980; -38.979; 0.000
+07.05 17:21:07 Going to coordinates X=-26.980, Y=-38.979
+07.05 17:21:07 Moving is finished
+07.05 17:21:08 Row 13: 07.05 17:21:08 Raman: c3bez
+07.05 17:21:08 Starting signal collection to the file c3bez
+07.05 17:22:46 Data is collected!
+07.05 17:22:46 Row 14: 07.05 17:22:46 Goto: -26.917; -39.000; 0.000
+07.05 17:22:46 Going to coordinates X=-26.917, Y=-39.000
+07.05 17:22:47 Moving is finished
+07.05 17:22:48 Row 15: 07.05 17:22:48 Raman: c3bez
+07.05 17:22:48 Starting signal collection to the file c3bez
+07.05 17:24:26 Data is collected!
+07.05 17:24:26 Row 16: 07.05 17:24:26 Goto: -26.878; -39.021; 0.000
+07.05 17:24:26 Going to coordinates X=-26.878, Y=-39.021
+07.05 17:24:27 Moving is finished
+07.05 17:24:28 Row 17: 07.05 17:24:28 Raman: c3bez
+07.05 17:24:28 Starting signal collection to the file c3bez
+07.05 17:26:06 Data is collected!
+07.05 17:29:33 Can't send the command to GRBL
+07.05 17:29:33 Write timeout07.05 17:29:33 Write timeout
+
+07.05 17:29:43 Write timeout07.05 17:29:43 Can't send the command to GRBL
+
+07.05 17:30:03 Can't send the command to GRBL
+07.05 17:30:03 Write timeout07.05 17:30:03 Write timeout
+
+07.05 17:30:05 Can't send the command to GRBL
+07.05 17:30:05 Write timeout07.05 17:30:05 Write timeout
+
+07.05 17:30:36 Row 0: 07.05 17:30:36 Goto: -26.878; -39.041; 0.000
+07.05 17:30:36 Going to coordinates X=-26.878, Y=-39.041
+07.05 17:30:36 Moving is finished
+07.05 17:30:37 Row 1: 07.05 17:30:37 Raman: c3bez
+07.05 17:30:37 Starting signal collection to the file c3bez
+07.05 17:32:15 Data is collected!
+07.05 17:32:15 Row 2: 07.05 17:32:15 Goto: -26.898; -39.021; 0.000
+07.05 17:32:15 Going to coordinates X=-26.898, Y=-39.021
+07.05 17:32:16 Moving is finished
+07.05 17:32:17 Row 3: 07.05 17:32:17 Raman: c3bez
+07.05 17:32:17 Starting signal collection to the file c3bez
+07.05 17:33:55 Data is collected!
+07.05 17:33:55 Row 4: 07.05 17:33:55 Goto: -26.834; -39.072; 0.000
+07.05 17:33:55 Going to coordinates X=-26.834, Y=-39.072
+07.05 17:33:55 Moving is finished
+07.05 17:33:56 Row 5: 07.05 17:33:56 Raman: c3bez
+07.05 17:33:56 Starting signal collection to the file c3bez
+07.05 17:35:35 Data is collected!
+07.05 17:35:35 Row 6: 07.05 17:35:35 Goto: -26.727; -39.062; 0.000
+07.05 17:35:35 Going to coordinates X=-26.727, Y=-39.062
+07.05 17:35:35 Moving is finished
+07.05 17:35:36 Row 7: 07.05 17:35:36 Raman: c3bez
+07.05 17:35:36 Starting signal collection to the file c3bez
+07.05 17:37:15 Data is collected!
+07.05 17:37:15 Row 8: 07.05 17:37:15 Goto: -26.707; -39.134; 0.000
+07.05 17:37:15 Going to coordinates X=-26.707, Y=-39.134
+07.05 17:37:15 Moving is finished
+07.05 17:37:16 Row 9: 07.05 17:37:16 Raman: c3bez
+07.05 17:37:16 Starting signal collection to the file c3bez
+07.05 17:38:54 Data is collected!
+07.05 17:38:54 Row 10: 07.05 17:38:54 Goto: -26.678; -39.082; 0.000
+07.05 17:38:54 Going to coordinates X=-26.678, Y=-39.082
+07.05 17:38:54 Status responce is malformed
+07.05 17:38:54 list index out of range
+07.05 17:38:54 Moving is finished
+07.05 17:38:55 Row 11: 07.05 17:38:55 Raman: c3bez
+07.05 17:38:55 Starting signal collection to the file c3bez
+07.05 17:40:34 Data is collected!
+07.05 17:40:34 Row 12: 07.05 17:40:34 Goto: -26.600; -39.103; 0.000
+07.05 17:40:34 Going to coordinates X=-26.600, Y=-39.103
+07.05 17:40:34 Moving is finished
+07.05 17:40:35 Row 13: 07.05 17:40:35 Raman: c3bez
+07.05 17:40:35 Starting signal collection to the file c3bez
+07.05 17:42:14 Data is collected!
+07.05 17:42:14 Row 14: 07.05 17:42:14 Goto: -26.580; -39.227; 0.000
+07.05 17:42:14 Going to coordinates X=-26.580, Y=-39.227
+07.05 17:42:14 Moving is finished
+07.05 17:42:15 Row 15: 07.05 17:42:15 Raman: c3bez
+07.05 17:42:15 Starting signal collection to the file c3bez
+07.05 17:43:53 Data is collected!
+07.05 17:43:53 Row 16: 07.05 17:43:53 Goto: -26.746; -39.289; 0.000
+07.05 17:43:53 Going to coordinates X=-26.746, Y=-39.289
+07.05 17:43:53 Moving is finished
+07.05 17:43:55 Row 17: 07.05 17:43:55 Raman: c3bez
+07.05 17:43:55 Starting signal collection to the file c3bez
+07.05 17:45:34 Data is collected!
+07.05 17:50:33 Can't send the command to GRBL
+07.05 17:50:33 Write timeout07.05 17:50:33 Write timeout
+
+07.05 17:51:35 Can't send the command to GRBL
+07.05 17:51:35 Write timeout07.05 17:51:35 Write timeout
+

@@ -1,0 +1,134 @@
+25.10 10:30:54 Initializing grbl...
+25.10 10:30:55 Got the response: b''
+25.10 10:56:18 Row 0: 25.10 10:56:18 Map: x1: -13.447, y1: -36.81, x2: -14.154, y2: -37.754, xres: 0.050, yres: 0.070, fname: M2-A1
+25.10 10:56:18 Scanning 0 point from 240
+25.10 10:56:18 Going to coordinates X=-14.154, Y=-37.754
+25.10 10:56:18 Moving is finished
+25.10 10:59:43 Scanning 1 point from 240
+25.10 10:59:43 Going to coordinates X=-14.104, Y=-37.754
+25.10 10:59:43 Moving is finished
+25.10 11:03:08 Scanning 2 point from 240
+25.10 11:03:08 Going to coordinates X=-14.054, Y=-37.754
+25.10 11:03:08 Moving is finished
+25.10 11:06:32 Scanning 3 point from 240
+25.10 11:06:32 Going to coordinates X=-14.004, Y=-37.754
+25.10 11:06:32 Moving is finished
+25.10 11:09:57 Scanning 4 point from 240
+25.10 11:09:57 Going to coordinates X=-13.954, Y=-37.754
+25.10 11:09:57 Moving is finished
+25.10 11:13:21 Scanning 5 point from 240
+25.10 11:13:21 Going to coordinates X=-13.904, Y=-37.754
+25.10 11:13:22 Moving is finished
+25.10 11:16:46 Scanning 6 point from 240
+25.10 11:16:46 Going to coordinates X=-13.854, Y=-37.754
+25.10 11:16:46 Moving is finished
+25.10 11:20:10 Scanning 7 point from 240
+25.10 11:20:10 Going to coordinates X=-13.804, Y=-37.754
+25.10 11:20:11 Moving is finished
+25.10 11:23:35 Scanning 8 point from 240
+25.10 11:23:35 Going to coordinates X=-13.754, Y=-37.754
+25.10 11:23:35 Moving is finished
+25.10 11:27:00 Scanning 9 point from 240
+25.10 11:27:00 Going to coordinates X=-13.704, Y=-37.754
+25.10 11:27:00 Moving is finished
+25.10 11:30:25 Scanning 10 point from 240
+25.10 11:30:25 Going to coordinates X=-13.654, Y=-37.754
+25.10 11:30:25 Moving is finished
+25.10 11:33:50 Scanning 11 point from 240
+25.10 11:33:50 Going to coordinates X=-13.604, Y=-37.754
+25.10 11:33:50 Moving is finished
+25.10 11:37:15 Scanning 12 point from 240
+25.10 11:37:15 Going to coordinates X=-13.554, Y=-37.754
+25.10 11:37:15 Moving is finished
+25.10 11:40:39 Scanning 13 point from 240
+25.10 11:40:39 Going to coordinates X=-13.504, Y=-37.754
+25.10 11:40:40 Moving is finished
+25.10 11:44:04 Scanning 14 point from 240
+25.10 11:44:04 Going to coordinates X=-13.454, Y=-37.754
+25.10 11:44:04 Moving is finished
+25.10 11:47:28 Scanning 15 point from 240
+25.10 11:48:19 Going to coordinates X=-13.404, Y=-37.754
+25.10 11:49:19 Moving is finished
+25.10 11:52:43 Scanning 16 point from 240
+25.10 11:53:33 Going to coordinates X=-14.154, Y=-37.684
+25.10 11:54:33 Moving is finished
+25.10 11:57:58 Scanning 17 point from 240
+25.10 11:58:48 Going to coordinates X=-14.104, Y=-37.684
+25.10 11:59:48 Moving is finished
+25.10 12:03:13 Scanning 18 point from 240
+25.10 12:04:03 Going to coordinates X=-14.054, Y=-37.684
+25.10 12:05:03 Moving is finished
+25.10 12:08:28 Scanning 19 point from 240
+25.10 12:09:18 Going to coordinates X=-14.004, Y=-37.684
+25.10 12:10:18 Moving is finished
+25.10 12:13:43 Scanning 20 point from 240
+25.10 12:14:33 Going to coordinates X=-13.954, Y=-37.684
+25.10 12:15:33 Moving is finished
+25.10 12:18:58 Scanning 21 point from 240
+25.10 12:19:48 Going to coordinates X=-13.904, Y=-37.684
+25.10 12:20:48 Moving is finished
+25.10 12:24:13 Scanning 22 point from 240
+25.10 12:25:03 Going to coordinates X=-13.854, Y=-37.684
+25.10 12:26:03 Moving is finished
+25.10 12:29:28 Scanning 23 point from 240
+25.10 12:30:18 Going to coordinates X=-13.804, Y=-37.684
+25.10 12:31:18 Moving is finished
+25.10 12:34:42 Scanning 24 point from 240
+25.10 12:35:32 Going to coordinates X=-13.754, Y=-37.684
+25.10 12:36:33 Moving is finished
+25.10 12:39:58 Scanning 25 point from 240
+25.10 12:40:48 Going to coordinates X=-13.704, Y=-37.684
+25.10 12:41:48 Moving is finished
+25.10 12:45:13 Scanning 26 point from 240
+25.10 12:46:03 Going to coordinates X=-13.654, Y=-37.684
+25.10 12:47:03 Moving is finished
+25.10 12:50:28 Scanning 27 point from 240
+25.10 12:51:18 Going to coordinates X=-13.604, Y=-37.684
+25.10 12:52:18 Moving is finished
+25.10 12:55:42 Scanning 28 point from 240
+25.10 12:56:32 Going to coordinates X=-13.554, Y=-37.684
+25.10 12:57:32 Moving is finished
+25.10 13:00:57 Scanning 29 point from 240
+25.10 13:01:47 Going to coordinates X=-13.504, Y=-37.684
+25.10 13:02:47 Moving is finished
+25.10 13:06:12 Scanning 30 point from 240
+25.10 13:07:02 Going to coordinates X=-13.454, Y=-37.684
+25.10 13:08:03 Moving is finished
+25.10 13:11:27 Scanning 31 point from 240
+25.10 13:12:17 Going to coordinates X=-13.404, Y=-37.684
+25.10 13:13:17 Moving is finished
+25.10 13:16:42 Scanning 32 point from 240
+25.10 13:17:32 Going to coordinates X=-14.154, Y=-37.614
+25.10 13:18:32 Moving is finished
+25.10 13:21:56 Scanning 33 point from 240
+25.10 13:22:47 Going to coordinates X=-14.104, Y=-37.614
+25.10 13:23:47 Moving is finished
+25.10 13:27:12 Scanning 34 point from 240
+25.10 13:28:02 Going to coordinates X=-14.054, Y=-37.614
+25.10 13:29:02 Moving is finished
+25.10 13:32:27 Scanning 35 point from 240
+25.10 13:33:17 Going to coordinates X=-14.004, Y=-37.614
+25.10 13:34:17 Moving is finished
+25.10 13:37:42 Scanning 36 point from 240
+25.10 13:38:32 Going to coordinates X=-13.954, Y=-37.614
+25.10 13:39:32 Moving is finished
+25.10 13:42:56 Scanning 37 point from 240
+25.10 13:43:46 Going to coordinates X=-13.904, Y=-37.614
+25.10 13:44:46 Moving is finished
+25.10 13:48:11 Scanning 38 point from 240
+25.10 13:49:01 Going to coordinates X=-13.854, Y=-37.614
+25.10 13:50:01 Moving is finished
+25.10 13:53:25 Scanning 39 point from 240
+25.10 13:54:15 Going to coordinates X=-13.804, Y=-37.614
+25.10 13:55:15 Moving is finished
+25.10 13:58:40 Scanning 40 point from 240
+25.10 13:59:30 Going to coordinates X=-13.754, Y=-37.614
+25.10 14:00:30 Moving is finished
+25.10 14:03:55 Scanning 41 point from 240
+25.10 14:04:45 Going to coordinates X=-13.704, Y=-37.614
+25.10 14:05:45 Moving is finished
+25.10 14:09:10 Scanning 42 point from 240
+25.10 14:10:00 Going to coordinates X=-13.654, Y=-37.614
+25.10 14:10:34 Stopped!
+25.10 14:59:24 Write timeout25.10 14:59:24 Can't send the command to GRBL
+

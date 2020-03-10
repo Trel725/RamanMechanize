@@ -1,0 +1,279 @@
+04.07 13:54:28 Initializing grbl...
+04.07 13:54:29 Got the response: b''
+04.07 13:55:56 Row 0: 04.07 13:55:56 Map: x1: -17.125, y1: -38.441, x2: -12.332, y2: -33.005, xres: 0.400, yres: 0.400, fname: dvd_btp
+04.07 13:55:56 Scanning 0 point from 195
+04.07 13:55:56 Going to coordinates X=-17.125, Y=-38.441
+04.07 13:55:57 Moving is finished
+04.07 13:56:06 Scanning 1 point from 195
+04.07 13:56:06 Going to coordinates X=-16.725, Y=-38.441
+04.07 13:56:07 Moving is finished
+04.07 13:56:15 Scanning 2 point from 195
+04.07 13:56:15 Going to coordinates X=-16.325, Y=-38.441
+04.07 13:56:16 Moving is finished
+04.07 13:56:25 Scanning 3 point from 195
+04.07 13:56:25 Going to coordinates X=-15.925, Y=-38.441
+04.07 13:56:25 Moving is finished
+04.07 13:56:34 Scanning 4 point from 195
+04.07 13:56:34 Going to coordinates X=-15.525, Y=-38.441
+04.07 13:56:34 Moving is finished
+04.07 13:56:43 Scanning 5 point from 195
+04.07 13:56:43 Going to coordinates X=-15.125, Y=-38.441
+04.07 13:56:44 Moving is finished
+04.07 13:56:53 Scanning 6 point from 195
+04.07 13:56:53 Going to coordinates X=-14.725, Y=-38.441
+04.07 13:56:53 Moving is finished
+04.07 13:57:02 Scanning 7 point from 195
+04.07 13:57:02 Going to coordinates X=-14.325, Y=-38.441
+04.07 13:57:02 Moving is finished
+04.07 13:57:11 Scanning 8 point from 195
+04.07 13:57:11 Going to coordinates X=-13.925, Y=-38.441
+04.07 13:57:12 Moving is finished
+04.07 13:57:21 Scanning 9 point from 195
+04.07 13:57:21 Going to coordinates X=-13.525, Y=-38.441
+04.07 13:57:21 Moving is finished
+04.07 13:57:30 Scanning 10 point from 195
+04.07 13:57:30 Going to coordinates X=-13.125, Y=-38.441
+04.07 13:57:30 Moving is finished
+04.07 13:57:39 Scanning 11 point from 195
+04.07 13:57:39 Going to coordinates X=-12.725, Y=-38.441
+04.07 13:57:40 Moving is finished
+04.07 13:57:49 Scanning 12 point from 195
+04.07 13:57:49 Going to coordinates X=-12.325, Y=-38.441
+04.07 13:57:49 Moving is finished
+04.07 13:57:58 Scanning 13 point from 195
+04.07 13:57:58 Going to coordinates X=-17.125, Y=-38.041
+04.07 13:57:59 Moving is finished
+04.07 13:58:08 Scanning 14 point from 195
+04.07 13:58:08 Going to coordinates X=-16.725, Y=-38.041
+04.07 13:58:09 Moving is finished
+04.07 13:58:18 Scanning 15 point from 195
+04.07 13:58:18 Going to coordinates X=-16.325, Y=-38.041
+04.07 13:58:18 Moving is finished
+04.07 13:58:27 Scanning 16 point from 195
+04.07 13:58:27 Going to coordinates X=-15.925, Y=-38.041
+04.07 13:58:28 Moving is finished
+04.07 13:58:37 Scanning 17 point from 195
+04.07 13:58:37 Going to coordinates X=-15.525, Y=-38.041
+04.07 13:58:37 Moving is finished
+04.07 13:58:46 Scanning 18 point from 195
+04.07 13:58:46 Going to coordinates X=-15.125, Y=-38.041
+04.07 13:58:46 Moving is finished
+04.07 13:58:55 Scanning 19 point from 195
+04.07 13:58:55 Going to coordinates X=-14.725, Y=-38.041
+04.07 13:58:56 Moving is finished
+04.07 13:59:05 Scanning 20 point from 195
+04.07 13:59:05 Going to coordinates X=-14.325, Y=-38.041
+04.07 13:59:05 Moving is finished
+04.07 13:59:14 Scanning 21 point from 195
+04.07 13:59:14 Going to coordinates X=-13.925, Y=-38.041
+04.07 13:59:14 Moving is finished
+04.07 13:59:23 Scanning 22 point from 195
+04.07 13:59:23 Going to coordinates X=-13.525, Y=-38.041
+04.07 13:59:24 Moving is finished
+04.07 13:59:33 Scanning 23 point from 195
+04.07 13:59:33 Going to coordinates X=-13.125, Y=-38.041
+04.07 13:59:33 Moving is finished
+04.07 13:59:42 Scanning 24 point from 195
+04.07 13:59:42 Going to coordinates X=-12.725, Y=-38.041
+04.07 13:59:42 Moving is finished
+04.07 13:59:51 Scanning 25 point from 195
+04.07 13:59:51 Going to coordinates X=-12.325, Y=-38.041
+04.07 13:59:52 Moving is finished
+04.07 14:00:01 Scanning 26 point from 195
+04.07 14:00:01 Going to coordinates X=-17.125, Y=-37.641
+04.07 14:00:02 Moving is finished
+04.07 14:00:11 Scanning 27 point from 195
+04.07 14:00:11 Going to coordinates X=-16.725, Y=-37.641
+04.07 14:00:11 Moving is finished
+04.07 14:00:20 Scanning 28 point from 195
+04.07 14:00:20 Going to coordinates X=-16.325, Y=-37.641
+04.07 14:00:21 Moving is finished
+04.07 14:00:30 Scanning 29 point from 195
+04.07 14:00:30 Going to coordinates X=-15.925, Y=-37.641
+04.07 14:00:30 Moving is finished
+04.07 14:00:39 Scanning 30 point from 195
+04.07 14:00:39 Going to coordinates X=-15.525, Y=-37.641
+04.07 14:00:40 Moving is finished
+04.07 14:00:48 Scanning 31 point from 195
+04.07 14:00:48 Going to coordinates X=-15.125, Y=-37.641
+04.07 14:00:49 Moving is finished
+04.07 14:00:58 Scanning 32 point from 195
+04.07 14:00:58 Going to coordinates X=-14.725, Y=-37.641
+04.07 14:00:58 Moving is finished
+04.07 14:01:07 Scanning 33 point from 195
+04.07 14:01:07 Going to coordinates X=-14.325, Y=-37.641
+04.07 14:01:08 Moving is finished
+04.07 14:01:17 Scanning 34 point from 195
+04.07 14:01:17 Going to coordinates X=-13.925, Y=-37.641
+04.07 14:01:17 Moving is finished
+04.07 14:01:26 Scanning 35 point from 195
+04.07 14:01:26 Going to coordinates X=-13.525, Y=-37.641
+04.07 14:01:26 Moving is finished
+04.07 14:01:35 Scanning 36 point from 195
+04.07 14:01:35 Going to coordinates X=-13.125, Y=-37.641
+04.07 14:01:36 Moving is finished
+04.07 14:01:45 Scanning 37 point from 195
+04.07 14:01:45 Going to coordinates X=-12.725, Y=-37.641
+04.07 14:01:45 Moving is finished
+04.07 14:01:54 Scanning 38 point from 195
+04.07 14:01:54 Going to coordinates X=-12.325, Y=-37.641
+04.07 14:01:54 Moving is finished
+04.07 14:02:03 Scanning 39 point from 195
+04.07 14:02:03 Going to coordinates X=-17.125, Y=-37.241
+04.07 14:02:05 Moving is finished
+04.07 14:02:14 Scanning 40 point from 195
+04.07 14:02:14 Going to coordinates X=-16.725, Y=-37.241
+04.07 14:02:14 Moving is finished
+04.07 14:02:23 Scanning 41 point from 195
+04.07 14:02:23 Going to coordinates X=-16.325, Y=-37.241
+04.07 14:02:23 Moving is finished
+04.07 14:02:32 Scanning 42 point from 195
+04.07 14:02:32 Going to coordinates X=-15.925, Y=-37.241
+04.07 14:02:33 Moving is finished
+04.07 14:02:42 Scanning 43 point from 195
+04.07 14:02:42 Going to coordinates X=-15.525, Y=-37.241
+04.07 14:02:42 Moving is finished
+04.07 14:02:51 Scanning 44 point from 195
+04.07 14:02:51 Going to coordinates X=-15.125, Y=-37.241
+04.07 14:02:52 Moving is finished
+04.07 14:03:00 Scanning 45 point from 195
+04.07 14:03:00 Going to coordinates X=-14.725, Y=-37.241
+04.07 14:03:01 Moving is finished
+04.07 14:03:10 Scanning 46 point from 195
+04.07 14:03:10 Going to coordinates X=-14.325, Y=-37.241
+04.07 14:03:10 Moving is finished
+04.07 14:03:19 Scanning 47 point from 195
+04.07 14:03:19 Going to coordinates X=-13.925, Y=-37.241
+04.07 14:03:20 Moving is finished
+04.07 14:03:28 Scanning 48 point from 195
+04.07 14:03:28 Going to coordinates X=-13.525, Y=-37.241
+04.07 14:03:29 Moving is finished
+04.07 14:03:38 Scanning 49 point from 195
+04.07 14:03:38 Going to coordinates X=-13.125, Y=-37.241
+04.07 14:03:38 Moving is finished
+04.07 14:03:47 Scanning 50 point from 195
+04.07 14:03:47 Going to coordinates X=-12.725, Y=-37.241
+04.07 14:03:48 Moving is finished
+04.07 14:03:57 Scanning 51 point from 195
+04.07 14:03:57 Going to coordinates X=-12.325, Y=-37.241
+04.07 14:03:57 Moving is finished
+04.07 14:04:06 Scanning 52 point from 195
+04.07 14:04:06 Going to coordinates X=-17.125, Y=-36.841
+04.07 14:04:07 Moving is finished
+04.07 14:04:17 Scanning 53 point from 195
+04.07 14:04:17 Going to coordinates X=-16.725, Y=-36.841
+04.07 14:04:17 Moving is finished
+04.07 14:04:27 Scanning 54 point from 195
+04.07 14:04:27 Going to coordinates X=-16.325, Y=-36.841
+04.07 14:04:27 Moving is finished
+04.07 14:04:36 Scanning 55 point from 195
+04.07 14:04:36 Going to coordinates X=-15.925, Y=-36.841
+04.07 14:04:36 Moving is finished
+04.07 14:04:45 Scanning 56 point from 195
+04.07 14:04:45 Going to coordinates X=-15.525, Y=-36.841
+04.07 14:04:46 Moving is finished
+04.07 14:04:55 Scanning 57 point from 195
+04.07 14:04:55 Going to coordinates X=-15.125, Y=-36.841
+04.07 14:04:55 Moving is finished
+04.07 14:05:04 Scanning 58 point from 195
+04.07 14:05:04 Going to coordinates X=-14.725, Y=-36.841
+04.07 14:05:05 Moving is finished
+04.07 14:05:14 Scanning 59 point from 195
+04.07 14:05:14 Going to coordinates X=-14.325, Y=-36.841
+04.07 14:05:14 Moving is finished
+04.07 14:05:23 Scanning 60 point from 195
+04.07 14:05:23 Going to coordinates X=-13.925, Y=-36.841
+04.07 14:05:24 Moving is finished
+04.07 14:05:32 Scanning 61 point from 195
+04.07 14:05:32 Going to coordinates X=-13.525, Y=-36.841
+04.07 14:05:33 Moving is finished
+04.07 14:05:42 Scanning 62 point from 195
+04.07 14:05:42 Going to coordinates X=-13.125, Y=-36.841
+04.07 14:05:42 Moving is finished
+04.07 14:05:52 Scanning 63 point from 195
+04.07 14:05:52 Going to coordinates X=-12.725, Y=-36.841
+04.07 14:05:53 Moving is finished
+04.07 14:06:02 Scanning 64 point from 195
+04.07 14:06:02 Going to coordinates X=-12.325, Y=-36.841
+04.07 14:06:03 Moving is finished
+04.07 14:06:11 Scanning 65 point from 195
+04.07 14:06:11 Going to coordinates X=-17.125, Y=-36.441
+04.07 14:06:13 Moving is finished
+04.07 14:06:22 Scanning 66 point from 195
+04.07 14:06:22 Going to coordinates X=-16.725, Y=-36.441
+04.07 14:06:22 Moving is finished
+04.07 14:06:31 Scanning 67 point from 195
+04.07 14:06:31 Going to coordinates X=-16.325, Y=-36.441
+04.07 14:06:32 Moving is finished
+04.07 14:06:41 Scanning 68 point from 195
+04.07 14:06:41 Going to coordinates X=-15.925, Y=-36.441
+04.07 14:06:41 Moving is finished
+04.07 14:06:50 Scanning 69 point from 195
+04.07 14:06:50 Paused
+04.07 14:07:07 Going to coordinates X=-15.525, Y=-36.441
+04.07 14:07:08 Moving is finished
+04.07 14:07:17 Scanning 70 point from 195
+04.07 14:07:17 Going to coordinates X=-15.125, Y=-36.441
+04.07 14:07:17 Moving is finished
+04.07 14:07:26 Scanning 71 point from 195
+04.07 14:07:26 Going to coordinates X=-14.725, Y=-36.441
+04.07 14:07:26 Moving is finished
+04.07 14:07:35 Scanning 72 point from 195
+04.07 14:07:35 Going to coordinates X=-14.325, Y=-36.441
+04.07 14:07:36 Moving is finished
+04.07 14:07:45 Scanning 73 point from 195
+04.07 14:07:45 Going to coordinates X=-13.925, Y=-36.441
+04.07 14:07:45 Moving is finished
+04.07 14:07:54 Scanning 74 point from 195
+04.07 14:07:54 Going to coordinates X=-13.525, Y=-36.441
+04.07 14:07:55 Moving is finished
+04.07 14:08:03 Scanning 75 point from 195
+04.07 14:08:03 Going to coordinates X=-13.125, Y=-36.441
+04.07 14:08:04 Moving is finished
+04.07 14:08:13 Scanning 76 point from 195
+04.07 14:08:13 Going to coordinates X=-12.725, Y=-36.441
+04.07 14:08:13 Moving is finished
+04.07 14:08:22 Scanning 77 point from 195
+04.07 14:08:22 Going to coordinates X=-12.325, Y=-36.441
+04.07 14:08:23 Moving is finished
+04.07 14:08:32 Scanning 78 point from 195
+04.07 14:08:32 Going to coordinates X=-17.125, Y=-36.041
+04.07 14:08:33 Moving is finished
+04.07 14:08:42 Scanning 79 point from 195
+04.07 14:08:42 Going to coordinates X=-16.725, Y=-36.041
+04.07 14:08:42 Moving is finished
+04.07 14:08:51 Scanning 80 point from 195
+04.07 14:08:51 Going to coordinates X=-16.325, Y=-36.041
+04.07 14:08:52 Moving is finished
+04.07 14:09:01 Scanning 81 point from 195
+04.07 14:09:01 Going to coordinates X=-15.925, Y=-36.041
+04.07 14:09:01 Moving is finished
+04.07 14:09:10 Scanning 82 point from 195
+04.07 14:09:10 Going to coordinates X=-15.525, Y=-36.041
+04.07 14:09:11 Moving is finished
+04.07 14:09:19 Scanning 83 point from 195
+04.07 14:09:19 Going to coordinates X=-15.125, Y=-36.041
+04.07 14:09:20 Moving is finished
+04.07 14:09:29 Scanning 84 point from 195
+04.07 14:09:29 Going to coordinates X=-14.725, Y=-36.041
+04.07 14:09:29 Moving is finished
+04.07 14:09:38 Scanning 85 point from 195
+04.07 14:09:38 Going to coordinates X=-14.325, Y=-36.041
+04.07 14:09:39 Moving is finished
+04.07 14:09:48 Scanning 86 point from 195
+04.07 14:09:48 Going to coordinates X=-13.925, Y=-36.041
+04.07 14:09:48 Moving is finished
+04.07 14:09:57 Scanning 87 point from 195
+04.07 14:09:57 Going to coordinates X=-13.525, Y=-36.041
+04.07 14:09:57 Moving is finished
+04.07 14:10:10 timed out
+04.07 14:10:10 Scanning 88 point from 195
+04.07 14:10:10 Going to coordinates X=-13.125, Y=-36.041
+04.07 14:10:10 Moving is finished
+04.07 14:10:19 Scanning 89 point from 195
+04.07 14:10:19 Going to coordinates X=-12.725, Y=-36.041
+04.07 14:10:20 Moving is finished
+04.07 14:10:28 Scanning 90 point from 195
+04.07 14:10:28 Going to coordinates X=-12.325, Y=-36.041
+04.07 14:10:29 Moving is finished
+04.07 14:10:30 Stopped!

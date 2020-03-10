@@ -1,0 +1,9 @@
+13.06 10:32:40 Initializing grbl...
+13.06 10:32:40 Got the response: b''
+13.06 10:32:50 Error 255
+13.06 10:32:50 Status responce is malformed
+13.06 10:32:50 list index out of range
+13.06 10:33:11 Error 255
+13.06 10:33:23 Error 255
+13.06 10:33:23 Status responce is malformed
+13.06 10:33:23 list index out of range

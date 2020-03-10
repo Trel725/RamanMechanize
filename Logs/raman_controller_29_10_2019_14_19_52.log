@@ -1,0 +1,9 @@
+29.10 14:20:01 Initializing grbl...
+29.10 14:20:02 Got the response: b''
+29.10 14:20:20 Error 8
+
+29.10 14:22:35 Write timeout29.10 14:22:35 Can't send the command to GRBL
+29.10 14:28:19 Write timeout29.10 14:28:19 Can't send the command to GRBL
+
+29.10 14:43:17 Can't send the command to GRBL
+29.10 14:43:17 Write timeout

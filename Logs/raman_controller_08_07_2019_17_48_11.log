@@ -1,0 +1,1001 @@
+08.07 17:48:12 Initializing grbl...
+08.07 17:48:13 Got the response: b''
+08.07 17:48:50 Can't send the command to GRBL
+08.07 17:48:50 Write timeout08.07 17:48:50 Write timeout
+08.07 17:49:44 Row 0: 08.07 17:49:44 Map: x1: -17.413, y1: -38.01, x2: -18.582, y2: -39.159, xres: 0.050, yres: 0.100, fname: M107082019
+08.07 17:49:44 Scanning 0 point from 325
+08.07 17:49:44 Going to coordinates X=-18.582, Y=-39.159
+08.07 17:49:44 Moving is finished
+08.07 17:51:21 Scanning 1 point from 325
+08.07 17:51:21 Going to coordinates X=-18.532, Y=-39.159
+08.07 17:51:21 Moving is finished
+08.07 17:52:58 Scanning 2 point from 325
+08.07 17:52:58 Going to coordinates X=-18.482, Y=-39.159
+08.07 17:52:58 Moving is finished
+08.07 17:54:35 Scanning 3 point from 325
+08.07 17:54:35 Going to coordinates X=-18.432, Y=-39.159
+08.07 17:54:35 Moving is finished
+08.07 17:56:11 Scanning 4 point from 325
+08.07 17:56:11 Going to coordinates X=-18.382, Y=-39.159
+08.07 17:56:12 Moving is finished
+08.07 17:57:48 Scanning 5 point from 325
+08.07 17:57:48 Going to coordinates X=-18.332, Y=-39.159
+08.07 17:57:49 Moving is finished
+08.07 17:59:25 Scanning 6 point from 325
+08.07 17:59:25 Going to coordinates X=-18.282, Y=-39.159
+08.07 17:59:25 Moving is finished
+08.07 18:01:02 Scanning 7 point from 325
+08.07 18:01:02 Going to coordinates X=-18.232, Y=-39.159
+08.07 18:01:02 Moving is finished
+08.07 18:02:39 Scanning 8 point from 325
+08.07 18:02:39 Going to coordinates X=-18.182, Y=-39.159
+08.07 18:02:39 Moving is finished
+08.07 18:04:16 Scanning 9 point from 325
+08.07 18:04:16 Going to coordinates X=-18.132, Y=-39.159
+08.07 18:04:16 Moving is finished
+08.07 18:05:54 Scanning 10 point from 325
+08.07 18:05:54 Going to coordinates X=-18.082, Y=-39.159
+08.07 18:05:54 Moving is finished
+08.07 18:07:31 Scanning 11 point from 325
+08.07 18:07:31 Going to coordinates X=-18.032, Y=-39.159
+08.07 18:07:31 Moving is finished
+08.07 18:09:07 Scanning 12 point from 325
+08.07 18:09:07 Going to coordinates X=-17.982, Y=-39.159
+08.07 18:09:08 Moving is finished
+08.07 18:10:44 Scanning 13 point from 325
+08.07 18:10:44 Going to coordinates X=-17.932, Y=-39.159
+08.07 18:10:45 Moving is finished
+08.07 18:12:21 Scanning 14 point from 325
+08.07 18:12:21 Going to coordinates X=-17.882, Y=-39.159
+08.07 18:12:22 Moving is finished
+08.07 18:13:58 Scanning 15 point from 325
+08.07 18:13:58 Going to coordinates X=-17.832, Y=-39.159
+08.07 18:13:58 Moving is finished
+08.07 18:15:35 Scanning 16 point from 325
+08.07 18:15:35 Going to coordinates X=-17.782, Y=-39.159
+08.07 18:15:35 Moving is finished
+08.07 18:17:11 Scanning 17 point from 325
+08.07 18:17:11 Going to coordinates X=-17.732, Y=-39.159
+08.07 18:17:12 Moving is finished
+08.07 18:18:48 Scanning 18 point from 325
+08.07 18:18:48 Going to coordinates X=-17.682, Y=-39.159
+08.07 18:18:48 Moving is finished
+08.07 18:20:25 Scanning 19 point from 325
+08.07 18:20:25 Going to coordinates X=-17.632, Y=-39.159
+08.07 18:20:25 Moving is finished
+08.07 18:22:02 Scanning 20 point from 325
+08.07 18:22:02 Going to coordinates X=-17.582, Y=-39.159
+08.07 18:22:03 Moving is finished
+08.07 18:23:40 Scanning 21 point from 325
+08.07 18:23:40 Going to coordinates X=-17.532, Y=-39.159
+08.07 18:23:40 Moving is finished
+08.07 18:25:17 Scanning 22 point from 325
+08.07 18:25:17 Going to coordinates X=-17.482, Y=-39.159
+08.07 18:25:17 Moving is finished
+08.07 18:26:54 Scanning 23 point from 325
+08.07 18:26:54 Going to coordinates X=-17.432, Y=-39.159
+08.07 18:26:54 Moving is finished
+08.07 18:28:31 Scanning 24 point from 325
+08.07 18:28:31 Going to coordinates X=-17.382, Y=-39.159
+08.07 18:28:31 Moving is finished
+08.07 18:30:08 Scanning 25 point from 325
+08.07 18:30:08 Going to coordinates X=-18.582, Y=-39.059
+08.07 18:30:09 Moving is finished
+08.07 18:31:45 Scanning 26 point from 325
+08.07 18:31:45 Going to coordinates X=-18.532, Y=-39.059
+08.07 18:31:46 Moving is finished
+08.07 18:33:22 Scanning 27 point from 325
+08.07 18:33:22 Going to coordinates X=-18.482, Y=-39.059
+08.07 18:33:22 Moving is finished
+08.07 18:34:59 Scanning 28 point from 325
+08.07 18:34:59 Going to coordinates X=-18.432, Y=-39.059
+08.07 18:34:59 Moving is finished
+08.07 18:36:36 Scanning 29 point from 325
+08.07 18:36:36 Going to coordinates X=-18.382, Y=-39.059
+08.07 18:36:37 Moving is finished
+08.07 18:38:13 Scanning 30 point from 325
+08.07 18:38:13 Going to coordinates X=-18.332, Y=-39.059
+08.07 18:38:13 Moving is finished
+08.07 18:39:50 Scanning 31 point from 325
+08.07 18:39:50 Going to coordinates X=-18.282, Y=-39.059
+08.07 18:39:51 Moving is finished
+08.07 18:41:27 Scanning 32 point from 325
+08.07 18:41:27 Going to coordinates X=-18.232, Y=-39.059
+08.07 18:41:27 Moving is finished
+08.07 18:43:04 Scanning 33 point from 325
+08.07 18:43:04 Going to coordinates X=-18.182, Y=-39.059
+08.07 18:43:04 Moving is finished
+08.07 18:44:41 Scanning 34 point from 325
+08.07 18:44:41 Going to coordinates X=-18.132, Y=-39.059
+08.07 18:44:41 Moving is finished
+08.07 18:46:18 Scanning 35 point from 325
+08.07 18:46:18 Going to coordinates X=-18.082, Y=-39.059
+08.07 18:46:18 Moving is finished
+08.07 18:47:54 Scanning 36 point from 325
+08.07 18:47:54 Going to coordinates X=-18.032, Y=-39.059
+08.07 18:47:55 Moving is finished
+08.07 18:49:32 Scanning 37 point from 325
+08.07 18:49:32 Going to coordinates X=-17.982, Y=-39.059
+08.07 18:49:32 Moving is finished
+08.07 18:51:10 Scanning 38 point from 325
+08.07 18:51:10 Going to coordinates X=-17.932, Y=-39.059
+08.07 18:51:10 Moving is finished
+08.07 18:52:46 Scanning 39 point from 325
+08.07 18:52:46 Going to coordinates X=-17.882, Y=-39.059
+08.07 18:52:47 Moving is finished
+08.07 18:54:24 Scanning 40 point from 325
+08.07 18:54:24 Going to coordinates X=-17.832, Y=-39.059
+08.07 18:54:24 Moving is finished
+08.07 18:56:01 Scanning 41 point from 325
+08.07 18:56:01 Going to coordinates X=-17.782, Y=-39.059
+08.07 18:56:01 Moving is finished
+08.07 18:57:38 Scanning 42 point from 325
+08.07 18:57:38 Going to coordinates X=-17.732, Y=-39.059
+08.07 18:57:38 Moving is finished
+08.07 18:59:15 Scanning 43 point from 325
+08.07 18:59:15 Going to coordinates X=-17.682, Y=-39.059
+08.07 18:59:15 Moving is finished
+08.07 19:00:52 Scanning 44 point from 325
+08.07 19:00:52 Going to coordinates X=-17.632, Y=-39.059
+08.07 19:00:52 Moving is finished
+08.07 19:02:29 Scanning 45 point from 325
+08.07 19:02:29 Going to coordinates X=-17.582, Y=-39.059
+08.07 19:02:29 Moving is finished
+08.07 19:04:06 Scanning 46 point from 325
+08.07 19:04:06 Going to coordinates X=-17.532, Y=-39.059
+08.07 19:04:06 Moving is finished
+08.07 19:05:43 Scanning 47 point from 325
+08.07 19:05:43 Going to coordinates X=-17.482, Y=-39.059
+08.07 19:05:43 Moving is finished
+08.07 19:07:20 Scanning 48 point from 325
+08.07 19:07:20 Going to coordinates X=-17.432, Y=-39.059
+08.07 19:07:20 Moving is finished
+08.07 19:08:56 Scanning 49 point from 325
+08.07 19:08:56 Going to coordinates X=-17.382, Y=-39.059
+08.07 19:08:57 Moving is finished
+08.07 19:10:33 Scanning 50 point from 325
+08.07 19:10:33 Going to coordinates X=-18.582, Y=-38.959
+08.07 19:10:34 Moving is finished
+08.07 19:12:10 Scanning 51 point from 325
+08.07 19:12:10 Going to coordinates X=-18.532, Y=-38.959
+08.07 19:12:11 Moving is finished
+08.07 19:13:47 Scanning 52 point from 325
+08.07 19:13:47 Going to coordinates X=-18.482, Y=-38.959
+08.07 19:13:47 Moving is finished
+08.07 19:15:24 Scanning 53 point from 325
+08.07 19:15:24 Going to coordinates X=-18.432, Y=-38.959
+08.07 19:15:24 Moving is finished
+08.07 19:17:01 Scanning 54 point from 325
+08.07 19:17:01 Going to coordinates X=-18.382, Y=-38.959
+08.07 19:17:01 Moving is finished
+08.07 19:18:37 Scanning 55 point from 325
+08.07 19:18:37 Going to coordinates X=-18.332, Y=-38.959
+08.07 19:18:37 Moving is finished
+08.07 19:20:14 Scanning 56 point from 325
+08.07 19:20:14 Going to coordinates X=-18.282, Y=-38.959
+08.07 19:20:14 Moving is finished
+08.07 19:21:51 Scanning 57 point from 325
+08.07 19:21:51 Going to coordinates X=-18.232, Y=-38.959
+08.07 19:21:51 Moving is finished
+08.07 19:23:28 Scanning 58 point from 325
+08.07 19:23:28 Going to coordinates X=-18.182, Y=-38.959
+08.07 19:23:29 Moving is finished
+08.07 19:25:05 Scanning 59 point from 325
+08.07 19:25:05 Going to coordinates X=-18.132, Y=-38.959
+08.07 19:25:06 Moving is finished
+08.07 19:26:42 Scanning 60 point from 325
+08.07 19:26:42 Going to coordinates X=-18.082, Y=-38.959
+08.07 19:26:43 Moving is finished
+08.07 19:28:20 Scanning 61 point from 325
+08.07 19:28:20 Going to coordinates X=-18.032, Y=-38.959
+08.07 19:28:20 Moving is finished
+08.07 19:29:57 Scanning 62 point from 325
+08.07 19:29:57 Going to coordinates X=-17.982, Y=-38.959
+08.07 19:29:57 Moving is finished
+08.07 19:31:34 Scanning 63 point from 325
+08.07 19:31:34 Going to coordinates X=-17.932, Y=-38.959
+08.07 19:31:34 Moving is finished
+08.07 19:33:10 Scanning 64 point from 325
+08.07 19:33:10 Going to coordinates X=-17.882, Y=-38.959
+08.07 19:33:11 Moving is finished
+08.07 19:34:47 Scanning 65 point from 325
+08.07 19:34:47 Going to coordinates X=-17.832, Y=-38.959
+08.07 19:34:48 Moving is finished
+08.07 19:36:25 Scanning 66 point from 325
+08.07 19:36:25 Going to coordinates X=-17.782, Y=-38.959
+08.07 19:36:25 Moving is finished
+08.07 19:38:02 Scanning 67 point from 325
+08.07 19:38:02 Going to coordinates X=-17.732, Y=-38.959
+08.07 19:38:02 Moving is finished
+08.07 19:39:40 Scanning 68 point from 325
+08.07 19:39:40 Going to coordinates X=-17.682, Y=-38.959
+08.07 19:39:40 Moving is finished
+08.07 19:41:17 Scanning 69 point from 325
+08.07 19:41:17 Going to coordinates X=-17.632, Y=-38.959
+08.07 19:41:17 Moving is finished
+08.07 19:42:53 Scanning 70 point from 325
+08.07 19:42:53 Going to coordinates X=-17.582, Y=-38.959
+08.07 19:42:54 Moving is finished
+08.07 19:44:31 Scanning 71 point from 325
+08.07 19:44:31 Going to coordinates X=-17.532, Y=-38.959
+08.07 19:44:31 Moving is finished
+08.07 19:46:08 Scanning 72 point from 325
+08.07 19:46:08 Going to coordinates X=-17.482, Y=-38.959
+08.07 19:46:08 Moving is finished
+08.07 19:47:45 Scanning 73 point from 325
+08.07 19:47:45 Going to coordinates X=-17.432, Y=-38.959
+08.07 19:47:45 Moving is finished
+08.07 19:49:22 Scanning 74 point from 325
+08.07 19:49:22 Going to coordinates X=-17.382, Y=-38.959
+08.07 19:49:22 Moving is finished
+08.07 19:50:58 Scanning 75 point from 325
+08.07 19:50:58 Going to coordinates X=-18.582, Y=-38.859
+08.07 19:50:59 Moving is finished
+08.07 19:52:35 Scanning 76 point from 325
+08.07 19:52:35 Going to coordinates X=-18.532, Y=-38.859
+08.07 19:52:36 Moving is finished
+08.07 19:54:12 Scanning 77 point from 325
+08.07 19:54:12 Going to coordinates X=-18.482, Y=-38.859
+08.07 19:54:13 Moving is finished
+08.07 19:55:49 Scanning 78 point from 325
+08.07 19:55:49 Going to coordinates X=-18.432, Y=-38.859
+08.07 19:55:49 Moving is finished
+08.07 19:57:26 Scanning 79 point from 325
+08.07 19:57:26 Going to coordinates X=-18.382, Y=-38.859
+08.07 19:57:27 Moving is finished
+08.07 19:59:03 Scanning 80 point from 325
+08.07 19:59:03 Going to coordinates X=-18.332, Y=-38.859
+08.07 19:59:03 Moving is finished
+08.07 20:00:40 Scanning 81 point from 325
+08.07 20:00:40 Going to coordinates X=-18.282, Y=-38.859
+08.07 20:00:40 Moving is finished
+08.07 20:02:16 Scanning 82 point from 325
+08.07 20:02:16 Going to coordinates X=-18.232, Y=-38.859
+08.07 20:02:16 Moving is finished
+08.07 20:03:53 Scanning 83 point from 325
+08.07 20:03:53 Going to coordinates X=-18.182, Y=-38.859
+08.07 20:03:54 Moving is finished
+08.07 20:05:30 Scanning 84 point from 325
+08.07 20:05:30 Going to coordinates X=-18.132, Y=-38.859
+08.07 20:05:30 Moving is finished
+08.07 20:07:07 Scanning 85 point from 325
+08.07 20:07:07 Going to coordinates X=-18.082, Y=-38.859
+08.07 20:07:07 Moving is finished
+08.07 20:08:44 Scanning 86 point from 325
+08.07 20:08:44 Going to coordinates X=-18.032, Y=-38.859
+08.07 20:08:44 Moving is finished
+08.07 20:10:20 Scanning 87 point from 325
+08.07 20:10:20 Going to coordinates X=-17.982, Y=-38.859
+08.07 20:10:21 Moving is finished
+08.07 20:11:57 Scanning 88 point from 325
+08.07 20:11:57 Going to coordinates X=-17.932, Y=-38.859
+08.07 20:11:57 Moving is finished
+08.07 20:13:34 Scanning 89 point from 325
+08.07 20:13:34 Going to coordinates X=-17.882, Y=-38.859
+08.07 20:13:34 Moving is finished
+08.07 20:15:12 Scanning 90 point from 325
+08.07 20:15:12 Going to coordinates X=-17.832, Y=-38.859
+08.07 20:15:12 Moving is finished
+08.07 20:16:49 Scanning 91 point from 325
+08.07 20:16:49 Going to coordinates X=-17.782, Y=-38.859
+08.07 20:16:49 Moving is finished
+08.07 20:18:26 Scanning 92 point from 325
+08.07 20:18:26 Going to coordinates X=-17.732, Y=-38.859
+08.07 20:18:26 Moving is finished
+08.07 20:20:03 Scanning 93 point from 325
+08.07 20:20:03 Going to coordinates X=-17.682, Y=-38.859
+08.07 20:20:03 Moving is finished
+08.07 20:21:40 Scanning 94 point from 325
+08.07 20:21:40 Going to coordinates X=-17.632, Y=-38.859
+08.07 20:21:41 Moving is finished
+08.07 20:23:17 Scanning 95 point from 325
+08.07 20:23:17 Going to coordinates X=-17.582, Y=-38.859
+08.07 20:23:17 Moving is finished
+08.07 20:24:54 Scanning 96 point from 325
+08.07 20:24:54 Going to coordinates X=-17.532, Y=-38.859
+08.07 20:24:55 Moving is finished
+08.07 20:26:31 Scanning 97 point from 325
+08.07 20:26:31 Going to coordinates X=-17.482, Y=-38.859
+08.07 20:26:31 Moving is finished
+08.07 20:28:08 Scanning 98 point from 325
+08.07 20:28:08 Going to coordinates X=-17.432, Y=-38.859
+08.07 20:28:08 Moving is finished
+08.07 20:29:45 Scanning 99 point from 325
+08.07 20:29:45 Going to coordinates X=-17.382, Y=-38.859
+08.07 20:29:45 Moving is finished
+08.07 20:31:21 Scanning 100 point from 325
+08.07 20:31:21 Going to coordinates X=-18.582, Y=-38.759
+08.07 20:31:22 Moving is finished
+08.07 20:32:59 Scanning 101 point from 325
+08.07 20:32:59 Going to coordinates X=-18.532, Y=-38.759
+08.07 20:32:59 Moving is finished
+08.07 20:34:35 Scanning 102 point from 325
+08.07 20:34:35 Going to coordinates X=-18.482, Y=-38.759
+08.07 20:34:35 Moving is finished
+08.07 20:36:12 Scanning 103 point from 325
+08.07 20:36:12 Going to coordinates X=-18.432, Y=-38.759
+08.07 20:36:12 Moving is finished
+08.07 20:37:48 Scanning 104 point from 325
+08.07 20:37:48 Going to coordinates X=-18.382, Y=-38.759
+08.07 20:37:48 Moving is finished
+08.07 20:39:25 Scanning 105 point from 325
+08.07 20:39:25 Going to coordinates X=-18.332, Y=-38.759
+08.07 20:39:25 Moving is finished
+08.07 20:41:03 Scanning 106 point from 325
+08.07 20:41:03 Going to coordinates X=-18.282, Y=-38.759
+08.07 20:41:03 Moving is finished
+08.07 20:42:40 Scanning 107 point from 325
+08.07 20:42:40 Going to coordinates X=-18.232, Y=-38.759
+08.07 20:42:40 Moving is finished
+08.07 20:44:16 Scanning 108 point from 325
+08.07 20:44:16 Going to coordinates X=-18.182, Y=-38.759
+08.07 20:44:17 Moving is finished
+08.07 20:45:53 Scanning 109 point from 325
+08.07 20:45:53 Going to coordinates X=-18.132, Y=-38.759
+08.07 20:45:54 Moving is finished
+08.07 20:47:30 Scanning 110 point from 325
+08.07 20:47:30 Going to coordinates X=-18.082, Y=-38.759
+08.07 20:47:30 Moving is finished
+08.07 20:49:07 Scanning 111 point from 325
+08.07 20:49:07 Going to coordinates X=-18.032, Y=-38.759
+08.07 20:49:07 Moving is finished
+08.07 20:50:44 Scanning 112 point from 325
+08.07 20:50:44 Going to coordinates X=-17.982, Y=-38.759
+08.07 20:50:45 Moving is finished
+08.07 20:52:21 Scanning 113 point from 325
+08.07 20:52:21 Going to coordinates X=-17.932, Y=-38.759
+08.07 20:52:21 Moving is finished
+08.07 20:53:58 Scanning 114 point from 325
+08.07 20:53:58 Going to coordinates X=-17.882, Y=-38.759
+08.07 20:53:58 Moving is finished
+08.07 20:55:35 Scanning 115 point from 325
+08.07 20:55:35 Going to coordinates X=-17.832, Y=-38.759
+08.07 20:55:35 Moving is finished
+08.07 20:57:12 Scanning 116 point from 325
+08.07 20:57:12 Going to coordinates X=-17.782, Y=-38.759
+08.07 20:57:12 Moving is finished
+08.07 20:58:49 Scanning 117 point from 325
+08.07 20:58:49 Going to coordinates X=-17.732, Y=-38.759
+08.07 20:58:49 Moving is finished
+08.07 21:00:25 Scanning 118 point from 325
+08.07 21:00:25 Going to coordinates X=-17.682, Y=-38.759
+08.07 21:00:25 Moving is finished
+08.07 21:02:03 Scanning 119 point from 325
+08.07 21:02:03 Going to coordinates X=-17.632, Y=-38.759
+08.07 21:02:03 Moving is finished
+08.07 21:03:39 Scanning 120 point from 325
+08.07 21:03:39 Going to coordinates X=-17.582, Y=-38.759
+08.07 21:03:40 Moving is finished
+08.07 21:05:16 Scanning 121 point from 325
+08.07 21:05:16 Going to coordinates X=-17.532, Y=-38.759
+08.07 21:05:16 Moving is finished
+08.07 21:06:54 Scanning 122 point from 325
+08.07 21:06:54 Going to coordinates X=-17.482, Y=-38.759
+08.07 21:06:54 Moving is finished
+08.07 21:08:31 Scanning 123 point from 325
+08.07 21:08:31 Going to coordinates X=-17.432, Y=-38.759
+08.07 21:08:31 Moving is finished
+08.07 21:10:07 Scanning 124 point from 325
+08.07 21:10:07 Going to coordinates X=-17.382, Y=-38.759
+08.07 21:10:07 Moving is finished
+08.07 21:11:44 Scanning 125 point from 325
+08.07 21:11:44 Going to coordinates X=-18.582, Y=-38.659
+08.07 21:11:45 Moving is finished
+08.07 21:13:21 Scanning 126 point from 325
+08.07 21:13:21 Going to coordinates X=-18.532, Y=-38.659
+08.07 21:13:21 Moving is finished
+08.07 21:14:57 Scanning 127 point from 325
+08.07 21:14:57 Going to coordinates X=-18.482, Y=-38.659
+08.07 21:14:58 Moving is finished
+08.07 21:16:35 Scanning 128 point from 325
+08.07 21:16:35 Going to coordinates X=-18.432, Y=-38.659
+08.07 21:16:35 Moving is finished
+08.07 21:18:12 Scanning 129 point from 325
+08.07 21:18:12 Going to coordinates X=-18.382, Y=-38.659
+08.07 21:18:13 Moving is finished
+08.07 21:19:49 Scanning 130 point from 325
+08.07 21:19:49 Going to coordinates X=-18.332, Y=-38.659
+08.07 21:19:49 Moving is finished
+08.07 21:21:26 Scanning 131 point from 325
+08.07 21:21:26 Going to coordinates X=-18.282, Y=-38.659
+08.07 21:21:26 Moving is finished
+08.07 21:23:02 Scanning 132 point from 325
+08.07 21:23:02 Going to coordinates X=-18.232, Y=-38.659
+08.07 21:23:03 Moving is finished
+08.07 21:24:40 Scanning 133 point from 325
+08.07 21:24:40 Going to coordinates X=-18.182, Y=-38.659
+08.07 21:24:40 Moving is finished
+08.07 21:26:18 Scanning 134 point from 325
+08.07 21:26:18 Going to coordinates X=-18.132, Y=-38.659
+08.07 21:26:18 Moving is finished
+08.07 21:27:55 Scanning 135 point from 325
+08.07 21:27:55 Going to coordinates X=-18.082, Y=-38.659
+08.07 21:27:55 Moving is finished
+08.07 21:29:31 Scanning 136 point from 325
+08.07 21:29:31 Going to coordinates X=-18.032, Y=-38.659
+08.07 21:29:32 Moving is finished
+08.07 21:31:08 Scanning 137 point from 325
+08.07 21:31:08 Going to coordinates X=-17.982, Y=-38.659
+08.07 21:31:08 Moving is finished
+08.07 21:32:46 Scanning 138 point from 325
+08.07 21:32:46 Going to coordinates X=-17.932, Y=-38.659
+08.07 21:32:46 Moving is finished
+08.07 21:34:23 Scanning 139 point from 325
+08.07 21:34:23 Going to coordinates X=-17.882, Y=-38.659
+08.07 21:34:23 Moving is finished
+08.07 21:36:00 Scanning 140 point from 325
+08.07 21:36:00 Going to coordinates X=-17.832, Y=-38.659
+08.07 21:36:00 Moving is finished
+08.07 21:37:37 Scanning 141 point from 325
+08.07 21:37:37 Going to coordinates X=-17.782, Y=-38.659
+08.07 21:37:37 Moving is finished
+08.07 21:39:13 Scanning 142 point from 325
+08.07 21:39:13 Going to coordinates X=-17.732, Y=-38.659
+08.07 21:39:13 Moving is finished
+08.07 21:40:50 Scanning 143 point from 325
+08.07 21:40:50 Going to coordinates X=-17.682, Y=-38.659
+08.07 21:40:50 Moving is finished
+08.07 21:42:27 Scanning 144 point from 325
+08.07 21:42:27 Going to coordinates X=-17.632, Y=-38.659
+08.07 21:42:27 Moving is finished
+08.07 21:44:04 Scanning 145 point from 325
+08.07 21:44:04 Going to coordinates X=-17.582, Y=-38.659
+08.07 21:44:04 Moving is finished
+08.07 21:45:41 Scanning 146 point from 325
+08.07 21:45:41 Going to coordinates X=-17.532, Y=-38.659
+08.07 21:45:41 Moving is finished
+08.07 21:47:18 Scanning 147 point from 325
+08.07 21:47:18 Going to coordinates X=-17.482, Y=-38.659
+08.07 21:47:18 Moving is finished
+08.07 21:48:55 Scanning 148 point from 325
+08.07 21:48:55 Going to coordinates X=-17.432, Y=-38.659
+08.07 21:48:55 Moving is finished
+08.07 21:50:31 Scanning 149 point from 325
+08.07 21:50:31 Going to coordinates X=-17.382, Y=-38.659
+08.07 21:50:32 Moving is finished
+08.07 21:52:08 Scanning 150 point from 325
+08.07 21:52:08 Going to coordinates X=-18.582, Y=-38.559
+08.07 21:52:09 Moving is finished
+08.07 21:53:46 Scanning 151 point from 325
+08.07 21:53:46 Going to coordinates X=-18.532, Y=-38.559
+08.07 21:53:46 Moving is finished
+08.07 21:55:22 Scanning 152 point from 325
+08.07 21:55:22 Going to coordinates X=-18.482, Y=-38.559
+08.07 21:55:23 Moving is finished
+08.07 21:56:59 Scanning 153 point from 325
+08.07 21:56:59 Going to coordinates X=-18.432, Y=-38.559
+08.07 21:56:59 Moving is finished
+08.07 21:58:37 Scanning 154 point from 325
+08.07 21:58:37 Going to coordinates X=-18.382, Y=-38.559
+08.07 21:58:37 Moving is finished
+08.07 22:00:14 Scanning 155 point from 325
+08.07 22:00:14 Going to coordinates X=-18.332, Y=-38.559
+08.07 22:00:14 Moving is finished
+08.07 22:01:50 Scanning 156 point from 325
+08.07 22:01:50 Going to coordinates X=-18.282, Y=-38.559
+08.07 22:01:51 Moving is finished
+08.07 22:03:28 Scanning 157 point from 325
+08.07 22:03:28 Going to coordinates X=-18.232, Y=-38.559
+08.07 22:03:28 Moving is finished
+08.07 22:05:04 Scanning 158 point from 325
+08.07 22:05:04 Going to coordinates X=-18.182, Y=-38.559
+08.07 22:05:04 Moving is finished
+08.07 22:06:41 Scanning 159 point from 325
+08.07 22:06:41 Going to coordinates X=-18.132, Y=-38.559
+08.07 22:06:41 Moving is finished
+08.07 22:08:18 Scanning 160 point from 325
+08.07 22:08:18 Going to coordinates X=-18.082, Y=-38.559
+08.07 22:08:18 Moving is finished
+08.07 22:09:54 Scanning 161 point from 325
+08.07 22:09:54 Going to coordinates X=-18.032, Y=-38.559
+08.07 22:09:55 Moving is finished
+08.07 22:11:32 Scanning 162 point from 325
+08.07 22:11:32 Going to coordinates X=-17.982, Y=-38.559
+08.07 22:11:32 Moving is finished
+08.07 22:13:09 Scanning 163 point from 325
+08.07 22:13:09 Going to coordinates X=-17.932, Y=-38.559
+08.07 22:13:10 Moving is finished
+08.07 22:14:47 Scanning 164 point from 325
+08.07 22:14:47 Going to coordinates X=-17.882, Y=-38.559
+08.07 22:14:47 Moving is finished
+08.07 22:16:23 Scanning 165 point from 325
+08.07 22:16:23 Going to coordinates X=-17.832, Y=-38.559
+08.07 22:16:24 Moving is finished
+08.07 22:18:00 Scanning 166 point from 325
+08.07 22:18:00 Going to coordinates X=-17.782, Y=-38.559
+08.07 22:18:00 Moving is finished
+08.07 22:19:38 Scanning 167 point from 325
+08.07 22:19:38 Going to coordinates X=-17.732, Y=-38.559
+08.07 22:19:38 Moving is finished
+08.07 22:21:15 Scanning 168 point from 325
+08.07 22:21:15 Going to coordinates X=-17.682, Y=-38.559
+08.07 22:21:15 Moving is finished
+08.07 22:22:52 Scanning 169 point from 325
+08.07 22:22:52 Going to coordinates X=-17.632, Y=-38.559
+08.07 22:22:52 Moving is finished
+08.07 22:24:28 Scanning 170 point from 325
+08.07 22:24:28 Going to coordinates X=-17.582, Y=-38.559
+08.07 22:24:28 Moving is finished
+08.07 22:26:05 Scanning 171 point from 325
+08.07 22:26:05 Going to coordinates X=-17.532, Y=-38.559
+08.07 22:26:05 Moving is finished
+08.07 22:27:42 Scanning 172 point from 325
+08.07 22:27:42 Going to coordinates X=-17.482, Y=-38.559
+08.07 22:27:42 Moving is finished
+08.07 22:29:19 Scanning 173 point from 325
+08.07 22:29:19 Going to coordinates X=-17.432, Y=-38.559
+08.07 22:29:20 Moving is finished
+08.07 22:30:56 Scanning 174 point from 325
+08.07 22:30:56 Going to coordinates X=-17.382, Y=-38.559
+08.07 22:30:57 Moving is finished
+08.07 22:32:33 Scanning 175 point from 325
+08.07 22:32:33 Going to coordinates X=-18.582, Y=-38.459
+08.07 22:32:34 Moving is finished
+08.07 22:34:10 Scanning 176 point from 325
+08.07 22:34:10 Going to coordinates X=-18.532, Y=-38.459
+08.07 22:34:11 Moving is finished
+08.07 22:35:47 Scanning 177 point from 325
+08.07 22:35:47 Going to coordinates X=-18.482, Y=-38.459
+08.07 22:35:48 Moving is finished
+08.07 22:37:24 Scanning 178 point from 325
+08.07 22:37:24 Going to coordinates X=-18.432, Y=-38.459
+08.07 22:37:24 Moving is finished
+08.07 22:39:00 Scanning 179 point from 325
+08.07 22:39:00 Going to coordinates X=-18.382, Y=-38.459
+08.07 22:39:01 Moving is finished
+08.07 22:40:38 Scanning 180 point from 325
+08.07 22:40:38 Going to coordinates X=-18.332, Y=-38.459
+08.07 22:40:38 Moving is finished
+08.07 22:42:15 Scanning 181 point from 325
+08.07 22:42:15 Going to coordinates X=-18.282, Y=-38.459
+08.07 22:42:15 Moving is finished
+08.07 22:43:52 Scanning 182 point from 325
+08.07 22:43:52 Going to coordinates X=-18.232, Y=-38.459
+08.07 22:43:52 Moving is finished
+08.07 22:45:28 Scanning 183 point from 325
+08.07 22:45:28 Going to coordinates X=-18.182, Y=-38.459
+08.07 22:45:29 Moving is finished
+08.07 22:47:05 Scanning 184 point from 325
+08.07 22:47:05 Going to coordinates X=-18.132, Y=-38.459
+08.07 22:47:05 Moving is finished
+08.07 22:48:42 Scanning 185 point from 325
+08.07 22:48:42 Going to coordinates X=-18.082, Y=-38.459
+08.07 22:48:42 Moving is finished
+08.07 22:50:20 Scanning 186 point from 325
+08.07 22:50:20 Going to coordinates X=-18.032, Y=-38.459
+08.07 22:50:20 Moving is finished
+08.07 22:51:56 Scanning 187 point from 325
+08.07 22:51:56 Going to coordinates X=-17.982, Y=-38.459
+08.07 22:51:57 Moving is finished
+08.07 22:53:34 Scanning 188 point from 325
+08.07 22:53:34 Going to coordinates X=-17.932, Y=-38.459
+08.07 22:53:34 Moving is finished
+08.07 22:55:11 Scanning 189 point from 325
+08.07 22:55:11 Going to coordinates X=-17.882, Y=-38.459
+08.07 22:55:12 Moving is finished
+08.07 22:56:48 Scanning 190 point from 325
+08.07 22:56:48 Going to coordinates X=-17.832, Y=-38.459
+08.07 22:56:49 Moving is finished
+08.07 22:58:26 Scanning 191 point from 325
+08.07 22:58:26 Going to coordinates X=-17.782, Y=-38.459
+08.07 22:58:26 Moving is finished
+08.07 23:00:03 Scanning 192 point from 325
+08.07 23:00:03 Going to coordinates X=-17.732, Y=-38.459
+08.07 23:00:03 Moving is finished
+08.07 23:01:40 Scanning 193 point from 325
+08.07 23:01:40 Going to coordinates X=-17.682, Y=-38.459
+08.07 23:01:40 Moving is finished
+08.07 23:03:17 Scanning 194 point from 325
+08.07 23:03:17 Going to coordinates X=-17.632, Y=-38.459
+08.07 23:03:18 Moving is finished
+08.07 23:04:54 Scanning 195 point from 325
+08.07 23:04:54 Going to coordinates X=-17.582, Y=-38.459
+08.07 23:04:55 Moving is finished
+08.07 23:06:31 Scanning 196 point from 325
+08.07 23:06:31 Going to coordinates X=-17.532, Y=-38.459
+08.07 23:06:31 Moving is finished
+08.07 23:08:09 Scanning 197 point from 325
+08.07 23:08:09 Going to coordinates X=-17.482, Y=-38.459
+08.07 23:08:09 Moving is finished
+08.07 23:09:46 Scanning 198 point from 325
+08.07 23:09:46 Going to coordinates X=-17.432, Y=-38.459
+08.07 23:09:46 Moving is finished
+08.07 23:11:23 Scanning 199 point from 325
+08.07 23:11:23 Going to coordinates X=-17.382, Y=-38.459
+08.07 23:11:23 Moving is finished
+08.07 23:13:01 Scanning 200 point from 325
+08.07 23:13:01 Going to coordinates X=-18.582, Y=-38.359
+08.07 23:13:01 Moving is finished
+08.07 23:14:39 Scanning 201 point from 325
+08.07 23:14:39 Going to coordinates X=-18.532, Y=-38.359
+08.07 23:14:39 Moving is finished
+08.07 23:16:16 Scanning 202 point from 325
+08.07 23:16:16 Going to coordinates X=-18.482, Y=-38.359
+08.07 23:16:16 Moving is finished
+08.07 23:17:53 Scanning 203 point from 325
+08.07 23:17:53 Going to coordinates X=-18.432, Y=-38.359
+08.07 23:17:53 Moving is finished
+08.07 23:19:29 Scanning 204 point from 325
+08.07 23:19:29 Going to coordinates X=-18.382, Y=-38.359
+08.07 23:19:30 Moving is finished
+08.07 23:21:07 Scanning 205 point from 325
+08.07 23:21:07 Going to coordinates X=-18.332, Y=-38.359
+08.07 23:21:07 Moving is finished
+08.07 23:22:43 Scanning 206 point from 325
+08.07 23:22:43 Going to coordinates X=-18.282, Y=-38.359
+08.07 23:22:44 Moving is finished
+08.07 23:24:20 Scanning 207 point from 325
+08.07 23:24:20 Going to coordinates X=-18.232, Y=-38.359
+08.07 23:24:20 Moving is finished
+08.07 23:25:57 Scanning 208 point from 325
+08.07 23:25:57 Going to coordinates X=-18.182, Y=-38.359
+08.07 23:25:57 Moving is finished
+08.07 23:27:33 Scanning 209 point from 325
+08.07 23:27:33 Going to coordinates X=-18.132, Y=-38.359
+08.07 23:27:33 Moving is finished
+08.07 23:29:10 Scanning 210 point from 325
+08.07 23:29:10 Going to coordinates X=-18.082, Y=-38.359
+08.07 23:29:10 Moving is finished
+08.07 23:30:47 Scanning 211 point from 325
+08.07 23:30:47 Going to coordinates X=-18.032, Y=-38.359
+08.07 23:30:47 Moving is finished
+08.07 23:32:24 Scanning 212 point from 325
+08.07 23:32:24 Going to coordinates X=-17.982, Y=-38.359
+08.07 23:32:24 Moving is finished
+08.07 23:34:01 Scanning 213 point from 325
+08.07 23:34:01 Going to coordinates X=-17.932, Y=-38.359
+08.07 23:34:01 Moving is finished
+08.07 23:35:38 Scanning 214 point from 325
+08.07 23:35:38 Going to coordinates X=-17.882, Y=-38.359
+08.07 23:35:38 Moving is finished
+08.07 23:37:15 Scanning 215 point from 325
+08.07 23:37:15 Going to coordinates X=-17.832, Y=-38.359
+08.07 23:37:15 Moving is finished
+08.07 23:38:52 Scanning 216 point from 325
+08.07 23:38:52 Going to coordinates X=-17.782, Y=-38.359
+08.07 23:38:53 Moving is finished
+08.07 23:40:30 Scanning 217 point from 325
+08.07 23:40:30 Going to coordinates X=-17.732, Y=-38.359
+08.07 23:40:30 Moving is finished
+08.07 23:42:07 Scanning 218 point from 325
+08.07 23:42:07 Going to coordinates X=-17.682, Y=-38.359
+08.07 23:42:07 Moving is finished
+08.07 23:43:43 Scanning 219 point from 325
+08.07 23:43:43 Going to coordinates X=-17.632, Y=-38.359
+08.07 23:43:44 Moving is finished
+08.07 23:45:20 Scanning 220 point from 325
+08.07 23:45:20 Going to coordinates X=-17.582, Y=-38.359
+08.07 23:45:21 Moving is finished
+08.07 23:46:57 Scanning 221 point from 325
+08.07 23:46:57 Going to coordinates X=-17.532, Y=-38.359
+08.07 23:46:57 Moving is finished
+08.07 23:48:34 Scanning 222 point from 325
+08.07 23:48:34 Going to coordinates X=-17.482, Y=-38.359
+08.07 23:48:34 Moving is finished
+08.07 23:50:11 Scanning 223 point from 325
+08.07 23:50:11 Going to coordinates X=-17.432, Y=-38.359
+08.07 23:50:11 Moving is finished
+08.07 23:51:48 Scanning 224 point from 325
+08.07 23:51:48 Going to coordinates X=-17.382, Y=-38.359
+08.07 23:51:48 Moving is finished
+08.07 23:53:24 Scanning 225 point from 325
+08.07 23:53:24 Going to coordinates X=-18.582, Y=-38.259
+08.07 23:53:25 Moving is finished
+08.07 23:55:02 Scanning 226 point from 325
+08.07 23:55:02 Going to coordinates X=-18.532, Y=-38.259
+08.07 23:55:02 Moving is finished
+08.07 23:56:38 Scanning 227 point from 325
+08.07 23:56:38 Going to coordinates X=-18.482, Y=-38.259
+08.07 23:56:39 Moving is finished
+08.07 23:58:15 Scanning 228 point from 325
+08.07 23:58:15 Going to coordinates X=-18.432, Y=-38.259
+08.07 23:58:15 Moving is finished
+08.07 23:59:52 Scanning 229 point from 325
+08.07 23:59:52 Going to coordinates X=-18.382, Y=-38.259
+08.07 23:59:52 Moving is finished
+09.07 00:01:29 Scanning 230 point from 325
+09.07 00:01:29 Going to coordinates X=-18.332, Y=-38.259
+09.07 00:01:29 Moving is finished
+09.07 00:03:06 Scanning 231 point from 325
+09.07 00:03:06 Going to coordinates X=-18.282, Y=-38.259
+09.07 00:03:06 Moving is finished
+09.07 00:04:43 Scanning 232 point from 325
+09.07 00:04:43 Going to coordinates X=-18.232, Y=-38.259
+09.07 00:04:43 Moving is finished
+09.07 00:06:20 Scanning 233 point from 325
+09.07 00:06:20 Going to coordinates X=-18.182, Y=-38.259
+09.07 00:06:21 Moving is finished
+09.07 00:07:58 Scanning 234 point from 325
+09.07 00:07:58 Going to coordinates X=-18.132, Y=-38.259
+09.07 00:07:58 Moving is finished
+09.07 00:09:35 Scanning 235 point from 325
+09.07 00:09:35 Going to coordinates X=-18.082, Y=-38.259
+09.07 00:09:35 Moving is finished
+09.07 00:11:13 Scanning 236 point from 325
+09.07 00:11:13 Going to coordinates X=-18.032, Y=-38.259
+09.07 00:11:13 Moving is finished
+09.07 00:12:49 Scanning 237 point from 325
+09.07 00:12:49 Going to coordinates X=-17.982, Y=-38.259
+09.07 00:12:49 Moving is finished
+09.07 00:14:26 Scanning 238 point from 325
+09.07 00:14:26 Going to coordinates X=-17.932, Y=-38.259
+09.07 00:14:26 Moving is finished
+09.07 00:16:03 Scanning 239 point from 325
+09.07 00:16:03 Going to coordinates X=-17.882, Y=-38.259
+09.07 00:16:03 Moving is finished
+09.07 00:17:40 Scanning 240 point from 325
+09.07 00:17:40 Going to coordinates X=-17.832, Y=-38.259
+09.07 00:17:40 Moving is finished
+09.07 00:19:17 Scanning 241 point from 325
+09.07 00:19:17 Going to coordinates X=-17.782, Y=-38.259
+09.07 00:19:17 Moving is finished
+09.07 00:20:54 Scanning 242 point from 325
+09.07 00:20:54 Going to coordinates X=-17.732, Y=-38.259
+09.07 00:20:54 Moving is finished
+09.07 00:22:30 Scanning 243 point from 325
+09.07 00:22:30 Going to coordinates X=-17.682, Y=-38.259
+09.07 00:22:30 Moving is finished
+09.07 00:24:07 Scanning 244 point from 325
+09.07 00:24:07 Going to coordinates X=-17.632, Y=-38.259
+09.07 00:24:07 Moving is finished
+09.07 00:25:44 Scanning 245 point from 325
+09.07 00:25:44 Going to coordinates X=-17.582, Y=-38.259
+09.07 00:25:44 Moving is finished
+09.07 00:27:21 Scanning 246 point from 325
+09.07 00:27:21 Going to coordinates X=-17.532, Y=-38.259
+09.07 00:27:21 Moving is finished
+09.07 00:28:58 Scanning 247 point from 325
+09.07 00:28:58 Going to coordinates X=-17.482, Y=-38.259
+09.07 00:28:58 Moving is finished
+09.07 00:30:35 Scanning 248 point from 325
+09.07 00:30:35 Going to coordinates X=-17.432, Y=-38.259
+09.07 00:30:35 Moving is finished
+09.07 00:32:11 Scanning 249 point from 325
+09.07 00:32:11 Going to coordinates X=-17.382, Y=-38.259
+09.07 00:32:11 Moving is finished
+09.07 00:33:49 Scanning 250 point from 325
+09.07 00:33:49 Going to coordinates X=-18.582, Y=-38.159
+09.07 00:33:49 Moving is finished
+09.07 00:35:27 Scanning 251 point from 325
+09.07 00:35:27 Going to coordinates X=-18.532, Y=-38.159
+09.07 00:35:27 Moving is finished
+09.07 00:37:03 Scanning 252 point from 325
+09.07 00:37:03 Going to coordinates X=-18.482, Y=-38.159
+09.07 00:37:04 Moving is finished
+09.07 00:38:41 Scanning 253 point from 325
+09.07 00:38:41 Going to coordinates X=-18.432, Y=-38.159
+09.07 00:38:41 Moving is finished
+09.07 00:40:17 Scanning 254 point from 325
+09.07 00:40:17 Going to coordinates X=-18.382, Y=-38.159
+09.07 00:40:18 Moving is finished
+09.07 00:41:54 Scanning 255 point from 325
+09.07 00:41:54 Going to coordinates X=-18.332, Y=-38.159
+09.07 00:41:55 Moving is finished
+09.07 00:43:31 Scanning 256 point from 325
+09.07 00:43:31 Going to coordinates X=-18.282, Y=-38.159
+09.07 00:43:31 Moving is finished
+09.07 00:45:08 Scanning 257 point from 325
+09.07 00:45:08 Going to coordinates X=-18.232, Y=-38.159
+09.07 00:45:08 Moving is finished
+09.07 00:46:46 Scanning 258 point from 325
+09.07 00:46:46 Going to coordinates X=-18.182, Y=-38.159
+09.07 00:46:46 Moving is finished
+09.07 00:48:22 Scanning 259 point from 325
+09.07 00:48:22 Going to coordinates X=-18.132, Y=-38.159
+09.07 00:48:23 Moving is finished
+09.07 00:49:59 Scanning 260 point from 325
+09.07 00:49:59 Going to coordinates X=-18.082, Y=-38.159
+09.07 00:49:59 Moving is finished
+09.07 00:51:35 Scanning 261 point from 325
+09.07 00:51:35 Going to coordinates X=-18.032, Y=-38.159
+09.07 00:51:36 Moving is finished
+09.07 00:53:12 Scanning 262 point from 325
+09.07 00:53:12 Going to coordinates X=-17.982, Y=-38.159
+09.07 00:53:13 Moving is finished
+09.07 00:54:50 Scanning 263 point from 325
+09.07 00:54:50 Going to coordinates X=-17.932, Y=-38.159
+09.07 00:54:50 Moving is finished
+09.07 00:56:26 Scanning 264 point from 325
+09.07 00:56:26 Going to coordinates X=-17.882, Y=-38.159
+09.07 00:56:27 Moving is finished
+09.07 00:58:03 Scanning 265 point from 325
+09.07 00:58:03 Going to coordinates X=-17.832, Y=-38.159
+09.07 00:58:03 Moving is finished
+09.07 00:59:40 Scanning 266 point from 325
+09.07 00:59:40 Going to coordinates X=-17.782, Y=-38.159
+09.07 00:59:40 Moving is finished
+09.07 01:01:16 Scanning 267 point from 325
+09.07 01:01:16 Going to coordinates X=-17.732, Y=-38.159
+09.07 01:01:17 Moving is finished
+09.07 01:02:54 Scanning 268 point from 325
+09.07 01:02:54 Going to coordinates X=-17.682, Y=-38.159
+09.07 01:02:54 Moving is finished
+09.07 01:04:31 Scanning 269 point from 325
+09.07 01:04:31 Going to coordinates X=-17.632, Y=-38.159
+09.07 01:04:32 Moving is finished
+09.07 01:06:09 Scanning 270 point from 325
+09.07 01:06:09 Going to coordinates X=-17.582, Y=-38.159
+09.07 01:06:09 Moving is finished
+09.07 01:07:46 Scanning 271 point from 325
+09.07 01:07:46 Going to coordinates X=-17.532, Y=-38.159
+09.07 01:07:46 Moving is finished
+09.07 01:09:23 Scanning 272 point from 325
+09.07 01:09:23 Going to coordinates X=-17.482, Y=-38.159
+09.07 01:09:24 Moving is finished
+09.07 01:11:00 Scanning 273 point from 325
+09.07 01:11:00 Going to coordinates X=-17.432, Y=-38.159
+09.07 01:11:00 Moving is finished
+09.07 01:12:37 Scanning 274 point from 325
+09.07 01:12:37 Going to coordinates X=-17.382, Y=-38.159
+09.07 01:12:37 Moving is finished
+09.07 01:14:13 Scanning 275 point from 325
+09.07 01:14:13 Going to coordinates X=-18.582, Y=-38.059
+09.07 01:14:14 Moving is finished
+09.07 01:15:51 Scanning 276 point from 325
+09.07 01:15:51 Going to coordinates X=-18.532, Y=-38.059
+09.07 01:15:51 Moving is finished
+09.07 01:17:28 Scanning 277 point from 325
+09.07 01:17:28 Going to coordinates X=-18.482, Y=-38.059
+09.07 01:17:28 Moving is finished
+09.07 01:19:05 Scanning 278 point from 325
+09.07 01:19:05 Going to coordinates X=-18.432, Y=-38.059
+09.07 01:19:05 Moving is finished
+09.07 01:20:42 Scanning 279 point from 325
+09.07 01:20:42 Going to coordinates X=-18.382, Y=-38.059
+09.07 01:20:42 Moving is finished
+09.07 01:22:18 Scanning 280 point from 325
+09.07 01:22:18 Going to coordinates X=-18.332, Y=-38.059
+09.07 01:22:19 Moving is finished
+09.07 01:23:55 Scanning 281 point from 325
+09.07 01:23:55 Going to coordinates X=-18.282, Y=-38.059
+09.07 01:23:55 Moving is finished
+09.07 01:25:32 Scanning 282 point from 325
+09.07 01:25:32 Going to coordinates X=-18.232, Y=-38.059
+09.07 01:25:32 Moving is finished
+09.07 01:27:09 Scanning 283 point from 325
+09.07 01:27:09 Going to coordinates X=-18.182, Y=-38.059
+09.07 01:27:09 Moving is finished
+09.07 01:28:45 Scanning 284 point from 325
+09.07 01:28:45 Going to coordinates X=-18.132, Y=-38.059
+09.07 01:28:46 Moving is finished
+09.07 01:30:22 Scanning 285 point from 325
+09.07 01:30:22 Going to coordinates X=-18.082, Y=-38.059
+09.07 01:30:22 Moving is finished
+09.07 01:31:59 Scanning 286 point from 325
+09.07 01:31:59 Going to coordinates X=-18.032, Y=-38.059
+09.07 01:31:59 Moving is finished
+09.07 01:33:36 Scanning 287 point from 325
+09.07 01:33:36 Going to coordinates X=-17.982, Y=-38.059
+09.07 01:33:36 Moving is finished
+09.07 01:35:13 Scanning 288 point from 325
+09.07 01:35:13 Going to coordinates X=-17.932, Y=-38.059
+09.07 01:35:13 Moving is finished
+09.07 01:36:49 Scanning 289 point from 325
+09.07 01:36:49 Going to coordinates X=-17.882, Y=-38.059
+09.07 01:36:50 Moving is finished
+09.07 01:38:26 Scanning 290 point from 325
+09.07 01:38:26 Going to coordinates X=-17.832, Y=-38.059
+09.07 01:38:26 Moving is finished
+09.07 01:40:03 Scanning 291 point from 325
+09.07 01:40:03 Going to coordinates X=-17.782, Y=-38.059
+09.07 01:40:04 Moving is finished
+09.07 01:41:40 Scanning 292 point from 325
+09.07 01:41:40 Going to coordinates X=-17.732, Y=-38.059
+09.07 01:41:41 Moving is finished
+09.07 01:43:17 Scanning 293 point from 325
+09.07 01:43:17 Going to coordinates X=-17.682, Y=-38.059
+09.07 01:43:18 Moving is finished
+09.07 01:44:54 Scanning 294 point from 325
+09.07 01:44:54 Going to coordinates X=-17.632, Y=-38.059
+09.07 01:44:54 Moving is finished
+09.07 01:46:31 Scanning 295 point from 325
+09.07 01:46:31 Going to coordinates X=-17.582, Y=-38.059
+09.07 01:46:31 Moving is finished
+09.07 01:48:08 Scanning 296 point from 325
+09.07 01:48:08 Going to coordinates X=-17.532, Y=-38.059
+09.07 01:48:08 Moving is finished
+09.07 01:49:45 Scanning 297 point from 325
+09.07 01:49:45 Going to coordinates X=-17.482, Y=-38.059
+09.07 01:49:46 Moving is finished
+09.07 01:51:22 Scanning 298 point from 325
+09.07 01:51:22 Going to coordinates X=-17.432, Y=-38.059
+09.07 01:51:23 Moving is finished
+09.07 01:52:59 Scanning 299 point from 325
+09.07 01:52:59 Going to coordinates X=-17.382, Y=-38.059
+09.07 01:53:00 Moving is finished
+09.07 01:54:37 Scanning 300 point from 325
+09.07 01:54:37 Going to coordinates X=-18.582, Y=-37.959
+09.07 01:54:38 Moving is finished
+09.07 01:56:15 Scanning 301 point from 325
+09.07 01:56:15 Going to coordinates X=-18.532, Y=-37.959
+09.07 01:56:15 Moving is finished
+09.07 01:57:52 Scanning 302 point from 325
+09.07 01:57:52 Going to coordinates X=-18.482, Y=-37.959
+09.07 01:57:52 Moving is finished
+09.07 01:59:28 Scanning 303 point from 325
+09.07 01:59:28 Going to coordinates X=-18.432, Y=-37.959
+09.07 01:59:28 Moving is finished
+09.07 02:01:05 Scanning 304 point from 325
+09.07 02:01:05 Going to coordinates X=-18.382, Y=-37.959
+09.07 02:01:06 Moving is finished
+09.07 02:02:43 Scanning 305 point from 325
+09.07 02:02:43 Going to coordinates X=-18.332, Y=-37.959
+09.07 02:02:43 Moving is finished
+09.07 02:04:20 Scanning 306 point from 325
+09.07 02:04:20 Going to coordinates X=-18.282, Y=-37.959
+09.07 02:04:20 Moving is finished
+09.07 02:05:56 Scanning 307 point from 325
+09.07 02:05:56 Going to coordinates X=-18.232, Y=-37.959
+09.07 02:05:57 Moving is finished
+09.07 02:07:33 Scanning 308 point from 325
+09.07 02:07:33 Going to coordinates X=-18.182, Y=-37.959
+09.07 02:07:34 Moving is finished
+09.07 02:09:10 Scanning 309 point from 325
+09.07 02:09:10 Going to coordinates X=-18.132, Y=-37.959
+09.07 02:09:11 Moving is finished
+09.07 02:10:48 Scanning 310 point from 325
+09.07 02:10:48 Going to coordinates X=-18.082, Y=-37.959
+09.07 02:10:48 Moving is finished
+09.07 02:12:25 Scanning 311 point from 325
+09.07 02:12:25 Going to coordinates X=-18.032, Y=-37.959
+09.07 02:12:25 Moving is finished
+09.07 02:14:02 Scanning 312 point from 325
+09.07 02:14:02 Going to coordinates X=-17.982, Y=-37.959
+09.07 02:14:02 Moving is finished
+09.07 02:15:39 Scanning 313 point from 325
+09.07 02:15:39 Going to coordinates X=-17.932, Y=-37.959
+09.07 02:15:39 Moving is finished
+09.07 02:17:15 Scanning 314 point from 325
+09.07 02:17:15 Going to coordinates X=-17.882, Y=-37.959
+09.07 02:17:16 Moving is finished
+09.07 02:18:52 Scanning 315 point from 325
+09.07 02:18:52 Going to coordinates X=-17.832, Y=-37.959
+09.07 02:18:52 Moving is finished
+09.07 02:20:29 Scanning 316 point from 325
+09.07 02:20:29 Going to coordinates X=-17.782, Y=-37.959
+09.07 02:20:29 Moving is finished
+09.07 02:22:05 Scanning 317 point from 325
+09.07 02:22:05 Going to coordinates X=-17.732, Y=-37.959
+09.07 02:22:06 Moving is finished
+09.07 02:23:42 Scanning 318 point from 325
+09.07 02:23:42 Going to coordinates X=-17.682, Y=-37.959
+09.07 02:23:42 Moving is finished
+09.07 02:25:19 Scanning 319 point from 325
+09.07 02:25:19 Going to coordinates X=-17.632, Y=-37.959
+09.07 02:25:19 Moving is finished
+09.07 02:26:56 Scanning 320 point from 325
+09.07 02:26:56 Going to coordinates X=-17.582, Y=-37.959
+09.07 02:26:56 Moving is finished
+09.07 02:28:32 Scanning 321 point from 325
+09.07 02:28:32 Going to coordinates X=-17.532, Y=-37.959
+09.07 02:28:33 Moving is finished
+09.07 02:30:09 Scanning 322 point from 325
+09.07 02:30:09 Going to coordinates X=-17.482, Y=-37.959
+09.07 02:30:09 Moving is finished
+09.07 02:31:46 Scanning 323 point from 325
+09.07 02:31:46 Going to coordinates X=-17.432, Y=-37.959
+09.07 02:31:46 Moving is finished
+09.07 02:33:23 Scanning 324 point from 325
+09.07 02:33:23 Going to coordinates X=-17.382, Y=-37.959
+09.07 02:33:23 Moving is finished
+09.07 10:51:29 Row 0: 09.07 10:51:29 Circle: x: -15.418, y: -38.103, rad: 1.000, n: 10, fname: dvd30
+09.07 10:51:29 Scanning point 1 of circle
+09.07 10:51:29 Going to coordinates X=-14.418, Y=-38.103
+09.07 10:51:29 Moving is finished
+09.07 10:51:30 Starting signal collection to the file dvd30_circle_1
+09.07 10:51:42 Data is collected!
+09.07 10:51:42 Scanning point 2 of circle
+09.07 10:51:42 Going to coordinates X=-14.609, Y=-37.515
+09.07 10:51:42 Moving is finished
+09.07 10:51:43 Starting signal collection to the file dvd30_circle_2
+09.07 10:51:55 Data is collected!
+09.07 10:51:55 Scanning point 3 of circle
+09.07 10:51:55 Going to coordinates X=-15.109, Y=-37.152
+09.07 10:51:56 Moving is finished
+09.07 10:51:57 Starting signal collection to the file dvd30_circle_3
+09.07 10:52:09 Data is collected!
+09.07 10:52:09 Scanning point 4 of circle
+09.07 10:52:09 Going to coordinates X=-15.727, Y=-37.152
+09.07 10:52:09 Moving is finished
+09.07 10:52:10 Starting signal collection to the file dvd30_circle_4
+09.07 10:52:17 Stopped!

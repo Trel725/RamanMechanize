@@ -1,0 +1,411 @@
+15.07 14:58:56 Initializing grbl...
+15.07 14:58:57 Got the response: b''
+15.07 15:00:59 Can't send the command to GRBL
+15.07 15:00:59 Write timeout15.07 15:00:59 Write timeout
+
+15.07 15:01:56 Row 0: 15.07 15:01:56 Map: x1: -15.817, y1: -39.067, x2: -15.875, y2: -39.046, xres: 0.010, yres: 0.010, fname: blmcooh
+15.07 15:01:56 Scanning 0 point from 28
+15.07 15:01:56 Going to coordinates X=-15.875, Y=-39.067
+15.07 15:01:56 Moving is finished
+15.07 15:03:33 Scanning 1 point from 28
+15.07 15:03:33 Going to coordinates X=-15.865, Y=-39.067
+15.07 15:03:33 Moving is finished
+15.07 15:05:10 Scanning 2 point from 28
+15.07 15:05:10 Going to coordinates X=-15.855, Y=-39.067
+15.07 15:05:10 Moving is finished
+15.07 15:06:48 Scanning 3 point from 28
+15.07 15:06:48 Going to coordinates X=-15.845, Y=-39.067
+15.07 15:06:48 Moving is finished
+15.07 15:08:25 Scanning 4 point from 28
+15.07 15:08:25 Going to coordinates X=-15.835, Y=-39.067
+15.07 15:08:25 Moving is finished
+15.07 15:10:02 Scanning 5 point from 28
+15.07 15:10:02 Going to coordinates X=-15.825, Y=-39.067
+15.07 15:10:02 Moving is finished
+15.07 15:11:39 Scanning 6 point from 28
+15.07 15:11:39 Going to coordinates X=-15.815, Y=-39.067
+15.07 15:11:39 Moving is finished
+15.07 15:13:15 Scanning 7 point from 28
+15.07 15:13:15 Going to coordinates X=-15.875, Y=-39.057
+15.07 15:13:16 Moving is finished
+15.07 15:14:52 Scanning 8 point from 28
+15.07 15:14:52 Going to coordinates X=-15.865, Y=-39.057
+15.07 15:14:52 Moving is finished
+15.07 15:16:28 Scanning 9 point from 28
+15.07 15:16:28 Going to coordinates X=-15.855, Y=-39.057
+15.07 15:16:29 Moving is finished
+15.07 15:18:05 Scanning 10 point from 28
+15.07 15:18:05 Going to coordinates X=-15.845, Y=-39.057
+15.07 15:18:05 Moving is finished
+15.07 15:19:42 Scanning 11 point from 28
+15.07 15:19:42 Going to coordinates X=-15.835, Y=-39.057
+15.07 15:19:42 Moving is finished
+15.07 15:21:19 Scanning 12 point from 28
+15.07 15:21:19 Going to coordinates X=-15.825, Y=-39.057
+15.07 15:21:19 Moving is finished
+15.07 15:22:56 Scanning 13 point from 28
+15.07 15:22:56 Going to coordinates X=-15.815, Y=-39.057
+15.07 15:22:56 Moving is finished
+15.07 15:24:33 Scanning 14 point from 28
+15.07 15:24:33 Going to coordinates X=-15.875, Y=-39.047
+15.07 15:24:33 Moving is finished
+15.07 15:26:10 Scanning 15 point from 28
+15.07 15:26:10 Going to coordinates X=-15.865, Y=-39.047
+15.07 15:26:10 Moving is finished
+15.07 15:27:47 Scanning 16 point from 28
+15.07 15:27:47 Going to coordinates X=-15.855, Y=-39.047
+15.07 15:27:47 Moving is finished
+15.07 15:29:24 Scanning 17 point from 28
+15.07 15:29:24 Going to coordinates X=-15.845, Y=-39.047
+15.07 15:29:24 Moving is finished
+15.07 15:31:01 Scanning 18 point from 28
+15.07 15:31:01 Going to coordinates X=-15.835, Y=-39.047
+15.07 15:31:01 Moving is finished
+15.07 15:32:37 Scanning 19 point from 28
+15.07 15:32:37 Going to coordinates X=-15.825, Y=-39.047
+15.07 15:32:37 Moving is finished
+15.07 15:34:14 Scanning 20 point from 28
+15.07 15:34:14 Going to coordinates X=-15.815, Y=-39.047
+15.07 15:34:14 Moving is finished
+15.07 15:35:51 Scanning 21 point from 28
+15.07 15:35:51 Going to coordinates X=-15.875, Y=-39.037
+15.07 15:35:52 Moving is finished
+15.07 15:37:28 Scanning 22 point from 28
+15.07 15:37:28 Going to coordinates X=-15.865, Y=-39.037
+15.07 15:37:28 Moving is finished
+15.07 15:39:05 Scanning 23 point from 28
+15.07 15:39:05 Going to coordinates X=-15.855, Y=-39.037
+15.07 15:39:05 Moving is finished
+15.07 15:40:42 Scanning 24 point from 28
+15.07 15:40:42 Going to coordinates X=-15.845, Y=-39.037
+15.07 15:40:42 Moving is finished
+15.07 15:42:19 Scanning 25 point from 28
+15.07 15:42:19 Going to coordinates X=-15.835, Y=-39.037
+15.07 15:42:20 Moving is finished
+15.07 15:43:56 Scanning 26 point from 28
+15.07 15:43:56 Going to coordinates X=-15.825, Y=-39.037
+15.07 15:43:56 Moving is finished
+15.07 15:45:32 Scanning 27 point from 28
+15.07 15:45:32 Going to coordinates X=-15.815, Y=-39.037
+15.07 15:45:32 Moving is finished
+15.07 15:47:09 Row 1: 15.07 15:47:09 Goto: -15.745; -39.067; 0.000
+15.07 15:47:09 Going to coordinates X=-15.745, Y=-39.067
+15.07 15:47:09 Moving is finished
+15.07 15:47:10 Row 2: 15.07 15:47:10 Raman: blmcooh
+15.07 15:47:10 Starting signal collection to the file blmcooh
+15.07 15:48:49 Data is collected!
+15.07 15:48:49 Row 3: 15.07 15:48:49 Map: x1: -15.726, y1: -39.108, x2: -15.668, y2: -39.067, xres: 0.010, yres: 0.010, fname: blmcooh
+15.07 15:48:49 Scanning 0 point from 42
+15.07 15:48:49 Going to coordinates X=-15.726, Y=-39.108
+15.07 15:48:49 Moving is finished
+15.07 15:50:27 Scanning 1 point from 42
+15.07 15:50:27 Going to coordinates X=-15.716, Y=-39.108
+15.07 15:50:27 Moving is finished
+15.07 15:51:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:51:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:51:55 Scanning 2 point from 42
+15.07 15:51:55 Going to coordinates X=-15.706, Y=-39.108
+15.07 15:51:55 Moving is finished
+15.07 15:52:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:06 Scanning 3 point from 42
+15.07 15:52:06 Going to coordinates X=-15.696, Y=-39.108
+15.07 15:52:06 Moving is finished
+15.07 15:52:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:18 Scanning 4 point from 42
+15.07 15:52:18 Going to coordinates X=-15.686, Y=-39.108
+15.07 15:52:18 Moving is finished
+15.07 15:52:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:29 Scanning 5 point from 42
+15.07 15:52:29 Going to coordinates X=-15.676, Y=-39.108
+15.07 15:52:29 Moving is finished
+15.07 15:52:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:41 Scanning 6 point from 42
+15.07 15:52:41 Going to coordinates X=-15.666, Y=-39.108
+15.07 15:52:41 Moving is finished
+15.07 15:52:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:52:52 Scanning 7 point from 42
+15.07 15:52:52 Going to coordinates X=-15.726, Y=-39.098
+15.07 15:52:52 Moving is finished
+15.07 15:52:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:03 Scanning 8 point from 42
+15.07 15:53:03 Going to coordinates X=-15.716, Y=-39.098
+15.07 15:53:04 Moving is finished
+15.07 15:53:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:15 Scanning 9 point from 42
+15.07 15:53:15 Going to coordinates X=-15.706, Y=-39.098
+15.07 15:53:15 Moving is finished
+15.07 15:53:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:26 Scanning 10 point from 42
+15.07 15:53:26 Going to coordinates X=-15.696, Y=-39.098
+15.07 15:53:26 Moving is finished
+15.07 15:53:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:38 Scanning 11 point from 42
+15.07 15:53:38 Going to coordinates X=-15.686, Y=-39.098
+15.07 15:53:38 Moving is finished
+15.07 15:53:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:53:49 Scanning 12 point from 42
+15.07 15:53:49 Going to coordinates X=-15.676, Y=-39.098
+15.07 15:53:49 Moving is finished
+15.07 15:53:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:01 Scanning 13 point from 42
+15.07 15:54:01 Going to coordinates X=-15.666, Y=-39.098
+15.07 15:54:01 Moving is finished
+15.07 15:54:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:12 Scanning 14 point from 42
+15.07 15:54:12 Going to coordinates X=-15.726, Y=-39.088
+15.07 15:54:12 Moving is finished
+15.07 15:54:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:24 Scanning 15 point from 42
+15.07 15:54:24 Going to coordinates X=-15.716, Y=-39.088
+15.07 15:54:24 Moving is finished
+15.07 15:54:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:35 Scanning 16 point from 42
+15.07 15:54:35 Going to coordinates X=-15.706, Y=-39.088
+15.07 15:54:35 Moving is finished
+15.07 15:54:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:46 Scanning 17 point from 42
+15.07 15:54:46 Going to coordinates X=-15.696, Y=-39.088
+15.07 15:54:47 Moving is finished
+15.07 15:54:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:54:58 Scanning 18 point from 42
+15.07 15:54:58 Going to coordinates X=-15.686, Y=-39.088
+15.07 15:54:58 Moving is finished
+15.07 15:55:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:09 Scanning 19 point from 42
+15.07 15:55:09 Going to coordinates X=-15.676, Y=-39.088
+15.07 15:55:09 Moving is finished
+15.07 15:55:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:21 Scanning 20 point from 42
+15.07 15:55:21 Going to coordinates X=-15.666, Y=-39.088
+15.07 15:55:21 Moving is finished
+15.07 15:55:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:32 Scanning 21 point from 42
+15.07 15:55:32 Going to coordinates X=-15.726, Y=-39.078
+15.07 15:55:32 Moving is finished
+15.07 15:55:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:43 Scanning 22 point from 42
+15.07 15:55:43 Going to coordinates X=-15.716, Y=-39.078
+15.07 15:55:44 Moving is finished
+15.07 15:55:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:55:55 Scanning 23 point from 42
+15.07 15:55:55 Going to coordinates X=-15.706, Y=-39.078
+15.07 15:55:55 Moving is finished
+15.07 15:56:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:06 Scanning 24 point from 42
+15.07 15:56:06 Going to coordinates X=-15.696, Y=-39.078
+15.07 15:56:06 Moving is finished
+15.07 15:56:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:18 Scanning 25 point from 42
+15.07 15:56:18 Going to coordinates X=-15.686, Y=-39.078
+15.07 15:56:18 Moving is finished
+15.07 15:56:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:29 Scanning 26 point from 42
+15.07 15:56:29 Going to coordinates X=-15.676, Y=-39.078
+15.07 15:56:29 Moving is finished
+15.07 15:56:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:41 Scanning 27 point from 42
+15.07 15:56:41 Going to coordinates X=-15.666, Y=-39.078
+15.07 15:56:41 Moving is finished
+15.07 15:56:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:56:52 Scanning 28 point from 42
+15.07 15:56:52 Going to coordinates X=-15.726, Y=-39.068
+15.07 15:56:52 Moving is finished
+15.07 15:56:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:04 Scanning 29 point from 42
+15.07 15:57:04 Going to coordinates X=-15.716, Y=-39.068
+15.07 15:57:04 Moving is finished
+15.07 15:57:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:15 Scanning 30 point from 42
+15.07 15:57:15 Going to coordinates X=-15.706, Y=-39.068
+15.07 15:57:15 Moving is finished
+15.07 15:57:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:26 Scanning 31 point from 42
+15.07 15:57:26 Going to coordinates X=-15.696, Y=-39.068
+15.07 15:57:26 Moving is finished
+15.07 15:57:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:38 Scanning 32 point from 42
+15.07 15:57:38 Going to coordinates X=-15.686, Y=-39.068
+15.07 15:57:38 Moving is finished
+15.07 15:57:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:57:49 Scanning 33 point from 42
+15.07 15:57:49 Going to coordinates X=-15.676, Y=-39.068
+15.07 15:57:49 Moving is finished
+15.07 15:57:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:01 Scanning 34 point from 42
+15.07 15:58:01 Going to coordinates X=-15.666, Y=-39.068
+15.07 15:58:01 Moving is finished
+15.07 15:58:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:12 Scanning 35 point from 42
+15.07 15:58:12 Going to coordinates X=-15.726, Y=-39.058
+15.07 15:58:12 Moving is finished
+15.07 15:58:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:23 Scanning 36 point from 42
+15.07 15:58:23 Going to coordinates X=-15.716, Y=-39.058
+15.07 15:58:24 Status responce is malformed
+15.07 15:58:24 list index out of range
+15.07 15:58:24 Moving is finished
+15.07 15:58:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:35 Scanning 37 point from 42
+15.07 15:58:35 Going to coordinates X=-15.706, Y=-39.058
+15.07 15:58:35 Moving is finished
+15.07 15:58:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:46 Scanning 38 point from 42
+15.07 15:58:46 Going to coordinates X=-15.696, Y=-39.058
+15.07 15:58:46 Moving is finished
+15.07 15:58:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:58:58 Scanning 39 point from 42
+15.07 15:58:58 Going to coordinates X=-15.686, Y=-39.058
+15.07 15:58:58 Moving is finished
+15.07 15:59:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:09 Scanning 40 point from 42
+15.07 15:59:09 Going to coordinates X=-15.676, Y=-39.058
+15.07 15:59:09 Moving is finished
+15.07 15:59:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:21 Scanning 41 point from 42
+15.07 15:59:21 Going to coordinates X=-15.666, Y=-39.058
+15.07 15:59:21 Moving is finished
+15.07 15:59:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:32 Row 4: 15.07 15:59:32 Map: x1: -15.659, y1: -39.118, x2: -15.62, y2: -39.179, xres: 0.010, yres: 0.010, fname: blmcooh
+15.07 15:59:32 Scanning 0 point from 40
+15.07 15:59:32 Going to coordinates X=-15.659, Y=-39.179
+15.07 15:59:32 Moving is finished
+15.07 15:59:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:43 Scanning 1 point from 40
+15.07 15:59:43 Going to coordinates X=-15.649, Y=-39.179
+15.07 15:59:44 Moving is finished
+15.07 15:59:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 15:59:55 Scanning 2 point from 40
+15.07 15:59:55 Going to coordinates X=-15.639, Y=-39.179
+15.07 15:59:55 Moving is finished
+15.07 16:00:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:06 Scanning 3 point from 40
+15.07 16:00:06 Going to coordinates X=-15.629, Y=-39.179
+15.07 16:00:06 Moving is finished
+15.07 16:00:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:18 Scanning 4 point from 40
+15.07 16:00:18 Going to coordinates X=-15.619, Y=-39.179
+15.07 16:00:18 Moving is finished
+15.07 16:00:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:29 Scanning 5 point from 40
+15.07 16:00:29 Going to coordinates X=-15.659, Y=-39.169
+15.07 16:00:29 Moving is finished
+15.07 16:00:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:41 Scanning 6 point from 40
+15.07 16:00:41 Going to coordinates X=-15.649, Y=-39.169
+15.07 16:00:41 Moving is finished
+15.07 16:00:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:00:52 Scanning 7 point from 40
+15.07 16:00:52 Going to coordinates X=-15.639, Y=-39.169
+15.07 16:00:52 Moving is finished
+15.07 16:00:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:04 Scanning 8 point from 40
+15.07 16:01:04 Going to coordinates X=-15.629, Y=-39.169
+15.07 16:01:04 Moving is finished
+15.07 16:01:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:15 Scanning 9 point from 40
+15.07 16:01:15 Going to coordinates X=-15.619, Y=-39.169
+15.07 16:01:15 Moving is finished
+15.07 16:01:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:26 Scanning 10 point from 40
+15.07 16:01:26 Going to coordinates X=-15.659, Y=-39.159
+15.07 16:01:27 Moving is finished
+15.07 16:01:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:38 Scanning 11 point from 40
+15.07 16:01:38 Going to coordinates X=-15.649, Y=-39.159
+15.07 16:01:38 Moving is finished
+15.07 16:01:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:01:49 Scanning 12 point from 40
+15.07 16:01:49 Going to coordinates X=-15.639, Y=-39.159
+15.07 16:01:49 Moving is finished
+15.07 16:01:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:02:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:02:01 Scanning 13 point from 40
+15.07 16:02:01 Going to coordinates X=-15.629, Y=-39.159
+15.07 16:02:01 Moving is finished
+15.07 16:02:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.07 16:02:10 Scanning 14 point from 40
+15.07 16:02:10 Going to coordinates X=-15.619, Y=-39.159
+15.07 16:02:10 Moving is finished
+15.07 16:03:46 Scanning 15 point from 40
+15.07 16:03:46 Going to coordinates X=-15.659, Y=-39.149
+15.07 16:03:47 Moving is finished
+15.07 16:05:23 Scanning 16 point from 40
+15.07 16:05:23 Going to coordinates X=-15.649, Y=-39.149
+15.07 16:05:24 Moving is finished
+15.07 16:07:00 Scanning 17 point from 40
+15.07 16:07:00 Going to coordinates X=-15.639, Y=-39.149
+15.07 16:07:00 Moving is finished
+15.07 16:08:37 Scanning 18 point from 40
+15.07 16:08:37 Going to coordinates X=-15.629, Y=-39.149
+15.07 16:08:37 Moving is finished
+15.07 16:10:14 Scanning 19 point from 40
+15.07 16:10:14 Going to coordinates X=-15.619, Y=-39.149
+15.07 16:10:14 Moving is finished
+15.07 16:11:51 Scanning 20 point from 40
+15.07 16:11:51 Going to coordinates X=-15.659, Y=-39.139
+15.07 16:11:51 Moving is finished
+15.07 16:13:28 Scanning 21 point from 40
+15.07 16:13:28 Going to coordinates X=-15.649, Y=-39.139
+15.07 16:13:28 Moving is finished
+15.07 16:15:05 Scanning 22 point from 40
+15.07 16:15:05 Going to coordinates X=-15.639, Y=-39.139
+15.07 16:15:05 Moving is finished
+15.07 16:16:41 Scanning 23 point from 40
+15.07 16:16:41 Going to coordinates X=-15.629, Y=-39.139
+15.07 16:16:42 Moving is finished
+15.07 16:17:09 Stopped!
+15.07 16:22:14 Can't send the command to GRBL
+15.07 16:22:14 Write timeout15.07 16:22:14 Write timeout
+

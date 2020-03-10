@@ -1,0 +1,137 @@
+28.12 09:36:05 Initializing grbl...
+28.12 09:36:06 Got the response: b''
+28.12 09:39:57 Row 0: 28.12 09:39:57 Map: x1: -13.303, y1: -35.99, x2: -14.077, y2: -36.779, xres: 0.100, yres: 0.100, fname: Mart- gluc C
+28.12 09:39:57 Scanning 0 point from 81
+28.12 09:40:02 Going to coordinates X=-14.077, Y=-36.779
+28.12 09:40:02 Moving is finished
+28.12 09:41:39 Scanning 1 point from 81
+28.12 09:41:39 Going to coordinates X=-13.977, Y=-36.779
+28.12 09:41:40 Moving is finished
+28.12 09:43:17 Scanning 2 point from 81
+28.12 09:43:17 Going to coordinates X=-13.877, Y=-36.779
+28.12 09:43:17 Moving is finished
+28.12 09:44:54 Scanning 3 point from 81
+28.12 09:44:54 Going to coordinates X=-13.777, Y=-36.779
+28.12 09:44:55 Moving is finished
+28.12 09:46:32 Scanning 4 point from 81
+28.12 09:46:32 Going to coordinates X=-13.677, Y=-36.779
+28.12 09:46:33 Moving is finished
+28.12 09:48:10 Scanning 5 point from 81
+28.12 09:48:10 Going to coordinates X=-13.577, Y=-36.779
+28.12 09:48:10 Moving is finished
+28.12 09:49:47 Scanning 6 point from 81
+28.12 09:49:47 Going to coordinates X=-13.477, Y=-36.779
+28.12 09:49:48 Moving is finished
+28.12 09:51:25 Scanning 7 point from 81
+28.12 09:51:25 Going to coordinates X=-13.377, Y=-36.779
+28.12 09:51:25 Moving is finished
+28.12 09:53:03 Scanning 8 point from 81
+28.12 09:53:03 Going to coordinates X=-13.277, Y=-36.779
+28.12 09:53:03 Moving is finished
+28.12 09:54:40 Scanning 9 point from 81
+28.12 09:54:40 Going to coordinates X=-14.077, Y=-36.679
+28.12 09:54:40 Moving is finished
+28.12 09:56:18 Scanning 10 point from 81
+28.12 09:56:24 Going to coordinates X=-13.977, Y=-36.679
+28.12 09:56:24 Moving is finished
+28.12 09:58:01 Scanning 11 point from 81
+28.12 09:58:01 Going to coordinates X=-13.877, Y=-36.679
+28.12 09:58:02 Moving is finished
+28.12 09:58:10 Scanning 12 point from 81
+28.12 09:58:10 Paused
+28.12 09:58:14 Going to coordinates X=-13.777, Y=-36.679
+28.12 09:58:15 Moving is finished
+28.12 09:59:52 Scanning 13 point from 81
+28.12 09:59:52 Going to coordinates X=-13.677, Y=-36.679
+28.12 09:59:52 Moving is finished
+28.12 10:01:30 Scanning 14 point from 81
+28.12 10:01:30 Going to coordinates X=-13.577, Y=-36.679
+28.12 10:01:30 Moving is finished
+28.12 10:03:08 Scanning 15 point from 81
+28.12 10:03:08 Going to coordinates X=-13.477, Y=-36.679
+28.12 10:03:09 Moving is finished
+28.12 10:04:46 Scanning 16 point from 81
+28.12 10:04:46 Going to coordinates X=-13.377, Y=-36.679
+28.12 10:04:46 Moving is finished
+28.12 10:06:23 Scanning 17 point from 81
+28.12 10:06:23 Going to coordinates X=-13.277, Y=-36.679
+28.12 10:06:23 Moving is finished
+28.12 10:08:01 Scanning 18 point from 81
+28.12 10:08:01 Going to coordinates X=-14.077, Y=-36.579
+28.12 10:08:01 Moving is finished
+28.12 10:09:38 Scanning 19 point from 81
+28.12 10:09:38 Going to coordinates X=-13.977, Y=-36.579
+28.12 10:09:39 Moving is finished
+28.12 10:11:16 Scanning 20 point from 81
+28.12 10:11:21 Going to coordinates X=-13.877, Y=-36.579
+28.12 10:11:21 Moving is finished
+28.12 10:12:58 Scanning 21 point from 81
+28.12 10:12:58 Going to coordinates X=-13.777, Y=-36.579
+28.12 10:12:58 Moving is finished
+28.12 10:14:36 Scanning 22 point from 81
+28.12 10:14:36 Going to coordinates X=-13.677, Y=-36.579
+28.12 10:14:36 Moving is finished
+28.12 10:16:14 Scanning 23 point from 81
+28.12 10:16:14 Going to coordinates X=-13.577, Y=-36.579
+28.12 10:16:14 Moving is finished
+28.12 10:17:51 Scanning 24 point from 81
+28.12 10:17:51 Going to coordinates X=-13.477, Y=-36.579
+28.12 10:17:51 Moving is finished
+28.12 10:19:29 Scanning 25 point from 81
+28.12 10:19:29 Going to coordinates X=-13.377, Y=-36.579
+28.12 10:19:29 Moving is finished
+28.12 10:21:06 Scanning 26 point from 81
+28.12 10:21:06 Going to coordinates X=-13.277, Y=-36.579
+28.12 10:21:06 Moving is finished
+28.12 10:22:44 Scanning 27 point from 81
+28.12 10:22:44 Going to coordinates X=-14.077, Y=-36.479
+28.12 10:22:45 Moving is finished
+28.12 10:24:22 Scanning 28 point from 81
+28.12 10:24:22 Going to coordinates X=-13.977, Y=-36.479
+28.12 10:24:22 Moving is finished
+28.12 10:25:59 Scanning 29 point from 81
+28.12 10:25:59 Going to coordinates X=-13.877, Y=-36.479
+28.12 10:26:00 Moving is finished
+28.12 10:27:37 Scanning 30 point from 81
+28.12 10:27:42 Going to coordinates X=-13.777, Y=-36.479
+28.12 10:27:43 Moving is finished
+28.12 10:29:20 Scanning 31 point from 81
+28.12 10:29:20 Going to coordinates X=-13.677, Y=-36.479
+28.12 10:29:20 Moving is finished
+28.12 10:30:57 Scanning 32 point from 81
+28.12 10:30:57 Going to coordinates X=-13.577, Y=-36.479
+28.12 10:30:57 Moving is finished
+28.12 10:32:35 Scanning 33 point from 81
+28.12 10:32:35 Going to coordinates X=-13.477, Y=-36.479
+28.12 10:32:35 Moving is finished
+28.12 10:34:12 Scanning 34 point from 81
+28.12 10:34:12 Going to coordinates X=-13.377, Y=-36.479
+28.12 10:34:12 Moving is finished
+28.12 10:35:50 Scanning 35 point from 81
+28.12 10:35:50 Going to coordinates X=-13.277, Y=-36.479
+28.12 10:35:50 Moving is finished
+28.12 10:37:28 Scanning 36 point from 81
+28.12 10:37:28 Going to coordinates X=-14.077, Y=-36.379
+28.12 10:37:29 Moving is finished
+28.12 10:39:06 Scanning 37 point from 81
+28.12 10:39:06 Going to coordinates X=-13.977, Y=-36.379
+28.12 10:39:06 Moving is finished
+28.12 10:40:44 Scanning 38 point from 81
+28.12 10:40:44 Going to coordinates X=-13.877, Y=-36.379
+28.12 10:40:44 Moving is finished
+28.12 10:42:22 Scanning 39 point from 81
+28.12 10:42:22 Going to coordinates X=-13.777, Y=-36.379
+28.12 10:42:22 Moving is finished
+28.12 10:43:59 Scanning 40 point from 81
+28.12 10:44:05 Going to coordinates X=-13.677, Y=-36.379
+28.12 10:44:05 Moving is finished
+28.12 10:45:42 Scanning 41 point from 81
+28.12 10:45:42 Going to coordinates X=-13.577, Y=-36.379
+28.12 10:45:43 Moving is finished
+28.12 10:47:20 Scanning 42 point from 81
+28.12 10:47:20 Going to coordinates X=-13.477, Y=-36.379
+28.12 10:47:20 Moving is finished
+28.12 10:48:58 Scanning 43 point from 81
+28.12 10:48:58 Going to coordinates X=-13.377, Y=-36.379
+28.12 10:48:58 Moving is finished
+28.12 10:50:32 Stopped!

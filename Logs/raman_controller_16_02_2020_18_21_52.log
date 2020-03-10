@@ -1,0 +1,17 @@
+16.02 18:22:01 Initializing grbl...
+16.02 18:22:02 Got the response: b''
+16.02 18:30:24 Can't send the command to GRBL
+16.02 18:30:24 Write timeout
+16.02 18:30:24 Status responce is malformed
+16.02 18:30:24 list index out of range
+16.02 18:55:31 Focused at  231
+16.02 18:55:36 Focused at  232
+16.02 19:28:47 Can't send the command to GRBL
+16.02 19:28:47 Write timeout16.02 19:28:47 Write timeout
+
+16.02 19:30:57 Can't send the command to GRBL
+16.02 19:30:57 Write timeout16.02 19:30:57 Write timeout
+
+16.02 19:35:24 Can't send the command to GRBL
+16.02 19:35:24 Write timeout16.02 19:35:24 Write timeout
+

@@ -1,0 +1,136 @@
+10.05 11:59:05 Initializing grbl...
+10.05 11:59:06 Got the response: b''
+10.05 12:00:29 Row 0: 10.05 12:00:29 Map: x1: -28.551, y1: -38.835, x2: -29.337, y2: -38.021, xres: 0.050, yres: 0.050, fname: m3-4
+10.05 12:00:29 Scanning 0 point from 306
+10.05 12:00:29 Going to coordinates X=-29.337, Y=-38.835
+10.05 12:00:29 Moving is finished
+10.05 12:02:06 Scanning 1 point from 306
+10.05 12:02:06 Going to coordinates X=-29.287, Y=-38.835
+10.05 12:02:06 Moving is finished
+10.05 12:03:43 Scanning 2 point from 306
+10.05 12:03:43 Going to coordinates X=-29.237, Y=-38.835
+10.05 12:03:43 Moving is finished
+10.05 12:05:20 Scanning 3 point from 306
+10.05 12:05:20 Going to coordinates X=-29.187, Y=-38.835
+10.05 12:05:20 Moving is finished
+10.05 12:06:57 Scanning 4 point from 306
+10.05 12:06:57 Going to coordinates X=-29.137, Y=-38.835
+10.05 12:06:57 Moving is finished
+10.05 12:08:34 Scanning 5 point from 306
+10.05 12:08:34 Going to coordinates X=-29.087, Y=-38.835
+10.05 12:08:34 Moving is finished
+10.05 12:10:10 Scanning 6 point from 306
+10.05 12:10:10 Going to coordinates X=-29.037, Y=-38.835
+10.05 12:10:11 Moving is finished
+10.05 12:11:47 Scanning 7 point from 306
+10.05 12:11:47 Going to coordinates X=-28.987, Y=-38.835
+10.05 12:11:47 Moving is finished
+10.05 12:13:24 Scanning 8 point from 306
+10.05 12:13:24 Going to coordinates X=-28.937, Y=-38.835
+10.05 12:13:24 Moving is finished
+10.05 12:15:02 Scanning 9 point from 306
+10.05 12:15:02 Going to coordinates X=-28.887, Y=-38.835
+10.05 12:15:02 Moving is finished
+10.05 12:16:38 Scanning 10 point from 306
+10.05 12:16:38 Going to coordinates X=-28.837, Y=-38.835
+10.05 12:16:39 Moving is finished
+10.05 12:18:15 Scanning 11 point from 306
+10.05 12:18:15 Going to coordinates X=-28.787, Y=-38.835
+10.05 12:18:15 Moving is finished
+10.05 12:19:52 Scanning 12 point from 306
+10.05 12:19:52 Going to coordinates X=-28.737, Y=-38.835
+10.05 12:19:52 Moving is finished
+10.05 12:21:29 Scanning 13 point from 306
+10.05 12:21:29 Going to coordinates X=-28.687, Y=-38.835
+10.05 12:21:29 Moving is finished
+10.05 12:23:05 Scanning 14 point from 306
+10.05 12:23:05 Going to coordinates X=-28.637, Y=-38.835
+10.05 12:23:06 Moving is finished
+10.05 12:24:42 Scanning 15 point from 306
+10.05 12:24:42 Going to coordinates X=-28.587, Y=-38.835
+10.05 12:24:42 Moving is finished
+10.05 12:26:19 Scanning 16 point from 306
+10.05 12:26:19 Going to coordinates X=-28.537, Y=-38.835
+10.05 12:26:19 Moving is finished
+10.05 12:27:56 Scanning 17 point from 306
+10.05 12:27:56 Going to coordinates X=-29.337, Y=-38.785
+10.05 12:27:56 Moving is finished
+10.05 12:29:33 Scanning 18 point from 306
+10.05 12:29:33 Going to coordinates X=-29.287, Y=-38.785
+10.05 12:29:34 Moving is finished
+10.05 12:31:10 Scanning 19 point from 306
+10.05 12:31:10 Going to coordinates X=-29.237, Y=-38.785
+10.05 12:31:10 Moving is finished
+10.05 12:32:48 Scanning 20 point from 306
+10.05 12:32:48 Going to coordinates X=-29.187, Y=-38.785
+10.05 12:32:48 Moving is finished
+10.05 12:34:25 Scanning 21 point from 306
+10.05 12:34:25 Going to coordinates X=-29.137, Y=-38.785
+10.05 12:34:26 Moving is finished
+10.05 12:36:02 Scanning 22 point from 306
+10.05 12:36:02 Going to coordinates X=-29.087, Y=-38.785
+10.05 12:36:03 Moving is finished
+10.05 12:37:40 Scanning 23 point from 306
+10.05 12:37:40 Going to coordinates X=-29.037, Y=-38.785
+10.05 12:37:40 Moving is finished
+10.05 12:39:17 Scanning 24 point from 306
+10.05 12:39:17 Going to coordinates X=-28.987, Y=-38.785
+10.05 12:39:17 Moving is finished
+10.05 12:40:53 Scanning 25 point from 306
+10.05 12:40:53 Going to coordinates X=-28.937, Y=-38.785
+10.05 12:40:54 Moving is finished
+10.05 12:42:30 Scanning 26 point from 306
+10.05 12:42:30 Going to coordinates X=-28.887, Y=-38.785
+10.05 12:42:30 Moving is finished
+10.05 12:44:08 Scanning 27 point from 306
+10.05 12:44:08 Going to coordinates X=-28.837, Y=-38.785
+10.05 12:44:08 Moving is finished
+10.05 12:45:44 Scanning 28 point from 306
+10.05 12:45:44 Going to coordinates X=-28.787, Y=-38.785
+10.05 12:45:44 Moving is finished
+10.05 12:47:21 Scanning 29 point from 306
+10.05 12:47:21 Going to coordinates X=-28.737, Y=-38.785
+10.05 12:47:21 Moving is finished
+10.05 12:48:58 Scanning 30 point from 306
+10.05 12:48:58 Going to coordinates X=-28.687, Y=-38.785
+10.05 12:48:58 Moving is finished
+10.05 12:50:34 Scanning 31 point from 306
+10.05 12:50:34 Going to coordinates X=-28.637, Y=-38.785
+10.05 12:50:35 Moving is finished
+10.05 12:52:11 Scanning 32 point from 306
+10.05 12:52:11 Going to coordinates X=-28.587, Y=-38.785
+10.05 12:52:12 Moving is finished
+10.05 12:53:48 Scanning 33 point from 306
+10.05 12:53:48 Going to coordinates X=-28.537, Y=-38.785
+10.05 12:53:48 Moving is finished
+10.05 12:55:25 Scanning 34 point from 306
+10.05 12:55:25 Going to coordinates X=-29.337, Y=-38.735
+10.05 12:55:26 Moving is finished
+10.05 12:57:02 Scanning 35 point from 306
+10.05 12:57:02 Going to coordinates X=-29.287, Y=-38.735
+10.05 12:57:03 Moving is finished
+10.05 12:58:39 Scanning 36 point from 306
+10.05 12:58:39 Going to coordinates X=-29.237, Y=-38.735
+10.05 12:58:39 Moving is finished
+10.05 13:00:15 Scanning 37 point from 306
+10.05 13:00:15 Going to coordinates X=-29.187, Y=-38.735
+10.05 13:00:16 Moving is finished
+10.05 13:01:52 Scanning 38 point from 306
+10.05 13:01:52 Going to coordinates X=-29.137, Y=-38.735
+10.05 13:01:52 Moving is finished
+10.05 13:03:29 Scanning 39 point from 306
+10.05 13:03:29 Going to coordinates X=-29.087, Y=-38.735
+10.05 13:03:29 Moving is finished
+10.05 13:05:06 Scanning 40 point from 306
+10.05 13:05:06 Going to coordinates X=-29.037, Y=-38.735
+10.05 13:05:06 Moving is finished
+10.05 13:06:42 Scanning 41 point from 306
+10.05 13:06:42 Going to coordinates X=-28.987, Y=-38.735
+10.05 13:06:43 Moving is finished
+10.05 13:08:20 Scanning 42 point from 306
+10.05 13:08:20 Going to coordinates X=-28.937, Y=-38.735
+10.05 13:08:20 Moving is finished
+10.05 13:09:57 Scanning 43 point from 306
+10.05 13:09:57 Going to coordinates X=-28.887, Y=-38.735
+10.05 13:09:58 Moving is finished
+10.05 13:11:24 Stopped!

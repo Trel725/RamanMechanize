@@ -1,0 +1,164 @@
+16.07 15:51:41 Initializing grbl...
+16.07 15:51:42 Got the response: b''
+16.07 15:54:06 Can't send the command to GRBL
+16.07 15:54:06 Write timeout16.07 15:54:06 Write timeout
+16.07 15:57:47 Row 0: 16.07 15:57:47 Map: x1: -14.938, y1: -36.749, x2: -13.668, y2: -37.59, xres: 0.100, yres: 0.100, fname: blmcoohglass
+16.07 15:57:47 Scanning 0 point from 140
+16.07 15:57:47 Going to coordinates X=-14.938, Y=-37.590
+16.07 15:57:48 Moving is finished
+16.07 15:59:26 Scanning 1 point from 140
+16.07 15:59:26 Going to coordinates X=-14.838, Y=-37.590
+16.07 15:59:26 Moving is finished
+16.07 16:01:03 Scanning 2 point from 140
+16.07 16:01:03 Going to coordinates X=-14.738, Y=-37.590
+16.07 16:01:04 Moving is finished
+16.07 16:02:40 Scanning 3 point from 140
+16.07 16:02:40 Going to coordinates X=-14.638, Y=-37.590
+16.07 16:02:41 Moving is finished
+16.07 16:04:18 Scanning 4 point from 140
+16.07 16:04:18 Going to coordinates X=-14.538, Y=-37.590
+16.07 16:04:18 Moving is finished
+16.07 16:05:55 Scanning 5 point from 140
+16.07 16:05:55 Going to coordinates X=-14.438, Y=-37.590
+16.07 16:05:55 Moving is finished
+16.07 16:07:32 Scanning 6 point from 140
+16.07 16:07:32 Going to coordinates X=-14.338, Y=-37.590
+16.07 16:07:33 Moving is finished
+16.07 16:09:10 Scanning 7 point from 140
+16.07 16:09:10 Going to coordinates X=-14.238, Y=-37.590
+16.07 16:09:10 Moving is finished
+16.07 16:10:47 Scanning 8 point from 140
+16.07 16:10:47 Going to coordinates X=-14.138, Y=-37.590
+16.07 16:10:47 Moving is finished
+16.07 16:12:25 Scanning 9 point from 140
+16.07 16:12:25 Going to coordinates X=-14.038, Y=-37.590
+16.07 16:12:25 Moving is finished
+16.07 16:14:02 Scanning 10 point from 140
+16.07 16:14:02 Going to coordinates X=-13.938, Y=-37.590
+16.07 16:14:02 Moving is finished
+16.07 16:15:40 Scanning 11 point from 140
+16.07 16:15:40 Going to coordinates X=-13.838, Y=-37.590
+16.07 16:15:40 Moving is finished
+16.07 16:17:17 Scanning 12 point from 140
+16.07 16:17:17 Going to coordinates X=-13.738, Y=-37.590
+16.07 16:17:17 Moving is finished
+16.07 16:18:54 Scanning 13 point from 140
+16.07 16:18:54 Going to coordinates X=-13.638, Y=-37.590
+16.07 16:18:54 Moving is finished
+16.07 16:20:32 Scanning 14 point from 140
+16.07 16:20:32 Going to coordinates X=-14.938, Y=-37.490
+16.07 16:20:32 Moving is finished
+16.07 16:22:09 Scanning 15 point from 140
+16.07 16:22:09 Going to coordinates X=-14.838, Y=-37.490
+16.07 16:22:10 Moving is finished
+16.07 16:23:46 Scanning 16 point from 140
+16.07 16:23:46 Going to coordinates X=-14.738, Y=-37.490
+16.07 16:23:47 Moving is finished
+16.07 16:25:24 Scanning 17 point from 140
+16.07 16:25:24 Going to coordinates X=-14.638, Y=-37.490
+16.07 16:25:24 Moving is finished
+16.07 16:27:02 Scanning 18 point from 140
+16.07 16:27:02 Going to coordinates X=-14.538, Y=-37.490
+16.07 16:27:02 Moving is finished
+16.07 16:28:39 Scanning 19 point from 140
+16.07 16:28:39 Going to coordinates X=-14.438, Y=-37.490
+16.07 16:28:39 Moving is finished
+16.07 16:30:17 Scanning 20 point from 140
+16.07 16:30:17 Going to coordinates X=-14.338, Y=-37.490
+16.07 16:30:17 Moving is finished
+16.07 16:31:54 Scanning 21 point from 140
+16.07 16:31:54 Going to coordinates X=-14.238, Y=-37.490
+16.07 16:31:54 Moving is finished
+16.07 16:33:32 Scanning 22 point from 140
+16.07 16:33:32 Going to coordinates X=-14.138, Y=-37.490
+16.07 16:33:32 Moving is finished
+16.07 16:35:09 Scanning 23 point from 140
+16.07 16:35:09 Going to coordinates X=-14.038, Y=-37.490
+16.07 16:35:09 Moving is finished
+16.07 16:36:46 Scanning 24 point from 140
+16.07 16:36:46 Going to coordinates X=-13.938, Y=-37.490
+16.07 16:36:46 Moving is finished
+16.07 16:38:24 Scanning 25 point from 140
+16.07 16:38:24 Going to coordinates X=-13.838, Y=-37.490
+16.07 16:38:24 Moving is finished
+16.07 16:39:19 Stopped!
+16.07 17:05:03 Row 0: 16.07 17:05:03 Goto: -8.404; -37.487; 0.000
+16.07 17:05:03 Going to coordinates X=-8.404, Y=-37.487
+16.07 17:05:04 Moving is finished
+16.07 17:05:05 Row 1: 16.07 17:05:05 Map: x1: -8.404, y1: -37.518, x2: -8.375, y2: -37.456, xres: 0.010, yres: 0.010, fname: blmcoohglass
+16.07 17:05:05 Scanning 0 point from 32
+16.07 17:05:05 Going to coordinates X=-8.404, Y=-37.518
+16.07 17:05:05 Moving is finished
+16.07 17:05:15 Scanning 1 point from 32
+16.07 17:05:15 Going to coordinates X=-8.394, Y=-37.518
+16.07 17:05:15 Moving is finished
+16.07 17:05:25 Scanning 2 point from 32
+16.07 17:05:25 Going to coordinates X=-8.384, Y=-37.518
+16.07 17:05:25 Moving is finished
+16.07 17:05:35 Scanning 3 point from 32
+16.07 17:05:35 Going to coordinates X=-8.374, Y=-37.518
+16.07 17:05:35 Moving is finished
+16.07 17:05:45 Scanning 4 point from 32
+16.07 17:05:45 Going to coordinates X=-8.404, Y=-37.508
+16.07 17:05:45 Moving is finished
+16.07 17:05:55 Scanning 5 point from 32
+16.07 17:05:55 Going to coordinates X=-8.394, Y=-37.508
+16.07 17:05:55 Moving is finished
+16.07 17:06:04 Scanning 6 point from 32
+16.07 17:06:04 Going to coordinates X=-8.384, Y=-37.508
+16.07 17:06:04 Moving is finished
+16.07 17:06:14 Scanning 7 point from 32
+16.07 17:06:14 Going to coordinates X=-8.374, Y=-37.508
+16.07 17:06:14 Moving is finished
+16.07 17:06:24 Scanning 8 point from 32
+16.07 17:06:24 Going to coordinates X=-8.404, Y=-37.498
+16.07 17:06:24 Moving is finished
+16.07 17:06:34 Scanning 9 point from 32
+16.07 17:06:34 Going to coordinates X=-8.394, Y=-37.498
+16.07 17:06:34 Moving is finished
+16.07 17:06:44 Scanning 10 point from 32
+16.07 17:06:44 Going to coordinates X=-8.384, Y=-37.498
+16.07 17:06:44 Moving is finished
+16.07 17:06:53 Scanning 11 point from 32
+16.07 17:06:53 Going to coordinates X=-8.374, Y=-37.498
+16.07 17:06:53 Moving is finished
+16.07 17:07:03 Scanning 12 point from 32
+16.07 17:07:03 Going to coordinates X=-8.404, Y=-37.488
+16.07 17:07:03 Moving is finished
+16.07 17:07:13 Scanning 13 point from 32
+16.07 17:07:13 Going to coordinates X=-8.394, Y=-37.488
+16.07 17:07:13 Moving is finished
+16.07 17:07:23 Scanning 14 point from 32
+16.07 17:07:23 Going to coordinates X=-8.384, Y=-37.488
+16.07 17:07:23 Moving is finished
+16.07 17:07:32 Scanning 15 point from 32
+16.07 17:07:32 Going to coordinates X=-8.374, Y=-37.488
+16.07 17:07:32 Moving is finished
+16.07 17:07:42 Scanning 16 point from 32
+16.07 17:07:42 Going to coordinates X=-8.404, Y=-37.478
+16.07 17:07:43 Moving is finished
+16.07 17:07:52 Scanning 17 point from 32
+16.07 17:07:52 Going to coordinates X=-8.394, Y=-37.478
+16.07 17:07:52 Moving is finished
+16.07 17:08:02 Scanning 18 point from 32
+16.07 17:08:02 Going to coordinates X=-8.384, Y=-37.478
+16.07 17:08:02 Moving is finished
+16.07 17:08:12 Scanning 19 point from 32
+16.07 17:08:12 Going to coordinates X=-8.374, Y=-37.478
+16.07 17:08:12 Moving is finished
+16.07 17:08:21 Scanning 20 point from 32
+16.07 17:08:21 Going to coordinates X=-8.404, Y=-37.468
+16.07 17:08:21 Moving is finished
+16.07 17:08:31 Scanning 21 point from 32
+16.07 17:08:31 Going to coordinates X=-8.394, Y=-37.468
+16.07 17:08:31 Moving is finished
+16.07 17:08:40 Scanning 22 point from 32
+16.07 17:08:40 Going to coordinates X=-8.384, Y=-37.468
+16.07 17:08:41 Moving is finished
+16.07 17:08:50 Scanning 23 point from 32
+16.07 17:08:50 Going to coordinates X=-8.374, Y=-37.468
+16.07 17:08:50 Moving is finished
+16.07 17:09:00 Scanning 24 point from 32
+16.07 17:09:00 Going to coordinates X=-8.404, Y=-37.458
+16.07 17:09:00 Moving is finished
+16.07 17:09:01 Stopped!

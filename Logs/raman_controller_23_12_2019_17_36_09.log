@@ -1,0 +1,899 @@
+23.12 17:36:10 Initializing grbl...
+23.12 17:36:11 Got the response: b''
+23.12 17:37:09 Focused at  1
+23.12 17:37:18 Focused at  1
+23.12 17:37:33 Focused at  1
+23.12 17:38:16 Focused at  76
+23.12 17:38:22 Focused at  57
+23.12 17:38:28 Row 0: 23.12 17:38:28 Map: x1: -14.0, y1: -38.0, x2: -15.808, y2: -37.056, xres: 0.070, yres: 0.100, fname: DVD-M3-2
+23.12 17:38:28 Scanning 0 point from 297
+23.12 17:38:31 Going to coordinates X=-15.808, Y=-38.000
+23.12 17:38:32 Moving is finished
+23.12 17:40:17 Scanning 1 point from 297
+23.12 17:40:17 Going to coordinates X=-15.738, Y=-38.000
+23.12 17:40:17 Moving is finished
+23.12 17:42:01 Scanning 2 point from 297
+23.12 17:42:01 Going to coordinates X=-15.668, Y=-38.000
+23.12 17:42:02 Moving is finished
+23.12 17:43:46 Scanning 3 point from 297
+23.12 17:43:46 Going to coordinates X=-15.598, Y=-38.000
+23.12 17:43:47 Moving is finished
+23.12 17:45:31 Scanning 4 point from 297
+23.12 17:45:31 Going to coordinates X=-15.528, Y=-38.000
+23.12 17:45:32 Moving is finished
+23.12 17:47:17 Scanning 5 point from 297
+23.12 17:47:17 Going to coordinates X=-15.458, Y=-38.000
+23.12 17:47:17 Moving is finished
+23.12 17:49:02 Scanning 6 point from 297
+23.12 17:49:02 Going to coordinates X=-15.388, Y=-38.000
+23.12 17:49:02 Moving is finished
+23.12 17:50:47 Scanning 7 point from 297
+23.12 17:50:47 Going to coordinates X=-15.318, Y=-38.000
+23.12 17:50:47 Moving is finished
+23.12 17:52:32 Scanning 8 point from 297
+23.12 17:52:32 Going to coordinates X=-15.248, Y=-38.000
+23.12 17:52:33 Moving is finished
+23.12 17:54:18 Scanning 9 point from 297
+23.12 17:54:18 Going to coordinates X=-15.178, Y=-38.000
+23.12 17:54:18 Moving is finished
+23.12 17:56:03 Scanning 10 point from 297
+23.12 17:56:07 Going to coordinates X=-15.108, Y=-38.000
+23.12 17:56:07 Moving is finished
+23.12 17:57:52 Scanning 11 point from 297
+23.12 17:57:52 Going to coordinates X=-15.038, Y=-38.000
+23.12 17:57:53 Moving is finished
+23.12 17:59:38 Scanning 12 point from 297
+23.12 17:59:38 Going to coordinates X=-14.968, Y=-38.000
+23.12 17:59:38 Moving is finished
+23.12 18:01:23 Scanning 13 point from 297
+23.12 18:01:23 Going to coordinates X=-14.898, Y=-38.000
+23.12 18:01:24 Moving is finished
+23.12 18:03:08 Scanning 14 point from 297
+23.12 18:03:08 Going to coordinates X=-14.828, Y=-38.000
+23.12 18:03:09 Moving is finished
+23.12 18:04:53 Scanning 15 point from 297
+23.12 18:04:53 Going to coordinates X=-14.758, Y=-38.000
+23.12 18:04:54 Moving is finished
+23.12 18:06:38 Scanning 16 point from 297
+23.12 18:06:38 Going to coordinates X=-14.688, Y=-38.000
+23.12 18:06:38 Moving is finished
+23.12 18:08:23 Scanning 17 point from 297
+23.12 18:08:23 Going to coordinates X=-14.618, Y=-38.000
+23.12 18:08:23 Moving is finished
+23.12 18:10:09 Scanning 18 point from 297
+23.12 18:10:09 Going to coordinates X=-14.548, Y=-38.000
+23.12 18:10:09 Moving is finished
+23.12 18:11:54 Scanning 19 point from 297
+23.12 18:11:54 Going to coordinates X=-14.478, Y=-38.000
+23.12 18:11:54 Moving is finished
+23.12 18:13:39 Scanning 20 point from 297
+23.12 18:13:43 Going to coordinates X=-14.408, Y=-38.000
+23.12 18:13:43 Moving is finished
+23.12 18:15:29 Scanning 21 point from 297
+23.12 18:15:29 Going to coordinates X=-14.338, Y=-38.000
+23.12 18:15:29 Moving is finished
+23.12 18:17:13 Scanning 22 point from 297
+23.12 18:17:13 Going to coordinates X=-14.268, Y=-38.000
+23.12 18:17:14 Moving is finished
+23.12 18:18:58 Scanning 23 point from 297
+23.12 18:18:58 Going to coordinates X=-14.198, Y=-38.000
+23.12 18:18:59 Moving is finished
+23.12 18:20:44 Scanning 24 point from 297
+23.12 18:20:44 Going to coordinates X=-14.128, Y=-38.000
+23.12 18:20:44 Moving is finished
+23.12 18:22:29 Scanning 25 point from 297
+23.12 18:22:29 Going to coordinates X=-14.058, Y=-38.000
+23.12 18:22:29 Moving is finished
+23.12 18:24:14 Scanning 26 point from 297
+23.12 18:24:14 Going to coordinates X=-13.988, Y=-38.000
+23.12 18:24:14 Moving is finished
+23.12 18:25:58 Scanning 27 point from 297
+23.12 18:25:58 Going to coordinates X=-15.808, Y=-37.900
+23.12 18:25:59 Moving is finished
+23.12 18:27:44 Scanning 28 point from 297
+23.12 18:27:44 Going to coordinates X=-15.738, Y=-37.900
+23.12 18:27:44 Moving is finished
+23.12 18:29:29 Scanning 29 point from 297
+23.12 18:29:29 Going to coordinates X=-15.668, Y=-37.900
+23.12 18:29:29 Moving is finished
+23.12 18:31:13 Scanning 30 point from 297
+23.12 18:31:17 Going to coordinates X=-15.598, Y=-37.900
+23.12 18:31:17 Moving is finished
+23.12 18:33:02 Scanning 31 point from 297
+23.12 18:33:02 Going to coordinates X=-15.528, Y=-37.900
+23.12 18:33:02 Moving is finished
+23.12 18:34:47 Scanning 32 point from 297
+23.12 18:34:47 Going to coordinates X=-15.458, Y=-37.900
+23.12 18:34:47 Moving is finished
+23.12 18:36:32 Scanning 33 point from 297
+23.12 18:36:32 Going to coordinates X=-15.388, Y=-37.900
+23.12 18:36:32 Moving is finished
+23.12 18:38:17 Scanning 34 point from 297
+23.12 18:38:17 Going to coordinates X=-15.318, Y=-37.900
+23.12 18:38:17 Moving is finished
+23.12 18:40:02 Scanning 35 point from 297
+23.12 18:40:02 Going to coordinates X=-15.248, Y=-37.900
+23.12 18:40:02 Moving is finished
+23.12 18:41:47 Scanning 36 point from 297
+23.12 18:41:47 Going to coordinates X=-15.178, Y=-37.900
+23.12 18:41:47 Moving is finished
+23.12 18:43:32 Scanning 37 point from 297
+23.12 18:43:32 Going to coordinates X=-15.108, Y=-37.900
+23.12 18:43:32 Moving is finished
+23.12 18:45:17 Scanning 38 point from 297
+23.12 18:45:17 Going to coordinates X=-15.038, Y=-37.900
+23.12 18:45:17 Moving is finished
+23.12 18:47:02 Scanning 39 point from 297
+23.12 18:47:02 Going to coordinates X=-14.968, Y=-37.900
+23.12 18:47:02 Moving is finished
+23.12 18:48:47 Scanning 40 point from 297
+23.12 18:48:51 Going to coordinates X=-14.898, Y=-37.900
+23.12 18:48:51 Moving is finished
+23.12 18:50:36 Scanning 41 point from 297
+23.12 18:50:36 Going to coordinates X=-14.828, Y=-37.900
+23.12 18:50:36 Moving is finished
+23.12 18:52:21 Scanning 42 point from 297
+23.12 18:52:21 Going to coordinates X=-14.758, Y=-37.900
+23.12 18:52:21 Moving is finished
+23.12 18:54:06 Scanning 43 point from 297
+23.12 18:54:06 Going to coordinates X=-14.688, Y=-37.900
+23.12 18:54:06 Moving is finished
+23.12 18:55:51 Scanning 44 point from 297
+23.12 18:55:51 Going to coordinates X=-14.618, Y=-37.900
+23.12 18:55:51 Moving is finished
+23.12 18:57:36 Scanning 45 point from 297
+23.12 18:57:36 Going to coordinates X=-14.548, Y=-37.900
+23.12 18:57:36 Moving is finished
+23.12 18:59:21 Scanning 46 point from 297
+23.12 18:59:21 Going to coordinates X=-14.478, Y=-37.900
+23.12 18:59:21 Moving is finished
+23.12 19:01:06 Scanning 47 point from 297
+23.12 19:01:06 Going to coordinates X=-14.408, Y=-37.900
+23.12 19:01:07 Moving is finished
+23.12 19:02:51 Scanning 48 point from 297
+23.12 19:02:51 Going to coordinates X=-14.338, Y=-37.900
+23.12 19:02:52 Moving is finished
+23.12 19:04:37 Scanning 49 point from 297
+23.12 19:04:37 Going to coordinates X=-14.268, Y=-37.900
+23.12 19:04:37 Moving is finished
+23.12 19:06:21 Scanning 50 point from 297
+23.12 19:06:25 Going to coordinates X=-14.198, Y=-37.900
+23.12 19:06:26 Moving is finished
+23.12 19:08:11 Scanning 51 point from 297
+23.12 19:08:11 Going to coordinates X=-14.128, Y=-37.900
+23.12 19:08:11 Moving is finished
+23.12 19:09:56 Scanning 52 point from 297
+23.12 19:09:56 Going to coordinates X=-14.058, Y=-37.900
+23.12 19:09:57 Moving is finished
+23.12 19:11:41 Scanning 53 point from 297
+23.12 19:11:41 Going to coordinates X=-13.988, Y=-37.900
+23.12 19:11:41 Moving is finished
+23.12 19:13:27 Scanning 54 point from 297
+23.12 19:13:27 Going to coordinates X=-15.808, Y=-37.800
+23.12 19:13:27 Moving is finished
+23.12 19:15:12 Scanning 55 point from 297
+23.12 19:15:12 Going to coordinates X=-15.738, Y=-37.800
+23.12 19:15:12 Moving is finished
+23.12 19:16:57 Scanning 56 point from 297
+23.12 19:16:57 Going to coordinates X=-15.668, Y=-37.800
+23.12 19:16:57 Moving is finished
+23.12 19:18:42 Scanning 57 point from 297
+23.12 19:18:42 Going to coordinates X=-15.598, Y=-37.800
+23.12 19:18:42 Moving is finished
+23.12 19:20:26 Scanning 58 point from 297
+23.12 19:20:26 Going to coordinates X=-15.528, Y=-37.800
+23.12 19:20:27 Moving is finished
+23.12 19:22:11 Scanning 59 point from 297
+23.12 19:22:11 Going to coordinates X=-15.458, Y=-37.800
+23.12 19:22:12 Moving is finished
+23.12 19:23:56 Scanning 60 point from 297
+23.12 19:24:01 Going to coordinates X=-15.388, Y=-37.800
+23.12 19:24:01 Moving is finished
+23.12 19:25:46 Scanning 61 point from 297
+23.12 19:25:46 Going to coordinates X=-15.318, Y=-37.800
+23.12 19:25:46 Moving is finished
+23.12 19:27:32 Scanning 62 point from 297
+23.12 19:27:32 Going to coordinates X=-15.248, Y=-37.800
+23.12 19:27:32 Moving is finished
+23.12 19:29:17 Scanning 63 point from 297
+23.12 19:29:17 Going to coordinates X=-15.178, Y=-37.800
+23.12 19:29:17 Moving is finished
+23.12 19:31:02 Scanning 64 point from 297
+23.12 19:31:02 Going to coordinates X=-15.108, Y=-37.800
+23.12 19:31:02 Moving is finished
+23.12 19:32:47 Scanning 65 point from 297
+23.12 19:32:47 Going to coordinates X=-15.038, Y=-37.800
+23.12 19:32:47 Moving is finished
+23.12 19:34:32 Scanning 66 point from 297
+23.12 19:34:32 Going to coordinates X=-14.968, Y=-37.800
+23.12 19:34:32 Moving is finished
+23.12 19:36:17 Scanning 67 point from 297
+23.12 19:36:17 Going to coordinates X=-14.898, Y=-37.800
+23.12 19:36:17 Moving is finished
+23.12 19:38:02 Scanning 68 point from 297
+23.12 19:38:02 Going to coordinates X=-14.828, Y=-37.800
+23.12 19:38:03 Moving is finished
+23.12 19:39:47 Scanning 69 point from 297
+23.12 19:39:47 Going to coordinates X=-14.758, Y=-37.800
+23.12 19:39:48 Moving is finished
+23.12 19:41:33 Scanning 70 point from 297
+23.12 19:41:37 Going to coordinates X=-14.688, Y=-37.800
+23.12 19:41:37 Moving is finished
+23.12 19:43:22 Scanning 71 point from 297
+23.12 19:43:22 Going to coordinates X=-14.618, Y=-37.800
+23.12 19:43:22 Moving is finished
+23.12 19:45:07 Scanning 72 point from 297
+23.12 19:45:07 Going to coordinates X=-14.548, Y=-37.800
+23.12 19:45:08 Moving is finished
+23.12 19:46:53 Scanning 73 point from 297
+23.12 19:46:53 Going to coordinates X=-14.478, Y=-37.800
+23.12 19:46:53 Moving is finished
+23.12 19:48:38 Scanning 74 point from 297
+23.12 19:48:38 Going to coordinates X=-14.408, Y=-37.800
+23.12 19:48:38 Moving is finished
+23.12 19:50:23 Scanning 75 point from 297
+23.12 19:50:23 Going to coordinates X=-14.338, Y=-37.800
+23.12 19:50:23 Moving is finished
+23.12 19:52:08 Scanning 76 point from 297
+23.12 19:52:08 Going to coordinates X=-14.268, Y=-37.800
+23.12 19:52:08 Moving is finished
+23.12 19:53:53 Scanning 77 point from 297
+23.12 19:53:53 Going to coordinates X=-14.198, Y=-37.800
+23.12 19:53:54 Moving is finished
+23.12 19:55:39 Scanning 78 point from 297
+23.12 19:55:39 Going to coordinates X=-14.128, Y=-37.800
+23.12 19:55:39 Moving is finished
+23.12 19:57:24 Scanning 79 point from 297
+23.12 19:57:24 Going to coordinates X=-14.058, Y=-37.800
+23.12 19:57:24 Moving is finished
+23.12 19:59:09 Scanning 80 point from 297
+23.12 19:59:12 Going to coordinates X=-13.988, Y=-37.800
+23.12 19:59:12 Moving is finished
+23.12 20:00:57 Scanning 81 point from 297
+23.12 20:00:57 Going to coordinates X=-15.808, Y=-37.700
+23.12 20:00:58 Moving is finished
+23.12 20:02:43 Scanning 82 point from 297
+23.12 20:02:43 Going to coordinates X=-15.738, Y=-37.700
+23.12 20:02:43 Moving is finished
+23.12 20:04:28 Scanning 83 point from 297
+23.12 20:04:28 Going to coordinates X=-15.668, Y=-37.700
+23.12 20:04:28 Moving is finished
+23.12 20:06:13 Scanning 84 point from 297
+23.12 20:06:13 Going to coordinates X=-15.598, Y=-37.700
+23.12 20:06:13 Moving is finished
+23.12 20:07:58 Scanning 85 point from 297
+23.12 20:07:58 Going to coordinates X=-15.528, Y=-37.700
+23.12 20:07:58 Moving is finished
+23.12 20:09:43 Scanning 86 point from 297
+23.12 20:09:43 Going to coordinates X=-15.458, Y=-37.700
+23.12 20:09:43 Moving is finished
+23.12 20:11:28 Scanning 87 point from 297
+23.12 20:11:28 Going to coordinates X=-15.388, Y=-37.700
+23.12 20:11:28 Moving is finished
+23.12 20:13:13 Scanning 88 point from 297
+23.12 20:13:13 Going to coordinates X=-15.318, Y=-37.700
+23.12 20:13:13 Moving is finished
+23.12 20:14:58 Scanning 89 point from 297
+23.12 20:14:58 Going to coordinates X=-15.248, Y=-37.700
+23.12 20:14:58 Moving is finished
+23.12 20:16:43 Scanning 90 point from 297
+23.12 20:16:47 Going to coordinates X=-15.178, Y=-37.700
+23.12 20:16:47 Moving is finished
+23.12 20:18:32 Scanning 91 point from 297
+23.12 20:18:32 Going to coordinates X=-15.108, Y=-37.700
+23.12 20:18:32 Moving is finished
+23.12 20:20:17 Scanning 92 point from 297
+23.12 20:20:17 Going to coordinates X=-15.038, Y=-37.700
+23.12 20:20:17 Moving is finished
+23.12 20:22:02 Scanning 93 point from 297
+23.12 20:22:02 Going to coordinates X=-14.968, Y=-37.700
+23.12 20:22:02 Moving is finished
+23.12 20:23:47 Scanning 94 point from 297
+23.12 20:23:47 Going to coordinates X=-14.898, Y=-37.700
+23.12 20:23:47 Moving is finished
+23.12 20:25:32 Scanning 95 point from 297
+23.12 20:25:32 Going to coordinates X=-14.828, Y=-37.700
+23.12 20:25:32 Moving is finished
+23.12 20:27:17 Scanning 96 point from 297
+23.12 20:27:17 Going to coordinates X=-14.758, Y=-37.700
+23.12 20:27:17 Moving is finished
+23.12 20:29:03 Scanning 97 point from 297
+23.12 20:29:03 Going to coordinates X=-14.688, Y=-37.700
+23.12 20:29:03 Moving is finished
+23.12 20:30:47 Scanning 98 point from 297
+23.12 20:30:47 Going to coordinates X=-14.618, Y=-37.700
+23.12 20:30:48 Moving is finished
+23.12 20:32:32 Scanning 99 point from 297
+23.12 20:32:32 Going to coordinates X=-14.548, Y=-37.700
+23.12 20:32:33 Moving is finished
+23.12 20:34:18 Scanning 100 point from 297
+23.12 20:34:22 Going to coordinates X=-14.478, Y=-37.700
+23.12 20:34:22 Moving is finished
+23.12 20:36:07 Scanning 101 point from 297
+23.12 20:36:07 Going to coordinates X=-14.408, Y=-37.700
+23.12 20:36:07 Moving is finished
+23.12 20:37:52 Scanning 102 point from 297
+23.12 20:37:52 Going to coordinates X=-14.338, Y=-37.700
+23.12 20:37:52 Moving is finished
+23.12 20:39:36 Scanning 103 point from 297
+23.12 20:39:36 Going to coordinates X=-14.268, Y=-37.700
+23.12 20:39:37 Moving is finished
+23.12 20:41:22 Scanning 104 point from 297
+23.12 20:41:22 Going to coordinates X=-14.198, Y=-37.700
+23.12 20:41:22 Moving is finished
+23.12 20:43:06 Scanning 105 point from 297
+23.12 20:43:06 Going to coordinates X=-14.128, Y=-37.700
+23.12 20:43:07 Moving is finished
+23.12 20:44:52 Scanning 106 point from 297
+23.12 20:44:52 Going to coordinates X=-14.058, Y=-37.700
+23.12 20:44:52 Moving is finished
+23.12 20:46:36 Scanning 107 point from 297
+23.12 20:46:36 Going to coordinates X=-13.988, Y=-37.700
+23.12 20:46:37 Moving is finished
+23.12 20:48:22 Scanning 108 point from 297
+23.12 20:48:22 Going to coordinates X=-15.808, Y=-37.600
+23.12 20:48:23 Moving is finished
+23.12 20:50:08 Scanning 109 point from 297
+23.12 20:50:08 Going to coordinates X=-15.738, Y=-37.600
+23.12 20:50:08 Moving is finished
+23.12 20:51:54 Scanning 110 point from 297
+23.12 20:51:58 Going to coordinates X=-15.668, Y=-37.600
+23.12 20:51:58 Moving is finished
+23.12 20:53:43 Scanning 111 point from 297
+23.12 20:53:43 Going to coordinates X=-15.598, Y=-37.600
+23.12 20:53:43 Moving is finished
+23.12 20:55:28 Scanning 112 point from 297
+23.12 20:55:28 Going to coordinates X=-15.528, Y=-37.600
+23.12 20:55:28 Moving is finished
+23.12 20:57:13 Scanning 113 point from 297
+23.12 20:57:13 Going to coordinates X=-15.458, Y=-37.600
+23.12 20:57:14 Moving is finished
+23.12 20:58:59 Scanning 114 point from 297
+23.12 20:58:59 Going to coordinates X=-15.388, Y=-37.600
+23.12 20:58:59 Moving is finished
+23.12 21:00:44 Scanning 115 point from 297
+23.12 21:00:44 Going to coordinates X=-15.318, Y=-37.600
+23.12 21:00:44 Moving is finished
+23.12 21:02:29 Scanning 116 point from 297
+23.12 21:02:29 Going to coordinates X=-15.248, Y=-37.600
+23.12 21:02:29 Moving is finished
+23.12 21:04:14 Scanning 117 point from 297
+23.12 21:04:14 Going to coordinates X=-15.178, Y=-37.600
+23.12 21:04:14 Moving is finished
+23.12 21:05:59 Scanning 118 point from 297
+23.12 21:05:59 Going to coordinates X=-15.108, Y=-37.600
+23.12 21:05:59 Moving is finished
+23.12 21:07:44 Scanning 119 point from 297
+23.12 21:07:44 Going to coordinates X=-15.038, Y=-37.600
+23.12 21:07:44 Moving is finished
+23.12 21:09:29 Scanning 120 point from 297
+23.12 21:09:33 Going to coordinates X=-14.968, Y=-37.600
+23.12 21:09:34 Moving is finished
+23.12 21:11:18 Scanning 121 point from 297
+23.12 21:11:18 Going to coordinates X=-14.898, Y=-37.600
+23.12 21:11:19 Moving is finished
+23.12 21:13:04 Scanning 122 point from 297
+23.12 21:13:04 Going to coordinates X=-14.828, Y=-37.600
+23.12 21:13:04 Moving is finished
+23.12 21:14:49 Scanning 123 point from 297
+23.12 21:14:49 Going to coordinates X=-14.758, Y=-37.600
+23.12 21:14:49 Moving is finished
+23.12 21:16:34 Scanning 124 point from 297
+23.12 21:16:34 Going to coordinates X=-14.688, Y=-37.600
+23.12 21:16:34 Moving is finished
+23.12 21:18:19 Scanning 125 point from 297
+23.12 21:18:19 Going to coordinates X=-14.618, Y=-37.600
+23.12 21:18:19 Moving is finished
+23.12 21:20:04 Scanning 126 point from 297
+23.12 21:20:04 Going to coordinates X=-14.548, Y=-37.600
+23.12 21:20:04 Moving is finished
+23.12 21:21:49 Scanning 127 point from 297
+23.12 21:21:49 Going to coordinates X=-14.478, Y=-37.600
+23.12 21:21:49 Moving is finished
+23.12 21:23:34 Scanning 128 point from 297
+23.12 21:23:34 Going to coordinates X=-14.408, Y=-37.600
+23.12 21:23:34 Moving is finished
+23.12 21:25:19 Scanning 129 point from 297
+23.12 21:25:19 Going to coordinates X=-14.338, Y=-37.600
+23.12 21:25:19 Moving is finished
+23.12 21:27:04 Scanning 130 point from 297
+23.12 21:27:08 Going to coordinates X=-14.268, Y=-37.600
+23.12 21:27:08 Moving is finished
+23.12 21:28:53 Scanning 131 point from 297
+23.12 21:28:53 Going to coordinates X=-14.198, Y=-37.600
+23.12 21:28:53 Moving is finished
+23.12 21:30:38 Scanning 132 point from 297
+23.12 21:30:38 Going to coordinates X=-14.128, Y=-37.600
+23.12 21:30:38 Moving is finished
+23.12 21:32:23 Scanning 133 point from 297
+23.12 21:32:23 Going to coordinates X=-14.058, Y=-37.600
+23.12 21:32:24 Moving is finished
+23.12 21:34:08 Scanning 134 point from 297
+23.12 21:34:08 Going to coordinates X=-13.988, Y=-37.600
+23.12 21:34:08 Moving is finished
+23.12 21:35:53 Scanning 135 point from 297
+23.12 21:35:53 Going to coordinates X=-15.808, Y=-37.500
+23.12 21:35:54 Moving is finished
+23.12 21:37:39 Scanning 136 point from 297
+23.12 21:37:39 Going to coordinates X=-15.738, Y=-37.500
+23.12 21:37:39 Moving is finished
+23.12 21:39:23 Scanning 137 point from 297
+23.12 21:39:23 Going to coordinates X=-15.668, Y=-37.500
+23.12 21:39:24 Moving is finished
+23.12 21:41:08 Scanning 138 point from 297
+23.12 21:41:08 Going to coordinates X=-15.598, Y=-37.500
+23.12 21:41:09 Moving is finished
+23.12 21:42:53 Scanning 139 point from 297
+23.12 21:42:53 Going to coordinates X=-15.528, Y=-37.500
+23.12 21:42:53 Moving is finished
+23.12 21:44:38 Scanning 140 point from 297
+23.12 21:44:42 Going to coordinates X=-15.458, Y=-37.500
+23.12 21:44:42 Moving is finished
+23.12 21:46:27 Scanning 141 point from 297
+23.12 21:46:27 Going to coordinates X=-15.388, Y=-37.500
+23.12 21:46:27 Moving is finished
+23.12 21:48:13 Scanning 142 point from 297
+23.12 21:48:13 Going to coordinates X=-15.318, Y=-37.500
+23.12 21:48:13 Moving is finished
+23.12 21:49:58 Scanning 143 point from 297
+23.12 21:49:58 Going to coordinates X=-15.248, Y=-37.500
+23.12 21:49:58 Moving is finished
+23.12 21:51:42 Scanning 144 point from 297
+23.12 21:51:42 Going to coordinates X=-15.178, Y=-37.500
+23.12 21:51:43 Moving is finished
+23.12 21:53:28 Scanning 145 point from 297
+23.12 21:53:28 Going to coordinates X=-15.108, Y=-37.500
+23.12 21:53:28 Moving is finished
+23.12 21:55:12 Scanning 146 point from 297
+23.12 21:55:12 Going to coordinates X=-15.038, Y=-37.500
+23.12 21:55:12 Moving is finished
+23.12 21:56:58 Scanning 147 point from 297
+23.12 21:56:58 Going to coordinates X=-14.968, Y=-37.500
+23.12 21:56:58 Moving is finished
+23.12 21:58:42 Scanning 148 point from 297
+23.12 21:58:42 Going to coordinates X=-14.898, Y=-37.500
+23.12 21:58:42 Moving is finished
+23.12 22:00:27 Scanning 149 point from 297
+23.12 22:00:27 Going to coordinates X=-14.828, Y=-37.500
+23.12 22:00:28 Moving is finished
+23.12 22:02:12 Scanning 150 point from 297
+23.12 22:02:16 Going to coordinates X=-14.758, Y=-37.500
+23.12 22:02:17 Moving is finished
+23.12 22:04:02 Scanning 151 point from 297
+23.12 22:04:02 Going to coordinates X=-14.688, Y=-37.500
+23.12 22:04:02 Moving is finished
+23.12 22:05:46 Scanning 152 point from 297
+23.12 22:05:46 Going to coordinates X=-14.618, Y=-37.500
+23.12 22:05:47 Moving is finished
+23.12 22:07:33 Scanning 153 point from 297
+23.12 22:07:33 Going to coordinates X=-14.548, Y=-37.500
+23.12 22:07:33 Moving is finished
+23.12 22:09:18 Scanning 154 point from 297
+23.12 22:09:18 Going to coordinates X=-14.478, Y=-37.500
+23.12 22:09:18 Moving is finished
+23.12 22:11:02 Scanning 155 point from 297
+23.12 22:11:02 Going to coordinates X=-14.408, Y=-37.500
+23.12 22:11:03 Moving is finished
+23.12 22:12:47 Scanning 156 point from 297
+23.12 22:12:47 Going to coordinates X=-14.338, Y=-37.500
+23.12 22:12:47 Moving is finished
+23.12 22:14:32 Scanning 157 point from 297
+23.12 22:14:32 Going to coordinates X=-14.268, Y=-37.500
+23.12 22:14:33 Moving is finished
+23.12 22:16:18 Scanning 158 point from 297
+23.12 22:16:18 Going to coordinates X=-14.198, Y=-37.500
+23.12 22:16:18 Moving is finished
+23.12 22:18:03 Scanning 159 point from 297
+23.12 22:18:03 Going to coordinates X=-14.128, Y=-37.500
+23.12 22:18:03 Moving is finished
+23.12 22:19:48 Scanning 160 point from 297
+23.12 22:19:52 Going to coordinates X=-14.058, Y=-37.500
+23.12 22:19:52 Moving is finished
+23.12 22:21:37 Scanning 161 point from 297
+23.12 22:21:37 Going to coordinates X=-13.988, Y=-37.500
+23.12 22:21:37 Moving is finished
+23.12 22:23:22 Scanning 162 point from 297
+23.12 22:23:22 Going to coordinates X=-15.808, Y=-37.400
+23.12 22:23:23 Moving is finished
+23.12 22:25:08 Scanning 163 point from 297
+23.12 22:25:08 Going to coordinates X=-15.738, Y=-37.400
+23.12 22:25:08 Moving is finished
+23.12 22:26:52 Scanning 164 point from 297
+23.12 22:26:52 Going to coordinates X=-15.668, Y=-37.400
+23.12 22:26:53 Moving is finished
+23.12 22:28:37 Scanning 165 point from 297
+23.12 22:28:37 Going to coordinates X=-15.598, Y=-37.400
+23.12 22:28:38 Moving is finished
+23.12 22:30:22 Scanning 166 point from 297
+23.12 22:30:22 Going to coordinates X=-15.528, Y=-37.400
+23.12 22:30:22 Moving is finished
+23.12 22:32:06 Scanning 167 point from 297
+23.12 22:32:06 Going to coordinates X=-15.458, Y=-37.400
+23.12 22:32:07 Moving is finished
+23.12 22:33:52 Scanning 168 point from 297
+23.12 22:33:52 Going to coordinates X=-15.388, Y=-37.400
+23.12 22:33:52 Moving is finished
+23.12 22:35:37 Scanning 169 point from 297
+23.12 22:35:37 Going to coordinates X=-15.318, Y=-37.400
+23.12 22:35:37 Moving is finished
+23.12 22:37:22 Scanning 170 point from 297
+23.12 22:37:26 Going to coordinates X=-15.248, Y=-37.400
+23.12 22:37:26 Moving is finished
+23.12 22:39:11 Scanning 171 point from 297
+23.12 22:39:11 Going to coordinates X=-15.178, Y=-37.400
+23.12 22:39:11 Moving is finished
+23.12 22:40:57 Scanning 172 point from 297
+23.12 22:40:57 Going to coordinates X=-15.108, Y=-37.400
+23.12 22:40:57 Moving is finished
+23.12 22:42:42 Scanning 173 point from 297
+23.12 22:42:42 Going to coordinates X=-15.038, Y=-37.400
+23.12 22:42:42 Moving is finished
+23.12 22:44:28 Scanning 174 point from 297
+23.12 22:44:28 Going to coordinates X=-14.968, Y=-37.400
+23.12 22:44:28 Moving is finished
+23.12 22:46:13 Scanning 175 point from 297
+23.12 22:46:13 Going to coordinates X=-14.898, Y=-37.400
+23.12 22:46:13 Moving is finished
+23.12 22:47:58 Scanning 176 point from 297
+23.12 22:47:58 Going to coordinates X=-14.828, Y=-37.400
+23.12 22:47:59 Moving is finished
+23.12 22:49:44 Scanning 177 point from 297
+23.12 22:49:44 Going to coordinates X=-14.758, Y=-37.400
+23.12 22:49:44 Moving is finished
+23.12 22:51:30 Scanning 178 point from 297
+23.12 22:51:30 Going to coordinates X=-14.688, Y=-37.400
+23.12 22:51:30 Moving is finished
+23.12 22:53:14 Scanning 179 point from 297
+23.12 22:53:14 Going to coordinates X=-14.618, Y=-37.400
+23.12 22:53:15 Moving is finished
+23.12 22:54:59 Scanning 180 point from 297
+23.12 22:55:03 Going to coordinates X=-14.548, Y=-37.400
+23.12 22:55:04 Moving is finished
+23.12 22:56:48 Scanning 181 point from 297
+23.12 22:56:48 Going to coordinates X=-14.478, Y=-37.400
+23.12 22:56:49 Moving is finished
+23.12 22:58:34 Scanning 182 point from 297
+23.12 22:58:34 Going to coordinates X=-14.408, Y=-37.400
+23.12 22:58:35 Moving is finished
+23.12 23:00:19 Scanning 183 point from 297
+23.12 23:00:19 Going to coordinates X=-14.338, Y=-37.400
+23.12 23:00:19 Moving is finished
+23.12 23:02:04 Scanning 184 point from 297
+23.12 23:02:04 Going to coordinates X=-14.268, Y=-37.400
+23.12 23:02:04 Moving is finished
+23.12 23:03:49 Scanning 185 point from 297
+23.12 23:03:49 Going to coordinates X=-14.198, Y=-37.400
+23.12 23:03:49 Moving is finished
+23.12 23:05:34 Scanning 186 point from 297
+23.12 23:05:34 Going to coordinates X=-14.128, Y=-37.400
+23.12 23:05:34 Moving is finished
+23.12 23:07:19 Scanning 187 point from 297
+23.12 23:07:19 Going to coordinates X=-14.058, Y=-37.400
+23.12 23:07:19 Moving is finished
+23.12 23:09:04 Scanning 188 point from 297
+23.12 23:09:04 Going to coordinates X=-13.988, Y=-37.400
+23.12 23:09:04 Moving is finished
+23.12 23:10:50 Scanning 189 point from 297
+23.12 23:10:50 Going to coordinates X=-15.808, Y=-37.300
+23.12 23:10:51 Moving is finished
+23.12 23:12:35 Scanning 190 point from 297
+23.12 23:12:40 Going to coordinates X=-15.738, Y=-37.300
+23.12 23:12:40 Moving is finished
+23.12 23:14:25 Scanning 191 point from 297
+23.12 23:14:25 Going to coordinates X=-15.668, Y=-37.300
+23.12 23:14:25 Moving is finished
+23.12 23:16:09 Scanning 192 point from 297
+23.12 23:16:09 Going to coordinates X=-15.598, Y=-37.300
+23.12 23:16:10 Moving is finished
+23.12 23:17:55 Scanning 193 point from 297
+23.12 23:17:55 Going to coordinates X=-15.528, Y=-37.300
+23.12 23:17:55 Moving is finished
+23.12 23:19:40 Scanning 194 point from 297
+23.12 23:19:40 Going to coordinates X=-15.458, Y=-37.300
+23.12 23:19:40 Moving is finished
+23.12 23:21:25 Scanning 195 point from 297
+23.12 23:21:25 Going to coordinates X=-15.388, Y=-37.300
+23.12 23:21:25 Moving is finished
+23.12 23:23:10 Scanning 196 point from 297
+23.12 23:23:10 Going to coordinates X=-15.318, Y=-37.300
+23.12 23:23:10 Moving is finished
+23.12 23:24:54 Scanning 197 point from 297
+23.12 23:24:54 Going to coordinates X=-15.248, Y=-37.300
+23.12 23:24:55 Moving is finished
+23.12 23:26:40 Scanning 198 point from 297
+23.12 23:26:40 Going to coordinates X=-15.178, Y=-37.300
+23.12 23:26:40 Moving is finished
+23.12 23:28:25 Scanning 199 point from 297
+23.12 23:28:25 Going to coordinates X=-15.108, Y=-37.300
+23.12 23:28:25 Moving is finished
+23.12 23:30:10 Scanning 200 point from 297
+23.12 23:30:14 Going to coordinates X=-15.038, Y=-37.300
+23.12 23:30:14 Moving is finished
+23.12 23:31:59 Scanning 201 point from 297
+23.12 23:31:59 Going to coordinates X=-14.968, Y=-37.300
+23.12 23:32:00 Moving is finished
+23.12 23:33:45 Scanning 202 point from 297
+23.12 23:33:45 Going to coordinates X=-14.898, Y=-37.300
+23.12 23:33:45 Moving is finished
+23.12 23:35:31 Scanning 203 point from 297
+23.12 23:35:31 Going to coordinates X=-14.828, Y=-37.300
+23.12 23:35:31 Moving is finished
+23.12 23:37:16 Scanning 204 point from 297
+23.12 23:37:16 Going to coordinates X=-14.758, Y=-37.300
+23.12 23:37:16 Moving is finished
+23.12 23:39:01 Scanning 205 point from 297
+23.12 23:39:01 Going to coordinates X=-14.688, Y=-37.300
+23.12 23:39:01 Moving is finished
+23.12 23:40:46 Scanning 206 point from 297
+23.12 23:40:46 Going to coordinates X=-14.618, Y=-37.300
+23.12 23:40:46 Moving is finished
+23.12 23:42:32 Scanning 207 point from 297
+23.12 23:42:32 Going to coordinates X=-14.548, Y=-37.300
+23.12 23:42:32 Moving is finished
+23.12 23:44:16 Scanning 208 point from 297
+23.12 23:44:16 Going to coordinates X=-14.478, Y=-37.300
+23.12 23:44:17 Moving is finished
+23.12 23:46:02 Scanning 209 point from 297
+23.12 23:46:02 Going to coordinates X=-14.408, Y=-37.300
+23.12 23:46:02 Moving is finished
+23.12 23:47:47 Scanning 210 point from 297
+23.12 23:47:51 Going to coordinates X=-14.338, Y=-37.300
+23.12 23:47:52 Moving is finished
+23.12 23:49:36 Scanning 211 point from 297
+23.12 23:49:36 Going to coordinates X=-14.268, Y=-37.300
+23.12 23:49:37 Moving is finished
+23.12 23:51:22 Scanning 212 point from 297
+23.12 23:51:22 Going to coordinates X=-14.198, Y=-37.300
+23.12 23:51:22 Moving is finished
+23.12 23:53:07 Scanning 213 point from 297
+23.12 23:53:07 Going to coordinates X=-14.128, Y=-37.300
+23.12 23:53:07 Moving is finished
+23.12 23:54:52 Scanning 214 point from 297
+23.12 23:54:52 Going to coordinates X=-14.058, Y=-37.300
+23.12 23:54:52 Moving is finished
+23.12 23:56:37 Scanning 215 point from 297
+23.12 23:56:37 Going to coordinates X=-13.988, Y=-37.300
+23.12 23:56:37 Moving is finished
+23.12 23:58:22 Scanning 216 point from 297
+23.12 23:58:22 Going to coordinates X=-15.808, Y=-37.200
+23.12 23:58:23 Moving is finished
+24.12 00:00:08 Scanning 217 point from 297
+24.12 00:00:08 Going to coordinates X=-15.738, Y=-37.200
+24.12 00:00:08 Moving is finished
+24.12 00:01:54 Scanning 218 point from 297
+24.12 00:01:54 Going to coordinates X=-15.668, Y=-37.200
+24.12 00:01:54 Moving is finished
+24.12 00:03:38 Scanning 219 point from 297
+24.12 00:03:38 Going to coordinates X=-15.598, Y=-37.200
+24.12 00:03:39 Moving is finished
+24.12 00:05:23 Scanning 220 point from 297
+24.12 00:05:27 Going to coordinates X=-15.528, Y=-37.200
+24.12 00:05:27 Moving is finished
+24.12 00:07:12 Scanning 221 point from 297
+24.12 00:07:12 Going to coordinates X=-15.458, Y=-37.200
+24.12 00:07:12 Moving is finished
+24.12 00:08:57 Scanning 222 point from 297
+24.12 00:08:57 Going to coordinates X=-15.388, Y=-37.200
+24.12 00:08:57 Moving is finished
+24.12 00:10:42 Scanning 223 point from 297
+24.12 00:10:42 Going to coordinates X=-15.318, Y=-37.200
+24.12 00:10:42 Moving is finished
+24.12 00:12:27 Scanning 224 point from 297
+24.12 00:12:27 Going to coordinates X=-15.248, Y=-37.200
+24.12 00:12:27 Moving is finished
+24.12 00:14:12 Scanning 225 point from 297
+24.12 00:14:12 Going to coordinates X=-15.178, Y=-37.200
+24.12 00:14:12 Moving is finished
+24.12 00:15:57 Scanning 226 point from 297
+24.12 00:15:57 Going to coordinates X=-15.108, Y=-37.200
+24.12 00:15:57 Moving is finished
+24.12 00:17:42 Scanning 227 point from 297
+24.12 00:17:42 Going to coordinates X=-15.038, Y=-37.200
+24.12 00:17:42 Moving is finished
+24.12 00:19:27 Scanning 228 point from 297
+24.12 00:19:27 Going to coordinates X=-14.968, Y=-37.200
+24.12 00:19:28 Moving is finished
+24.12 00:21:12 Scanning 229 point from 297
+24.12 00:21:12 Going to coordinates X=-14.898, Y=-37.200
+24.12 00:21:13 Moving is finished
+24.12 00:22:57 Scanning 230 point from 297
+24.12 00:23:01 Going to coordinates X=-14.828, Y=-37.200
+24.12 00:23:01 Moving is finished
+24.12 00:24:46 Scanning 231 point from 297
+24.12 00:24:46 Going to coordinates X=-14.758, Y=-37.200
+24.12 00:24:46 Moving is finished
+24.12 00:26:31 Scanning 232 point from 297
+24.12 00:26:31 Going to coordinates X=-14.688, Y=-37.200
+24.12 00:26:32 Moving is finished
+24.12 00:28:16 Scanning 233 point from 297
+24.12 00:28:16 Going to coordinates X=-14.618, Y=-37.200
+24.12 00:28:16 Moving is finished
+24.12 00:30:02 Scanning 234 point from 297
+24.12 00:30:02 Going to coordinates X=-14.548, Y=-37.200
+24.12 00:30:02 Moving is finished
+24.12 00:31:47 Scanning 235 point from 297
+24.12 00:31:47 Going to coordinates X=-14.478, Y=-37.200
+24.12 00:31:47 Moving is finished
+24.12 00:33:32 Scanning 236 point from 297
+24.12 00:33:32 Going to coordinates X=-14.408, Y=-37.200
+24.12 00:33:32 Moving is finished
+24.12 00:35:17 Scanning 237 point from 297
+24.12 00:35:17 Going to coordinates X=-14.338, Y=-37.200
+24.12 00:35:17 Moving is finished
+24.12 00:37:02 Scanning 238 point from 297
+24.12 00:37:02 Going to coordinates X=-14.268, Y=-37.200
+24.12 00:37:02 Moving is finished
+24.12 00:38:47 Scanning 239 point from 297
+24.12 00:38:47 Going to coordinates X=-14.198, Y=-37.200
+24.12 00:38:47 Moving is finished
+24.12 00:40:32 Scanning 240 point from 297
+24.12 00:40:36 Going to coordinates X=-14.128, Y=-37.200
+24.12 00:40:36 Moving is finished
+24.12 00:42:21 Scanning 241 point from 297
+24.12 00:42:21 Going to coordinates X=-14.058, Y=-37.200
+24.12 00:42:21 Moving is finished
+24.12 00:44:06 Scanning 242 point from 297
+24.12 00:44:06 Going to coordinates X=-13.988, Y=-37.200
+24.12 00:44:06 Moving is finished
+24.12 00:45:51 Scanning 243 point from 297
+24.12 00:45:51 Going to coordinates X=-15.808, Y=-37.100
+24.12 00:45:52 Moving is finished
+24.12 00:47:37 Scanning 244 point from 297
+24.12 00:47:37 Going to coordinates X=-15.738, Y=-37.100
+24.12 00:47:37 Moving is finished
+24.12 00:49:21 Scanning 245 point from 297
+24.12 00:49:21 Going to coordinates X=-15.668, Y=-37.100
+24.12 00:49:22 Moving is finished
+24.12 00:51:06 Scanning 246 point from 297
+24.12 00:51:06 Going to coordinates X=-15.598, Y=-37.100
+24.12 00:51:06 Moving is finished
+24.12 00:52:51 Scanning 247 point from 297
+24.12 00:52:51 Going to coordinates X=-15.528, Y=-37.100
+24.12 00:52:51 Moving is finished
+24.12 00:54:37 Scanning 248 point from 297
+24.12 00:54:37 Going to coordinates X=-15.458, Y=-37.100
+24.12 00:54:37 Moving is finished
+24.12 00:56:22 Scanning 249 point from 297
+24.12 00:56:22 Going to coordinates X=-15.388, Y=-37.100
+24.12 00:56:22 Moving is finished
+24.12 00:58:07 Scanning 250 point from 297
+24.12 00:58:11 Going to coordinates X=-15.318, Y=-37.100
+24.12 00:58:12 Moving is finished
+24.12 00:59:56 Scanning 251 point from 297
+24.12 00:59:56 Going to coordinates X=-15.248, Y=-37.100
+24.12 00:59:56 Moving is finished
+24.12 01:01:41 Scanning 252 point from 297
+24.12 01:01:41 Going to coordinates X=-15.178, Y=-37.100
+24.12 01:01:42 Moving is finished
+24.12 01:03:27 Scanning 253 point from 297
+24.12 01:03:27 Going to coordinates X=-15.108, Y=-37.100
+24.12 01:03:27 Moving is finished
+24.12 01:05:12 Scanning 254 point from 297
+24.12 01:05:12 Going to coordinates X=-15.038, Y=-37.100
+24.12 01:05:12 Moving is finished
+24.12 01:06:57 Scanning 255 point from 297
+24.12 01:06:57 Going to coordinates X=-14.968, Y=-37.100
+24.12 01:06:58 Moving is finished
+24.12 01:08:42 Scanning 256 point from 297
+24.12 01:08:42 Going to coordinates X=-14.898, Y=-37.100
+24.12 01:08:42 Moving is finished
+24.12 01:10:27 Scanning 257 point from 297
+24.12 01:10:27 Going to coordinates X=-14.828, Y=-37.100
+24.12 01:10:27 Moving is finished
+24.12 01:12:11 Scanning 258 point from 297
+24.12 01:12:11 Going to coordinates X=-14.758, Y=-37.100
+24.12 01:12:12 Moving is finished
+24.12 01:13:56 Scanning 259 point from 297
+24.12 01:13:56 Going to coordinates X=-14.688, Y=-37.100
+24.12 01:13:56 Moving is finished
+24.12 01:15:41 Scanning 260 point from 297
+24.12 01:15:44 Going to coordinates X=-14.618, Y=-37.100
+24.12 01:15:44 Moving is finished
+24.12 01:17:29 Scanning 261 point from 297
+24.12 01:17:29 Going to coordinates X=-14.548, Y=-37.100
+24.12 01:17:29 Moving is finished
+24.12 01:19:14 Scanning 262 point from 297
+24.12 01:19:14 Going to coordinates X=-14.478, Y=-37.100
+24.12 01:19:14 Moving is finished
+24.12 01:20:59 Scanning 263 point from 297
+24.12 01:20:59 Going to coordinates X=-14.408, Y=-37.100
+24.12 01:21:00 Moving is finished
+24.12 01:22:44 Scanning 264 point from 297
+24.12 01:22:44 Going to coordinates X=-14.338, Y=-37.100
+24.12 01:22:45 Moving is finished
+24.12 01:24:29 Scanning 265 point from 297
+24.12 01:24:29 Going to coordinates X=-14.268, Y=-37.100
+24.12 01:24:29 Moving is finished
+24.12 01:26:14 Scanning 266 point from 297
+24.12 01:26:14 Going to coordinates X=-14.198, Y=-37.100
+24.12 01:26:14 Moving is finished
+24.12 01:28:00 Scanning 267 point from 297
+24.12 01:28:00 Going to coordinates X=-14.128, Y=-37.100
+24.12 01:28:00 Moving is finished
+24.12 01:29:44 Scanning 268 point from 297
+24.12 01:29:44 Going to coordinates X=-14.058, Y=-37.100
+24.12 01:29:45 Moving is finished
+24.12 01:31:29 Scanning 269 point from 297
+24.12 01:31:29 Going to coordinates X=-13.988, Y=-37.100
+24.12 01:31:29 Moving is finished
+24.12 01:33:14 Scanning 270 point from 297
+24.12 01:33:17 Going to coordinates X=-15.808, Y=-37.000
+24.12 01:33:18 Moving is finished
+24.12 01:35:03 Scanning 271 point from 297
+24.12 01:35:03 Going to coordinates X=-15.738, Y=-37.000
+24.12 01:35:03 Moving is finished
+24.12 01:36:48 Scanning 272 point from 297
+24.12 01:36:48 Going to coordinates X=-15.668, Y=-37.000
+24.12 01:36:48 Moving is finished
+24.12 01:38:33 Scanning 273 point from 297
+24.12 01:38:33 Going to coordinates X=-15.598, Y=-37.000
+24.12 01:38:33 Moving is finished
+24.12 01:40:18 Scanning 274 point from 297
+24.12 01:40:18 Going to coordinates X=-15.528, Y=-37.000
+24.12 01:40:18 Moving is finished
+24.12 01:42:03 Scanning 275 point from 297
+24.12 01:42:03 Going to coordinates X=-15.458, Y=-37.000
+24.12 01:42:04 Moving is finished
+24.12 01:43:48 Scanning 276 point from 297
+24.12 01:43:48 Going to coordinates X=-15.388, Y=-37.000
+24.12 01:43:49 Moving is finished
+24.12 01:45:33 Scanning 277 point from 297
+24.12 01:45:33 Going to coordinates X=-15.318, Y=-37.000
+24.12 01:45:33 Moving is finished
+24.12 01:47:18 Scanning 278 point from 297
+24.12 01:47:18 Going to coordinates X=-15.248, Y=-37.000
+24.12 01:47:18 Moving is finished
+24.12 01:49:02 Scanning 279 point from 297
+24.12 01:49:02 Going to coordinates X=-15.178, Y=-37.000
+24.12 01:49:02 Moving is finished
+24.12 01:50:47 Scanning 280 point from 297
+24.12 01:50:51 Going to coordinates X=-15.108, Y=-37.000
+24.12 01:50:52 Moving is finished
+24.12 01:52:36 Scanning 281 point from 297
+24.12 01:52:36 Going to coordinates X=-15.038, Y=-37.000
+24.12 01:52:37 Moving is finished
+24.12 01:54:21 Scanning 282 point from 297
+24.12 01:54:21 Going to coordinates X=-14.968, Y=-37.000
+24.12 01:54:22 Moving is finished
+24.12 01:56:06 Scanning 283 point from 297
+24.12 01:56:06 Going to coordinates X=-14.898, Y=-37.000
+24.12 01:56:07 Moving is finished
+24.12 01:57:51 Scanning 284 point from 297
+24.12 01:57:51 Going to coordinates X=-14.828, Y=-37.000
+24.12 01:57:51 Moving is finished
+24.12 01:59:36 Scanning 285 point from 297
+24.12 01:59:36 Going to coordinates X=-14.758, Y=-37.000
+24.12 01:59:36 Moving is finished
+24.12 02:01:21 Scanning 286 point from 297
+24.12 02:01:21 Going to coordinates X=-14.688, Y=-37.000
+24.12 02:01:21 Moving is finished
+24.12 02:03:06 Scanning 287 point from 297
+24.12 02:03:06 Going to coordinates X=-14.618, Y=-37.000
+24.12 02:03:06 Moving is finished
+24.12 02:04:51 Scanning 288 point from 297
+24.12 02:04:51 Going to coordinates X=-14.548, Y=-37.000
+24.12 02:04:51 Moving is finished
+24.12 02:06:37 Scanning 289 point from 297
+24.12 02:06:37 Going to coordinates X=-14.478, Y=-37.000
+24.12 02:06:37 Moving is finished
+24.12 02:08:21 Scanning 290 point from 297
+24.12 02:08:26 Going to coordinates X=-14.408, Y=-37.000
+24.12 02:08:26 Moving is finished
+24.12 02:10:11 Scanning 291 point from 297
+24.12 02:10:11 Going to coordinates X=-14.338, Y=-37.000
+24.12 02:10:11 Moving is finished
+24.12 02:11:56 Scanning 292 point from 297
+24.12 02:11:56 Going to coordinates X=-14.268, Y=-37.000
+24.12 02:11:57 Moving is finished
+24.12 02:13:42 Scanning 293 point from 297
+24.12 02:13:42 Going to coordinates X=-14.198, Y=-37.000
+24.12 02:13:42 Moving is finished
+24.12 02:15:26 Scanning 294 point from 297
+24.12 02:15:26 Going to coordinates X=-14.128, Y=-37.000
+24.12 02:15:26 Moving is finished
+24.12 02:17:11 Scanning 295 point from 297
+24.12 02:17:11 Going to coordinates X=-14.058, Y=-37.000
+24.12 02:17:12 Moving is finished
+24.12 02:18:57 Scanning 296 point from 297
+24.12 02:18:57 Going to coordinates X=-13.988, Y=-37.000
+24.12 02:18:57 Moving is finished

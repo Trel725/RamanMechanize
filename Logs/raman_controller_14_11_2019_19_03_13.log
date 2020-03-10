@@ -1,0 +1,1153 @@
+14.11 19:03:14 Initializing grbl...
+14.11 19:03:14 Got the response: b''
+14.11 19:16:57 Row 0: 14.11 19:16:57 Map: x1: -3.981, y1: -39.272, x2: -5.466, y2: -38.123, xres: 0.050, yres: 0.050, fname: Mat Sol2 D
+14.11 19:16:57 Scanning 0 point from 744
+14.11 19:16:57 Going to coordinates X=-5.466, Y=-39.272
+14.11 19:16:58 Moving is finished
+14.11 19:19:07 Scanning 1 point from 744
+14.11 19:19:07 Going to coordinates X=-5.416, Y=-39.272
+14.11 19:19:07 Moving is finished
+14.11 19:21:15 Scanning 2 point from 744
+14.11 19:21:15 Going to coordinates X=-5.366, Y=-39.272
+14.11 19:21:15 Moving is finished
+14.11 19:23:24 Scanning 3 point from 744
+14.11 19:23:24 Going to coordinates X=-5.316, Y=-39.272
+14.11 19:23:24 Moving is finished
+14.11 19:25:33 Scanning 4 point from 744
+14.11 19:25:33 Going to coordinates X=-5.266, Y=-39.272
+14.11 19:25:33 Moving is finished
+14.11 19:27:42 Scanning 5 point from 744
+14.11 19:27:42 Going to coordinates X=-5.216, Y=-39.272
+14.11 19:27:42 Moving is finished
+14.11 19:29:51 Scanning 6 point from 744
+14.11 19:29:51 Going to coordinates X=-5.166, Y=-39.272
+14.11 19:29:51 Moving is finished
+14.11 19:32:00 Scanning 7 point from 744
+14.11 19:32:00 Going to coordinates X=-5.116, Y=-39.272
+14.11 19:32:00 Moving is finished
+14.11 19:34:09 Scanning 8 point from 744
+14.11 19:34:09 Going to coordinates X=-5.066, Y=-39.272
+14.11 19:34:09 Moving is finished
+14.11 19:36:17 Scanning 9 point from 744
+14.11 19:36:17 Going to coordinates X=-5.016, Y=-39.272
+14.11 19:36:18 Moving is finished
+14.11 19:38:26 Scanning 10 point from 744
+14.11 19:38:26 Going to coordinates X=-4.966, Y=-39.272
+14.11 19:38:26 Moving is finished
+14.11 19:40:34 Scanning 11 point from 744
+14.11 19:40:34 Going to coordinates X=-4.916, Y=-39.272
+14.11 19:40:34 Moving is finished
+14.11 19:42:42 Scanning 12 point from 744
+14.11 19:42:42 Going to coordinates X=-4.866, Y=-39.272
+14.11 19:42:43 Moving is finished
+14.11 19:44:51 Scanning 13 point from 744
+14.11 19:44:51 Going to coordinates X=-4.816, Y=-39.272
+14.11 19:44:51 Moving is finished
+14.11 19:46:59 Scanning 14 point from 744
+14.11 19:46:59 Going to coordinates X=-4.766, Y=-39.272
+14.11 19:46:59 Moving is finished
+14.11 19:49:08 Scanning 15 point from 744
+14.11 19:49:08 Going to coordinates X=-4.716, Y=-39.272
+14.11 19:49:08 Moving is finished
+14.11 19:51:16 Scanning 16 point from 744
+14.11 19:51:16 Going to coordinates X=-4.666, Y=-39.272
+14.11 19:51:16 Moving is finished
+14.11 19:53:25 Scanning 17 point from 744
+14.11 19:53:25 Going to coordinates X=-4.616, Y=-39.272
+14.11 19:53:25 Moving is finished
+14.11 19:55:33 Scanning 18 point from 744
+14.11 19:55:33 Going to coordinates X=-4.566, Y=-39.272
+14.11 19:55:33 Moving is finished
+14.11 19:57:41 Scanning 19 point from 744
+14.11 19:57:41 Going to coordinates X=-4.516, Y=-39.272
+14.11 19:57:41 Moving is finished
+14.11 19:59:49 Scanning 20 point from 744
+14.11 19:59:49 Going to coordinates X=-4.466, Y=-39.272
+14.11 19:59:49 Moving is finished
+14.11 20:01:57 Scanning 21 point from 744
+14.11 20:01:57 Going to coordinates X=-4.416, Y=-39.272
+14.11 20:01:58 Moving is finished
+14.11 20:04:06 Scanning 22 point from 744
+14.11 20:04:06 Going to coordinates X=-4.366, Y=-39.272
+14.11 20:04:07 Moving is finished
+14.11 20:06:15 Scanning 23 point from 744
+14.11 20:06:15 Going to coordinates X=-4.316, Y=-39.272
+14.11 20:06:15 Moving is finished
+14.11 20:08:23 Scanning 24 point from 744
+14.11 20:08:23 Going to coordinates X=-4.266, Y=-39.272
+14.11 20:08:23 Moving is finished
+14.11 20:10:32 Scanning 25 point from 744
+14.11 20:10:32 Going to coordinates X=-4.216, Y=-39.272
+14.11 20:10:32 Moving is finished
+14.11 20:12:40 Scanning 26 point from 744
+14.11 20:12:40 Going to coordinates X=-4.166, Y=-39.272
+14.11 20:12:40 Moving is finished
+14.11 20:14:49 Scanning 27 point from 744
+14.11 20:14:49 Going to coordinates X=-4.116, Y=-39.272
+14.11 20:14:49 Moving is finished
+14.11 20:16:57 Scanning 28 point from 744
+14.11 20:16:57 Going to coordinates X=-4.066, Y=-39.272
+14.11 20:16:57 Moving is finished
+14.11 20:19:06 Scanning 29 point from 744
+14.11 20:19:06 Going to coordinates X=-4.016, Y=-39.272
+14.11 20:19:06 Moving is finished
+14.11 20:21:14 Scanning 30 point from 744
+14.11 20:21:14 Going to coordinates X=-3.966, Y=-39.272
+14.11 20:21:14 Moving is finished
+14.11 20:23:23 Scanning 31 point from 744
+14.11 20:23:23 Going to coordinates X=-5.466, Y=-39.222
+14.11 20:23:24 Moving is finished
+14.11 20:25:33 Scanning 32 point from 744
+14.11 20:25:33 Going to coordinates X=-5.416, Y=-39.222
+14.11 20:25:33 Moving is finished
+14.11 20:27:41 Scanning 33 point from 744
+14.11 20:27:41 Going to coordinates X=-5.366, Y=-39.222
+14.11 20:27:41 Moving is finished
+14.11 20:29:50 Scanning 34 point from 744
+14.11 20:29:50 Going to coordinates X=-5.316, Y=-39.222
+14.11 20:29:50 Moving is finished
+14.11 20:31:58 Scanning 35 point from 744
+14.11 20:31:58 Going to coordinates X=-5.266, Y=-39.222
+14.11 20:31:58 Moving is finished
+14.11 20:34:06 Scanning 36 point from 744
+14.11 20:34:06 Going to coordinates X=-5.216, Y=-39.222
+14.11 20:34:07 Moving is finished
+14.11 20:36:15 Scanning 37 point from 744
+14.11 20:36:15 Going to coordinates X=-5.166, Y=-39.222
+14.11 20:36:15 Moving is finished
+14.11 20:38:23 Scanning 38 point from 744
+14.11 20:38:23 Going to coordinates X=-5.116, Y=-39.222
+14.11 20:38:24 Moving is finished
+14.11 20:40:31 Scanning 39 point from 744
+14.11 20:40:31 Going to coordinates X=-5.066, Y=-39.222
+14.11 20:40:32 Moving is finished
+14.11 20:42:40 Scanning 40 point from 744
+14.11 20:42:40 Going to coordinates X=-5.016, Y=-39.222
+14.11 20:42:40 Moving is finished
+14.11 20:44:48 Scanning 41 point from 744
+14.11 20:44:48 Going to coordinates X=-4.966, Y=-39.222
+14.11 20:44:48 Moving is finished
+14.11 20:46:56 Scanning 42 point from 744
+14.11 20:46:56 Going to coordinates X=-4.916, Y=-39.222
+14.11 20:46:57 Moving is finished
+14.11 20:49:05 Scanning 43 point from 744
+14.11 20:49:05 Going to coordinates X=-4.866, Y=-39.222
+14.11 20:49:05 Moving is finished
+14.11 20:51:13 Scanning 44 point from 744
+14.11 20:51:13 Going to coordinates X=-4.816, Y=-39.222
+14.11 20:51:13 Moving is finished
+14.11 20:53:22 Scanning 45 point from 744
+14.11 20:53:22 Going to coordinates X=-4.766, Y=-39.222
+14.11 20:53:22 Moving is finished
+14.11 20:55:30 Scanning 46 point from 744
+14.11 20:55:30 Going to coordinates X=-4.716, Y=-39.222
+14.11 20:55:30 Moving is finished
+14.11 20:57:39 Scanning 47 point from 744
+14.11 20:57:39 Going to coordinates X=-4.666, Y=-39.222
+14.11 20:57:39 Moving is finished
+14.11 20:59:48 Scanning 48 point from 744
+14.11 20:59:48 Going to coordinates X=-4.616, Y=-39.222
+14.11 20:59:48 Moving is finished
+14.11 21:01:56 Scanning 49 point from 744
+14.11 21:01:56 Going to coordinates X=-4.566, Y=-39.222
+14.11 21:01:56 Moving is finished
+14.11 21:04:05 Scanning 50 point from 744
+14.11 21:04:05 Going to coordinates X=-4.516, Y=-39.222
+14.11 21:04:05 Moving is finished
+14.11 21:06:13 Scanning 51 point from 744
+14.11 21:06:13 Going to coordinates X=-4.466, Y=-39.222
+14.11 21:06:13 Moving is finished
+14.11 21:08:22 Scanning 52 point from 744
+14.11 21:08:22 Going to coordinates X=-4.416, Y=-39.222
+14.11 21:08:22 Moving is finished
+14.11 21:10:30 Scanning 53 point from 744
+14.11 21:10:30 Going to coordinates X=-4.366, Y=-39.222
+14.11 21:10:30 Moving is finished
+14.11 21:12:39 Scanning 54 point from 744
+14.11 21:12:39 Going to coordinates X=-4.316, Y=-39.222
+14.11 21:12:39 Moving is finished
+14.11 21:14:47 Scanning 55 point from 744
+14.11 21:14:47 Going to coordinates X=-4.266, Y=-39.222
+14.11 21:14:47 Moving is finished
+14.11 21:16:56 Scanning 56 point from 744
+14.11 21:16:56 Going to coordinates X=-4.216, Y=-39.222
+14.11 21:16:56 Moving is finished
+14.11 21:19:04 Scanning 57 point from 744
+14.11 21:19:04 Going to coordinates X=-4.166, Y=-39.222
+14.11 21:19:04 Moving is finished
+14.11 21:21:13 Scanning 58 point from 744
+14.11 21:21:13 Going to coordinates X=-4.116, Y=-39.222
+14.11 21:21:13 Moving is finished
+14.11 21:23:22 Scanning 59 point from 744
+14.11 21:23:22 Going to coordinates X=-4.066, Y=-39.222
+14.11 21:23:22 Moving is finished
+14.11 21:25:31 Scanning 60 point from 744
+14.11 21:25:31 Going to coordinates X=-4.016, Y=-39.222
+14.11 21:25:31 Moving is finished
+14.11 21:27:39 Scanning 61 point from 744
+14.11 21:27:39 Going to coordinates X=-3.966, Y=-39.222
+14.11 21:27:39 Moving is finished
+14.11 21:29:47 Scanning 62 point from 744
+14.11 21:29:47 Going to coordinates X=-5.466, Y=-39.172
+14.11 21:29:48 Moving is finished
+14.11 21:31:56 Scanning 63 point from 744
+14.11 21:31:56 Going to coordinates X=-5.416, Y=-39.172
+14.11 21:31:56 Moving is finished
+14.11 21:34:05 Scanning 64 point from 744
+14.11 21:34:05 Going to coordinates X=-5.366, Y=-39.172
+14.11 21:34:05 Moving is finished
+14.11 21:36:13 Scanning 65 point from 744
+14.11 21:36:13 Going to coordinates X=-5.316, Y=-39.172
+14.11 21:36:14 Moving is finished
+14.11 21:38:22 Scanning 66 point from 744
+14.11 21:38:22 Going to coordinates X=-5.266, Y=-39.172
+14.11 21:38:23 Moving is finished
+14.11 21:40:30 Scanning 67 point from 744
+14.11 21:40:30 Going to coordinates X=-5.216, Y=-39.172
+14.11 21:40:31 Moving is finished
+14.11 21:42:39 Scanning 68 point from 744
+14.11 21:42:39 Going to coordinates X=-5.166, Y=-39.172
+14.11 21:42:39 Moving is finished
+14.11 21:44:47 Scanning 69 point from 744
+14.11 21:44:47 Going to coordinates X=-5.116, Y=-39.172
+14.11 21:44:48 Moving is finished
+14.11 21:46:56 Scanning 70 point from 744
+14.11 21:46:56 Going to coordinates X=-5.066, Y=-39.172
+14.11 21:46:56 Moving is finished
+14.11 21:49:04 Scanning 71 point from 744
+14.11 21:49:04 Going to coordinates X=-5.016, Y=-39.172
+14.11 21:49:04 Moving is finished
+14.11 21:51:13 Scanning 72 point from 744
+14.11 21:51:13 Going to coordinates X=-4.966, Y=-39.172
+14.11 21:51:13 Moving is finished
+14.11 21:53:22 Scanning 73 point from 744
+14.11 21:53:22 Going to coordinates X=-4.916, Y=-39.172
+14.11 21:53:22 Moving is finished
+14.11 21:55:30 Scanning 74 point from 744
+14.11 21:55:30 Going to coordinates X=-4.866, Y=-39.172
+14.11 21:55:30 Moving is finished
+14.11 21:57:38 Scanning 75 point from 744
+14.11 21:57:38 Going to coordinates X=-4.816, Y=-39.172
+14.11 21:57:39 Moving is finished
+14.11 21:59:47 Scanning 76 point from 744
+14.11 21:59:47 Going to coordinates X=-4.766, Y=-39.172
+14.11 21:59:47 Moving is finished
+14.11 22:01:55 Scanning 77 point from 744
+14.11 22:01:55 Going to coordinates X=-4.716, Y=-39.172
+14.11 22:01:55 Moving is finished
+14.11 22:04:03 Scanning 78 point from 744
+14.11 22:04:03 Going to coordinates X=-4.666, Y=-39.172
+14.11 22:04:03 Moving is finished
+14.11 22:06:12 Scanning 79 point from 744
+14.11 22:06:12 Going to coordinates X=-4.616, Y=-39.172
+14.11 22:06:12 Moving is finished
+14.11 22:08:20 Scanning 80 point from 744
+14.11 22:08:20 Going to coordinates X=-4.566, Y=-39.172
+14.11 22:08:20 Moving is finished
+14.11 22:10:29 Scanning 81 point from 744
+14.11 22:10:29 Going to coordinates X=-4.516, Y=-39.172
+14.11 22:10:29 Moving is finished
+14.11 22:12:37 Scanning 82 point from 744
+14.11 22:12:37 Going to coordinates X=-4.466, Y=-39.172
+14.11 22:12:38 Moving is finished
+14.11 22:14:46 Scanning 83 point from 744
+14.11 22:14:46 Going to coordinates X=-4.416, Y=-39.172
+14.11 22:14:46 Moving is finished
+14.11 22:16:54 Scanning 84 point from 744
+14.11 22:16:54 Going to coordinates X=-4.366, Y=-39.172
+14.11 22:16:54 Moving is finished
+14.11 22:19:03 Scanning 85 point from 744
+14.11 22:19:03 Going to coordinates X=-4.316, Y=-39.172
+14.11 22:19:03 Moving is finished
+14.11 22:21:11 Scanning 86 point from 744
+14.11 22:21:11 Going to coordinates X=-4.266, Y=-39.172
+14.11 22:21:11 Moving is finished
+14.11 22:23:19 Scanning 87 point from 744
+14.11 22:23:19 Going to coordinates X=-4.216, Y=-39.172
+14.11 22:23:19 Moving is finished
+14.11 22:25:27 Scanning 88 point from 744
+14.11 22:25:27 Going to coordinates X=-4.166, Y=-39.172
+14.11 22:25:28 Moving is finished
+14.11 22:27:36 Scanning 89 point from 744
+14.11 22:27:36 Going to coordinates X=-4.116, Y=-39.172
+14.11 22:27:36 Moving is finished
+14.11 22:29:44 Scanning 90 point from 744
+14.11 22:29:44 Going to coordinates X=-4.066, Y=-39.172
+14.11 22:29:44 Moving is finished
+14.11 22:31:52 Scanning 91 point from 744
+14.11 22:31:52 Going to coordinates X=-4.016, Y=-39.172
+14.11 22:31:53 Moving is finished
+14.11 22:34:01 Scanning 92 point from 744
+14.11 22:34:01 Going to coordinates X=-3.966, Y=-39.172
+14.11 22:34:01 Moving is finished
+14.11 22:36:09 Scanning 93 point from 744
+14.11 22:36:09 Going to coordinates X=-5.466, Y=-39.122
+14.11 22:36:10 Moving is finished
+14.11 22:38:18 Scanning 94 point from 744
+14.11 22:38:18 Going to coordinates X=-5.416, Y=-39.122
+14.11 22:38:18 Moving is finished
+14.11 22:40:26 Scanning 95 point from 744
+14.11 22:40:26 Going to coordinates X=-5.366, Y=-39.122
+14.11 22:40:26 Moving is finished
+14.11 22:42:35 Scanning 96 point from 744
+14.11 22:42:35 Going to coordinates X=-5.316, Y=-39.122
+14.11 22:42:35 Moving is finished
+14.11 22:44:43 Scanning 97 point from 744
+14.11 22:44:43 Going to coordinates X=-5.266, Y=-39.122
+14.11 22:44:44 Moving is finished
+14.11 22:46:53 Scanning 98 point from 744
+14.11 22:46:53 Going to coordinates X=-5.216, Y=-39.122
+14.11 22:46:53 Moving is finished
+14.11 22:49:01 Scanning 99 point from 744
+14.11 22:49:01 Going to coordinates X=-5.166, Y=-39.122
+14.11 22:49:01 Moving is finished
+14.11 22:51:09 Scanning 100 point from 744
+14.11 22:51:09 Going to coordinates X=-5.116, Y=-39.122
+14.11 22:51:09 Moving is finished
+14.11 22:53:18 Scanning 101 point from 744
+14.11 22:53:18 Going to coordinates X=-5.066, Y=-39.122
+14.11 22:53:18 Moving is finished
+14.11 22:55:26 Scanning 102 point from 744
+14.11 22:55:26 Going to coordinates X=-5.016, Y=-39.122
+14.11 22:55:27 Moving is finished
+14.11 22:57:35 Scanning 103 point from 744
+14.11 22:57:35 Going to coordinates X=-4.966, Y=-39.122
+14.11 22:57:35 Moving is finished
+14.11 22:59:43 Scanning 104 point from 744
+14.11 22:59:43 Going to coordinates X=-4.916, Y=-39.122
+14.11 22:59:44 Moving is finished
+14.11 23:01:52 Scanning 105 point from 744
+14.11 23:01:52 Going to coordinates X=-4.866, Y=-39.122
+14.11 23:01:52 Moving is finished
+14.11 23:04:00 Scanning 106 point from 744
+14.11 23:04:00 Going to coordinates X=-4.816, Y=-39.122
+14.11 23:04:00 Moving is finished
+14.11 23:06:08 Scanning 107 point from 744
+14.11 23:06:08 Going to coordinates X=-4.766, Y=-39.122
+14.11 23:06:09 Moving is finished
+14.11 23:08:17 Scanning 108 point from 744
+14.11 23:08:17 Going to coordinates X=-4.716, Y=-39.122
+14.11 23:08:17 Moving is finished
+14.11 23:10:26 Scanning 109 point from 744
+14.11 23:10:26 Going to coordinates X=-4.666, Y=-39.122
+14.11 23:10:26 Moving is finished
+14.11 23:12:34 Scanning 110 point from 744
+14.11 23:12:34 Going to coordinates X=-4.616, Y=-39.122
+14.11 23:12:34 Moving is finished
+14.11 23:14:42 Scanning 111 point from 744
+14.11 23:14:42 Going to coordinates X=-4.566, Y=-39.122
+14.11 23:14:43 Moving is finished
+14.11 23:16:51 Scanning 112 point from 744
+14.11 23:16:51 Going to coordinates X=-4.516, Y=-39.122
+14.11 23:16:51 Moving is finished
+14.11 23:18:59 Scanning 113 point from 744
+14.11 23:18:59 Going to coordinates X=-4.466, Y=-39.122
+14.11 23:18:59 Moving is finished
+14.11 23:21:08 Scanning 114 point from 744
+14.11 23:21:08 Going to coordinates X=-4.416, Y=-39.122
+14.11 23:21:08 Moving is finished
+14.11 23:23:17 Scanning 115 point from 744
+14.11 23:23:17 Going to coordinates X=-4.366, Y=-39.122
+14.11 23:23:17 Moving is finished
+14.11 23:25:26 Scanning 116 point from 744
+14.11 23:25:26 Going to coordinates X=-4.316, Y=-39.122
+14.11 23:25:26 Moving is finished
+14.11 23:27:35 Scanning 117 point from 744
+14.11 23:27:35 Going to coordinates X=-4.266, Y=-39.122
+14.11 23:27:35 Moving is finished
+14.11 23:29:43 Scanning 118 point from 744
+14.11 23:29:43 Going to coordinates X=-4.216, Y=-39.122
+14.11 23:29:44 Moving is finished
+14.11 23:31:52 Scanning 119 point from 744
+14.11 23:31:52 Going to coordinates X=-4.166, Y=-39.122
+14.11 23:31:52 Moving is finished
+14.11 23:34:01 Scanning 120 point from 744
+14.11 23:34:01 Going to coordinates X=-4.116, Y=-39.122
+14.11 23:34:01 Moving is finished
+14.11 23:36:09 Scanning 121 point from 744
+14.11 23:36:09 Going to coordinates X=-4.066, Y=-39.122
+14.11 23:36:09 Moving is finished
+14.11 23:38:18 Scanning 122 point from 744
+14.11 23:38:18 Going to coordinates X=-4.016, Y=-39.122
+14.11 23:38:18 Moving is finished
+14.11 23:40:26 Scanning 123 point from 744
+14.11 23:40:26 Going to coordinates X=-3.966, Y=-39.122
+14.11 23:40:26 Moving is finished
+14.11 23:42:35 Scanning 124 point from 744
+14.11 23:42:35 Going to coordinates X=-5.466, Y=-39.072
+14.11 23:42:36 Moving is finished
+14.11 23:44:44 Scanning 125 point from 744
+14.11 23:44:44 Going to coordinates X=-5.416, Y=-39.072
+14.11 23:44:44 Moving is finished
+14.11 23:46:52 Scanning 126 point from 744
+14.11 23:46:52 Going to coordinates X=-5.366, Y=-39.072
+14.11 23:46:52 Moving is finished
+14.11 23:49:00 Scanning 127 point from 744
+14.11 23:49:00 Going to coordinates X=-5.316, Y=-39.072
+14.11 23:49:01 Moving is finished
+14.11 23:51:08 Scanning 128 point from 744
+14.11 23:51:08 Going to coordinates X=-5.266, Y=-39.072
+14.11 23:51:09 Moving is finished
+14.11 23:53:17 Scanning 129 point from 744
+14.11 23:53:17 Going to coordinates X=-5.216, Y=-39.072
+14.11 23:53:17 Moving is finished
+14.11 23:55:26 Scanning 130 point from 744
+14.11 23:55:26 Going to coordinates X=-5.166, Y=-39.072
+14.11 23:55:26 Moving is finished
+14.11 23:57:35 Scanning 131 point from 744
+14.11 23:57:35 Going to coordinates X=-5.116, Y=-39.072
+14.11 23:57:35 Moving is finished
+14.11 23:59:43 Scanning 132 point from 744
+14.11 23:59:43 Going to coordinates X=-5.066, Y=-39.072
+14.11 23:59:44 Moving is finished
+15.11 00:01:52 Scanning 133 point from 744
+15.11 00:01:52 Going to coordinates X=-5.016, Y=-39.072
+15.11 00:01:52 Moving is finished
+15.11 00:04:00 Scanning 134 point from 744
+15.11 00:04:00 Going to coordinates X=-4.966, Y=-39.072
+15.11 00:04:01 Moving is finished
+15.11 00:06:09 Scanning 135 point from 744
+15.11 00:06:09 Going to coordinates X=-4.916, Y=-39.072
+15.11 00:06:09 Moving is finished
+15.11 00:08:17 Scanning 136 point from 744
+15.11 00:08:17 Going to coordinates X=-4.866, Y=-39.072
+15.11 00:08:17 Moving is finished
+15.11 00:10:26 Scanning 137 point from 744
+15.11 00:10:26 Going to coordinates X=-4.816, Y=-39.072
+15.11 00:10:26 Moving is finished
+15.11 00:12:35 Scanning 138 point from 744
+15.11 00:12:35 Going to coordinates X=-4.766, Y=-39.072
+15.11 00:12:36 Moving is finished
+15.11 00:14:44 Scanning 139 point from 744
+15.11 00:14:44 Going to coordinates X=-4.716, Y=-39.072
+15.11 00:14:44 Moving is finished
+15.11 00:16:52 Scanning 140 point from 744
+15.11 00:16:52 Going to coordinates X=-4.666, Y=-39.072
+15.11 00:16:52 Moving is finished
+15.11 00:19:00 Scanning 141 point from 744
+15.11 00:19:00 Going to coordinates X=-4.616, Y=-39.072
+15.11 00:19:00 Moving is finished
+15.11 00:21:08 Scanning 142 point from 744
+15.11 00:21:08 Going to coordinates X=-4.566, Y=-39.072
+15.11 00:21:09 Moving is finished
+15.11 00:23:17 Scanning 143 point from 744
+15.11 00:23:17 Going to coordinates X=-4.516, Y=-39.072
+15.11 00:23:17 Moving is finished
+15.11 00:25:26 Scanning 144 point from 744
+15.11 00:25:26 Going to coordinates X=-4.466, Y=-39.072
+15.11 00:25:26 Moving is finished
+15.11 00:27:34 Scanning 145 point from 744
+15.11 00:27:34 Going to coordinates X=-4.416, Y=-39.072
+15.11 00:27:35 Moving is finished
+15.11 00:29:43 Scanning 146 point from 744
+15.11 00:29:43 Going to coordinates X=-4.366, Y=-39.072
+15.11 00:29:43 Moving is finished
+15.11 00:31:52 Scanning 147 point from 744
+15.11 00:31:52 Going to coordinates X=-4.316, Y=-39.072
+15.11 00:31:52 Moving is finished
+15.11 00:34:01 Scanning 148 point from 744
+15.11 00:34:01 Going to coordinates X=-4.266, Y=-39.072
+15.11 00:34:01 Moving is finished
+15.11 00:36:10 Scanning 149 point from 744
+15.11 00:36:10 Going to coordinates X=-4.216, Y=-39.072
+15.11 00:36:10 Moving is finished
+15.11 00:38:18 Scanning 150 point from 744
+15.11 00:38:18 Going to coordinates X=-4.166, Y=-39.072
+15.11 00:38:18 Moving is finished
+15.11 00:40:26 Scanning 151 point from 744
+15.11 00:40:26 Going to coordinates X=-4.116, Y=-39.072
+15.11 00:40:26 Moving is finished
+15.11 00:42:34 Scanning 152 point from 744
+15.11 00:42:34 Going to coordinates X=-4.066, Y=-39.072
+15.11 00:42:34 Moving is finished
+15.11 00:44:42 Scanning 153 point from 744
+15.11 00:44:42 Going to coordinates X=-4.016, Y=-39.072
+15.11 00:44:43 Moving is finished
+15.11 00:46:51 Scanning 154 point from 744
+15.11 00:46:51 Going to coordinates X=-3.966, Y=-39.072
+15.11 00:46:51 Moving is finished
+15.11 00:48:59 Scanning 155 point from 744
+15.11 00:48:59 Going to coordinates X=-5.466, Y=-39.022
+15.11 00:49:00 Moving is finished
+15.11 00:51:08 Scanning 156 point from 744
+15.11 00:51:08 Going to coordinates X=-5.416, Y=-39.022
+15.11 00:51:08 Moving is finished
+15.11 00:53:16 Scanning 157 point from 744
+15.11 00:53:16 Going to coordinates X=-5.366, Y=-39.022
+15.11 00:53:16 Moving is finished
+15.11 00:55:24 Scanning 158 point from 744
+15.11 00:55:24 Going to coordinates X=-5.316, Y=-39.022
+15.11 00:55:25 Moving is finished
+15.11 00:57:32 Scanning 159 point from 744
+15.11 00:57:32 Going to coordinates X=-5.266, Y=-39.022
+15.11 00:57:33 Moving is finished
+15.11 00:59:41 Scanning 160 point from 744
+15.11 00:59:41 Going to coordinates X=-5.216, Y=-39.022
+15.11 00:59:41 Moving is finished
+15.11 01:01:49 Scanning 161 point from 744
+15.11 01:01:49 Going to coordinates X=-5.166, Y=-39.022
+15.11 01:01:49 Moving is finished
+15.11 01:03:57 Scanning 162 point from 744
+15.11 01:03:57 Going to coordinates X=-5.116, Y=-39.022
+15.11 01:03:57 Moving is finished
+15.11 01:06:06 Scanning 163 point from 744
+15.11 01:06:06 Going to coordinates X=-5.066, Y=-39.022
+15.11 01:06:06 Moving is finished
+15.11 01:08:15 Scanning 164 point from 744
+15.11 01:08:15 Going to coordinates X=-5.016, Y=-39.022
+15.11 01:08:15 Moving is finished
+15.11 01:10:23 Scanning 165 point from 744
+15.11 01:10:23 Going to coordinates X=-4.966, Y=-39.022
+15.11 01:10:23 Moving is finished
+15.11 01:12:31 Scanning 166 point from 744
+15.11 01:12:31 Going to coordinates X=-4.916, Y=-39.022
+15.11 01:12:31 Moving is finished
+15.11 01:14:40 Scanning 167 point from 744
+15.11 01:14:40 Going to coordinates X=-4.866, Y=-39.022
+15.11 01:14:40 Moving is finished
+15.11 01:16:48 Scanning 168 point from 744
+15.11 01:16:48 Going to coordinates X=-4.816, Y=-39.022
+15.11 01:16:48 Moving is finished
+15.11 01:18:57 Scanning 169 point from 744
+15.11 01:18:57 Going to coordinates X=-4.766, Y=-39.022
+15.11 01:18:57 Moving is finished
+15.11 01:21:06 Scanning 170 point from 744
+15.11 01:21:06 Going to coordinates X=-4.716, Y=-39.022
+15.11 01:21:06 Moving is finished
+15.11 01:23:15 Scanning 171 point from 744
+15.11 01:23:15 Going to coordinates X=-4.666, Y=-39.022
+15.11 01:23:15 Moving is finished
+15.11 01:25:23 Scanning 172 point from 744
+15.11 01:25:23 Going to coordinates X=-4.616, Y=-39.022
+15.11 01:25:23 Moving is finished
+15.11 01:27:31 Scanning 173 point from 744
+15.11 01:27:31 Going to coordinates X=-4.566, Y=-39.022
+15.11 01:27:32 Moving is finished
+15.11 01:29:40 Scanning 174 point from 744
+15.11 01:29:40 Going to coordinates X=-4.516, Y=-39.022
+15.11 01:29:40 Moving is finished
+15.11 01:31:48 Scanning 175 point from 744
+15.11 01:31:48 Going to coordinates X=-4.466, Y=-39.022
+15.11 01:31:48 Moving is finished
+15.11 01:33:56 Scanning 176 point from 744
+15.11 01:33:56 Going to coordinates X=-4.416, Y=-39.022
+15.11 01:33:56 Moving is finished
+15.11 01:36:04 Scanning 177 point from 744
+15.11 01:36:04 Going to coordinates X=-4.366, Y=-39.022
+15.11 01:36:04 Moving is finished
+15.11 01:38:13 Scanning 178 point from 744
+15.11 01:38:13 Going to coordinates X=-4.316, Y=-39.022
+15.11 01:38:13 Moving is finished
+15.11 01:40:22 Scanning 179 point from 744
+15.11 01:40:22 Going to coordinates X=-4.266, Y=-39.022
+15.11 01:40:22 Moving is finished
+15.11 01:42:30 Scanning 180 point from 744
+15.11 01:42:30 Going to coordinates X=-4.216, Y=-39.022
+15.11 01:42:31 Moving is finished
+15.11 01:44:38 Scanning 181 point from 744
+15.11 01:44:38 Going to coordinates X=-4.166, Y=-39.022
+15.11 01:44:39 Moving is finished
+15.11 01:46:47 Scanning 182 point from 744
+15.11 01:46:47 Going to coordinates X=-4.116, Y=-39.022
+15.11 01:46:48 Moving is finished
+15.11 01:48:56 Scanning 183 point from 744
+15.11 01:48:56 Going to coordinates X=-4.066, Y=-39.022
+15.11 01:48:56 Moving is finished
+15.11 01:51:04 Scanning 184 point from 744
+15.11 01:51:04 Going to coordinates X=-4.016, Y=-39.022
+15.11 01:51:04 Moving is finished
+15.11 01:53:13 Scanning 185 point from 744
+15.11 01:53:13 Going to coordinates X=-3.966, Y=-39.022
+15.11 01:53:13 Moving is finished
+15.11 01:55:22 Scanning 186 point from 744
+15.11 01:55:22 Going to coordinates X=-5.466, Y=-38.972
+15.11 01:55:23 Moving is finished
+15.11 01:57:31 Scanning 187 point from 744
+15.11 01:57:31 Going to coordinates X=-5.416, Y=-38.972
+15.11 01:57:31 Moving is finished
+15.11 01:59:39 Scanning 188 point from 744
+15.11 01:59:39 Going to coordinates X=-5.366, Y=-38.972
+15.11 01:59:39 Moving is finished
+15.11 02:01:47 Scanning 189 point from 744
+15.11 02:01:47 Going to coordinates X=-5.316, Y=-38.972
+15.11 02:01:47 Moving is finished
+15.11 02:03:55 Scanning 190 point from 744
+15.11 02:03:55 Going to coordinates X=-5.266, Y=-38.972
+15.11 02:03:55 Moving is finished
+15.11 02:06:04 Scanning 191 point from 744
+15.11 02:06:04 Going to coordinates X=-5.216, Y=-38.972
+15.11 02:06:04 Moving is finished
+15.11 02:08:12 Scanning 192 point from 744
+15.11 02:08:12 Going to coordinates X=-5.166, Y=-38.972
+15.11 02:08:13 Moving is finished
+15.11 02:10:21 Scanning 193 point from 744
+15.11 02:10:21 Going to coordinates X=-5.116, Y=-38.972
+15.11 02:10:21 Moving is finished
+15.11 02:12:29 Scanning 194 point from 744
+15.11 02:12:29 Going to coordinates X=-5.066, Y=-38.972
+15.11 02:12:29 Moving is finished
+15.11 02:14:37 Scanning 195 point from 744
+15.11 02:14:37 Going to coordinates X=-5.016, Y=-38.972
+15.11 02:14:37 Moving is finished
+15.11 02:16:46 Scanning 196 point from 744
+15.11 02:16:46 Going to coordinates X=-4.966, Y=-38.972
+15.11 02:16:46 Moving is finished
+15.11 02:18:54 Scanning 197 point from 744
+15.11 02:18:54 Going to coordinates X=-4.916, Y=-38.972
+15.11 02:18:54 Moving is finished
+15.11 02:21:02 Scanning 198 point from 744
+15.11 02:21:02 Going to coordinates X=-4.866, Y=-38.972
+15.11 02:21:02 Moving is finished
+15.11 02:23:11 Scanning 199 point from 744
+15.11 02:23:11 Going to coordinates X=-4.816, Y=-38.972
+15.11 02:23:11 Moving is finished
+15.11 02:25:19 Scanning 200 point from 744
+15.11 02:25:19 Going to coordinates X=-4.766, Y=-38.972
+15.11 02:25:19 Moving is finished
+15.11 02:27:27 Scanning 201 point from 744
+15.11 02:27:27 Going to coordinates X=-4.716, Y=-38.972
+15.11 02:27:27 Moving is finished
+15.11 02:29:35 Scanning 202 point from 744
+15.11 02:29:35 Going to coordinates X=-4.666, Y=-38.972
+15.11 02:29:35 Moving is finished
+15.11 02:31:43 Scanning 203 point from 744
+15.11 02:31:43 Going to coordinates X=-4.616, Y=-38.972
+15.11 02:31:44 Moving is finished
+15.11 02:33:51 Scanning 204 point from 744
+15.11 02:33:51 Going to coordinates X=-4.566, Y=-38.972
+15.11 02:33:51 Moving is finished
+15.11 02:36:00 Scanning 205 point from 744
+15.11 02:36:00 Going to coordinates X=-4.516, Y=-38.972
+15.11 02:36:00 Moving is finished
+15.11 02:38:08 Scanning 206 point from 744
+15.11 02:38:08 Going to coordinates X=-4.466, Y=-38.972
+15.11 02:38:08 Moving is finished
+15.11 02:40:16 Scanning 207 point from 744
+15.11 02:40:16 Going to coordinates X=-4.416, Y=-38.972
+15.11 02:40:17 Moving is finished
+15.11 02:42:24 Scanning 208 point from 744
+15.11 02:42:24 Going to coordinates X=-4.366, Y=-38.972
+15.11 02:42:25 Moving is finished
+15.11 02:44:33 Scanning 209 point from 744
+15.11 02:44:33 Going to coordinates X=-4.316, Y=-38.972
+15.11 02:44:34 Moving is finished
+15.11 02:46:42 Scanning 210 point from 744
+15.11 02:46:42 Going to coordinates X=-4.266, Y=-38.972
+15.11 02:46:43 Moving is finished
+15.11 02:48:51 Scanning 211 point from 744
+15.11 02:48:51 Going to coordinates X=-4.216, Y=-38.972
+15.11 02:48:51 Moving is finished
+15.11 02:51:00 Scanning 212 point from 744
+15.11 02:51:00 Going to coordinates X=-4.166, Y=-38.972
+15.11 02:51:00 Moving is finished
+15.11 02:53:08 Scanning 213 point from 744
+15.11 02:53:08 Going to coordinates X=-4.116, Y=-38.972
+15.11 02:53:08 Moving is finished
+15.11 02:55:17 Scanning 214 point from 744
+15.11 02:55:17 Going to coordinates X=-4.066, Y=-38.972
+15.11 02:55:17 Moving is finished
+15.11 02:57:25 Scanning 215 point from 744
+15.11 02:57:25 Going to coordinates X=-4.016, Y=-38.972
+15.11 02:57:25 Moving is finished
+15.11 02:59:33 Scanning 216 point from 744
+15.11 02:59:33 Going to coordinates X=-3.966, Y=-38.972
+15.11 02:59:33 Moving is finished
+15.11 03:01:41 Scanning 217 point from 744
+15.11 03:01:41 Going to coordinates X=-5.466, Y=-38.922
+15.11 03:01:42 Moving is finished
+15.11 03:03:49 Scanning 218 point from 744
+15.11 03:03:49 Going to coordinates X=-5.416, Y=-38.922
+15.11 03:03:49 Moving is finished
+15.11 03:05:58 Scanning 219 point from 744
+15.11 03:05:58 Going to coordinates X=-5.366, Y=-38.922
+15.11 03:05:59 Moving is finished
+15.11 03:08:06 Scanning 220 point from 744
+15.11 03:08:06 Going to coordinates X=-5.316, Y=-38.922
+15.11 03:08:07 Moving is finished
+15.11 03:10:14 Scanning 221 point from 744
+15.11 03:10:14 Going to coordinates X=-5.266, Y=-38.922
+15.11 03:10:15 Moving is finished
+15.11 03:12:23 Scanning 222 point from 744
+15.11 03:12:23 Going to coordinates X=-5.216, Y=-38.922
+15.11 03:12:23 Moving is finished
+15.11 03:14:31 Scanning 223 point from 744
+15.11 03:14:31 Going to coordinates X=-5.166, Y=-38.922
+15.11 03:14:31 Moving is finished
+15.11 03:16:39 Scanning 224 point from 744
+15.11 03:16:39 Going to coordinates X=-5.116, Y=-38.922
+15.11 03:16:39 Moving is finished
+15.11 03:18:47 Scanning 225 point from 744
+15.11 03:18:47 Going to coordinates X=-5.066, Y=-38.922
+15.11 03:18:48 Moving is finished
+15.11 03:20:57 Scanning 226 point from 744
+15.11 03:20:57 Going to coordinates X=-5.016, Y=-38.922
+15.11 03:20:57 Moving is finished
+15.11 03:23:06 Scanning 227 point from 744
+15.11 03:23:06 Going to coordinates X=-4.966, Y=-38.922
+15.11 03:23:06 Moving is finished
+15.11 03:25:14 Scanning 228 point from 744
+15.11 03:25:14 Going to coordinates X=-4.916, Y=-38.922
+15.11 03:25:15 Moving is finished
+15.11 03:27:23 Scanning 229 point from 744
+15.11 03:27:23 Going to coordinates X=-4.866, Y=-38.922
+15.11 03:27:23 Moving is finished
+15.11 03:29:31 Scanning 230 point from 744
+15.11 03:29:31 Going to coordinates X=-4.816, Y=-38.922
+15.11 03:29:31 Moving is finished
+15.11 03:31:40 Scanning 231 point from 744
+15.11 03:31:40 Going to coordinates X=-4.766, Y=-38.922
+15.11 03:31:40 Moving is finished
+15.11 03:33:48 Scanning 232 point from 744
+15.11 03:33:48 Going to coordinates X=-4.716, Y=-38.922
+15.11 03:33:48 Moving is finished
+15.11 03:35:56 Scanning 233 point from 744
+15.11 03:35:56 Going to coordinates X=-4.666, Y=-38.922
+15.11 03:35:57 Moving is finished
+15.11 03:38:05 Scanning 234 point from 744
+15.11 03:38:05 Going to coordinates X=-4.616, Y=-38.922
+15.11 03:38:05 Moving is finished
+15.11 03:40:13 Scanning 235 point from 744
+15.11 03:40:13 Going to coordinates X=-4.566, Y=-38.922
+15.11 03:40:14 Moving is finished
+15.11 03:42:22 Scanning 236 point from 744
+15.11 03:42:22 Going to coordinates X=-4.516, Y=-38.922
+15.11 03:42:22 Moving is finished
+15.11 03:44:30 Scanning 237 point from 744
+15.11 03:44:30 Going to coordinates X=-4.466, Y=-38.922
+15.11 03:44:30 Moving is finished
+15.11 03:46:39 Scanning 238 point from 744
+15.11 03:46:39 Going to coordinates X=-4.416, Y=-38.922
+15.11 03:46:39 Moving is finished
+15.11 03:48:48 Scanning 239 point from 744
+15.11 03:48:48 Going to coordinates X=-4.366, Y=-38.922
+15.11 03:48:48 Moving is finished
+15.11 03:50:56 Scanning 240 point from 744
+15.11 03:50:56 Going to coordinates X=-4.316, Y=-38.922
+15.11 03:50:56 Moving is finished
+15.11 03:53:04 Scanning 241 point from 744
+15.11 03:53:04 Going to coordinates X=-4.266, Y=-38.922
+15.11 03:53:04 Moving is finished
+15.11 03:55:12 Scanning 242 point from 744
+15.11 03:55:12 Going to coordinates X=-4.216, Y=-38.922
+15.11 03:55:13 Moving is finished
+15.11 03:57:21 Scanning 243 point from 744
+15.11 03:57:21 Going to coordinates X=-4.166, Y=-38.922
+15.11 03:57:21 Moving is finished
+15.11 03:59:30 Scanning 244 point from 744
+15.11 03:59:30 Going to coordinates X=-4.116, Y=-38.922
+15.11 03:59:30 Moving is finished
+15.11 04:01:38 Scanning 245 point from 744
+15.11 04:01:38 Going to coordinates X=-4.066, Y=-38.922
+15.11 04:01:38 Moving is finished
+15.11 04:03:46 Scanning 246 point from 744
+15.11 04:03:46 Going to coordinates X=-4.016, Y=-38.922
+15.11 04:03:46 Moving is finished
+15.11 04:05:54 Scanning 247 point from 744
+15.11 04:05:54 Going to coordinates X=-3.966, Y=-38.922
+15.11 04:05:55 Moving is finished
+15.11 04:08:03 Scanning 248 point from 744
+15.11 04:08:03 Going to coordinates X=-5.466, Y=-38.872
+15.11 04:08:04 Moving is finished
+15.11 04:10:12 Scanning 249 point from 744
+15.11 04:10:12 Going to coordinates X=-5.416, Y=-38.872
+15.11 04:10:12 Moving is finished
+15.11 04:12:21 Scanning 250 point from 744
+15.11 04:12:21 Going to coordinates X=-5.366, Y=-38.872
+15.11 04:12:21 Moving is finished
+15.11 04:14:30 Scanning 251 point from 744
+15.11 04:14:30 Going to coordinates X=-5.316, Y=-38.872
+15.11 04:14:30 Moving is finished
+15.11 04:16:38 Scanning 252 point from 744
+15.11 04:16:38 Going to coordinates X=-5.266, Y=-38.872
+15.11 04:16:38 Moving is finished
+15.11 04:18:46 Scanning 253 point from 744
+15.11 04:18:46 Going to coordinates X=-5.216, Y=-38.872
+15.11 04:18:46 Moving is finished
+15.11 04:20:54 Scanning 254 point from 744
+15.11 04:20:54 Going to coordinates X=-5.166, Y=-38.872
+15.11 04:20:54 Moving is finished
+15.11 04:23:03 Scanning 255 point from 744
+15.11 04:23:03 Going to coordinates X=-5.116, Y=-38.872
+15.11 04:23:03 Moving is finished
+15.11 04:25:11 Scanning 256 point from 744
+15.11 04:25:11 Going to coordinates X=-5.066, Y=-38.872
+15.11 04:25:11 Moving is finished
+15.11 04:27:20 Scanning 257 point from 744
+15.11 04:27:20 Going to coordinates X=-5.016, Y=-38.872
+15.11 04:27:20 Moving is finished
+15.11 04:29:29 Scanning 258 point from 744
+15.11 04:29:29 Going to coordinates X=-4.966, Y=-38.872
+15.11 04:29:29 Moving is finished
+15.11 04:31:37 Scanning 259 point from 744
+15.11 04:31:37 Going to coordinates X=-4.916, Y=-38.872
+15.11 04:31:37 Moving is finished
+15.11 04:33:46 Scanning 260 point from 744
+15.11 04:33:46 Going to coordinates X=-4.866, Y=-38.872
+15.11 04:33:46 Moving is finished
+15.11 04:35:55 Scanning 261 point from 744
+15.11 04:35:55 Going to coordinates X=-4.816, Y=-38.872
+15.11 04:35:55 Moving is finished
+15.11 04:38:04 Scanning 262 point from 744
+15.11 04:38:04 Going to coordinates X=-4.766, Y=-38.872
+15.11 04:38:04 Moving is finished
+15.11 04:40:13 Scanning 263 point from 744
+15.11 04:40:13 Going to coordinates X=-4.716, Y=-38.872
+15.11 04:40:13 Moving is finished
+15.11 04:42:21 Scanning 264 point from 744
+15.11 04:42:21 Going to coordinates X=-4.666, Y=-38.872
+15.11 04:42:22 Moving is finished
+15.11 04:44:29 Scanning 265 point from 744
+15.11 04:44:29 Going to coordinates X=-4.616, Y=-38.872
+15.11 04:44:30 Moving is finished
+15.11 04:46:38 Scanning 266 point from 744
+15.11 04:46:38 Going to coordinates X=-4.566, Y=-38.872
+15.11 04:46:38 Moving is finished
+15.11 04:48:46 Scanning 267 point from 744
+15.11 04:48:46 Going to coordinates X=-4.516, Y=-38.872
+15.11 04:48:46 Moving is finished
+15.11 04:50:54 Scanning 268 point from 744
+15.11 04:50:54 Going to coordinates X=-4.466, Y=-38.872
+15.11 04:50:54 Moving is finished
+15.11 04:53:02 Scanning 269 point from 744
+15.11 04:53:02 Going to coordinates X=-4.416, Y=-38.872
+15.11 04:53:03 Moving is finished
+15.11 04:55:11 Scanning 270 point from 744
+15.11 04:55:11 Going to coordinates X=-4.366, Y=-38.872
+15.11 04:55:11 Moving is finished
+15.11 04:57:20 Scanning 271 point from 744
+15.11 04:57:20 Going to coordinates X=-4.316, Y=-38.872
+15.11 04:57:20 Moving is finished
+15.11 04:59:28 Scanning 272 point from 744
+15.11 04:59:28 Going to coordinates X=-4.266, Y=-38.872
+15.11 04:59:28 Moving is finished
+15.11 05:01:36 Scanning 273 point from 744
+15.11 05:01:36 Going to coordinates X=-4.216, Y=-38.872
+15.11 05:01:36 Moving is finished
+15.11 05:03:45 Scanning 274 point from 744
+15.11 05:03:45 Going to coordinates X=-4.166, Y=-38.872
+15.11 05:03:45 Moving is finished
+15.11 05:05:53 Scanning 275 point from 744
+15.11 05:05:53 Going to coordinates X=-4.116, Y=-38.872
+15.11 05:05:53 Moving is finished
+15.11 05:08:01 Scanning 276 point from 744
+15.11 05:08:01 Going to coordinates X=-4.066, Y=-38.872
+15.11 05:08:01 Moving is finished
+15.11 05:10:09 Scanning 277 point from 744
+15.11 05:10:09 Going to coordinates X=-4.016, Y=-38.872
+15.11 05:10:09 Moving is finished
+15.11 05:12:17 Scanning 278 point from 744
+15.11 05:12:17 Going to coordinates X=-3.966, Y=-38.872
+15.11 05:12:17 Moving is finished
+15.11 05:14:26 Scanning 279 point from 744
+15.11 05:14:26 Going to coordinates X=-5.466, Y=-38.822
+15.11 05:14:27 Moving is finished
+15.11 05:16:35 Scanning 280 point from 744
+15.11 05:16:35 Going to coordinates X=-5.416, Y=-38.822
+15.11 05:16:35 Moving is finished
+15.11 05:18:43 Scanning 281 point from 744
+15.11 05:18:43 Going to coordinates X=-5.366, Y=-38.822
+15.11 05:18:44 Moving is finished
+15.11 05:20:52 Scanning 282 point from 744
+15.11 05:20:52 Going to coordinates X=-5.316, Y=-38.822
+15.11 05:20:52 Moving is finished
+15.11 05:23:01 Scanning 283 point from 744
+15.11 05:23:01 Going to coordinates X=-5.266, Y=-38.822
+15.11 05:23:01 Moving is finished
+15.11 05:25:09 Scanning 284 point from 744
+15.11 05:25:09 Going to coordinates X=-5.216, Y=-38.822
+15.11 05:25:09 Moving is finished
+15.11 05:27:17 Scanning 285 point from 744
+15.11 05:27:17 Going to coordinates X=-5.166, Y=-38.822
+15.11 05:27:18 Moving is finished
+15.11 05:29:26 Scanning 286 point from 744
+15.11 05:29:26 Going to coordinates X=-5.116, Y=-38.822
+15.11 05:29:27 Moving is finished
+15.11 05:31:35 Scanning 287 point from 744
+15.11 05:31:35 Going to coordinates X=-5.066, Y=-38.822
+15.11 05:31:35 Moving is finished
+15.11 05:33:43 Scanning 288 point from 744
+15.11 05:33:43 Going to coordinates X=-5.016, Y=-38.822
+15.11 05:33:44 Moving is finished
+15.11 05:35:51 Scanning 289 point from 744
+15.11 05:35:51 Going to coordinates X=-4.966, Y=-38.822
+15.11 05:35:52 Moving is finished
+15.11 05:38:00 Scanning 290 point from 744
+15.11 05:38:00 Going to coordinates X=-4.916, Y=-38.822
+15.11 05:38:00 Moving is finished
+15.11 05:40:08 Scanning 291 point from 744
+15.11 05:40:08 Going to coordinates X=-4.866, Y=-38.822
+15.11 05:40:08 Moving is finished
+15.11 05:42:16 Scanning 292 point from 744
+15.11 05:42:16 Going to coordinates X=-4.816, Y=-38.822
+15.11 05:42:17 Moving is finished
+15.11 05:44:25 Scanning 293 point from 744
+15.11 05:44:25 Going to coordinates X=-4.766, Y=-38.822
+15.11 05:44:25 Moving is finished
+15.11 05:46:33 Scanning 294 point from 744
+15.11 05:46:33 Going to coordinates X=-4.716, Y=-38.822
+15.11 05:46:34 Moving is finished
+15.11 05:48:42 Scanning 295 point from 744
+15.11 05:48:42 Going to coordinates X=-4.666, Y=-38.822
+15.11 05:48:42 Moving is finished
+15.11 05:50:51 Scanning 296 point from 744
+15.11 05:50:51 Going to coordinates X=-4.616, Y=-38.822
+15.11 05:50:51 Moving is finished
+15.11 05:52:59 Scanning 297 point from 744
+15.11 05:52:59 Going to coordinates X=-4.566, Y=-38.822
+15.11 05:52:59 Moving is finished
+15.11 05:55:07 Scanning 298 point from 744
+15.11 05:55:07 Going to coordinates X=-4.516, Y=-38.822
+15.11 05:55:07 Moving is finished
+15.11 05:57:15 Scanning 299 point from 744
+15.11 05:57:15 Going to coordinates X=-4.466, Y=-38.822
+15.11 05:57:16 Moving is finished
+15.11 05:59:25 Scanning 300 point from 744
+15.11 05:59:25 Going to coordinates X=-4.416, Y=-38.822
+15.11 05:59:25 Moving is finished
+15.11 06:01:33 Scanning 301 point from 744
+15.11 06:01:33 Going to coordinates X=-4.366, Y=-38.822
+15.11 06:01:33 Moving is finished
+15.11 06:03:42 Scanning 302 point from 744
+15.11 06:03:42 Going to coordinates X=-4.316, Y=-38.822
+15.11 06:03:42 Moving is finished
+15.11 06:05:50 Scanning 303 point from 744
+15.11 06:05:50 Going to coordinates X=-4.266, Y=-38.822
+15.11 06:05:51 Moving is finished
+15.11 06:07:59 Scanning 304 point from 744
+15.11 06:07:59 Going to coordinates X=-4.216, Y=-38.822
+15.11 06:07:59 Moving is finished
+15.11 06:10:07 Scanning 305 point from 744
+15.11 06:10:07 Going to coordinates X=-4.166, Y=-38.822
+15.11 06:10:08 Moving is finished
+15.11 06:12:16 Scanning 306 point from 744
+15.11 06:12:16 Going to coordinates X=-4.116, Y=-38.822
+15.11 06:12:16 Moving is finished
+15.11 06:14:24 Scanning 307 point from 744
+15.11 06:14:24 Going to coordinates X=-4.066, Y=-38.822
+15.11 06:14:24 Moving is finished
+15.11 06:16:33 Scanning 308 point from 744
+15.11 06:16:33 Going to coordinates X=-4.016, Y=-38.822
+15.11 06:16:33 Moving is finished
+15.11 06:18:41 Scanning 309 point from 744
+15.11 06:18:41 Going to coordinates X=-3.966, Y=-38.822
+15.11 06:18:41 Moving is finished
+15.11 06:20:49 Scanning 310 point from 744
+15.11 06:20:49 Going to coordinates X=-5.466, Y=-38.772
+15.11 06:20:50 Moving is finished
+15.11 06:22:58 Scanning 311 point from 744
+15.11 06:22:58 Going to coordinates X=-5.416, Y=-38.772
+15.11 06:22:58 Moving is finished
+15.11 06:25:06 Scanning 312 point from 744
+15.11 06:25:06 Going to coordinates X=-5.366, Y=-38.772
+15.11 06:25:06 Moving is finished
+15.11 06:27:14 Scanning 313 point from 744
+15.11 06:27:14 Going to coordinates X=-5.316, Y=-38.772
+15.11 06:27:14 Moving is finished
+15.11 06:29:22 Scanning 314 point from 744
+15.11 06:29:22 Going to coordinates X=-5.266, Y=-38.772
+15.11 06:29:22 Moving is finished
+15.11 06:31:30 Scanning 315 point from 744
+15.11 06:31:30 Going to coordinates X=-5.216, Y=-38.772
+15.11 06:31:31 Moving is finished
+15.11 06:33:39 Scanning 316 point from 744
+15.11 06:33:39 Going to coordinates X=-5.166, Y=-38.772
+15.11 06:33:39 Moving is finished
+15.11 06:35:47 Scanning 317 point from 744
+15.11 06:35:47 Going to coordinates X=-5.116, Y=-38.772
+15.11 06:35:47 Moving is finished
+15.11 06:37:55 Scanning 318 point from 744
+15.11 06:37:55 Going to coordinates X=-5.066, Y=-38.772
+15.11 06:37:56 Moving is finished
+15.11 06:40:04 Scanning 319 point from 744
+15.11 06:40:04 Going to coordinates X=-5.016, Y=-38.772
+15.11 06:40:05 Moving is finished
+15.11 06:42:13 Scanning 320 point from 744
+15.11 06:42:13 Going to coordinates X=-4.966, Y=-38.772
+15.11 06:42:13 Moving is finished
+15.11 06:44:22 Scanning 321 point from 744
+15.11 06:44:22 Going to coordinates X=-4.916, Y=-38.772
+15.11 06:44:22 Moving is finished
+15.11 06:46:30 Scanning 322 point from 744
+15.11 06:46:30 Going to coordinates X=-4.866, Y=-38.772
+15.11 06:46:30 Moving is finished
+15.11 06:48:38 Scanning 323 point from 744
+15.11 06:48:38 Going to coordinates X=-4.816, Y=-38.772
+15.11 06:48:39 Moving is finished
+15.11 06:50:46 Scanning 324 point from 744
+15.11 06:50:46 Going to coordinates X=-4.766, Y=-38.772
+15.11 06:50:47 Moving is finished
+15.11 06:52:54 Scanning 325 point from 744
+15.11 06:52:54 Going to coordinates X=-4.716, Y=-38.772
+15.11 06:52:55 Moving is finished
+15.11 06:55:03 Scanning 326 point from 744
+15.11 06:55:03 Going to coordinates X=-4.666, Y=-38.772
+15.11 06:55:03 Moving is finished
+15.11 06:57:11 Scanning 327 point from 744
+15.11 06:57:11 Going to coordinates X=-4.616, Y=-38.772
+15.11 06:57:11 Moving is finished
+15.11 06:59:20 Scanning 328 point from 744
+15.11 06:59:20 Going to coordinates X=-4.566, Y=-38.772
+15.11 06:59:20 Moving is finished
+15.11 07:01:28 Scanning 329 point from 744
+15.11 07:01:28 Going to coordinates X=-4.516, Y=-38.772
+15.11 07:01:29 Moving is finished
+15.11 07:03:37 Scanning 330 point from 744
+15.11 07:03:37 Going to coordinates X=-4.466, Y=-38.772
+15.11 07:03:37 Moving is finished
+15.11 07:05:45 Scanning 331 point from 744
+15.11 07:05:45 Going to coordinates X=-4.416, Y=-38.772
+15.11 07:05:45 Moving is finished
+15.11 07:07:54 Scanning 332 point from 744
+15.11 07:07:54 Going to coordinates X=-4.366, Y=-38.772
+15.11 07:07:54 Moving is finished
+15.11 07:10:03 Scanning 333 point from 744
+15.11 07:10:03 Going to coordinates X=-4.316, Y=-38.772
+15.11 07:10:03 Moving is finished
+15.11 07:12:11 Scanning 334 point from 744
+15.11 07:12:11 Going to coordinates X=-4.266, Y=-38.772
+15.11 07:12:11 Moving is finished
+15.11 07:14:20 Scanning 335 point from 744
+15.11 07:14:20 Going to coordinates X=-4.216, Y=-38.772
+15.11 07:14:20 Moving is finished
+15.11 07:16:29 Scanning 336 point from 744
+15.11 07:16:29 Going to coordinates X=-4.166, Y=-38.772
+15.11 07:16:29 Moving is finished
+15.11 07:18:37 Scanning 337 point from 744
+15.11 07:18:37 Going to coordinates X=-4.116, Y=-38.772
+15.11 07:18:37 Moving is finished
+15.11 07:20:45 Scanning 338 point from 744
+15.11 07:20:45 Going to coordinates X=-4.066, Y=-38.772
+15.11 07:20:45 Moving is finished
+15.11 07:22:53 Scanning 339 point from 744
+15.11 07:22:53 Going to coordinates X=-4.016, Y=-38.772
+15.11 07:22:54 Moving is finished
+15.11 07:25:01 Scanning 340 point from 744
+15.11 07:25:01 Going to coordinates X=-3.966, Y=-38.772
+15.11 07:25:02 Moving is finished
+15.11 07:27:10 Scanning 341 point from 744
+15.11 07:27:10 Going to coordinates X=-5.466, Y=-38.722
+15.11 07:27:11 Moving is finished
+15.11 07:29:19 Scanning 342 point from 744
+15.11 07:29:19 Going to coordinates X=-5.416, Y=-38.722
+15.11 07:29:19 Moving is finished
+15.11 07:31:27 Scanning 343 point from 744
+15.11 07:31:27 Going to coordinates X=-5.366, Y=-38.722
+15.11 07:31:27 Moving is finished
+15.11 07:33:35 Scanning 344 point from 744
+15.11 07:33:35 Going to coordinates X=-5.316, Y=-38.722
+15.11 07:33:35 Moving is finished
+15.11 07:35:43 Scanning 345 point from 744
+15.11 07:35:43 Going to coordinates X=-5.266, Y=-38.722
+15.11 07:35:43 Moving is finished
+15.11 07:37:52 Scanning 346 point from 744
+15.11 07:37:52 Going to coordinates X=-5.216, Y=-38.722
+15.11 07:37:52 Moving is finished
+15.11 07:40:00 Scanning 347 point from 744
+15.11 07:40:00 Going to coordinates X=-5.166, Y=-38.722
+15.11 07:40:00 Moving is finished
+15.11 07:42:08 Scanning 348 point from 744
+15.11 07:42:08 Going to coordinates X=-5.116, Y=-38.722
+15.11 07:42:08 Moving is finished
+15.11 07:44:17 Scanning 349 point from 744
+15.11 07:44:17 Going to coordinates X=-5.066, Y=-38.722
+15.11 07:44:17 Moving is finished
+15.11 07:46:26 Scanning 350 point from 744
+15.11 07:46:26 Going to coordinates X=-5.016, Y=-38.722
+15.11 07:46:26 Moving is finished
+15.11 07:48:34 Scanning 351 point from 744
+15.11 07:48:34 Going to coordinates X=-4.966, Y=-38.722
+15.11 07:48:34 Moving is finished
+15.11 07:50:42 Scanning 352 point from 744
+15.11 07:50:42 Going to coordinates X=-4.916, Y=-38.722
+15.11 07:50:42 Moving is finished
+15.11 07:52:51 Scanning 353 point from 744
+15.11 07:52:51 Going to coordinates X=-4.866, Y=-38.722
+15.11 07:52:51 Moving is finished
+15.11 07:54:59 Scanning 354 point from 744
+15.11 07:54:59 Going to coordinates X=-4.816, Y=-38.722
+15.11 07:54:59 Moving is finished
+15.11 07:57:08 Scanning 355 point from 744
+15.11 07:57:08 Going to coordinates X=-4.766, Y=-38.722
+15.11 07:57:08 Moving is finished
+15.11 07:59:17 Scanning 356 point from 744
+15.11 07:59:17 Going to coordinates X=-4.716, Y=-38.722
+15.11 07:59:17 Moving is finished
+15.11 08:01:25 Scanning 357 point from 744
+15.11 08:01:25 Going to coordinates X=-4.666, Y=-38.722
+15.11 08:01:25 Moving is finished
+15.11 08:03:34 Scanning 358 point from 744
+15.11 08:03:34 Going to coordinates X=-4.616, Y=-38.722
+15.11 08:03:34 Moving is finished
+15.11 08:05:42 Scanning 359 point from 744
+15.11 08:05:42 Going to coordinates X=-4.566, Y=-38.722
+15.11 08:05:42 Moving is finished
+15.11 08:07:50 Scanning 360 point from 744
+15.11 08:07:50 Going to coordinates X=-4.516, Y=-38.722
+15.11 08:07:51 Moving is finished
+15.11 08:09:59 Scanning 361 point from 744
+15.11 08:09:59 Going to coordinates X=-4.466, Y=-38.722
+15.11 08:09:59 Moving is finished
+15.11 08:12:07 Scanning 362 point from 744
+15.11 08:12:07 Going to coordinates X=-4.416, Y=-38.722
+15.11 08:12:07 Moving is finished
+15.11 08:14:15 Scanning 363 point from 744
+15.11 08:14:15 Going to coordinates X=-4.366, Y=-38.722
+15.11 08:14:15 Moving is finished
+15.11 08:16:23 Scanning 364 point from 744
+15.11 08:16:23 Going to coordinates X=-4.316, Y=-38.722
+15.11 08:16:23 Moving is finished
+15.11 08:18:31 Scanning 365 point from 744
+15.11 08:18:31 Going to coordinates X=-4.266, Y=-38.722
+15.11 08:18:31 Moving is finished
+15.11 08:20:39 Scanning 366 point from 744
+15.11 08:20:39 Going to coordinates X=-4.216, Y=-38.722
+15.11 08:20:39 Moving is finished
+15.11 08:22:48 Scanning 367 point from 744
+15.11 08:22:48 Going to coordinates X=-4.166, Y=-38.722
+15.11 08:22:49 Moving is finished
+15.11 08:24:57 Scanning 368 point from 744
+15.11 08:24:57 Going to coordinates X=-4.116, Y=-38.722
+15.11 08:24:57 Moving is finished
+15.11 08:27:05 Scanning 369 point from 744
+15.11 08:27:05 Going to coordinates X=-4.066, Y=-38.722
+15.11 08:27:05 Moving is finished
+15.11 08:29:14 Scanning 370 point from 744
+15.11 08:29:14 Going to coordinates X=-4.016, Y=-38.722
+15.11 08:29:14 Moving is finished
+15.11 08:31:22 Scanning 371 point from 744
+15.11 08:31:22 Going to coordinates X=-3.966, Y=-38.722
+15.11 08:31:23 Moving is finished
+15.11 08:33:31 Scanning 372 point from 744
+15.11 08:33:31 Going to coordinates X=-5.466, Y=-38.672
+15.11 08:33:31 Moving is finished
+15.11 08:35:40 Scanning 373 point from 744
+15.11 08:35:40 Going to coordinates X=-5.416, Y=-38.672
+15.11 08:35:40 Moving is finished
+15.11 08:37:48 Scanning 374 point from 744
+15.11 08:37:48 Going to coordinates X=-5.366, Y=-38.672
+15.11 08:37:48 Moving is finished
+15.11 08:39:57 Scanning 375 point from 744
+15.11 08:39:57 Going to coordinates X=-5.316, Y=-38.672
+15.11 08:39:57 Moving is finished
+15.11 08:42:05 Scanning 376 point from 744
+15.11 08:42:05 Going to coordinates X=-5.266, Y=-38.672
+15.11 08:42:05 Moving is finished
+15.11 08:44:14 Scanning 377 point from 744
+15.11 08:44:14 Going to coordinates X=-5.216, Y=-38.672
+15.11 08:44:14 Moving is finished
+15.11 08:46:22 Scanning 378 point from 744
+15.11 08:46:22 Going to coordinates X=-5.166, Y=-38.672
+15.11 08:46:22 Moving is finished
+15.11 08:48:30 Scanning 379 point from 744
+15.11 08:48:30 Going to coordinates X=-5.116, Y=-38.672
+15.11 08:48:30 Moving is finished
+15.11 08:50:38 Scanning 380 point from 744
+15.11 08:50:38 Going to coordinates X=-5.066, Y=-38.672
+15.11 08:50:38 Moving is finished
+15.11 08:52:46 Scanning 381 point from 744
+15.11 08:52:46 Going to coordinates X=-5.016, Y=-38.672
+15.11 08:52:46 Moving is finished
+15.11 08:54:54 Scanning 382 point from 744
+15.11 08:54:54 Going to coordinates X=-4.966, Y=-38.672
+15.11 08:54:54 Moving is finished
+15.11 08:56:39 Stopped!

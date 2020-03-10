@@ -1,0 +1,26 @@
+17.06 16:42:33 Initializing grbl...
+17.06 16:42:34 Got the response: b''
+17.06 16:43:51 Error 255
+17.06 16:43:52 Status responce is malformed
+17.06 16:43:52 list index out of range
+17.06 17:05:25 Row 0: 17.06 17:05:25 Goto: -27.722; -38.000; 0.000
+17.06 17:05:25 Going to coordinates X=-27.722, Y=-38.000
+17.06 17:05:26 Moving is finished
+17.06 17:05:27 Row 1: 17.06 17:05:27 Goto: -27.722; -28.000; 0.000
+17.06 17:05:27 Going to coordinates X=-27.722, Y=-28.000
+17.06 17:05:29 Moving is finished
+17.06 17:05:30 Row 2: 17.06 17:05:30 Goto: -37.722; -38.000; 0.000
+17.06 17:05:30 Going to coordinates X=-37.722, Y=-38.000
+17.06 17:05:32 Moving is finished
+17.06 17:05:33 Row 3: 17.06 17:05:33 Goto: -7.722; -18.000; 0.000
+17.06 17:05:33 Going to coordinates X=-7.722, Y=-18.000
+17.06 17:05:36 Moving is finished
+17.06 17:05:37 Row 4: 17.06 17:05:37 Goto: -47.722; -8.000; 0.000
+17.06 17:05:37 Going to coordinates X=-47.722, Y=-8.000
+17.06 17:05:42 Moving is finished
+17.06 17:05:43 Row 5: 17.06 17:05:43 Goto: -47.722; -48.000; 0.000
+17.06 17:05:43 Going to coordinates X=-47.722, Y=-48.000
+17.06 17:05:47 Moving is finished
+17.06 17:05:48 Row 6: 17.06 17:05:48 Goto: -27.722; -38.000; 0.000
+17.06 17:05:48 Going to coordinates X=-27.722, Y=-38.000
+17.06 17:05:51 Moving is finished

@@ -1,0 +1,4038 @@
+09.05 19:29:49 Initializing grbl...
+09.05 19:29:49 Got the response: b''
+09.05 19:32:14 Row 0: 09.05 19:32:14 Map: x1: -29.522, y1: -38.722, x2: -28.624, y2: -39.175, xres: 0.020, yres: 0.020, fname: COOH2bez3
+09.05 19:32:14 Scanning 0 point from 1104
+09.05 19:32:14 Going to coordinates X=-29.522, Y=-39.175
+09.05 19:32:14 Moving is finished
+09.05 19:33:51 Scanning 1 point from 1104
+09.05 19:33:51 Going to coordinates X=-29.502, Y=-39.175
+09.05 19:33:51 Moving is finished
+09.05 19:35:28 Scanning 2 point from 1104
+09.05 19:35:28 Going to coordinates X=-29.482, Y=-39.175
+09.05 19:35:29 Moving is finished
+09.05 19:37:06 Scanning 3 point from 1104
+09.05 19:37:06 Going to coordinates X=-29.462, Y=-39.175
+09.05 19:37:06 Moving is finished
+09.05 19:38:43 Scanning 4 point from 1104
+09.05 19:38:43 Going to coordinates X=-29.442, Y=-39.175
+09.05 19:38:43 Moving is finished
+09.05 19:40:20 Scanning 5 point from 1104
+09.05 19:40:20 Going to coordinates X=-29.422, Y=-39.175
+09.05 19:40:20 Moving is finished
+09.05 19:41:56 Scanning 6 point from 1104
+09.05 19:41:56 Going to coordinates X=-29.402, Y=-39.175
+09.05 19:41:56 Moving is finished
+09.05 19:43:33 Scanning 7 point from 1104
+09.05 19:43:33 Going to coordinates X=-29.382, Y=-39.175
+09.05 19:43:33 Moving is finished
+09.05 19:45:09 Scanning 8 point from 1104
+09.05 19:45:09 Going to coordinates X=-29.362, Y=-39.175
+09.05 19:45:09 Moving is finished
+09.05 19:46:46 Scanning 9 point from 1104
+09.05 19:46:46 Going to coordinates X=-29.342, Y=-39.175
+09.05 19:46:47 Moving is finished
+09.05 19:48:23 Scanning 10 point from 1104
+09.05 19:48:23 Going to coordinates X=-29.322, Y=-39.175
+09.05 19:48:23 Moving is finished
+09.05 19:50:00 Scanning 11 point from 1104
+09.05 19:50:00 Going to coordinates X=-29.302, Y=-39.175
+09.05 19:50:00 Moving is finished
+09.05 19:51:37 Scanning 12 point from 1104
+09.05 19:51:37 Going to coordinates X=-29.282, Y=-39.175
+09.05 19:51:37 Moving is finished
+09.05 19:53:14 Scanning 13 point from 1104
+09.05 19:53:14 Going to coordinates X=-29.262, Y=-39.175
+09.05 19:53:14 Moving is finished
+09.05 19:54:50 Scanning 14 point from 1104
+09.05 19:54:50 Going to coordinates X=-29.242, Y=-39.175
+09.05 19:54:51 Moving is finished
+09.05 19:56:28 Scanning 15 point from 1104
+09.05 19:56:28 Going to coordinates X=-29.222, Y=-39.175
+09.05 19:56:28 Moving is finished
+09.05 19:58:05 Scanning 16 point from 1104
+09.05 19:58:05 Going to coordinates X=-29.202, Y=-39.175
+09.05 19:58:05 Moving is finished
+09.05 19:59:42 Scanning 17 point from 1104
+09.05 19:59:42 Going to coordinates X=-29.182, Y=-39.175
+09.05 19:59:42 Moving is finished
+09.05 20:01:20 Scanning 18 point from 1104
+09.05 20:01:20 Going to coordinates X=-29.162, Y=-39.175
+09.05 20:01:20 Moving is finished
+09.05 20:02:57 Scanning 19 point from 1104
+09.05 20:02:57 Going to coordinates X=-29.142, Y=-39.175
+09.05 20:02:58 Moving is finished
+09.05 20:04:34 Scanning 20 point from 1104
+09.05 20:04:34 Going to coordinates X=-29.122, Y=-39.175
+09.05 20:04:35 Moving is finished
+09.05 20:06:11 Scanning 21 point from 1104
+09.05 20:06:11 Going to coordinates X=-29.102, Y=-39.175
+09.05 20:06:11 Moving is finished
+09.05 20:07:48 Scanning 22 point from 1104
+09.05 20:07:48 Going to coordinates X=-29.082, Y=-39.175
+09.05 20:07:48 Moving is finished
+09.05 20:09:25 Scanning 23 point from 1104
+09.05 20:09:25 Going to coordinates X=-29.062, Y=-39.175
+09.05 20:09:25 Moving is finished
+09.05 20:11:01 Scanning 24 point from 1104
+09.05 20:11:01 Going to coordinates X=-29.042, Y=-39.175
+09.05 20:11:01 Moving is finished
+09.05 20:12:38 Scanning 25 point from 1104
+09.05 20:12:38 Going to coordinates X=-29.022, Y=-39.175
+09.05 20:12:38 Moving is finished
+09.05 20:14:15 Scanning 26 point from 1104
+09.05 20:14:15 Going to coordinates X=-29.002, Y=-39.175
+09.05 20:14:15 Moving is finished
+09.05 20:15:51 Scanning 27 point from 1104
+09.05 20:15:51 Going to coordinates X=-28.982, Y=-39.175
+09.05 20:15:52 Moving is finished
+09.05 20:17:29 Scanning 28 point from 1104
+09.05 20:17:29 Going to coordinates X=-28.962, Y=-39.175
+09.05 20:17:29 Moving is finished
+09.05 20:19:05 Scanning 29 point from 1104
+09.05 20:19:05 Going to coordinates X=-28.942, Y=-39.175
+09.05 20:19:06 Moving is finished
+09.05 20:20:42 Scanning 30 point from 1104
+09.05 20:20:42 Going to coordinates X=-28.922, Y=-39.175
+09.05 20:20:42 Moving is finished
+09.05 20:22:18 Scanning 31 point from 1104
+09.05 20:22:18 Going to coordinates X=-28.902, Y=-39.175
+09.05 20:22:18 Moving is finished
+09.05 20:23:55 Scanning 32 point from 1104
+09.05 20:23:55 Going to coordinates X=-28.882, Y=-39.175
+09.05 20:23:55 Moving is finished
+09.05 20:25:32 Scanning 33 point from 1104
+09.05 20:25:32 Going to coordinates X=-28.862, Y=-39.175
+09.05 20:25:32 Moving is finished
+09.05 20:27:09 Scanning 34 point from 1104
+09.05 20:27:09 Going to coordinates X=-28.842, Y=-39.175
+09.05 20:27:09 Moving is finished
+09.05 20:28:45 Scanning 35 point from 1104
+09.05 20:28:45 Going to coordinates X=-28.822, Y=-39.175
+09.05 20:28:46 Moving is finished
+09.05 20:30:22 Scanning 36 point from 1104
+09.05 20:30:22 Going to coordinates X=-28.802, Y=-39.175
+09.05 20:30:22 Moving is finished
+09.05 20:31:59 Scanning 37 point from 1104
+09.05 20:31:59 Going to coordinates X=-28.782, Y=-39.175
+09.05 20:31:59 Moving is finished
+09.05 20:33:36 Scanning 38 point from 1104
+09.05 20:33:36 Going to coordinates X=-28.762, Y=-39.175
+09.05 20:33:36 Moving is finished
+09.05 20:35:13 Scanning 39 point from 1104
+09.05 20:35:13 Going to coordinates X=-28.742, Y=-39.175
+09.05 20:35:13 Moving is finished
+09.05 20:36:50 Scanning 40 point from 1104
+09.05 20:36:50 Going to coordinates X=-28.722, Y=-39.175
+09.05 20:36:51 Moving is finished
+09.05 20:38:27 Scanning 41 point from 1104
+09.05 20:38:27 Going to coordinates X=-28.702, Y=-39.175
+09.05 20:38:27 Moving is finished
+09.05 20:40:04 Scanning 42 point from 1104
+09.05 20:40:04 Going to coordinates X=-28.682, Y=-39.175
+09.05 20:40:04 Moving is finished
+09.05 20:41:41 Scanning 43 point from 1104
+09.05 20:41:41 Going to coordinates X=-28.662, Y=-39.175
+09.05 20:41:41 Moving is finished
+09.05 20:43:18 Scanning 44 point from 1104
+09.05 20:43:18 Going to coordinates X=-28.642, Y=-39.175
+09.05 20:43:18 Moving is finished
+09.05 20:44:55 Scanning 45 point from 1104
+09.05 20:44:55 Going to coordinates X=-28.622, Y=-39.175
+09.05 20:44:55 Moving is finished
+09.05 20:46:32 Scanning 46 point from 1104
+09.05 20:46:32 Going to coordinates X=-29.522, Y=-39.155
+09.05 20:46:33 Moving is finished
+09.05 20:48:10 Scanning 47 point from 1104
+09.05 20:48:10 Going to coordinates X=-29.502, Y=-39.155
+09.05 20:48:10 Moving is finished
+09.05 20:49:47 Scanning 48 point from 1104
+09.05 20:49:47 Going to coordinates X=-29.482, Y=-39.155
+09.05 20:49:47 Moving is finished
+09.05 20:51:24 Scanning 49 point from 1104
+09.05 20:51:24 Going to coordinates X=-29.462, Y=-39.155
+09.05 20:51:24 Moving is finished
+09.05 20:53:01 Scanning 50 point from 1104
+09.05 20:53:01 Going to coordinates X=-29.442, Y=-39.155
+09.05 20:53:01 Moving is finished
+09.05 20:54:38 Scanning 51 point from 1104
+09.05 20:54:38 Going to coordinates X=-29.422, Y=-39.155
+09.05 20:54:38 Moving is finished
+09.05 20:56:15 Scanning 52 point from 1104
+09.05 20:56:15 Going to coordinates X=-29.402, Y=-39.155
+09.05 20:56:15 Moving is finished
+09.05 20:57:52 Scanning 53 point from 1104
+09.05 20:57:52 Going to coordinates X=-29.382, Y=-39.155
+09.05 20:57:52 Moving is finished
+09.05 20:59:29 Scanning 54 point from 1104
+09.05 20:59:29 Going to coordinates X=-29.362, Y=-39.155
+09.05 20:59:30 Moving is finished
+09.05 21:01:06 Scanning 55 point from 1104
+09.05 21:01:06 Going to coordinates X=-29.342, Y=-39.155
+09.05 21:01:06 Moving is finished
+09.05 21:02:43 Scanning 56 point from 1104
+09.05 21:02:43 Going to coordinates X=-29.322, Y=-39.155
+09.05 21:02:43 Moving is finished
+09.05 21:04:20 Scanning 57 point from 1104
+09.05 21:04:20 Going to coordinates X=-29.302, Y=-39.155
+09.05 21:04:20 Moving is finished
+09.05 21:05:57 Scanning 58 point from 1104
+09.05 21:05:57 Going to coordinates X=-29.282, Y=-39.155
+09.05 21:05:57 Moving is finished
+09.05 21:07:34 Scanning 59 point from 1104
+09.05 21:07:34 Going to coordinates X=-29.262, Y=-39.155
+09.05 21:07:34 Moving is finished
+09.05 21:09:11 Scanning 60 point from 1104
+09.05 21:09:11 Going to coordinates X=-29.242, Y=-39.155
+09.05 21:09:11 Moving is finished
+09.05 21:10:48 Scanning 61 point from 1104
+09.05 21:10:48 Going to coordinates X=-29.222, Y=-39.155
+09.05 21:10:48 Moving is finished
+09.05 21:12:25 Scanning 62 point from 1104
+09.05 21:12:25 Going to coordinates X=-29.202, Y=-39.155
+09.05 21:12:25 Moving is finished
+09.05 21:14:02 Scanning 63 point from 1104
+09.05 21:14:02 Going to coordinates X=-29.182, Y=-39.155
+09.05 21:14:02 Moving is finished
+09.05 21:15:38 Scanning 64 point from 1104
+09.05 21:15:38 Going to coordinates X=-29.162, Y=-39.155
+09.05 21:15:38 Moving is finished
+09.05 21:17:15 Scanning 65 point from 1104
+09.05 21:17:15 Going to coordinates X=-29.142, Y=-39.155
+09.05 21:17:15 Moving is finished
+09.05 21:18:51 Scanning 66 point from 1104
+09.05 21:18:51 Going to coordinates X=-29.122, Y=-39.155
+09.05 21:18:52 Moving is finished
+09.05 21:20:28 Scanning 67 point from 1104
+09.05 21:20:28 Going to coordinates X=-29.102, Y=-39.155
+09.05 21:20:28 Moving is finished
+09.05 21:22:04 Scanning 68 point from 1104
+09.05 21:22:04 Going to coordinates X=-29.082, Y=-39.155
+09.05 21:22:04 Moving is finished
+09.05 21:23:41 Scanning 69 point from 1104
+09.05 21:23:41 Going to coordinates X=-29.062, Y=-39.155
+09.05 21:23:41 Moving is finished
+09.05 21:25:18 Scanning 70 point from 1104
+09.05 21:25:18 Going to coordinates X=-29.042, Y=-39.155
+09.05 21:25:18 Moving is finished
+09.05 21:26:56 Scanning 71 point from 1104
+09.05 21:26:56 Going to coordinates X=-29.022, Y=-39.155
+09.05 21:26:56 Moving is finished
+09.05 21:28:33 Scanning 72 point from 1104
+09.05 21:28:33 Going to coordinates X=-29.002, Y=-39.155
+09.05 21:28:33 Moving is finished
+09.05 21:30:10 Scanning 73 point from 1104
+09.05 21:30:10 Going to coordinates X=-28.982, Y=-39.155
+09.05 21:30:10 Moving is finished
+09.05 21:31:47 Scanning 74 point from 1104
+09.05 21:31:47 Going to coordinates X=-28.962, Y=-39.155
+09.05 21:31:47 Moving is finished
+09.05 21:33:24 Scanning 75 point from 1104
+09.05 21:33:24 Going to coordinates X=-28.942, Y=-39.155
+09.05 21:33:24 Moving is finished
+09.05 21:35:01 Scanning 76 point from 1104
+09.05 21:35:01 Going to coordinates X=-28.922, Y=-39.155
+09.05 21:35:01 Moving is finished
+09.05 21:36:38 Scanning 77 point from 1104
+09.05 21:36:38 Going to coordinates X=-28.902, Y=-39.155
+09.05 21:36:38 Moving is finished
+09.05 21:38:15 Scanning 78 point from 1104
+09.05 21:38:15 Going to coordinates X=-28.882, Y=-39.155
+09.05 21:38:15 Moving is finished
+09.05 21:39:52 Scanning 79 point from 1104
+09.05 21:39:52 Going to coordinates X=-28.862, Y=-39.155
+09.05 21:39:52 Moving is finished
+09.05 21:41:29 Scanning 80 point from 1104
+09.05 21:41:29 Going to coordinates X=-28.842, Y=-39.155
+09.05 21:41:29 Moving is finished
+09.05 21:43:07 Scanning 81 point from 1104
+09.05 21:43:07 Going to coordinates X=-28.822, Y=-39.155
+09.05 21:43:07 Moving is finished
+09.05 21:44:43 Scanning 82 point from 1104
+09.05 21:44:43 Going to coordinates X=-28.802, Y=-39.155
+09.05 21:44:43 Moving is finished
+09.05 21:46:20 Scanning 83 point from 1104
+09.05 21:46:20 Going to coordinates X=-28.782, Y=-39.155
+09.05 21:46:20 Moving is finished
+09.05 21:47:57 Scanning 84 point from 1104
+09.05 21:47:57 Going to coordinates X=-28.762, Y=-39.155
+09.05 21:47:57 Moving is finished
+09.05 21:49:34 Scanning 85 point from 1104
+09.05 21:49:34 Going to coordinates X=-28.742, Y=-39.155
+09.05 21:49:34 Moving is finished
+09.05 21:51:11 Scanning 86 point from 1104
+09.05 21:51:11 Going to coordinates X=-28.722, Y=-39.155
+09.05 21:51:11 Moving is finished
+09.05 21:52:47 Scanning 87 point from 1104
+09.05 21:52:47 Going to coordinates X=-28.702, Y=-39.155
+09.05 21:52:48 Moving is finished
+09.05 21:54:24 Scanning 88 point from 1104
+09.05 21:54:24 Going to coordinates X=-28.682, Y=-39.155
+09.05 21:54:24 Moving is finished
+09.05 21:56:01 Scanning 89 point from 1104
+09.05 21:56:01 Going to coordinates X=-28.662, Y=-39.155
+09.05 21:56:01 Moving is finished
+09.05 21:57:38 Scanning 90 point from 1104
+09.05 21:57:38 Going to coordinates X=-28.642, Y=-39.155
+09.05 21:57:39 Moving is finished
+09.05 21:59:16 Scanning 91 point from 1104
+09.05 21:59:16 Going to coordinates X=-28.622, Y=-39.155
+09.05 21:59:16 Moving is finished
+09.05 22:00:52 Scanning 92 point from 1104
+09.05 22:00:52 Going to coordinates X=-29.522, Y=-39.135
+09.05 22:00:53 Moving is finished
+09.05 22:02:29 Scanning 93 point from 1104
+09.05 22:02:29 Going to coordinates X=-29.502, Y=-39.135
+09.05 22:02:30 Moving is finished
+09.05 22:04:06 Scanning 94 point from 1104
+09.05 22:04:06 Going to coordinates X=-29.482, Y=-39.135
+09.05 22:04:06 Moving is finished
+09.05 22:05:43 Scanning 95 point from 1104
+09.05 22:05:43 Going to coordinates X=-29.462, Y=-39.135
+09.05 22:05:43 Moving is finished
+09.05 22:07:20 Scanning 96 point from 1104
+09.05 22:07:20 Going to coordinates X=-29.442, Y=-39.135
+09.05 22:07:20 Moving is finished
+09.05 22:08:57 Scanning 97 point from 1104
+09.05 22:08:57 Going to coordinates X=-29.422, Y=-39.135
+09.05 22:08:57 Moving is finished
+09.05 22:10:34 Scanning 98 point from 1104
+09.05 22:10:34 Going to coordinates X=-29.402, Y=-39.135
+09.05 22:10:34 Moving is finished
+09.05 22:12:11 Scanning 99 point from 1104
+09.05 22:12:11 Going to coordinates X=-29.382, Y=-39.135
+09.05 22:12:11 Moving is finished
+09.05 22:13:48 Scanning 100 point from 1104
+09.05 22:13:48 Going to coordinates X=-29.362, Y=-39.135
+09.05 22:13:48 Moving is finished
+09.05 22:15:25 Scanning 101 point from 1104
+09.05 22:15:25 Going to coordinates X=-29.342, Y=-39.135
+09.05 22:15:25 Moving is finished
+09.05 22:17:02 Scanning 102 point from 1104
+09.05 22:17:02 Going to coordinates X=-29.322, Y=-39.135
+09.05 22:17:02 Moving is finished
+09.05 22:18:39 Scanning 103 point from 1104
+09.05 22:18:39 Going to coordinates X=-29.302, Y=-39.135
+09.05 22:18:39 Moving is finished
+09.05 22:20:16 Scanning 104 point from 1104
+09.05 22:20:16 Going to coordinates X=-29.282, Y=-39.135
+09.05 22:20:16 Moving is finished
+09.05 22:21:53 Scanning 105 point from 1104
+09.05 22:21:53 Going to coordinates X=-29.262, Y=-39.135
+09.05 22:21:53 Moving is finished
+09.05 22:23:30 Scanning 106 point from 1104
+09.05 22:23:30 Going to coordinates X=-29.242, Y=-39.135
+09.05 22:23:30 Moving is finished
+09.05 22:25:08 Scanning 107 point from 1104
+09.05 22:25:08 Going to coordinates X=-29.222, Y=-39.135
+09.05 22:25:08 Moving is finished
+09.05 22:26:45 Scanning 108 point from 1104
+09.05 22:26:45 Going to coordinates X=-29.202, Y=-39.135
+09.05 22:26:45 Moving is finished
+09.05 22:28:23 Scanning 109 point from 1104
+09.05 22:28:23 Going to coordinates X=-29.182, Y=-39.135
+09.05 22:28:23 Moving is finished
+09.05 22:30:00 Scanning 110 point from 1104
+09.05 22:30:00 Going to coordinates X=-29.162, Y=-39.135
+09.05 22:30:00 Moving is finished
+09.05 22:31:37 Scanning 111 point from 1104
+09.05 22:31:37 Going to coordinates X=-29.142, Y=-39.135
+09.05 22:31:37 Moving is finished
+09.05 22:33:14 Scanning 112 point from 1104
+09.05 22:33:14 Going to coordinates X=-29.122, Y=-39.135
+09.05 22:33:14 Moving is finished
+09.05 22:34:51 Scanning 113 point from 1104
+09.05 22:34:51 Going to coordinates X=-29.102, Y=-39.135
+09.05 22:34:51 Moving is finished
+09.05 22:36:28 Scanning 114 point from 1104
+09.05 22:36:28 Going to coordinates X=-29.082, Y=-39.135
+09.05 22:36:28 Moving is finished
+09.05 22:38:04 Scanning 115 point from 1104
+09.05 22:38:04 Going to coordinates X=-29.062, Y=-39.135
+09.05 22:38:04 Moving is finished
+09.05 22:39:41 Scanning 116 point from 1104
+09.05 22:39:41 Going to coordinates X=-29.042, Y=-39.135
+09.05 22:39:41 Moving is finished
+09.05 22:41:18 Scanning 117 point from 1104
+09.05 22:41:18 Going to coordinates X=-29.022, Y=-39.135
+09.05 22:41:18 Moving is finished
+09.05 22:42:54 Scanning 118 point from 1104
+09.05 22:42:54 Going to coordinates X=-29.002, Y=-39.135
+09.05 22:42:55 Moving is finished
+09.05 22:44:31 Scanning 119 point from 1104
+09.05 22:44:31 Going to coordinates X=-28.982, Y=-39.135
+09.05 22:44:32 Moving is finished
+09.05 22:46:09 Scanning 120 point from 1104
+09.05 22:46:09 Going to coordinates X=-28.962, Y=-39.135
+09.05 22:46:09 Moving is finished
+09.05 22:47:46 Scanning 121 point from 1104
+09.05 22:47:46 Going to coordinates X=-28.942, Y=-39.135
+09.05 22:47:46 Moving is finished
+09.05 22:49:23 Scanning 122 point from 1104
+09.05 22:49:23 Going to coordinates X=-28.922, Y=-39.135
+09.05 22:49:23 Moving is finished
+09.05 22:51:00 Scanning 123 point from 1104
+09.05 22:51:00 Going to coordinates X=-28.902, Y=-39.135
+09.05 22:51:00 Moving is finished
+09.05 22:52:36 Scanning 124 point from 1104
+09.05 22:52:36 Going to coordinates X=-28.882, Y=-39.135
+09.05 22:52:37 Moving is finished
+09.05 22:54:13 Scanning 125 point from 1104
+09.05 22:54:13 Going to coordinates X=-28.862, Y=-39.135
+09.05 22:54:13 Moving is finished
+09.05 22:55:50 Scanning 126 point from 1104
+09.05 22:55:50 Going to coordinates X=-28.842, Y=-39.135
+09.05 22:55:50 Moving is finished
+09.05 22:57:27 Scanning 127 point from 1104
+09.05 22:57:27 Going to coordinates X=-28.822, Y=-39.135
+09.05 22:57:27 Moving is finished
+09.05 22:59:04 Scanning 128 point from 1104
+09.05 22:59:04 Going to coordinates X=-28.802, Y=-39.135
+09.05 22:59:04 Moving is finished
+09.05 23:00:41 Scanning 129 point from 1104
+09.05 23:00:41 Going to coordinates X=-28.782, Y=-39.135
+09.05 23:00:41 Moving is finished
+09.05 23:02:17 Scanning 130 point from 1104
+09.05 23:02:17 Going to coordinates X=-28.762, Y=-39.135
+09.05 23:02:18 Moving is finished
+09.05 23:03:55 Scanning 131 point from 1104
+09.05 23:03:55 Going to coordinates X=-28.742, Y=-39.135
+09.05 23:03:55 Moving is finished
+09.05 23:05:31 Scanning 132 point from 1104
+09.05 23:05:31 Going to coordinates X=-28.722, Y=-39.135
+09.05 23:05:31 Moving is finished
+09.05 23:07:07 Scanning 133 point from 1104
+09.05 23:07:07 Going to coordinates X=-28.702, Y=-39.135
+09.05 23:07:08 Moving is finished
+09.05 23:08:45 Scanning 134 point from 1104
+09.05 23:08:45 Going to coordinates X=-28.682, Y=-39.135
+09.05 23:08:45 Moving is finished
+09.05 23:10:22 Scanning 135 point from 1104
+09.05 23:10:22 Going to coordinates X=-28.662, Y=-39.135
+09.05 23:10:22 Moving is finished
+09.05 23:11:58 Scanning 136 point from 1104
+09.05 23:11:58 Going to coordinates X=-28.642, Y=-39.135
+09.05 23:11:58 Moving is finished
+09.05 23:13:35 Scanning 137 point from 1104
+09.05 23:13:35 Going to coordinates X=-28.622, Y=-39.135
+09.05 23:13:35 Moving is finished
+09.05 23:15:11 Scanning 138 point from 1104
+09.05 23:15:11 Going to coordinates X=-29.522, Y=-39.115
+09.05 23:15:12 Moving is finished
+09.05 23:16:49 Scanning 139 point from 1104
+09.05 23:16:49 Going to coordinates X=-29.502, Y=-39.115
+09.05 23:16:49 Moving is finished
+09.05 23:18:26 Scanning 140 point from 1104
+09.05 23:18:26 Going to coordinates X=-29.482, Y=-39.115
+09.05 23:18:26 Moving is finished
+09.05 23:20:04 Scanning 141 point from 1104
+09.05 23:20:04 Going to coordinates X=-29.462, Y=-39.115
+09.05 23:20:04 Moving is finished
+09.05 23:21:41 Scanning 142 point from 1104
+09.05 23:21:41 Going to coordinates X=-29.442, Y=-39.115
+09.05 23:21:41 Moving is finished
+09.05 23:23:17 Scanning 143 point from 1104
+09.05 23:23:17 Going to coordinates X=-29.422, Y=-39.115
+09.05 23:23:17 Moving is finished
+09.05 23:24:54 Scanning 144 point from 1104
+09.05 23:24:54 Going to coordinates X=-29.402, Y=-39.115
+09.05 23:24:54 Moving is finished
+09.05 23:26:31 Scanning 145 point from 1104
+09.05 23:26:31 Going to coordinates X=-29.382, Y=-39.115
+09.05 23:26:31 Moving is finished
+09.05 23:28:08 Scanning 146 point from 1104
+09.05 23:28:08 Going to coordinates X=-29.362, Y=-39.115
+09.05 23:28:08 Moving is finished
+09.05 23:29:44 Scanning 147 point from 1104
+09.05 23:29:44 Going to coordinates X=-29.342, Y=-39.115
+09.05 23:29:45 Moving is finished
+09.05 23:31:21 Scanning 148 point from 1104
+09.05 23:31:21 Going to coordinates X=-29.322, Y=-39.115
+09.05 23:31:21 Moving is finished
+09.05 23:32:59 Scanning 149 point from 1104
+09.05 23:32:59 Going to coordinates X=-29.302, Y=-39.115
+09.05 23:32:59 Moving is finished
+09.05 23:34:35 Scanning 150 point from 1104
+09.05 23:34:35 Going to coordinates X=-29.282, Y=-39.115
+09.05 23:34:35 Moving is finished
+09.05 23:36:13 Scanning 151 point from 1104
+09.05 23:36:13 Going to coordinates X=-29.262, Y=-39.115
+09.05 23:36:13 Moving is finished
+09.05 23:37:49 Scanning 152 point from 1104
+09.05 23:37:49 Going to coordinates X=-29.242, Y=-39.115
+09.05 23:37:49 Moving is finished
+09.05 23:39:26 Scanning 153 point from 1104
+09.05 23:39:26 Going to coordinates X=-29.222, Y=-39.115
+09.05 23:39:26 Moving is finished
+09.05 23:41:02 Scanning 154 point from 1104
+09.05 23:41:02 Going to coordinates X=-29.202, Y=-39.115
+09.05 23:41:02 Moving is finished
+09.05 23:42:40 Scanning 155 point from 1104
+09.05 23:42:40 Going to coordinates X=-29.182, Y=-39.115
+09.05 23:42:40 Moving is finished
+09.05 23:44:16 Scanning 156 point from 1104
+09.05 23:44:16 Going to coordinates X=-29.162, Y=-39.115
+09.05 23:44:17 Moving is finished
+09.05 23:45:53 Scanning 157 point from 1104
+09.05 23:45:53 Going to coordinates X=-29.142, Y=-39.115
+09.05 23:45:53 Moving is finished
+09.05 23:47:30 Scanning 158 point from 1104
+09.05 23:47:30 Going to coordinates X=-29.122, Y=-39.115
+09.05 23:47:30 Moving is finished
+09.05 23:49:07 Scanning 159 point from 1104
+09.05 23:49:07 Going to coordinates X=-29.102, Y=-39.115
+09.05 23:49:07 Moving is finished
+09.05 23:50:44 Scanning 160 point from 1104
+09.05 23:50:44 Going to coordinates X=-29.082, Y=-39.115
+09.05 23:50:44 Moving is finished
+09.05 23:52:20 Scanning 161 point from 1104
+09.05 23:52:20 Going to coordinates X=-29.062, Y=-39.115
+09.05 23:52:20 Moving is finished
+09.05 23:53:57 Scanning 162 point from 1104
+09.05 23:53:57 Going to coordinates X=-29.042, Y=-39.115
+09.05 23:53:57 Moving is finished
+09.05 23:55:33 Scanning 163 point from 1104
+09.05 23:55:33 Going to coordinates X=-29.022, Y=-39.115
+09.05 23:55:33 Moving is finished
+09.05 23:57:09 Scanning 164 point from 1104
+09.05 23:57:09 Going to coordinates X=-29.002, Y=-39.115
+09.05 23:57:09 Moving is finished
+09.05 23:58:46 Scanning 165 point from 1104
+09.05 23:58:46 Going to coordinates X=-28.982, Y=-39.115
+09.05 23:58:46 Moving is finished
+10.05 00:00:22 Scanning 166 point from 1104
+10.05 00:00:22 Going to coordinates X=-28.962, Y=-39.115
+10.05 00:00:22 Moving is finished
+10.05 00:01:59 Scanning 167 point from 1104
+10.05 00:01:59 Going to coordinates X=-28.942, Y=-39.115
+10.05 00:01:59 Moving is finished
+10.05 00:03:36 Scanning 168 point from 1104
+10.05 00:03:36 Going to coordinates X=-28.922, Y=-39.115
+10.05 00:03:36 Moving is finished
+10.05 00:05:14 Scanning 169 point from 1104
+10.05 00:05:14 Going to coordinates X=-28.902, Y=-39.115
+10.05 00:05:14 Moving is finished
+10.05 00:06:50 Scanning 170 point from 1104
+10.05 00:06:50 Going to coordinates X=-28.882, Y=-39.115
+10.05 00:06:51 Moving is finished
+10.05 00:08:27 Scanning 171 point from 1104
+10.05 00:08:27 Going to coordinates X=-28.862, Y=-39.115
+10.05 00:08:27 Moving is finished
+10.05 00:10:04 Scanning 172 point from 1104
+10.05 00:10:04 Going to coordinates X=-28.842, Y=-39.115
+10.05 00:10:04 Moving is finished
+10.05 00:11:41 Scanning 173 point from 1104
+10.05 00:11:41 Going to coordinates X=-28.822, Y=-39.115
+10.05 00:11:41 Moving is finished
+10.05 00:13:18 Scanning 174 point from 1104
+10.05 00:13:18 Going to coordinates X=-28.802, Y=-39.115
+10.05 00:13:18 Moving is finished
+10.05 00:14:55 Scanning 175 point from 1104
+10.05 00:14:55 Going to coordinates X=-28.782, Y=-39.115
+10.05 00:14:55 Moving is finished
+10.05 00:16:31 Scanning 176 point from 1104
+10.05 00:16:31 Going to coordinates X=-28.762, Y=-39.115
+10.05 00:16:31 Moving is finished
+10.05 00:18:08 Scanning 177 point from 1104
+10.05 00:18:08 Going to coordinates X=-28.742, Y=-39.115
+10.05 00:18:08 Moving is finished
+10.05 00:19:44 Scanning 178 point from 1104
+10.05 00:19:44 Going to coordinates X=-28.722, Y=-39.115
+10.05 00:19:45 Moving is finished
+10.05 00:21:21 Scanning 179 point from 1104
+10.05 00:21:21 Going to coordinates X=-28.702, Y=-39.115
+10.05 00:21:21 Moving is finished
+10.05 00:22:58 Scanning 180 point from 1104
+10.05 00:22:58 Going to coordinates X=-28.682, Y=-39.115
+10.05 00:22:58 Moving is finished
+10.05 00:24:34 Scanning 181 point from 1104
+10.05 00:24:34 Going to coordinates X=-28.662, Y=-39.115
+10.05 00:24:34 Moving is finished
+10.05 00:26:11 Scanning 182 point from 1104
+10.05 00:26:11 Going to coordinates X=-28.642, Y=-39.115
+10.05 00:26:11 Moving is finished
+10.05 00:27:48 Scanning 183 point from 1104
+10.05 00:27:48 Going to coordinates X=-28.622, Y=-39.115
+10.05 00:27:48 Moving is finished
+10.05 00:29:25 Scanning 184 point from 1104
+10.05 00:29:25 Going to coordinates X=-29.522, Y=-39.095
+10.05 00:29:25 Moving is finished
+10.05 00:31:02 Scanning 185 point from 1104
+10.05 00:31:02 Going to coordinates X=-29.502, Y=-39.095
+10.05 00:31:02 Moving is finished
+10.05 00:32:39 Scanning 186 point from 1104
+10.05 00:32:39 Going to coordinates X=-29.482, Y=-39.095
+10.05 00:32:39 Moving is finished
+10.05 00:34:15 Scanning 187 point from 1104
+10.05 00:34:15 Going to coordinates X=-29.462, Y=-39.095
+10.05 00:34:15 Moving is finished
+10.05 00:35:52 Scanning 188 point from 1104
+10.05 00:35:52 Going to coordinates X=-29.442, Y=-39.095
+10.05 00:35:53 Moving is finished
+10.05 00:37:29 Scanning 189 point from 1104
+10.05 00:37:29 Going to coordinates X=-29.422, Y=-39.095
+10.05 00:37:29 Moving is finished
+10.05 00:39:06 Scanning 190 point from 1104
+10.05 00:39:06 Going to coordinates X=-29.402, Y=-39.095
+10.05 00:39:06 Moving is finished
+10.05 00:40:42 Scanning 191 point from 1104
+10.05 00:40:42 Going to coordinates X=-29.382, Y=-39.095
+10.05 00:40:43 Moving is finished
+10.05 00:42:19 Scanning 192 point from 1104
+10.05 00:42:19 Going to coordinates X=-29.362, Y=-39.095
+10.05 00:42:19 Moving is finished
+10.05 00:43:56 Scanning 193 point from 1104
+10.05 00:43:56 Going to coordinates X=-29.342, Y=-39.095
+10.05 00:43:56 Moving is finished
+10.05 00:45:33 Scanning 194 point from 1104
+10.05 00:45:33 Going to coordinates X=-29.322, Y=-39.095
+10.05 00:45:33 Moving is finished
+10.05 00:47:09 Scanning 195 point from 1104
+10.05 00:47:09 Going to coordinates X=-29.302, Y=-39.095
+10.05 00:47:09 Moving is finished
+10.05 00:48:46 Scanning 196 point from 1104
+10.05 00:48:46 Going to coordinates X=-29.282, Y=-39.095
+10.05 00:48:46 Moving is finished
+10.05 00:50:23 Scanning 197 point from 1104
+10.05 00:50:23 Going to coordinates X=-29.262, Y=-39.095
+10.05 00:50:23 Moving is finished
+10.05 00:52:00 Scanning 198 point from 1104
+10.05 00:52:00 Going to coordinates X=-29.242, Y=-39.095
+10.05 00:52:00 Moving is finished
+10.05 00:53:37 Scanning 199 point from 1104
+10.05 00:53:37 Going to coordinates X=-29.222, Y=-39.095
+10.05 00:53:37 Moving is finished
+10.05 00:55:14 Scanning 200 point from 1104
+10.05 00:55:14 Going to coordinates X=-29.202, Y=-39.095
+10.05 00:55:14 Moving is finished
+10.05 00:56:51 Scanning 201 point from 1104
+10.05 00:56:51 Going to coordinates X=-29.182, Y=-39.095
+10.05 00:56:51 Moving is finished
+10.05 00:58:28 Scanning 202 point from 1104
+10.05 00:58:28 Going to coordinates X=-29.162, Y=-39.095
+10.05 00:58:29 Moving is finished
+10.05 01:00:05 Scanning 203 point from 1104
+10.05 01:00:05 Going to coordinates X=-29.142, Y=-39.095
+10.05 01:00:05 Moving is finished
+10.05 01:01:42 Scanning 204 point from 1104
+10.05 01:01:42 Going to coordinates X=-29.122, Y=-39.095
+10.05 01:01:42 Moving is finished
+10.05 01:03:18 Scanning 205 point from 1104
+10.05 01:03:18 Going to coordinates X=-29.102, Y=-39.095
+10.05 01:03:18 Moving is finished
+10.05 01:04:56 Scanning 206 point from 1104
+10.05 01:04:56 Going to coordinates X=-29.082, Y=-39.095
+10.05 01:04:56 Moving is finished
+10.05 01:06:33 Scanning 207 point from 1104
+10.05 01:06:33 Going to coordinates X=-29.062, Y=-39.095
+10.05 01:06:33 Moving is finished
+10.05 01:08:10 Scanning 208 point from 1104
+10.05 01:08:10 Going to coordinates X=-29.042, Y=-39.095
+10.05 01:08:10 Moving is finished
+10.05 01:09:47 Scanning 209 point from 1104
+10.05 01:09:47 Going to coordinates X=-29.022, Y=-39.095
+10.05 01:09:47 Moving is finished
+10.05 01:11:24 Scanning 210 point from 1104
+10.05 01:11:24 Going to coordinates X=-29.002, Y=-39.095
+10.05 01:11:24 Moving is finished
+10.05 01:13:01 Scanning 211 point from 1104
+10.05 01:13:01 Going to coordinates X=-28.982, Y=-39.095
+10.05 01:13:01 Moving is finished
+10.05 01:14:38 Scanning 212 point from 1104
+10.05 01:14:38 Going to coordinates X=-28.962, Y=-39.095
+10.05 01:14:38 Moving is finished
+10.05 01:16:15 Scanning 213 point from 1104
+10.05 01:16:15 Going to coordinates X=-28.942, Y=-39.095
+10.05 01:16:15 Moving is finished
+10.05 01:17:51 Scanning 214 point from 1104
+10.05 01:17:51 Going to coordinates X=-28.922, Y=-39.095
+10.05 01:17:51 Moving is finished
+10.05 01:19:28 Scanning 215 point from 1104
+10.05 01:19:28 Going to coordinates X=-28.902, Y=-39.095
+10.05 01:19:28 Moving is finished
+10.05 01:21:05 Scanning 216 point from 1104
+10.05 01:21:05 Going to coordinates X=-28.882, Y=-39.095
+10.05 01:21:06 Moving is finished
+10.05 01:22:42 Scanning 217 point from 1104
+10.05 01:22:42 Going to coordinates X=-28.862, Y=-39.095
+10.05 01:22:42 Moving is finished
+10.05 01:24:19 Scanning 218 point from 1104
+10.05 01:24:19 Going to coordinates X=-28.842, Y=-39.095
+10.05 01:24:19 Moving is finished
+10.05 01:25:55 Scanning 219 point from 1104
+10.05 01:25:55 Going to coordinates X=-28.822, Y=-39.095
+10.05 01:25:55 Moving is finished
+10.05 01:27:32 Scanning 220 point from 1104
+10.05 01:27:32 Going to coordinates X=-28.802, Y=-39.095
+10.05 01:27:32 Moving is finished
+10.05 01:29:09 Scanning 221 point from 1104
+10.05 01:29:09 Going to coordinates X=-28.782, Y=-39.095
+10.05 01:29:09 Moving is finished
+10.05 01:30:45 Scanning 222 point from 1104
+10.05 01:30:45 Going to coordinates X=-28.762, Y=-39.095
+10.05 01:30:46 Moving is finished
+10.05 01:32:23 Scanning 223 point from 1104
+10.05 01:32:23 Going to coordinates X=-28.742, Y=-39.095
+10.05 01:32:23 Moving is finished
+10.05 01:33:59 Scanning 224 point from 1104
+10.05 01:33:59 Going to coordinates X=-28.722, Y=-39.095
+10.05 01:33:59 Moving is finished
+10.05 01:35:36 Scanning 225 point from 1104
+10.05 01:35:36 Going to coordinates X=-28.702, Y=-39.095
+10.05 01:35:36 Moving is finished
+10.05 01:37:12 Scanning 226 point from 1104
+10.05 01:37:12 Going to coordinates X=-28.682, Y=-39.095
+10.05 01:37:13 Moving is finished
+10.05 01:38:49 Scanning 227 point from 1104
+10.05 01:38:49 Going to coordinates X=-28.662, Y=-39.095
+10.05 01:38:50 Moving is finished
+10.05 01:40:27 Scanning 228 point from 1104
+10.05 01:40:27 Going to coordinates X=-28.642, Y=-39.095
+10.05 01:40:27 Moving is finished
+10.05 01:42:03 Scanning 229 point from 1104
+10.05 01:42:03 Going to coordinates X=-28.622, Y=-39.095
+10.05 01:42:03 Moving is finished
+10.05 01:43:40 Scanning 230 point from 1104
+10.05 01:43:40 Going to coordinates X=-29.522, Y=-39.075
+10.05 01:43:41 Moving is finished
+10.05 01:45:18 Scanning 231 point from 1104
+10.05 01:45:18 Going to coordinates X=-29.502, Y=-39.075
+10.05 01:45:18 Moving is finished
+10.05 01:46:55 Scanning 232 point from 1104
+10.05 01:46:55 Going to coordinates X=-29.482, Y=-39.075
+10.05 01:46:55 Moving is finished
+10.05 01:48:32 Scanning 233 point from 1104
+10.05 01:48:32 Going to coordinates X=-29.462, Y=-39.075
+10.05 01:48:32 Moving is finished
+10.05 01:50:08 Scanning 234 point from 1104
+10.05 01:50:08 Going to coordinates X=-29.442, Y=-39.075
+10.05 01:50:09 Moving is finished
+10.05 01:51:45 Scanning 235 point from 1104
+10.05 01:51:45 Going to coordinates X=-29.422, Y=-39.075
+10.05 01:51:45 Moving is finished
+10.05 01:53:22 Scanning 236 point from 1104
+10.05 01:53:22 Going to coordinates X=-29.402, Y=-39.075
+10.05 01:53:22 Moving is finished
+10.05 01:54:59 Scanning 237 point from 1104
+10.05 01:54:59 Going to coordinates X=-29.382, Y=-39.075
+10.05 01:54:59 Moving is finished
+10.05 01:56:36 Scanning 238 point from 1104
+10.05 01:56:36 Going to coordinates X=-29.362, Y=-39.075
+10.05 01:56:36 Moving is finished
+10.05 01:58:12 Scanning 239 point from 1104
+10.05 01:58:12 Going to coordinates X=-29.342, Y=-39.075
+10.05 01:58:12 Moving is finished
+10.05 01:59:50 Scanning 240 point from 1104
+10.05 01:59:50 Going to coordinates X=-29.322, Y=-39.075
+10.05 01:59:50 Moving is finished
+10.05 02:01:26 Scanning 241 point from 1104
+10.05 02:01:26 Going to coordinates X=-29.302, Y=-39.075
+10.05 02:01:26 Moving is finished
+10.05 02:03:03 Scanning 242 point from 1104
+10.05 02:03:03 Going to coordinates X=-29.282, Y=-39.075
+10.05 02:03:03 Moving is finished
+10.05 02:04:40 Scanning 243 point from 1104
+10.05 02:04:40 Going to coordinates X=-29.262, Y=-39.075
+10.05 02:04:40 Moving is finished
+10.05 02:06:16 Scanning 244 point from 1104
+10.05 02:06:16 Going to coordinates X=-29.242, Y=-39.075
+10.05 02:06:17 Moving is finished
+10.05 02:07:54 Scanning 245 point from 1104
+10.05 02:07:54 Going to coordinates X=-29.222, Y=-39.075
+10.05 02:07:54 Moving is finished
+10.05 02:09:31 Scanning 246 point from 1104
+10.05 02:09:31 Going to coordinates X=-29.202, Y=-39.075
+10.05 02:09:31 Moving is finished
+10.05 02:11:07 Scanning 247 point from 1104
+10.05 02:11:07 Going to coordinates X=-29.182, Y=-39.075
+10.05 02:11:07 Moving is finished
+10.05 02:12:44 Scanning 248 point from 1104
+10.05 02:12:44 Going to coordinates X=-29.162, Y=-39.075
+10.05 02:12:44 Moving is finished
+10.05 02:14:20 Scanning 249 point from 1104
+10.05 02:14:20 Going to coordinates X=-29.142, Y=-39.075
+10.05 02:14:21 Moving is finished
+10.05 02:15:57 Scanning 250 point from 1104
+10.05 02:15:57 Going to coordinates X=-29.122, Y=-39.075
+10.05 02:15:57 Moving is finished
+10.05 02:17:34 Scanning 251 point from 1104
+10.05 02:17:34 Going to coordinates X=-29.102, Y=-39.075
+10.05 02:17:34 Moving is finished
+10.05 02:19:10 Scanning 252 point from 1104
+10.05 02:19:10 Going to coordinates X=-29.082, Y=-39.075
+10.05 02:19:10 Moving is finished
+10.05 02:20:47 Scanning 253 point from 1104
+10.05 02:20:47 Going to coordinates X=-29.062, Y=-39.075
+10.05 02:20:47 Moving is finished
+10.05 02:22:24 Scanning 254 point from 1104
+10.05 02:22:24 Going to coordinates X=-29.042, Y=-39.075
+10.05 02:22:24 Moving is finished
+10.05 02:24:01 Scanning 255 point from 1104
+10.05 02:24:01 Going to coordinates X=-29.022, Y=-39.075
+10.05 02:24:01 Moving is finished
+10.05 02:25:38 Scanning 256 point from 1104
+10.05 02:25:38 Going to coordinates X=-29.002, Y=-39.075
+10.05 02:25:38 Moving is finished
+10.05 02:27:14 Scanning 257 point from 1104
+10.05 02:27:14 Going to coordinates X=-28.982, Y=-39.075
+10.05 02:27:15 Moving is finished
+10.05 02:28:51 Scanning 258 point from 1104
+10.05 02:28:51 Going to coordinates X=-28.962, Y=-39.075
+10.05 02:28:51 Moving is finished
+10.05 02:30:27 Scanning 259 point from 1104
+10.05 02:30:27 Going to coordinates X=-28.942, Y=-39.075
+10.05 02:30:27 Moving is finished
+10.05 02:32:05 Scanning 260 point from 1104
+10.05 02:32:05 Going to coordinates X=-28.922, Y=-39.075
+10.05 02:32:05 Moving is finished
+10.05 02:33:41 Scanning 261 point from 1104
+10.05 02:33:41 Going to coordinates X=-28.902, Y=-39.075
+10.05 02:33:41 Moving is finished
+10.05 02:35:18 Scanning 262 point from 1104
+10.05 02:35:18 Going to coordinates X=-28.882, Y=-39.075
+10.05 02:35:18 Moving is finished
+10.05 02:36:55 Scanning 263 point from 1104
+10.05 02:36:55 Going to coordinates X=-28.862, Y=-39.075
+10.05 02:36:55 Moving is finished
+10.05 02:38:32 Scanning 264 point from 1104
+10.05 02:38:32 Going to coordinates X=-28.842, Y=-39.075
+10.05 02:38:32 Moving is finished
+10.05 02:40:09 Scanning 265 point from 1104
+10.05 02:40:09 Going to coordinates X=-28.822, Y=-39.075
+10.05 02:40:09 Moving is finished
+10.05 02:41:45 Scanning 266 point from 1104
+10.05 02:41:45 Going to coordinates X=-28.802, Y=-39.075
+10.05 02:41:45 Moving is finished
+10.05 02:43:22 Scanning 267 point from 1104
+10.05 02:43:22 Going to coordinates X=-28.782, Y=-39.075
+10.05 02:43:22 Moving is finished
+10.05 02:44:59 Scanning 268 point from 1104
+10.05 02:44:59 Going to coordinates X=-28.762, Y=-39.075
+10.05 02:44:59 Moving is finished
+10.05 02:46:36 Scanning 269 point from 1104
+10.05 02:46:36 Going to coordinates X=-28.742, Y=-39.075
+10.05 02:46:36 Moving is finished
+10.05 02:48:13 Scanning 270 point from 1104
+10.05 02:48:13 Going to coordinates X=-28.722, Y=-39.075
+10.05 02:48:13 Moving is finished
+10.05 02:49:50 Scanning 271 point from 1104
+10.05 02:49:50 Going to coordinates X=-28.702, Y=-39.075
+10.05 02:49:50 Moving is finished
+10.05 02:51:27 Scanning 272 point from 1104
+10.05 02:51:27 Going to coordinates X=-28.682, Y=-39.075
+10.05 02:51:27 Moving is finished
+10.05 02:53:04 Scanning 273 point from 1104
+10.05 02:53:04 Going to coordinates X=-28.662, Y=-39.075
+10.05 02:53:04 Moving is finished
+10.05 02:54:41 Scanning 274 point from 1104
+10.05 02:54:41 Going to coordinates X=-28.642, Y=-39.075
+10.05 02:54:41 Moving is finished
+10.05 02:56:18 Scanning 275 point from 1104
+10.05 02:56:18 Going to coordinates X=-28.622, Y=-39.075
+10.05 02:56:18 Moving is finished
+10.05 02:57:55 Scanning 276 point from 1104
+10.05 02:57:55 Going to coordinates X=-29.522, Y=-39.055
+10.05 02:57:55 Moving is finished
+10.05 02:59:32 Scanning 277 point from 1104
+10.05 02:59:32 Going to coordinates X=-29.502, Y=-39.055
+10.05 02:59:32 Moving is finished
+10.05 03:01:09 Scanning 278 point from 1104
+10.05 03:01:09 Going to coordinates X=-29.482, Y=-39.055
+10.05 03:01:09 Moving is finished
+10.05 03:02:46 Scanning 279 point from 1104
+10.05 03:02:46 Going to coordinates X=-29.462, Y=-39.055
+10.05 03:02:46 Moving is finished
+10.05 03:04:23 Scanning 280 point from 1104
+10.05 03:04:23 Going to coordinates X=-29.442, Y=-39.055
+10.05 03:04:24 Moving is finished
+10.05 03:06:00 Scanning 281 point from 1104
+10.05 03:06:00 Going to coordinates X=-29.422, Y=-39.055
+10.05 03:06:00 Moving is finished
+10.05 03:07:37 Scanning 282 point from 1104
+10.05 03:07:37 Going to coordinates X=-29.402, Y=-39.055
+10.05 03:07:37 Moving is finished
+10.05 03:09:13 Scanning 283 point from 1104
+10.05 03:09:13 Going to coordinates X=-29.382, Y=-39.055
+10.05 03:09:14 Moving is finished
+10.05 03:10:50 Scanning 284 point from 1104
+10.05 03:10:50 Going to coordinates X=-29.362, Y=-39.055
+10.05 03:10:50 Moving is finished
+10.05 03:12:27 Scanning 285 point from 1104
+10.05 03:12:27 Going to coordinates X=-29.342, Y=-39.055
+10.05 03:12:27 Moving is finished
+10.05 03:14:04 Scanning 286 point from 1104
+10.05 03:14:04 Going to coordinates X=-29.322, Y=-39.055
+10.05 03:14:04 Moving is finished
+10.05 03:15:41 Scanning 287 point from 1104
+10.05 03:15:41 Going to coordinates X=-29.302, Y=-39.055
+10.05 03:15:41 Moving is finished
+10.05 03:17:18 Scanning 288 point from 1104
+10.05 03:17:18 Going to coordinates X=-29.282, Y=-39.055
+10.05 03:17:18 Moving is finished
+10.05 03:18:56 Scanning 289 point from 1104
+10.05 03:18:56 Going to coordinates X=-29.262, Y=-39.055
+10.05 03:18:56 Moving is finished
+10.05 03:20:33 Scanning 290 point from 1104
+10.05 03:20:33 Going to coordinates X=-29.242, Y=-39.055
+10.05 03:20:33 Moving is finished
+10.05 03:22:09 Scanning 291 point from 1104
+10.05 03:22:09 Going to coordinates X=-29.222, Y=-39.055
+10.05 03:22:10 Moving is finished
+10.05 03:23:47 Scanning 292 point from 1104
+10.05 03:23:47 Going to coordinates X=-29.202, Y=-39.055
+10.05 03:23:47 Moving is finished
+10.05 03:25:24 Scanning 293 point from 1104
+10.05 03:25:24 Going to coordinates X=-29.182, Y=-39.055
+10.05 03:25:24 Moving is finished
+10.05 03:27:00 Scanning 294 point from 1104
+10.05 03:27:00 Going to coordinates X=-29.162, Y=-39.055
+10.05 03:27:00 Moving is finished
+10.05 03:28:37 Scanning 295 point from 1104
+10.05 03:28:37 Going to coordinates X=-29.142, Y=-39.055
+10.05 03:28:37 Moving is finished
+10.05 03:30:14 Scanning 296 point from 1104
+10.05 03:30:14 Going to coordinates X=-29.122, Y=-39.055
+10.05 03:30:14 Moving is finished
+10.05 03:31:52 Scanning 297 point from 1104
+10.05 03:31:52 Going to coordinates X=-29.102, Y=-39.055
+10.05 03:31:52 Moving is finished
+10.05 03:33:28 Scanning 298 point from 1104
+10.05 03:33:28 Going to coordinates X=-29.082, Y=-39.055
+10.05 03:33:28 Moving is finished
+10.05 03:35:05 Scanning 299 point from 1104
+10.05 03:35:05 Going to coordinates X=-29.062, Y=-39.055
+10.05 03:35:05 Moving is finished
+10.05 03:36:42 Scanning 300 point from 1104
+10.05 03:36:42 Going to coordinates X=-29.042, Y=-39.055
+10.05 03:36:42 Moving is finished
+10.05 03:38:19 Scanning 301 point from 1104
+10.05 03:38:19 Going to coordinates X=-29.022, Y=-39.055
+10.05 03:38:19 Moving is finished
+10.05 03:39:55 Scanning 302 point from 1104
+10.05 03:39:55 Going to coordinates X=-29.002, Y=-39.055
+10.05 03:39:55 Moving is finished
+10.05 03:41:32 Scanning 303 point from 1104
+10.05 03:41:32 Going to coordinates X=-28.982, Y=-39.055
+10.05 03:41:32 Moving is finished
+10.05 03:43:09 Scanning 304 point from 1104
+10.05 03:43:09 Going to coordinates X=-28.962, Y=-39.055
+10.05 03:43:09 Moving is finished
+10.05 03:44:45 Scanning 305 point from 1104
+10.05 03:44:45 Going to coordinates X=-28.942, Y=-39.055
+10.05 03:44:46 Moving is finished
+10.05 03:46:22 Scanning 306 point from 1104
+10.05 03:46:22 Going to coordinates X=-28.922, Y=-39.055
+10.05 03:46:22 Moving is finished
+10.05 03:47:59 Scanning 307 point from 1104
+10.05 03:47:59 Going to coordinates X=-28.902, Y=-39.055
+10.05 03:47:59 Moving is finished
+10.05 03:49:36 Scanning 308 point from 1104
+10.05 03:49:36 Going to coordinates X=-28.882, Y=-39.055
+10.05 03:49:37 Moving is finished
+10.05 03:51:13 Scanning 309 point from 1104
+10.05 03:51:13 Going to coordinates X=-28.862, Y=-39.055
+10.05 03:51:13 Moving is finished
+10.05 03:52:50 Scanning 310 point from 1104
+10.05 03:52:50 Going to coordinates X=-28.842, Y=-39.055
+10.05 03:52:50 Moving is finished
+10.05 03:54:27 Scanning 311 point from 1104
+10.05 03:54:27 Going to coordinates X=-28.822, Y=-39.055
+10.05 03:54:28 Moving is finished
+10.05 03:56:05 Scanning 312 point from 1104
+10.05 03:56:05 Going to coordinates X=-28.802, Y=-39.055
+10.05 03:56:05 Moving is finished
+10.05 03:57:41 Scanning 313 point from 1104
+10.05 03:57:41 Going to coordinates X=-28.782, Y=-39.055
+10.05 03:57:42 Moving is finished
+10.05 03:59:19 Scanning 314 point from 1104
+10.05 03:59:19 Going to coordinates X=-28.762, Y=-39.055
+10.05 03:59:19 Moving is finished
+10.05 04:00:56 Scanning 315 point from 1104
+10.05 04:00:56 Going to coordinates X=-28.742, Y=-39.055
+10.05 04:00:56 Moving is finished
+10.05 04:02:32 Scanning 316 point from 1104
+10.05 04:02:32 Going to coordinates X=-28.722, Y=-39.055
+10.05 04:02:33 Moving is finished
+10.05 04:04:09 Scanning 317 point from 1104
+10.05 04:04:09 Going to coordinates X=-28.702, Y=-39.055
+10.05 04:04:09 Moving is finished
+10.05 04:05:45 Scanning 318 point from 1104
+10.05 04:05:45 Going to coordinates X=-28.682, Y=-39.055
+10.05 04:05:46 Moving is finished
+10.05 04:07:22 Scanning 319 point from 1104
+10.05 04:07:22 Going to coordinates X=-28.662, Y=-39.055
+10.05 04:07:22 Moving is finished
+10.05 04:08:58 Scanning 320 point from 1104
+10.05 04:08:58 Going to coordinates X=-28.642, Y=-39.055
+10.05 04:08:59 Moving is finished
+10.05 04:10:35 Scanning 321 point from 1104
+10.05 04:10:35 Going to coordinates X=-28.622, Y=-39.055
+10.05 04:10:35 Moving is finished
+10.05 04:12:12 Scanning 322 point from 1104
+10.05 04:12:12 Going to coordinates X=-29.522, Y=-39.035
+10.05 04:12:13 Moving is finished
+10.05 04:13:49 Scanning 323 point from 1104
+10.05 04:13:49 Going to coordinates X=-29.502, Y=-39.035
+10.05 04:13:49 Moving is finished
+10.05 04:15:25 Scanning 324 point from 1104
+10.05 04:15:25 Going to coordinates X=-29.482, Y=-39.035
+10.05 04:15:26 Moving is finished
+10.05 04:17:02 Scanning 325 point from 1104
+10.05 04:17:02 Going to coordinates X=-29.462, Y=-39.035
+10.05 04:17:02 Moving is finished
+10.05 04:18:39 Scanning 326 point from 1104
+10.05 04:18:39 Going to coordinates X=-29.442, Y=-39.035
+10.05 04:18:39 Moving is finished
+10.05 04:20:16 Scanning 327 point from 1104
+10.05 04:20:16 Going to coordinates X=-29.422, Y=-39.035
+10.05 04:20:16 Moving is finished
+10.05 04:21:52 Scanning 328 point from 1104
+10.05 04:21:52 Going to coordinates X=-29.402, Y=-39.035
+10.05 04:21:53 Moving is finished
+10.05 04:23:29 Scanning 329 point from 1104
+10.05 04:23:29 Going to coordinates X=-29.382, Y=-39.035
+10.05 04:23:29 Moving is finished
+10.05 04:25:05 Scanning 330 point from 1104
+10.05 04:25:05 Going to coordinates X=-29.362, Y=-39.035
+10.05 04:25:05 Moving is finished
+10.05 04:26:42 Scanning 331 point from 1104
+10.05 04:26:42 Going to coordinates X=-29.342, Y=-39.035
+10.05 04:26:42 Moving is finished
+10.05 04:28:19 Scanning 332 point from 1104
+10.05 04:28:19 Going to coordinates X=-29.322, Y=-39.035
+10.05 04:28:19 Moving is finished
+10.05 04:29:56 Scanning 333 point from 1104
+10.05 04:29:56 Going to coordinates X=-29.302, Y=-39.035
+10.05 04:29:57 Moving is finished
+10.05 04:31:33 Scanning 334 point from 1104
+10.05 04:31:33 Going to coordinates X=-29.282, Y=-39.035
+10.05 04:31:33 Moving is finished
+10.05 04:33:10 Scanning 335 point from 1104
+10.05 04:33:10 Going to coordinates X=-29.262, Y=-39.035
+10.05 04:33:10 Moving is finished
+10.05 04:34:47 Scanning 336 point from 1104
+10.05 04:34:47 Going to coordinates X=-29.242, Y=-39.035
+10.05 04:34:47 Moving is finished
+10.05 04:36:24 Scanning 337 point from 1104
+10.05 04:36:24 Going to coordinates X=-29.222, Y=-39.035
+10.05 04:36:25 Moving is finished
+10.05 04:38:01 Scanning 338 point from 1104
+10.05 04:38:01 Going to coordinates X=-29.202, Y=-39.035
+10.05 04:38:01 Moving is finished
+10.05 04:39:38 Scanning 339 point from 1104
+10.05 04:39:38 Going to coordinates X=-29.182, Y=-39.035
+10.05 04:39:38 Moving is finished
+10.05 04:41:15 Scanning 340 point from 1104
+10.05 04:41:15 Going to coordinates X=-29.162, Y=-39.035
+10.05 04:41:15 Moving is finished
+10.05 04:42:52 Scanning 341 point from 1104
+10.05 04:42:52 Going to coordinates X=-29.142, Y=-39.035
+10.05 04:42:52 Moving is finished
+10.05 04:44:29 Scanning 342 point from 1104
+10.05 04:44:29 Going to coordinates X=-29.122, Y=-39.035
+10.05 04:44:29 Moving is finished
+10.05 04:46:05 Scanning 343 point from 1104
+10.05 04:46:05 Going to coordinates X=-29.102, Y=-39.035
+10.05 04:46:05 Moving is finished
+10.05 04:47:42 Scanning 344 point from 1104
+10.05 04:47:42 Going to coordinates X=-29.082, Y=-39.035
+10.05 04:47:42 Moving is finished
+10.05 04:49:18 Scanning 345 point from 1104
+10.05 04:49:18 Going to coordinates X=-29.062, Y=-39.035
+10.05 04:49:18 Moving is finished
+10.05 04:50:55 Scanning 346 point from 1104
+10.05 04:50:55 Going to coordinates X=-29.042, Y=-39.035
+10.05 04:50:55 Moving is finished
+10.05 04:52:31 Scanning 347 point from 1104
+10.05 04:52:31 Going to coordinates X=-29.022, Y=-39.035
+10.05 04:52:32 Moving is finished
+10.05 04:54:08 Scanning 348 point from 1104
+10.05 04:54:08 Going to coordinates X=-29.002, Y=-39.035
+10.05 04:54:08 Moving is finished
+10.05 04:55:44 Scanning 349 point from 1104
+10.05 04:55:44 Going to coordinates X=-28.982, Y=-39.035
+10.05 04:55:44 Moving is finished
+10.05 04:57:22 Scanning 350 point from 1104
+10.05 04:57:22 Going to coordinates X=-28.962, Y=-39.035
+10.05 04:57:22 Moving is finished
+10.05 04:58:58 Scanning 351 point from 1104
+10.05 04:58:58 Going to coordinates X=-28.942, Y=-39.035
+10.05 04:58:58 Moving is finished
+10.05 05:00:36 Scanning 352 point from 1104
+10.05 05:00:36 Going to coordinates X=-28.922, Y=-39.035
+10.05 05:00:36 Moving is finished
+10.05 05:02:13 Scanning 353 point from 1104
+10.05 05:02:13 Going to coordinates X=-28.902, Y=-39.035
+10.05 05:02:13 Moving is finished
+10.05 05:03:49 Scanning 354 point from 1104
+10.05 05:03:49 Going to coordinates X=-28.882, Y=-39.035
+10.05 05:03:49 Moving is finished
+10.05 05:05:26 Scanning 355 point from 1104
+10.05 05:05:26 Going to coordinates X=-28.862, Y=-39.035
+10.05 05:05:26 Moving is finished
+10.05 05:07:02 Scanning 356 point from 1104
+10.05 05:07:02 Going to coordinates X=-28.842, Y=-39.035
+10.05 05:07:02 Moving is finished
+10.05 05:08:38 Scanning 357 point from 1104
+10.05 05:08:38 Going to coordinates X=-28.822, Y=-39.035
+10.05 05:08:39 Moving is finished
+10.05 05:10:15 Scanning 358 point from 1104
+10.05 05:10:15 Going to coordinates X=-28.802, Y=-39.035
+10.05 05:10:15 Moving is finished
+10.05 05:11:51 Scanning 359 point from 1104
+10.05 05:11:51 Going to coordinates X=-28.782, Y=-39.035
+10.05 05:11:51 Moving is finished
+10.05 05:13:29 Scanning 360 point from 1104
+10.05 05:13:29 Going to coordinates X=-28.762, Y=-39.035
+10.05 05:13:29 Moving is finished
+10.05 05:15:05 Scanning 361 point from 1104
+10.05 05:15:05 Going to coordinates X=-28.742, Y=-39.035
+10.05 05:15:05 Moving is finished
+10.05 05:16:42 Scanning 362 point from 1104
+10.05 05:16:42 Going to coordinates X=-28.722, Y=-39.035
+10.05 05:16:42 Moving is finished
+10.05 05:18:19 Scanning 363 point from 1104
+10.05 05:18:19 Going to coordinates X=-28.702, Y=-39.035
+10.05 05:18:19 Moving is finished
+10.05 05:19:56 Scanning 364 point from 1104
+10.05 05:19:56 Going to coordinates X=-28.682, Y=-39.035
+10.05 05:19:56 Moving is finished
+10.05 05:21:33 Scanning 365 point from 1104
+10.05 05:21:33 Going to coordinates X=-28.662, Y=-39.035
+10.05 05:21:33 Moving is finished
+10.05 05:23:10 Scanning 366 point from 1104
+10.05 05:23:10 Going to coordinates X=-28.642, Y=-39.035
+10.05 05:23:10 Moving is finished
+10.05 05:24:47 Scanning 367 point from 1104
+10.05 05:24:47 Going to coordinates X=-28.622, Y=-39.035
+10.05 05:24:47 Moving is finished
+10.05 05:26:24 Scanning 368 point from 1104
+10.05 05:26:24 Going to coordinates X=-29.522, Y=-39.015
+10.05 05:26:25 Moving is finished
+10.05 05:28:02 Scanning 369 point from 1104
+10.05 05:28:02 Going to coordinates X=-29.502, Y=-39.015
+10.05 05:28:02 Moving is finished
+10.05 05:29:39 Scanning 370 point from 1104
+10.05 05:29:39 Going to coordinates X=-29.482, Y=-39.015
+10.05 05:29:39 Moving is finished
+10.05 05:31:16 Scanning 371 point from 1104
+10.05 05:31:16 Going to coordinates X=-29.462, Y=-39.015
+10.05 05:31:16 Moving is finished
+10.05 05:32:53 Scanning 372 point from 1104
+10.05 05:32:53 Going to coordinates X=-29.442, Y=-39.015
+10.05 05:32:53 Moving is finished
+10.05 05:34:30 Scanning 373 point from 1104
+10.05 05:34:30 Going to coordinates X=-29.422, Y=-39.015
+10.05 05:34:31 Moving is finished
+10.05 05:36:07 Scanning 374 point from 1104
+10.05 05:36:07 Going to coordinates X=-29.402, Y=-39.015
+10.05 05:36:07 Moving is finished
+10.05 05:37:44 Scanning 375 point from 1104
+10.05 05:37:44 Going to coordinates X=-29.382, Y=-39.015
+10.05 05:37:44 Moving is finished
+10.05 05:39:21 Scanning 376 point from 1104
+10.05 05:39:21 Going to coordinates X=-29.362, Y=-39.015
+10.05 05:39:21 Moving is finished
+10.05 05:40:57 Scanning 377 point from 1104
+10.05 05:40:57 Going to coordinates X=-29.342, Y=-39.015
+10.05 05:40:57 Moving is finished
+10.05 05:42:34 Scanning 378 point from 1104
+10.05 05:42:34 Going to coordinates X=-29.322, Y=-39.015
+10.05 05:42:35 Moving is finished
+10.05 05:44:12 Scanning 379 point from 1104
+10.05 05:44:12 Going to coordinates X=-29.302, Y=-39.015
+10.05 05:44:12 Moving is finished
+10.05 05:45:49 Scanning 380 point from 1104
+10.05 05:45:49 Going to coordinates X=-29.282, Y=-39.015
+10.05 05:45:49 Moving is finished
+10.05 05:47:25 Scanning 381 point from 1104
+10.05 05:47:25 Going to coordinates X=-29.262, Y=-39.015
+10.05 05:47:25 Moving is finished
+10.05 05:49:02 Scanning 382 point from 1104
+10.05 05:49:02 Going to coordinates X=-29.242, Y=-39.015
+10.05 05:49:02 Moving is finished
+10.05 05:50:39 Scanning 383 point from 1104
+10.05 05:50:39 Going to coordinates X=-29.222, Y=-39.015
+10.05 05:50:39 Moving is finished
+10.05 05:52:15 Scanning 384 point from 1104
+10.05 05:52:15 Going to coordinates X=-29.202, Y=-39.015
+10.05 05:52:15 Moving is finished
+10.05 05:53:51 Scanning 385 point from 1104
+10.05 05:53:51 Going to coordinates X=-29.182, Y=-39.015
+10.05 05:53:52 Moving is finished
+10.05 05:55:28 Scanning 386 point from 1104
+10.05 05:55:28 Going to coordinates X=-29.162, Y=-39.015
+10.05 05:55:28 Moving is finished
+10.05 05:57:04 Scanning 387 point from 1104
+10.05 05:57:04 Going to coordinates X=-29.142, Y=-39.015
+10.05 05:57:05 Moving is finished
+10.05 05:58:41 Scanning 388 point from 1104
+10.05 05:58:41 Going to coordinates X=-29.122, Y=-39.015
+10.05 05:58:41 Moving is finished
+10.05 06:00:18 Scanning 389 point from 1104
+10.05 06:00:18 Going to coordinates X=-29.102, Y=-39.015
+10.05 06:00:18 Moving is finished
+10.05 06:01:54 Scanning 390 point from 1104
+10.05 06:01:54 Going to coordinates X=-29.082, Y=-39.015
+10.05 06:01:54 Moving is finished
+10.05 06:03:31 Scanning 391 point from 1104
+10.05 06:03:31 Going to coordinates X=-29.062, Y=-39.015
+10.05 06:03:31 Moving is finished
+10.05 06:05:08 Scanning 392 point from 1104
+10.05 06:05:08 Going to coordinates X=-29.042, Y=-39.015
+10.05 06:05:08 Moving is finished
+10.05 06:06:44 Scanning 393 point from 1104
+10.05 06:06:44 Going to coordinates X=-29.022, Y=-39.015
+10.05 06:06:44 Moving is finished
+10.05 06:08:21 Scanning 394 point from 1104
+10.05 06:08:21 Going to coordinates X=-29.002, Y=-39.015
+10.05 06:08:21 Moving is finished
+10.05 06:09:58 Scanning 395 point from 1104
+10.05 06:09:58 Going to coordinates X=-28.982, Y=-39.015
+10.05 06:09:58 Moving is finished
+10.05 06:11:35 Scanning 396 point from 1104
+10.05 06:11:35 Going to coordinates X=-28.962, Y=-39.015
+10.05 06:11:35 Moving is finished
+10.05 06:13:12 Scanning 397 point from 1104
+10.05 06:13:12 Going to coordinates X=-28.942, Y=-39.015
+10.05 06:13:12 Moving is finished
+10.05 06:14:49 Scanning 398 point from 1104
+10.05 06:14:49 Going to coordinates X=-28.922, Y=-39.015
+10.05 06:14:49 Moving is finished
+10.05 06:16:25 Scanning 399 point from 1104
+10.05 06:16:25 Going to coordinates X=-28.902, Y=-39.015
+10.05 06:16:25 Moving is finished
+10.05 06:18:02 Scanning 400 point from 1104
+10.05 06:18:02 Going to coordinates X=-28.882, Y=-39.015
+10.05 06:18:02 Moving is finished
+10.05 06:19:38 Scanning 401 point from 1104
+10.05 06:19:38 Going to coordinates X=-28.862, Y=-39.015
+10.05 06:19:38 Moving is finished
+10.05 06:21:15 Scanning 402 point from 1104
+10.05 06:21:15 Going to coordinates X=-28.842, Y=-39.015
+10.05 06:21:15 Moving is finished
+10.05 06:22:52 Scanning 403 point from 1104
+10.05 06:22:52 Going to coordinates X=-28.822, Y=-39.015
+10.05 06:22:52 Moving is finished
+10.05 06:24:29 Scanning 404 point from 1104
+10.05 06:24:29 Going to coordinates X=-28.802, Y=-39.015
+10.05 06:24:29 Moving is finished
+10.05 06:26:06 Scanning 405 point from 1104
+10.05 06:26:06 Going to coordinates X=-28.782, Y=-39.015
+10.05 06:26:06 Moving is finished
+10.05 06:27:43 Scanning 406 point from 1104
+10.05 06:27:43 Going to coordinates X=-28.762, Y=-39.015
+10.05 06:27:43 Moving is finished
+10.05 06:29:20 Scanning 407 point from 1104
+10.05 06:29:20 Going to coordinates X=-28.742, Y=-39.015
+10.05 06:29:20 Moving is finished
+10.05 06:31:00 timed out
+10.05 06:31:00 Scanning 408 point from 1104
+10.05 06:31:00 Going to coordinates X=-28.722, Y=-39.015
+10.05 06:31:00 Moving is finished
+10.05 06:31:08 timed out
+10.05 06:31:08 Scanning 409 point from 1104
+10.05 06:31:08 Going to coordinates X=-28.702, Y=-39.015
+10.05 06:31:08 Moving is finished
+10.05 06:31:16 timed out
+10.05 06:31:16 Scanning 410 point from 1104
+10.05 06:31:16 Going to coordinates X=-28.682, Y=-39.015
+10.05 06:31:16 Moving is finished
+10.05 06:31:24 timed out
+10.05 06:31:24 Scanning 411 point from 1104
+10.05 06:31:24 Going to coordinates X=-28.662, Y=-39.015
+10.05 06:31:25 Moving is finished
+10.05 06:31:33 timed out
+10.05 06:31:33 Scanning 412 point from 1104
+10.05 06:31:33 Going to coordinates X=-28.642, Y=-39.015
+10.05 06:31:33 Moving is finished
+10.05 06:31:41 timed out
+10.05 06:31:41 Scanning 413 point from 1104
+10.05 06:31:41 Going to coordinates X=-28.622, Y=-39.015
+10.05 06:31:41 Moving is finished
+10.05 06:31:49 timed out
+10.05 06:31:49 Scanning 414 point from 1104
+10.05 06:31:49 Going to coordinates X=-29.522, Y=-38.995
+10.05 06:31:50 Moving is finished
+10.05 06:31:58 timed out
+10.05 06:31:58 Scanning 415 point from 1104
+10.05 06:31:58 Going to coordinates X=-29.502, Y=-38.995
+10.05 06:31:58 Moving is finished
+10.05 06:32:06 timed out
+10.05 06:32:06 Scanning 416 point from 1104
+10.05 06:32:06 Going to coordinates X=-29.482, Y=-38.995
+10.05 06:32:06 Moving is finished
+10.05 06:32:13 timed out
+10.05 06:32:13 Scanning 417 point from 1104
+10.05 06:32:13 Going to coordinates X=-29.462, Y=-38.995
+10.05 06:32:13 Moving is finished
+10.05 06:32:21 timed out
+10.05 06:32:21 Scanning 418 point from 1104
+10.05 06:32:21 Going to coordinates X=-29.442, Y=-38.995
+10.05 06:32:21 Moving is finished
+10.05 06:32:28 timed out
+10.05 06:32:29 Scanning 419 point from 1104
+10.05 06:32:29 Going to coordinates X=-29.422, Y=-38.995
+10.05 06:32:29 Moving is finished
+10.05 06:32:36 timed out
+10.05 06:32:36 Scanning 420 point from 1104
+10.05 06:32:36 Going to coordinates X=-29.402, Y=-38.995
+10.05 06:32:37 Moving is finished
+10.05 06:32:44 timed out
+10.05 06:32:44 Scanning 421 point from 1104
+10.05 06:32:44 Going to coordinates X=-29.382, Y=-38.995
+10.05 06:32:45 Moving is finished
+10.05 06:32:52 timed out
+10.05 06:32:52 Scanning 422 point from 1104
+10.05 06:32:52 Going to coordinates X=-29.362, Y=-38.995
+10.05 06:32:52 Moving is finished
+10.05 06:32:59 timed out
+10.05 06:32:59 Scanning 423 point from 1104
+10.05 06:32:59 Going to coordinates X=-29.342, Y=-38.995
+10.05 06:32:59 Moving is finished
+10.05 06:33:07 timed out
+10.05 06:33:07 Scanning 424 point from 1104
+10.05 06:33:07 Going to coordinates X=-29.322, Y=-38.995
+10.05 06:33:07 Moving is finished
+10.05 06:33:14 timed out
+10.05 06:33:14 Scanning 425 point from 1104
+10.05 06:33:14 Going to coordinates X=-29.302, Y=-38.995
+10.05 06:33:15 Moving is finished
+10.05 06:33:21 timed out
+10.05 06:33:22 Scanning 426 point from 1104
+10.05 06:33:22 Going to coordinates X=-29.282, Y=-38.995
+10.05 06:33:22 Moving is finished
+10.05 06:33:29 timed out
+10.05 06:33:29 Scanning 427 point from 1104
+10.05 06:33:29 Going to coordinates X=-29.262, Y=-38.995
+10.05 06:33:29 Moving is finished
+10.05 06:33:36 timed out
+10.05 06:33:36 Scanning 428 point from 1104
+10.05 06:33:36 Going to coordinates X=-29.242, Y=-38.995
+10.05 06:33:36 Moving is finished
+10.05 06:33:43 timed out
+10.05 06:33:44 Scanning 429 point from 1104
+10.05 06:33:44 Going to coordinates X=-29.222, Y=-38.995
+10.05 06:33:44 Moving is finished
+10.05 06:33:51 timed out
+10.05 06:33:51 Scanning 430 point from 1104
+10.05 06:33:51 Going to coordinates X=-29.202, Y=-38.995
+10.05 06:33:51 Moving is finished
+10.05 06:33:58 timed out
+10.05 06:33:58 Scanning 431 point from 1104
+10.05 06:33:58 Going to coordinates X=-29.182, Y=-38.995
+10.05 06:33:58 Moving is finished
+10.05 06:34:06 timed out
+10.05 06:34:06 Scanning 432 point from 1104
+10.05 06:34:06 Going to coordinates X=-29.162, Y=-38.995
+10.05 06:34:06 Moving is finished
+10.05 06:34:13 timed out
+10.05 06:34:13 Scanning 433 point from 1104
+10.05 06:34:13 Going to coordinates X=-29.142, Y=-38.995
+10.05 06:34:13 Moving is finished
+10.05 06:34:20 timed out
+10.05 06:34:20 Scanning 434 point from 1104
+10.05 06:34:20 Going to coordinates X=-29.122, Y=-38.995
+10.05 06:34:20 Moving is finished
+10.05 06:34:28 timed out
+10.05 06:34:28 Scanning 435 point from 1104
+10.05 06:34:28 Going to coordinates X=-29.102, Y=-38.995
+10.05 06:34:28 Moving is finished
+10.05 06:34:35 timed out
+10.05 06:34:35 Scanning 436 point from 1104
+10.05 06:34:35 Going to coordinates X=-29.082, Y=-38.995
+10.05 06:34:36 Moving is finished
+10.05 06:34:43 timed out
+10.05 06:34:43 Scanning 437 point from 1104
+10.05 06:34:43 Going to coordinates X=-29.062, Y=-38.995
+10.05 06:34:43 Moving is finished
+10.05 06:34:51 timed out
+10.05 06:34:51 Scanning 438 point from 1104
+10.05 06:34:51 Going to coordinates X=-29.042, Y=-38.995
+10.05 06:34:51 Moving is finished
+10.05 06:35:00 timed out
+10.05 06:35:00 Scanning 439 point from 1104
+10.05 06:35:00 Going to coordinates X=-29.022, Y=-38.995
+10.05 06:35:00 Moving is finished
+10.05 06:35:07 timed out
+10.05 06:35:08 Scanning 440 point from 1104
+10.05 06:35:08 Going to coordinates X=-29.002, Y=-38.995
+10.05 06:35:08 Moving is finished
+10.05 06:35:15 timed out
+10.05 06:35:15 Scanning 441 point from 1104
+10.05 06:35:15 Going to coordinates X=-28.982, Y=-38.995
+10.05 06:35:15 Moving is finished
+10.05 06:35:23 timed out
+10.05 06:35:23 Scanning 442 point from 1104
+10.05 06:35:23 Going to coordinates X=-28.962, Y=-38.995
+10.05 06:35:23 Moving is finished
+10.05 06:35:31 timed out
+10.05 06:35:31 Scanning 443 point from 1104
+10.05 06:35:31 Going to coordinates X=-28.942, Y=-38.995
+10.05 06:35:31 Moving is finished
+10.05 06:35:39 timed out
+10.05 06:35:39 Scanning 444 point from 1104
+10.05 06:35:39 Going to coordinates X=-28.922, Y=-38.995
+10.05 06:35:39 Moving is finished
+10.05 06:35:47 timed out
+10.05 06:35:47 Scanning 445 point from 1104
+10.05 06:35:47 Going to coordinates X=-28.902, Y=-38.995
+10.05 06:35:47 Moving is finished
+10.05 06:35:56 timed out
+10.05 06:35:56 Scanning 446 point from 1104
+10.05 06:35:56 Going to coordinates X=-28.882, Y=-38.995
+10.05 06:35:56 Moving is finished
+10.05 06:36:04 timed out
+10.05 06:36:04 Scanning 447 point from 1104
+10.05 06:36:04 Going to coordinates X=-28.862, Y=-38.995
+10.05 06:36:04 Moving is finished
+10.05 06:36:12 timed out
+10.05 06:36:13 Scanning 448 point from 1104
+10.05 06:36:13 Going to coordinates X=-28.842, Y=-38.995
+10.05 06:36:13 Moving is finished
+10.05 06:36:21 timed out
+10.05 06:36:21 Scanning 449 point from 1104
+10.05 06:36:21 Going to coordinates X=-28.822, Y=-38.995
+10.05 06:36:21 Moving is finished
+10.05 06:36:28 timed out
+10.05 06:36:29 Scanning 450 point from 1104
+10.05 06:36:29 Going to coordinates X=-28.802, Y=-38.995
+10.05 06:36:29 Moving is finished
+10.05 06:36:36 timed out
+10.05 06:36:36 Scanning 451 point from 1104
+10.05 06:36:36 Going to coordinates X=-28.782, Y=-38.995
+10.05 06:36:36 Moving is finished
+10.05 06:36:44 timed out
+10.05 06:36:44 Scanning 452 point from 1104
+10.05 06:36:44 Going to coordinates X=-28.762, Y=-38.995
+10.05 06:36:45 Moving is finished
+10.05 06:36:53 timed out
+10.05 06:36:53 Scanning 453 point from 1104
+10.05 06:36:53 Going to coordinates X=-28.742, Y=-38.995
+10.05 06:36:53 Moving is finished
+10.05 06:37:00 timed out
+10.05 06:37:01 Scanning 454 point from 1104
+10.05 06:37:01 Going to coordinates X=-28.722, Y=-38.995
+10.05 06:37:01 Moving is finished
+10.05 06:37:09 timed out
+10.05 06:37:09 Scanning 455 point from 1104
+10.05 06:37:09 Going to coordinates X=-28.702, Y=-38.995
+10.05 06:37:09 Moving is finished
+10.05 06:37:16 timed out
+10.05 06:37:17 Scanning 456 point from 1104
+10.05 06:37:17 Going to coordinates X=-28.682, Y=-38.995
+10.05 06:37:17 Moving is finished
+10.05 06:37:24 timed out
+10.05 06:37:24 Scanning 457 point from 1104
+10.05 06:37:24 Going to coordinates X=-28.662, Y=-38.995
+10.05 06:37:24 Moving is finished
+10.05 06:37:31 timed out
+10.05 06:37:32 Scanning 458 point from 1104
+10.05 06:37:32 Going to coordinates X=-28.642, Y=-38.995
+10.05 06:37:32 Moving is finished
+10.05 06:37:40 timed out
+10.05 06:37:40 Scanning 459 point from 1104
+10.05 06:37:40 Going to coordinates X=-28.622, Y=-38.995
+10.05 06:37:40 Moving is finished
+10.05 06:37:47 timed out
+10.05 06:37:48 Scanning 460 point from 1104
+10.05 06:37:48 Going to coordinates X=-29.522, Y=-38.975
+10.05 06:37:48 Moving is finished
+10.05 06:37:56 timed out
+10.05 06:37:56 Scanning 461 point from 1104
+10.05 06:37:56 Going to coordinates X=-29.502, Y=-38.975
+10.05 06:37:56 Moving is finished
+10.05 06:38:05 timed out
+10.05 06:38:05 Scanning 462 point from 1104
+10.05 06:38:05 Going to coordinates X=-29.482, Y=-38.975
+10.05 06:38:05 Moving is finished
+10.05 06:38:13 timed out
+10.05 06:38:13 Scanning 463 point from 1104
+10.05 06:38:13 Going to coordinates X=-29.462, Y=-38.975
+10.05 06:38:13 Moving is finished
+10.05 06:38:21 timed out
+10.05 06:38:21 Scanning 464 point from 1104
+10.05 06:38:21 Going to coordinates X=-29.442, Y=-38.975
+10.05 06:38:21 Moving is finished
+10.05 06:38:29 timed out
+10.05 06:38:29 Scanning 465 point from 1104
+10.05 06:38:29 Going to coordinates X=-29.422, Y=-38.975
+10.05 06:38:29 Moving is finished
+10.05 06:38:37 timed out
+10.05 06:38:37 Scanning 466 point from 1104
+10.05 06:38:37 Going to coordinates X=-29.402, Y=-38.975
+10.05 06:38:38 Moving is finished
+10.05 06:38:46 timed out
+10.05 06:38:46 Scanning 467 point from 1104
+10.05 06:38:46 Going to coordinates X=-29.382, Y=-38.975
+10.05 06:38:46 Moving is finished
+10.05 06:38:54 timed out
+10.05 06:38:54 Scanning 468 point from 1104
+10.05 06:38:54 Going to coordinates X=-29.362, Y=-38.975
+10.05 06:38:54 Moving is finished
+10.05 06:39:02 timed out
+10.05 06:39:02 Scanning 469 point from 1104
+10.05 06:39:02 Going to coordinates X=-29.342, Y=-38.975
+10.05 06:39:02 Moving is finished
+10.05 06:39:10 timed out
+10.05 06:39:10 Scanning 470 point from 1104
+10.05 06:39:10 Going to coordinates X=-29.322, Y=-38.975
+10.05 06:39:10 Moving is finished
+10.05 06:39:17 timed out
+10.05 06:39:17 Scanning 471 point from 1104
+10.05 06:39:17 Going to coordinates X=-29.302, Y=-38.975
+10.05 06:39:18 Moving is finished
+10.05 06:39:25 timed out
+10.05 06:39:25 Scanning 472 point from 1104
+10.05 06:39:25 Going to coordinates X=-29.282, Y=-38.975
+10.05 06:39:25 Moving is finished
+10.05 06:39:33 timed out
+10.05 06:39:34 Scanning 473 point from 1104
+10.05 06:39:34 Going to coordinates X=-29.262, Y=-38.975
+10.05 06:39:34 Moving is finished
+10.05 06:39:41 timed out
+10.05 06:39:41 Scanning 474 point from 1104
+10.05 06:39:41 Going to coordinates X=-29.242, Y=-38.975
+10.05 06:39:42 Moving is finished
+10.05 06:39:49 timed out
+10.05 06:39:49 Scanning 475 point from 1104
+10.05 06:39:49 Going to coordinates X=-29.222, Y=-38.975
+10.05 06:39:49 Moving is finished
+10.05 06:39:57 timed out
+10.05 06:39:57 Scanning 476 point from 1104
+10.05 06:39:57 Going to coordinates X=-29.202, Y=-38.975
+10.05 06:39:57 Moving is finished
+10.05 06:40:05 timed out
+10.05 06:40:05 Scanning 477 point from 1104
+10.05 06:40:05 Going to coordinates X=-29.182, Y=-38.975
+10.05 06:40:05 Moving is finished
+10.05 06:40:13 timed out
+10.05 06:40:13 Scanning 478 point from 1104
+10.05 06:40:13 Going to coordinates X=-29.162, Y=-38.975
+10.05 06:40:13 Moving is finished
+10.05 06:40:21 timed out
+10.05 06:40:21 Scanning 479 point from 1104
+10.05 06:40:21 Going to coordinates X=-29.142, Y=-38.975
+10.05 06:40:22 Moving is finished
+10.05 06:40:30 timed out
+10.05 06:40:30 Scanning 480 point from 1104
+10.05 06:40:30 Going to coordinates X=-29.122, Y=-38.975
+10.05 06:40:30 Moving is finished
+10.05 06:40:38 timed out
+10.05 06:40:38 Scanning 481 point from 1104
+10.05 06:40:38 Going to coordinates X=-29.102, Y=-38.975
+10.05 06:40:38 Moving is finished
+10.05 06:40:46 timed out
+10.05 06:40:47 Scanning 482 point from 1104
+10.05 06:40:47 Going to coordinates X=-29.082, Y=-38.975
+10.05 06:40:47 Moving is finished
+10.05 06:40:55 timed out
+10.05 06:40:55 Scanning 483 point from 1104
+10.05 06:40:55 Going to coordinates X=-29.062, Y=-38.975
+10.05 06:40:55 Moving is finished
+10.05 06:41:02 timed out
+10.05 06:41:03 Scanning 484 point from 1104
+10.05 06:41:03 Going to coordinates X=-29.042, Y=-38.975
+10.05 06:41:03 Moving is finished
+10.05 06:41:11 timed out
+10.05 06:41:11 Scanning 485 point from 1104
+10.05 06:41:11 Going to coordinates X=-29.022, Y=-38.975
+10.05 06:41:12 Moving is finished
+10.05 06:41:20 timed out
+10.05 06:41:20 Scanning 486 point from 1104
+10.05 06:41:20 Going to coordinates X=-29.002, Y=-38.975
+10.05 06:41:20 Moving is finished
+10.05 06:41:28 timed out
+10.05 06:41:28 Scanning 487 point from 1104
+10.05 06:41:28 Going to coordinates X=-28.982, Y=-38.975
+10.05 06:41:28 Moving is finished
+10.05 06:41:36 timed out
+10.05 06:41:36 Scanning 488 point from 1104
+10.05 06:41:36 Going to coordinates X=-28.962, Y=-38.975
+10.05 06:41:36 Moving is finished
+10.05 06:41:44 timed out
+10.05 06:41:44 Scanning 489 point from 1104
+10.05 06:41:44 Going to coordinates X=-28.942, Y=-38.975
+10.05 06:41:44 Moving is finished
+10.05 06:41:53 timed out
+10.05 06:41:53 Scanning 490 point from 1104
+10.05 06:41:53 Going to coordinates X=-28.922, Y=-38.975
+10.05 06:41:53 Moving is finished
+10.05 06:42:00 timed out
+10.05 06:42:00 Scanning 491 point from 1104
+10.05 06:42:00 Going to coordinates X=-28.902, Y=-38.975
+10.05 06:42:00 Moving is finished
+10.05 06:42:08 timed out
+10.05 06:42:08 Scanning 492 point from 1104
+10.05 06:42:08 Going to coordinates X=-28.882, Y=-38.975
+10.05 06:42:09 Moving is finished
+10.05 06:42:17 timed out
+10.05 06:42:17 Scanning 493 point from 1104
+10.05 06:42:17 Going to coordinates X=-28.862, Y=-38.975
+10.05 06:42:17 Moving is finished
+10.05 06:42:25 timed out
+10.05 06:42:25 Scanning 494 point from 1104
+10.05 06:42:25 Going to coordinates X=-28.842, Y=-38.975
+10.05 06:42:25 Moving is finished
+10.05 06:42:32 timed out
+10.05 06:42:32 Scanning 495 point from 1104
+10.05 06:42:32 Going to coordinates X=-28.822, Y=-38.975
+10.05 06:42:32 Moving is finished
+10.05 06:42:39 timed out
+10.05 06:42:40 Scanning 496 point from 1104
+10.05 06:42:40 Going to coordinates X=-28.802, Y=-38.975
+10.05 06:42:40 Moving is finished
+10.05 06:42:47 timed out
+10.05 06:42:47 Scanning 497 point from 1104
+10.05 06:42:47 Going to coordinates X=-28.782, Y=-38.975
+10.05 06:42:48 Moving is finished
+10.05 06:42:56 timed out
+10.05 06:42:56 Scanning 498 point from 1104
+10.05 06:42:56 Going to coordinates X=-28.762, Y=-38.975
+10.05 06:42:56 Moving is finished
+10.05 06:43:03 timed out
+10.05 06:43:03 Scanning 499 point from 1104
+10.05 06:43:03 Going to coordinates X=-28.742, Y=-38.975
+10.05 06:43:03 Moving is finished
+10.05 06:43:11 timed out
+10.05 06:43:11 Scanning 500 point from 1104
+10.05 06:43:11 Going to coordinates X=-28.722, Y=-38.975
+10.05 06:43:12 Moving is finished
+10.05 06:43:19 timed out
+10.05 06:43:19 Scanning 501 point from 1104
+10.05 06:43:19 Going to coordinates X=-28.702, Y=-38.975
+10.05 06:43:20 Moving is finished
+10.05 06:43:28 timed out
+10.05 06:43:28 Scanning 502 point from 1104
+10.05 06:43:28 Going to coordinates X=-28.682, Y=-38.975
+10.05 06:43:28 Moving is finished
+10.05 06:43:35 timed out
+10.05 06:43:35 Scanning 503 point from 1104
+10.05 06:43:35 Going to coordinates X=-28.662, Y=-38.975
+10.05 06:43:35 Moving is finished
+10.05 06:43:43 timed out
+10.05 06:43:44 Scanning 504 point from 1104
+10.05 06:43:44 Going to coordinates X=-28.642, Y=-38.975
+10.05 06:43:44 Moving is finished
+10.05 06:43:51 timed out
+10.05 06:43:51 Scanning 505 point from 1104
+10.05 06:43:51 Going to coordinates X=-28.622, Y=-38.975
+10.05 06:43:52 Moving is finished
+10.05 06:43:59 timed out
+10.05 06:43:59 Scanning 506 point from 1104
+10.05 06:43:59 Going to coordinates X=-29.522, Y=-38.955
+10.05 06:44:00 Moving is finished
+10.05 06:44:07 timed out
+10.05 06:44:08 Scanning 507 point from 1104
+10.05 06:44:08 Going to coordinates X=-29.502, Y=-38.955
+10.05 06:44:08 Moving is finished
+10.05 06:44:15 timed out
+10.05 06:44:15 Scanning 508 point from 1104
+10.05 06:44:15 Going to coordinates X=-29.482, Y=-38.955
+10.05 06:44:15 Moving is finished
+10.05 06:44:23 timed out
+10.05 06:44:23 Scanning 509 point from 1104
+10.05 06:44:23 Going to coordinates X=-29.462, Y=-38.955
+10.05 06:44:24 Moving is finished
+10.05 06:44:31 timed out
+10.05 06:44:31 Scanning 510 point from 1104
+10.05 06:44:31 Going to coordinates X=-29.442, Y=-38.955
+10.05 06:44:31 Moving is finished
+10.05 06:44:39 timed out
+10.05 06:44:39 Scanning 511 point from 1104
+10.05 06:44:39 Going to coordinates X=-29.422, Y=-38.955
+10.05 06:44:39 Moving is finished
+10.05 06:44:47 timed out
+10.05 06:44:47 Scanning 512 point from 1104
+10.05 06:44:47 Going to coordinates X=-29.402, Y=-38.955
+10.05 06:44:48 Moving is finished
+10.05 06:44:55 timed out
+10.05 06:44:55 Scanning 513 point from 1104
+10.05 06:44:55 Going to coordinates X=-29.382, Y=-38.955
+10.05 06:44:55 Moving is finished
+10.05 06:45:03 timed out
+10.05 06:45:03 Scanning 514 point from 1104
+10.05 06:45:03 Going to coordinates X=-29.362, Y=-38.955
+10.05 06:45:03 Moving is finished
+10.05 06:45:11 timed out
+10.05 06:45:11 Scanning 515 point from 1104
+10.05 06:45:11 Going to coordinates X=-29.342, Y=-38.955
+10.05 06:45:11 Moving is finished
+10.05 06:45:19 timed out
+10.05 06:45:19 Scanning 516 point from 1104
+10.05 06:45:19 Going to coordinates X=-29.322, Y=-38.955
+10.05 06:45:19 Moving is finished
+10.05 06:45:27 timed out
+10.05 06:45:27 Scanning 517 point from 1104
+10.05 06:45:27 Going to coordinates X=-29.302, Y=-38.955
+10.05 06:45:28 Moving is finished
+10.05 06:45:36 timed out
+10.05 06:45:36 Scanning 518 point from 1104
+10.05 06:45:36 Going to coordinates X=-29.282, Y=-38.955
+10.05 06:45:36 Moving is finished
+10.05 06:45:44 timed out
+10.05 06:45:44 Scanning 519 point from 1104
+10.05 06:45:44 Going to coordinates X=-29.262, Y=-38.955
+10.05 06:45:44 Moving is finished
+10.05 06:45:52 timed out
+10.05 06:45:52 Scanning 520 point from 1104
+10.05 06:45:52 Going to coordinates X=-29.242, Y=-38.955
+10.05 06:45:52 Moving is finished
+10.05 06:46:00 timed out
+10.05 06:46:00 Scanning 521 point from 1104
+10.05 06:46:00 Going to coordinates X=-29.222, Y=-38.955
+10.05 06:46:00 Moving is finished
+10.05 06:46:08 timed out
+10.05 06:46:08 Scanning 522 point from 1104
+10.05 06:46:08 Going to coordinates X=-29.202, Y=-38.955
+10.05 06:46:08 Moving is finished
+10.05 06:46:17 timed out
+10.05 06:46:17 Scanning 523 point from 1104
+10.05 06:46:17 Going to coordinates X=-29.182, Y=-38.955
+10.05 06:46:17 Moving is finished
+10.05 06:46:24 timed out
+10.05 06:46:24 Scanning 524 point from 1104
+10.05 06:46:24 Going to coordinates X=-29.162, Y=-38.955
+10.05 06:46:24 Moving is finished
+10.05 06:46:32 timed out
+10.05 06:46:32 Scanning 525 point from 1104
+10.05 06:46:32 Going to coordinates X=-29.142, Y=-38.955
+10.05 06:46:32 Moving is finished
+10.05 06:46:40 timed out
+10.05 06:46:40 Scanning 526 point from 1104
+10.05 06:46:40 Going to coordinates X=-29.122, Y=-38.955
+10.05 06:46:40 Moving is finished
+10.05 06:46:47 timed out
+10.05 06:46:47 Scanning 527 point from 1104
+10.05 06:46:47 Going to coordinates X=-29.102, Y=-38.955
+10.05 06:46:48 Moving is finished
+10.05 06:46:55 timed out
+10.05 06:46:55 Scanning 528 point from 1104
+10.05 06:46:55 Going to coordinates X=-29.082, Y=-38.955
+10.05 06:46:55 Moving is finished
+10.05 06:47:03 timed out
+10.05 06:47:03 Scanning 529 point from 1104
+10.05 06:47:03 Going to coordinates X=-29.062, Y=-38.955
+10.05 06:47:03 Moving is finished
+10.05 06:47:11 timed out
+10.05 06:47:11 Scanning 530 point from 1104
+10.05 06:47:11 Going to coordinates X=-29.042, Y=-38.955
+10.05 06:47:11 Moving is finished
+10.05 06:47:19 timed out
+10.05 06:47:19 Scanning 531 point from 1104
+10.05 06:47:19 Going to coordinates X=-29.022, Y=-38.955
+10.05 06:47:19 Moving is finished
+10.05 06:47:27 timed out
+10.05 06:47:27 Scanning 532 point from 1104
+10.05 06:47:27 Going to coordinates X=-29.002, Y=-38.955
+10.05 06:47:27 Moving is finished
+10.05 06:47:35 timed out
+10.05 06:47:35 Scanning 533 point from 1104
+10.05 06:47:35 Going to coordinates X=-28.982, Y=-38.955
+10.05 06:47:35 Moving is finished
+10.05 06:47:42 timed out
+10.05 06:47:43 Scanning 534 point from 1104
+10.05 06:47:43 Going to coordinates X=-28.962, Y=-38.955
+10.05 06:47:43 Moving is finished
+10.05 06:47:50 timed out
+10.05 06:47:50 Scanning 535 point from 1104
+10.05 06:47:50 Going to coordinates X=-28.942, Y=-38.955
+10.05 06:47:51 Moving is finished
+10.05 06:47:59 timed out
+10.05 06:47:59 Scanning 536 point from 1104
+10.05 06:47:59 Going to coordinates X=-28.922, Y=-38.955
+10.05 06:47:59 Moving is finished
+10.05 06:48:07 timed out
+10.05 06:48:07 Scanning 537 point from 1104
+10.05 06:48:07 Going to coordinates X=-28.902, Y=-38.955
+10.05 06:48:07 Moving is finished
+10.05 06:48:14 timed out
+10.05 06:48:15 Scanning 538 point from 1104
+10.05 06:48:15 Going to coordinates X=-28.882, Y=-38.955
+10.05 06:48:15 Moving is finished
+10.05 06:48:23 timed out
+10.05 06:48:23 Scanning 539 point from 1104
+10.05 06:48:23 Going to coordinates X=-28.862, Y=-38.955
+10.05 06:48:23 Moving is finished
+10.05 06:48:31 timed out
+10.05 06:48:31 Scanning 540 point from 1104
+10.05 06:48:31 Going to coordinates X=-28.842, Y=-38.955
+10.05 06:48:31 Moving is finished
+10.05 06:48:39 timed out
+10.05 06:48:39 Scanning 541 point from 1104
+10.05 06:48:39 Going to coordinates X=-28.822, Y=-38.955
+10.05 06:48:39 Moving is finished
+10.05 06:48:46 timed out
+10.05 06:48:46 Scanning 542 point from 1104
+10.05 06:48:46 Going to coordinates X=-28.802, Y=-38.955
+10.05 06:48:47 Moving is finished
+10.05 06:48:54 timed out
+10.05 06:48:54 Scanning 543 point from 1104
+10.05 06:48:54 Going to coordinates X=-28.782, Y=-38.955
+10.05 06:48:54 Moving is finished
+10.05 06:49:02 timed out
+10.05 06:49:02 Scanning 544 point from 1104
+10.05 06:49:02 Going to coordinates X=-28.762, Y=-38.955
+10.05 06:49:02 Moving is finished
+10.05 06:49:10 timed out
+10.05 06:49:10 Scanning 545 point from 1104
+10.05 06:49:10 Going to coordinates X=-28.742, Y=-38.955
+10.05 06:49:10 Moving is finished
+10.05 06:49:18 timed out
+10.05 06:49:18 Scanning 546 point from 1104
+10.05 06:49:18 Going to coordinates X=-28.722, Y=-38.955
+10.05 06:49:18 Moving is finished
+10.05 06:49:26 timed out
+10.05 06:49:26 Scanning 547 point from 1104
+10.05 06:49:26 Going to coordinates X=-28.702, Y=-38.955
+10.05 06:49:26 Moving is finished
+10.05 06:49:34 timed out
+10.05 06:49:34 Scanning 548 point from 1104
+10.05 06:49:34 Going to coordinates X=-28.682, Y=-38.955
+10.05 06:49:34 Moving is finished
+10.05 06:49:42 timed out
+10.05 06:49:42 Scanning 549 point from 1104
+10.05 06:49:42 Going to coordinates X=-28.662, Y=-38.955
+10.05 06:49:42 Moving is finished
+10.05 06:49:50 timed out
+10.05 06:49:50 Scanning 550 point from 1104
+10.05 06:49:50 Going to coordinates X=-28.642, Y=-38.955
+10.05 06:49:50 Moving is finished
+10.05 06:49:57 timed out
+10.05 06:49:58 Scanning 551 point from 1104
+10.05 06:49:58 Going to coordinates X=-28.622, Y=-38.955
+10.05 06:49:58 Moving is finished
+10.05 06:50:05 timed out
+10.05 06:50:05 Scanning 552 point from 1104
+10.05 06:50:05 Going to coordinates X=-29.522, Y=-38.935
+10.05 06:50:06 Moving is finished
+10.05 06:50:13 timed out
+10.05 06:50:13 Scanning 553 point from 1104
+10.05 06:50:13 Going to coordinates X=-29.502, Y=-38.935
+10.05 06:50:14 Moving is finished
+10.05 06:50:21 timed out
+10.05 06:50:22 Scanning 554 point from 1104
+10.05 06:50:22 Going to coordinates X=-29.482, Y=-38.935
+10.05 06:50:22 Moving is finished
+10.05 06:50:29 timed out
+10.05 06:50:29 Scanning 555 point from 1104
+10.05 06:50:29 Going to coordinates X=-29.462, Y=-38.935
+10.05 06:50:30 Moving is finished
+10.05 06:50:37 timed out
+10.05 06:50:37 Scanning 556 point from 1104
+10.05 06:50:37 Going to coordinates X=-29.442, Y=-38.935
+10.05 06:50:37 Moving is finished
+10.05 06:50:44 timed out
+10.05 06:50:45 Scanning 557 point from 1104
+10.05 06:50:45 Going to coordinates X=-29.422, Y=-38.935
+10.05 06:50:45 Moving is finished
+10.05 06:50:52 timed out
+10.05 06:50:52 Scanning 558 point from 1104
+10.05 06:50:52 Going to coordinates X=-29.402, Y=-38.935
+10.05 06:50:52 Moving is finished
+10.05 06:51:00 timed out
+10.05 06:51:00 Scanning 559 point from 1104
+10.05 06:51:00 Going to coordinates X=-29.382, Y=-38.935
+10.05 06:51:00 Moving is finished
+10.05 06:51:07 timed out
+10.05 06:51:08 Scanning 560 point from 1104
+10.05 06:51:08 Going to coordinates X=-29.362, Y=-38.935
+10.05 06:51:08 Moving is finished
+10.05 06:51:16 timed out
+10.05 06:51:16 Scanning 561 point from 1104
+10.05 06:51:16 Going to coordinates X=-29.342, Y=-38.935
+10.05 06:51:16 Moving is finished
+10.05 06:51:24 timed out
+10.05 06:51:24 Scanning 562 point from 1104
+10.05 06:51:24 Going to coordinates X=-29.322, Y=-38.935
+10.05 06:51:24 Moving is finished
+10.05 06:51:32 timed out
+10.05 06:51:32 Scanning 563 point from 1104
+10.05 06:51:32 Going to coordinates X=-29.302, Y=-38.935
+10.05 06:51:32 Moving is finished
+10.05 06:51:40 timed out
+10.05 06:51:40 Scanning 564 point from 1104
+10.05 06:51:40 Going to coordinates X=-29.282, Y=-38.935
+10.05 06:51:40 Moving is finished
+10.05 06:51:48 timed out
+10.05 06:51:48 Scanning 565 point from 1104
+10.05 06:51:48 Going to coordinates X=-29.262, Y=-38.935
+10.05 06:51:48 Moving is finished
+10.05 06:51:56 timed out
+10.05 06:51:56 Scanning 566 point from 1104
+10.05 06:51:56 Going to coordinates X=-29.242, Y=-38.935
+10.05 06:51:56 Moving is finished
+10.05 06:52:04 timed out
+10.05 06:52:04 Scanning 567 point from 1104
+10.05 06:52:04 Going to coordinates X=-29.222, Y=-38.935
+10.05 06:52:04 Moving is finished
+10.05 06:52:12 timed out
+10.05 06:52:12 Scanning 568 point from 1104
+10.05 06:52:12 Going to coordinates X=-29.202, Y=-38.935
+10.05 06:52:12 Moving is finished
+10.05 06:52:19 timed out
+10.05 06:52:20 Scanning 569 point from 1104
+10.05 06:52:20 Going to coordinates X=-29.182, Y=-38.935
+10.05 06:52:20 Moving is finished
+10.05 06:52:27 timed out
+10.05 06:52:28 Scanning 570 point from 1104
+10.05 06:52:28 Going to coordinates X=-29.162, Y=-38.935
+10.05 06:52:28 Moving is finished
+10.05 06:52:35 timed out
+10.05 06:52:35 Scanning 571 point from 1104
+10.05 06:52:35 Going to coordinates X=-29.142, Y=-38.935
+10.05 06:52:35 Moving is finished
+10.05 06:52:43 timed out
+10.05 06:52:43 Scanning 572 point from 1104
+10.05 06:52:43 Going to coordinates X=-29.122, Y=-38.935
+10.05 06:52:43 Moving is finished
+10.05 06:52:51 timed out
+10.05 06:52:51 Scanning 573 point from 1104
+10.05 06:52:51 Going to coordinates X=-29.102, Y=-38.935
+10.05 06:52:51 Moving is finished
+10.05 06:52:59 timed out
+10.05 06:52:59 Scanning 574 point from 1104
+10.05 06:52:59 Going to coordinates X=-29.082, Y=-38.935
+10.05 06:52:59 Moving is finished
+10.05 06:53:06 timed out
+10.05 06:53:06 Scanning 575 point from 1104
+10.05 06:53:06 Going to coordinates X=-29.062, Y=-38.935
+10.05 06:53:07 Moving is finished
+10.05 06:53:14 timed out
+10.05 06:53:14 Scanning 576 point from 1104
+10.05 06:53:14 Going to coordinates X=-29.042, Y=-38.935
+10.05 06:53:15 Moving is finished
+10.05 06:53:22 timed out
+10.05 06:53:22 Scanning 577 point from 1104
+10.05 06:53:22 Going to coordinates X=-29.022, Y=-38.935
+10.05 06:53:23 Moving is finished
+10.05 06:53:30 timed out
+10.05 06:53:30 Scanning 578 point from 1104
+10.05 06:53:30 Going to coordinates X=-29.002, Y=-38.935
+10.05 06:53:31 Moving is finished
+10.05 06:53:38 timed out
+10.05 06:53:38 Scanning 579 point from 1104
+10.05 06:53:38 Going to coordinates X=-28.982, Y=-38.935
+10.05 06:53:38 Moving is finished
+10.05 06:53:46 timed out
+10.05 06:53:46 Scanning 580 point from 1104
+10.05 06:53:46 Going to coordinates X=-28.962, Y=-38.935
+10.05 06:53:46 Moving is finished
+10.05 06:53:53 timed out
+10.05 06:53:54 Scanning 581 point from 1104
+10.05 06:53:54 Going to coordinates X=-28.942, Y=-38.935
+10.05 06:53:54 Moving is finished
+10.05 06:54:01 timed out
+10.05 06:54:01 Scanning 582 point from 1104
+10.05 06:54:01 Going to coordinates X=-28.922, Y=-38.935
+10.05 06:54:02 Moving is finished
+10.05 06:54:09 timed out
+10.05 06:54:09 Scanning 583 point from 1104
+10.05 06:54:09 Going to coordinates X=-28.902, Y=-38.935
+10.05 06:54:09 Moving is finished
+10.05 06:54:17 timed out
+10.05 06:54:17 Scanning 584 point from 1104
+10.05 06:54:17 Going to coordinates X=-28.882, Y=-38.935
+10.05 06:54:17 Moving is finished
+10.05 06:54:25 timed out
+10.05 06:54:25 Scanning 585 point from 1104
+10.05 06:54:25 Going to coordinates X=-28.862, Y=-38.935
+10.05 06:54:25 Moving is finished
+10.05 06:54:33 timed out
+10.05 06:54:33 Scanning 586 point from 1104
+10.05 06:54:33 Going to coordinates X=-28.842, Y=-38.935
+10.05 06:54:33 Moving is finished
+10.05 06:54:41 timed out
+10.05 06:54:41 Scanning 587 point from 1104
+10.05 06:54:41 Going to coordinates X=-28.822, Y=-38.935
+10.05 06:54:41 Moving is finished
+10.05 06:54:49 timed out
+10.05 06:54:49 Scanning 588 point from 1104
+10.05 06:54:49 Going to coordinates X=-28.802, Y=-38.935
+10.05 06:54:49 Moving is finished
+10.05 06:54:57 timed out
+10.05 06:54:57 Scanning 589 point from 1104
+10.05 06:54:57 Going to coordinates X=-28.782, Y=-38.935
+10.05 06:54:58 Moving is finished
+10.05 06:55:05 timed out
+10.05 06:55:06 Scanning 590 point from 1104
+10.05 06:55:06 Going to coordinates X=-28.762, Y=-38.935
+10.05 06:55:06 Moving is finished
+10.05 06:55:14 timed out
+10.05 06:55:14 Scanning 591 point from 1104
+10.05 06:55:14 Going to coordinates X=-28.742, Y=-38.935
+10.05 06:55:14 Moving is finished
+10.05 06:55:22 timed out
+10.05 06:55:22 Scanning 592 point from 1104
+10.05 06:55:22 Going to coordinates X=-28.722, Y=-38.935
+10.05 06:55:22 Moving is finished
+10.05 06:55:30 timed out
+10.05 06:55:30 Scanning 593 point from 1104
+10.05 06:55:30 Going to coordinates X=-28.702, Y=-38.935
+10.05 06:55:30 Moving is finished
+10.05 06:55:38 timed out
+10.05 06:55:38 Scanning 594 point from 1104
+10.05 06:55:38 Going to coordinates X=-28.682, Y=-38.935
+10.05 06:55:38 Moving is finished
+10.05 06:55:46 timed out
+10.05 06:55:46 Scanning 595 point from 1104
+10.05 06:55:46 Going to coordinates X=-28.662, Y=-38.935
+10.05 06:55:46 Moving is finished
+10.05 06:55:54 timed out
+10.05 06:55:54 Scanning 596 point from 1104
+10.05 06:55:54 Going to coordinates X=-28.642, Y=-38.935
+10.05 06:55:54 Moving is finished
+10.05 06:56:02 timed out
+10.05 06:56:02 Scanning 597 point from 1104
+10.05 06:56:02 Going to coordinates X=-28.622, Y=-38.935
+10.05 06:56:02 Moving is finished
+10.05 06:56:10 timed out
+10.05 06:56:10 Scanning 598 point from 1104
+10.05 06:56:10 Going to coordinates X=-29.522, Y=-38.915
+10.05 06:56:11 Moving is finished
+10.05 06:56:19 timed out
+10.05 06:56:19 Scanning 599 point from 1104
+10.05 06:56:19 Going to coordinates X=-29.502, Y=-38.915
+10.05 06:56:19 Moving is finished
+10.05 06:56:27 timed out
+10.05 06:56:27 Scanning 600 point from 1104
+10.05 06:56:27 Going to coordinates X=-29.482, Y=-38.915
+10.05 06:56:28 Moving is finished
+10.05 06:56:36 timed out
+10.05 06:56:36 Scanning 601 point from 1104
+10.05 06:56:36 Going to coordinates X=-29.462, Y=-38.915
+10.05 06:56:36 Moving is finished
+10.05 06:56:44 timed out
+10.05 06:56:44 Scanning 602 point from 1104
+10.05 06:56:44 Going to coordinates X=-29.442, Y=-38.915
+10.05 06:56:44 Moving is finished
+10.05 06:56:52 timed out
+10.05 06:56:52 Scanning 603 point from 1104
+10.05 06:56:52 Going to coordinates X=-29.422, Y=-38.915
+10.05 06:56:52 Moving is finished
+10.05 06:56:59 timed out
+10.05 06:56:59 Scanning 604 point from 1104
+10.05 06:56:59 Going to coordinates X=-29.402, Y=-38.915
+10.05 06:57:00 Moving is finished
+10.05 06:57:07 timed out
+10.05 06:57:07 Scanning 605 point from 1104
+10.05 06:57:07 Going to coordinates X=-29.382, Y=-38.915
+10.05 06:57:07 Moving is finished
+10.05 06:57:15 timed out
+10.05 06:57:15 Scanning 606 point from 1104
+10.05 06:57:15 Going to coordinates X=-29.362, Y=-38.915
+10.05 06:57:15 Moving is finished
+10.05 06:57:23 timed out
+10.05 06:57:23 Scanning 607 point from 1104
+10.05 06:57:23 Going to coordinates X=-29.342, Y=-38.915
+10.05 06:57:23 Moving is finished
+10.05 06:57:31 timed out
+10.05 06:57:31 Scanning 608 point from 1104
+10.05 06:57:31 Going to coordinates X=-29.322, Y=-38.915
+10.05 06:57:31 Moving is finished
+10.05 06:57:39 timed out
+10.05 06:57:39 Scanning 609 point from 1104
+10.05 06:57:39 Going to coordinates X=-29.302, Y=-38.915
+10.05 06:57:39 Moving is finished
+10.05 06:57:47 timed out
+10.05 06:57:47 Scanning 610 point from 1104
+10.05 06:57:47 Going to coordinates X=-29.282, Y=-38.915
+10.05 06:57:47 Moving is finished
+10.05 06:57:54 timed out
+10.05 06:57:54 Scanning 611 point from 1104
+10.05 06:57:54 Going to coordinates X=-29.262, Y=-38.915
+10.05 06:57:55 Moving is finished
+10.05 06:58:02 timed out
+10.05 06:58:02 Scanning 612 point from 1104
+10.05 06:58:02 Going to coordinates X=-29.242, Y=-38.915
+10.05 06:58:03 Moving is finished
+10.05 06:58:11 timed out
+10.05 06:58:11 Scanning 613 point from 1104
+10.05 06:58:11 Going to coordinates X=-29.222, Y=-38.915
+10.05 06:58:11 Moving is finished
+10.05 06:58:18 timed out
+10.05 06:58:18 Scanning 614 point from 1104
+10.05 06:58:18 Going to coordinates X=-29.202, Y=-38.915
+10.05 06:58:18 Moving is finished
+10.05 06:58:26 timed out
+10.05 06:58:26 Scanning 615 point from 1104
+10.05 06:58:26 Going to coordinates X=-29.182, Y=-38.915
+10.05 06:58:26 Moving is finished
+10.05 06:58:34 timed out
+10.05 06:58:34 Scanning 616 point from 1104
+10.05 06:58:34 Going to coordinates X=-29.162, Y=-38.915
+10.05 06:58:34 Moving is finished
+10.05 06:58:42 timed out
+10.05 06:58:42 Scanning 617 point from 1104
+10.05 06:58:42 Going to coordinates X=-29.142, Y=-38.915
+10.05 06:58:42 Moving is finished
+10.05 06:58:49 timed out
+10.05 06:58:49 Scanning 618 point from 1104
+10.05 06:58:49 Going to coordinates X=-29.122, Y=-38.915
+10.05 06:58:49 Moving is finished
+10.05 06:58:57 timed out
+10.05 06:58:57 Scanning 619 point from 1104
+10.05 06:58:57 Going to coordinates X=-29.102, Y=-38.915
+10.05 06:58:57 Moving is finished
+10.05 06:59:05 timed out
+10.05 06:59:05 Scanning 620 point from 1104
+10.05 06:59:05 Going to coordinates X=-29.082, Y=-38.915
+10.05 06:59:05 Moving is finished
+10.05 06:59:13 timed out
+10.05 06:59:13 Scanning 621 point from 1104
+10.05 06:59:13 Going to coordinates X=-29.062, Y=-38.915
+10.05 06:59:13 Moving is finished
+10.05 06:59:21 timed out
+10.05 06:59:21 Scanning 622 point from 1104
+10.05 06:59:21 Going to coordinates X=-29.042, Y=-38.915
+10.05 06:59:21 Moving is finished
+10.05 06:59:28 timed out
+10.05 06:59:29 Scanning 623 point from 1104
+10.05 06:59:29 Going to coordinates X=-29.022, Y=-38.915
+10.05 06:59:29 Moving is finished
+10.05 06:59:36 timed out
+10.05 06:59:36 Scanning 624 point from 1104
+10.05 06:59:36 Going to coordinates X=-29.002, Y=-38.915
+10.05 06:59:36 Moving is finished
+10.05 06:59:44 timed out
+10.05 06:59:44 Scanning 625 point from 1104
+10.05 06:59:44 Going to coordinates X=-28.982, Y=-38.915
+10.05 06:59:45 Moving is finished
+10.05 06:59:52 timed out
+10.05 06:59:52 Scanning 626 point from 1104
+10.05 06:59:52 Going to coordinates X=-28.962, Y=-38.915
+10.05 06:59:52 Moving is finished
+10.05 07:00:00 timed out
+10.05 07:00:00 Scanning 627 point from 1104
+10.05 07:00:00 Going to coordinates X=-28.942, Y=-38.915
+10.05 07:00:00 Moving is finished
+10.05 07:00:08 timed out
+10.05 07:00:08 Scanning 628 point from 1104
+10.05 07:00:08 Going to coordinates X=-28.922, Y=-38.915
+10.05 07:00:08 Moving is finished
+10.05 07:00:17 timed out
+10.05 07:00:17 Scanning 629 point from 1104
+10.05 07:00:17 Going to coordinates X=-28.902, Y=-38.915
+10.05 07:00:17 Moving is finished
+10.05 07:00:24 timed out
+10.05 07:00:24 Scanning 630 point from 1104
+10.05 07:00:24 Going to coordinates X=-28.882, Y=-38.915
+10.05 07:00:25 Moving is finished
+10.05 07:00:32 timed out
+10.05 07:00:32 Scanning 631 point from 1104
+10.05 07:00:32 Going to coordinates X=-28.862, Y=-38.915
+10.05 07:00:32 Moving is finished
+10.05 07:00:40 timed out
+10.05 07:00:40 Scanning 632 point from 1104
+10.05 07:00:40 Going to coordinates X=-28.842, Y=-38.915
+10.05 07:00:40 Moving is finished
+10.05 07:00:48 timed out
+10.05 07:00:48 Scanning 633 point from 1104
+10.05 07:00:48 Going to coordinates X=-28.822, Y=-38.915
+10.05 07:00:48 Moving is finished
+10.05 07:00:55 timed out
+10.05 07:00:56 Scanning 634 point from 1104
+10.05 07:00:56 Going to coordinates X=-28.802, Y=-38.915
+10.05 07:00:56 Moving is finished
+10.05 07:01:03 timed out
+10.05 07:01:04 Scanning 635 point from 1104
+10.05 07:01:04 Going to coordinates X=-28.782, Y=-38.915
+10.05 07:01:04 Moving is finished
+10.05 07:01:11 timed out
+10.05 07:01:11 Scanning 636 point from 1104
+10.05 07:01:11 Going to coordinates X=-28.762, Y=-38.915
+10.05 07:01:12 Moving is finished
+10.05 07:01:19 timed out
+10.05 07:01:19 Scanning 637 point from 1104
+10.05 07:01:19 Going to coordinates X=-28.742, Y=-38.915
+10.05 07:01:19 Moving is finished
+10.05 07:01:27 timed out
+10.05 07:01:27 Scanning 638 point from 1104
+10.05 07:01:27 Going to coordinates X=-28.722, Y=-38.915
+10.05 07:01:27 Moving is finished
+10.05 07:01:35 timed out
+10.05 07:01:35 Scanning 639 point from 1104
+10.05 07:01:35 Going to coordinates X=-28.702, Y=-38.915
+10.05 07:01:35 Moving is finished
+10.05 07:01:43 timed out
+10.05 07:01:43 Scanning 640 point from 1104
+10.05 07:01:43 Going to coordinates X=-28.682, Y=-38.915
+10.05 07:01:43 Moving is finished
+10.05 07:01:51 timed out
+10.05 07:01:51 Scanning 641 point from 1104
+10.05 07:01:51 Going to coordinates X=-28.662, Y=-38.915
+10.05 07:01:52 Moving is finished
+10.05 07:01:59 timed out
+10.05 07:01:59 Scanning 642 point from 1104
+10.05 07:01:59 Going to coordinates X=-28.642, Y=-38.915
+10.05 07:01:59 Moving is finished
+10.05 07:02:06 timed out
+10.05 07:02:06 Scanning 643 point from 1104
+10.05 07:02:06 Going to coordinates X=-28.622, Y=-38.915
+10.05 07:02:07 Moving is finished
+10.05 07:02:14 timed out
+10.05 07:02:14 Scanning 644 point from 1104
+10.05 07:02:14 Going to coordinates X=-29.522, Y=-38.895
+10.05 07:02:15 Moving is finished
+10.05 07:02:23 timed out
+10.05 07:02:23 Scanning 645 point from 1104
+10.05 07:02:23 Going to coordinates X=-29.502, Y=-38.895
+10.05 07:02:23 Moving is finished
+10.05 07:02:31 timed out
+10.05 07:02:31 Scanning 646 point from 1104
+10.05 07:02:31 Going to coordinates X=-29.482, Y=-38.895
+10.05 07:02:31 Moving is finished
+10.05 07:02:39 timed out
+10.05 07:02:39 Scanning 647 point from 1104
+10.05 07:02:39 Going to coordinates X=-29.462, Y=-38.895
+10.05 07:02:40 Moving is finished
+10.05 07:02:47 timed out
+10.05 07:02:47 Scanning 648 point from 1104
+10.05 07:02:47 Going to coordinates X=-29.442, Y=-38.895
+10.05 07:02:47 Moving is finished
+10.05 07:02:55 timed out
+10.05 07:02:55 Scanning 649 point from 1104
+10.05 07:02:55 Going to coordinates X=-29.422, Y=-38.895
+10.05 07:02:56 Moving is finished
+10.05 07:03:03 timed out
+10.05 07:03:03 Scanning 650 point from 1104
+10.05 07:03:03 Going to coordinates X=-29.402, Y=-38.895
+10.05 07:03:03 Moving is finished
+10.05 07:03:10 timed out
+10.05 07:03:10 Scanning 651 point from 1104
+10.05 07:03:10 Going to coordinates X=-29.382, Y=-38.895
+10.05 07:03:10 Moving is finished
+10.05 07:03:18 timed out
+10.05 07:03:18 Scanning 652 point from 1104
+10.05 07:03:18 Going to coordinates X=-29.362, Y=-38.895
+10.05 07:03:18 Moving is finished
+10.05 07:03:26 timed out
+10.05 07:03:26 Scanning 653 point from 1104
+10.05 07:03:26 Going to coordinates X=-29.342, Y=-38.895
+10.05 07:03:26 Moving is finished
+10.05 07:03:33 timed out
+10.05 07:03:33 Scanning 654 point from 1104
+10.05 07:03:33 Going to coordinates X=-29.322, Y=-38.895
+10.05 07:03:34 Moving is finished
+10.05 07:03:41 timed out
+10.05 07:03:41 Scanning 655 point from 1104
+10.05 07:03:41 Going to coordinates X=-29.302, Y=-38.895
+10.05 07:03:41 Moving is finished
+10.05 07:03:49 timed out
+10.05 07:03:49 Scanning 656 point from 1104
+10.05 07:03:49 Going to coordinates X=-29.282, Y=-38.895
+10.05 07:03:49 Moving is finished
+10.05 07:03:57 timed out
+10.05 07:03:57 Scanning 657 point from 1104
+10.05 07:03:57 Going to coordinates X=-29.262, Y=-38.895
+10.05 07:03:57 Moving is finished
+10.05 07:04:05 timed out
+10.05 07:04:05 Scanning 658 point from 1104
+10.05 07:04:05 Going to coordinates X=-29.242, Y=-38.895
+10.05 07:04:05 Moving is finished
+10.05 07:04:13 timed out
+10.05 07:04:13 Scanning 659 point from 1104
+10.05 07:04:13 Going to coordinates X=-29.222, Y=-38.895
+10.05 07:04:13 Moving is finished
+10.05 07:04:21 timed out
+10.05 07:04:21 Scanning 660 point from 1104
+10.05 07:04:21 Going to coordinates X=-29.202, Y=-38.895
+10.05 07:04:21 Moving is finished
+10.05 07:04:29 timed out
+10.05 07:04:29 Scanning 661 point from 1104
+10.05 07:04:29 Going to coordinates X=-29.182, Y=-38.895
+10.05 07:04:30 Moving is finished
+10.05 07:04:37 timed out
+10.05 07:04:37 Scanning 662 point from 1104
+10.05 07:04:37 Going to coordinates X=-29.162, Y=-38.895
+10.05 07:04:37 Moving is finished
+10.05 07:04:44 timed out
+10.05 07:04:44 Scanning 663 point from 1104
+10.05 07:04:44 Going to coordinates X=-29.142, Y=-38.895
+10.05 07:04:44 Moving is finished
+10.05 07:04:52 timed out
+10.05 07:04:52 Scanning 664 point from 1104
+10.05 07:04:52 Going to coordinates X=-29.122, Y=-38.895
+10.05 07:04:52 Moving is finished
+10.05 07:04:59 timed out
+10.05 07:04:59 Scanning 665 point from 1104
+10.05 07:04:59 Going to coordinates X=-29.102, Y=-38.895
+10.05 07:04:59 Moving is finished
+10.05 07:05:07 timed out
+10.05 07:05:07 Scanning 666 point from 1104
+10.05 07:05:07 Going to coordinates X=-29.082, Y=-38.895
+10.05 07:05:07 Moving is finished
+10.05 07:05:15 timed out
+10.05 07:05:15 Scanning 667 point from 1104
+10.05 07:05:15 Going to coordinates X=-29.062, Y=-38.895
+10.05 07:05:15 Moving is finished
+10.05 07:05:22 timed out
+10.05 07:05:22 Scanning 668 point from 1104
+10.05 07:05:22 Going to coordinates X=-29.042, Y=-38.895
+10.05 07:05:22 Moving is finished
+10.05 07:05:29 timed out
+10.05 07:05:29 Scanning 669 point from 1104
+10.05 07:05:29 Going to coordinates X=-29.022, Y=-38.895
+10.05 07:05:29 Moving is finished
+10.05 07:05:37 timed out
+10.05 07:05:37 Scanning 670 point from 1104
+10.05 07:05:37 Going to coordinates X=-29.002, Y=-38.895
+10.05 07:05:37 Moving is finished
+10.05 07:05:44 timed out
+10.05 07:05:44 Scanning 671 point from 1104
+10.05 07:05:44 Going to coordinates X=-28.982, Y=-38.895
+10.05 07:05:45 Moving is finished
+10.05 07:05:53 timed out
+10.05 07:05:53 Scanning 672 point from 1104
+10.05 07:05:53 Going to coordinates X=-28.962, Y=-38.895
+10.05 07:05:53 Moving is finished
+10.05 07:06:00 timed out
+10.05 07:06:00 Scanning 673 point from 1104
+10.05 07:06:00 Going to coordinates X=-28.942, Y=-38.895
+10.05 07:06:00 Moving is finished
+10.05 07:06:07 timed out
+10.05 07:06:07 Scanning 674 point from 1104
+10.05 07:06:07 Going to coordinates X=-28.922, Y=-38.895
+10.05 07:06:08 Moving is finished
+10.05 07:06:15 timed out
+10.05 07:06:15 Scanning 675 point from 1104
+10.05 07:06:15 Going to coordinates X=-28.902, Y=-38.895
+10.05 07:06:16 Moving is finished
+10.05 07:06:22 timed out
+10.05 07:06:23 Scanning 676 point from 1104
+10.05 07:06:23 Going to coordinates X=-28.882, Y=-38.895
+10.05 07:06:23 Moving is finished
+10.05 07:06:30 timed out
+10.05 07:06:30 Scanning 677 point from 1104
+10.05 07:06:30 Going to coordinates X=-28.862, Y=-38.895
+10.05 07:06:30 Moving is finished
+10.05 07:06:38 timed out
+10.05 07:06:38 Scanning 678 point from 1104
+10.05 07:06:38 Going to coordinates X=-28.842, Y=-38.895
+10.05 07:06:38 Moving is finished
+10.05 07:06:45 timed out
+10.05 07:06:45 Scanning 679 point from 1104
+10.05 07:06:45 Going to coordinates X=-28.822, Y=-38.895
+10.05 07:06:45 Moving is finished
+10.05 07:06:53 timed out
+10.05 07:06:53 Scanning 680 point from 1104
+10.05 07:06:53 Going to coordinates X=-28.802, Y=-38.895
+10.05 07:06:53 Moving is finished
+10.05 07:07:00 timed out
+10.05 07:07:00 Scanning 681 point from 1104
+10.05 07:07:00 Going to coordinates X=-28.782, Y=-38.895
+10.05 07:07:00 Moving is finished
+10.05 07:07:07 timed out
+10.05 07:07:07 Scanning 682 point from 1104
+10.05 07:07:07 Going to coordinates X=-28.762, Y=-38.895
+10.05 07:07:08 Moving is finished
+10.05 07:07:15 timed out
+10.05 07:07:15 Scanning 683 point from 1104
+10.05 07:07:15 Going to coordinates X=-28.742, Y=-38.895
+10.05 07:07:15 Moving is finished
+10.05 07:07:23 timed out
+10.05 07:07:23 Scanning 684 point from 1104
+10.05 07:07:23 Going to coordinates X=-28.722, Y=-38.895
+10.05 07:07:23 Moving is finished
+10.05 07:07:31 timed out
+10.05 07:07:31 Scanning 685 point from 1104
+10.05 07:07:31 Going to coordinates X=-28.702, Y=-38.895
+10.05 07:07:31 Moving is finished
+10.05 07:07:39 timed out
+10.05 07:07:39 Scanning 686 point from 1104
+10.05 07:07:39 Going to coordinates X=-28.682, Y=-38.895
+10.05 07:07:39 Moving is finished
+10.05 07:07:47 timed out
+10.05 07:07:47 Scanning 687 point from 1104
+10.05 07:07:47 Going to coordinates X=-28.662, Y=-38.895
+10.05 07:07:47 Moving is finished
+10.05 07:07:55 timed out
+10.05 07:07:55 Scanning 688 point from 1104
+10.05 07:07:55 Going to coordinates X=-28.642, Y=-38.895
+10.05 07:07:55 Moving is finished
+10.05 07:08:02 timed out
+10.05 07:08:03 Scanning 689 point from 1104
+10.05 07:08:03 Going to coordinates X=-28.622, Y=-38.895
+10.05 07:08:03 Moving is finished
+10.05 07:08:11 timed out
+10.05 07:08:11 Scanning 690 point from 1104
+10.05 07:08:11 Going to coordinates X=-29.522, Y=-38.875
+10.05 07:08:11 Moving is finished
+10.05 07:08:19 timed out
+10.05 07:08:19 Scanning 691 point from 1104
+10.05 07:08:19 Going to coordinates X=-29.502, Y=-38.875
+10.05 07:08:20 Moving is finished
+10.05 07:08:28 timed out
+10.05 07:08:28 Scanning 692 point from 1104
+10.05 07:08:28 Going to coordinates X=-29.482, Y=-38.875
+10.05 07:08:28 Moving is finished
+10.05 07:08:36 timed out
+10.05 07:08:36 Scanning 693 point from 1104
+10.05 07:08:36 Going to coordinates X=-29.462, Y=-38.875
+10.05 07:08:36 Moving is finished
+10.05 07:08:44 timed out
+10.05 07:08:44 Scanning 694 point from 1104
+10.05 07:08:44 Going to coordinates X=-29.442, Y=-38.875
+10.05 07:08:44 Moving is finished
+10.05 07:08:52 timed out
+10.05 07:08:52 Scanning 695 point from 1104
+10.05 07:08:52 Going to coordinates X=-29.422, Y=-38.875
+10.05 07:08:52 Moving is finished
+10.05 07:08:59 timed out
+10.05 07:09:00 Scanning 696 point from 1104
+10.05 07:09:00 Going to coordinates X=-29.402, Y=-38.875
+10.05 07:09:00 Moving is finished
+10.05 07:09:07 timed out
+10.05 07:09:07 Scanning 697 point from 1104
+10.05 07:09:07 Going to coordinates X=-29.382, Y=-38.875
+10.05 07:09:07 Moving is finished
+10.05 07:09:15 timed out
+10.05 07:09:15 Scanning 698 point from 1104
+10.05 07:09:15 Going to coordinates X=-29.362, Y=-38.875
+10.05 07:09:15 Moving is finished
+10.05 07:09:22 timed out
+10.05 07:09:22 Scanning 699 point from 1104
+10.05 07:09:22 Going to coordinates X=-29.342, Y=-38.875
+10.05 07:09:23 Moving is finished
+10.05 07:09:30 timed out
+10.05 07:09:30 Scanning 700 point from 1104
+10.05 07:09:30 Going to coordinates X=-29.322, Y=-38.875
+10.05 07:09:30 Moving is finished
+10.05 07:09:38 timed out
+10.05 07:09:38 Scanning 701 point from 1104
+10.05 07:09:38 Going to coordinates X=-29.302, Y=-38.875
+10.05 07:09:38 Moving is finished
+10.05 07:09:46 timed out
+10.05 07:09:46 Scanning 702 point from 1104
+10.05 07:09:46 Going to coordinates X=-29.282, Y=-38.875
+10.05 07:09:46 Moving is finished
+10.05 07:09:54 timed out
+10.05 07:09:54 Scanning 703 point from 1104
+10.05 07:09:54 Going to coordinates X=-29.262, Y=-38.875
+10.05 07:09:54 Moving is finished
+10.05 07:10:01 timed out
+10.05 07:10:01 Scanning 704 point from 1104
+10.05 07:10:01 Going to coordinates X=-29.242, Y=-38.875
+10.05 07:10:02 Moving is finished
+10.05 07:10:10 timed out
+10.05 07:10:10 Scanning 705 point from 1104
+10.05 07:10:10 Going to coordinates X=-29.222, Y=-38.875
+10.05 07:10:10 Moving is finished
+10.05 07:10:18 timed out
+10.05 07:10:18 Scanning 706 point from 1104
+10.05 07:10:18 Going to coordinates X=-29.202, Y=-38.875
+10.05 07:10:18 Moving is finished
+10.05 07:10:26 timed out
+10.05 07:10:26 Scanning 707 point from 1104
+10.05 07:10:26 Going to coordinates X=-29.182, Y=-38.875
+10.05 07:10:26 Moving is finished
+10.05 07:10:33 timed out
+10.05 07:10:34 Scanning 708 point from 1104
+10.05 07:10:34 Going to coordinates X=-29.162, Y=-38.875
+10.05 07:10:34 Moving is finished
+10.05 07:10:41 timed out
+10.05 07:10:41 Scanning 709 point from 1104
+10.05 07:10:41 Going to coordinates X=-29.142, Y=-38.875
+10.05 07:10:41 Moving is finished
+10.05 07:10:49 timed out
+10.05 07:10:49 Scanning 710 point from 1104
+10.05 07:10:49 Going to coordinates X=-29.122, Y=-38.875
+10.05 07:10:49 Moving is finished
+10.05 07:10:57 timed out
+10.05 07:10:57 Scanning 711 point from 1104
+10.05 07:10:57 Going to coordinates X=-29.102, Y=-38.875
+10.05 07:10:57 Moving is finished
+10.05 07:11:05 timed out
+10.05 07:11:05 Scanning 712 point from 1104
+10.05 07:11:05 Going to coordinates X=-29.082, Y=-38.875
+10.05 07:11:05 Moving is finished
+10.05 07:11:13 timed out
+10.05 07:11:13 Scanning 713 point from 1104
+10.05 07:11:13 Going to coordinates X=-29.062, Y=-38.875
+10.05 07:11:13 Moving is finished
+10.05 07:11:21 timed out
+10.05 07:11:21 Scanning 714 point from 1104
+10.05 07:11:21 Going to coordinates X=-29.042, Y=-38.875
+10.05 07:11:21 Moving is finished
+10.05 07:11:28 timed out
+10.05 07:11:28 Scanning 715 point from 1104
+10.05 07:11:28 Going to coordinates X=-29.022, Y=-38.875
+10.05 07:11:29 Moving is finished
+10.05 07:11:36 timed out
+10.05 07:11:36 Scanning 716 point from 1104
+10.05 07:11:36 Going to coordinates X=-29.002, Y=-38.875
+10.05 07:11:36 Moving is finished
+10.05 07:11:44 timed out
+10.05 07:11:44 Scanning 717 point from 1104
+10.05 07:11:44 Going to coordinates X=-28.982, Y=-38.875
+10.05 07:11:44 Moving is finished
+10.05 07:11:51 timed out
+10.05 07:11:52 Scanning 718 point from 1104
+10.05 07:11:52 Going to coordinates X=-28.962, Y=-38.875
+10.05 07:11:52 Moving is finished
+10.05 07:11:59 timed out
+10.05 07:11:59 Scanning 719 point from 1104
+10.05 07:11:59 Going to coordinates X=-28.942, Y=-38.875
+10.05 07:11:59 Moving is finished
+10.05 07:12:07 timed out
+10.05 07:12:07 Scanning 720 point from 1104
+10.05 07:12:07 Going to coordinates X=-28.922, Y=-38.875
+10.05 07:12:08 Moving is finished
+10.05 07:12:15 timed out
+10.05 07:12:15 Scanning 721 point from 1104
+10.05 07:12:15 Going to coordinates X=-28.902, Y=-38.875
+10.05 07:12:15 Moving is finished
+10.05 07:12:23 timed out
+10.05 07:12:23 Scanning 722 point from 1104
+10.05 07:12:23 Going to coordinates X=-28.882, Y=-38.875
+10.05 07:12:23 Moving is finished
+10.05 07:12:31 timed out
+10.05 07:12:31 Scanning 723 point from 1104
+10.05 07:12:31 Going to coordinates X=-28.862, Y=-38.875
+10.05 07:12:32 Moving is finished
+10.05 07:12:39 timed out
+10.05 07:12:39 Scanning 724 point from 1104
+10.05 07:12:39 Going to coordinates X=-28.842, Y=-38.875
+10.05 07:12:39 Moving is finished
+10.05 07:12:47 timed out
+10.05 07:12:47 Scanning 725 point from 1104
+10.05 07:12:47 Going to coordinates X=-28.822, Y=-38.875
+10.05 07:12:47 Moving is finished
+10.05 07:12:54 timed out
+10.05 07:12:55 Scanning 726 point from 1104
+10.05 07:12:55 Going to coordinates X=-28.802, Y=-38.875
+10.05 07:12:55 Moving is finished
+10.05 07:13:02 timed out
+10.05 07:13:02 Scanning 727 point from 1104
+10.05 07:13:02 Going to coordinates X=-28.782, Y=-38.875
+10.05 07:13:03 Moving is finished
+10.05 07:13:11 timed out
+10.05 07:13:11 Scanning 728 point from 1104
+10.05 07:13:11 Going to coordinates X=-28.762, Y=-38.875
+10.05 07:13:11 Moving is finished
+10.05 07:13:19 timed out
+10.05 07:13:19 Scanning 729 point from 1104
+10.05 07:13:19 Going to coordinates X=-28.742, Y=-38.875
+10.05 07:13:19 Moving is finished
+10.05 07:13:27 timed out
+10.05 07:13:27 Scanning 730 point from 1104
+10.05 07:13:27 Going to coordinates X=-28.722, Y=-38.875
+10.05 07:13:27 Moving is finished
+10.05 07:13:35 timed out
+10.05 07:13:35 Scanning 731 point from 1104
+10.05 07:13:35 Going to coordinates X=-28.702, Y=-38.875
+10.05 07:13:35 Moving is finished
+10.05 07:13:43 timed out
+10.05 07:13:43 Scanning 732 point from 1104
+10.05 07:13:43 Going to coordinates X=-28.682, Y=-38.875
+10.05 07:13:43 Moving is finished
+10.05 07:13:51 timed out
+10.05 07:13:52 Scanning 733 point from 1104
+10.05 07:13:52 Going to coordinates X=-28.662, Y=-38.875
+10.05 07:13:52 Moving is finished
+10.05 07:14:00 timed out
+10.05 07:14:00 Scanning 734 point from 1104
+10.05 07:14:00 Going to coordinates X=-28.642, Y=-38.875
+10.05 07:14:00 Moving is finished
+10.05 07:14:07 timed out
+10.05 07:14:08 Scanning 735 point from 1104
+10.05 07:14:08 Going to coordinates X=-28.622, Y=-38.875
+10.05 07:14:08 Moving is finished
+10.05 07:14:16 timed out
+10.05 07:14:16 Scanning 736 point from 1104
+10.05 07:14:16 Going to coordinates X=-29.522, Y=-38.855
+10.05 07:14:16 Moving is finished
+10.05 07:14:24 timed out
+10.05 07:14:24 Scanning 737 point from 1104
+10.05 07:14:24 Going to coordinates X=-29.502, Y=-38.855
+10.05 07:14:24 Moving is finished
+10.05 07:14:31 timed out
+10.05 07:14:32 Scanning 738 point from 1104
+10.05 07:14:32 Going to coordinates X=-29.482, Y=-38.855
+10.05 07:14:32 Moving is finished
+10.05 07:14:39 timed out
+10.05 07:14:39 Scanning 739 point from 1104
+10.05 07:14:39 Going to coordinates X=-29.462, Y=-38.855
+10.05 07:14:39 Moving is finished
+10.05 07:14:47 timed out
+10.05 07:14:47 Scanning 740 point from 1104
+10.05 07:14:47 Going to coordinates X=-29.442, Y=-38.855
+10.05 07:14:47 Moving is finished
+10.05 07:14:55 timed out
+10.05 07:14:55 Scanning 741 point from 1104
+10.05 07:14:55 Going to coordinates X=-29.422, Y=-38.855
+10.05 07:14:55 Moving is finished
+10.05 07:15:03 timed out
+10.05 07:15:03 Scanning 742 point from 1104
+10.05 07:15:03 Going to coordinates X=-29.402, Y=-38.855
+10.05 07:15:03 Moving is finished
+10.05 07:15:10 timed out
+10.05 07:15:11 Scanning 743 point from 1104
+10.05 07:15:11 Going to coordinates X=-29.382, Y=-38.855
+10.05 07:15:11 Moving is finished
+10.05 07:15:19 timed out
+10.05 07:15:19 Scanning 744 point from 1104
+10.05 07:15:19 Going to coordinates X=-29.362, Y=-38.855
+10.05 07:15:19 Moving is finished
+10.05 07:15:26 timed out
+10.05 07:15:26 Scanning 745 point from 1104
+10.05 07:15:26 Going to coordinates X=-29.342, Y=-38.855
+10.05 07:15:27 Moving is finished
+10.05 07:15:35 timed out
+10.05 07:15:35 Scanning 746 point from 1104
+10.05 07:15:35 Going to coordinates X=-29.322, Y=-38.855
+10.05 07:15:35 Moving is finished
+10.05 07:15:42 timed out
+10.05 07:15:42 Scanning 747 point from 1104
+10.05 07:15:42 Going to coordinates X=-29.302, Y=-38.855
+10.05 07:15:43 Moving is finished
+10.05 07:15:50 timed out
+10.05 07:15:50 Scanning 748 point from 1104
+10.05 07:15:50 Going to coordinates X=-29.282, Y=-38.855
+10.05 07:15:50 Moving is finished
+10.05 07:15:58 timed out
+10.05 07:15:58 Scanning 749 point from 1104
+10.05 07:15:58 Going to coordinates X=-29.262, Y=-38.855
+10.05 07:15:58 Moving is finished
+10.05 07:16:06 timed out
+10.05 07:16:06 Scanning 750 point from 1104
+10.05 07:16:06 Going to coordinates X=-29.242, Y=-38.855
+10.05 07:16:06 Moving is finished
+10.05 07:16:14 timed out
+10.05 07:16:14 Scanning 751 point from 1104
+10.05 07:16:14 Going to coordinates X=-29.222, Y=-38.855
+10.05 07:16:14 Moving is finished
+10.05 07:16:22 timed out
+10.05 07:16:22 Scanning 752 point from 1104
+10.05 07:16:22 Going to coordinates X=-29.202, Y=-38.855
+10.05 07:16:22 Moving is finished
+10.05 07:16:29 timed out
+10.05 07:16:29 Scanning 753 point from 1104
+10.05 07:16:29 Going to coordinates X=-29.182, Y=-38.855
+10.05 07:16:29 Moving is finished
+10.05 07:16:37 timed out
+10.05 07:16:37 Scanning 754 point from 1104
+10.05 07:16:37 Going to coordinates X=-29.162, Y=-38.855
+10.05 07:16:37 Moving is finished
+10.05 07:16:45 timed out
+10.05 07:16:45 Scanning 755 point from 1104
+10.05 07:16:45 Going to coordinates X=-29.142, Y=-38.855
+10.05 07:16:45 Moving is finished
+10.05 07:16:52 timed out
+10.05 07:16:52 Scanning 756 point from 1104
+10.05 07:16:52 Going to coordinates X=-29.122, Y=-38.855
+10.05 07:16:53 Moving is finished
+10.05 07:17:00 timed out
+10.05 07:17:00 Scanning 757 point from 1104
+10.05 07:17:00 Going to coordinates X=-29.102, Y=-38.855
+10.05 07:17:00 Moving is finished
+10.05 07:17:08 timed out
+10.05 07:17:08 Scanning 758 point from 1104
+10.05 07:17:08 Going to coordinates X=-29.082, Y=-38.855
+10.05 07:17:09 Moving is finished
+10.05 07:17:16 timed out
+10.05 07:17:16 Scanning 759 point from 1104
+10.05 07:17:16 Going to coordinates X=-29.062, Y=-38.855
+10.05 07:17:16 Moving is finished
+10.05 07:17:23 timed out
+10.05 07:17:24 Scanning 760 point from 1104
+10.05 07:17:24 Going to coordinates X=-29.042, Y=-38.855
+10.05 07:17:24 Moving is finished
+10.05 07:17:31 timed out
+10.05 07:17:31 Scanning 761 point from 1104
+10.05 07:17:31 Going to coordinates X=-29.022, Y=-38.855
+10.05 07:17:31 Moving is finished
+10.05 07:17:38 timed out
+10.05 07:17:38 Scanning 762 point from 1104
+10.05 07:17:38 Going to coordinates X=-29.002, Y=-38.855
+10.05 07:17:38 Moving is finished
+10.05 07:17:46 timed out
+10.05 07:17:46 Scanning 763 point from 1104
+10.05 07:17:46 Going to coordinates X=-28.982, Y=-38.855
+10.05 07:17:46 Moving is finished
+10.05 07:17:53 timed out
+10.05 07:17:53 Scanning 764 point from 1104
+10.05 07:17:53 Going to coordinates X=-28.962, Y=-38.855
+10.05 07:17:54 Moving is finished
+10.05 07:18:01 timed out
+10.05 07:18:02 Scanning 765 point from 1104
+10.05 07:18:02 Going to coordinates X=-28.942, Y=-38.855
+10.05 07:18:02 Moving is finished
+10.05 07:18:09 timed out
+10.05 07:18:09 Scanning 766 point from 1104
+10.05 07:18:09 Going to coordinates X=-28.922, Y=-38.855
+10.05 07:18:09 Moving is finished
+10.05 07:18:17 timed out
+10.05 07:18:17 Scanning 767 point from 1104
+10.05 07:18:17 Going to coordinates X=-28.902, Y=-38.855
+10.05 07:18:17 Moving is finished
+10.05 07:18:24 timed out
+10.05 07:18:24 Scanning 768 point from 1104
+10.05 07:18:24 Going to coordinates X=-28.882, Y=-38.855
+10.05 07:18:25 Moving is finished
+10.05 07:18:32 timed out
+10.05 07:18:32 Scanning 769 point from 1104
+10.05 07:18:32 Going to coordinates X=-28.862, Y=-38.855
+10.05 07:18:32 Moving is finished
+10.05 07:18:39 timed out
+10.05 07:18:39 Scanning 770 point from 1104
+10.05 07:18:39 Going to coordinates X=-28.842, Y=-38.855
+10.05 07:18:40 Moving is finished
+10.05 07:18:48 timed out
+10.05 07:18:48 Scanning 771 point from 1104
+10.05 07:18:48 Going to coordinates X=-28.822, Y=-38.855
+10.05 07:18:48 Moving is finished
+10.05 07:18:55 timed out
+10.05 07:18:55 Scanning 772 point from 1104
+10.05 07:18:55 Going to coordinates X=-28.802, Y=-38.855
+10.05 07:18:56 Moving is finished
+10.05 07:19:02 timed out
+10.05 07:19:03 Scanning 773 point from 1104
+10.05 07:19:03 Going to coordinates X=-28.782, Y=-38.855
+10.05 07:19:03 Moving is finished
+10.05 07:19:10 timed out
+10.05 07:19:10 Scanning 774 point from 1104
+10.05 07:19:10 Going to coordinates X=-28.762, Y=-38.855
+10.05 07:19:11 Moving is finished
+10.05 07:19:18 timed out
+10.05 07:19:18 Scanning 775 point from 1104
+10.05 07:19:18 Going to coordinates X=-28.742, Y=-38.855
+10.05 07:19:18 Moving is finished
+10.05 07:19:25 timed out
+10.05 07:19:26 Scanning 776 point from 1104
+10.05 07:19:26 Going to coordinates X=-28.722, Y=-38.855
+10.05 07:19:26 Moving is finished
+10.05 07:19:33 timed out
+10.05 07:19:33 Scanning 777 point from 1104
+10.05 07:19:33 Going to coordinates X=-28.702, Y=-38.855
+10.05 07:19:33 Moving is finished
+10.05 07:19:41 timed out
+10.05 07:19:41 Scanning 778 point from 1104
+10.05 07:19:41 Going to coordinates X=-28.682, Y=-38.855
+10.05 07:19:41 Moving is finished
+10.05 07:19:48 timed out
+10.05 07:19:48 Scanning 779 point from 1104
+10.05 07:19:48 Going to coordinates X=-28.662, Y=-38.855
+10.05 07:19:48 Moving is finished
+10.05 07:19:56 timed out
+10.05 07:19:56 Scanning 780 point from 1104
+10.05 07:19:56 Going to coordinates X=-28.642, Y=-38.855
+10.05 07:19:56 Moving is finished
+10.05 07:20:04 timed out
+10.05 07:20:04 Scanning 781 point from 1104
+10.05 07:20:04 Going to coordinates X=-28.622, Y=-38.855
+10.05 07:20:04 Moving is finished
+10.05 07:20:12 timed out
+10.05 07:20:12 Scanning 782 point from 1104
+10.05 07:20:12 Going to coordinates X=-29.522, Y=-38.835
+10.05 07:20:13 Moving is finished
+10.05 07:20:20 timed out
+10.05 07:20:20 Scanning 783 point from 1104
+10.05 07:20:20 Going to coordinates X=-29.502, Y=-38.835
+10.05 07:20:20 Moving is finished
+10.05 07:20:28 timed out
+10.05 07:20:29 Scanning 784 point from 1104
+10.05 07:20:29 Going to coordinates X=-29.482, Y=-38.835
+10.05 07:20:29 Moving is finished
+10.05 07:20:36 timed out
+10.05 07:20:36 Scanning 785 point from 1104
+10.05 07:20:36 Going to coordinates X=-29.462, Y=-38.835
+10.05 07:20:36 Moving is finished
+10.05 07:20:44 timed out
+10.05 07:20:44 Scanning 786 point from 1104
+10.05 07:20:44 Going to coordinates X=-29.442, Y=-38.835
+10.05 07:20:44 Moving is finished
+10.05 07:20:51 timed out
+10.05 07:20:51 Scanning 787 point from 1104
+10.05 07:20:51 Going to coordinates X=-29.422, Y=-38.835
+10.05 07:20:51 Moving is finished
+10.05 07:20:59 timed out
+10.05 07:20:59 Scanning 788 point from 1104
+10.05 07:20:59 Going to coordinates X=-29.402, Y=-38.835
+10.05 07:20:59 Moving is finished
+10.05 07:21:07 timed out
+10.05 07:21:07 Scanning 789 point from 1104
+10.05 07:21:07 Going to coordinates X=-29.382, Y=-38.835
+10.05 07:21:07 Moving is finished
+10.05 07:21:15 timed out
+10.05 07:21:15 Scanning 790 point from 1104
+10.05 07:21:15 Going to coordinates X=-29.362, Y=-38.835
+10.05 07:21:15 Moving is finished
+10.05 07:21:23 timed out
+10.05 07:21:23 Scanning 791 point from 1104
+10.05 07:21:23 Going to coordinates X=-29.342, Y=-38.835
+10.05 07:21:23 Moving is finished
+10.05 07:21:31 timed out
+10.05 07:21:31 Scanning 792 point from 1104
+10.05 07:21:31 Going to coordinates X=-29.322, Y=-38.835
+10.05 07:21:32 Moving is finished
+10.05 07:21:39 timed out
+10.05 07:21:39 Scanning 793 point from 1104
+10.05 07:21:39 Going to coordinates X=-29.302, Y=-38.835
+10.05 07:21:39 Moving is finished
+10.05 07:21:47 timed out
+10.05 07:21:48 Scanning 794 point from 1104
+10.05 07:21:48 Going to coordinates X=-29.282, Y=-38.835
+10.05 07:21:48 Moving is finished
+10.05 07:21:55 timed out
+10.05 07:21:55 Scanning 795 point from 1104
+10.05 07:21:55 Going to coordinates X=-29.262, Y=-38.835
+10.05 07:21:55 Moving is finished
+10.05 07:22:03 timed out
+10.05 07:22:03 Scanning 796 point from 1104
+10.05 07:22:03 Going to coordinates X=-29.242, Y=-38.835
+10.05 07:22:03 Moving is finished
+10.05 07:22:10 timed out
+10.05 07:22:10 Scanning 797 point from 1104
+10.05 07:22:10 Going to coordinates X=-29.222, Y=-38.835
+10.05 07:22:11 Moving is finished
+10.05 07:22:18 timed out
+10.05 07:22:18 Scanning 798 point from 1104
+10.05 07:22:18 Going to coordinates X=-29.202, Y=-38.835
+10.05 07:22:18 Moving is finished
+10.05 07:22:25 timed out
+10.05 07:22:25 Scanning 799 point from 1104
+10.05 07:22:25 Going to coordinates X=-29.182, Y=-38.835
+10.05 07:22:26 Moving is finished
+10.05 07:22:33 timed out
+10.05 07:22:33 Scanning 800 point from 1104
+10.05 07:22:33 Going to coordinates X=-29.162, Y=-38.835
+10.05 07:22:34 Moving is finished
+10.05 07:22:41 timed out
+10.05 07:22:41 Scanning 801 point from 1104
+10.05 07:22:41 Going to coordinates X=-29.142, Y=-38.835
+10.05 07:22:41 Moving is finished
+10.05 07:22:48 timed out
+10.05 07:22:49 Scanning 802 point from 1104
+10.05 07:22:49 Going to coordinates X=-29.122, Y=-38.835
+10.05 07:22:49 Moving is finished
+10.05 07:22:56 timed out
+10.05 07:22:56 Scanning 803 point from 1104
+10.05 07:22:56 Going to coordinates X=-29.102, Y=-38.835
+10.05 07:22:56 Moving is finished
+10.05 07:23:04 timed out
+10.05 07:23:04 Scanning 804 point from 1104
+10.05 07:23:04 Going to coordinates X=-29.082, Y=-38.835
+10.05 07:23:04 Moving is finished
+10.05 07:23:11 timed out
+10.05 07:23:11 Scanning 805 point from 1104
+10.05 07:23:11 Going to coordinates X=-29.062, Y=-38.835
+10.05 07:23:11 Moving is finished
+10.05 07:23:18 timed out
+10.05 07:23:19 Scanning 806 point from 1104
+10.05 07:23:19 Going to coordinates X=-29.042, Y=-38.835
+10.05 07:23:19 Moving is finished
+10.05 07:23:26 timed out
+10.05 07:23:26 Scanning 807 point from 1104
+10.05 07:23:26 Going to coordinates X=-29.022, Y=-38.835
+10.05 07:23:26 Moving is finished
+10.05 07:23:33 timed out
+10.05 07:23:33 Scanning 808 point from 1104
+10.05 07:23:33 Going to coordinates X=-29.002, Y=-38.835
+10.05 07:23:33 Moving is finished
+10.05 07:23:40 timed out
+10.05 07:23:40 Scanning 809 point from 1104
+10.05 07:23:40 Going to coordinates X=-28.982, Y=-38.835
+10.05 07:23:41 Moving is finished
+10.05 07:23:48 timed out
+10.05 07:23:48 Scanning 810 point from 1104
+10.05 07:23:48 Going to coordinates X=-28.962, Y=-38.835
+10.05 07:23:48 Moving is finished
+10.05 07:23:55 timed out
+10.05 07:23:55 Scanning 811 point from 1104
+10.05 07:23:55 Going to coordinates X=-28.942, Y=-38.835
+10.05 07:23:55 Moving is finished
+10.05 07:24:03 timed out
+10.05 07:24:03 Scanning 812 point from 1104
+10.05 07:24:03 Going to coordinates X=-28.922, Y=-38.835
+10.05 07:24:03 Moving is finished
+10.05 07:24:11 timed out
+10.05 07:24:11 Scanning 813 point from 1104
+10.05 07:24:11 Going to coordinates X=-28.902, Y=-38.835
+10.05 07:24:11 Moving is finished
+10.05 07:24:19 timed out
+10.05 07:24:19 Scanning 814 point from 1104
+10.05 07:24:19 Going to coordinates X=-28.882, Y=-38.835
+10.05 07:24:19 Moving is finished
+10.05 07:24:26 timed out
+10.05 07:24:26 Scanning 815 point from 1104
+10.05 07:24:26 Going to coordinates X=-28.862, Y=-38.835
+10.05 07:24:26 Moving is finished
+10.05 07:24:34 timed out
+10.05 07:24:34 Scanning 816 point from 1104
+10.05 07:24:34 Going to coordinates X=-28.842, Y=-38.835
+10.05 07:24:34 Moving is finished
+10.05 07:24:41 timed out
+10.05 07:24:41 Scanning 817 point from 1104
+10.05 07:24:41 Going to coordinates X=-28.822, Y=-38.835
+10.05 07:24:42 Moving is finished
+10.05 07:24:48 timed out
+10.05 07:24:49 Scanning 818 point from 1104
+10.05 07:24:49 Going to coordinates X=-28.802, Y=-38.835
+10.05 07:24:49 Moving is finished
+10.05 07:24:56 timed out
+10.05 07:24:56 Scanning 819 point from 1104
+10.05 07:24:56 Going to coordinates X=-28.782, Y=-38.835
+10.05 07:24:56 Moving is finished
+10.05 07:25:03 timed out
+10.05 07:25:03 Scanning 820 point from 1104
+10.05 07:25:03 Going to coordinates X=-28.762, Y=-38.835
+10.05 07:25:03 Moving is finished
+10.05 07:25:11 timed out
+10.05 07:25:11 Scanning 821 point from 1104
+10.05 07:25:11 Going to coordinates X=-28.742, Y=-38.835
+10.05 07:25:11 Moving is finished
+10.05 07:25:18 timed out
+10.05 07:25:18 Scanning 822 point from 1104
+10.05 07:25:18 Going to coordinates X=-28.722, Y=-38.835
+10.05 07:25:18 Moving is finished
+10.05 07:25:26 timed out
+10.05 07:25:26 Scanning 823 point from 1104
+10.05 07:25:26 Going to coordinates X=-28.702, Y=-38.835
+10.05 07:25:26 Moving is finished
+10.05 07:25:33 timed out
+10.05 07:25:33 Scanning 824 point from 1104
+10.05 07:25:33 Going to coordinates X=-28.682, Y=-38.835
+10.05 07:25:33 Moving is finished
+10.05 07:25:40 timed out
+10.05 07:25:40 Scanning 825 point from 1104
+10.05 07:25:40 Going to coordinates X=-28.662, Y=-38.835
+10.05 07:25:41 Moving is finished
+10.05 07:25:48 timed out
+10.05 07:25:48 Scanning 826 point from 1104
+10.05 07:25:48 Going to coordinates X=-28.642, Y=-38.835
+10.05 07:25:48 Moving is finished
+10.05 07:25:55 timed out
+10.05 07:25:55 Scanning 827 point from 1104
+10.05 07:25:55 Going to coordinates X=-28.622, Y=-38.835
+10.05 07:25:55 Moving is finished
+10.05 07:26:03 timed out
+10.05 07:26:03 Scanning 828 point from 1104
+10.05 07:26:03 Going to coordinates X=-29.522, Y=-38.815
+10.05 07:26:03 Moving is finished
+10.05 07:26:10 timed out
+10.05 07:26:10 Scanning 829 point from 1104
+10.05 07:26:10 Going to coordinates X=-29.502, Y=-38.815
+10.05 07:26:11 Moving is finished
+10.05 07:26:18 timed out
+10.05 07:26:18 Scanning 830 point from 1104
+10.05 07:26:18 Going to coordinates X=-29.482, Y=-38.815
+10.05 07:26:18 Moving is finished
+10.05 07:26:25 timed out
+10.05 07:26:25 Scanning 831 point from 1104
+10.05 07:26:25 Going to coordinates X=-29.462, Y=-38.815
+10.05 07:26:25 Moving is finished
+10.05 07:26:32 timed out
+10.05 07:26:33 Scanning 832 point from 1104
+10.05 07:26:33 Going to coordinates X=-29.442, Y=-38.815
+10.05 07:26:33 Moving is finished
+10.05 07:26:40 timed out
+10.05 07:26:40 Scanning 833 point from 1104
+10.05 07:26:40 Going to coordinates X=-29.422, Y=-38.815
+10.05 07:26:40 Moving is finished
+10.05 07:26:47 timed out
+10.05 07:26:48 Scanning 834 point from 1104
+10.05 07:26:48 Going to coordinates X=-29.402, Y=-38.815
+10.05 07:26:48 Moving is finished
+10.05 07:26:55 timed out
+10.05 07:26:55 Scanning 835 point from 1104
+10.05 07:26:55 Going to coordinates X=-29.382, Y=-38.815
+10.05 07:26:55 Moving is finished
+10.05 07:27:02 timed out
+10.05 07:27:03 Scanning 836 point from 1104
+10.05 07:27:03 Going to coordinates X=-29.362, Y=-38.815
+10.05 07:27:03 Moving is finished
+10.05 07:27:10 timed out
+10.05 07:27:10 Scanning 837 point from 1104
+10.05 07:27:10 Going to coordinates X=-29.342, Y=-38.815
+10.05 07:27:10 Moving is finished
+10.05 07:27:17 timed out
+10.05 07:27:17 Scanning 838 point from 1104
+10.05 07:27:17 Going to coordinates X=-29.322, Y=-38.815
+10.05 07:27:17 Moving is finished
+10.05 07:27:24 timed out
+10.05 07:27:24 Scanning 839 point from 1104
+10.05 07:27:24 Going to coordinates X=-29.302, Y=-38.815
+10.05 07:27:24 Moving is finished
+10.05 07:27:31 timed out
+10.05 07:27:31 Scanning 840 point from 1104
+10.05 07:27:31 Going to coordinates X=-29.282, Y=-38.815
+10.05 07:27:31 Moving is finished
+10.05 07:27:39 timed out
+10.05 07:27:39 Scanning 841 point from 1104
+10.05 07:27:39 Going to coordinates X=-29.262, Y=-38.815
+10.05 07:27:39 Moving is finished
+10.05 07:27:46 timed out
+10.05 07:27:46 Scanning 842 point from 1104
+10.05 07:27:46 Going to coordinates X=-29.242, Y=-38.815
+10.05 07:27:46 Moving is finished
+10.05 07:27:54 timed out
+10.05 07:27:54 Scanning 843 point from 1104
+10.05 07:27:54 Going to coordinates X=-29.222, Y=-38.815
+10.05 07:27:54 Moving is finished
+10.05 07:28:01 timed out
+10.05 07:28:01 Scanning 844 point from 1104
+10.05 07:28:01 Going to coordinates X=-29.202, Y=-38.815
+10.05 07:28:01 Moving is finished
+10.05 07:28:09 timed out
+10.05 07:28:09 Scanning 845 point from 1104
+10.05 07:28:09 Going to coordinates X=-29.182, Y=-38.815
+10.05 07:28:09 Moving is finished
+10.05 07:28:16 timed out
+10.05 07:28:16 Scanning 846 point from 1104
+10.05 07:28:16 Going to coordinates X=-29.162, Y=-38.815
+10.05 07:28:16 Moving is finished
+10.05 07:28:24 timed out
+10.05 07:28:24 Scanning 847 point from 1104
+10.05 07:28:24 Going to coordinates X=-29.142, Y=-38.815
+10.05 07:28:24 Moving is finished
+10.05 07:28:31 timed out
+10.05 07:28:31 Scanning 848 point from 1104
+10.05 07:28:31 Going to coordinates X=-29.122, Y=-38.815
+10.05 07:28:32 Moving is finished
+10.05 07:28:39 timed out
+10.05 07:28:39 Scanning 849 point from 1104
+10.05 07:28:39 Going to coordinates X=-29.102, Y=-38.815
+10.05 07:28:40 Moving is finished
+10.05 07:28:47 timed out
+10.05 07:28:48 Scanning 850 point from 1104
+10.05 07:28:48 Going to coordinates X=-29.082, Y=-38.815
+10.05 07:28:48 Moving is finished
+10.05 07:28:55 timed out
+10.05 07:28:55 Scanning 851 point from 1104
+10.05 07:28:55 Going to coordinates X=-29.062, Y=-38.815
+10.05 07:28:56 Moving is finished
+10.05 07:29:03 timed out
+10.05 07:29:03 Scanning 852 point from 1104
+10.05 07:29:03 Going to coordinates X=-29.042, Y=-38.815
+10.05 07:29:03 Moving is finished
+10.05 07:29:11 timed out
+10.05 07:29:11 Scanning 853 point from 1104
+10.05 07:29:11 Going to coordinates X=-29.022, Y=-38.815
+10.05 07:29:11 Moving is finished
+10.05 07:29:19 timed out
+10.05 07:29:19 Scanning 854 point from 1104
+10.05 07:29:19 Going to coordinates X=-29.002, Y=-38.815
+10.05 07:29:19 Moving is finished
+10.05 07:29:27 timed out
+10.05 07:29:27 Scanning 855 point from 1104
+10.05 07:29:27 Going to coordinates X=-28.982, Y=-38.815
+10.05 07:29:27 Moving is finished
+10.05 07:29:34 timed out
+10.05 07:29:34 Scanning 856 point from 1104
+10.05 07:29:34 Going to coordinates X=-28.962, Y=-38.815
+10.05 07:29:34 Moving is finished
+10.05 07:29:42 timed out
+10.05 07:29:42 Scanning 857 point from 1104
+10.05 07:29:42 Going to coordinates X=-28.942, Y=-38.815
+10.05 07:29:42 Moving is finished
+10.05 07:29:49 timed out
+10.05 07:29:50 Scanning 858 point from 1104
+10.05 07:29:50 Going to coordinates X=-28.922, Y=-38.815
+10.05 07:29:50 Moving is finished
+10.05 07:29:57 timed out
+10.05 07:29:57 Scanning 859 point from 1104
+10.05 07:29:57 Going to coordinates X=-28.902, Y=-38.815
+10.05 07:29:57 Moving is finished
+10.05 07:30:05 timed out
+10.05 07:30:05 Scanning 860 point from 1104
+10.05 07:30:05 Going to coordinates X=-28.882, Y=-38.815
+10.05 07:30:06 Moving is finished
+10.05 07:30:13 timed out
+10.05 07:30:13 Scanning 861 point from 1104
+10.05 07:30:13 Going to coordinates X=-28.862, Y=-38.815
+10.05 07:30:13 Moving is finished
+10.05 07:30:21 timed out
+10.05 07:30:21 Scanning 862 point from 1104
+10.05 07:30:21 Going to coordinates X=-28.842, Y=-38.815
+10.05 07:30:21 Moving is finished
+10.05 07:30:29 timed out
+10.05 07:30:29 Scanning 863 point from 1104
+10.05 07:30:29 Going to coordinates X=-28.822, Y=-38.815
+10.05 07:30:29 Moving is finished
+10.05 07:30:36 timed out
+10.05 07:30:37 Scanning 864 point from 1104
+10.05 07:30:37 Going to coordinates X=-28.802, Y=-38.815
+10.05 07:30:37 Moving is finished
+10.05 07:30:44 timed out
+10.05 07:30:44 Scanning 865 point from 1104
+10.05 07:30:44 Going to coordinates X=-28.782, Y=-38.815
+10.05 07:30:44 Moving is finished
+10.05 07:30:52 timed out
+10.05 07:30:52 Scanning 866 point from 1104
+10.05 07:30:52 Going to coordinates X=-28.762, Y=-38.815
+10.05 07:30:52 Moving is finished
+10.05 07:31:00 timed out
+10.05 07:31:00 Scanning 867 point from 1104
+10.05 07:31:00 Going to coordinates X=-28.742, Y=-38.815
+10.05 07:31:01 Moving is finished
+10.05 07:31:08 timed out
+10.05 07:31:08 Scanning 868 point from 1104
+10.05 07:31:08 Going to coordinates X=-28.722, Y=-38.815
+10.05 07:31:08 Moving is finished
+10.05 07:31:16 timed out
+10.05 07:31:16 Scanning 869 point from 1104
+10.05 07:31:16 Going to coordinates X=-28.702, Y=-38.815
+10.05 07:31:16 Moving is finished
+10.05 07:31:24 timed out
+10.05 07:31:24 Scanning 870 point from 1104
+10.05 07:31:24 Going to coordinates X=-28.682, Y=-38.815
+10.05 07:31:24 Moving is finished
+10.05 07:31:32 timed out
+10.05 07:31:32 Scanning 871 point from 1104
+10.05 07:31:32 Going to coordinates X=-28.662, Y=-38.815
+10.05 07:31:32 Moving is finished
+10.05 07:31:39 timed out
+10.05 07:31:40 Scanning 872 point from 1104
+10.05 07:31:40 Going to coordinates X=-28.642, Y=-38.815
+10.05 07:31:40 Moving is finished
+10.05 07:31:47 timed out
+10.05 07:31:47 Scanning 873 point from 1104
+10.05 07:31:47 Going to coordinates X=-28.622, Y=-38.815
+10.05 07:31:48 Moving is finished
+10.05 07:31:55 timed out
+10.05 07:31:55 Scanning 874 point from 1104
+10.05 07:31:55 Going to coordinates X=-29.522, Y=-38.795
+10.05 07:31:56 Moving is finished
+10.05 07:32:04 timed out
+10.05 07:32:04 Scanning 875 point from 1104
+10.05 07:32:04 Going to coordinates X=-29.502, Y=-38.795
+10.05 07:32:04 Moving is finished
+10.05 07:32:11 timed out
+10.05 07:32:11 Scanning 876 point from 1104
+10.05 07:32:11 Going to coordinates X=-29.482, Y=-38.795
+10.05 07:32:11 Moving is finished
+10.05 07:32:19 timed out
+10.05 07:32:19 Scanning 877 point from 1104
+10.05 07:32:19 Going to coordinates X=-29.462, Y=-38.795
+10.05 07:32:20 Moving is finished
+10.05 07:32:27 timed out
+10.05 07:32:27 Scanning 878 point from 1104
+10.05 07:32:27 Going to coordinates X=-29.442, Y=-38.795
+10.05 07:32:27 Moving is finished
+10.05 07:32:35 timed out
+10.05 07:32:35 Scanning 879 point from 1104
+10.05 07:32:35 Going to coordinates X=-29.422, Y=-38.795
+10.05 07:32:35 Moving is finished
+10.05 07:32:43 timed out
+10.05 07:32:43 Scanning 880 point from 1104
+10.05 07:32:43 Going to coordinates X=-29.402, Y=-38.795
+10.05 07:32:43 Moving is finished
+10.05 07:32:50 timed out
+10.05 07:32:51 Scanning 881 point from 1104
+10.05 07:32:51 Going to coordinates X=-29.382, Y=-38.795
+10.05 07:32:51 Moving is finished
+10.05 07:32:58 timed out
+10.05 07:32:58 Scanning 882 point from 1104
+10.05 07:32:58 Going to coordinates X=-29.362, Y=-38.795
+10.05 07:32:59 Moving is finished
+10.05 07:33:06 timed out
+10.05 07:33:06 Scanning 883 point from 1104
+10.05 07:33:06 Going to coordinates X=-29.342, Y=-38.795
+10.05 07:33:06 Moving is finished
+10.05 07:33:14 timed out
+10.05 07:33:14 Scanning 884 point from 1104
+10.05 07:33:14 Going to coordinates X=-29.322, Y=-38.795
+10.05 07:33:14 Moving is finished
+10.05 07:33:21 timed out
+10.05 07:33:22 Scanning 885 point from 1104
+10.05 07:33:22 Going to coordinates X=-29.302, Y=-38.795
+10.05 07:33:22 Moving is finished
+10.05 07:33:29 timed out
+10.05 07:33:29 Scanning 886 point from 1104
+10.05 07:33:29 Going to coordinates X=-29.282, Y=-38.795
+10.05 07:33:30 Moving is finished
+10.05 07:33:38 timed out
+10.05 07:33:38 Scanning 887 point from 1104
+10.05 07:33:38 Going to coordinates X=-29.262, Y=-38.795
+10.05 07:33:38 Moving is finished
+10.05 07:33:46 timed out
+10.05 07:33:46 Scanning 888 point from 1104
+10.05 07:33:46 Going to coordinates X=-29.242, Y=-38.795
+10.05 07:33:46 Moving is finished
+10.05 07:33:53 timed out
+10.05 07:33:53 Scanning 889 point from 1104
+10.05 07:33:53 Going to coordinates X=-29.222, Y=-38.795
+10.05 07:33:54 Moving is finished
+10.05 07:34:01 timed out
+10.05 07:34:01 Scanning 890 point from 1104
+10.05 07:34:01 Going to coordinates X=-29.202, Y=-38.795
+10.05 07:34:01 Moving is finished
+10.05 07:34:09 timed out
+10.05 07:34:09 Scanning 891 point from 1104
+10.05 07:34:09 Going to coordinates X=-29.182, Y=-38.795
+10.05 07:34:09 Moving is finished
+10.05 07:34:17 timed out
+10.05 07:34:17 Scanning 892 point from 1104
+10.05 07:34:17 Going to coordinates X=-29.162, Y=-38.795
+10.05 07:34:17 Moving is finished
+10.05 07:34:25 timed out
+10.05 07:34:25 Scanning 893 point from 1104
+10.05 07:34:25 Going to coordinates X=-29.142, Y=-38.795
+10.05 07:34:26 Moving is finished
+10.05 07:34:34 timed out
+10.05 07:34:34 Scanning 894 point from 1104
+10.05 07:34:34 Going to coordinates X=-29.122, Y=-38.795
+10.05 07:34:34 Moving is finished
+10.05 07:34:41 timed out
+10.05 07:34:42 Scanning 895 point from 1104
+10.05 07:34:42 Going to coordinates X=-29.102, Y=-38.795
+10.05 07:34:42 Moving is finished
+10.05 07:34:49 timed out
+10.05 07:34:50 Scanning 896 point from 1104
+10.05 07:34:50 Going to coordinates X=-29.082, Y=-38.795
+10.05 07:34:50 Moving is finished
+10.05 07:34:57 timed out
+10.05 07:34:57 Scanning 897 point from 1104
+10.05 07:34:57 Going to coordinates X=-29.062, Y=-38.795
+10.05 07:34:57 Moving is finished
+10.05 07:35:05 timed out
+10.05 07:35:05 Scanning 898 point from 1104
+10.05 07:35:05 Going to coordinates X=-29.042, Y=-38.795
+10.05 07:35:05 Moving is finished
+10.05 07:35:13 timed out
+10.05 07:35:13 Scanning 899 point from 1104
+10.05 07:35:13 Going to coordinates X=-29.022, Y=-38.795
+10.05 07:35:14 Moving is finished
+10.05 07:35:22 timed out
+10.05 07:35:22 Scanning 900 point from 1104
+10.05 07:35:22 Going to coordinates X=-29.002, Y=-38.795
+10.05 07:35:22 Moving is finished
+10.05 07:35:30 timed out
+10.05 07:35:30 Scanning 901 point from 1104
+10.05 07:35:30 Going to coordinates X=-28.982, Y=-38.795
+10.05 07:35:30 Moving is finished
+10.05 07:35:37 timed out
+10.05 07:35:37 Scanning 902 point from 1104
+10.05 07:35:37 Going to coordinates X=-28.962, Y=-38.795
+10.05 07:35:38 Moving is finished
+10.05 07:35:45 timed out
+10.05 07:35:45 Scanning 903 point from 1104
+10.05 07:35:45 Going to coordinates X=-28.942, Y=-38.795
+10.05 07:35:45 Moving is finished
+10.05 07:35:53 timed out
+10.05 07:35:53 Scanning 904 point from 1104
+10.05 07:35:53 Going to coordinates X=-28.922, Y=-38.795
+10.05 07:35:53 Moving is finished
+10.05 07:36:01 timed out
+10.05 07:36:01 Scanning 905 point from 1104
+10.05 07:36:01 Going to coordinates X=-28.902, Y=-38.795
+10.05 07:36:01 Moving is finished
+10.05 07:36:09 timed out
+10.05 07:36:09 Scanning 906 point from 1104
+10.05 07:36:09 Going to coordinates X=-28.882, Y=-38.795
+10.05 07:36:09 Moving is finished
+10.05 07:36:17 timed out
+10.05 07:36:17 Scanning 907 point from 1104
+10.05 07:36:17 Going to coordinates X=-28.862, Y=-38.795
+10.05 07:36:17 Moving is finished
+10.05 07:36:24 timed out
+10.05 07:36:24 Scanning 908 point from 1104
+10.05 07:36:24 Going to coordinates X=-28.842, Y=-38.795
+10.05 07:36:25 Moving is finished
+10.05 07:36:32 timed out
+10.05 07:36:32 Scanning 909 point from 1104
+10.05 07:36:32 Going to coordinates X=-28.822, Y=-38.795
+10.05 07:36:32 Moving is finished
+10.05 07:36:40 timed out
+10.05 07:36:40 Scanning 910 point from 1104
+10.05 07:36:40 Going to coordinates X=-28.802, Y=-38.795
+10.05 07:36:40 Moving is finished
+10.05 07:36:48 timed out
+10.05 07:36:48 Scanning 911 point from 1104
+10.05 07:36:48 Going to coordinates X=-28.782, Y=-38.795
+10.05 07:36:49 Moving is finished
+10.05 07:36:56 timed out
+10.05 07:36:56 Scanning 912 point from 1104
+10.05 07:36:56 Going to coordinates X=-28.762, Y=-38.795
+10.05 07:36:56 Moving is finished
+10.05 07:37:04 timed out
+10.05 07:37:04 Scanning 913 point from 1104
+10.05 07:37:04 Going to coordinates X=-28.742, Y=-38.795
+10.05 07:37:04 Moving is finished
+10.05 07:37:12 timed out
+10.05 07:37:12 Scanning 914 point from 1104
+10.05 07:37:12 Going to coordinates X=-28.722, Y=-38.795
+10.05 07:37:12 Moving is finished
+10.05 07:37:20 timed out
+10.05 07:37:20 Scanning 915 point from 1104
+10.05 07:37:20 Going to coordinates X=-28.702, Y=-38.795
+10.05 07:37:20 Moving is finished
+10.05 07:37:28 timed out
+10.05 07:37:28 Scanning 916 point from 1104
+10.05 07:37:28 Going to coordinates X=-28.682, Y=-38.795
+10.05 07:37:28 Moving is finished
+10.05 07:37:35 timed out
+10.05 07:37:35 Scanning 917 point from 1104
+10.05 07:37:35 Going to coordinates X=-28.662, Y=-38.795
+10.05 07:37:35 Moving is finished
+10.05 07:37:43 timed out
+10.05 07:37:43 Scanning 918 point from 1104
+10.05 07:37:43 Going to coordinates X=-28.642, Y=-38.795
+10.05 07:37:43 Moving is finished
+10.05 07:37:50 timed out
+10.05 07:37:50 Scanning 919 point from 1104
+10.05 07:37:50 Going to coordinates X=-28.622, Y=-38.795
+10.05 07:37:50 Moving is finished
+10.05 07:37:58 timed out
+10.05 07:37:58 Scanning 920 point from 1104
+10.05 07:37:58 Going to coordinates X=-29.522, Y=-38.775
+10.05 07:37:58 Moving is finished
+10.05 07:38:06 timed out
+10.05 07:38:06 Scanning 921 point from 1104
+10.05 07:38:06 Going to coordinates X=-29.502, Y=-38.775
+10.05 07:38:06 Moving is finished
+10.05 07:38:14 timed out
+10.05 07:38:15 Scanning 922 point from 1104
+10.05 07:38:15 Going to coordinates X=-29.482, Y=-38.775
+10.05 07:38:15 Moving is finished
+10.05 07:38:22 timed out
+10.05 07:38:22 Scanning 923 point from 1104
+10.05 07:38:22 Going to coordinates X=-29.462, Y=-38.775
+10.05 07:38:22 Moving is finished
+10.05 07:38:30 timed out
+10.05 07:38:30 Scanning 924 point from 1104
+10.05 07:38:30 Going to coordinates X=-29.442, Y=-38.775
+10.05 07:38:30 Moving is finished
+10.05 07:38:38 timed out
+10.05 07:38:38 Scanning 925 point from 1104
+10.05 07:38:38 Going to coordinates X=-29.422, Y=-38.775
+10.05 07:38:38 Moving is finished
+10.05 07:38:45 timed out
+10.05 07:38:46 Scanning 926 point from 1104
+10.05 07:38:46 Going to coordinates X=-29.402, Y=-38.775
+10.05 07:38:46 Moving is finished
+10.05 07:38:54 timed out
+10.05 07:38:54 Scanning 927 point from 1104
+10.05 07:38:54 Going to coordinates X=-29.382, Y=-38.775
+10.05 07:38:54 Moving is finished
+10.05 07:39:01 timed out
+10.05 07:39:01 Scanning 928 point from 1104
+10.05 07:39:01 Going to coordinates X=-29.362, Y=-38.775
+10.05 07:39:01 Moving is finished
+10.05 07:39:09 timed out
+10.05 07:39:09 Scanning 929 point from 1104
+10.05 07:39:09 Going to coordinates X=-29.342, Y=-38.775
+10.05 07:39:09 Moving is finished
+10.05 07:39:17 timed out
+10.05 07:39:17 Scanning 930 point from 1104
+10.05 07:39:17 Going to coordinates X=-29.322, Y=-38.775
+10.05 07:39:18 Moving is finished
+10.05 07:39:25 timed out
+10.05 07:39:25 Scanning 931 point from 1104
+10.05 07:39:25 Going to coordinates X=-29.302, Y=-38.775
+10.05 07:39:25 Moving is finished
+10.05 07:39:33 timed out
+10.05 07:39:33 Scanning 932 point from 1104
+10.05 07:39:33 Going to coordinates X=-29.282, Y=-38.775
+10.05 07:39:33 Moving is finished
+10.05 07:39:40 timed out
+10.05 07:39:40 Scanning 933 point from 1104
+10.05 07:39:40 Going to coordinates X=-29.262, Y=-38.775
+10.05 07:39:40 Moving is finished
+10.05 07:39:48 timed out
+10.05 07:39:48 Scanning 934 point from 1104
+10.05 07:39:48 Going to coordinates X=-29.242, Y=-38.775
+10.05 07:39:48 Moving is finished
+10.05 07:39:56 timed out
+10.05 07:39:56 Scanning 935 point from 1104
+10.05 07:39:56 Going to coordinates X=-29.222, Y=-38.775
+10.05 07:39:56 Moving is finished
+10.05 07:40:03 timed out
+10.05 07:40:03 Scanning 936 point from 1104
+10.05 07:40:03 Going to coordinates X=-29.202, Y=-38.775
+10.05 07:40:04 Moving is finished
+10.05 07:40:11 timed out
+10.05 07:40:11 Scanning 937 point from 1104
+10.05 07:40:11 Going to coordinates X=-29.182, Y=-38.775
+10.05 07:40:12 Moving is finished
+10.05 07:40:19 timed out
+10.05 07:40:19 Scanning 938 point from 1104
+10.05 07:40:19 Going to coordinates X=-29.162, Y=-38.775
+10.05 07:40:19 Moving is finished
+10.05 07:40:27 timed out
+10.05 07:40:27 Scanning 939 point from 1104
+10.05 07:40:27 Going to coordinates X=-29.142, Y=-38.775
+10.05 07:40:27 Moving is finished
+10.05 07:40:34 timed out
+10.05 07:40:34 Scanning 940 point from 1104
+10.05 07:40:34 Going to coordinates X=-29.122, Y=-38.775
+10.05 07:40:35 Moving is finished
+10.05 07:40:42 timed out
+10.05 07:40:42 Scanning 941 point from 1104
+10.05 07:40:42 Going to coordinates X=-29.102, Y=-38.775
+10.05 07:40:42 Moving is finished
+10.05 07:40:49 timed out
+10.05 07:40:49 Scanning 942 point from 1104
+10.05 07:40:49 Going to coordinates X=-29.082, Y=-38.775
+10.05 07:40:49 Moving is finished
+10.05 07:40:57 timed out
+10.05 07:40:57 Scanning 943 point from 1104
+10.05 07:40:57 Going to coordinates X=-29.062, Y=-38.775
+10.05 07:40:57 Moving is finished
+10.05 07:41:05 timed out
+10.05 07:41:05 Scanning 944 point from 1104
+10.05 07:41:05 Going to coordinates X=-29.042, Y=-38.775
+10.05 07:41:05 Moving is finished
+10.05 07:41:13 timed out
+10.05 07:41:13 Scanning 945 point from 1104
+10.05 07:41:13 Going to coordinates X=-29.022, Y=-38.775
+10.05 07:41:13 Moving is finished
+10.05 07:41:21 timed out
+10.05 07:41:21 Scanning 946 point from 1104
+10.05 07:41:21 Going to coordinates X=-29.002, Y=-38.775
+10.05 07:41:21 Moving is finished
+10.05 07:41:28 timed out
+10.05 07:41:28 Scanning 947 point from 1104
+10.05 07:41:28 Going to coordinates X=-28.982, Y=-38.775
+10.05 07:41:29 Moving is finished
+10.05 07:41:36 timed out
+10.05 07:41:36 Scanning 948 point from 1104
+10.05 07:41:36 Going to coordinates X=-28.962, Y=-38.775
+10.05 07:41:36 Moving is finished
+10.05 07:41:44 timed out
+10.05 07:41:44 Scanning 949 point from 1104
+10.05 07:41:44 Going to coordinates X=-28.942, Y=-38.775
+10.05 07:41:44 Moving is finished
+10.05 07:41:52 timed out
+10.05 07:41:52 Scanning 950 point from 1104
+10.05 07:41:52 Going to coordinates X=-28.922, Y=-38.775
+10.05 07:41:52 Moving is finished
+10.05 07:41:59 timed out
+10.05 07:41:59 Scanning 951 point from 1104
+10.05 07:41:59 Going to coordinates X=-28.902, Y=-38.775
+10.05 07:41:59 Moving is finished
+10.05 07:42:07 timed out
+10.05 07:42:07 Scanning 952 point from 1104
+10.05 07:42:07 Going to coordinates X=-28.882, Y=-38.775
+10.05 07:42:07 Moving is finished
+10.05 07:42:14 timed out
+10.05 07:42:14 Scanning 953 point from 1104
+10.05 07:42:14 Going to coordinates X=-28.862, Y=-38.775
+10.05 07:42:15 Moving is finished
+10.05 07:42:22 timed out
+10.05 07:42:22 Scanning 954 point from 1104
+10.05 07:42:22 Going to coordinates X=-28.842, Y=-38.775
+10.05 07:42:22 Moving is finished
+10.05 07:42:30 timed out
+10.05 07:42:30 Scanning 955 point from 1104
+10.05 07:42:30 Going to coordinates X=-28.822, Y=-38.775
+10.05 07:42:31 Moving is finished
+10.05 07:42:38 timed out
+10.05 07:42:38 Scanning 956 point from 1104
+10.05 07:42:38 Going to coordinates X=-28.802, Y=-38.775
+10.05 07:42:38 Moving is finished
+10.05 07:42:45 timed out
+10.05 07:42:45 Scanning 957 point from 1104
+10.05 07:42:45 Going to coordinates X=-28.782, Y=-38.775
+10.05 07:42:45 Moving is finished
+10.05 07:42:53 timed out
+10.05 07:42:53 Scanning 958 point from 1104
+10.05 07:42:53 Going to coordinates X=-28.762, Y=-38.775
+10.05 07:42:53 Moving is finished
+10.05 07:43:01 timed out
+10.05 07:43:01 Scanning 959 point from 1104
+10.05 07:43:01 Going to coordinates X=-28.742, Y=-38.775
+10.05 07:43:01 Moving is finished
+10.05 07:43:09 timed out
+10.05 07:43:09 Scanning 960 point from 1104
+10.05 07:43:09 Going to coordinates X=-28.722, Y=-38.775
+10.05 07:43:09 Moving is finished
+10.05 07:43:16 timed out
+10.05 07:43:16 Scanning 961 point from 1104
+10.05 07:43:16 Going to coordinates X=-28.702, Y=-38.775
+10.05 07:43:16 Moving is finished
+10.05 07:43:23 timed out
+10.05 07:43:23 Scanning 962 point from 1104
+10.05 07:43:23 Going to coordinates X=-28.682, Y=-38.775
+10.05 07:43:24 Moving is finished
+10.05 07:43:31 timed out
+10.05 07:43:31 Scanning 963 point from 1104
+10.05 07:43:31 Going to coordinates X=-28.662, Y=-38.775
+10.05 07:43:31 Moving is finished
+10.05 07:43:39 timed out
+10.05 07:43:39 Scanning 964 point from 1104
+10.05 07:43:39 Going to coordinates X=-28.642, Y=-38.775
+10.05 07:43:39 Moving is finished
+10.05 07:43:47 timed out
+10.05 07:43:47 Scanning 965 point from 1104
+10.05 07:43:47 Going to coordinates X=-28.622, Y=-38.775
+10.05 07:43:47 Moving is finished
+10.05 07:43:54 timed out
+10.05 07:43:54 Scanning 966 point from 1104
+10.05 07:43:54 Going to coordinates X=-29.522, Y=-38.755
+10.05 07:43:55 Moving is finished
+10.05 07:44:03 timed out
+10.05 07:44:03 Scanning 967 point from 1104
+10.05 07:44:03 Going to coordinates X=-29.502, Y=-38.755
+10.05 07:44:03 Moving is finished
+10.05 07:44:11 timed out
+10.05 07:44:11 Scanning 968 point from 1104
+10.05 07:44:11 Going to coordinates X=-29.482, Y=-38.755
+10.05 07:44:12 Moving is finished
+10.05 07:44:19 timed out
+10.05 07:44:20 Scanning 969 point from 1104
+10.05 07:44:20 Going to coordinates X=-29.462, Y=-38.755
+10.05 07:44:20 Moving is finished
+10.05 07:44:28 timed out
+10.05 07:44:28 Scanning 970 point from 1104
+10.05 07:44:28 Going to coordinates X=-29.442, Y=-38.755
+10.05 07:44:28 Moving is finished
+10.05 07:44:36 timed out
+10.05 07:44:36 Scanning 971 point from 1104
+10.05 07:44:36 Going to coordinates X=-29.422, Y=-38.755
+10.05 07:44:36 Moving is finished
+10.05 07:44:44 timed out
+10.05 07:44:44 Scanning 972 point from 1104
+10.05 07:44:44 Going to coordinates X=-29.402, Y=-38.755
+10.05 07:44:44 Moving is finished
+10.05 07:44:52 timed out
+10.05 07:44:52 Scanning 973 point from 1104
+10.05 07:44:52 Going to coordinates X=-29.382, Y=-38.755
+10.05 07:44:52 Moving is finished
+10.05 07:45:00 timed out
+10.05 07:45:00 Scanning 974 point from 1104
+10.05 07:45:00 Going to coordinates X=-29.362, Y=-38.755
+10.05 07:45:00 Moving is finished
+10.05 07:45:08 timed out
+10.05 07:45:08 Scanning 975 point from 1104
+10.05 07:45:08 Going to coordinates X=-29.342, Y=-38.755
+10.05 07:45:08 Moving is finished
+10.05 07:45:16 timed out
+10.05 07:45:16 Scanning 976 point from 1104
+10.05 07:45:16 Going to coordinates X=-29.322, Y=-38.755
+10.05 07:45:16 Moving is finished
+10.05 07:45:24 timed out
+10.05 07:45:24 Scanning 977 point from 1104
+10.05 07:45:24 Going to coordinates X=-29.302, Y=-38.755
+10.05 07:45:24 Moving is finished
+10.05 07:45:31 timed out
+10.05 07:45:31 Scanning 978 point from 1104
+10.05 07:45:31 Going to coordinates X=-29.282, Y=-38.755
+10.05 07:45:31 Moving is finished
+10.05 07:45:40 timed out
+10.05 07:45:40 Scanning 979 point from 1104
+10.05 07:45:40 Going to coordinates X=-29.262, Y=-38.755
+10.05 07:45:40 Moving is finished
+10.05 07:45:48 timed out
+10.05 07:45:49 Scanning 980 point from 1104
+10.05 07:45:49 Going to coordinates X=-29.242, Y=-38.755
+10.05 07:45:49 Moving is finished
+10.05 07:45:56 timed out
+10.05 07:45:56 Scanning 981 point from 1104
+10.05 07:45:56 Going to coordinates X=-29.222, Y=-38.755
+10.05 07:45:56 Moving is finished
+10.05 07:46:03 timed out
+10.05 07:46:03 Scanning 982 point from 1104
+10.05 07:46:03 Going to coordinates X=-29.202, Y=-38.755
+10.05 07:46:04 Moving is finished
+10.05 07:46:11 timed out
+10.05 07:46:11 Scanning 983 point from 1104
+10.05 07:46:11 Going to coordinates X=-29.182, Y=-38.755
+10.05 07:46:11 Moving is finished
+10.05 07:46:18 timed out
+10.05 07:46:18 Scanning 984 point from 1104
+10.05 07:46:18 Going to coordinates X=-29.162, Y=-38.755
+10.05 07:46:18 Moving is finished
+10.05 07:46:25 timed out
+10.05 07:46:25 Scanning 985 point from 1104
+10.05 07:46:25 Going to coordinates X=-29.142, Y=-38.755
+10.05 07:46:26 Moving is finished
+10.05 07:46:33 timed out
+10.05 07:46:33 Scanning 986 point from 1104
+10.05 07:46:33 Going to coordinates X=-29.122, Y=-38.755
+10.05 07:46:33 Moving is finished
+10.05 07:46:40 timed out
+10.05 07:46:40 Scanning 987 point from 1104
+10.05 07:46:40 Going to coordinates X=-29.102, Y=-38.755
+10.05 07:46:40 Moving is finished
+10.05 07:46:48 timed out
+10.05 07:46:48 Scanning 988 point from 1104
+10.05 07:46:48 Going to coordinates X=-29.082, Y=-38.755
+10.05 07:46:48 Moving is finished
+10.05 07:46:57 timed out
+10.05 07:46:57 Scanning 989 point from 1104
+10.05 07:46:57 Going to coordinates X=-29.062, Y=-38.755
+10.05 07:46:57 Moving is finished
+10.05 07:47:04 timed out
+10.05 07:47:04 Scanning 990 point from 1104
+10.05 07:47:04 Going to coordinates X=-29.042, Y=-38.755
+10.05 07:47:04 Moving is finished
+10.05 07:47:12 timed out
+10.05 07:47:12 Scanning 991 point from 1104
+10.05 07:47:12 Going to coordinates X=-29.022, Y=-38.755
+10.05 07:47:12 Moving is finished
+10.05 07:47:21 timed out
+10.05 07:47:21 Scanning 992 point from 1104
+10.05 07:47:21 Going to coordinates X=-29.002, Y=-38.755
+10.05 07:47:21 Moving is finished
+10.05 07:47:28 timed out
+10.05 07:47:28 Scanning 993 point from 1104
+10.05 07:47:28 Going to coordinates X=-28.982, Y=-38.755
+10.05 07:47:28 Moving is finished
+10.05 07:47:36 timed out
+10.05 07:47:36 Scanning 994 point from 1104
+10.05 07:47:36 Going to coordinates X=-28.962, Y=-38.755
+10.05 07:47:37 Moving is finished
+10.05 07:47:45 timed out
+10.05 07:47:45 Scanning 995 point from 1104
+10.05 07:47:45 Going to coordinates X=-28.942, Y=-38.755
+10.05 07:47:45 Moving is finished
+10.05 07:47:53 timed out
+10.05 07:47:53 Scanning 996 point from 1104
+10.05 07:47:53 Going to coordinates X=-28.922, Y=-38.755
+10.05 07:47:53 Moving is finished
+10.05 07:48:01 timed out
+10.05 07:48:01 Scanning 997 point from 1104
+10.05 07:48:01 Going to coordinates X=-28.902, Y=-38.755
+10.05 07:48:01 Moving is finished
+10.05 07:48:09 timed out
+10.05 07:48:09 Scanning 998 point from 1104
+10.05 07:48:09 Going to coordinates X=-28.882, Y=-38.755
+10.05 07:48:09 Moving is finished
+10.05 07:48:17 timed out
+10.05 07:48:17 Scanning 999 point from 1104
+10.05 07:48:17 Going to coordinates X=-28.862, Y=-38.755
+10.05 07:48:17 Moving is finished
+10.05 07:48:24 timed out
+10.05 07:48:24 Scanning 1000 point from 1104
+10.05 07:48:24 Going to coordinates X=-28.842, Y=-38.755
+10.05 07:48:24 Moving is finished
+10.05 07:48:31 timed out
+10.05 07:48:32 Scanning 1001 point from 1104
+10.05 07:48:32 Going to coordinates X=-28.822, Y=-38.755
+10.05 07:48:32 Moving is finished
+10.05 07:48:39 timed out
+10.05 07:48:39 Scanning 1002 point from 1104
+10.05 07:48:39 Going to coordinates X=-28.802, Y=-38.755
+10.05 07:48:39 Moving is finished
+10.05 07:48:47 timed out
+10.05 07:48:47 Scanning 1003 point from 1104
+10.05 07:48:47 Going to coordinates X=-28.782, Y=-38.755
+10.05 07:48:47 Moving is finished
+10.05 07:48:54 timed out
+10.05 07:48:54 Scanning 1004 point from 1104
+10.05 07:48:54 Going to coordinates X=-28.762, Y=-38.755
+10.05 07:48:55 Moving is finished
+10.05 07:49:02 timed out
+10.05 07:49:02 Scanning 1005 point from 1104
+10.05 07:49:02 Going to coordinates X=-28.742, Y=-38.755
+10.05 07:49:02 Moving is finished
+10.05 07:49:10 timed out
+10.05 07:49:10 Scanning 1006 point from 1104
+10.05 07:49:10 Going to coordinates X=-28.722, Y=-38.755
+10.05 07:49:10 Moving is finished
+10.05 07:49:18 timed out
+10.05 07:49:18 Scanning 1007 point from 1104
+10.05 07:49:18 Going to coordinates X=-28.702, Y=-38.755
+10.05 07:49:18 Moving is finished
+10.05 07:49:26 timed out
+10.05 07:49:26 Scanning 1008 point from 1104
+10.05 07:49:26 Going to coordinates X=-28.682, Y=-38.755
+10.05 07:49:26 Moving is finished
+10.05 07:49:33 timed out
+10.05 07:49:34 Scanning 1009 point from 1104
+10.05 07:49:34 Going to coordinates X=-28.662, Y=-38.755
+10.05 07:49:34 Moving is finished
+10.05 07:49:41 timed out
+10.05 07:49:41 Scanning 1010 point from 1104
+10.05 07:49:41 Going to coordinates X=-28.642, Y=-38.755
+10.05 07:49:42 Moving is finished
+10.05 07:49:49 timed out
+10.05 07:49:49 Scanning 1011 point from 1104
+10.05 07:49:49 Going to coordinates X=-28.622, Y=-38.755
+10.05 07:49:49 Moving is finished
+10.05 07:49:58 timed out
+10.05 07:49:58 Scanning 1012 point from 1104
+10.05 07:49:58 Going to coordinates X=-29.522, Y=-38.735
+10.05 07:49:58 Moving is finished
+10.05 07:50:06 timed out
+10.05 07:50:06 Scanning 1013 point from 1104
+10.05 07:50:06 Going to coordinates X=-29.502, Y=-38.735
+10.05 07:50:06 Moving is finished
+10.05 07:50:14 timed out
+10.05 07:50:15 Scanning 1014 point from 1104
+10.05 07:50:15 Going to coordinates X=-29.482, Y=-38.735
+10.05 07:50:15 Moving is finished
+10.05 07:50:23 timed out
+10.05 07:50:23 Scanning 1015 point from 1104
+10.05 07:50:23 Going to coordinates X=-29.462, Y=-38.735
+10.05 07:50:23 Moving is finished
+10.05 07:50:31 timed out
+10.05 07:50:31 Scanning 1016 point from 1104
+10.05 07:50:31 Going to coordinates X=-29.442, Y=-38.735
+10.05 07:50:31 Moving is finished
+10.05 07:50:38 timed out
+10.05 07:50:39 Scanning 1017 point from 1104
+10.05 07:50:39 Going to coordinates X=-29.422, Y=-38.735
+10.05 07:50:39 Moving is finished
+10.05 07:50:46 timed out
+10.05 07:50:46 Scanning 1018 point from 1104
+10.05 07:50:46 Going to coordinates X=-29.402, Y=-38.735
+10.05 07:50:47 Moving is finished
+10.05 07:50:54 timed out
+10.05 07:50:55 Scanning 1019 point from 1104
+10.05 07:50:55 Going to coordinates X=-29.382, Y=-38.735
+10.05 07:50:55 Moving is finished
+10.05 07:51:02 timed out
+10.05 07:51:02 Scanning 1020 point from 1104
+10.05 07:51:02 Going to coordinates X=-29.362, Y=-38.735
+10.05 07:51:02 Moving is finished
+10.05 07:51:10 timed out
+10.05 07:51:10 Scanning 1021 point from 1104
+10.05 07:51:10 Going to coordinates X=-29.342, Y=-38.735
+10.05 07:51:10 Moving is finished
+10.05 07:51:18 timed out
+10.05 07:51:18 Scanning 1022 point from 1104
+10.05 07:51:18 Going to coordinates X=-29.322, Y=-38.735
+10.05 07:51:18 Moving is finished
+10.05 07:51:26 timed out
+10.05 07:51:26 Scanning 1023 point from 1104
+10.05 07:51:26 Going to coordinates X=-29.302, Y=-38.735
+10.05 07:51:26 Moving is finished
+10.05 07:51:34 timed out
+10.05 07:51:34 Scanning 1024 point from 1104
+10.05 07:51:34 Going to coordinates X=-29.282, Y=-38.735
+10.05 07:51:34 Moving is finished
+10.05 07:51:42 timed out
+10.05 07:51:42 Scanning 1025 point from 1104
+10.05 07:51:42 Going to coordinates X=-29.262, Y=-38.735
+10.05 07:51:42 Moving is finished
+10.05 07:51:50 timed out
+10.05 07:51:51 Scanning 1026 point from 1104
+10.05 07:51:51 Going to coordinates X=-29.242, Y=-38.735
+10.05 07:51:51 Moving is finished
+10.05 07:51:59 timed out
+10.05 07:51:59 Scanning 1027 point from 1104
+10.05 07:51:59 Going to coordinates X=-29.222, Y=-38.735
+10.05 07:51:59 Moving is finished
+10.05 07:52:06 timed out
+10.05 07:52:06 Scanning 1028 point from 1104
+10.05 07:52:06 Going to coordinates X=-29.202, Y=-38.735
+10.05 07:52:06 Moving is finished
+10.05 07:52:14 timed out
+10.05 07:52:14 Scanning 1029 point from 1104
+10.05 07:52:14 Going to coordinates X=-29.182, Y=-38.735
+10.05 07:52:14 Moving is finished
+10.05 07:52:22 timed out
+10.05 07:52:22 Scanning 1030 point from 1104
+10.05 07:52:22 Going to coordinates X=-29.162, Y=-38.735
+10.05 07:52:22 Moving is finished
+10.05 07:52:30 timed out
+10.05 07:52:30 Scanning 1031 point from 1104
+10.05 07:52:30 Going to coordinates X=-29.142, Y=-38.735
+10.05 07:52:30 Moving is finished
+10.05 07:52:38 timed out
+10.05 07:52:38 Scanning 1032 point from 1104
+10.05 07:52:38 Going to coordinates X=-29.122, Y=-38.735
+10.05 07:52:38 Moving is finished
+10.05 07:52:46 timed out
+10.05 07:52:46 Scanning 1033 point from 1104
+10.05 07:52:46 Going to coordinates X=-29.102, Y=-38.735
+10.05 07:52:46 Moving is finished
+10.05 07:52:54 timed out
+10.05 07:52:54 Scanning 1034 point from 1104
+10.05 07:52:54 Going to coordinates X=-29.082, Y=-38.735
+10.05 07:52:55 Moving is finished
+10.05 07:53:02 timed out
+10.05 07:53:02 Scanning 1035 point from 1104
+10.05 07:53:02 Going to coordinates X=-29.062, Y=-38.735
+10.05 07:53:02 Moving is finished
+10.05 07:53:09 timed out
+10.05 07:53:10 Scanning 1036 point from 1104
+10.05 07:53:10 Going to coordinates X=-29.042, Y=-38.735
+10.05 07:53:10 Moving is finished
+10.05 07:53:17 timed out
+10.05 07:53:17 Scanning 1037 point from 1104
+10.05 07:53:17 Going to coordinates X=-29.022, Y=-38.735
+10.05 07:53:17 Moving is finished
+10.05 07:53:24 timed out
+10.05 07:53:24 Scanning 1038 point from 1104
+10.05 07:53:24 Going to coordinates X=-29.002, Y=-38.735
+10.05 07:53:24 Moving is finished
+10.05 07:53:32 timed out
+10.05 07:53:32 Scanning 1039 point from 1104
+10.05 07:53:32 Going to coordinates X=-28.982, Y=-38.735
+10.05 07:53:32 Moving is finished
+10.05 07:53:39 timed out
+10.05 07:53:39 Scanning 1040 point from 1104
+10.05 07:53:39 Going to coordinates X=-28.962, Y=-38.735
+10.05 07:53:39 Moving is finished
+10.05 07:53:46 timed out
+10.05 07:53:46 Scanning 1041 point from 1104
+10.05 07:53:46 Going to coordinates X=-28.942, Y=-38.735
+10.05 07:53:46 Moving is finished
+10.05 07:53:54 timed out
+10.05 07:53:54 Scanning 1042 point from 1104
+10.05 07:53:54 Going to coordinates X=-28.922, Y=-38.735
+10.05 07:53:54 Moving is finished
+10.05 07:54:02 timed out
+10.05 07:54:02 Scanning 1043 point from 1104
+10.05 07:54:02 Going to coordinates X=-28.902, Y=-38.735
+10.05 07:54:02 Moving is finished
+10.05 07:54:10 timed out
+10.05 07:54:10 Scanning 1044 point from 1104
+10.05 07:54:10 Going to coordinates X=-28.882, Y=-38.735
+10.05 07:54:10 Moving is finished
+10.05 07:54:17 timed out
+10.05 07:54:18 Scanning 1045 point from 1104
+10.05 07:54:18 Going to coordinates X=-28.862, Y=-38.735
+10.05 07:54:18 Moving is finished
+10.05 07:54:26 timed out
+10.05 07:54:26 Scanning 1046 point from 1104
+10.05 07:54:26 Going to coordinates X=-28.842, Y=-38.735
+10.05 07:54:26 Moving is finished
+10.05 07:54:34 timed out
+10.05 07:54:34 Scanning 1047 point from 1104
+10.05 07:54:34 Going to coordinates X=-28.822, Y=-38.735
+10.05 07:54:35 Moving is finished
+10.05 07:54:43 timed out
+10.05 07:54:43 Scanning 1048 point from 1104
+10.05 07:54:43 Going to coordinates X=-28.802, Y=-38.735
+10.05 07:54:43 Moving is finished
+10.05 07:54:51 timed out
+10.05 07:54:51 Scanning 1049 point from 1104
+10.05 07:54:51 Going to coordinates X=-28.782, Y=-38.735
+10.05 07:54:51 Moving is finished
+10.05 07:54:59 timed out
+10.05 07:54:59 Scanning 1050 point from 1104
+10.05 07:54:59 Going to coordinates X=-28.762, Y=-38.735
+10.05 07:54:59 Moving is finished
+10.05 07:55:07 timed out
+10.05 07:55:07 Scanning 1051 point from 1104
+10.05 07:55:07 Going to coordinates X=-28.742, Y=-38.735
+10.05 07:55:07 Moving is finished
+10.05 07:55:15 timed out
+10.05 07:55:15 Scanning 1052 point from 1104
+10.05 07:55:15 Going to coordinates X=-28.722, Y=-38.735
+10.05 07:55:16 Moving is finished
+10.05 07:55:23 timed out
+10.05 07:55:24 Scanning 1053 point from 1104
+10.05 07:55:24 Going to coordinates X=-28.702, Y=-38.735
+10.05 07:55:24 Moving is finished
+10.05 07:55:32 timed out
+10.05 07:55:32 Scanning 1054 point from 1104
+10.05 07:55:32 Going to coordinates X=-28.682, Y=-38.735
+10.05 07:55:32 Moving is finished
+10.05 07:55:39 timed out
+10.05 07:55:40 Scanning 1055 point from 1104
+10.05 07:55:40 Going to coordinates X=-28.662, Y=-38.735
+10.05 07:55:40 Moving is finished
+10.05 07:55:47 timed out
+10.05 07:55:47 Scanning 1056 point from 1104
+10.05 07:55:47 Going to coordinates X=-28.642, Y=-38.735
+10.05 07:55:47 Moving is finished
+10.05 07:55:55 timed out
+10.05 07:55:55 Scanning 1057 point from 1104
+10.05 07:55:55 Going to coordinates X=-28.622, Y=-38.735
+10.05 07:55:55 Moving is finished
+10.05 07:56:03 timed out
+10.05 07:56:03 Scanning 1058 point from 1104
+10.05 07:56:03 Going to coordinates X=-29.522, Y=-38.715
+10.05 07:56:04 Moving is finished
+10.05 07:56:11 timed out
+10.05 07:56:11 Scanning 1059 point from 1104
+10.05 07:56:11 Going to coordinates X=-29.502, Y=-38.715
+10.05 07:56:11 Moving is finished
+10.05 07:56:19 timed out
+10.05 07:56:19 Scanning 1060 point from 1104
+10.05 07:56:19 Going to coordinates X=-29.482, Y=-38.715
+10.05 07:56:19 Moving is finished
+10.05 07:56:27 timed out
+10.05 07:56:27 Scanning 1061 point from 1104
+10.05 07:56:27 Going to coordinates X=-29.462, Y=-38.715
+10.05 07:56:27 Moving is finished
+10.05 07:56:35 timed out
+10.05 07:56:35 Scanning 1062 point from 1104
+10.05 07:56:35 Going to coordinates X=-29.442, Y=-38.715
+10.05 07:56:35 Moving is finished
+10.05 07:56:43 timed out
+10.05 07:56:44 Scanning 1063 point from 1104
+10.05 07:56:44 Going to coordinates X=-29.422, Y=-38.715
+10.05 07:56:44 Moving is finished
+10.05 07:56:51 timed out
+10.05 07:56:51 Scanning 1064 point from 1104
+10.05 07:56:51 Going to coordinates X=-29.402, Y=-38.715
+10.05 07:56:52 Moving is finished
+10.05 07:57:00 timed out
+10.05 07:57:00 Scanning 1065 point from 1104
+10.05 07:57:00 Going to coordinates X=-29.382, Y=-38.715
+10.05 07:57:00 Moving is finished
+10.05 07:57:07 timed out
+10.05 07:57:08 Scanning 1066 point from 1104
+10.05 07:57:08 Going to coordinates X=-29.362, Y=-38.715
+10.05 07:57:08 Moving is finished
+10.05 07:57:15 timed out
+10.05 07:57:15 Scanning 1067 point from 1104
+10.05 07:57:15 Going to coordinates X=-29.342, Y=-38.715
+10.05 07:57:16 Moving is finished
+10.05 07:57:23 timed out
+10.05 07:57:23 Scanning 1068 point from 1104
+10.05 07:57:23 Going to coordinates X=-29.322, Y=-38.715
+10.05 07:57:23 Moving is finished
+10.05 07:57:31 timed out
+10.05 07:57:31 Scanning 1069 point from 1104
+10.05 07:57:31 Going to coordinates X=-29.302, Y=-38.715
+10.05 07:57:31 Moving is finished
+10.05 07:57:39 timed out
+10.05 07:57:39 Scanning 1070 point from 1104
+10.05 07:57:39 Going to coordinates X=-29.282, Y=-38.715
+10.05 07:57:39 Moving is finished
+10.05 07:57:47 timed out
+10.05 07:57:47 Scanning 1071 point from 1104
+10.05 07:57:47 Going to coordinates X=-29.262, Y=-38.715
+10.05 07:57:47 Moving is finished
+10.05 07:57:55 timed out
+10.05 07:57:55 Scanning 1072 point from 1104
+10.05 07:57:55 Going to coordinates X=-29.242, Y=-38.715
+10.05 07:57:55 Moving is finished
+10.05 07:58:03 timed out
+10.05 07:58:03 Scanning 1073 point from 1104
+10.05 07:58:03 Going to coordinates X=-29.222, Y=-38.715
+10.05 07:58:03 Moving is finished
+10.05 07:58:11 timed out
+10.05 07:58:12 Scanning 1074 point from 1104
+10.05 07:58:12 Going to coordinates X=-29.202, Y=-38.715
+10.05 07:58:12 Moving is finished
+10.05 07:58:20 timed out
+10.05 07:58:20 Scanning 1075 point from 1104
+10.05 07:58:20 Going to coordinates X=-29.182, Y=-38.715
+10.05 07:58:20 Moving is finished
+10.05 07:58:28 timed out
+10.05 07:58:28 Scanning 1076 point from 1104
+10.05 07:58:28 Going to coordinates X=-29.162, Y=-38.715
+10.05 07:58:28 Moving is finished
+10.05 07:58:36 timed out
+10.05 07:58:36 Scanning 1077 point from 1104
+10.05 07:58:36 Going to coordinates X=-29.142, Y=-38.715
+10.05 07:58:36 Moving is finished
+10.05 07:58:44 timed out
+10.05 07:58:44 Scanning 1078 point from 1104
+10.05 07:58:44 Going to coordinates X=-29.122, Y=-38.715
+10.05 07:58:44 Moving is finished
+10.05 07:58:51 timed out
+10.05 07:58:51 Scanning 1079 point from 1104
+10.05 07:58:51 Going to coordinates X=-29.102, Y=-38.715
+10.05 07:58:51 Moving is finished
+10.05 07:58:59 timed out
+10.05 07:58:59 Scanning 1080 point from 1104
+10.05 07:58:59 Going to coordinates X=-29.082, Y=-38.715
+10.05 07:59:00 Moving is finished
+10.05 07:59:07 timed out
+10.05 07:59:07 Scanning 1081 point from 1104
+10.05 07:59:07 Going to coordinates X=-29.062, Y=-38.715
+10.05 07:59:07 Moving is finished
+10.05 07:59:15 timed out
+10.05 07:59:15 Scanning 1082 point from 1104
+10.05 07:59:15 Going to coordinates X=-29.042, Y=-38.715
+10.05 07:59:15 Moving is finished
+10.05 07:59:23 timed out
+10.05 07:59:23 Scanning 1083 point from 1104
+10.05 07:59:23 Going to coordinates X=-29.022, Y=-38.715
+10.05 07:59:23 Moving is finished
+10.05 07:59:31 timed out
+10.05 07:59:31 Scanning 1084 point from 1104
+10.05 07:59:31 Going to coordinates X=-29.002, Y=-38.715
+10.05 07:59:31 Moving is finished
+10.05 07:59:39 timed out
+10.05 07:59:39 Scanning 1085 point from 1104
+10.05 07:59:39 Going to coordinates X=-28.982, Y=-38.715
+10.05 07:59:39 Moving is finished
+10.05 07:59:47 timed out
+10.05 07:59:47 Scanning 1086 point from 1104
+10.05 07:59:47 Going to coordinates X=-28.962, Y=-38.715
+10.05 07:59:47 Moving is finished
+10.05 07:59:55 timed out
+10.05 07:59:55 Scanning 1087 point from 1104
+10.05 07:59:55 Going to coordinates X=-28.942, Y=-38.715
+10.05 07:59:55 Moving is finished
+10.05 08:00:03 timed out
+10.05 08:00:03 Scanning 1088 point from 1104
+10.05 08:00:03 Going to coordinates X=-28.922, Y=-38.715
+10.05 08:00:03 Moving is finished
+10.05 08:00:11 timed out
+10.05 08:00:11 Scanning 1089 point from 1104
+10.05 08:00:11 Going to coordinates X=-28.902, Y=-38.715
+10.05 08:00:11 Moving is finished
+10.05 08:00:19 timed out
+10.05 08:00:19 Scanning 1090 point from 1104
+10.05 08:00:19 Going to coordinates X=-28.882, Y=-38.715
+10.05 08:00:19 Moving is finished
+10.05 08:00:26 timed out
+10.05 08:00:27 Scanning 1091 point from 1104
+10.05 08:00:27 Going to coordinates X=-28.862, Y=-38.715
+10.05 08:00:27 Moving is finished
+10.05 08:00:35 timed out
+10.05 08:00:35 Scanning 1092 point from 1104
+10.05 08:00:35 Going to coordinates X=-28.842, Y=-38.715
+10.05 08:00:35 Moving is finished
+10.05 08:00:43 timed out
+10.05 08:00:43 Scanning 1093 point from 1104
+10.05 08:00:43 Going to coordinates X=-28.822, Y=-38.715
+10.05 08:00:43 Moving is finished
+10.05 08:00:51 timed out
+10.05 08:00:51 Scanning 1094 point from 1104
+10.05 08:00:51 Going to coordinates X=-28.802, Y=-38.715
+10.05 08:00:51 Moving is finished
+10.05 08:00:59 timed out
+10.05 08:00:59 Scanning 1095 point from 1104
+10.05 08:00:59 Going to coordinates X=-28.782, Y=-38.715
+10.05 08:00:59 Moving is finished
+10.05 08:01:07 timed out
+10.05 08:01:08 Scanning 1096 point from 1104
+10.05 08:01:08 Going to coordinates X=-28.762, Y=-38.715
+10.05 08:01:08 Moving is finished
+10.05 08:01:16 timed out
+10.05 08:01:16 Scanning 1097 point from 1104
+10.05 08:01:16 Going to coordinates X=-28.742, Y=-38.715
+10.05 08:01:16 Moving is finished
+10.05 08:01:24 timed out
+10.05 08:01:24 Scanning 1098 point from 1104
+10.05 08:01:24 Going to coordinates X=-28.722, Y=-38.715
+10.05 08:01:24 Moving is finished
+10.05 08:01:32 timed out
+10.05 08:01:32 Scanning 1099 point from 1104
+10.05 08:01:32 Going to coordinates X=-28.702, Y=-38.715
+10.05 08:01:32 Moving is finished
+10.05 08:01:40 timed out
+10.05 08:01:40 Scanning 1100 point from 1104
+10.05 08:01:40 Going to coordinates X=-28.682, Y=-38.715
+10.05 08:01:40 Moving is finished
+10.05 08:01:48 timed out
+10.05 08:01:48 Scanning 1101 point from 1104
+10.05 08:01:48 Going to coordinates X=-28.662, Y=-38.715
+10.05 08:01:48 Moving is finished
+10.05 08:01:56 timed out
+10.05 08:01:56 Scanning 1102 point from 1104
+10.05 08:01:56 Going to coordinates X=-28.642, Y=-38.715
+10.05 08:01:56 Moving is finished
+10.05 08:02:04 timed out
+10.05 08:02:04 Scanning 1103 point from 1104
+10.05 08:02:04 Going to coordinates X=-28.622, Y=-38.715
+10.05 08:02:04 Moving is finished
+10.05 08:02:12 timed out
+10.05 09:39:08 Row 0: 10.05 09:39:08 Map: x1: -29.522, y1: -38.722, x2: -28.624, y2: -39.175, xres: 0.020, yres: 0.020, fname: COOH2bez3
+10.05 09:39:08 Scanning 0 point from 1104
+10.05 09:39:08 Going to coordinates X=-29.522, Y=-39.175
+10.05 09:39:09 Moving is finished
+10.05 09:41:17 Scanning 1 point from 1104
+10.05 09:41:17 Going to coordinates X=-29.502, Y=-39.175
+10.05 09:41:17 Moving is finished
+10.05 09:43:24 Scanning 2 point from 1104
+10.05 09:43:24 Going to coordinates X=-29.482, Y=-39.175
+10.05 09:43:24 Moving is finished
+10.05 09:45:31 Scanning 3 point from 1104
+10.05 09:45:31 Going to coordinates X=-29.462, Y=-39.175
+10.05 09:45:31 Moving is finished
+10.05 09:47:39 Scanning 4 point from 1104
+10.05 09:47:39 Going to coordinates X=-29.442, Y=-39.175
+10.05 09:47:39 Moving is finished
+10.05 09:49:47 Scanning 5 point from 1104
+10.05 09:49:47 Going to coordinates X=-29.422, Y=-39.175
+10.05 09:49:47 Moving is finished
+10.05 09:51:55 Scanning 6 point from 1104
+10.05 09:51:55 Going to coordinates X=-29.402, Y=-39.175
+10.05 09:51:55 Moving is finished
+10.05 09:53:14 Stopped!
+10.05 09:53:16 Row 0: 10.05 09:53:16 Paused
+10.05 09:53:30 Stopped!
+10.05 09:53:56 Row 0: 10.05 09:53:56 Paused

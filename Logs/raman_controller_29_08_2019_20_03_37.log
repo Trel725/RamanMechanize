@@ -1,0 +1,2303 @@
+29.08 20:03:40 Initializing grbl...
+29.08 20:03:40 Got the response: b''
+29.08 20:05:58 Row 0: 29.08 20:05:58 Map: x1: -8.99, y1: -37.969, x2: -9.553, y2: -37.303, xres: 0.010, yres: 0.050, fname: m1-9 NEW LAST
+29.08 20:05:58 Scanning 0 point from 870
+29.08 20:05:58 Going to coordinates X=-9.553, Y=-37.969
+29.08 20:05:58 Moving is finished
+29.08 20:07:03 Scanning 1 point from 870
+29.08 20:07:03 Going to coordinates X=-9.543, Y=-37.969
+29.08 20:07:03 Moving is finished
+29.08 20:08:08 Scanning 2 point from 870
+29.08 20:08:08 Going to coordinates X=-9.533, Y=-37.969
+29.08 20:08:08 Moving is finished
+29.08 20:09:13 Scanning 3 point from 870
+29.08 20:09:13 Going to coordinates X=-9.523, Y=-37.969
+29.08 20:09:13 Moving is finished
+29.08 20:10:18 Scanning 4 point from 870
+29.08 20:10:18 Going to coordinates X=-9.513, Y=-37.969
+29.08 20:10:18 Moving is finished
+29.08 20:11:22 Scanning 5 point from 870
+29.08 20:11:22 Going to coordinates X=-9.503, Y=-37.969
+29.08 20:11:22 Moving is finished
+29.08 20:12:27 Scanning 6 point from 870
+29.08 20:12:27 Going to coordinates X=-9.493, Y=-37.969
+29.08 20:12:27 Moving is finished
+29.08 20:13:31 Scanning 7 point from 870
+29.08 20:13:31 Going to coordinates X=-9.483, Y=-37.969
+29.08 20:13:32 Moving is finished
+29.08 20:14:36 Scanning 8 point from 870
+29.08 20:14:36 Going to coordinates X=-9.473, Y=-37.969
+29.08 20:14:36 Moving is finished
+29.08 20:15:41 Scanning 9 point from 870
+29.08 20:15:41 Going to coordinates X=-9.463, Y=-37.969
+29.08 20:15:41 Moving is finished
+29.08 20:16:45 Scanning 10 point from 870
+29.08 20:16:45 Going to coordinates X=-9.453, Y=-37.969
+29.08 20:16:45 Moving is finished
+29.08 20:17:50 Scanning 11 point from 870
+29.08 20:17:50 Going to coordinates X=-9.443, Y=-37.969
+29.08 20:17:51 Moving is finished
+29.08 20:18:56 Scanning 12 point from 870
+29.08 20:18:56 Going to coordinates X=-9.433, Y=-37.969
+29.08 20:18:56 Moving is finished
+29.08 20:20:01 Scanning 13 point from 870
+29.08 20:20:01 Going to coordinates X=-9.423, Y=-37.969
+29.08 20:20:01 Moving is finished
+29.08 20:21:06 Scanning 14 point from 870
+29.08 20:21:06 Going to coordinates X=-9.413, Y=-37.969
+29.08 20:21:06 Moving is finished
+29.08 20:22:11 Scanning 15 point from 870
+29.08 20:22:11 Going to coordinates X=-9.403, Y=-37.969
+29.08 20:22:11 Moving is finished
+29.08 20:23:16 Scanning 16 point from 870
+29.08 20:23:16 Going to coordinates X=-9.393, Y=-37.969
+29.08 20:23:17 Moving is finished
+29.08 20:24:22 Scanning 17 point from 870
+29.08 20:24:22 Going to coordinates X=-9.383, Y=-37.969
+29.08 20:24:22 Moving is finished
+29.08 20:25:26 Scanning 18 point from 870
+29.08 20:25:26 Going to coordinates X=-9.373, Y=-37.969
+29.08 20:25:26 Moving is finished
+29.08 20:26:32 Scanning 19 point from 870
+29.08 20:26:32 Going to coordinates X=-9.363, Y=-37.969
+29.08 20:26:32 Moving is finished
+29.08 20:27:37 Scanning 20 point from 870
+29.08 20:27:37 Going to coordinates X=-9.353, Y=-37.969
+29.08 20:27:37 Moving is finished
+29.08 20:28:42 Scanning 21 point from 870
+29.08 20:28:42 Going to coordinates X=-9.343, Y=-37.969
+29.08 20:28:42 Moving is finished
+29.08 20:29:47 Scanning 22 point from 870
+29.08 20:29:47 Going to coordinates X=-9.333, Y=-37.969
+29.08 20:29:47 Moving is finished
+29.08 20:30:52 Scanning 23 point from 870
+29.08 20:30:52 Going to coordinates X=-9.323, Y=-37.969
+29.08 20:30:52 Moving is finished
+29.08 20:31:57 Scanning 24 point from 870
+29.08 20:31:57 Going to coordinates X=-9.313, Y=-37.969
+29.08 20:31:57 Moving is finished
+29.08 20:33:02 Scanning 25 point from 870
+29.08 20:33:02 Going to coordinates X=-9.303, Y=-37.969
+29.08 20:33:02 Moving is finished
+29.08 20:34:06 Scanning 26 point from 870
+29.08 20:34:06 Going to coordinates X=-9.293, Y=-37.969
+29.08 20:34:06 Moving is finished
+29.08 20:35:11 Scanning 27 point from 870
+29.08 20:35:11 Going to coordinates X=-9.283, Y=-37.969
+29.08 20:35:11 Moving is finished
+29.08 20:36:16 Scanning 28 point from 870
+29.08 20:36:16 Going to coordinates X=-9.273, Y=-37.969
+29.08 20:36:17 Moving is finished
+29.08 20:37:22 Scanning 29 point from 870
+29.08 20:37:22 Going to coordinates X=-9.263, Y=-37.969
+29.08 20:37:22 Moving is finished
+29.08 20:38:27 Scanning 30 point from 870
+29.08 20:38:27 Going to coordinates X=-9.253, Y=-37.969
+29.08 20:38:27 Moving is finished
+29.08 20:39:32 Scanning 31 point from 870
+29.08 20:39:32 Going to coordinates X=-9.243, Y=-37.969
+29.08 20:39:32 Moving is finished
+29.08 20:40:37 Scanning 32 point from 870
+29.08 20:40:37 Going to coordinates X=-9.233, Y=-37.969
+29.08 20:40:37 Moving is finished
+29.08 20:41:42 Scanning 33 point from 870
+29.08 20:41:42 Going to coordinates X=-9.223, Y=-37.969
+29.08 20:41:42 Moving is finished
+29.08 20:42:46 Scanning 34 point from 870
+29.08 20:42:46 Going to coordinates X=-9.213, Y=-37.969
+29.08 20:42:46 Moving is finished
+29.08 20:43:51 Scanning 35 point from 870
+29.08 20:43:51 Going to coordinates X=-9.203, Y=-37.969
+29.08 20:43:51 Moving is finished
+29.08 20:44:56 Scanning 36 point from 870
+29.08 20:44:56 Going to coordinates X=-9.193, Y=-37.969
+29.08 20:44:56 Moving is finished
+29.08 20:46:01 Scanning 37 point from 870
+29.08 20:46:01 Going to coordinates X=-9.183, Y=-37.969
+29.08 20:46:01 Moving is finished
+29.08 20:47:06 Scanning 38 point from 870
+29.08 20:47:06 Going to coordinates X=-9.173, Y=-37.969
+29.08 20:47:06 Moving is finished
+29.08 20:48:10 Scanning 39 point from 870
+29.08 20:48:10 Going to coordinates X=-9.163, Y=-37.969
+29.08 20:48:10 Moving is finished
+29.08 20:49:16 Scanning 40 point from 870
+29.08 20:49:16 Going to coordinates X=-9.153, Y=-37.969
+29.08 20:49:16 Moving is finished
+29.08 20:50:20 Scanning 41 point from 870
+29.08 20:50:20 Going to coordinates X=-9.143, Y=-37.969
+29.08 20:50:20 Moving is finished
+29.08 20:51:26 Scanning 42 point from 870
+29.08 20:51:26 Going to coordinates X=-9.133, Y=-37.969
+29.08 20:51:26 Moving is finished
+29.08 20:52:30 Scanning 43 point from 870
+29.08 20:52:30 Going to coordinates X=-9.123, Y=-37.969
+29.08 20:52:30 Moving is finished
+29.08 20:53:35 Scanning 44 point from 870
+29.08 20:53:35 Going to coordinates X=-9.113, Y=-37.969
+29.08 20:53:35 Moving is finished
+29.08 20:54:40 Scanning 45 point from 870
+29.08 20:54:40 Going to coordinates X=-9.103, Y=-37.969
+29.08 20:54:40 Moving is finished
+29.08 20:55:45 Scanning 46 point from 870
+29.08 20:55:45 Going to coordinates X=-9.093, Y=-37.969
+29.08 20:55:45 Moving is finished
+29.08 20:56:50 Scanning 47 point from 870
+29.08 20:56:50 Going to coordinates X=-9.083, Y=-37.969
+29.08 20:56:50 Moving is finished
+29.08 20:57:54 Scanning 48 point from 870
+29.08 20:57:54 Going to coordinates X=-9.073, Y=-37.969
+29.08 20:57:54 Moving is finished
+29.08 20:58:59 Scanning 49 point from 870
+29.08 20:58:59 Going to coordinates X=-9.063, Y=-37.969
+29.08 20:58:59 Moving is finished
+29.08 21:00:03 Scanning 50 point from 870
+29.08 21:00:03 Going to coordinates X=-9.053, Y=-37.969
+29.08 21:00:03 Moving is finished
+29.08 21:01:08 Scanning 51 point from 870
+29.08 21:01:08 Going to coordinates X=-9.043, Y=-37.969
+29.08 21:01:08 Moving is finished
+29.08 21:02:13 Scanning 52 point from 870
+29.08 21:02:13 Going to coordinates X=-9.033, Y=-37.969
+29.08 21:02:13 Moving is finished
+29.08 21:03:18 Scanning 53 point from 870
+29.08 21:03:18 Going to coordinates X=-9.023, Y=-37.969
+29.08 21:03:18 Moving is finished
+29.08 21:04:22 Scanning 54 point from 870
+29.08 21:04:22 Going to coordinates X=-9.013, Y=-37.969
+29.08 21:04:22 Moving is finished
+29.08 21:05:27 Scanning 55 point from 870
+29.08 21:05:27 Going to coordinates X=-9.003, Y=-37.969
+29.08 21:05:27 Moving is finished
+29.08 21:06:32 Scanning 56 point from 870
+29.08 21:06:32 Going to coordinates X=-8.993, Y=-37.969
+29.08 21:06:32 Moving is finished
+29.08 21:07:37 Scanning 57 point from 870
+29.08 21:07:37 Going to coordinates X=-8.983, Y=-37.969
+29.08 21:07:37 Moving is finished
+29.08 21:08:42 Scanning 58 point from 870
+29.08 21:08:42 Going to coordinates X=-9.553, Y=-37.919
+29.08 21:08:42 Moving is finished
+29.08 21:09:48 Scanning 59 point from 870
+29.08 21:09:48 Going to coordinates X=-9.543, Y=-37.919
+29.08 21:09:48 Moving is finished
+29.08 21:10:53 Scanning 60 point from 870
+29.08 21:10:53 Going to coordinates X=-9.533, Y=-37.919
+29.08 21:10:54 Moving is finished
+29.08 21:11:59 Scanning 61 point from 870
+29.08 21:11:59 Going to coordinates X=-9.523, Y=-37.919
+29.08 21:11:59 Moving is finished
+29.08 21:13:04 Scanning 62 point from 870
+29.08 21:13:04 Going to coordinates X=-9.513, Y=-37.919
+29.08 21:13:04 Moving is finished
+29.08 21:14:09 Scanning 63 point from 870
+29.08 21:14:09 Going to coordinates X=-9.503, Y=-37.919
+29.08 21:14:09 Moving is finished
+29.08 21:15:14 Scanning 64 point from 870
+29.08 21:15:14 Going to coordinates X=-9.493, Y=-37.919
+29.08 21:15:14 Moving is finished
+29.08 21:16:19 Scanning 65 point from 870
+29.08 21:16:19 Going to coordinates X=-9.483, Y=-37.919
+29.08 21:16:19 Moving is finished
+29.08 21:17:24 Scanning 66 point from 870
+29.08 21:17:24 Going to coordinates X=-9.473, Y=-37.919
+29.08 21:17:24 Moving is finished
+29.08 21:18:29 Scanning 67 point from 870
+29.08 21:18:29 Going to coordinates X=-9.463, Y=-37.919
+29.08 21:18:29 Moving is finished
+29.08 21:19:34 Scanning 68 point from 870
+29.08 21:19:34 Going to coordinates X=-9.453, Y=-37.919
+29.08 21:19:34 Moving is finished
+29.08 21:20:39 Scanning 69 point from 870
+29.08 21:20:39 Going to coordinates X=-9.443, Y=-37.919
+29.08 21:20:39 Moving is finished
+29.08 21:21:43 Scanning 70 point from 870
+29.08 21:21:43 Going to coordinates X=-9.433, Y=-37.919
+29.08 21:21:43 Moving is finished
+29.08 21:22:48 Scanning 71 point from 870
+29.08 21:22:48 Going to coordinates X=-9.423, Y=-37.919
+29.08 21:22:48 Moving is finished
+29.08 21:23:53 Scanning 72 point from 870
+29.08 21:23:53 Going to coordinates X=-9.413, Y=-37.919
+29.08 21:23:53 Moving is finished
+29.08 21:24:58 Scanning 73 point from 870
+29.08 21:24:58 Going to coordinates X=-9.403, Y=-37.919
+29.08 21:24:58 Moving is finished
+29.08 21:26:03 Scanning 74 point from 870
+29.08 21:26:03 Going to coordinates X=-9.393, Y=-37.919
+29.08 21:26:03 Moving is finished
+29.08 21:27:08 Scanning 75 point from 870
+29.08 21:27:08 Going to coordinates X=-9.383, Y=-37.919
+29.08 21:27:08 Moving is finished
+29.08 21:28:13 Scanning 76 point from 870
+29.08 21:28:13 Going to coordinates X=-9.373, Y=-37.919
+29.08 21:28:13 Moving is finished
+29.08 21:29:18 Scanning 77 point from 870
+29.08 21:29:18 Going to coordinates X=-9.363, Y=-37.919
+29.08 21:29:18 Moving is finished
+29.08 21:30:22 Scanning 78 point from 870
+29.08 21:30:22 Going to coordinates X=-9.353, Y=-37.919
+29.08 21:30:23 Moving is finished
+29.08 21:31:29 Scanning 79 point from 870
+29.08 21:31:29 Going to coordinates X=-9.343, Y=-37.919
+29.08 21:31:29 Moving is finished
+29.08 21:32:34 Scanning 80 point from 870
+29.08 21:32:34 Going to coordinates X=-9.333, Y=-37.919
+29.08 21:32:34 Moving is finished
+29.08 21:33:39 Scanning 81 point from 870
+29.08 21:33:39 Going to coordinates X=-9.323, Y=-37.919
+29.08 21:33:39 Moving is finished
+29.08 21:34:43 Scanning 82 point from 870
+29.08 21:34:43 Going to coordinates X=-9.313, Y=-37.919
+29.08 21:34:44 Moving is finished
+29.08 21:35:49 Scanning 83 point from 870
+29.08 21:35:49 Going to coordinates X=-9.303, Y=-37.919
+29.08 21:35:49 Moving is finished
+29.08 21:36:54 Scanning 84 point from 870
+29.08 21:36:54 Going to coordinates X=-9.293, Y=-37.919
+29.08 21:36:54 Moving is finished
+29.08 21:37:59 Scanning 85 point from 870
+29.08 21:37:59 Going to coordinates X=-9.283, Y=-37.919
+29.08 21:38:00 Moving is finished
+29.08 21:39:05 Scanning 86 point from 870
+29.08 21:39:05 Going to coordinates X=-9.273, Y=-37.919
+29.08 21:39:05 Moving is finished
+29.08 21:40:09 Scanning 87 point from 870
+29.08 21:40:09 Going to coordinates X=-9.263, Y=-37.919
+29.08 21:40:09 Moving is finished
+29.08 21:41:14 Scanning 88 point from 870
+29.08 21:41:14 Going to coordinates X=-9.253, Y=-37.919
+29.08 21:41:14 Moving is finished
+29.08 21:42:19 Scanning 89 point from 870
+29.08 21:42:19 Going to coordinates X=-9.243, Y=-37.919
+29.08 21:42:19 Moving is finished
+29.08 21:43:23 Scanning 90 point from 870
+29.08 21:43:23 Going to coordinates X=-9.233, Y=-37.919
+29.08 21:43:24 Moving is finished
+29.08 21:44:28 Scanning 91 point from 870
+29.08 21:44:28 Going to coordinates X=-9.223, Y=-37.919
+29.08 21:44:29 Moving is finished
+29.08 21:45:33 Scanning 92 point from 870
+29.08 21:45:33 Going to coordinates X=-9.213, Y=-37.919
+29.08 21:45:33 Moving is finished
+29.08 21:46:39 Scanning 93 point from 870
+29.08 21:46:39 Going to coordinates X=-9.203, Y=-37.919
+29.08 21:46:39 Moving is finished
+29.08 21:47:43 Scanning 94 point from 870
+29.08 21:47:43 Going to coordinates X=-9.193, Y=-37.919
+29.08 21:47:44 Moving is finished
+29.08 21:48:48 Scanning 95 point from 870
+29.08 21:48:48 Going to coordinates X=-9.183, Y=-37.919
+29.08 21:48:48 Moving is finished
+29.08 21:49:53 Scanning 96 point from 870
+29.08 21:49:53 Going to coordinates X=-9.173, Y=-37.919
+29.08 21:49:53 Moving is finished
+29.08 21:50:57 Scanning 97 point from 870
+29.08 21:50:57 Going to coordinates X=-9.163, Y=-37.919
+29.08 21:50:57 Moving is finished
+29.08 21:52:02 Scanning 98 point from 870
+29.08 21:52:02 Going to coordinates X=-9.153, Y=-37.919
+29.08 21:52:02 Moving is finished
+29.08 21:53:07 Scanning 99 point from 870
+29.08 21:53:07 Going to coordinates X=-9.143, Y=-37.919
+29.08 21:53:07 Moving is finished
+29.08 21:54:11 Scanning 100 point from 870
+29.08 21:54:11 Going to coordinates X=-9.133, Y=-37.919
+29.08 21:54:12 Moving is finished
+29.08 21:55:16 Scanning 101 point from 870
+29.08 21:55:16 Going to coordinates X=-9.123, Y=-37.919
+29.08 21:55:16 Moving is finished
+29.08 21:56:21 Scanning 102 point from 870
+29.08 21:56:21 Going to coordinates X=-9.113, Y=-37.919
+29.08 21:56:21 Moving is finished
+29.08 21:57:26 Scanning 103 point from 870
+29.08 21:57:26 Going to coordinates X=-9.103, Y=-37.919
+29.08 21:57:26 Moving is finished
+29.08 21:58:30 Scanning 104 point from 870
+29.08 21:58:30 Going to coordinates X=-9.093, Y=-37.919
+29.08 21:58:30 Moving is finished
+29.08 21:59:35 Scanning 105 point from 870
+29.08 21:59:35 Going to coordinates X=-9.083, Y=-37.919
+29.08 21:59:35 Moving is finished
+29.08 22:00:39 Scanning 106 point from 870
+29.08 22:00:39 Going to coordinates X=-9.073, Y=-37.919
+29.08 22:00:40 Moving is finished
+29.08 22:01:44 Scanning 107 point from 870
+29.08 22:01:44 Going to coordinates X=-9.063, Y=-37.919
+29.08 22:01:44 Moving is finished
+29.08 22:02:49 Scanning 108 point from 870
+29.08 22:02:49 Going to coordinates X=-9.053, Y=-37.919
+29.08 22:02:49 Moving is finished
+29.08 22:03:54 Scanning 109 point from 870
+29.08 22:03:54 Going to coordinates X=-9.043, Y=-37.919
+29.08 22:03:54 Moving is finished
+29.08 22:04:59 Scanning 110 point from 870
+29.08 22:04:59 Going to coordinates X=-9.033, Y=-37.919
+29.08 22:04:59 Moving is finished
+29.08 22:06:04 Scanning 111 point from 870
+29.08 22:06:04 Going to coordinates X=-9.023, Y=-37.919
+29.08 22:06:04 Moving is finished
+29.08 22:07:09 Scanning 112 point from 870
+29.08 22:07:09 Going to coordinates X=-9.013, Y=-37.919
+29.08 22:07:09 Moving is finished
+29.08 22:08:14 Scanning 113 point from 870
+29.08 22:08:14 Going to coordinates X=-9.003, Y=-37.919
+29.08 22:08:14 Moving is finished
+29.08 22:09:18 Scanning 114 point from 870
+29.08 22:09:18 Going to coordinates X=-8.993, Y=-37.919
+29.08 22:09:18 Moving is finished
+29.08 22:10:23 Scanning 115 point from 870
+29.08 22:10:23 Going to coordinates X=-8.983, Y=-37.919
+29.08 22:10:23 Moving is finished
+29.08 22:11:28 Scanning 116 point from 870
+29.08 22:11:28 Going to coordinates X=-9.553, Y=-37.869
+29.08 22:11:29 Moving is finished
+29.08 22:12:34 Scanning 117 point from 870
+29.08 22:12:34 Going to coordinates X=-9.543, Y=-37.869
+29.08 22:12:35 Moving is finished
+29.08 22:13:40 Scanning 118 point from 870
+29.08 22:13:40 Going to coordinates X=-9.533, Y=-37.869
+29.08 22:13:40 Moving is finished
+29.08 22:14:45 Scanning 119 point from 870
+29.08 22:14:45 Going to coordinates X=-9.523, Y=-37.869
+29.08 22:14:45 Moving is finished
+29.08 22:15:49 Scanning 120 point from 870
+29.08 22:15:49 Going to coordinates X=-9.513, Y=-37.869
+29.08 22:15:49 Moving is finished
+29.08 22:16:54 Scanning 121 point from 870
+29.08 22:16:54 Going to coordinates X=-9.503, Y=-37.869
+29.08 22:16:54 Moving is finished
+29.08 22:17:59 Scanning 122 point from 870
+29.08 22:17:59 Going to coordinates X=-9.493, Y=-37.869
+29.08 22:17:59 Moving is finished
+29.08 22:19:04 Scanning 123 point from 870
+29.08 22:19:04 Going to coordinates X=-9.483, Y=-37.869
+29.08 22:19:04 Moving is finished
+29.08 22:20:08 Scanning 124 point from 870
+29.08 22:20:08 Going to coordinates X=-9.473, Y=-37.869
+29.08 22:20:08 Moving is finished
+29.08 22:21:13 Scanning 125 point from 870
+29.08 22:21:13 Going to coordinates X=-9.463, Y=-37.869
+29.08 22:21:13 Moving is finished
+29.08 22:22:17 Scanning 126 point from 870
+29.08 22:22:17 Going to coordinates X=-9.453, Y=-37.869
+29.08 22:22:17 Moving is finished
+29.08 22:23:22 Scanning 127 point from 870
+29.08 22:23:22 Going to coordinates X=-9.443, Y=-37.869
+29.08 22:23:22 Moving is finished
+29.08 22:24:27 Scanning 128 point from 870
+29.08 22:24:27 Going to coordinates X=-9.433, Y=-37.869
+29.08 22:24:27 Moving is finished
+29.08 22:25:32 Scanning 129 point from 870
+29.08 22:25:32 Going to coordinates X=-9.423, Y=-37.869
+29.08 22:25:32 Moving is finished
+29.08 22:26:37 Scanning 130 point from 870
+29.08 22:26:37 Going to coordinates X=-9.413, Y=-37.869
+29.08 22:26:37 Moving is finished
+29.08 22:27:42 Scanning 131 point from 870
+29.08 22:27:42 Going to coordinates X=-9.403, Y=-37.869
+29.08 22:27:42 Moving is finished
+29.08 22:28:47 Scanning 132 point from 870
+29.08 22:28:47 Going to coordinates X=-9.393, Y=-37.869
+29.08 22:28:47 Moving is finished
+29.08 22:29:52 Scanning 133 point from 870
+29.08 22:29:52 Going to coordinates X=-9.383, Y=-37.869
+29.08 22:29:52 Moving is finished
+29.08 22:30:57 Scanning 134 point from 870
+29.08 22:30:57 Going to coordinates X=-9.373, Y=-37.869
+29.08 22:30:57 Moving is finished
+29.08 22:32:02 Scanning 135 point from 870
+29.08 22:32:02 Going to coordinates X=-9.363, Y=-37.869
+29.08 22:32:02 Moving is finished
+29.08 22:33:07 Scanning 136 point from 870
+29.08 22:33:07 Going to coordinates X=-9.353, Y=-37.869
+29.08 22:33:07 Moving is finished
+29.08 22:34:12 Scanning 137 point from 870
+29.08 22:34:12 Going to coordinates X=-9.343, Y=-37.869
+29.08 22:34:12 Moving is finished
+29.08 22:35:16 Scanning 138 point from 870
+29.08 22:35:16 Going to coordinates X=-9.333, Y=-37.869
+29.08 22:35:16 Moving is finished
+29.08 22:36:21 Scanning 139 point from 870
+29.08 22:36:21 Going to coordinates X=-9.323, Y=-37.869
+29.08 22:36:21 Moving is finished
+29.08 22:37:25 Scanning 140 point from 870
+29.08 22:37:25 Going to coordinates X=-9.313, Y=-37.869
+29.08 22:37:26 Moving is finished
+29.08 22:38:30 Scanning 141 point from 870
+29.08 22:38:30 Going to coordinates X=-9.303, Y=-37.869
+29.08 22:38:30 Moving is finished
+29.08 22:39:35 Scanning 142 point from 870
+29.08 22:39:35 Going to coordinates X=-9.293, Y=-37.869
+29.08 22:39:35 Moving is finished
+29.08 22:40:40 Scanning 143 point from 870
+29.08 22:40:40 Going to coordinates X=-9.283, Y=-37.869
+29.08 22:40:40 Moving is finished
+29.08 22:41:45 Scanning 144 point from 870
+29.08 22:41:45 Going to coordinates X=-9.273, Y=-37.869
+29.08 22:41:45 Moving is finished
+29.08 22:42:50 Scanning 145 point from 870
+29.08 22:42:50 Going to coordinates X=-9.263, Y=-37.869
+29.08 22:42:50 Moving is finished
+29.08 22:43:55 Scanning 146 point from 870
+29.08 22:43:55 Going to coordinates X=-9.253, Y=-37.869
+29.08 22:43:55 Moving is finished
+29.08 22:45:00 Scanning 147 point from 870
+29.08 22:45:00 Going to coordinates X=-9.243, Y=-37.869
+29.08 22:45:00 Moving is finished
+29.08 22:46:05 Scanning 148 point from 870
+29.08 22:46:05 Going to coordinates X=-9.233, Y=-37.869
+29.08 22:46:05 Moving is finished
+29.08 22:47:09 Scanning 149 point from 870
+29.08 22:47:09 Going to coordinates X=-9.223, Y=-37.869
+29.08 22:47:10 Moving is finished
+29.08 22:48:14 Scanning 150 point from 870
+29.08 22:48:14 Going to coordinates X=-9.213, Y=-37.869
+29.08 22:48:15 Moving is finished
+29.08 22:49:19 Scanning 151 point from 870
+29.08 22:49:19 Going to coordinates X=-9.203, Y=-37.869
+29.08 22:49:19 Moving is finished
+29.08 22:50:24 Scanning 152 point from 870
+29.08 22:50:24 Going to coordinates X=-9.193, Y=-37.869
+29.08 22:50:24 Moving is finished
+29.08 22:51:29 Scanning 153 point from 870
+29.08 22:51:29 Going to coordinates X=-9.183, Y=-37.869
+29.08 22:51:29 Moving is finished
+29.08 22:52:34 Scanning 154 point from 870
+29.08 22:52:34 Going to coordinates X=-9.173, Y=-37.869
+29.08 22:52:34 Moving is finished
+29.08 22:53:39 Scanning 155 point from 870
+29.08 22:53:39 Going to coordinates X=-9.163, Y=-37.869
+29.08 22:53:39 Moving is finished
+29.08 22:54:43 Scanning 156 point from 870
+29.08 22:54:43 Going to coordinates X=-9.153, Y=-37.869
+29.08 22:54:43 Moving is finished
+29.08 22:55:48 Scanning 157 point from 870
+29.08 22:55:48 Going to coordinates X=-9.143, Y=-37.869
+29.08 22:55:48 Moving is finished
+29.08 22:56:53 Scanning 158 point from 870
+29.08 22:56:53 Going to coordinates X=-9.133, Y=-37.869
+29.08 22:56:53 Moving is finished
+29.08 22:57:58 Scanning 159 point from 870
+29.08 22:57:58 Going to coordinates X=-9.123, Y=-37.869
+29.08 22:57:58 Moving is finished
+29.08 22:59:03 Scanning 160 point from 870
+29.08 22:59:03 Going to coordinates X=-9.113, Y=-37.869
+29.08 22:59:03 Moving is finished
+29.08 23:00:08 Scanning 161 point from 870
+29.08 23:00:08 Going to coordinates X=-9.103, Y=-37.869
+29.08 23:00:08 Moving is finished
+29.08 23:01:13 Scanning 162 point from 870
+29.08 23:01:13 Going to coordinates X=-9.093, Y=-37.869
+29.08 23:01:13 Moving is finished
+29.08 23:02:17 Scanning 163 point from 870
+29.08 23:02:17 Going to coordinates X=-9.083, Y=-37.869
+29.08 23:02:17 Moving is finished
+29.08 23:03:22 Scanning 164 point from 870
+29.08 23:03:22 Going to coordinates X=-9.073, Y=-37.869
+29.08 23:03:22 Moving is finished
+29.08 23:04:27 Scanning 165 point from 870
+29.08 23:04:27 Going to coordinates X=-9.063, Y=-37.869
+29.08 23:04:27 Moving is finished
+29.08 23:05:32 Scanning 166 point from 870
+29.08 23:05:32 Going to coordinates X=-9.053, Y=-37.869
+29.08 23:05:32 Moving is finished
+29.08 23:06:37 Scanning 167 point from 870
+29.08 23:06:37 Going to coordinates X=-9.043, Y=-37.869
+29.08 23:06:37 Moving is finished
+29.08 23:07:42 Scanning 168 point from 870
+29.08 23:07:42 Going to coordinates X=-9.033, Y=-37.869
+29.08 23:07:42 Moving is finished
+29.08 23:08:47 Scanning 169 point from 870
+29.08 23:08:47 Going to coordinates X=-9.023, Y=-37.869
+29.08 23:08:47 Moving is finished
+29.08 23:09:52 Scanning 170 point from 870
+29.08 23:09:52 Going to coordinates X=-9.013, Y=-37.869
+29.08 23:09:53 Moving is finished
+29.08 23:10:57 Scanning 171 point from 870
+29.08 23:10:57 Going to coordinates X=-9.003, Y=-37.869
+29.08 23:10:57 Moving is finished
+29.08 23:12:03 Scanning 172 point from 870
+29.08 23:12:03 Going to coordinates X=-8.993, Y=-37.869
+29.08 23:12:03 Moving is finished
+29.08 23:13:08 Scanning 173 point from 870
+29.08 23:13:08 Going to coordinates X=-8.983, Y=-37.869
+29.08 23:13:08 Moving is finished
+29.08 23:14:12 Scanning 174 point from 870
+29.08 23:14:12 Going to coordinates X=-9.553, Y=-37.819
+29.08 23:14:13 Moving is finished
+29.08 23:15:17 Scanning 175 point from 870
+29.08 23:15:17 Going to coordinates X=-9.543, Y=-37.819
+29.08 23:15:17 Moving is finished
+29.08 23:16:22 Scanning 176 point from 870
+29.08 23:16:22 Going to coordinates X=-9.533, Y=-37.819
+29.08 23:16:22 Moving is finished
+29.08 23:17:27 Scanning 177 point from 870
+29.08 23:17:27 Going to coordinates X=-9.523, Y=-37.819
+29.08 23:17:27 Moving is finished
+29.08 23:18:32 Scanning 178 point from 870
+29.08 23:18:32 Going to coordinates X=-9.513, Y=-37.819
+29.08 23:18:32 Moving is finished
+29.08 23:19:37 Scanning 179 point from 870
+29.08 23:19:37 Going to coordinates X=-9.503, Y=-37.819
+29.08 23:19:37 Moving is finished
+29.08 23:20:41 Scanning 180 point from 870
+29.08 23:20:41 Going to coordinates X=-9.493, Y=-37.819
+29.08 23:20:41 Moving is finished
+29.08 23:21:46 Scanning 181 point from 870
+29.08 23:21:46 Going to coordinates X=-9.483, Y=-37.819
+29.08 23:21:46 Moving is finished
+29.08 23:22:51 Scanning 182 point from 870
+29.08 23:22:51 Going to coordinates X=-9.473, Y=-37.819
+29.08 23:22:51 Moving is finished
+29.08 23:23:56 Scanning 183 point from 870
+29.08 23:23:56 Going to coordinates X=-9.463, Y=-37.819
+29.08 23:23:56 Moving is finished
+29.08 23:25:01 Scanning 184 point from 870
+29.08 23:25:01 Going to coordinates X=-9.453, Y=-37.819
+29.08 23:25:01 Moving is finished
+29.08 23:26:07 Scanning 185 point from 870
+29.08 23:26:07 Going to coordinates X=-9.443, Y=-37.819
+29.08 23:26:07 Moving is finished
+29.08 23:27:11 Scanning 186 point from 870
+29.08 23:27:11 Going to coordinates X=-9.433, Y=-37.819
+29.08 23:27:12 Moving is finished
+29.08 23:28:16 Scanning 187 point from 870
+29.08 23:28:16 Going to coordinates X=-9.423, Y=-37.819
+29.08 23:28:16 Moving is finished
+29.08 23:29:21 Scanning 188 point from 870
+29.08 23:29:21 Going to coordinates X=-9.413, Y=-37.819
+29.08 23:29:22 Moving is finished
+29.08 23:30:27 Scanning 189 point from 870
+29.08 23:30:27 Going to coordinates X=-9.403, Y=-37.819
+29.08 23:30:27 Moving is finished
+29.08 23:31:32 Scanning 190 point from 870
+29.08 23:31:32 Going to coordinates X=-9.393, Y=-37.819
+29.08 23:31:32 Moving is finished
+29.08 23:32:37 Scanning 191 point from 870
+29.08 23:32:37 Going to coordinates X=-9.383, Y=-37.819
+29.08 23:32:37 Moving is finished
+29.08 23:33:42 Scanning 192 point from 870
+29.08 23:33:42 Going to coordinates X=-9.373, Y=-37.819
+29.08 23:33:42 Moving is finished
+29.08 23:34:47 Scanning 193 point from 870
+29.08 23:34:47 Going to coordinates X=-9.363, Y=-37.819
+29.08 23:34:48 Moving is finished
+29.08 23:35:52 Scanning 194 point from 870
+29.08 23:35:52 Going to coordinates X=-9.353, Y=-37.819
+29.08 23:35:53 Moving is finished
+29.08 23:36:57 Scanning 195 point from 870
+29.08 23:36:57 Going to coordinates X=-9.343, Y=-37.819
+29.08 23:36:57 Moving is finished
+29.08 23:38:01 Scanning 196 point from 870
+29.08 23:38:01 Going to coordinates X=-9.333, Y=-37.819
+29.08 23:38:02 Moving is finished
+29.08 23:39:07 Scanning 197 point from 870
+29.08 23:39:07 Going to coordinates X=-9.323, Y=-37.819
+29.08 23:39:07 Moving is finished
+29.08 23:40:12 Scanning 198 point from 870
+29.08 23:40:12 Going to coordinates X=-9.313, Y=-37.819
+29.08 23:40:12 Moving is finished
+29.08 23:41:17 Scanning 199 point from 870
+29.08 23:41:17 Going to coordinates X=-9.303, Y=-37.819
+29.08 23:41:17 Moving is finished
+29.08 23:42:22 Scanning 200 point from 870
+29.08 23:42:22 Going to coordinates X=-9.293, Y=-37.819
+29.08 23:42:22 Moving is finished
+29.08 23:43:26 Scanning 201 point from 870
+29.08 23:43:26 Going to coordinates X=-9.283, Y=-37.819
+29.08 23:43:26 Moving is finished
+29.08 23:44:31 Scanning 202 point from 870
+29.08 23:44:31 Going to coordinates X=-9.273, Y=-37.819
+29.08 23:44:31 Moving is finished
+29.08 23:45:36 Scanning 203 point from 870
+29.08 23:45:36 Going to coordinates X=-9.263, Y=-37.819
+29.08 23:45:36 Moving is finished
+29.08 23:46:42 Scanning 204 point from 870
+29.08 23:46:42 Going to coordinates X=-9.253, Y=-37.819
+29.08 23:46:42 Moving is finished
+29.08 23:47:47 Scanning 205 point from 870
+29.08 23:47:47 Going to coordinates X=-9.243, Y=-37.819
+29.08 23:47:47 Moving is finished
+29.08 23:48:51 Scanning 206 point from 870
+29.08 23:48:51 Going to coordinates X=-9.233, Y=-37.819
+29.08 23:48:51 Moving is finished
+29.08 23:49:56 Scanning 207 point from 870
+29.08 23:49:56 Going to coordinates X=-9.223, Y=-37.819
+29.08 23:49:57 Moving is finished
+29.08 23:51:02 Scanning 208 point from 870
+29.08 23:51:02 Going to coordinates X=-9.213, Y=-37.819
+29.08 23:51:02 Moving is finished
+29.08 23:52:06 Scanning 209 point from 870
+29.08 23:52:06 Going to coordinates X=-9.203, Y=-37.819
+29.08 23:52:06 Moving is finished
+29.08 23:53:12 Scanning 210 point from 870
+29.08 23:53:12 Going to coordinates X=-9.193, Y=-37.819
+29.08 23:53:12 Moving is finished
+29.08 23:54:17 Scanning 211 point from 870
+29.08 23:54:17 Going to coordinates X=-9.183, Y=-37.819
+29.08 23:54:17 Moving is finished
+29.08 23:55:22 Scanning 212 point from 870
+29.08 23:55:22 Going to coordinates X=-9.173, Y=-37.819
+29.08 23:55:22 Moving is finished
+29.08 23:56:27 Scanning 213 point from 870
+29.08 23:56:27 Going to coordinates X=-9.163, Y=-37.819
+29.08 23:56:28 Moving is finished
+29.08 23:57:32 Scanning 214 point from 870
+29.08 23:57:32 Going to coordinates X=-9.153, Y=-37.819
+29.08 23:57:33 Moving is finished
+29.08 23:58:38 Scanning 215 point from 870
+29.08 23:58:38 Going to coordinates X=-9.143, Y=-37.819
+29.08 23:58:38 Moving is finished
+29.08 23:59:43 Scanning 216 point from 870
+29.08 23:59:43 Going to coordinates X=-9.133, Y=-37.819
+29.08 23:59:43 Moving is finished
+30.08 00:00:47 Scanning 217 point from 870
+30.08 00:00:47 Going to coordinates X=-9.123, Y=-37.819
+30.08 00:00:48 Moving is finished
+30.08 00:01:52 Scanning 218 point from 870
+30.08 00:01:52 Going to coordinates X=-9.113, Y=-37.819
+30.08 00:01:52 Moving is finished
+30.08 00:02:57 Scanning 219 point from 870
+30.08 00:02:57 Going to coordinates X=-9.103, Y=-37.819
+30.08 00:02:57 Moving is finished
+30.08 00:04:02 Scanning 220 point from 870
+30.08 00:04:02 Going to coordinates X=-9.093, Y=-37.819
+30.08 00:04:02 Moving is finished
+30.08 00:05:06 Scanning 221 point from 870
+30.08 00:05:06 Going to coordinates X=-9.083, Y=-37.819
+30.08 00:05:06 Moving is finished
+30.08 00:06:11 Scanning 222 point from 870
+30.08 00:06:11 Going to coordinates X=-9.073, Y=-37.819
+30.08 00:06:11 Moving is finished
+30.08 00:07:17 Scanning 223 point from 870
+30.08 00:07:17 Going to coordinates X=-9.063, Y=-37.819
+30.08 00:07:17 Moving is finished
+30.08 00:08:22 Scanning 224 point from 870
+30.08 00:08:22 Going to coordinates X=-9.053, Y=-37.819
+30.08 00:08:23 Moving is finished
+30.08 00:09:27 Scanning 225 point from 870
+30.08 00:09:27 Going to coordinates X=-9.043, Y=-37.819
+30.08 00:09:27 Moving is finished
+30.08 00:10:32 Scanning 226 point from 870
+30.08 00:10:32 Going to coordinates X=-9.033, Y=-37.819
+30.08 00:10:32 Moving is finished
+30.08 00:11:38 Scanning 227 point from 870
+30.08 00:11:38 Going to coordinates X=-9.023, Y=-37.819
+30.08 00:11:38 Moving is finished
+30.08 00:12:42 Scanning 228 point from 870
+30.08 00:12:42 Going to coordinates X=-9.013, Y=-37.819
+30.08 00:12:42 Moving is finished
+30.08 00:13:47 Scanning 229 point from 870
+30.08 00:13:47 Going to coordinates X=-9.003, Y=-37.819
+30.08 00:13:47 Moving is finished
+30.08 00:14:52 Scanning 230 point from 870
+30.08 00:14:52 Going to coordinates X=-8.993, Y=-37.819
+30.08 00:14:52 Moving is finished
+30.08 00:15:57 Scanning 231 point from 870
+30.08 00:15:57 Going to coordinates X=-8.983, Y=-37.819
+30.08 00:15:57 Moving is finished
+30.08 00:17:02 Scanning 232 point from 870
+30.08 00:17:02 Going to coordinates X=-9.553, Y=-37.769
+30.08 00:17:02 Moving is finished
+30.08 00:18:07 Scanning 233 point from 870
+30.08 00:18:07 Going to coordinates X=-9.543, Y=-37.769
+30.08 00:18:07 Moving is finished
+30.08 00:19:12 Scanning 234 point from 870
+30.08 00:19:12 Going to coordinates X=-9.533, Y=-37.769
+30.08 00:19:12 Moving is finished
+30.08 00:20:17 Scanning 235 point from 870
+30.08 00:20:17 Going to coordinates X=-9.523, Y=-37.769
+30.08 00:20:17 Moving is finished
+30.08 00:21:21 Scanning 236 point from 870
+30.08 00:21:21 Going to coordinates X=-9.513, Y=-37.769
+30.08 00:21:21 Moving is finished
+30.08 00:22:26 Scanning 237 point from 870
+30.08 00:22:26 Going to coordinates X=-9.503, Y=-37.769
+30.08 00:22:26 Moving is finished
+30.08 00:23:30 Scanning 238 point from 870
+30.08 00:23:30 Going to coordinates X=-9.493, Y=-37.769
+30.08 00:23:31 Moving is finished
+30.08 00:24:35 Scanning 239 point from 870
+30.08 00:24:35 Going to coordinates X=-9.483, Y=-37.769
+30.08 00:24:35 Moving is finished
+30.08 00:25:40 Scanning 240 point from 870
+30.08 00:25:40 Going to coordinates X=-9.473, Y=-37.769
+30.08 00:25:40 Moving is finished
+30.08 00:26:45 Scanning 241 point from 870
+30.08 00:26:45 Going to coordinates X=-9.463, Y=-37.769
+30.08 00:26:45 Moving is finished
+30.08 00:27:50 Scanning 242 point from 870
+30.08 00:27:50 Going to coordinates X=-9.453, Y=-37.769
+30.08 00:27:50 Moving is finished
+30.08 00:28:54 Scanning 243 point from 870
+30.08 00:28:54 Going to coordinates X=-9.443, Y=-37.769
+30.08 00:28:54 Moving is finished
+30.08 00:29:59 Scanning 244 point from 870
+30.08 00:29:59 Going to coordinates X=-9.433, Y=-37.769
+30.08 00:29:59 Moving is finished
+30.08 00:31:04 Scanning 245 point from 870
+30.08 00:31:04 Going to coordinates X=-9.423, Y=-37.769
+30.08 00:31:04 Moving is finished
+30.08 00:32:09 Scanning 246 point from 870
+30.08 00:32:09 Going to coordinates X=-9.413, Y=-37.769
+30.08 00:32:09 Moving is finished
+30.08 00:33:15 Scanning 247 point from 870
+30.08 00:33:15 Going to coordinates X=-9.403, Y=-37.769
+30.08 00:33:15 Moving is finished
+30.08 00:34:19 Scanning 248 point from 870
+30.08 00:34:19 Going to coordinates X=-9.393, Y=-37.769
+30.08 00:34:20 Moving is finished
+30.08 00:35:25 Scanning 249 point from 870
+30.08 00:35:25 Going to coordinates X=-9.383, Y=-37.769
+30.08 00:35:25 Moving is finished
+30.08 00:36:29 Scanning 250 point from 870
+30.08 00:36:29 Going to coordinates X=-9.373, Y=-37.769
+30.08 00:36:30 Moving is finished
+30.08 00:37:34 Scanning 251 point from 870
+30.08 00:37:34 Going to coordinates X=-9.363, Y=-37.769
+30.08 00:37:34 Moving is finished
+30.08 00:38:39 Scanning 252 point from 870
+30.08 00:38:39 Going to coordinates X=-9.353, Y=-37.769
+30.08 00:38:39 Moving is finished
+30.08 00:39:45 Scanning 253 point from 870
+30.08 00:39:45 Going to coordinates X=-9.343, Y=-37.769
+30.08 00:39:45 Moving is finished
+30.08 00:40:49 Scanning 254 point from 870
+30.08 00:40:49 Going to coordinates X=-9.333, Y=-37.769
+30.08 00:40:50 Moving is finished
+30.08 00:41:54 Scanning 255 point from 870
+30.08 00:41:54 Going to coordinates X=-9.323, Y=-37.769
+30.08 00:41:55 Moving is finished
+30.08 00:43:00 Scanning 256 point from 870
+30.08 00:43:00 Going to coordinates X=-9.313, Y=-37.769
+30.08 00:43:01 Moving is finished
+30.08 00:44:06 Scanning 257 point from 870
+30.08 00:44:06 Going to coordinates X=-9.303, Y=-37.769
+30.08 00:44:06 Moving is finished
+30.08 00:45:11 Scanning 258 point from 870
+30.08 00:45:11 Going to coordinates X=-9.293, Y=-37.769
+30.08 00:45:11 Moving is finished
+30.08 00:46:16 Scanning 259 point from 870
+30.08 00:46:16 Going to coordinates X=-9.283, Y=-37.769
+30.08 00:46:16 Moving is finished
+30.08 00:47:20 Scanning 260 point from 870
+30.08 00:47:20 Going to coordinates X=-9.273, Y=-37.769
+30.08 00:47:20 Moving is finished
+30.08 00:48:25 Scanning 261 point from 870
+30.08 00:48:25 Going to coordinates X=-9.263, Y=-37.769
+30.08 00:48:25 Moving is finished
+30.08 00:49:30 Scanning 262 point from 870
+30.08 00:49:30 Going to coordinates X=-9.253, Y=-37.769
+30.08 00:49:30 Moving is finished
+30.08 00:50:34 Scanning 263 point from 870
+30.08 00:50:34 Going to coordinates X=-9.243, Y=-37.769
+30.08 00:50:35 Moving is finished
+30.08 00:51:39 Scanning 264 point from 870
+30.08 00:51:39 Going to coordinates X=-9.233, Y=-37.769
+30.08 00:51:39 Moving is finished
+30.08 00:52:44 Scanning 265 point from 870
+30.08 00:52:44 Going to coordinates X=-9.223, Y=-37.769
+30.08 00:52:44 Moving is finished
+30.08 00:53:49 Scanning 266 point from 870
+30.08 00:53:49 Going to coordinates X=-9.213, Y=-37.769
+30.08 00:53:49 Moving is finished
+30.08 00:54:54 Scanning 267 point from 870
+30.08 00:54:54 Going to coordinates X=-9.203, Y=-37.769
+30.08 00:54:55 Moving is finished
+30.08 00:55:59 Scanning 268 point from 870
+30.08 00:55:59 Going to coordinates X=-9.193, Y=-37.769
+30.08 00:55:59 Moving is finished
+30.08 00:57:05 Scanning 269 point from 870
+30.08 00:57:05 Going to coordinates X=-9.183, Y=-37.769
+30.08 00:57:05 Moving is finished
+30.08 00:58:10 Scanning 270 point from 870
+30.08 00:58:10 Going to coordinates X=-9.173, Y=-37.769
+30.08 00:58:10 Moving is finished
+30.08 00:59:15 Scanning 271 point from 870
+30.08 00:59:15 Going to coordinates X=-9.163, Y=-37.769
+30.08 00:59:15 Moving is finished
+30.08 01:00:20 Scanning 272 point from 870
+30.08 01:00:20 Going to coordinates X=-9.153, Y=-37.769
+30.08 01:00:20 Moving is finished
+30.08 01:01:25 Scanning 273 point from 870
+30.08 01:01:25 Going to coordinates X=-9.143, Y=-37.769
+30.08 01:01:25 Moving is finished
+30.08 01:02:29 Scanning 274 point from 870
+30.08 01:02:29 Going to coordinates X=-9.133, Y=-37.769
+30.08 01:02:29 Moving is finished
+30.08 01:03:34 Scanning 275 point from 870
+30.08 01:03:34 Going to coordinates X=-9.123, Y=-37.769
+30.08 01:03:34 Moving is finished
+30.08 01:04:40 Scanning 276 point from 870
+30.08 01:04:40 Going to coordinates X=-9.113, Y=-37.769
+30.08 01:04:40 Moving is finished
+30.08 01:05:45 Scanning 277 point from 870
+30.08 01:05:45 Going to coordinates X=-9.103, Y=-37.769
+30.08 01:05:45 Moving is finished
+30.08 01:06:49 Scanning 278 point from 870
+30.08 01:06:49 Going to coordinates X=-9.093, Y=-37.769
+30.08 01:06:50 Moving is finished
+30.08 01:07:54 Scanning 279 point from 870
+30.08 01:07:54 Going to coordinates X=-9.083, Y=-37.769
+30.08 01:07:54 Moving is finished
+30.08 01:08:59 Scanning 280 point from 870
+30.08 01:08:59 Going to coordinates X=-9.073, Y=-37.769
+30.08 01:09:00 Moving is finished
+30.08 01:10:04 Scanning 281 point from 870
+30.08 01:10:04 Going to coordinates X=-9.063, Y=-37.769
+30.08 01:10:04 Moving is finished
+30.08 01:11:09 Scanning 282 point from 870
+30.08 01:11:09 Going to coordinates X=-9.053, Y=-37.769
+30.08 01:11:09 Moving is finished
+30.08 01:12:14 Scanning 283 point from 870
+30.08 01:12:14 Going to coordinates X=-9.043, Y=-37.769
+30.08 01:12:14 Moving is finished
+30.08 01:13:19 Scanning 284 point from 870
+30.08 01:13:19 Going to coordinates X=-9.033, Y=-37.769
+30.08 01:13:19 Moving is finished
+30.08 01:14:24 Scanning 285 point from 870
+30.08 01:14:24 Going to coordinates X=-9.023, Y=-37.769
+30.08 01:14:24 Moving is finished
+30.08 01:15:29 Scanning 286 point from 870
+30.08 01:15:29 Going to coordinates X=-9.013, Y=-37.769
+30.08 01:15:29 Moving is finished
+30.08 01:16:33 Scanning 287 point from 870
+30.08 01:16:33 Going to coordinates X=-9.003, Y=-37.769
+30.08 01:16:34 Moving is finished
+30.08 01:17:38 Scanning 288 point from 870
+30.08 01:17:38 Going to coordinates X=-8.993, Y=-37.769
+30.08 01:17:38 Moving is finished
+30.08 01:18:43 Scanning 289 point from 870
+30.08 01:18:43 Going to coordinates X=-8.983, Y=-37.769
+30.08 01:18:43 Moving is finished
+30.08 01:19:47 Scanning 290 point from 870
+30.08 01:19:47 Going to coordinates X=-9.553, Y=-37.719
+30.08 01:19:48 Moving is finished
+30.08 01:20:53 Scanning 291 point from 870
+30.08 01:20:53 Going to coordinates X=-9.543, Y=-37.719
+30.08 01:20:53 Moving is finished
+30.08 01:21:58 Scanning 292 point from 870
+30.08 01:21:58 Going to coordinates X=-9.533, Y=-37.719
+30.08 01:21:58 Moving is finished
+30.08 01:23:03 Scanning 293 point from 870
+30.08 01:23:03 Going to coordinates X=-9.523, Y=-37.719
+30.08 01:23:03 Moving is finished
+30.08 01:24:08 Scanning 294 point from 870
+30.08 01:24:08 Going to coordinates X=-9.513, Y=-37.719
+30.08 01:24:08 Moving is finished
+30.08 01:25:13 Scanning 295 point from 870
+30.08 01:25:13 Going to coordinates X=-9.503, Y=-37.719
+30.08 01:25:13 Moving is finished
+30.08 01:26:17 Scanning 296 point from 870
+30.08 01:26:17 Going to coordinates X=-9.493, Y=-37.719
+30.08 01:26:18 Moving is finished
+30.08 01:27:23 Scanning 297 point from 870
+30.08 01:27:23 Going to coordinates X=-9.483, Y=-37.719
+30.08 01:27:23 Moving is finished
+30.08 01:28:27 Scanning 298 point from 870
+30.08 01:28:27 Going to coordinates X=-9.473, Y=-37.719
+30.08 01:28:28 Moving is finished
+30.08 01:29:32 Scanning 299 point from 870
+30.08 01:29:32 Going to coordinates X=-9.463, Y=-37.719
+30.08 01:29:32 Moving is finished
+30.08 01:30:37 Scanning 300 point from 870
+30.08 01:30:37 Going to coordinates X=-9.453, Y=-37.719
+30.08 01:30:38 Moving is finished
+30.08 01:31:42 Scanning 301 point from 870
+30.08 01:31:42 Going to coordinates X=-9.443, Y=-37.719
+30.08 01:31:43 Moving is finished
+30.08 01:32:48 Scanning 302 point from 870
+30.08 01:32:48 Going to coordinates X=-9.433, Y=-37.719
+30.08 01:32:48 Moving is finished
+30.08 01:33:53 Scanning 303 point from 870
+30.08 01:33:53 Going to coordinates X=-9.423, Y=-37.719
+30.08 01:33:53 Moving is finished
+30.08 01:34:58 Scanning 304 point from 870
+30.08 01:34:58 Going to coordinates X=-9.413, Y=-37.719
+30.08 01:34:58 Moving is finished
+30.08 01:36:04 Scanning 305 point from 870
+30.08 01:36:04 Going to coordinates X=-9.403, Y=-37.719
+30.08 01:36:04 Moving is finished
+30.08 01:37:09 Scanning 306 point from 870
+30.08 01:37:09 Going to coordinates X=-9.393, Y=-37.719
+30.08 01:37:09 Moving is finished
+30.08 01:38:14 Scanning 307 point from 870
+30.08 01:38:14 Going to coordinates X=-9.383, Y=-37.719
+30.08 01:38:14 Moving is finished
+30.08 01:39:19 Scanning 308 point from 870
+30.08 01:39:19 Going to coordinates X=-9.373, Y=-37.719
+30.08 01:39:19 Moving is finished
+30.08 01:40:24 Scanning 309 point from 870
+30.08 01:40:24 Going to coordinates X=-9.363, Y=-37.719
+30.08 01:40:24 Moving is finished
+30.08 01:41:29 Scanning 310 point from 870
+30.08 01:41:29 Going to coordinates X=-9.353, Y=-37.719
+30.08 01:41:29 Moving is finished
+30.08 01:42:33 Scanning 311 point from 870
+30.08 01:42:33 Going to coordinates X=-9.343, Y=-37.719
+30.08 01:42:33 Moving is finished
+30.08 01:43:38 Scanning 312 point from 870
+30.08 01:43:38 Going to coordinates X=-9.333, Y=-37.719
+30.08 01:43:38 Moving is finished
+30.08 01:44:43 Scanning 313 point from 870
+30.08 01:44:43 Going to coordinates X=-9.323, Y=-37.719
+30.08 01:44:43 Moving is finished
+30.08 01:45:48 Scanning 314 point from 870
+30.08 01:45:48 Going to coordinates X=-9.313, Y=-37.719
+30.08 01:45:48 Moving is finished
+30.08 01:46:52 Scanning 315 point from 870
+30.08 01:46:52 Going to coordinates X=-9.303, Y=-37.719
+30.08 01:46:52 Moving is finished
+30.08 01:47:57 Scanning 316 point from 870
+30.08 01:47:57 Going to coordinates X=-9.293, Y=-37.719
+30.08 01:47:57 Moving is finished
+30.08 01:49:02 Scanning 317 point from 870
+30.08 01:49:02 Going to coordinates X=-9.283, Y=-37.719
+30.08 01:49:02 Moving is finished
+30.08 01:50:07 Scanning 318 point from 870
+30.08 01:50:07 Going to coordinates X=-9.273, Y=-37.719
+30.08 01:50:07 Moving is finished
+30.08 01:51:12 Scanning 319 point from 870
+30.08 01:51:12 Going to coordinates X=-9.263, Y=-37.719
+30.08 01:51:12 Moving is finished
+30.08 01:52:17 Scanning 320 point from 870
+30.08 01:52:17 Going to coordinates X=-9.253, Y=-37.719
+30.08 01:52:17 Moving is finished
+30.08 01:53:21 Scanning 321 point from 870
+30.08 01:53:21 Going to coordinates X=-9.243, Y=-37.719
+30.08 01:53:22 Moving is finished
+30.08 01:54:26 Scanning 322 point from 870
+30.08 01:54:26 Going to coordinates X=-9.233, Y=-37.719
+30.08 01:54:26 Moving is finished
+30.08 01:55:31 Scanning 323 point from 870
+30.08 01:55:31 Going to coordinates X=-9.223, Y=-37.719
+30.08 01:55:31 Moving is finished
+30.08 01:56:35 Scanning 324 point from 870
+30.08 01:56:35 Going to coordinates X=-9.213, Y=-37.719
+30.08 01:56:35 Moving is finished
+30.08 01:57:40 Scanning 325 point from 870
+30.08 01:57:40 Going to coordinates X=-9.203, Y=-37.719
+30.08 01:57:40 Moving is finished
+30.08 01:58:45 Scanning 326 point from 870
+30.08 01:58:45 Going to coordinates X=-9.193, Y=-37.719
+30.08 01:58:45 Moving is finished
+30.08 01:59:50 Scanning 327 point from 870
+30.08 01:59:50 Going to coordinates X=-9.183, Y=-37.719
+30.08 01:59:50 Moving is finished
+30.08 02:00:55 Scanning 328 point from 870
+30.08 02:00:55 Going to coordinates X=-9.173, Y=-37.719
+30.08 02:00:55 Moving is finished
+30.08 02:01:59 Scanning 329 point from 870
+30.08 02:01:59 Going to coordinates X=-9.163, Y=-37.719
+30.08 02:01:59 Moving is finished
+30.08 02:03:05 Scanning 330 point from 870
+30.08 02:03:05 Going to coordinates X=-9.153, Y=-37.719
+30.08 02:03:05 Moving is finished
+30.08 02:04:09 Scanning 331 point from 870
+30.08 02:04:09 Going to coordinates X=-9.143, Y=-37.719
+30.08 02:04:09 Moving is finished
+30.08 02:05:15 Scanning 332 point from 870
+30.08 02:05:15 Going to coordinates X=-9.133, Y=-37.719
+30.08 02:05:15 Moving is finished
+30.08 02:06:20 Scanning 333 point from 870
+30.08 02:06:20 Going to coordinates X=-9.123, Y=-37.719
+30.08 02:06:20 Moving is finished
+30.08 02:07:24 Scanning 334 point from 870
+30.08 02:07:24 Going to coordinates X=-9.113, Y=-37.719
+30.08 02:07:25 Moving is finished
+30.08 02:08:30 Scanning 335 point from 870
+30.08 02:08:30 Going to coordinates X=-9.103, Y=-37.719
+30.08 02:08:30 Moving is finished
+30.08 02:09:34 Scanning 336 point from 870
+30.08 02:09:34 Going to coordinates X=-9.093, Y=-37.719
+30.08 02:09:34 Moving is finished
+30.08 02:10:39 Scanning 337 point from 870
+30.08 02:10:39 Going to coordinates X=-9.083, Y=-37.719
+30.08 02:10:39 Moving is finished
+30.08 02:11:44 Scanning 338 point from 870
+30.08 02:11:44 Going to coordinates X=-9.073, Y=-37.719
+30.08 02:11:44 Moving is finished
+30.08 02:12:49 Scanning 339 point from 870
+30.08 02:12:49 Going to coordinates X=-9.063, Y=-37.719
+30.08 02:12:49 Moving is finished
+30.08 02:13:54 Scanning 340 point from 870
+30.08 02:13:54 Going to coordinates X=-9.053, Y=-37.719
+30.08 02:13:54 Moving is finished
+30.08 02:14:58 Scanning 341 point from 870
+30.08 02:14:58 Going to coordinates X=-9.043, Y=-37.719
+30.08 02:14:59 Moving is finished
+30.08 02:16:04 Scanning 342 point from 870
+30.08 02:16:04 Going to coordinates X=-9.033, Y=-37.719
+30.08 02:16:04 Moving is finished
+30.08 02:17:08 Scanning 343 point from 870
+30.08 02:17:08 Going to coordinates X=-9.023, Y=-37.719
+30.08 02:17:08 Moving is finished
+30.08 02:18:14 Scanning 344 point from 870
+30.08 02:18:14 Going to coordinates X=-9.013, Y=-37.719
+30.08 02:18:14 Moving is finished
+30.08 02:19:19 Scanning 345 point from 870
+30.08 02:19:19 Going to coordinates X=-9.003, Y=-37.719
+30.08 02:19:19 Moving is finished
+30.08 02:20:24 Scanning 346 point from 870
+30.08 02:20:24 Going to coordinates X=-8.993, Y=-37.719
+30.08 02:20:24 Moving is finished
+30.08 02:21:29 Scanning 347 point from 870
+30.08 02:21:29 Going to coordinates X=-8.983, Y=-37.719
+30.08 02:21:29 Moving is finished
+30.08 02:22:34 Scanning 348 point from 870
+30.08 02:22:34 Going to coordinates X=-9.553, Y=-37.669
+30.08 02:22:35 Moving is finished
+30.08 02:23:40 Scanning 349 point from 870
+30.08 02:23:40 Going to coordinates X=-9.543, Y=-37.669
+30.08 02:23:40 Moving is finished
+30.08 02:24:45 Scanning 350 point from 870
+30.08 02:24:45 Going to coordinates X=-9.533, Y=-37.669
+30.08 02:24:45 Moving is finished
+30.08 02:25:49 Scanning 351 point from 870
+30.08 02:25:49 Going to coordinates X=-9.523, Y=-37.669
+30.08 02:25:50 Moving is finished
+30.08 02:26:54 Scanning 352 point from 870
+30.08 02:26:54 Going to coordinates X=-9.513, Y=-37.669
+30.08 02:26:55 Moving is finished
+30.08 02:28:00 Scanning 353 point from 870
+30.08 02:28:00 Going to coordinates X=-9.503, Y=-37.669
+30.08 02:28:00 Moving is finished
+30.08 02:29:04 Scanning 354 point from 870
+30.08 02:29:04 Going to coordinates X=-9.493, Y=-37.669
+30.08 02:29:05 Moving is finished
+30.08 02:30:09 Scanning 355 point from 870
+30.08 02:30:09 Going to coordinates X=-9.483, Y=-37.669
+30.08 02:30:09 Moving is finished
+30.08 02:31:14 Scanning 356 point from 870
+30.08 02:31:14 Going to coordinates X=-9.473, Y=-37.669
+30.08 02:31:15 Moving is finished
+30.08 02:32:20 Scanning 357 point from 870
+30.08 02:32:20 Going to coordinates X=-9.463, Y=-37.669
+30.08 02:32:20 Moving is finished
+30.08 02:33:25 Scanning 358 point from 870
+30.08 02:33:25 Going to coordinates X=-9.453, Y=-37.669
+30.08 02:33:25 Moving is finished
+30.08 02:34:30 Scanning 359 point from 870
+30.08 02:34:30 Going to coordinates X=-9.443, Y=-37.669
+30.08 02:34:30 Moving is finished
+30.08 02:35:35 Scanning 360 point from 870
+30.08 02:35:35 Going to coordinates X=-9.433, Y=-37.669
+30.08 02:35:35 Moving is finished
+30.08 02:36:40 Scanning 361 point from 870
+30.08 02:36:40 Going to coordinates X=-9.423, Y=-37.669
+30.08 02:36:40 Moving is finished
+30.08 02:37:44 Scanning 362 point from 870
+30.08 02:37:44 Going to coordinates X=-9.413, Y=-37.669
+30.08 02:37:45 Moving is finished
+30.08 02:38:49 Scanning 363 point from 870
+30.08 02:38:49 Going to coordinates X=-9.403, Y=-37.669
+30.08 02:38:49 Moving is finished
+30.08 02:39:54 Scanning 364 point from 870
+30.08 02:39:54 Going to coordinates X=-9.393, Y=-37.669
+30.08 02:39:54 Moving is finished
+30.08 02:40:59 Scanning 365 point from 870
+30.08 02:40:59 Going to coordinates X=-9.383, Y=-37.669
+30.08 02:40:59 Moving is finished
+30.08 02:42:04 Scanning 366 point from 870
+30.08 02:42:04 Going to coordinates X=-9.373, Y=-37.669
+30.08 02:42:04 Moving is finished
+30.08 02:43:09 Scanning 367 point from 870
+30.08 02:43:09 Going to coordinates X=-9.363, Y=-37.669
+30.08 02:43:10 Moving is finished
+30.08 02:44:15 Scanning 368 point from 870
+30.08 02:44:15 Going to coordinates X=-9.353, Y=-37.669
+30.08 02:44:15 Moving is finished
+30.08 02:45:20 Scanning 369 point from 870
+30.08 02:45:20 Going to coordinates X=-9.343, Y=-37.669
+30.08 02:45:20 Moving is finished
+30.08 02:46:24 Scanning 370 point from 870
+30.08 02:46:24 Going to coordinates X=-9.333, Y=-37.669
+30.08 02:46:24 Moving is finished
+30.08 02:47:29 Scanning 371 point from 870
+30.08 02:47:29 Going to coordinates X=-9.323, Y=-37.669
+30.08 02:47:29 Moving is finished
+30.08 02:48:34 Scanning 372 point from 870
+30.08 02:48:34 Going to coordinates X=-9.313, Y=-37.669
+30.08 02:48:34 Moving is finished
+30.08 02:49:39 Scanning 373 point from 870
+30.08 02:49:39 Going to coordinates X=-9.303, Y=-37.669
+30.08 02:49:39 Moving is finished
+30.08 02:50:44 Scanning 374 point from 870
+30.08 02:50:44 Going to coordinates X=-9.293, Y=-37.669
+30.08 02:50:45 Moving is finished
+30.08 02:51:50 Scanning 375 point from 870
+30.08 02:51:50 Going to coordinates X=-9.283, Y=-37.669
+30.08 02:51:50 Moving is finished
+30.08 02:52:54 Scanning 376 point from 870
+30.08 02:52:54 Going to coordinates X=-9.273, Y=-37.669
+30.08 02:52:54 Moving is finished
+30.08 02:53:59 Scanning 377 point from 870
+30.08 02:53:59 Going to coordinates X=-9.263, Y=-37.669
+30.08 02:53:59 Moving is finished
+30.08 02:55:04 Scanning 378 point from 870
+30.08 02:55:04 Going to coordinates X=-9.253, Y=-37.669
+30.08 02:55:04 Moving is finished
+30.08 02:56:10 Scanning 379 point from 870
+30.08 02:56:10 Going to coordinates X=-9.243, Y=-37.669
+30.08 02:56:10 Moving is finished
+30.08 02:57:15 Scanning 380 point from 870
+30.08 02:57:15 Going to coordinates X=-9.233, Y=-37.669
+30.08 02:57:15 Moving is finished
+30.08 02:58:21 Scanning 381 point from 870
+30.08 02:58:21 Going to coordinates X=-9.223, Y=-37.669
+30.08 02:58:21 Moving is finished
+30.08 02:59:25 Scanning 382 point from 870
+30.08 02:59:25 Going to coordinates X=-9.213, Y=-37.669
+30.08 02:59:26 Moving is finished
+30.08 03:00:30 Scanning 383 point from 870
+30.08 03:00:30 Going to coordinates X=-9.203, Y=-37.669
+30.08 03:00:30 Moving is finished
+30.08 03:01:35 Scanning 384 point from 870
+30.08 03:01:35 Going to coordinates X=-9.193, Y=-37.669
+30.08 03:01:35 Moving is finished
+30.08 03:02:40 Scanning 385 point from 870
+30.08 03:02:40 Going to coordinates X=-9.183, Y=-37.669
+30.08 03:02:40 Moving is finished
+30.08 03:03:45 Scanning 386 point from 870
+30.08 03:03:45 Going to coordinates X=-9.173, Y=-37.669
+30.08 03:03:45 Moving is finished
+30.08 03:04:51 Scanning 387 point from 870
+30.08 03:04:51 Going to coordinates X=-9.163, Y=-37.669
+30.08 03:04:51 Moving is finished
+30.08 03:05:56 Scanning 388 point from 870
+30.08 03:05:56 Going to coordinates X=-9.153, Y=-37.669
+30.08 03:05:56 Moving is finished
+30.08 03:07:01 Scanning 389 point from 870
+30.08 03:07:01 Going to coordinates X=-9.143, Y=-37.669
+30.08 03:07:01 Moving is finished
+30.08 03:08:06 Scanning 390 point from 870
+30.08 03:08:06 Going to coordinates X=-9.133, Y=-37.669
+30.08 03:08:06 Moving is finished
+30.08 03:09:10 Scanning 391 point from 870
+30.08 03:09:10 Going to coordinates X=-9.123, Y=-37.669
+30.08 03:09:10 Moving is finished
+30.08 03:10:16 Scanning 392 point from 870
+30.08 03:10:16 Going to coordinates X=-9.113, Y=-37.669
+30.08 03:10:16 Moving is finished
+30.08 03:11:21 Scanning 393 point from 870
+30.08 03:11:21 Going to coordinates X=-9.103, Y=-37.669
+30.08 03:11:21 Moving is finished
+30.08 03:12:27 Scanning 394 point from 870
+30.08 03:12:27 Going to coordinates X=-9.093, Y=-37.669
+30.08 03:12:27 Moving is finished
+30.08 03:13:32 Scanning 395 point from 870
+30.08 03:13:32 Going to coordinates X=-9.083, Y=-37.669
+30.08 03:13:32 Moving is finished
+30.08 03:14:37 Scanning 396 point from 870
+30.08 03:14:37 Going to coordinates X=-9.073, Y=-37.669
+30.08 03:14:37 Moving is finished
+30.08 03:15:42 Scanning 397 point from 870
+30.08 03:15:42 Going to coordinates X=-9.063, Y=-37.669
+30.08 03:15:42 Moving is finished
+30.08 03:16:46 Scanning 398 point from 870
+30.08 03:16:46 Going to coordinates X=-9.053, Y=-37.669
+30.08 03:16:46 Moving is finished
+30.08 03:17:51 Scanning 399 point from 870
+30.08 03:17:51 Going to coordinates X=-9.043, Y=-37.669
+30.08 03:17:51 Moving is finished
+30.08 03:18:56 Scanning 400 point from 870
+30.08 03:18:56 Going to coordinates X=-9.033, Y=-37.669
+30.08 03:18:56 Moving is finished
+30.08 03:20:00 Scanning 401 point from 870
+30.08 03:20:00 Going to coordinates X=-9.023, Y=-37.669
+30.08 03:20:00 Moving is finished
+30.08 03:21:05 Scanning 402 point from 870
+30.08 03:21:05 Going to coordinates X=-9.013, Y=-37.669
+30.08 03:21:05 Moving is finished
+30.08 03:22:10 Scanning 403 point from 870
+30.08 03:22:10 Going to coordinates X=-9.003, Y=-37.669
+30.08 03:22:10 Moving is finished
+30.08 03:23:14 Scanning 404 point from 870
+30.08 03:23:14 Going to coordinates X=-8.993, Y=-37.669
+30.08 03:23:14 Moving is finished
+30.08 03:24:19 Scanning 405 point from 870
+30.08 03:24:19 Going to coordinates X=-8.983, Y=-37.669
+30.08 03:24:19 Moving is finished
+30.08 03:25:24 Scanning 406 point from 870
+30.08 03:25:24 Going to coordinates X=-9.553, Y=-37.619
+30.08 03:25:24 Moving is finished
+30.08 03:26:29 Scanning 407 point from 870
+30.08 03:26:29 Going to coordinates X=-9.543, Y=-37.619
+30.08 03:26:30 Moving is finished
+30.08 03:27:34 Scanning 408 point from 870
+30.08 03:27:34 Going to coordinates X=-9.533, Y=-37.619
+30.08 03:27:34 Moving is finished
+30.08 03:28:39 Scanning 409 point from 870
+30.08 03:28:39 Going to coordinates X=-9.523, Y=-37.619
+30.08 03:28:39 Moving is finished
+30.08 03:29:45 Scanning 410 point from 870
+30.08 03:29:45 Going to coordinates X=-9.513, Y=-37.619
+30.08 03:29:45 Moving is finished
+30.08 03:30:50 Scanning 411 point from 870
+30.08 03:30:50 Going to coordinates X=-9.503, Y=-37.619
+30.08 03:30:50 Moving is finished
+30.08 03:31:55 Scanning 412 point from 870
+30.08 03:31:55 Going to coordinates X=-9.493, Y=-37.619
+30.08 03:31:55 Moving is finished
+30.08 03:33:01 Scanning 413 point from 870
+30.08 03:33:01 Going to coordinates X=-9.483, Y=-37.619
+30.08 03:33:01 Moving is finished
+30.08 03:34:05 Scanning 414 point from 870
+30.08 03:34:05 Going to coordinates X=-9.473, Y=-37.619
+30.08 03:34:05 Moving is finished
+30.08 03:35:10 Scanning 415 point from 870
+30.08 03:35:10 Going to coordinates X=-9.463, Y=-37.619
+30.08 03:35:10 Moving is finished
+30.08 03:36:15 Scanning 416 point from 870
+30.08 03:36:15 Going to coordinates X=-9.453, Y=-37.619
+30.08 03:36:15 Moving is finished
+30.08 03:37:20 Scanning 417 point from 870
+30.08 03:37:20 Going to coordinates X=-9.443, Y=-37.619
+30.08 03:37:20 Moving is finished
+30.08 03:38:25 Scanning 418 point from 870
+30.08 03:38:25 Going to coordinates X=-9.433, Y=-37.619
+30.08 03:38:26 Moving is finished
+30.08 03:39:30 Scanning 419 point from 870
+30.08 03:39:30 Going to coordinates X=-9.423, Y=-37.619
+30.08 03:39:30 Moving is finished
+30.08 03:40:35 Scanning 420 point from 870
+30.08 03:40:35 Going to coordinates X=-9.413, Y=-37.619
+30.08 03:40:35 Moving is finished
+30.08 03:41:40 Scanning 421 point from 870
+30.08 03:41:40 Going to coordinates X=-9.403, Y=-37.619
+30.08 03:41:40 Moving is finished
+30.08 03:42:45 Scanning 422 point from 870
+30.08 03:42:45 Going to coordinates X=-9.393, Y=-37.619
+30.08 03:42:45 Moving is finished
+30.08 03:43:50 Scanning 423 point from 870
+30.08 03:43:50 Going to coordinates X=-9.383, Y=-37.619
+30.08 03:43:50 Moving is finished
+30.08 03:44:55 Scanning 424 point from 870
+30.08 03:44:55 Going to coordinates X=-9.373, Y=-37.619
+30.08 03:44:55 Moving is finished
+30.08 03:46:00 Scanning 425 point from 870
+30.08 03:46:00 Going to coordinates X=-9.363, Y=-37.619
+30.08 03:46:01 Moving is finished
+30.08 03:47:05 Scanning 426 point from 870
+30.08 03:47:05 Going to coordinates X=-9.353, Y=-37.619
+30.08 03:47:05 Moving is finished
+30.08 03:48:10 Scanning 427 point from 870
+30.08 03:48:10 Going to coordinates X=-9.343, Y=-37.619
+30.08 03:48:10 Moving is finished
+30.08 03:49:15 Scanning 428 point from 870
+30.08 03:49:15 Going to coordinates X=-9.333, Y=-37.619
+30.08 03:49:15 Moving is finished
+30.08 03:50:20 Scanning 429 point from 870
+30.08 03:50:20 Going to coordinates X=-9.323, Y=-37.619
+30.08 03:50:20 Moving is finished
+30.08 03:51:24 Scanning 430 point from 870
+30.08 03:51:24 Going to coordinates X=-9.313, Y=-37.619
+30.08 03:51:24 Moving is finished
+30.08 03:52:29 Scanning 431 point from 870
+30.08 03:52:29 Going to coordinates X=-9.303, Y=-37.619
+30.08 03:52:29 Moving is finished
+30.08 03:53:34 Scanning 432 point from 870
+30.08 03:53:34 Going to coordinates X=-9.293, Y=-37.619
+30.08 03:53:34 Moving is finished
+30.08 03:54:38 Scanning 433 point from 870
+30.08 03:54:38 Going to coordinates X=-9.283, Y=-37.619
+30.08 03:54:38 Moving is finished
+30.08 03:55:43 Scanning 434 point from 870
+30.08 03:55:43 Going to coordinates X=-9.273, Y=-37.619
+30.08 03:55:43 Moving is finished
+30.08 03:56:48 Scanning 435 point from 870
+30.08 03:56:48 Going to coordinates X=-9.263, Y=-37.619
+30.08 03:56:48 Moving is finished
+30.08 03:57:53 Scanning 436 point from 870
+30.08 03:57:53 Going to coordinates X=-9.253, Y=-37.619
+30.08 03:57:53 Moving is finished
+30.08 03:58:58 Scanning 437 point from 870
+30.08 03:58:58 Going to coordinates X=-9.243, Y=-37.619
+30.08 03:58:58 Moving is finished
+30.08 04:00:03 Scanning 438 point from 870
+30.08 04:00:03 Going to coordinates X=-9.233, Y=-37.619
+30.08 04:00:03 Moving is finished
+30.08 04:01:07 Scanning 439 point from 870
+30.08 04:01:07 Going to coordinates X=-9.223, Y=-37.619
+30.08 04:01:07 Moving is finished
+30.08 04:02:13 Scanning 440 point from 870
+30.08 04:02:13 Going to coordinates X=-9.213, Y=-37.619
+30.08 04:02:13 Moving is finished
+30.08 04:03:18 Scanning 441 point from 870
+30.08 04:03:18 Going to coordinates X=-9.203, Y=-37.619
+30.08 04:03:18 Moving is finished
+30.08 04:04:23 Scanning 442 point from 870
+30.08 04:04:23 Going to coordinates X=-9.193, Y=-37.619
+30.08 04:04:23 Moving is finished
+30.08 04:05:28 Scanning 443 point from 870
+30.08 04:05:28 Going to coordinates X=-9.183, Y=-37.619
+30.08 04:05:28 Moving is finished
+30.08 04:06:33 Scanning 444 point from 870
+30.08 04:06:33 Going to coordinates X=-9.173, Y=-37.619
+30.08 04:06:33 Moving is finished
+30.08 04:07:38 Scanning 445 point from 870
+30.08 04:07:38 Going to coordinates X=-9.163, Y=-37.619
+30.08 04:07:38 Moving is finished
+30.08 04:08:42 Scanning 446 point from 870
+30.08 04:08:42 Going to coordinates X=-9.153, Y=-37.619
+30.08 04:08:43 Moving is finished
+30.08 04:09:47 Scanning 447 point from 870
+30.08 04:09:47 Going to coordinates X=-9.143, Y=-37.619
+30.08 04:09:47 Moving is finished
+30.08 04:10:51 Scanning 448 point from 870
+30.08 04:10:51 Going to coordinates X=-9.133, Y=-37.619
+30.08 04:10:52 Moving is finished
+30.08 04:11:56 Scanning 449 point from 870
+30.08 04:11:56 Going to coordinates X=-9.123, Y=-37.619
+30.08 04:11:56 Moving is finished
+30.08 04:13:02 Scanning 450 point from 870
+30.08 04:13:02 Going to coordinates X=-9.113, Y=-37.619
+30.08 04:13:02 Moving is finished
+30.08 04:14:06 Scanning 451 point from 870
+30.08 04:14:06 Going to coordinates X=-9.103, Y=-37.619
+30.08 04:14:07 Moving is finished
+30.08 04:15:11 Scanning 452 point from 870
+30.08 04:15:11 Going to coordinates X=-9.093, Y=-37.619
+30.08 04:15:11 Moving is finished
+30.08 04:16:16 Scanning 453 point from 870
+30.08 04:16:16 Going to coordinates X=-9.083, Y=-37.619
+30.08 04:16:16 Moving is finished
+30.08 04:17:21 Scanning 454 point from 870
+30.08 04:17:21 Going to coordinates X=-9.073, Y=-37.619
+30.08 04:17:21 Moving is finished
+30.08 04:18:26 Scanning 455 point from 870
+30.08 04:18:26 Going to coordinates X=-9.063, Y=-37.619
+30.08 04:18:26 Moving is finished
+30.08 04:19:31 Scanning 456 point from 870
+30.08 04:19:31 Going to coordinates X=-9.053, Y=-37.619
+30.08 04:19:31 Moving is finished
+30.08 04:20:36 Scanning 457 point from 870
+30.08 04:20:36 Going to coordinates X=-9.043, Y=-37.619
+30.08 04:20:36 Moving is finished
+30.08 04:21:41 Scanning 458 point from 870
+30.08 04:21:41 Going to coordinates X=-9.033, Y=-37.619
+30.08 04:21:41 Moving is finished
+30.08 04:22:46 Scanning 459 point from 870
+30.08 04:22:46 Going to coordinates X=-9.023, Y=-37.619
+30.08 04:22:46 Moving is finished
+30.08 04:23:50 Scanning 460 point from 870
+30.08 04:23:50 Going to coordinates X=-9.013, Y=-37.619
+30.08 04:23:51 Moving is finished
+30.08 04:24:55 Scanning 461 point from 870
+30.08 04:24:55 Going to coordinates X=-9.003, Y=-37.619
+30.08 04:24:55 Moving is finished
+30.08 04:26:00 Scanning 462 point from 870
+30.08 04:26:00 Going to coordinates X=-8.993, Y=-37.619
+30.08 04:26:00 Moving is finished
+30.08 04:27:05 Scanning 463 point from 870
+30.08 04:27:05 Going to coordinates X=-8.983, Y=-37.619
+30.08 04:27:05 Moving is finished
+30.08 04:28:09 Scanning 464 point from 870
+30.08 04:28:09 Going to coordinates X=-9.553, Y=-37.569
+30.08 04:28:10 Moving is finished
+30.08 04:29:15 Scanning 465 point from 870
+30.08 04:29:15 Going to coordinates X=-9.543, Y=-37.569
+30.08 04:29:15 Moving is finished
+30.08 04:30:21 Scanning 466 point from 870
+30.08 04:30:21 Going to coordinates X=-9.533, Y=-37.569
+30.08 04:30:21 Moving is finished
+30.08 04:31:26 Scanning 467 point from 870
+30.08 04:31:26 Going to coordinates X=-9.523, Y=-37.569
+30.08 04:31:26 Moving is finished
+30.08 04:32:31 Scanning 468 point from 870
+30.08 04:32:31 Going to coordinates X=-9.513, Y=-37.569
+30.08 04:32:31 Moving is finished
+30.08 04:33:35 Scanning 469 point from 870
+30.08 04:33:35 Going to coordinates X=-9.503, Y=-37.569
+30.08 04:33:35 Moving is finished
+30.08 04:34:41 Scanning 470 point from 870
+30.08 04:34:41 Going to coordinates X=-9.493, Y=-37.569
+30.08 04:34:41 Moving is finished
+30.08 04:35:46 Scanning 471 point from 870
+30.08 04:35:46 Going to coordinates X=-9.483, Y=-37.569
+30.08 04:35:46 Moving is finished
+30.08 04:36:51 Scanning 472 point from 870
+30.08 04:36:51 Going to coordinates X=-9.473, Y=-37.569
+30.08 04:36:51 Moving is finished
+30.08 04:37:56 Scanning 473 point from 870
+30.08 04:37:56 Going to coordinates X=-9.463, Y=-37.569
+30.08 04:37:56 Moving is finished
+30.08 04:39:01 Scanning 474 point from 870
+30.08 04:39:01 Going to coordinates X=-9.453, Y=-37.569
+30.08 04:39:01 Moving is finished
+30.08 04:40:06 Scanning 475 point from 870
+30.08 04:40:06 Going to coordinates X=-9.443, Y=-37.569
+30.08 04:40:07 Moving is finished
+30.08 04:41:11 Scanning 476 point from 870
+30.08 04:41:11 Going to coordinates X=-9.433, Y=-37.569
+30.08 04:41:11 Moving is finished
+30.08 04:42:15 Scanning 477 point from 870
+30.08 04:42:15 Going to coordinates X=-9.423, Y=-37.569
+30.08 04:42:15 Moving is finished
+30.08 04:43:20 Scanning 478 point from 870
+30.08 04:43:20 Going to coordinates X=-9.413, Y=-37.569
+30.08 04:43:20 Moving is finished
+30.08 04:44:25 Scanning 479 point from 870
+30.08 04:44:25 Going to coordinates X=-9.403, Y=-37.569
+30.08 04:44:25 Moving is finished
+30.08 04:45:30 Scanning 480 point from 870
+30.08 04:45:30 Going to coordinates X=-9.393, Y=-37.569
+30.08 04:45:30 Moving is finished
+30.08 04:46:34 Scanning 481 point from 870
+30.08 04:46:34 Going to coordinates X=-9.383, Y=-37.569
+30.08 04:46:34 Moving is finished
+30.08 04:47:39 Scanning 482 point from 870
+30.08 04:47:39 Going to coordinates X=-9.373, Y=-37.569
+30.08 04:47:39 Moving is finished
+30.08 04:48:43 Scanning 483 point from 870
+30.08 04:48:43 Going to coordinates X=-9.363, Y=-37.569
+30.08 04:48:43 Moving is finished
+30.08 04:49:49 Scanning 484 point from 870
+30.08 04:49:49 Going to coordinates X=-9.353, Y=-37.569
+30.08 04:49:49 Moving is finished
+30.08 04:50:54 Scanning 485 point from 870
+30.08 04:50:54 Going to coordinates X=-9.343, Y=-37.569
+30.08 04:50:54 Moving is finished
+30.08 04:51:59 Scanning 486 point from 870
+30.08 04:51:59 Going to coordinates X=-9.333, Y=-37.569
+30.08 04:51:59 Moving is finished
+30.08 04:53:04 Scanning 487 point from 870
+30.08 04:53:04 Going to coordinates X=-9.323, Y=-37.569
+30.08 04:53:04 Moving is finished
+30.08 04:54:09 Scanning 488 point from 870
+30.08 04:54:09 Going to coordinates X=-9.313, Y=-37.569
+30.08 04:54:09 Moving is finished
+30.08 04:55:14 Scanning 489 point from 870
+30.08 04:55:14 Going to coordinates X=-9.303, Y=-37.569
+30.08 04:55:14 Moving is finished
+30.08 04:56:19 Scanning 490 point from 870
+30.08 04:56:19 Going to coordinates X=-9.293, Y=-37.569
+30.08 04:56:19 Moving is finished
+30.08 04:57:24 Scanning 491 point from 870
+30.08 04:57:24 Going to coordinates X=-9.283, Y=-37.569
+30.08 04:57:24 Moving is finished
+30.08 04:58:29 Scanning 492 point from 870
+30.08 04:58:29 Going to coordinates X=-9.273, Y=-37.569
+30.08 04:58:29 Moving is finished
+30.08 04:59:34 Scanning 493 point from 870
+30.08 04:59:34 Going to coordinates X=-9.263, Y=-37.569
+30.08 04:59:34 Moving is finished
+30.08 05:00:38 Scanning 494 point from 870
+30.08 05:00:38 Going to coordinates X=-9.253, Y=-37.569
+30.08 05:00:38 Moving is finished
+30.08 05:01:43 Scanning 495 point from 870
+30.08 05:01:43 Going to coordinates X=-9.243, Y=-37.569
+30.08 05:01:43 Moving is finished
+30.08 05:02:48 Scanning 496 point from 870
+30.08 05:02:48 Going to coordinates X=-9.233, Y=-37.569
+30.08 05:02:48 Moving is finished
+30.08 05:03:52 Scanning 497 point from 870
+30.08 05:03:52 Going to coordinates X=-9.223, Y=-37.569
+30.08 05:03:52 Moving is finished
+30.08 05:04:57 Scanning 498 point from 870
+30.08 05:04:57 Going to coordinates X=-9.213, Y=-37.569
+30.08 05:04:57 Moving is finished
+30.08 05:06:02 Scanning 499 point from 870
+30.08 05:06:02 Going to coordinates X=-9.203, Y=-37.569
+30.08 05:06:02 Moving is finished
+30.08 05:07:07 Scanning 500 point from 870
+30.08 05:07:07 Going to coordinates X=-9.193, Y=-37.569
+30.08 05:07:07 Moving is finished
+30.08 05:08:12 Scanning 501 point from 870
+30.08 05:08:12 Going to coordinates X=-9.183, Y=-37.569
+30.08 05:08:12 Moving is finished
+30.08 05:09:18 Scanning 502 point from 870
+30.08 05:09:18 Going to coordinates X=-9.173, Y=-37.569
+30.08 05:09:18 Moving is finished
+30.08 05:10:23 Scanning 503 point from 870
+30.08 05:10:23 Going to coordinates X=-9.163, Y=-37.569
+30.08 05:10:23 Moving is finished
+30.08 05:11:28 Scanning 504 point from 870
+30.08 05:11:28 Going to coordinates X=-9.153, Y=-37.569
+30.08 05:11:28 Moving is finished
+30.08 05:12:34 Scanning 505 point from 870
+30.08 05:12:34 Going to coordinates X=-9.143, Y=-37.569
+30.08 05:12:34 Moving is finished
+30.08 05:13:39 Scanning 506 point from 870
+30.08 05:13:39 Going to coordinates X=-9.133, Y=-37.569
+30.08 05:13:39 Moving is finished
+30.08 05:14:44 Scanning 507 point from 870
+30.08 05:14:44 Going to coordinates X=-9.123, Y=-37.569
+30.08 05:14:44 Moving is finished
+30.08 05:15:49 Scanning 508 point from 870
+30.08 05:15:49 Going to coordinates X=-9.113, Y=-37.569
+30.08 05:15:49 Moving is finished
+30.08 05:16:54 Scanning 509 point from 870
+30.08 05:16:54 Going to coordinates X=-9.103, Y=-37.569
+30.08 05:16:54 Moving is finished
+30.08 05:17:58 Scanning 510 point from 870
+30.08 05:17:58 Going to coordinates X=-9.093, Y=-37.569
+30.08 05:17:59 Moving is finished
+30.08 05:19:03 Scanning 511 point from 870
+30.08 05:19:03 Going to coordinates X=-9.083, Y=-37.569
+30.08 05:19:03 Moving is finished
+30.08 05:20:08 Scanning 512 point from 870
+30.08 05:20:08 Going to coordinates X=-9.073, Y=-37.569
+30.08 05:20:08 Moving is finished
+30.08 05:21:13 Scanning 513 point from 870
+30.08 05:21:13 Going to coordinates X=-9.063, Y=-37.569
+30.08 05:21:13 Moving is finished
+30.08 05:22:17 Scanning 514 point from 870
+30.08 05:22:17 Going to coordinates X=-9.053, Y=-37.569
+30.08 05:22:18 Moving is finished
+30.08 05:23:22 Scanning 515 point from 870
+30.08 05:23:22 Going to coordinates X=-9.043, Y=-37.569
+30.08 05:23:22 Moving is finished
+30.08 05:24:27 Scanning 516 point from 870
+30.08 05:24:27 Going to coordinates X=-9.033, Y=-37.569
+30.08 05:24:27 Moving is finished
+30.08 05:25:31 Scanning 517 point from 870
+30.08 05:25:31 Going to coordinates X=-9.023, Y=-37.569
+30.08 05:25:31 Moving is finished
+30.08 05:26:36 Scanning 518 point from 870
+30.08 05:26:36 Going to coordinates X=-9.013, Y=-37.569
+30.08 05:26:36 Moving is finished
+30.08 05:27:41 Scanning 519 point from 870
+30.08 05:27:41 Going to coordinates X=-9.003, Y=-37.569
+30.08 05:27:41 Moving is finished
+30.08 05:28:46 Scanning 520 point from 870
+30.08 05:28:46 Going to coordinates X=-8.993, Y=-37.569
+30.08 05:28:46 Moving is finished
+30.08 05:29:51 Scanning 521 point from 870
+30.08 05:29:51 Going to coordinates X=-8.983, Y=-37.569
+30.08 05:29:51 Moving is finished
+30.08 05:30:55 Scanning 522 point from 870
+30.08 05:30:55 Going to coordinates X=-9.553, Y=-37.519
+30.08 05:30:56 Moving is finished
+30.08 05:32:00 Scanning 523 point from 870
+30.08 05:32:00 Going to coordinates X=-9.543, Y=-37.519
+30.08 05:32:01 Moving is finished
+30.08 05:33:05 Scanning 524 point from 870
+30.08 05:33:05 Going to coordinates X=-9.533, Y=-37.519
+30.08 05:33:05 Moving is finished
+30.08 05:34:10 Scanning 525 point from 870
+30.08 05:34:10 Going to coordinates X=-9.523, Y=-37.519
+30.08 05:34:10 Moving is finished
+30.08 05:35:15 Scanning 526 point from 870
+30.08 05:35:15 Going to coordinates X=-9.513, Y=-37.519
+30.08 05:35:15 Moving is finished
+30.08 05:36:19 Scanning 527 point from 870
+30.08 05:36:19 Going to coordinates X=-9.503, Y=-37.519
+30.08 05:36:20 Moving is finished
+30.08 05:37:24 Scanning 528 point from 870
+30.08 05:37:24 Going to coordinates X=-9.493, Y=-37.519
+30.08 05:37:24 Moving is finished
+30.08 05:38:29 Scanning 529 point from 870
+30.08 05:38:29 Going to coordinates X=-9.483, Y=-37.519
+30.08 05:38:29 Moving is finished
+30.08 05:39:34 Scanning 530 point from 870
+30.08 05:39:34 Going to coordinates X=-9.473, Y=-37.519
+30.08 05:39:34 Moving is finished
+30.08 05:40:39 Scanning 531 point from 870
+30.08 05:40:39 Going to coordinates X=-9.463, Y=-37.519
+30.08 05:40:39 Moving is finished
+30.08 05:41:43 Scanning 532 point from 870
+30.08 05:41:43 Going to coordinates X=-9.453, Y=-37.519
+30.08 05:41:43 Moving is finished
+30.08 05:42:48 Scanning 533 point from 870
+30.08 05:42:48 Going to coordinates X=-9.443, Y=-37.519
+30.08 05:42:48 Moving is finished
+30.08 05:43:53 Scanning 534 point from 870
+30.08 05:43:53 Going to coordinates X=-9.433, Y=-37.519
+30.08 05:43:53 Moving is finished
+30.08 05:44:57 Scanning 535 point from 870
+30.08 05:44:57 Going to coordinates X=-9.423, Y=-37.519
+30.08 05:44:58 Moving is finished
+30.08 05:46:02 Scanning 536 point from 870
+30.08 05:46:02 Going to coordinates X=-9.413, Y=-37.519
+30.08 05:46:02 Moving is finished
+30.08 05:47:06 Scanning 537 point from 870
+30.08 05:47:06 Going to coordinates X=-9.403, Y=-37.519
+30.08 05:47:07 Moving is finished
+30.08 05:48:12 Scanning 538 point from 870
+30.08 05:48:12 Going to coordinates X=-9.393, Y=-37.519
+30.08 05:48:12 Moving is finished
+30.08 05:49:16 Scanning 539 point from 870
+30.08 05:49:16 Going to coordinates X=-9.383, Y=-37.519
+30.08 05:49:17 Moving is finished
+30.08 05:50:21 Scanning 540 point from 870
+30.08 05:50:21 Going to coordinates X=-9.373, Y=-37.519
+30.08 05:50:21 Moving is finished
+30.08 05:51:27 Scanning 541 point from 870
+30.08 05:51:27 Going to coordinates X=-9.363, Y=-37.519
+30.08 05:51:27 Moving is finished
+30.08 05:52:31 Scanning 542 point from 870
+30.08 05:52:31 Going to coordinates X=-9.353, Y=-37.519
+30.08 05:52:32 Moving is finished
+30.08 05:53:37 Scanning 543 point from 870
+30.08 05:53:37 Going to coordinates X=-9.343, Y=-37.519
+30.08 05:53:37 Moving is finished
+30.08 05:54:41 Scanning 544 point from 870
+30.08 05:54:41 Going to coordinates X=-9.333, Y=-37.519
+30.08 05:54:42 Moving is finished
+30.08 05:55:47 Scanning 545 point from 870
+30.08 05:55:47 Going to coordinates X=-9.323, Y=-37.519
+30.08 05:55:47 Moving is finished
+30.08 05:56:52 Scanning 546 point from 870
+30.08 05:56:52 Going to coordinates X=-9.313, Y=-37.519
+30.08 05:56:52 Moving is finished
+30.08 05:57:57 Scanning 547 point from 870
+30.08 05:57:57 Going to coordinates X=-9.303, Y=-37.519
+30.08 05:57:57 Moving is finished
+30.08 05:59:02 Scanning 548 point from 870
+30.08 05:59:02 Going to coordinates X=-9.293, Y=-37.519
+30.08 05:59:02 Moving is finished
+30.08 06:00:06 Scanning 549 point from 870
+30.08 06:00:06 Going to coordinates X=-9.283, Y=-37.519
+30.08 06:00:06 Moving is finished
+30.08 06:01:11 Scanning 550 point from 870
+30.08 06:01:11 Going to coordinates X=-9.273, Y=-37.519
+30.08 06:01:11 Moving is finished
+30.08 06:02:17 Scanning 551 point from 870
+30.08 06:02:17 Going to coordinates X=-9.263, Y=-37.519
+30.08 06:02:17 Moving is finished
+30.08 06:03:21 Scanning 552 point from 870
+30.08 06:03:21 Going to coordinates X=-9.253, Y=-37.519
+30.08 06:03:22 Moving is finished
+30.08 06:04:26 Scanning 553 point from 870
+30.08 06:04:26 Going to coordinates X=-9.243, Y=-37.519
+30.08 06:04:26 Moving is finished
+30.08 06:05:31 Scanning 554 point from 870
+30.08 06:05:31 Going to coordinates X=-9.233, Y=-37.519
+30.08 06:05:31 Moving is finished
+30.08 06:06:36 Scanning 555 point from 870
+30.08 06:06:36 Going to coordinates X=-9.223, Y=-37.519
+30.08 06:06:37 Moving is finished
+30.08 06:07:42 Scanning 556 point from 870
+30.08 06:07:42 Going to coordinates X=-9.213, Y=-37.519
+30.08 06:07:42 Moving is finished
+30.08 06:08:46 Scanning 557 point from 870
+30.08 06:08:46 Going to coordinates X=-9.203, Y=-37.519
+30.08 06:08:46 Moving is finished
+30.08 06:09:51 Scanning 558 point from 870
+30.08 06:09:51 Going to coordinates X=-9.193, Y=-37.519
+30.08 06:09:51 Moving is finished
+30.08 06:10:56 Scanning 559 point from 870
+30.08 06:10:56 Going to coordinates X=-9.183, Y=-37.519
+30.08 06:10:56 Moving is finished
+30.08 06:12:00 Scanning 560 point from 870
+30.08 06:12:00 Going to coordinates X=-9.173, Y=-37.519
+30.08 06:12:01 Moving is finished
+30.08 06:13:05 Scanning 561 point from 870
+30.08 06:13:05 Going to coordinates X=-9.163, Y=-37.519
+30.08 06:13:05 Moving is finished
+30.08 06:14:10 Scanning 562 point from 870
+30.08 06:14:10 Going to coordinates X=-9.153, Y=-37.519
+30.08 06:14:10 Moving is finished
+30.08 06:15:15 Scanning 563 point from 870
+30.08 06:15:15 Going to coordinates X=-9.143, Y=-37.519
+30.08 06:15:15 Moving is finished
+30.08 06:16:19 Scanning 564 point from 870
+30.08 06:16:19 Going to coordinates X=-9.133, Y=-37.519
+30.08 06:16:20 Moving is finished
+30.08 06:17:24 Scanning 565 point from 870
+30.08 06:17:24 Going to coordinates X=-9.123, Y=-37.519
+30.08 06:17:24 Moving is finished
+30.08 06:18:29 Scanning 566 point from 870
+30.08 06:18:29 Going to coordinates X=-9.113, Y=-37.519
+30.08 06:18:29 Moving is finished
+30.08 06:19:33 Scanning 567 point from 870
+30.08 06:19:33 Going to coordinates X=-9.103, Y=-37.519
+30.08 06:19:34 Moving is finished
+30.08 06:20:38 Scanning 568 point from 870
+30.08 06:20:38 Going to coordinates X=-9.093, Y=-37.519
+30.08 06:20:38 Moving is finished
+30.08 06:21:43 Scanning 569 point from 870
+30.08 06:21:43 Going to coordinates X=-9.083, Y=-37.519
+30.08 06:21:43 Moving is finished
+30.08 06:22:47 Scanning 570 point from 870
+30.08 06:22:47 Going to coordinates X=-9.073, Y=-37.519
+30.08 06:22:47 Moving is finished
+30.08 06:23:52 Scanning 571 point from 870
+30.08 06:23:52 Going to coordinates X=-9.063, Y=-37.519
+30.08 06:23:52 Moving is finished
+30.08 06:24:57 Scanning 572 point from 870
+30.08 06:24:57 Going to coordinates X=-9.053, Y=-37.519
+30.08 06:24:57 Moving is finished
+30.08 06:26:02 Scanning 573 point from 870
+30.08 06:26:02 Going to coordinates X=-9.043, Y=-37.519
+30.08 06:26:02 Moving is finished
+30.08 06:27:07 Scanning 574 point from 870
+30.08 06:27:07 Going to coordinates X=-9.033, Y=-37.519
+30.08 06:27:08 Moving is finished
+30.08 06:28:12 Scanning 575 point from 870
+30.08 06:28:12 Going to coordinates X=-9.023, Y=-37.519
+30.08 06:28:12 Moving is finished
+30.08 06:29:17 Scanning 576 point from 870
+30.08 06:29:17 Going to coordinates X=-9.013, Y=-37.519
+30.08 06:29:17 Moving is finished
+30.08 06:30:21 Scanning 577 point from 870
+30.08 06:30:21 Going to coordinates X=-9.003, Y=-37.519
+30.08 06:30:21 Moving is finished
+30.08 06:31:26 Scanning 578 point from 870
+30.08 06:31:26 Going to coordinates X=-8.993, Y=-37.519
+30.08 06:31:26 Moving is finished
+30.08 06:32:31 Scanning 579 point from 870
+30.08 06:32:31 Going to coordinates X=-8.983, Y=-37.519
+30.08 06:32:31 Moving is finished
+30.08 06:33:36 Scanning 580 point from 870
+30.08 06:33:36 Going to coordinates X=-9.553, Y=-37.469
+30.08 06:33:37 Moving is finished
+30.08 06:34:41 Scanning 581 point from 870
+30.08 06:34:41 Going to coordinates X=-9.543, Y=-37.469
+30.08 06:34:41 Moving is finished
+30.08 06:35:46 Scanning 582 point from 870
+30.08 06:35:46 Going to coordinates X=-9.533, Y=-37.469
+30.08 06:35:46 Moving is finished
+30.08 06:36:52 Scanning 583 point from 870
+30.08 06:36:52 Going to coordinates X=-9.523, Y=-37.469
+30.08 06:36:52 Moving is finished
+30.08 06:37:57 Scanning 584 point from 870
+30.08 06:37:57 Going to coordinates X=-9.513, Y=-37.469
+30.08 06:37:57 Moving is finished
+30.08 06:39:02 Scanning 585 point from 870
+30.08 06:39:02 Going to coordinates X=-9.503, Y=-37.469
+30.08 06:39:02 Moving is finished
+30.08 06:40:07 Scanning 586 point from 870
+30.08 06:40:07 Going to coordinates X=-9.493, Y=-37.469
+30.08 06:40:08 Moving is finished
+30.08 06:41:12 Scanning 587 point from 870
+30.08 06:41:12 Going to coordinates X=-9.483, Y=-37.469
+30.08 06:41:12 Moving is finished
+30.08 06:42:17 Scanning 588 point from 870
+30.08 06:42:17 Going to coordinates X=-9.473, Y=-37.469
+30.08 06:42:17 Moving is finished
+30.08 06:43:22 Scanning 589 point from 870
+30.08 06:43:22 Going to coordinates X=-9.463, Y=-37.469
+30.08 06:43:22 Moving is finished
+30.08 06:44:27 Scanning 590 point from 870
+30.08 06:44:27 Going to coordinates X=-9.453, Y=-37.469
+30.08 06:44:27 Moving is finished
+30.08 06:45:32 Scanning 591 point from 870
+30.08 06:45:32 Going to coordinates X=-9.443, Y=-37.469
+30.08 06:45:32 Moving is finished
+30.08 06:46:36 Scanning 592 point from 870
+30.08 06:46:36 Going to coordinates X=-9.433, Y=-37.469
+30.08 06:46:36 Moving is finished
+30.08 06:47:41 Scanning 593 point from 870
+30.08 06:47:41 Going to coordinates X=-9.423, Y=-37.469
+30.08 06:47:41 Moving is finished
+30.08 06:48:46 Scanning 594 point from 870
+30.08 06:48:46 Going to coordinates X=-9.413, Y=-37.469
+30.08 06:48:46 Moving is finished
+30.08 06:49:50 Scanning 595 point from 870
+30.08 06:49:50 Going to coordinates X=-9.403, Y=-37.469
+30.08 06:49:50 Moving is finished
+30.08 06:50:56 Scanning 596 point from 870
+30.08 06:50:56 Going to coordinates X=-9.393, Y=-37.469
+30.08 06:50:56 Moving is finished
+30.08 06:52:01 Scanning 597 point from 870
+30.08 06:52:01 Going to coordinates X=-9.383, Y=-37.469
+30.08 06:52:01 Moving is finished
+30.08 06:53:06 Scanning 598 point from 870
+30.08 06:53:06 Going to coordinates X=-9.373, Y=-37.469
+30.08 06:53:06 Moving is finished
+30.08 06:54:10 Scanning 599 point from 870
+30.08 06:54:10 Going to coordinates X=-9.363, Y=-37.469
+30.08 06:54:11 Moving is finished
+30.08 06:55:15 Scanning 600 point from 870
+30.08 06:55:15 Going to coordinates X=-9.353, Y=-37.469
+30.08 06:55:16 Moving is finished
+30.08 06:56:20 Scanning 601 point from 870
+30.08 06:56:20 Going to coordinates X=-9.343, Y=-37.469
+30.08 06:56:20 Moving is finished
+30.08 06:57:25 Scanning 602 point from 870
+30.08 06:57:25 Going to coordinates X=-9.333, Y=-37.469
+30.08 06:57:25 Moving is finished
+30.08 06:58:30 Scanning 603 point from 870
+30.08 06:58:30 Going to coordinates X=-9.323, Y=-37.469
+30.08 06:58:30 Moving is finished
+30.08 06:59:35 Scanning 604 point from 870
+30.08 06:59:35 Going to coordinates X=-9.313, Y=-37.469
+30.08 06:59:35 Moving is finished
+30.08 07:00:40 Scanning 605 point from 870
+30.08 07:00:40 Going to coordinates X=-9.303, Y=-37.469
+30.08 07:00:40 Moving is finished
+30.08 07:01:44 Scanning 606 point from 870
+30.08 07:01:44 Going to coordinates X=-9.293, Y=-37.469
+30.08 07:01:45 Moving is finished
+30.08 07:02:49 Scanning 607 point from 870
+30.08 07:02:49 Going to coordinates X=-9.283, Y=-37.469
+30.08 07:02:49 Moving is finished
+30.08 07:03:54 Scanning 608 point from 870
+30.08 07:03:54 Going to coordinates X=-9.273, Y=-37.469
+30.08 07:03:54 Moving is finished
+30.08 07:04:59 Scanning 609 point from 870
+30.08 07:04:59 Going to coordinates X=-9.263, Y=-37.469
+30.08 07:04:59 Moving is finished
+30.08 07:06:03 Scanning 610 point from 870
+30.08 07:06:03 Going to coordinates X=-9.253, Y=-37.469
+30.08 07:06:04 Moving is finished
+30.08 07:07:09 Scanning 611 point from 870
+30.08 07:07:09 Going to coordinates X=-9.243, Y=-37.469
+30.08 07:07:09 Moving is finished
+30.08 07:08:14 Scanning 612 point from 870
+30.08 07:08:14 Going to coordinates X=-9.233, Y=-37.469
+30.08 07:08:14 Moving is finished
+30.08 07:09:19 Scanning 613 point from 870
+30.08 07:09:19 Going to coordinates X=-9.223, Y=-37.469
+30.08 07:09:19 Moving is finished
+30.08 07:10:24 Scanning 614 point from 870
+30.08 07:10:24 Going to coordinates X=-9.213, Y=-37.469
+30.08 07:10:24 Moving is finished
+30.08 07:11:29 Scanning 615 point from 870
+30.08 07:11:29 Going to coordinates X=-9.203, Y=-37.469
+30.08 07:11:29 Moving is finished
+30.08 07:12:34 Scanning 616 point from 870
+30.08 07:12:34 Going to coordinates X=-9.193, Y=-37.469
+30.08 07:12:34 Moving is finished
+30.08 07:13:39 Scanning 617 point from 870
+30.08 07:13:39 Going to coordinates X=-9.183, Y=-37.469
+30.08 07:13:39 Moving is finished
+30.08 07:14:43 Scanning 618 point from 870
+30.08 07:14:43 Going to coordinates X=-9.173, Y=-37.469
+30.08 07:14:43 Moving is finished
+30.08 07:15:48 Scanning 619 point from 870
+30.08 07:15:48 Going to coordinates X=-9.163, Y=-37.469
+30.08 07:15:48 Moving is finished
+30.08 07:16:53 Scanning 620 point from 870
+30.08 07:16:53 Going to coordinates X=-9.153, Y=-37.469
+30.08 07:16:53 Moving is finished
+30.08 07:17:58 Scanning 621 point from 870
+30.08 07:17:58 Going to coordinates X=-9.143, Y=-37.469
+30.08 07:17:59 Moving is finished
+30.08 07:19:03 Scanning 622 point from 870
+30.08 07:19:03 Going to coordinates X=-9.133, Y=-37.469
+30.08 07:19:03 Moving is finished
+30.08 07:20:09 Scanning 623 point from 870
+30.08 07:20:09 Going to coordinates X=-9.123, Y=-37.469
+30.08 07:20:09 Moving is finished
+30.08 07:21:14 Scanning 624 point from 870
+30.08 07:21:14 Going to coordinates X=-9.113, Y=-37.469
+30.08 07:21:14 Moving is finished
+30.08 07:22:19 Scanning 625 point from 870
+30.08 07:22:19 Going to coordinates X=-9.103, Y=-37.469
+30.08 07:22:19 Moving is finished
+30.08 07:23:24 Scanning 626 point from 870
+30.08 07:23:24 Going to coordinates X=-9.093, Y=-37.469
+30.08 07:23:24 Moving is finished
+30.08 07:24:29 Scanning 627 point from 870
+30.08 07:24:29 Going to coordinates X=-9.083, Y=-37.469
+30.08 07:24:29 Moving is finished
+30.08 07:25:33 Scanning 628 point from 870
+30.08 07:25:33 Going to coordinates X=-9.073, Y=-37.469
+30.08 07:25:34 Moving is finished
+30.08 07:26:38 Scanning 629 point from 870
+30.08 07:26:38 Going to coordinates X=-9.063, Y=-37.469
+30.08 07:26:38 Moving is finished
+30.08 07:27:42 Scanning 630 point from 870
+30.08 07:27:42 Going to coordinates X=-9.053, Y=-37.469
+30.08 07:27:43 Moving is finished
+30.08 07:28:47 Scanning 631 point from 870
+30.08 07:28:47 Going to coordinates X=-9.043, Y=-37.469
+30.08 07:28:47 Moving is finished
+30.08 07:29:52 Scanning 632 point from 870
+30.08 07:29:52 Going to coordinates X=-9.033, Y=-37.469
+30.08 07:29:52 Moving is finished
+30.08 07:30:57 Scanning 633 point from 870
+30.08 07:30:57 Going to coordinates X=-9.023, Y=-37.469
+30.08 07:30:57 Moving is finished
+30.08 07:32:02 Scanning 634 point from 870
+30.08 07:32:02 Going to coordinates X=-9.013, Y=-37.469
+30.08 07:32:02 Moving is finished
+30.08 07:33:07 Scanning 635 point from 870
+30.08 07:33:07 Going to coordinates X=-9.003, Y=-37.469
+30.08 07:33:07 Moving is finished
+30.08 07:34:11 Scanning 636 point from 870
+30.08 07:34:11 Going to coordinates X=-8.993, Y=-37.469
+30.08 07:34:11 Moving is finished
+30.08 07:35:16 Scanning 637 point from 870
+30.08 07:35:16 Going to coordinates X=-8.983, Y=-37.469
+30.08 07:35:17 Moving is finished
+30.08 07:36:22 Scanning 638 point from 870
+30.08 07:36:22 Going to coordinates X=-9.553, Y=-37.419
+30.08 07:36:22 Moving is finished
+30.08 07:37:27 Scanning 639 point from 870
+30.08 07:37:27 Going to coordinates X=-9.543, Y=-37.419
+30.08 07:37:27 Moving is finished
+30.08 07:38:32 Scanning 640 point from 870
+30.08 07:38:32 Going to coordinates X=-9.533, Y=-37.419
+30.08 07:38:32 Moving is finished
+30.08 07:39:37 Scanning 641 point from 870
+30.08 07:39:37 Going to coordinates X=-9.523, Y=-37.419
+30.08 07:39:38 Moving is finished
+30.08 07:40:42 Scanning 642 point from 870
+30.08 07:40:42 Going to coordinates X=-9.513, Y=-37.419
+30.08 07:40:42 Moving is finished
+30.08 07:41:48 Scanning 643 point from 870
+30.08 07:41:48 Going to coordinates X=-9.503, Y=-37.419
+30.08 07:41:48 Moving is finished
+30.08 07:42:53 Scanning 644 point from 870
+30.08 07:42:53 Going to coordinates X=-9.493, Y=-37.419
+30.08 07:42:53 Moving is finished
+30.08 07:43:59 Scanning 645 point from 870
+30.08 07:43:59 Going to coordinates X=-9.483, Y=-37.419
+30.08 07:43:59 Moving is finished
+30.08 07:45:03 Scanning 646 point from 870
+30.08 07:45:03 Going to coordinates X=-9.473, Y=-37.419
+30.08 07:45:04 Moving is finished
+30.08 07:46:08 Scanning 647 point from 870
+30.08 07:46:08 Going to coordinates X=-9.463, Y=-37.419
+30.08 07:46:08 Moving is finished
+30.08 07:47:13 Scanning 648 point from 870
+30.08 07:47:13 Going to coordinates X=-9.453, Y=-37.419
+30.08 07:47:13 Moving is finished
+30.08 07:48:17 Scanning 649 point from 870
+30.08 07:48:17 Going to coordinates X=-9.443, Y=-37.419
+30.08 07:48:18 Moving is finished
+30.08 07:49:22 Scanning 650 point from 870
+30.08 07:49:22 Going to coordinates X=-9.433, Y=-37.419
+30.08 07:49:23 Moving is finished
+30.08 07:50:28 Scanning 651 point from 870
+30.08 07:50:28 Going to coordinates X=-9.423, Y=-37.419
+30.08 07:50:28 Moving is finished
+30.08 07:51:32 Scanning 652 point from 870
+30.08 07:51:32 Going to coordinates X=-9.413, Y=-37.419
+30.08 07:51:32 Moving is finished
+30.08 07:52:37 Scanning 653 point from 870
+30.08 07:52:37 Going to coordinates X=-9.403, Y=-37.419
+30.08 07:52:37 Moving is finished
+30.08 07:53:42 Scanning 654 point from 870
+30.08 07:53:42 Going to coordinates X=-9.393, Y=-37.419
+30.08 07:53:42 Moving is finished
+30.08 07:54:47 Scanning 655 point from 870
+30.08 07:54:47 Going to coordinates X=-9.383, Y=-37.419
+30.08 07:54:47 Moving is finished
+30.08 07:55:52 Scanning 656 point from 870
+30.08 07:55:52 Going to coordinates X=-9.373, Y=-37.419
+30.08 07:55:52 Moving is finished
+30.08 07:56:56 Scanning 657 point from 870
+30.08 07:56:56 Going to coordinates X=-9.363, Y=-37.419
+30.08 07:56:56 Moving is finished
+30.08 07:58:01 Scanning 658 point from 870
+30.08 07:58:01 Going to coordinates X=-9.353, Y=-37.419
+30.08 07:58:01 Moving is finished
+30.08 07:59:05 Scanning 659 point from 870
+30.08 07:59:05 Going to coordinates X=-9.343, Y=-37.419
+30.08 07:59:06 Moving is finished
+30.08 08:00:10 Scanning 660 point from 870
+30.08 08:00:10 Going to coordinates X=-9.333, Y=-37.419
+30.08 08:00:10 Moving is finished
+30.08 08:01:15 Scanning 661 point from 870
+30.08 08:01:15 Going to coordinates X=-9.323, Y=-37.419
+30.08 08:01:15 Moving is finished
+30.08 08:02:19 Scanning 662 point from 870
+30.08 08:02:19 Going to coordinates X=-9.313, Y=-37.419
+30.08 08:02:19 Moving is finished
+30.08 08:03:24 Scanning 663 point from 870
+30.08 08:03:24 Going to coordinates X=-9.303, Y=-37.419
+30.08 08:03:24 Moving is finished
+30.08 08:04:30 Scanning 664 point from 870
+30.08 08:04:30 Going to coordinates X=-9.293, Y=-37.419
+30.08 08:04:30 Moving is finished
+30.08 08:05:35 Scanning 665 point from 870
+30.08 08:05:35 Going to coordinates X=-9.283, Y=-37.419
+30.08 08:05:35 Moving is finished
+30.08 08:06:41 Scanning 666 point from 870
+30.08 08:06:41 Going to coordinates X=-9.273, Y=-37.419
+30.08 08:06:41 Moving is finished
+30.08 08:07:46 Scanning 667 point from 870
+30.08 08:07:46 Going to coordinates X=-9.263, Y=-37.419
+30.08 08:07:46 Moving is finished
+30.08 08:08:51 Scanning 668 point from 870
+30.08 08:08:51 Going to coordinates X=-9.253, Y=-37.419
+30.08 08:08:51 Moving is finished
+30.08 08:09:56 Scanning 669 point from 870
+30.08 08:09:56 Going to coordinates X=-9.243, Y=-37.419
+30.08 08:09:56 Moving is finished
+30.08 08:11:00 Scanning 670 point from 870
+30.08 08:11:00 Going to coordinates X=-9.233, Y=-37.419
+30.08 08:11:00 Moving is finished
+30.08 08:12:05 Scanning 671 point from 870
+30.08 08:12:05 Going to coordinates X=-9.223, Y=-37.419
+30.08 08:12:05 Moving is finished
+30.08 08:13:10 Scanning 672 point from 870
+30.08 08:13:10 Going to coordinates X=-9.213, Y=-37.419
+30.08 08:13:10 Moving is finished
+30.08 08:14:15 Scanning 673 point from 870
+30.08 08:14:15 Going to coordinates X=-9.203, Y=-37.419
+30.08 08:14:15 Moving is finished
+30.08 08:15:20 Scanning 674 point from 870
+30.08 08:15:20 Going to coordinates X=-9.193, Y=-37.419
+30.08 08:15:20 Moving is finished
+30.08 08:16:25 Scanning 675 point from 870
+30.08 08:16:25 Going to coordinates X=-9.183, Y=-37.419
+30.08 08:16:25 Moving is finished
+30.08 08:17:29 Scanning 676 point from 870
+30.08 08:17:29 Going to coordinates X=-9.173, Y=-37.419
+30.08 08:17:29 Moving is finished
+30.08 08:18:34 Scanning 677 point from 870
+30.08 08:18:34 Going to coordinates X=-9.163, Y=-37.419
+30.08 08:18:34 Moving is finished
+30.08 08:19:39 Scanning 678 point from 870
+30.08 08:19:39 Going to coordinates X=-9.153, Y=-37.419
+30.08 08:19:39 Moving is finished
+30.08 08:20:43 Scanning 679 point from 870
+30.08 08:20:43 Going to coordinates X=-9.143, Y=-37.419
+30.08 08:20:44 Moving is finished
+30.08 08:21:48 Scanning 680 point from 870
+30.08 08:21:48 Going to coordinates X=-9.133, Y=-37.419
+30.08 08:21:48 Moving is finished
+30.08 08:22:53 Scanning 681 point from 870
+30.08 08:22:53 Going to coordinates X=-9.123, Y=-37.419
+30.08 08:22:53 Moving is finished
+30.08 08:23:57 Scanning 682 point from 870
+30.08 08:23:57 Going to coordinates X=-9.113, Y=-37.419
+30.08 08:23:57 Moving is finished
+30.08 08:25:02 Scanning 683 point from 870
+30.08 08:25:02 Going to coordinates X=-9.103, Y=-37.419
+30.08 08:25:02 Moving is finished
+30.08 08:26:07 Scanning 684 point from 870
+30.08 08:26:07 Going to coordinates X=-9.093, Y=-37.419
+30.08 08:26:07 Moving is finished
+30.08 08:27:12 Scanning 685 point from 870
+30.08 08:27:12 Going to coordinates X=-9.083, Y=-37.419
+30.08 08:27:12 Moving is finished
+30.08 08:28:16 Scanning 686 point from 870
+30.08 08:28:16 Going to coordinates X=-9.073, Y=-37.419
+30.08 08:28:17 Moving is finished
+30.08 08:29:21 Scanning 687 point from 870
+30.08 08:29:21 Going to coordinates X=-9.063, Y=-37.419
+30.08 08:29:21 Moving is finished
+30.08 08:30:26 Scanning 688 point from 870
+30.08 08:30:26 Going to coordinates X=-9.053, Y=-37.419
+30.08 08:30:26 Moving is finished
+30.08 08:31:31 Scanning 689 point from 870
+30.08 08:31:31 Going to coordinates X=-9.043, Y=-37.419
+30.08 08:31:31 Moving is finished
+30.08 08:32:35 Scanning 690 point from 870
+30.08 08:32:35 Going to coordinates X=-9.033, Y=-37.419
+30.08 08:32:36 Moving is finished
+30.08 08:33:40 Scanning 691 point from 870
+30.08 08:33:40 Going to coordinates X=-9.023, Y=-37.419
+30.08 08:33:40 Moving is finished
+30.08 08:34:45 Scanning 692 point from 870
+30.08 08:34:45 Going to coordinates X=-9.013, Y=-37.419
+30.08 08:34:45 Moving is finished
+30.08 08:35:50 Scanning 693 point from 870
+30.08 08:35:50 Going to coordinates X=-9.003, Y=-37.419
+30.08 08:35:50 Moving is finished
+30.08 08:36:55 Scanning 694 point from 870
+30.08 08:36:55 Going to coordinates X=-8.993, Y=-37.419
+30.08 08:36:55 Moving is finished
+30.08 08:37:59 Scanning 695 point from 870
+30.08 08:37:59 Going to coordinates X=-8.983, Y=-37.419
+30.08 08:37:59 Moving is finished
+30.08 08:39:04 Scanning 696 point from 870
+30.08 08:39:04 Going to coordinates X=-9.553, Y=-37.369
+30.08 08:39:04 Moving is finished
+30.08 08:40:09 Scanning 697 point from 870
+30.08 08:40:09 Going to coordinates X=-9.543, Y=-37.369
+30.08 08:40:09 Moving is finished
+30.08 08:41:14 Scanning 698 point from 870
+30.08 08:41:14 Going to coordinates X=-9.533, Y=-37.369
+30.08 08:41:14 Moving is finished
+30.08 08:42:19 Scanning 699 point from 870
+30.08 08:42:19 Going to coordinates X=-9.523, Y=-37.369
+30.08 08:42:19 Moving is finished
+30.08 08:43:24 Scanning 700 point from 870
+30.08 08:43:24 Going to coordinates X=-9.513, Y=-37.369
+30.08 08:43:24 Moving is finished
+30.08 08:44:30 Scanning 701 point from 870
+30.08 08:44:30 Going to coordinates X=-9.503, Y=-37.369
+30.08 08:44:30 Moving is finished
+30.08 08:45:35 Scanning 702 point from 870
+30.08 08:45:35 Going to coordinates X=-9.493, Y=-37.369
+30.08 08:45:35 Moving is finished
+30.08 08:46:40 Scanning 703 point from 870
+30.08 08:46:40 Going to coordinates X=-9.483, Y=-37.369
+30.08 08:46:40 Moving is finished
+30.08 08:47:45 Scanning 704 point from 870
+30.08 08:47:45 Going to coordinates X=-9.473, Y=-37.369
+30.08 08:47:45 Moving is finished
+30.08 08:48:50 Scanning 705 point from 870
+30.08 08:48:50 Going to coordinates X=-9.463, Y=-37.369
+30.08 08:48:50 Moving is finished
+30.08 08:49:55 Scanning 706 point from 870
+30.08 08:49:55 Going to coordinates X=-9.453, Y=-37.369
+30.08 08:49:55 Moving is finished
+30.08 08:50:59 Scanning 707 point from 870
+30.08 08:50:59 Going to coordinates X=-9.443, Y=-37.369
+30.08 08:50:59 Moving is finished
+30.08 08:52:04 Scanning 708 point from 870
+30.08 08:52:04 Going to coordinates X=-9.433, Y=-37.369
+30.08 08:52:04 Moving is finished
+30.08 08:53:09 Scanning 709 point from 870
+30.08 08:53:09 Going to coordinates X=-9.423, Y=-37.369
+30.08 08:53:09 Moving is finished
+30.08 08:54:13 Scanning 710 point from 870
+30.08 08:54:13 Going to coordinates X=-9.413, Y=-37.369
+30.08 08:54:13 Moving is finished
+30.08 08:55:18 Scanning 711 point from 870
+30.08 08:55:18 Going to coordinates X=-9.403, Y=-37.369
+30.08 08:55:18 Moving is finished
+30.08 08:56:23 Scanning 712 point from 870
+30.08 08:56:23 Going to coordinates X=-9.393, Y=-37.369
+30.08 08:56:23 Moving is finished
+30.08 08:57:29 Scanning 713 point from 870
+30.08 08:57:29 Going to coordinates X=-9.383, Y=-37.369
+30.08 08:57:29 Moving is finished
+30.08 08:58:33 Scanning 714 point from 870
+30.08 08:58:33 Going to coordinates X=-9.373, Y=-37.369
+30.08 08:58:34 Moving is finished
+30.08 08:59:39 Scanning 715 point from 870
+30.08 08:59:39 Going to coordinates X=-9.363, Y=-37.369
+30.08 08:59:39 Moving is finished
+30.08 09:00:44 Scanning 716 point from 870
+30.08 09:00:44 Going to coordinates X=-9.353, Y=-37.369
+30.08 09:00:44 Moving is finished
+30.08 09:01:49 Scanning 717 point from 870
+30.08 09:01:49 Going to coordinates X=-9.343, Y=-37.369
+30.08 09:01:49 Moving is finished
+30.08 09:02:54 Scanning 718 point from 870
+30.08 09:02:54 Going to coordinates X=-9.333, Y=-37.369
+30.08 09:02:54 Moving is finished
+30.08 09:03:59 Scanning 719 point from 870
+30.08 09:03:59 Going to coordinates X=-9.323, Y=-37.369
+30.08 09:03:59 Moving is finished
+30.08 09:05:05 Scanning 720 point from 870
+30.08 09:05:05 Going to coordinates X=-9.313, Y=-37.369
+30.08 09:05:05 Moving is finished
+30.08 09:06:10 Scanning 721 point from 870
+30.08 09:06:10 Going to coordinates X=-9.303, Y=-37.369
+30.08 09:06:10 Moving is finished
+30.08 09:07:14 Scanning 722 point from 870
+30.08 09:07:14 Going to coordinates X=-9.293, Y=-37.369
+30.08 09:07:14 Moving is finished
+30.08 09:08:19 Scanning 723 point from 870
+30.08 09:08:19 Going to coordinates X=-9.283, Y=-37.369
+30.08 09:08:19 Moving is finished
+30.08 09:09:23 Scanning 724 point from 870
+30.08 09:09:23 Going to coordinates X=-9.273, Y=-37.369
+30.08 09:09:24 Moving is finished
+30.08 09:10:28 Scanning 725 point from 870
+30.08 09:10:28 Going to coordinates X=-9.263, Y=-37.369
+30.08 09:10:28 Moving is finished
+30.08 09:11:33 Scanning 726 point from 870
+30.08 09:11:33 Going to coordinates X=-9.253, Y=-37.369
+30.08 09:11:33 Moving is finished
+30.08 09:12:38 Scanning 727 point from 870
+30.08 09:12:38 Going to coordinates X=-9.243, Y=-37.369
+30.08 09:12:38 Moving is finished
+30.08 09:13:44 Scanning 728 point from 870
+30.08 09:13:44 Going to coordinates X=-9.233, Y=-37.369
+30.08 09:13:44 Moving is finished
+30.08 09:14:48 Scanning 729 point from 870
+30.08 09:14:48 Going to coordinates X=-9.223, Y=-37.369
+30.08 09:14:48 Moving is finished
+30.08 09:15:53 Scanning 730 point from 870
+30.08 09:15:53 Going to coordinates X=-9.213, Y=-37.369
+30.08 09:15:54 Moving is finished
+30.08 09:16:59 Scanning 731 point from 870
+30.08 09:16:59 Going to coordinates X=-9.203, Y=-37.369
+30.08 09:16:59 Moving is finished
+30.08 09:18:03 Scanning 732 point from 870
+30.08 09:18:03 Going to coordinates X=-9.193, Y=-37.369
+30.08 09:18:03 Moving is finished
+30.08 09:19:08 Scanning 733 point from 870
+30.08 09:19:08 Going to coordinates X=-9.183, Y=-37.369
+30.08 09:19:08 Moving is finished
+30.08 09:20:13 Scanning 734 point from 870
+30.08 09:20:13 Going to coordinates X=-9.173, Y=-37.369
+30.08 09:20:13 Moving is finished
+30.08 09:21:19 Scanning 735 point from 870
+30.08 09:21:19 Going to coordinates X=-9.163, Y=-37.369
+30.08 09:21:19 Moving is finished
+30.08 09:22:24 Scanning 736 point from 870
+30.08 09:22:24 Going to coordinates X=-9.153, Y=-37.369
+30.08 09:22:24 Moving is finished
+30.08 09:23:30 Scanning 737 point from 870
+30.08 09:23:30 Going to coordinates X=-9.143, Y=-37.369
+30.08 09:23:30 Moving is finished
+30.08 09:24:35 Scanning 738 point from 870
+30.08 09:24:35 Going to coordinates X=-9.133, Y=-37.369
+30.08 09:24:35 Moving is finished
+30.08 09:25:40 Scanning 739 point from 870
+30.08 09:25:40 Going to coordinates X=-9.123, Y=-37.369
+30.08 09:25:40 Moving is finished
+30.08 09:26:45 Scanning 740 point from 870
+30.08 09:26:45 Going to coordinates X=-9.113, Y=-37.369
+30.08 09:26:45 Moving is finished
+30.08 09:27:49 Scanning 741 point from 870
+30.08 09:27:49 Going to coordinates X=-9.103, Y=-37.369
+30.08 09:27:50 Moving is finished
+30.08 09:28:54 Scanning 742 point from 870
+30.08 09:28:54 Going to coordinates X=-9.093, Y=-37.369
+30.08 09:28:54 Moving is finished
+30.08 09:29:59 Scanning 743 point from 870
+30.08 09:29:59 Going to coordinates X=-9.083, Y=-37.369
+30.08 09:29:59 Moving is finished
+30.08 09:31:03 Scanning 744 point from 870
+30.08 09:31:03 Going to coordinates X=-9.073, Y=-37.369
+30.08 09:31:03 Moving is finished
+30.08 09:32:08 Scanning 745 point from 870
+30.08 09:32:08 Going to coordinates X=-9.063, Y=-37.369
+30.08 09:32:08 Moving is finished
+30.08 09:33:13 Scanning 746 point from 870
+30.08 09:33:13 Going to coordinates X=-9.053, Y=-37.369
+30.08 09:33:13 Moving is finished
+30.08 09:34:18 Scanning 747 point from 870
+30.08 09:34:18 Going to coordinates X=-9.043, Y=-37.369
+30.08 09:34:18 Moving is finished
+30.08 09:35:22 Scanning 748 point from 870
+30.08 09:35:22 Going to coordinates X=-9.033, Y=-37.369
+30.08 09:35:22 Moving is finished
+30.08 09:36:27 Scanning 749 point from 870
+30.08 09:36:27 Going to coordinates X=-9.023, Y=-37.369
+30.08 09:36:27 Moving is finished
+30.08 09:37:31 Scanning 750 point from 870
+30.08 09:37:31 Going to coordinates X=-9.013, Y=-37.369
+30.08 09:37:31 Moving is finished
+30.08 09:38:36 Scanning 751 point from 870
+30.08 09:38:36 Going to coordinates X=-9.003, Y=-37.369
+30.08 09:38:36 Moving is finished
+30.08 09:39:41 Scanning 752 point from 870
+30.08 09:39:41 Going to coordinates X=-8.993, Y=-37.369
+30.08 09:39:41 Moving is finished
+30.08 09:40:46 Scanning 753 point from 870
+30.08 09:40:46 Going to coordinates X=-8.983, Y=-37.369
+30.08 09:40:46 Moving is finished
+30.08 09:41:51 Scanning 754 point from 870
+30.08 09:41:51 Going to coordinates X=-9.553, Y=-37.319
+30.08 09:41:52 Moving is finished
+30.08 09:41:58 Stopped!
+30.08 10:17:54 Can't send the command to GRBL
+30.08 10:17:54 Write timeout
+30.08 10:17:54 Write timeout
+30.08 10:42:30 Can't send the command to GRBL
+30.08 10:42:30 Write timeout30.08 10:42:30 Write timeout
+
+30.08 10:53:20 Can't send the command to GRBL
+30.08 10:53:20 Write timeout30.08 10:53:20 Write timeout
+
+30.08 11:13:25 Can't send the command to GRBL
+30.08 11:13:25 Write timeout30.08 11:13:25 Write timeout
+
+30.08 11:13:46 Write timeout30.08 11:13:46 Can't send the command to GRBL
+
+30.08 11:43:32 Can't send the command to GRBL
+30.08 11:43:32 Write timeout30.08 11:43:32 Write timeout
+
+30.08 11:45:41 Row 0: 30.08 11:45:41 Map: x1: -8.322, y1: -38.092, x2: -7.327, y2: -38.718, xres: 0.090, yres: 0.090, fname: blmseranh2
+30.08 11:45:41 Scanning 0 point from 104
+30.08 11:45:42 Going to coordinates X=-8.322, Y=-38.718
+30.08 11:45:42 Moving is finished
+30.08 11:45:48 {'best_match': 'EZRaman Reader  V8.2.0 MV', 'backend': 'uia', 'process': 2608}
+30.08 11:45:53 {'best_match': 'EZRaman Reader  V8.2.0 MV', 'backend': 'uia', 'process': 2608}
+30.08 11:45:54 Scanning 1 point from 104
+30.08 11:45:54 Going to coordinates X=-8.232, Y=-38.718
+30.08 11:45:54 Moving is finished
+30.08 11:45:59 Stopped!
+30.08 11:46:00 {'best_match': 'EZRaman Reader  V8.2.0 MV', 'backend': 'uia', 'process': 2608}
+30.08 11:46:05 {'best_match': 'EZRaman Reader  V8.2.0 MV', 'backend': 'uia', 'process': 2608}
+30.08 11:46:07 Row 0: 30.08 11:46:07 Map: x1: -8.322, y1: -38.092, x2: -7.327, y2: -38.718, xres: 0.090, yres: 0.090, fname: blmseranh2
+30.08 11:46:07 Scanning 0 point from 104
+30.08 11:46:07 Going to coordinates X=-8.322, Y=-38.718
+30.08 11:46:08 Moving is finished
+30.08 11:46:09 Stopped!

@@ -1,0 +1,120 @@
+26.02 08:05:40 Initializing grbl...
+26.02 08:05:40 Got the response: b''
+26.02 08:07:25 Focused at  1
+26.02 08:07:54 Row 0: 26.02 08:07:54 Map: x1: -16.163, y1: -38.0, x2: -16.889, y2: -36.759, xres: 0.100, yres: 0.100, fname: Glucose-0.00005
+26.02 08:07:54 Scanning 0 point from 126
+26.02 08:07:54 Going to coordinates X=-16.889, Y=-38.000
+26.02 08:07:55 Moving is finished
+26.02 08:10:03 Scanning 1 point from 126
+26.02 08:10:03 Going to coordinates X=-16.789, Y=-38.000
+26.02 08:10:04 Moving is finished
+26.02 08:12:12 Scanning 2 point from 126
+26.02 08:12:12 Going to coordinates X=-16.689, Y=-38.000
+26.02 08:12:12 Moving is finished
+26.02 08:14:20 Scanning 3 point from 126
+26.02 08:14:20 Going to coordinates X=-16.589, Y=-38.000
+26.02 08:14:21 Moving is finished
+26.02 08:16:29 Scanning 4 point from 126
+26.02 08:16:29 Going to coordinates X=-16.489, Y=-38.000
+26.02 08:16:29 Moving is finished
+26.02 08:18:37 Scanning 5 point from 126
+26.02 08:18:37 Going to coordinates X=-16.389, Y=-38.000
+26.02 08:18:37 Moving is finished
+26.02 08:20:45 Scanning 6 point from 126
+26.02 08:20:45 Going to coordinates X=-16.289, Y=-38.000
+26.02 08:20:45 Moving is finished
+26.02 08:22:53 Scanning 7 point from 126
+26.02 08:22:53 Going to coordinates X=-16.189, Y=-38.000
+26.02 08:22:54 Moving is finished
+26.02 08:25:02 Scanning 8 point from 126
+26.02 08:25:02 Going to coordinates X=-16.089, Y=-38.000
+26.02 08:25:02 Moving is finished
+26.02 08:27:11 Scanning 9 point from 126
+26.02 08:27:11 Going to coordinates X=-16.889, Y=-37.900
+26.02 08:27:11 Moving is finished
+26.02 08:29:19 Scanning 10 point from 126
+26.02 08:29:19 Going to coordinates X=-16.789, Y=-37.900
+26.02 08:29:19 Moving is finished
+26.02 08:31:27 Scanning 11 point from 126
+26.02 08:31:27 Going to coordinates X=-16.689, Y=-37.900
+26.02 08:31:28 Moving is finished
+26.02 08:33:36 Scanning 12 point from 126
+26.02 08:33:36 Going to coordinates X=-16.589, Y=-37.900
+26.02 08:33:36 Moving is finished
+26.02 08:35:44 Scanning 13 point from 126
+26.02 08:35:44 Going to coordinates X=-16.489, Y=-37.900
+26.02 08:35:44 Moving is finished
+26.02 08:37:52 Scanning 14 point from 126
+26.02 08:37:52 Going to coordinates X=-16.389, Y=-37.900
+26.02 08:37:52 Moving is finished
+26.02 08:40:00 Scanning 15 point from 126
+26.02 08:40:00 Going to coordinates X=-16.289, Y=-37.900
+26.02 08:40:01 Moving is finished
+26.02 08:42:09 Scanning 16 point from 126
+26.02 08:42:09 Going to coordinates X=-16.189, Y=-37.900
+26.02 08:42:10 Moving is finished
+26.02 08:44:18 Scanning 17 point from 126
+26.02 08:44:18 Going to coordinates X=-16.089, Y=-37.900
+26.02 08:44:18 Moving is finished
+26.02 08:46:26 Scanning 18 point from 126
+26.02 08:46:26 Going to coordinates X=-16.889, Y=-37.800
+26.02 08:46:27 Moving is finished
+26.02 08:48:35 Scanning 19 point from 126
+26.02 08:48:35 Going to coordinates X=-16.789, Y=-37.800
+26.02 08:48:35 Moving is finished
+26.02 08:50:43 Scanning 20 point from 126
+26.02 08:50:43 Going to coordinates X=-16.689, Y=-37.800
+26.02 08:50:43 Moving is finished
+26.02 08:52:51 Scanning 21 point from 126
+26.02 08:52:51 Going to coordinates X=-16.589, Y=-37.800
+26.02 08:52:51 Moving is finished
+26.02 08:55:00 Scanning 22 point from 126
+26.02 08:55:00 Going to coordinates X=-16.489, Y=-37.800
+26.02 08:55:00 Moving is finished
+26.02 08:57:08 Scanning 23 point from 126
+26.02 08:57:08 Going to coordinates X=-16.389, Y=-37.800
+26.02 08:57:08 Moving is finished
+26.02 08:59:17 Scanning 24 point from 126
+26.02 08:59:17 Going to coordinates X=-16.289, Y=-37.800
+26.02 08:59:17 Moving is finished
+26.02 09:01:25 Scanning 25 point from 126
+26.02 09:01:25 Going to coordinates X=-16.189, Y=-37.800
+26.02 09:01:25 Moving is finished
+26.02 09:03:34 Scanning 26 point from 126
+26.02 09:03:34 Going to coordinates X=-16.089, Y=-37.800
+26.02 09:03:34 Moving is finished
+26.02 09:05:42 Scanning 27 point from 126
+26.02 09:05:42 Going to coordinates X=-16.889, Y=-37.700
+26.02 09:05:43 Moving is finished
+26.02 09:07:51 Scanning 28 point from 126
+26.02 09:07:51 Going to coordinates X=-16.789, Y=-37.700
+26.02 09:07:51 Moving is finished
+26.02 09:09:59 Scanning 29 point from 126
+26.02 09:09:59 Going to coordinates X=-16.689, Y=-37.700
+26.02 09:09:59 Moving is finished
+26.02 09:12:08 Scanning 30 point from 126
+26.02 09:12:08 Going to coordinates X=-16.589, Y=-37.700
+26.02 09:12:08 Moving is finished
+26.02 09:13:07 Scanning 31 point from 126
+26.02 09:13:07 Paused
+26.02 09:13:11 Going to coordinates X=-16.489, Y=-37.700
+26.02 09:13:11 Moving is finished
+26.02 09:15:19 Scanning 32 point from 126
+26.02 09:15:19 Going to coordinates X=-16.389, Y=-37.700
+26.02 09:15:19 Moving is finished
+26.02 09:17:27 Scanning 33 point from 126
+26.02 09:17:27 Going to coordinates X=-16.289, Y=-37.700
+26.02 09:17:28 Moving is finished
+26.02 09:19:36 Scanning 34 point from 126
+26.02 09:19:36 Going to coordinates X=-16.189, Y=-37.700
+26.02 09:19:36 Moving is finished
+26.02 09:21:44 Scanning 35 point from 126
+26.02 09:21:44 Going to coordinates X=-16.089, Y=-37.700
+26.02 09:21:44 Moving is finished
+26.02 09:23:52 Scanning 36 point from 126
+26.02 09:23:52 Going to coordinates X=-16.889, Y=-37.600
+26.02 09:23:53 Moving is finished
+26.02 09:26:01 Scanning 37 point from 126
+26.02 09:26:01 Going to coordinates X=-16.789, Y=-37.600
+26.02 09:26:01 Moving is finished
+26.02 09:26:56 Stopped!

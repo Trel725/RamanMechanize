@@ -15,6 +15,7 @@ from CommandExecutor import CommandExecutor
 from math import *
 
 import datetime
+from serial.tools import list_ports
 
 
 class JogSender(QThread):
@@ -35,10 +36,21 @@ class JogSender(QThread):
         self.feed = 10
 
     def generateJogCommand(self, coord, feed):
-        multiplier = self.DTime * feed / 60
-        x = coord[0] * multiplier
-        y = coord[1] * multiplier
-        cmd = "$J=G91X{:4.3f}Y{:4.3f}F{:4.3f}".format(x, y, feed)
+        if len(coord) > 1:
+            multiplier = self.DTime * feed / 60
+            x = coord[0] * multiplier
+            y = coord[1] * multiplier
+            cmd = "$J=G91X{:4.3f}Y{:4.3f}F{:4.3f}".format(x, y, feed)
+            return cmd
+        else:
+            return self.generateZJogCommand(coord, feed)
+
+    def generateZJogCommand(self, coord, feed):
+        zcoef = 1
+        multiplier = zcoef * self.DTime * feed / 60
+        z = coord[0] * multiplier
+        cmd = "$J=G91Z{:4.3f}F{:4.3f}".format(z, feed)
+        #"G91G0Z{0:4.3f}".format(step)
         return cmd
 
     def run(self):
@@ -69,9 +81,9 @@ class Logger(QtCore.QObject):
         self.writeData.emit(message)
         timestamp = datetime.datetime.now().strftime("%d.%m %H:%M:%S ")
         if len(message) < 5:
-        	timestamp = ""
+            timestamp = ""
         with open(self.log_path, "a+") as f:
-        	f.write(timestamp + message)
+            f.write(timestamp + message)
 
     def flush(self):
         pass
@@ -82,7 +94,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
     def __init__(self):
 
         super().__init__()
-        QtWidgets.QMainWindow.__init__(self, None, QtCore.Qt.WindowStaysOnTopHint)
+        QtWidgets.QMainWindow.__init__(
+            self, None, QtCore.Qt.WindowStaysOnTopHint)
         self.setupUi(self)
         self.sc = None
         self.ce = CommandExecutor()
@@ -107,12 +120,16 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.ce.finished.connect(self.execTerminated)
         self.settings = QSettings('VSCHT', 'StepperControl')
         self.selectSerialBox.addItems(self.list_serial_ports())
+        self.AFButton.clicked.connect(self.autofocus)
+        self.AFcheckBox.stateChanged.connect(self.AFcheckBoxHandler)
+
         if self.settings.contains("port"):
             saved_port = self.settings.value("port", type=str)
             try:
                 idx = self.list_serial_ports().index(saved_port)
                 self.selectSerialBox.setCurrentIndex(idx + 1)
             except Exception as e:
+                print(e)
                 pass
 
         self.DTime = 0.05
@@ -124,13 +141,16 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             Qt.Key_Left: [-1.0, 0.0],
             Qt.Key_Down: [0.0, -1.0],
             Qt.Key_Up: [0.0, 1.0],
+            Qt.Key_W: [1.0],
+            Qt.Key_S: [-1.0],
         }
         self.key_pressed = {
             Qt.Key_Up: False,
             Qt.Key_Down: False,
             Qt.Key_Left: False,
-
             Qt.Key_Right: False,
+            Qt.Key_W: False,
+            Qt.Key_S: False,
         }
 
         self.js = JogSender()
@@ -149,6 +169,19 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.actionUsage.triggered.connect(self.showHelp)
         self.actionLicense.triggered.connect(self.showLicense)
 
+    def AFcheckBoxHandler(self):
+        if self.AFcheckBox.isChecked():
+            self.ce.mapaf = 10
+        else:
+            self.ce.mapaf = False
+
+    def autofocus(self):
+        b1 = self.MinFocusSpinBox.value()
+        b2 = self.MaxFocusSpinBox.value()
+        self.ce.af.bounds = [b1, b2]
+        res = self.ce.focus()
+        print("Focused at ", res)
+
     def showHelp(self):
         self.help.showHelp()
 
@@ -159,7 +192,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         txt = self.ramanFilename.text()
         while(len(txt) == 0 or txt == "raman_filename"):
             # QtWidgets.QMessageBox.warning(self, "Warning", "Please enter the file name")
-            txt = QtWidgets.QInputDialog.getText(self, "Warning", "Please enter the file name")[0]
+            txt = QtWidgets.QInputDialog.getText(
+                self, "Warning", "Please enter the file name")[0]
         self.ramanFilename.setText(txt)
 
     def execTerminated(self):
@@ -182,7 +216,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
     def saveProgram(self):
         options = QFileDialog.Options()
         options |= QFileDialog.DontUseNativeDialog
-        name = QtWidgets.QFileDialog.getSaveFileName(self, 'Save Program', "c:/AutoRaman/Programs", filter="Text files (*.txt)", options=options)[0]
+        name = QtWidgets.QFileDialog.getSaveFileName(
+            self, 'Save Program', "c:/AutoRaman/Programs", filter="Text files (*.txt)", options=options)[0]
         txt = ""
         for i in range(self.listWidget.count()):
             item = self.listWidget.item(i)
@@ -195,7 +230,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
     def loadProgram(self):
         options = QFileDialog.Options()
         options |= QFileDialog.DontUseNativeDialog
-        name = QtWidgets.QFileDialog.getOpenFileName(self, "Open File", "c:/AutoRaman/Programs", "TXT(*.txt);;AllFiles(*.*)", options=options)[0]
+        name = QtWidgets.QFileDialog.getOpenFileName(
+            self, "Open File", "c:/AutoRaman/Programs", "TXT(*.txt);;AllFiles(*.*)", options=options)[0]
         file = open(name, 'r')
         for line in file:
             line = line.replace('\n', "")
@@ -221,35 +257,21 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         editAction = menu.addAction("Edit")
         action = menu.exec_(self.listWidget.mapToGlobal(position))
         if action == deleteAction:
-            self.listWidget.takeItem(self.listWidget.row(self.listWidget.currentItem()))
+            self.listWidget.takeItem(
+                self.listWidget.row(self.listWidget.currentItem()))
         elif action == editAction:
             self.listWidget.editItem(self.listWidget.currentItem())
 
     def list_serial_ports(self):
-        system_name = platform.system()
-        if system_name == "Windows":
-            # Scan for available ports.
-            available = []
-            for i in range(256):
-                port = "COM" + str(i)
-                try:
-                    s = serial.Serial(port)
-                    available.append(port)
-                    s.close()
-                except serial.SerialException:
-                    pass
-            return available
-        elif system_name == "Darwin":
-            # Mac
-            return glob.glob('/dev/tty*') + glob.glob('/dev/cu*') + glob.glob("/dev/ttyACM*")
-        else:
-            # Assume Linux or something else
-            return glob.glob('/dev/ttyS*') + glob.glob('/dev/ttyUSB*') + glob.glob("/dev/ttyACM*")
+        ports = list_ports.comports()
+        ports = [p.device for p in ports]
+        return ports
 
     def serial_connect(self):
         selected = self.selectSerialBox.currentIndex()
         if selected in [0, -1]:
-            QtWidgets.QMessageBox.warning(self, "Warning", "Please select serial port of the controller")
+            QtWidgets.QMessageBox.warning(
+                self, "Warning", "Please select serial port of the controller")
             return None
         port = self.selectSerialBox.itemText(selected)
         try:
@@ -257,6 +279,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.sc.initializeGrbl()
             self.js.sc = self.sc
             self.ce.sc = self.sc
+            self.ce.af.sc = self.sc
             self.settings.setValue("port", port)
             self.settings.sync()
         except Exception as e:
@@ -280,7 +303,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                     self.js.coord = coord
                     self.js.start()
                 else:
-                    QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
+                    QtWidgets.QMessageBox.warning(
+                        self, "Warning", "Please connect to the controller firstly")
 
     def updateCoordinates(self):
         if self.sc is not None:
@@ -294,7 +318,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                         self.stateLabel.setStyleSheet('color: black')
                     self.status = ret['status']
                     ret = ret["coordinates"]
-                    self.coordinatesLCD.display("{0}:{1}:{2}".format(ret[0], ret[1], ret[2]))
+                    self.coordinatesLCD.display(
+                        "{0}:{1}:{2}".format(ret[0], ret[1], ret[2]))
                     self.coordinates = [ret[0], ret[1], ret[2]]
                 except Exception as e:
                     print(e)
@@ -321,7 +346,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.sc.jog_cancel()
 
         else:
-            QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
+            QtWidgets.QMessageBox.warning(
+                self, "Warning", "Please connect to the controller firstly")
 
     def checkAlarms(self):
         if self.sc is not None:
@@ -336,11 +362,12 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     def goZero(self):
         if self.sc is not None:
-            self.sc.sendCommand("G0X0Y0Z0", block=False)
+            self.sc.sendCommand("G0X-14Y-38Z0", block=False)
 
     def addCurrentPosition(self):
         newitem = QtWidgets.QListWidgetItem(None)
-        newitem.setData(0, "Goto: " + "; ".join(str(x) for x in self.coordinates))
+        newitem.setData(0, "Goto: " + "; ".join(str(x)
+                                                for x in self.coordinates))
         newitem.setFlags(newitem.flags() | QtCore.Qt.ItemIsEditable)
         self.listWidget.addItem(newitem)
 
@@ -371,7 +398,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         dy = float(self.yresBox.value())
         num = ceil(abs(x1 - x2) / dx + 1) * ceil(abs(y1 - y2) / dy + 1)
         reply = QMessageBox.question(self, 'Continue?',
-                                     "Estimated number of points is {}\n Continue?".format(num),
+                                     "Estimated number of points is {}\n Continue?".format(
+                                         num),
                                      QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
         if reply == QMessageBox.No:
             return
@@ -392,7 +420,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.ce.start()
             self.StartExecutionButton.setEnabled(False)
         else:
-            QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
+            QtWidgets.QMessageBox.warning(
+                self, "Warning", "Please connect to the controller firstly")
 
     def startHoming(self):
         if self.sc is not None:
@@ -408,7 +437,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.setzeroButton.setEnabled(False)
             self.sc.sendCommand("$X")
         else:
-            QtWidgets.QMessageBox.warning(self, "Warning", "Please connect to the controller firstly")
+            QtWidgets.QMessageBox.warning(
+                self, "Warning", "Please connect to the controller firstly")
 
     @pyqtSlot(int)
     def onrowChange(self, value):

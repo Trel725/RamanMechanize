@@ -1,0 +1,126 @@
+12.06 09:47:11 Initializing grbl...
+12.06 09:47:12 Got the response: b''
+12.06 09:49:07 Row 0: 12.06 09:49:07 Map: x1: -25.468, y1: -39.278, x2: -25.234, y2: -39.412, xres: 0.100, yres: 0.100, fname: mellpseracooh2and
+12.06 09:49:07 Scanning 0 point from 12
+12.06 09:49:07 Going to coordinates X=-25.468, Y=-39.412
+12.06 09:49:08 Moving is finished
+12.06 09:50:45 Scanning 1 point from 12
+12.06 09:50:45 Going to coordinates X=-25.368, Y=-39.412
+12.06 09:50:45 Moving is finished
+12.06 09:52:22 Scanning 2 point from 12
+12.06 09:52:22 Going to coordinates X=-25.268, Y=-39.412
+12.06 09:52:22 Moving is finished
+12.06 09:53:59 Scanning 3 point from 12
+12.06 09:53:59 Going to coordinates X=-25.168, Y=-39.412
+12.06 09:53:59 Moving is finished
+12.06 09:55:36 Scanning 4 point from 12
+12.06 09:55:36 Going to coordinates X=-25.468, Y=-39.312
+12.06 09:55:36 Moving is finished
+12.06 09:57:13 Scanning 5 point from 12
+12.06 09:57:13 Going to coordinates X=-25.368, Y=-39.312
+12.06 09:57:13 Moving is finished
+12.06 09:58:50 Scanning 6 point from 12
+12.06 09:58:50 Going to coordinates X=-25.268, Y=-39.312
+12.06 09:58:50 Moving is finished
+12.06 10:00:28 Scanning 7 point from 12
+12.06 10:00:28 Going to coordinates X=-25.168, Y=-39.312
+12.06 10:00:28 Moving is finished
+12.06 10:02:05 Scanning 8 point from 12
+12.06 10:02:05 Going to coordinates X=-25.468, Y=-39.212
+12.06 10:02:06 Moving is finished
+12.06 10:03:43 Scanning 9 point from 12
+12.06 10:03:43 Going to coordinates X=-25.368, Y=-39.212
+12.06 10:03:43 Moving is finished
+12.06 10:05:20 Scanning 10 point from 12
+12.06 10:05:20 Going to coordinates X=-25.268, Y=-39.212
+12.06 10:05:20 Moving is finished
+12.06 10:06:57 Scanning 11 point from 12
+12.06 10:06:57 Going to coordinates X=-25.168, Y=-39.212
+12.06 10:06:58 Moving is finished
+12.06 10:08:35 Row 1: 12.06 10:08:35 Map: x1: -25.176, y1: -39.474, x2: -24.649, y2: -39.32, xres: 0.100, yres: 0.100, fname: mellpseracooh2and
+12.06 10:08:35 Scanning 0 point from 21
+12.06 10:08:35 Going to coordinates X=-25.176, Y=-39.474
+12.06 10:08:35 Moving is finished
+12.06 10:10:13 Scanning 1 point from 21
+12.06 10:10:13 Going to coordinates X=-25.076, Y=-39.474
+12.06 10:10:13 Moving is finished
+12.06 10:11:50 Scanning 2 point from 21
+12.06 10:11:50 Going to coordinates X=-24.976, Y=-39.474
+12.06 10:11:50 Moving is finished
+12.06 10:13:27 Scanning 3 point from 21
+12.06 10:13:27 Going to coordinates X=-24.876, Y=-39.474
+12.06 10:13:27 Moving is finished
+12.06 10:15:04 Scanning 4 point from 21
+12.06 10:15:04 Going to coordinates X=-24.776, Y=-39.474
+12.06 10:15:04 Moving is finished
+12.06 10:16:41 Scanning 5 point from 21
+12.06 10:16:41 Going to coordinates X=-24.676, Y=-39.474
+12.06 10:16:41 Moving is finished
+12.06 10:18:18 Scanning 6 point from 21
+12.06 10:18:18 Going to coordinates X=-24.576, Y=-39.474
+12.06 10:18:18 Moving is finished
+12.06 10:19:55 Scanning 7 point from 21
+12.06 10:19:55 Going to coordinates X=-25.176, Y=-39.374
+12.06 10:19:56 Moving is finished
+12.06 10:21:33 Scanning 8 point from 21
+12.06 10:21:33 Going to coordinates X=-25.076, Y=-39.374
+12.06 10:21:34 Moving is finished
+12.06 10:23:10 Scanning 9 point from 21
+12.06 10:23:10 Going to coordinates X=-24.976, Y=-39.374
+12.06 10:23:10 Moving is finished
+12.06 10:24:47 Scanning 10 point from 21
+12.06 10:24:47 Going to coordinates X=-24.876, Y=-39.374
+12.06 10:24:48 Moving is finished
+12.06 10:26:24 Scanning 11 point from 21
+12.06 10:26:24 Going to coordinates X=-24.776, Y=-39.374
+12.06 10:26:24 Moving is finished
+12.06 10:28:01 Scanning 12 point from 21
+12.06 10:28:01 Going to coordinates X=-24.676, Y=-39.374
+12.06 10:28:01 Moving is finished
+12.06 10:29:38 Scanning 13 point from 21
+12.06 10:29:38 Going to coordinates X=-24.576, Y=-39.374
+12.06 10:29:38 Moving is finished
+12.06 10:31:15 Scanning 14 point from 21
+12.06 10:31:15 Going to coordinates X=-25.176, Y=-39.274
+12.06 10:31:15 Moving is finished
+12.06 10:32:52 Scanning 15 point from 21
+12.06 10:32:52 Going to coordinates X=-25.076, Y=-39.274
+12.06 10:32:52 Moving is finished
+12.06 10:34:29 Scanning 16 point from 21
+12.06 10:34:29 Going to coordinates X=-24.976, Y=-39.274
+12.06 10:34:29 Moving is finished
+12.06 10:36:06 Scanning 17 point from 21
+12.06 10:36:06 Going to coordinates X=-24.876, Y=-39.274
+12.06 10:36:07 Moving is finished
+12.06 10:37:43 Scanning 18 point from 21
+12.06 10:37:43 Going to coordinates X=-24.776, Y=-39.274
+12.06 10:37:43 Moving is finished
+12.06 10:39:20 Scanning 19 point from 21
+12.06 10:39:20 Going to coordinates X=-24.676, Y=-39.274
+12.06 10:39:20 Moving is finished
+12.06 10:40:58 Scanning 20 point from 21
+12.06 10:40:58 Going to coordinates X=-24.576, Y=-39.274
+12.06 10:40:58 Moving is finished
+12.06 13:02:34 Row 0: 12.06 13:02:34 Map: x1: -24.576, y1: -39.278, x2: -24.302, y2: -39.753, xres: 0.030, yres: 0.030, fname: mellpseracooh2and
+12.06 13:02:34 Scanning 0 point from 187
+12.06 13:02:34 Going to coordinates X=-24.576, Y=-39.753
+12.06 13:02:34 Moving is finished
+12.06 13:04:11 Scanning 1 point from 187
+12.06 13:04:11 Going to coordinates X=-24.546, Y=-39.753
+12.06 13:04:11 Moving is finished
+12.06 13:05:48 Scanning 2 point from 187
+12.06 13:05:48 Going to coordinates X=-24.516, Y=-39.753
+12.06 13:05:48 Moving is finished
+12.06 13:07:25 Scanning 3 point from 187
+12.06 13:07:25 Going to coordinates X=-24.486, Y=-39.753
+12.06 13:07:25 Moving is finished
+12.06 13:09:03 Scanning 4 point from 187
+12.06 13:09:03 Going to coordinates X=-24.456, Y=-39.753
+12.06 13:09:03 Moving is finished
+12.06 13:10:39 Scanning 5 point from 187
+12.06 13:10:39 Going to coordinates X=-24.426, Y=-39.753
+12.06 13:10:40 Moving is finished
+12.06 13:12:16 Scanning 6 point from 187
+12.06 13:12:16 Going to coordinates X=-24.396, Y=-39.753
+12.06 13:12:17 Moving is finished
+12.06 13:12:32 Stopped!

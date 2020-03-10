@@ -1,0 +1,1686 @@
+29.05 18:57:55 Initializing grbl...
+29.05 18:57:56 Got the response: b''
+29.05 19:03:14 Can't send the command to GRBL
+29.05 19:03:14 Write timeout29.05 19:03:14 Write timeout
+
+29.05 19:03:58 Row 0: 29.05 19:03:58 Map: x1: -27.537, y1: -41.773, x2: -26.985, y2: -42.227, xres: 0.100, yres: 0.100, fname: hfp2seracooh
+29.05 19:03:58 Scanning 0 point from 42
+29.05 19:03:58 Going to coordinates X=-27.537, Y=-42.227
+29.05 19:03:58 Moving is finished
+29.05 19:05:35 Scanning 1 point from 42
+29.05 19:05:35 Going to coordinates X=-27.437, Y=-42.227
+29.05 19:05:35 Moving is finished
+29.05 19:07:12 Scanning 2 point from 42
+29.05 19:07:12 Going to coordinates X=-27.337, Y=-42.227
+29.05 19:07:12 Moving is finished
+29.05 19:08:49 Scanning 3 point from 42
+29.05 19:08:49 Going to coordinates X=-27.237, Y=-42.227
+29.05 19:08:50 Moving is finished
+29.05 19:10:26 Scanning 4 point from 42
+29.05 19:10:26 Going to coordinates X=-27.137, Y=-42.227
+29.05 19:10:27 Moving is finished
+29.05 19:12:03 Scanning 5 point from 42
+29.05 19:12:03 Going to coordinates X=-27.037, Y=-42.227
+29.05 19:12:03 Moving is finished
+29.05 19:13:41 Scanning 6 point from 42
+29.05 19:13:41 Going to coordinates X=-26.937, Y=-42.227
+29.05 19:13:41 Moving is finished
+29.05 19:15:18 Scanning 7 point from 42
+29.05 19:15:18 Going to coordinates X=-27.537, Y=-42.127
+29.05 19:15:18 Moving is finished
+29.05 19:16:56 Scanning 8 point from 42
+29.05 19:16:56 Going to coordinates X=-27.437, Y=-42.127
+29.05 19:16:56 Moving is finished
+29.05 19:18:33 Scanning 9 point from 42
+29.05 19:18:33 Going to coordinates X=-27.337, Y=-42.127
+29.05 19:18:33 Moving is finished
+29.05 19:20:10 Scanning 10 point from 42
+29.05 19:20:10 Going to coordinates X=-27.237, Y=-42.127
+29.05 19:20:10 Moving is finished
+29.05 19:21:47 Scanning 11 point from 42
+29.05 19:21:47 Going to coordinates X=-27.137, Y=-42.127
+29.05 19:21:47 Moving is finished
+29.05 19:23:23 Scanning 12 point from 42
+29.05 19:23:23 Going to coordinates X=-27.037, Y=-42.127
+29.05 19:23:24 Moving is finished
+29.05 19:25:00 Scanning 13 point from 42
+29.05 19:25:00 Going to coordinates X=-26.937, Y=-42.127
+29.05 19:25:00 Moving is finished
+29.05 19:26:37 Scanning 14 point from 42
+29.05 19:26:37 Going to coordinates X=-27.537, Y=-42.027
+29.05 19:26:38 Moving is finished
+29.05 19:28:14 Scanning 15 point from 42
+29.05 19:28:14 Going to coordinates X=-27.437, Y=-42.027
+29.05 19:28:15 Moving is finished
+29.05 19:29:51 Scanning 16 point from 42
+29.05 19:29:51 Going to coordinates X=-27.337, Y=-42.027
+29.05 19:29:51 Moving is finished
+29.05 19:31:28 Scanning 17 point from 42
+29.05 19:31:28 Going to coordinates X=-27.237, Y=-42.027
+29.05 19:31:28 Moving is finished
+29.05 19:33:05 Scanning 18 point from 42
+29.05 19:33:05 Going to coordinates X=-27.137, Y=-42.027
+29.05 19:33:05 Moving is finished
+29.05 19:34:43 Scanning 19 point from 42
+29.05 19:34:43 Going to coordinates X=-27.037, Y=-42.027
+29.05 19:34:43 Moving is finished
+29.05 19:36:20 Scanning 20 point from 42
+29.05 19:36:20 Going to coordinates X=-26.937, Y=-42.027
+29.05 19:36:20 Moving is finished
+29.05 19:37:57 Scanning 21 point from 42
+29.05 19:37:57 Going to coordinates X=-27.537, Y=-41.927
+29.05 19:37:58 Moving is finished
+29.05 19:39:35 Scanning 22 point from 42
+29.05 19:39:35 Going to coordinates X=-27.437, Y=-41.927
+29.05 19:39:35 Moving is finished
+29.05 19:41:12 Scanning 23 point from 42
+29.05 19:41:12 Going to coordinates X=-27.337, Y=-41.927
+29.05 19:41:12 Moving is finished
+29.05 19:42:48 Scanning 24 point from 42
+29.05 19:42:48 Going to coordinates X=-27.237, Y=-41.927
+29.05 19:42:49 Moving is finished
+29.05 19:44:25 Scanning 25 point from 42
+29.05 19:44:25 Going to coordinates X=-27.137, Y=-41.927
+29.05 19:44:26 Moving is finished
+29.05 19:46:03 Scanning 26 point from 42
+29.05 19:46:03 Going to coordinates X=-27.037, Y=-41.927
+29.05 19:46:03 Moving is finished
+29.05 19:47:39 Scanning 27 point from 42
+29.05 19:47:39 Going to coordinates X=-26.937, Y=-41.927
+29.05 19:47:40 Moving is finished
+29.05 19:49:16 Scanning 28 point from 42
+29.05 19:49:16 Going to coordinates X=-27.537, Y=-41.827
+29.05 19:49:17 Moving is finished
+29.05 19:50:53 Scanning 29 point from 42
+29.05 19:50:53 Going to coordinates X=-27.437, Y=-41.827
+29.05 19:50:54 Moving is finished
+29.05 19:52:30 Scanning 30 point from 42
+29.05 19:52:30 Going to coordinates X=-27.337, Y=-41.827
+29.05 19:52:31 Moving is finished
+29.05 19:54:08 Scanning 31 point from 42
+29.05 19:54:08 Going to coordinates X=-27.237, Y=-41.827
+29.05 19:54:08 Moving is finished
+29.05 19:55:44 Scanning 32 point from 42
+29.05 19:55:44 Going to coordinates X=-27.137, Y=-41.827
+29.05 19:55:45 Moving is finished
+29.05 19:57:23 Scanning 33 point from 42
+29.05 19:57:23 Going to coordinates X=-27.037, Y=-41.827
+29.05 19:57:23 Moving is finished
+29.05 19:59:00 Scanning 34 point from 42
+29.05 19:59:00 Going to coordinates X=-26.937, Y=-41.827
+29.05 19:59:01 Moving is finished
+29.05 20:00:37 Scanning 35 point from 42
+29.05 20:00:37 Going to coordinates X=-27.537, Y=-41.727
+29.05 20:00:38 Moving is finished
+29.05 20:02:15 Scanning 36 point from 42
+29.05 20:02:15 Going to coordinates X=-27.437, Y=-41.727
+29.05 20:02:15 Moving is finished
+29.05 20:03:51 Scanning 37 point from 42
+29.05 20:03:51 Going to coordinates X=-27.337, Y=-41.727
+29.05 20:03:52 Moving is finished
+29.05 20:05:29 Scanning 38 point from 42
+29.05 20:05:29 Going to coordinates X=-27.237, Y=-41.727
+29.05 20:05:29 Moving is finished
+29.05 20:07:06 Scanning 39 point from 42
+29.05 20:07:06 Going to coordinates X=-27.137, Y=-41.727
+29.05 20:07:07 Moving is finished
+29.05 20:08:43 Scanning 40 point from 42
+29.05 20:08:43 Going to coordinates X=-27.037, Y=-41.727
+29.05 20:08:44 Moving is finished
+29.05 20:10:21 Scanning 41 point from 42
+29.05 20:10:21 Going to coordinates X=-26.937, Y=-41.727
+29.05 20:10:21 Moving is finished
+29.05 20:11:58 Row 1: 29.05 20:11:58 Map: x1: -26.844, y1: -42.402, x2: -26.561, y2: -42.876, xres: 0.030, yres: 0.030, fname: hfp2seracooh
+29.05 20:11:58 Scanning 0 point from 187
+29.05 20:11:58 Going to coordinates X=-26.844, Y=-42.876
+29.05 20:11:58 Moving is finished
+29.05 20:13:35 Scanning 1 point from 187
+29.05 20:13:35 Going to coordinates X=-26.814, Y=-42.876
+29.05 20:13:36 Moving is finished
+29.05 20:15:12 Scanning 2 point from 187
+29.05 20:15:12 Going to coordinates X=-26.784, Y=-42.876
+29.05 20:15:13 Moving is finished
+29.05 20:16:50 Scanning 3 point from 187
+29.05 20:16:50 Going to coordinates X=-26.754, Y=-42.876
+29.05 20:16:50 Moving is finished
+29.05 20:18:27 Scanning 4 point from 187
+29.05 20:18:27 Going to coordinates X=-26.724, Y=-42.876
+29.05 20:18:27 Moving is finished
+29.05 20:20:04 Scanning 5 point from 187
+29.05 20:20:04 Going to coordinates X=-26.694, Y=-42.876
+29.05 20:20:04 Moving is finished
+29.05 20:21:41 Scanning 6 point from 187
+29.05 20:21:41 Going to coordinates X=-26.664, Y=-42.876
+29.05 20:21:41 Moving is finished
+29.05 20:23:18 Scanning 7 point from 187
+29.05 20:23:18 Going to coordinates X=-26.634, Y=-42.876
+29.05 20:23:18 Moving is finished
+29.05 20:24:55 Scanning 8 point from 187
+29.05 20:24:55 Going to coordinates X=-26.604, Y=-42.876
+29.05 20:24:55 Moving is finished
+29.05 20:26:32 Scanning 9 point from 187
+29.05 20:26:32 Going to coordinates X=-26.574, Y=-42.876
+29.05 20:26:32 Moving is finished
+29.05 20:28:09 Scanning 10 point from 187
+29.05 20:28:09 Going to coordinates X=-26.544, Y=-42.876
+29.05 20:28:09 Moving is finished
+29.05 20:29:46 Scanning 11 point from 187
+29.05 20:29:46 Going to coordinates X=-26.844, Y=-42.846
+29.05 20:29:46 Moving is finished
+29.05 20:31:23 Scanning 12 point from 187
+29.05 20:31:23 Going to coordinates X=-26.814, Y=-42.846
+29.05 20:31:23 Moving is finished
+29.05 20:33:00 Scanning 13 point from 187
+29.05 20:33:00 Going to coordinates X=-26.784, Y=-42.846
+29.05 20:33:00 Moving is finished
+29.05 20:34:37 Scanning 14 point from 187
+29.05 20:34:37 Going to coordinates X=-26.754, Y=-42.846
+29.05 20:34:37 Moving is finished
+29.05 20:36:14 Scanning 15 point from 187
+29.05 20:36:14 Going to coordinates X=-26.724, Y=-42.846
+29.05 20:36:14 Moving is finished
+29.05 20:37:51 Scanning 16 point from 187
+29.05 20:37:51 Going to coordinates X=-26.694, Y=-42.846
+29.05 20:37:51 Moving is finished
+29.05 20:39:28 Scanning 17 point from 187
+29.05 20:39:28 Going to coordinates X=-26.664, Y=-42.846
+29.05 20:39:28 Moving is finished
+29.05 20:41:05 Scanning 18 point from 187
+29.05 20:41:05 Going to coordinates X=-26.634, Y=-42.846
+29.05 20:41:05 Moving is finished
+29.05 20:42:41 Scanning 19 point from 187
+29.05 20:42:41 Going to coordinates X=-26.604, Y=-42.846
+29.05 20:42:42 Moving is finished
+29.05 20:44:18 Scanning 20 point from 187
+29.05 20:44:18 Going to coordinates X=-26.574, Y=-42.846
+29.05 20:44:18 Moving is finished
+29.05 20:45:55 Scanning 21 point from 187
+29.05 20:45:55 Going to coordinates X=-26.544, Y=-42.846
+29.05 20:45:55 Moving is finished
+29.05 20:47:31 Scanning 22 point from 187
+29.05 20:47:31 Going to coordinates X=-26.844, Y=-42.816
+29.05 20:47:32 Moving is finished
+29.05 20:49:09 Scanning 23 point from 187
+29.05 20:49:09 Going to coordinates X=-26.814, Y=-42.816
+29.05 20:49:09 Moving is finished
+29.05 20:50:45 Scanning 24 point from 187
+29.05 20:50:45 Going to coordinates X=-26.784, Y=-42.816
+29.05 20:50:45 Moving is finished
+29.05 20:52:22 Scanning 25 point from 187
+29.05 20:52:22 Going to coordinates X=-26.754, Y=-42.816
+29.05 20:52:23 Moving is finished
+29.05 20:53:59 Scanning 26 point from 187
+29.05 20:53:59 Going to coordinates X=-26.724, Y=-42.816
+29.05 20:54:00 Moving is finished
+29.05 20:55:36 Scanning 27 point from 187
+29.05 20:55:36 Going to coordinates X=-26.694, Y=-42.816
+29.05 20:55:37 Moving is finished
+29.05 20:57:13 Scanning 28 point from 187
+29.05 20:57:13 Going to coordinates X=-26.664, Y=-42.816
+29.05 20:57:13 Moving is finished
+29.05 20:58:50 Scanning 29 point from 187
+29.05 20:58:50 Going to coordinates X=-26.634, Y=-42.816
+29.05 20:58:50 Moving is finished
+29.05 21:00:27 Scanning 30 point from 187
+29.05 21:00:27 Going to coordinates X=-26.604, Y=-42.816
+29.05 21:00:27 Moving is finished
+29.05 21:02:04 Scanning 31 point from 187
+29.05 21:02:04 Going to coordinates X=-26.574, Y=-42.816
+29.05 21:02:05 Moving is finished
+29.05 21:03:42 Scanning 32 point from 187
+29.05 21:03:42 Going to coordinates X=-26.544, Y=-42.816
+29.05 21:03:42 Moving is finished
+29.05 21:05:19 Scanning 33 point from 187
+29.05 21:05:19 Going to coordinates X=-26.844, Y=-42.786
+29.05 21:05:20 Moving is finished
+29.05 21:06:57 Scanning 34 point from 187
+29.05 21:06:57 Going to coordinates X=-26.814, Y=-42.786
+29.05 21:06:57 Moving is finished
+29.05 21:08:34 Scanning 35 point from 187
+29.05 21:08:34 Going to coordinates X=-26.784, Y=-42.786
+29.05 21:08:34 Moving is finished
+29.05 21:10:11 Scanning 36 point from 187
+29.05 21:10:11 Going to coordinates X=-26.754, Y=-42.786
+29.05 21:10:11 Moving is finished
+29.05 21:11:48 Scanning 37 point from 187
+29.05 21:11:48 Going to coordinates X=-26.724, Y=-42.786
+29.05 21:11:48 Moving is finished
+29.05 21:13:26 Scanning 38 point from 187
+29.05 21:13:26 Going to coordinates X=-26.694, Y=-42.786
+29.05 21:13:26 Moving is finished
+29.05 21:15:02 Scanning 39 point from 187
+29.05 21:15:02 Going to coordinates X=-26.664, Y=-42.786
+29.05 21:15:03 Moving is finished
+29.05 21:16:39 Scanning 40 point from 187
+29.05 21:16:39 Going to coordinates X=-26.634, Y=-42.786
+29.05 21:16:39 Moving is finished
+29.05 21:18:16 Scanning 41 point from 187
+29.05 21:18:16 Going to coordinates X=-26.604, Y=-42.786
+29.05 21:18:16 Moving is finished
+29.05 21:19:54 Scanning 42 point from 187
+29.05 21:19:54 Going to coordinates X=-26.574, Y=-42.786
+29.05 21:19:54 Moving is finished
+29.05 21:21:31 Scanning 43 point from 187
+29.05 21:21:31 Going to coordinates X=-26.544, Y=-42.786
+29.05 21:21:31 Moving is finished
+29.05 21:23:07 Scanning 44 point from 187
+29.05 21:23:07 Going to coordinates X=-26.844, Y=-42.756
+29.05 21:23:08 Moving is finished
+29.05 21:24:44 Scanning 45 point from 187
+29.05 21:24:44 Going to coordinates X=-26.814, Y=-42.756
+29.05 21:24:44 Moving is finished
+29.05 21:26:21 Scanning 46 point from 187
+29.05 21:26:21 Going to coordinates X=-26.784, Y=-42.756
+29.05 21:26:21 Moving is finished
+29.05 21:27:58 Scanning 47 point from 187
+29.05 21:27:58 Going to coordinates X=-26.754, Y=-42.756
+29.05 21:27:58 Moving is finished
+29.05 21:29:35 Scanning 48 point from 187
+29.05 21:29:35 Going to coordinates X=-26.724, Y=-42.756
+29.05 21:29:35 Moving is finished
+29.05 21:31:12 Scanning 49 point from 187
+29.05 21:31:12 Going to coordinates X=-26.694, Y=-42.756
+29.05 21:31:12 Moving is finished
+29.05 21:32:49 Scanning 50 point from 187
+29.05 21:32:49 Going to coordinates X=-26.664, Y=-42.756
+29.05 21:32:49 Moving is finished
+29.05 21:34:25 Scanning 51 point from 187
+29.05 21:34:25 Going to coordinates X=-26.634, Y=-42.756
+29.05 21:34:26 Moving is finished
+29.05 21:36:02 Scanning 52 point from 187
+29.05 21:36:02 Going to coordinates X=-26.604, Y=-42.756
+29.05 21:36:02 Moving is finished
+29.05 21:37:39 Scanning 53 point from 187
+29.05 21:37:39 Going to coordinates X=-26.574, Y=-42.756
+29.05 21:37:39 Moving is finished
+29.05 21:39:16 Scanning 54 point from 187
+29.05 21:39:16 Going to coordinates X=-26.544, Y=-42.756
+29.05 21:39:16 Moving is finished
+29.05 21:40:52 Scanning 55 point from 187
+29.05 21:40:52 Going to coordinates X=-26.844, Y=-42.726
+29.05 21:40:53 Moving is finished
+29.05 21:42:29 Scanning 56 point from 187
+29.05 21:42:29 Going to coordinates X=-26.814, Y=-42.726
+29.05 21:42:29 Moving is finished
+29.05 21:44:06 Scanning 57 point from 187
+29.05 21:44:06 Going to coordinates X=-26.784, Y=-42.726
+29.05 21:44:06 Moving is finished
+29.05 21:45:43 Scanning 58 point from 187
+29.05 21:45:43 Going to coordinates X=-26.754, Y=-42.726
+29.05 21:45:43 Moving is finished
+29.05 21:47:20 Scanning 59 point from 187
+29.05 21:47:20 Going to coordinates X=-26.724, Y=-42.726
+29.05 21:47:20 Moving is finished
+29.05 21:48:57 Scanning 60 point from 187
+29.05 21:48:57 Going to coordinates X=-26.694, Y=-42.726
+29.05 21:48:57 Moving is finished
+29.05 21:50:33 Scanning 61 point from 187
+29.05 21:50:33 Going to coordinates X=-26.664, Y=-42.726
+29.05 21:50:33 Moving is finished
+29.05 21:52:10 Scanning 62 point from 187
+29.05 21:52:10 Going to coordinates X=-26.634, Y=-42.726
+29.05 21:52:10 Moving is finished
+29.05 21:53:47 Scanning 63 point from 187
+29.05 21:53:47 Going to coordinates X=-26.604, Y=-42.726
+29.05 21:53:48 Moving is finished
+29.05 21:55:25 Scanning 64 point from 187
+29.05 21:55:25 Going to coordinates X=-26.574, Y=-42.726
+29.05 21:55:25 Moving is finished
+29.05 21:57:02 Scanning 65 point from 187
+29.05 21:57:02 Going to coordinates X=-26.544, Y=-42.726
+29.05 21:57:02 Moving is finished
+29.05 21:58:40 Scanning 66 point from 187
+29.05 21:58:40 Going to coordinates X=-26.844, Y=-42.696
+29.05 21:58:40 Moving is finished
+29.05 22:00:17 Scanning 67 point from 187
+29.05 22:00:17 Going to coordinates X=-26.814, Y=-42.696
+29.05 22:00:17 Moving is finished
+29.05 22:01:54 Scanning 68 point from 187
+29.05 22:01:54 Going to coordinates X=-26.784, Y=-42.696
+29.05 22:01:54 Moving is finished
+29.05 22:03:31 Scanning 69 point from 187
+29.05 22:03:31 Going to coordinates X=-26.754, Y=-42.696
+29.05 22:03:31 Moving is finished
+29.05 22:05:09 Scanning 70 point from 187
+29.05 22:05:09 Going to coordinates X=-26.724, Y=-42.696
+29.05 22:05:09 Moving is finished
+29.05 22:06:47 Scanning 71 point from 187
+29.05 22:06:47 Going to coordinates X=-26.694, Y=-42.696
+29.05 22:06:47 Moving is finished
+29.05 22:08:24 Scanning 72 point from 187
+29.05 22:08:24 Going to coordinates X=-26.664, Y=-42.696
+29.05 22:08:24 Moving is finished
+29.05 22:10:01 Scanning 73 point from 187
+29.05 22:10:01 Going to coordinates X=-26.634, Y=-42.696
+29.05 22:10:01 Moving is finished
+29.05 22:11:38 Scanning 74 point from 187
+29.05 22:11:38 Going to coordinates X=-26.604, Y=-42.696
+29.05 22:11:38 Moving is finished
+29.05 22:13:15 Scanning 75 point from 187
+29.05 22:13:15 Going to coordinates X=-26.574, Y=-42.696
+29.05 22:13:15 Moving is finished
+29.05 22:14:53 Scanning 76 point from 187
+29.05 22:14:53 Going to coordinates X=-26.544, Y=-42.696
+29.05 22:14:54 Moving is finished
+29.05 22:16:30 Scanning 77 point from 187
+29.05 22:16:30 Going to coordinates X=-26.844, Y=-42.666
+29.05 22:16:31 Moving is finished
+29.05 22:18:07 Scanning 78 point from 187
+29.05 22:18:07 Going to coordinates X=-26.814, Y=-42.666
+29.05 22:18:07 Moving is finished
+29.05 22:19:44 Scanning 79 point from 187
+29.05 22:19:44 Going to coordinates X=-26.784, Y=-42.666
+29.05 22:19:44 Moving is finished
+29.05 22:21:21 Scanning 80 point from 187
+29.05 22:21:21 Going to coordinates X=-26.754, Y=-42.666
+29.05 22:21:21 Moving is finished
+29.05 22:22:57 Scanning 81 point from 187
+29.05 22:22:57 Going to coordinates X=-26.724, Y=-42.666
+29.05 22:22:58 Moving is finished
+29.05 22:24:35 Scanning 82 point from 187
+29.05 22:24:35 Going to coordinates X=-26.694, Y=-42.666
+29.05 22:24:36 Moving is finished
+29.05 22:26:13 Scanning 83 point from 187
+29.05 22:26:13 Going to coordinates X=-26.664, Y=-42.666
+29.05 22:26:13 Moving is finished
+29.05 22:27:50 Scanning 84 point from 187
+29.05 22:27:50 Going to coordinates X=-26.634, Y=-42.666
+29.05 22:27:50 Moving is finished
+29.05 22:29:27 Scanning 85 point from 187
+29.05 22:29:27 Going to coordinates X=-26.604, Y=-42.666
+29.05 22:29:27 Moving is finished
+29.05 22:31:04 Scanning 86 point from 187
+29.05 22:31:04 Going to coordinates X=-26.574, Y=-42.666
+29.05 22:31:04 Moving is finished
+29.05 22:32:41 Scanning 87 point from 187
+29.05 22:32:41 Going to coordinates X=-26.544, Y=-42.666
+29.05 22:32:41 Moving is finished
+29.05 22:34:19 Scanning 88 point from 187
+29.05 22:34:19 Going to coordinates X=-26.844, Y=-42.636
+29.05 22:34:19 Moving is finished
+29.05 22:35:57 Scanning 89 point from 187
+29.05 22:35:57 Going to coordinates X=-26.814, Y=-42.636
+29.05 22:35:57 Moving is finished
+29.05 22:37:34 Scanning 90 point from 187
+29.05 22:37:34 Going to coordinates X=-26.784, Y=-42.636
+29.05 22:37:34 Moving is finished
+29.05 22:39:11 Scanning 91 point from 187
+29.05 22:39:11 Going to coordinates X=-26.754, Y=-42.636
+29.05 22:39:11 Moving is finished
+29.05 22:40:48 Scanning 92 point from 187
+29.05 22:40:48 Going to coordinates X=-26.724, Y=-42.636
+29.05 22:40:48 Moving is finished
+29.05 22:42:25 Scanning 93 point from 187
+29.05 22:42:25 Going to coordinates X=-26.694, Y=-42.636
+29.05 22:42:25 Moving is finished
+29.05 22:44:02 Scanning 94 point from 187
+29.05 22:44:02 Going to coordinates X=-26.664, Y=-42.636
+29.05 22:44:02 Moving is finished
+29.05 22:45:40 Scanning 95 point from 187
+29.05 22:45:40 Going to coordinates X=-26.634, Y=-42.636
+29.05 22:45:40 Moving is finished
+29.05 22:47:16 Scanning 96 point from 187
+29.05 22:47:16 Going to coordinates X=-26.604, Y=-42.636
+29.05 22:47:17 Moving is finished
+29.05 22:48:54 Scanning 97 point from 187
+29.05 22:48:54 Going to coordinates X=-26.574, Y=-42.636
+29.05 22:48:54 Moving is finished
+29.05 22:50:31 Scanning 98 point from 187
+29.05 22:50:31 Going to coordinates X=-26.544, Y=-42.636
+29.05 22:50:31 Moving is finished
+29.05 22:52:08 Scanning 99 point from 187
+29.05 22:52:08 Going to coordinates X=-26.844, Y=-42.606
+29.05 22:52:08 Moving is finished
+29.05 22:53:44 Scanning 100 point from 187
+29.05 22:53:44 Going to coordinates X=-26.814, Y=-42.606
+29.05 22:53:44 Moving is finished
+29.05 22:55:21 Scanning 101 point from 187
+29.05 22:55:21 Going to coordinates X=-26.784, Y=-42.606
+29.05 22:55:22 Moving is finished
+29.05 22:56:58 Scanning 102 point from 187
+29.05 22:56:58 Going to coordinates X=-26.754, Y=-42.606
+29.05 22:56:58 Moving is finished
+29.05 22:58:35 Scanning 103 point from 187
+29.05 22:58:35 Going to coordinates X=-26.724, Y=-42.606
+29.05 22:58:35 Moving is finished
+29.05 22:58:36 Status responce is malformed
+29.05 22:58:36 list index out of range
+29.05 23:00:12 Scanning 104 point from 187
+29.05 23:00:12 Going to coordinates X=-26.694, Y=-42.606
+29.05 23:00:12 Moving is finished
+29.05 23:01:48 Scanning 105 point from 187
+29.05 23:01:48 Going to coordinates X=-26.664, Y=-42.606
+29.05 23:01:49 Moving is finished
+29.05 23:03:25 Scanning 106 point from 187
+29.05 23:03:25 Going to coordinates X=-26.634, Y=-42.606
+29.05 23:03:26 Moving is finished
+29.05 23:05:02 Scanning 107 point from 187
+29.05 23:05:02 Going to coordinates X=-26.604, Y=-42.606
+29.05 23:05:03 Moving is finished
+29.05 23:06:40 Scanning 108 point from 187
+29.05 23:06:40 Going to coordinates X=-26.574, Y=-42.606
+29.05 23:06:40 Moving is finished
+29.05 23:08:17 Scanning 109 point from 187
+29.05 23:08:17 Going to coordinates X=-26.544, Y=-42.606
+29.05 23:08:17 Moving is finished
+29.05 23:09:53 Scanning 110 point from 187
+29.05 23:09:53 Going to coordinates X=-26.844, Y=-42.576
+29.05 23:09:54 Moving is finished
+29.05 23:11:30 Scanning 111 point from 187
+29.05 23:11:30 Going to coordinates X=-26.814, Y=-42.576
+29.05 23:11:30 Moving is finished
+29.05 23:13:07 Scanning 112 point from 187
+29.05 23:13:07 Going to coordinates X=-26.784, Y=-42.576
+29.05 23:13:08 Moving is finished
+29.05 23:14:44 Scanning 113 point from 187
+29.05 23:14:44 Going to coordinates X=-26.754, Y=-42.576
+29.05 23:14:44 Moving is finished
+29.05 23:16:21 Scanning 114 point from 187
+29.05 23:16:21 Going to coordinates X=-26.724, Y=-42.576
+29.05 23:16:22 Moving is finished
+29.05 23:17:58 Scanning 115 point from 187
+29.05 23:17:58 Going to coordinates X=-26.694, Y=-42.576
+29.05 23:17:58 Moving is finished
+29.05 23:19:35 Scanning 116 point from 187
+29.05 23:19:35 Going to coordinates X=-26.664, Y=-42.576
+29.05 23:19:35 Moving is finished
+29.05 23:21:12 Scanning 117 point from 187
+29.05 23:21:12 Going to coordinates X=-26.634, Y=-42.576
+29.05 23:21:12 Moving is finished
+29.05 23:22:49 Scanning 118 point from 187
+29.05 23:22:49 Going to coordinates X=-26.604, Y=-42.576
+29.05 23:22:49 Moving is finished
+29.05 23:24:26 Scanning 119 point from 187
+29.05 23:24:26 Going to coordinates X=-26.574, Y=-42.576
+29.05 23:24:26 Moving is finished
+29.05 23:26:03 Scanning 120 point from 187
+29.05 23:26:03 Going to coordinates X=-26.544, Y=-42.576
+29.05 23:26:03 Moving is finished
+29.05 23:27:40 Scanning 121 point from 187
+29.05 23:27:40 Going to coordinates X=-26.844, Y=-42.546
+29.05 23:27:40 Moving is finished
+29.05 23:29:17 Scanning 122 point from 187
+29.05 23:29:17 Going to coordinates X=-26.814, Y=-42.546
+29.05 23:29:17 Moving is finished
+29.05 23:30:54 Scanning 123 point from 187
+29.05 23:30:54 Going to coordinates X=-26.784, Y=-42.546
+29.05 23:30:54 Moving is finished
+29.05 23:32:31 Scanning 124 point from 187
+29.05 23:32:31 Going to coordinates X=-26.754, Y=-42.546
+29.05 23:32:31 Moving is finished
+29.05 23:34:07 Scanning 125 point from 187
+29.05 23:34:07 Going to coordinates X=-26.724, Y=-42.546
+29.05 23:34:07 Moving is finished
+29.05 23:35:44 Scanning 126 point from 187
+29.05 23:35:44 Going to coordinates X=-26.694, Y=-42.546
+29.05 23:35:44 Moving is finished
+29.05 23:37:21 Scanning 127 point from 187
+29.05 23:37:21 Going to coordinates X=-26.664, Y=-42.546
+29.05 23:37:21 Moving is finished
+29.05 23:38:58 Scanning 128 point from 187
+29.05 23:38:58 Going to coordinates X=-26.634, Y=-42.546
+29.05 23:38:58 Moving is finished
+29.05 23:40:34 Scanning 129 point from 187
+29.05 23:40:34 Going to coordinates X=-26.604, Y=-42.546
+29.05 23:40:35 Moving is finished
+29.05 23:42:12 Scanning 130 point from 187
+29.05 23:42:12 Going to coordinates X=-26.574, Y=-42.546
+29.05 23:42:12 Moving is finished
+29.05 23:43:50 Scanning 131 point from 187
+29.05 23:43:50 Going to coordinates X=-26.544, Y=-42.546
+29.05 23:43:50 Moving is finished
+29.05 23:45:26 Scanning 132 point from 187
+29.05 23:45:26 Going to coordinates X=-26.844, Y=-42.516
+29.05 23:45:27 Moving is finished
+29.05 23:47:04 Scanning 133 point from 187
+29.05 23:47:04 Going to coordinates X=-26.814, Y=-42.516
+29.05 23:47:04 Moving is finished
+29.05 23:48:41 Scanning 134 point from 187
+29.05 23:48:41 Going to coordinates X=-26.784, Y=-42.516
+29.05 23:48:41 Moving is finished
+29.05 23:50:18 Scanning 135 point from 187
+29.05 23:50:18 Going to coordinates X=-26.754, Y=-42.516
+29.05 23:50:18 Moving is finished
+29.05 23:51:55 Scanning 136 point from 187
+29.05 23:51:55 Going to coordinates X=-26.724, Y=-42.516
+29.05 23:51:55 Moving is finished
+29.05 23:53:32 Scanning 137 point from 187
+29.05 23:53:32 Going to coordinates X=-26.694, Y=-42.516
+29.05 23:53:32 Moving is finished
+29.05 23:55:09 Scanning 138 point from 187
+29.05 23:55:09 Going to coordinates X=-26.664, Y=-42.516
+29.05 23:55:09 Moving is finished
+29.05 23:56:45 Scanning 139 point from 187
+29.05 23:56:45 Going to coordinates X=-26.634, Y=-42.516
+29.05 23:56:46 Moving is finished
+29.05 23:58:23 Scanning 140 point from 187
+29.05 23:58:23 Going to coordinates X=-26.604, Y=-42.516
+29.05 23:58:23 Moving is finished
+30.05 00:00:01 Scanning 141 point from 187
+30.05 00:00:01 Going to coordinates X=-26.574, Y=-42.516
+30.05 00:00:01 Moving is finished
+30.05 00:01:38 Scanning 142 point from 187
+30.05 00:01:38 Going to coordinates X=-26.544, Y=-42.516
+30.05 00:01:38 Moving is finished
+30.05 00:03:16 Scanning 143 point from 187
+30.05 00:03:16 Going to coordinates X=-26.844, Y=-42.486
+30.05 00:03:16 Moving is finished
+30.05 00:04:53 Scanning 144 point from 187
+30.05 00:04:53 Going to coordinates X=-26.814, Y=-42.486
+30.05 00:04:54 Moving is finished
+30.05 00:06:30 Scanning 145 point from 187
+30.05 00:06:30 Going to coordinates X=-26.784, Y=-42.486
+30.05 00:06:30 Moving is finished
+30.05 00:08:07 Scanning 146 point from 187
+30.05 00:08:07 Going to coordinates X=-26.754, Y=-42.486
+30.05 00:08:07 Moving is finished
+30.05 00:09:44 Scanning 147 point from 187
+30.05 00:09:44 Going to coordinates X=-26.724, Y=-42.486
+30.05 00:09:44 Moving is finished
+30.05 00:11:21 Scanning 148 point from 187
+30.05 00:11:21 Going to coordinates X=-26.694, Y=-42.486
+30.05 00:11:21 Moving is finished
+30.05 00:12:58 Scanning 149 point from 187
+30.05 00:12:58 Going to coordinates X=-26.664, Y=-42.486
+30.05 00:12:58 Moving is finished
+30.05 00:14:34 Scanning 150 point from 187
+30.05 00:14:34 Going to coordinates X=-26.634, Y=-42.486
+30.05 00:14:34 Moving is finished
+30.05 00:16:11 Scanning 151 point from 187
+30.05 00:16:11 Going to coordinates X=-26.604, Y=-42.486
+30.05 00:16:12 Moving is finished
+30.05 00:17:49 Scanning 152 point from 187
+30.05 00:17:49 Going to coordinates X=-26.574, Y=-42.486
+30.05 00:17:49 Moving is finished
+30.05 00:19:27 Scanning 153 point from 187
+30.05 00:19:27 Going to coordinates X=-26.544, Y=-42.486
+30.05 00:19:27 Moving is finished
+30.05 00:21:04 Scanning 154 point from 187
+30.05 00:21:04 Going to coordinates X=-26.844, Y=-42.456
+30.05 00:21:04 Moving is finished
+30.05 00:22:41 Scanning 155 point from 187
+30.05 00:22:41 Going to coordinates X=-26.814, Y=-42.456
+30.05 00:22:41 Moving is finished
+30.05 00:24:18 Scanning 156 point from 187
+30.05 00:24:18 Going to coordinates X=-26.784, Y=-42.456
+30.05 00:24:18 Moving is finished
+30.05 00:25:55 Scanning 157 point from 187
+30.05 00:25:55 Going to coordinates X=-26.754, Y=-42.456
+30.05 00:25:55 Moving is finished
+30.05 00:27:32 Scanning 158 point from 187
+30.05 00:27:32 Going to coordinates X=-26.724, Y=-42.456
+30.05 00:27:32 Moving is finished
+30.05 00:29:09 Scanning 159 point from 187
+30.05 00:29:09 Going to coordinates X=-26.694, Y=-42.456
+30.05 00:29:09 Moving is finished
+30.05 00:30:46 Scanning 160 point from 187
+30.05 00:30:46 Going to coordinates X=-26.664, Y=-42.456
+30.05 00:30:46 Moving is finished
+30.05 00:32:22 Scanning 161 point from 187
+30.05 00:32:22 Going to coordinates X=-26.634, Y=-42.456
+30.05 00:32:22 Moving is finished
+30.05 00:33:59 Scanning 162 point from 187
+30.05 00:33:59 Going to coordinates X=-26.604, Y=-42.456
+30.05 00:33:59 Moving is finished
+30.05 00:35:36 Scanning 163 point from 187
+30.05 00:35:36 Going to coordinates X=-26.574, Y=-42.456
+30.05 00:35:36 Moving is finished
+30.05 00:37:13 Scanning 164 point from 187
+30.05 00:37:13 Going to coordinates X=-26.544, Y=-42.456
+30.05 00:37:13 Moving is finished
+30.05 00:38:49 Scanning 165 point from 187
+30.05 00:38:49 Going to coordinates X=-26.844, Y=-42.426
+30.05 00:38:50 Moving is finished
+30.05 00:40:27 Scanning 166 point from 187
+30.05 00:40:27 Going to coordinates X=-26.814, Y=-42.426
+30.05 00:40:27 Moving is finished
+30.05 00:42:04 Scanning 167 point from 187
+30.05 00:42:04 Going to coordinates X=-26.784, Y=-42.426
+30.05 00:42:04 Moving is finished
+30.05 00:43:40 Scanning 168 point from 187
+30.05 00:43:40 Going to coordinates X=-26.754, Y=-42.426
+30.05 00:43:41 Moving is finished
+30.05 00:45:18 Scanning 169 point from 187
+30.05 00:45:18 Going to coordinates X=-26.724, Y=-42.426
+30.05 00:45:18 Moving is finished
+30.05 00:46:55 Scanning 170 point from 187
+30.05 00:46:55 Going to coordinates X=-26.694, Y=-42.426
+30.05 00:46:55 Moving is finished
+30.05 00:48:32 Scanning 171 point from 187
+30.05 00:48:32 Going to coordinates X=-26.664, Y=-42.426
+30.05 00:48:33 Moving is finished
+30.05 00:50:09 Scanning 172 point from 187
+30.05 00:50:09 Going to coordinates X=-26.634, Y=-42.426
+30.05 00:50:10 Moving is finished
+30.05 00:51:46 Scanning 173 point from 187
+30.05 00:51:46 Going to coordinates X=-26.604, Y=-42.426
+30.05 00:51:46 Moving is finished
+30.05 00:53:23 Scanning 174 point from 187
+30.05 00:53:23 Going to coordinates X=-26.574, Y=-42.426
+30.05 00:53:23 Moving is finished
+30.05 00:54:59 Scanning 175 point from 187
+30.05 00:54:59 Going to coordinates X=-26.544, Y=-42.426
+30.05 00:55:00 Moving is finished
+30.05 00:56:36 Scanning 176 point from 187
+30.05 00:56:36 Going to coordinates X=-26.844, Y=-42.396
+30.05 00:56:37 Moving is finished
+30.05 00:58:14 Scanning 177 point from 187
+30.05 00:58:14 Going to coordinates X=-26.814, Y=-42.396
+30.05 00:58:14 Moving is finished
+30.05 00:59:52 Scanning 178 point from 187
+30.05 00:59:52 Going to coordinates X=-26.784, Y=-42.396
+30.05 00:59:52 Moving is finished
+30.05 01:01:30 Scanning 179 point from 187
+30.05 01:01:30 Going to coordinates X=-26.754, Y=-42.396
+30.05 01:01:30 Moving is finished
+30.05 01:03:07 Scanning 180 point from 187
+30.05 01:03:07 Going to coordinates X=-26.724, Y=-42.396
+30.05 01:03:07 Moving is finished
+30.05 01:04:45 Scanning 181 point from 187
+30.05 01:04:45 Going to coordinates X=-26.694, Y=-42.396
+30.05 01:04:45 Moving is finished
+30.05 01:06:22 Scanning 182 point from 187
+30.05 01:06:22 Going to coordinates X=-26.664, Y=-42.396
+30.05 01:06:22 Moving is finished
+30.05 01:07:59 Scanning 183 point from 187
+30.05 01:07:59 Going to coordinates X=-26.634, Y=-42.396
+30.05 01:07:59 Moving is finished
+30.05 01:09:37 Scanning 184 point from 187
+30.05 01:09:37 Going to coordinates X=-26.604, Y=-42.396
+30.05 01:09:37 Moving is finished
+30.05 01:11:14 Scanning 185 point from 187
+30.05 01:11:14 Going to coordinates X=-26.574, Y=-42.396
+30.05 01:11:14 Moving is finished
+30.05 01:12:51 Scanning 186 point from 187
+30.05 01:12:51 Going to coordinates X=-26.544, Y=-42.396
+30.05 01:12:51 Moving is finished
+30.05 01:14:28 Row 2: 30.05 01:14:28 Map: x1: -26.561, y1: -43.021, x2: -26.488, y2: -43.371, xres: 0.030, yres: 0.030, fname: hfp2seracooh
+30.05 01:14:28 Scanning 0 point from 52
+30.05 01:14:28 Going to coordinates X=-26.561, Y=-43.371
+30.05 01:14:28 Moving is finished
+30.05 01:16:06 Scanning 1 point from 52
+30.05 01:16:06 Going to coordinates X=-26.531, Y=-43.371
+30.05 01:16:06 Moving is finished
+30.05 01:17:42 Scanning 2 point from 52
+30.05 01:17:42 Going to coordinates X=-26.501, Y=-43.371
+30.05 01:17:43 Moving is finished
+30.05 01:19:20 Scanning 3 point from 52
+30.05 01:19:20 Going to coordinates X=-26.471, Y=-43.371
+30.05 01:19:20 Moving is finished
+30.05 01:20:56 Scanning 4 point from 52
+30.05 01:20:56 Going to coordinates X=-26.561, Y=-43.341
+30.05 01:20:57 Moving is finished
+30.05 01:22:34 Scanning 5 point from 52
+30.05 01:22:34 Going to coordinates X=-26.531, Y=-43.341
+30.05 01:22:34 Moving is finished
+30.05 01:24:11 Scanning 6 point from 52
+30.05 01:24:11 Going to coordinates X=-26.501, Y=-43.341
+30.05 01:24:11 Moving is finished
+30.05 01:25:49 Scanning 7 point from 52
+30.05 01:25:49 Going to coordinates X=-26.471, Y=-43.341
+30.05 01:25:49 Moving is finished
+30.05 01:27:26 Scanning 8 point from 52
+30.05 01:27:26 Going to coordinates X=-26.561, Y=-43.311
+30.05 01:27:27 Moving is finished
+30.05 01:29:03 Scanning 9 point from 52
+30.05 01:29:03 Going to coordinates X=-26.531, Y=-43.311
+30.05 01:29:03 Moving is finished
+30.05 01:30:42 Scanning 10 point from 52
+30.05 01:30:42 Going to coordinates X=-26.501, Y=-43.311
+30.05 01:30:42 Moving is finished
+30.05 01:32:19 Scanning 11 point from 52
+30.05 01:32:19 Going to coordinates X=-26.471, Y=-43.311
+30.05 01:32:19 Moving is finished
+30.05 01:33:55 Scanning 12 point from 52
+30.05 01:33:55 Going to coordinates X=-26.561, Y=-43.281
+30.05 01:33:56 Moving is finished
+30.05 01:35:32 Scanning 13 point from 52
+30.05 01:35:32 Going to coordinates X=-26.531, Y=-43.281
+30.05 01:35:33 Moving is finished
+30.05 01:37:09 Scanning 14 point from 52
+30.05 01:37:09 Going to coordinates X=-26.501, Y=-43.281
+30.05 01:37:09 Moving is finished
+30.05 01:38:46 Scanning 15 point from 52
+30.05 01:38:46 Going to coordinates X=-26.471, Y=-43.281
+30.05 01:38:47 Moving is finished
+30.05 01:40:23 Scanning 16 point from 52
+30.05 01:40:23 Going to coordinates X=-26.561, Y=-43.251
+30.05 01:40:24 Moving is finished
+30.05 01:42:00 Scanning 17 point from 52
+30.05 01:42:00 Going to coordinates X=-26.531, Y=-43.251
+30.05 01:42:00 Moving is finished
+30.05 01:43:37 Scanning 18 point from 52
+30.05 01:43:37 Going to coordinates X=-26.501, Y=-43.251
+30.05 01:43:37 Moving is finished
+30.05 01:45:14 Scanning 19 point from 52
+30.05 01:45:14 Going to coordinates X=-26.471, Y=-43.251
+30.05 01:45:14 Moving is finished
+30.05 01:46:50 Scanning 20 point from 52
+30.05 01:46:50 Going to coordinates X=-26.561, Y=-43.221
+30.05 01:46:51 Moving is finished
+30.05 01:48:27 Scanning 21 point from 52
+30.05 01:48:27 Going to coordinates X=-26.531, Y=-43.221
+30.05 01:48:27 Moving is finished
+30.05 01:50:04 Scanning 22 point from 52
+30.05 01:50:04 Going to coordinates X=-26.501, Y=-43.221
+30.05 01:50:04 Moving is finished
+30.05 01:51:41 Scanning 23 point from 52
+30.05 01:51:41 Going to coordinates X=-26.471, Y=-43.221
+30.05 01:51:41 Moving is finished
+30.05 01:53:18 Scanning 24 point from 52
+30.05 01:53:18 Going to coordinates X=-26.561, Y=-43.191
+30.05 01:53:18 Moving is finished
+30.05 01:54:55 Scanning 25 point from 52
+30.05 01:54:55 Going to coordinates X=-26.531, Y=-43.191
+30.05 01:54:55 Moving is finished
+30.05 01:56:32 Scanning 26 point from 52
+30.05 01:56:32 Going to coordinates X=-26.501, Y=-43.191
+30.05 01:56:32 Moving is finished
+30.05 01:58:09 Scanning 27 point from 52
+30.05 01:58:09 Going to coordinates X=-26.471, Y=-43.191
+30.05 01:58:09 Moving is finished
+30.05 01:59:47 Scanning 28 point from 52
+30.05 01:59:47 Going to coordinates X=-26.561, Y=-43.161
+30.05 01:59:47 Moving is finished
+30.05 02:01:23 Scanning 29 point from 52
+30.05 02:01:23 Going to coordinates X=-26.531, Y=-43.161
+30.05 02:01:24 Moving is finished
+30.05 02:03:00 Scanning 30 point from 52
+30.05 02:03:00 Going to coordinates X=-26.501, Y=-43.161
+30.05 02:03:00 Moving is finished
+30.05 02:04:37 Scanning 31 point from 52
+30.05 02:04:37 Going to coordinates X=-26.471, Y=-43.161
+30.05 02:04:38 Moving is finished
+30.05 02:06:14 Scanning 32 point from 52
+30.05 02:06:14 Going to coordinates X=-26.561, Y=-43.131
+30.05 02:06:15 Moving is finished
+30.05 02:07:52 Scanning 33 point from 52
+30.05 02:07:52 Going to coordinates X=-26.531, Y=-43.131
+30.05 02:07:52 Moving is finished
+30.05 02:09:29 Scanning 34 point from 52
+30.05 02:09:29 Going to coordinates X=-26.501, Y=-43.131
+30.05 02:09:29 Moving is finished
+30.05 02:11:06 Scanning 35 point from 52
+30.05 02:11:06 Going to coordinates X=-26.471, Y=-43.131
+30.05 02:11:06 Moving is finished
+30.05 02:12:43 Scanning 36 point from 52
+30.05 02:12:43 Going to coordinates X=-26.561, Y=-43.101
+30.05 02:12:44 Moving is finished
+30.05 02:14:21 Scanning 37 point from 52
+30.05 02:14:21 Going to coordinates X=-26.531, Y=-43.101
+30.05 02:14:21 Moving is finished
+30.05 02:15:58 Scanning 38 point from 52
+30.05 02:15:58 Going to coordinates X=-26.501, Y=-43.101
+30.05 02:15:59 Moving is finished
+30.05 02:17:35 Scanning 39 point from 52
+30.05 02:17:35 Going to coordinates X=-26.471, Y=-43.101
+30.05 02:17:35 Moving is finished
+30.05 02:19:12 Scanning 40 point from 52
+30.05 02:19:12 Going to coordinates X=-26.561, Y=-43.071
+30.05 02:19:12 Moving is finished
+30.05 02:20:49 Scanning 41 point from 52
+30.05 02:20:49 Going to coordinates X=-26.531, Y=-43.071
+30.05 02:20:49 Moving is finished
+30.05 02:22:26 Scanning 42 point from 52
+30.05 02:22:26 Going to coordinates X=-26.501, Y=-43.071
+30.05 02:22:26 Moving is finished
+30.05 02:24:03 Scanning 43 point from 52
+30.05 02:24:03 Going to coordinates X=-26.471, Y=-43.071
+30.05 02:24:03 Moving is finished
+30.05 02:25:40 Scanning 44 point from 52
+30.05 02:25:40 Going to coordinates X=-26.561, Y=-43.041
+30.05 02:25:40 Moving is finished
+30.05 02:27:17 Scanning 45 point from 52
+30.05 02:27:17 Going to coordinates X=-26.531, Y=-43.041
+30.05 02:27:17 Moving is finished
+30.05 02:28:55 Scanning 46 point from 52
+30.05 02:28:55 Going to coordinates X=-26.501, Y=-43.041
+30.05 02:28:55 Moving is finished
+30.05 02:30:32 Scanning 47 point from 52
+30.05 02:30:32 Going to coordinates X=-26.471, Y=-43.041
+30.05 02:30:32 Moving is finished
+30.05 02:32:09 Scanning 48 point from 52
+30.05 02:32:09 Going to coordinates X=-26.561, Y=-43.011
+30.05 02:32:09 Moving is finished
+30.05 02:33:46 Scanning 49 point from 52
+30.05 02:33:46 Going to coordinates X=-26.531, Y=-43.011
+30.05 02:33:46 Moving is finished
+30.05 02:35:22 Scanning 50 point from 52
+30.05 02:35:22 Going to coordinates X=-26.501, Y=-43.011
+30.05 02:35:23 Moving is finished
+30.05 02:37:00 Scanning 51 point from 52
+30.05 02:37:00 Going to coordinates X=-26.471, Y=-43.011
+30.05 02:37:00 Moving is finished
+30.05 02:38:37 Row 3: 30.05 02:38:37 Map: x1: -27.683, y1: -41.443, x2: -27.102, y2: -42.186, xres: 0.030, yres: 0.030, fname: hfp2seracooh
+30.05 02:38:37 Scanning 0 point from 546
+30.05 02:38:37 Going to coordinates X=-27.683, Y=-42.186
+30.05 02:38:37 Moving is finished
+30.05 02:40:14 Scanning 1 point from 546
+30.05 02:40:14 Going to coordinates X=-27.653, Y=-42.186
+30.05 02:40:15 Moving is finished
+30.05 02:41:52 Scanning 2 point from 546
+30.05 02:41:52 Going to coordinates X=-27.623, Y=-42.186
+30.05 02:41:52 Moving is finished
+30.05 02:43:30 Scanning 3 point from 546
+30.05 02:43:30 Going to coordinates X=-27.593, Y=-42.186
+30.05 02:43:30 Moving is finished
+30.05 02:45:06 Scanning 4 point from 546
+30.05 02:45:06 Going to coordinates X=-27.563, Y=-42.186
+30.05 02:45:07 Moving is finished
+30.05 02:46:43 Scanning 5 point from 546
+30.05 02:46:43 Going to coordinates X=-27.533, Y=-42.186
+30.05 02:46:43 Moving is finished
+30.05 02:48:21 Scanning 6 point from 546
+30.05 02:48:21 Going to coordinates X=-27.503, Y=-42.186
+30.05 02:48:21 Moving is finished
+30.05 02:49:58 Scanning 7 point from 546
+30.05 02:49:58 Going to coordinates X=-27.473, Y=-42.186
+30.05 02:49:58 Moving is finished
+30.05 02:51:36 Scanning 8 point from 546
+30.05 02:51:36 Going to coordinates X=-27.443, Y=-42.186
+30.05 02:51:36 Moving is finished
+30.05 02:53:12 Scanning 9 point from 546
+30.05 02:53:12 Going to coordinates X=-27.413, Y=-42.186
+30.05 02:53:13 Moving is finished
+30.05 02:54:49 Scanning 10 point from 546
+30.05 02:54:49 Going to coordinates X=-27.383, Y=-42.186
+30.05 02:54:49 Moving is finished
+30.05 02:56:26 Scanning 11 point from 546
+30.05 02:56:26 Going to coordinates X=-27.353, Y=-42.186
+30.05 02:56:26 Moving is finished
+30.05 02:58:04 Scanning 12 point from 546
+30.05 02:58:04 Going to coordinates X=-27.323, Y=-42.186
+30.05 02:58:04 Moving is finished
+30.05 02:59:41 Scanning 13 point from 546
+30.05 02:59:41 Going to coordinates X=-27.293, Y=-42.186
+30.05 02:59:41 Moving is finished
+30.05 03:01:18 Scanning 14 point from 546
+30.05 03:01:18 Going to coordinates X=-27.263, Y=-42.186
+30.05 03:01:18 Moving is finished
+30.05 03:02:54 Scanning 15 point from 546
+30.05 03:02:54 Going to coordinates X=-27.233, Y=-42.186
+30.05 03:02:55 Moving is finished
+30.05 03:04:32 Scanning 16 point from 546
+30.05 03:04:32 Going to coordinates X=-27.203, Y=-42.186
+30.05 03:04:32 Moving is finished
+30.05 03:06:08 Scanning 17 point from 546
+30.05 03:06:08 Going to coordinates X=-27.173, Y=-42.186
+30.05 03:06:09 Moving is finished
+30.05 03:07:45 Scanning 18 point from 546
+30.05 03:07:45 Going to coordinates X=-27.143, Y=-42.186
+30.05 03:07:46 Moving is finished
+30.05 03:09:22 Scanning 19 point from 546
+30.05 03:09:22 Going to coordinates X=-27.113, Y=-42.186
+30.05 03:09:22 Moving is finished
+30.05 03:10:59 Scanning 20 point from 546
+30.05 03:10:59 Going to coordinates X=-27.083, Y=-42.186
+30.05 03:10:59 Moving is finished
+30.05 03:12:36 Scanning 21 point from 546
+30.05 03:12:36 Going to coordinates X=-27.683, Y=-42.156
+30.05 03:12:36 Moving is finished
+30.05 03:14:13 Scanning 22 point from 546
+30.05 03:14:13 Going to coordinates X=-27.653, Y=-42.156
+30.05 03:14:13 Moving is finished
+30.05 03:15:50 Scanning 23 point from 546
+30.05 03:15:50 Going to coordinates X=-27.623, Y=-42.156
+30.05 03:15:50 Moving is finished
+30.05 03:17:27 Scanning 24 point from 546
+30.05 03:17:27 Going to coordinates X=-27.593, Y=-42.156
+30.05 03:17:27 Moving is finished
+30.05 03:19:03 Scanning 25 point from 546
+30.05 03:19:03 Going to coordinates X=-27.563, Y=-42.156
+30.05 03:19:04 Moving is finished
+30.05 03:20:41 Scanning 26 point from 546
+30.05 03:20:41 Going to coordinates X=-27.533, Y=-42.156
+30.05 03:20:42 Moving is finished
+30.05 03:22:18 Scanning 27 point from 546
+30.05 03:22:18 Going to coordinates X=-27.503, Y=-42.156
+30.05 03:22:18 Moving is finished
+30.05 03:23:55 Scanning 28 point from 546
+30.05 03:23:55 Going to coordinates X=-27.473, Y=-42.156
+30.05 03:23:55 Moving is finished
+30.05 03:25:32 Scanning 29 point from 546
+30.05 03:25:32 Going to coordinates X=-27.443, Y=-42.156
+30.05 03:25:32 Moving is finished
+30.05 03:27:09 Scanning 30 point from 546
+30.05 03:27:09 Going to coordinates X=-27.413, Y=-42.156
+30.05 03:27:09 Moving is finished
+30.05 03:28:47 Scanning 31 point from 546
+30.05 03:28:47 Going to coordinates X=-27.383, Y=-42.156
+30.05 03:28:47 Moving is finished
+30.05 03:30:24 Scanning 32 point from 546
+30.05 03:30:24 Going to coordinates X=-27.353, Y=-42.156
+30.05 03:30:24 Moving is finished
+30.05 03:32:01 Scanning 33 point from 546
+30.05 03:32:01 Going to coordinates X=-27.323, Y=-42.156
+30.05 03:32:01 Moving is finished
+30.05 03:33:38 Scanning 34 point from 546
+30.05 03:33:38 Going to coordinates X=-27.293, Y=-42.156
+30.05 03:33:38 Moving is finished
+30.05 03:35:15 Scanning 35 point from 546
+30.05 03:35:15 Going to coordinates X=-27.263, Y=-42.156
+30.05 03:35:15 Moving is finished
+30.05 03:36:52 Scanning 36 point from 546
+30.05 03:36:52 Going to coordinates X=-27.233, Y=-42.156
+30.05 03:36:52 Moving is finished
+30.05 03:38:29 Scanning 37 point from 546
+30.05 03:38:29 Going to coordinates X=-27.203, Y=-42.156
+30.05 03:38:29 Moving is finished
+30.05 03:40:07 Scanning 38 point from 546
+30.05 03:40:07 Going to coordinates X=-27.173, Y=-42.156
+30.05 03:40:07 Moving is finished
+30.05 03:41:43 Scanning 39 point from 546
+30.05 03:41:43 Going to coordinates X=-27.143, Y=-42.156
+30.05 03:41:44 Moving is finished
+30.05 03:43:20 Scanning 40 point from 546
+30.05 03:43:20 Going to coordinates X=-27.113, Y=-42.156
+30.05 03:43:20 Moving is finished
+30.05 03:44:58 Scanning 41 point from 546
+30.05 03:44:58 Going to coordinates X=-27.083, Y=-42.156
+30.05 03:44:58 Moving is finished
+30.05 03:46:35 Scanning 42 point from 546
+30.05 03:46:35 Going to coordinates X=-27.683, Y=-42.126
+30.05 03:46:35 Moving is finished
+30.05 03:48:13 Scanning 43 point from 546
+30.05 03:48:13 Going to coordinates X=-27.653, Y=-42.126
+30.05 03:48:13 Moving is finished
+30.05 03:49:50 Scanning 44 point from 546
+30.05 03:49:50 Going to coordinates X=-27.623, Y=-42.126
+30.05 03:49:50 Moving is finished
+30.05 03:51:27 Scanning 45 point from 546
+30.05 03:51:27 Going to coordinates X=-27.593, Y=-42.126
+30.05 03:51:27 Moving is finished
+30.05 03:53:04 Scanning 46 point from 546
+30.05 03:53:04 Going to coordinates X=-27.563, Y=-42.126
+30.05 03:53:05 Moving is finished
+30.05 03:54:41 Scanning 47 point from 546
+30.05 03:54:41 Going to coordinates X=-27.533, Y=-42.126
+30.05 03:54:41 Moving is finished
+30.05 03:56:18 Scanning 48 point from 546
+30.05 03:56:18 Going to coordinates X=-27.503, Y=-42.126
+30.05 03:56:19 Moving is finished
+30.05 03:57:56 Scanning 49 point from 546
+30.05 03:57:56 Going to coordinates X=-27.473, Y=-42.126
+30.05 03:57:56 Moving is finished
+30.05 03:59:33 Scanning 50 point from 546
+30.05 03:59:33 Going to coordinates X=-27.443, Y=-42.126
+30.05 03:59:34 Moving is finished
+30.05 04:01:10 Scanning 51 point from 546
+30.05 04:01:10 Going to coordinates X=-27.413, Y=-42.126
+30.05 04:01:10 Moving is finished
+30.05 04:02:47 Scanning 52 point from 546
+30.05 04:02:47 Going to coordinates X=-27.383, Y=-42.126
+30.05 04:02:48 Moving is finished
+30.05 04:04:25 Scanning 53 point from 546
+30.05 04:04:25 Going to coordinates X=-27.353, Y=-42.126
+30.05 04:04:25 Moving is finished
+30.05 04:06:01 Scanning 54 point from 546
+30.05 04:06:01 Going to coordinates X=-27.323, Y=-42.126
+30.05 04:06:02 Moving is finished
+30.05 04:07:38 Scanning 55 point from 546
+30.05 04:07:38 Going to coordinates X=-27.293, Y=-42.126
+30.05 04:07:39 Moving is finished
+30.05 04:09:15 Scanning 56 point from 546
+30.05 04:09:15 Going to coordinates X=-27.263, Y=-42.126
+30.05 04:09:15 Moving is finished
+30.05 04:10:52 Scanning 57 point from 546
+30.05 04:10:52 Going to coordinates X=-27.233, Y=-42.126
+30.05 04:10:52 Moving is finished
+30.05 04:12:29 Scanning 58 point from 546
+30.05 04:12:29 Going to coordinates X=-27.203, Y=-42.126
+30.05 04:12:29 Moving is finished
+30.05 04:14:07 Scanning 59 point from 546
+30.05 04:14:07 Going to coordinates X=-27.173, Y=-42.126
+30.05 04:14:07 Moving is finished
+30.05 04:15:43 Scanning 60 point from 546
+30.05 04:15:43 Going to coordinates X=-27.143, Y=-42.126
+30.05 04:15:44 Moving is finished
+30.05 04:17:20 Scanning 61 point from 546
+30.05 04:17:20 Going to coordinates X=-27.113, Y=-42.126
+30.05 04:17:20 Moving is finished
+30.05 04:18:57 Scanning 62 point from 546
+30.05 04:18:57 Going to coordinates X=-27.083, Y=-42.126
+30.05 04:18:57 Moving is finished
+30.05 04:20:34 Scanning 63 point from 546
+30.05 04:20:34 Going to coordinates X=-27.683, Y=-42.096
+30.05 04:20:35 Moving is finished
+30.05 04:22:11 Scanning 64 point from 546
+30.05 04:22:11 Going to coordinates X=-27.653, Y=-42.096
+30.05 04:22:11 Moving is finished
+30.05 04:23:49 Scanning 65 point from 546
+30.05 04:23:49 Going to coordinates X=-27.623, Y=-42.096
+30.05 04:23:49 Moving is finished
+30.05 04:25:26 Scanning 66 point from 546
+30.05 04:25:26 Going to coordinates X=-27.593, Y=-42.096
+30.05 04:25:26 Moving is finished
+30.05 04:27:04 Scanning 67 point from 546
+30.05 04:27:04 Going to coordinates X=-27.563, Y=-42.096
+30.05 04:27:04 Moving is finished
+30.05 04:28:41 Scanning 68 point from 546
+30.05 04:28:41 Going to coordinates X=-27.533, Y=-42.096
+30.05 04:28:41 Moving is finished
+30.05 04:30:18 Scanning 69 point from 546
+30.05 04:30:18 Going to coordinates X=-27.503, Y=-42.096
+30.05 04:30:18 Moving is finished
+30.05 04:31:55 Scanning 70 point from 546
+30.05 04:31:55 Going to coordinates X=-27.473, Y=-42.096
+30.05 04:31:55 Moving is finished
+30.05 04:33:32 Scanning 71 point from 546
+30.05 04:33:32 Going to coordinates X=-27.443, Y=-42.096
+30.05 04:33:32 Moving is finished
+30.05 04:35:09 Scanning 72 point from 546
+30.05 04:35:09 Going to coordinates X=-27.413, Y=-42.096
+30.05 04:35:09 Moving is finished
+30.05 04:36:46 Scanning 73 point from 546
+30.05 04:36:46 Going to coordinates X=-27.383, Y=-42.096
+30.05 04:36:46 Moving is finished
+30.05 04:38:23 Scanning 74 point from 546
+30.05 04:38:23 Going to coordinates X=-27.353, Y=-42.096
+30.05 04:38:23 Moving is finished
+30.05 04:40:01 Scanning 75 point from 546
+30.05 04:40:01 Going to coordinates X=-27.323, Y=-42.096
+30.05 04:40:01 Moving is finished
+30.05 04:41:38 Scanning 76 point from 546
+30.05 04:41:38 Going to coordinates X=-27.293, Y=-42.096
+30.05 04:41:38 Moving is finished
+30.05 04:43:15 Scanning 77 point from 546
+30.05 04:43:15 Going to coordinates X=-27.263, Y=-42.096
+30.05 04:43:15 Moving is finished
+30.05 04:44:52 Scanning 78 point from 546
+30.05 04:44:52 Going to coordinates X=-27.233, Y=-42.096
+30.05 04:44:52 Moving is finished
+30.05 04:46:29 Scanning 79 point from 546
+30.05 04:46:29 Going to coordinates X=-27.203, Y=-42.096
+30.05 04:46:29 Moving is finished
+30.05 04:48:06 Scanning 80 point from 546
+30.05 04:48:06 Going to coordinates X=-27.173, Y=-42.096
+30.05 04:48:06 Moving is finished
+30.05 04:49:43 Scanning 81 point from 546
+30.05 04:49:43 Going to coordinates X=-27.143, Y=-42.096
+30.05 04:49:43 Moving is finished
+30.05 04:51:20 Scanning 82 point from 546
+30.05 04:51:20 Going to coordinates X=-27.113, Y=-42.096
+30.05 04:51:20 Moving is finished
+30.05 04:52:56 Scanning 83 point from 546
+30.05 04:52:56 Going to coordinates X=-27.083, Y=-42.096
+30.05 04:52:56 Moving is finished
+30.05 04:54:33 Scanning 84 point from 546
+30.05 04:54:33 Going to coordinates X=-27.683, Y=-42.066
+30.05 04:54:34 Moving is finished
+30.05 04:56:11 Scanning 85 point from 546
+30.05 04:56:11 Going to coordinates X=-27.653, Y=-42.066
+30.05 04:56:11 Moving is finished
+30.05 04:57:48 Scanning 86 point from 546
+30.05 04:57:48 Going to coordinates X=-27.623, Y=-42.066
+30.05 04:57:48 Moving is finished
+30.05 04:59:24 Scanning 87 point from 546
+30.05 04:59:24 Going to coordinates X=-27.593, Y=-42.066
+30.05 04:59:25 Moving is finished
+30.05 05:01:01 Scanning 88 point from 546
+30.05 05:01:01 Going to coordinates X=-27.563, Y=-42.066
+30.05 05:01:01 Moving is finished
+30.05 05:02:38 Scanning 89 point from 546
+30.05 05:02:38 Going to coordinates X=-27.533, Y=-42.066
+30.05 05:02:38 Moving is finished
+30.05 05:04:15 Scanning 90 point from 546
+30.05 05:04:15 Going to coordinates X=-27.503, Y=-42.066
+30.05 05:04:15 Moving is finished
+30.05 05:05:52 Scanning 91 point from 546
+30.05 05:05:52 Going to coordinates X=-27.473, Y=-42.066
+30.05 05:05:52 Moving is finished
+30.05 05:07:29 Scanning 92 point from 546
+30.05 05:07:29 Going to coordinates X=-27.443, Y=-42.066
+30.05 05:07:29 Moving is finished
+30.05 05:09:06 Scanning 93 point from 546
+30.05 05:09:06 Going to coordinates X=-27.413, Y=-42.066
+30.05 05:09:07 Moving is finished
+30.05 05:10:44 Scanning 94 point from 546
+30.05 05:10:44 Going to coordinates X=-27.383, Y=-42.066
+30.05 05:10:44 Moving is finished
+30.05 05:12:21 Scanning 95 point from 546
+30.05 05:12:21 Going to coordinates X=-27.353, Y=-42.066
+30.05 05:12:21 Moving is finished
+30.05 05:13:58 Scanning 96 point from 546
+30.05 05:13:58 Going to coordinates X=-27.323, Y=-42.066
+30.05 05:13:58 Moving is finished
+30.05 05:15:35 Scanning 97 point from 546
+30.05 05:15:35 Going to coordinates X=-27.293, Y=-42.066
+30.05 05:15:35 Moving is finished
+30.05 05:17:13 Scanning 98 point from 546
+30.05 05:17:13 Going to coordinates X=-27.263, Y=-42.066
+30.05 05:17:13 Moving is finished
+30.05 05:18:50 Scanning 99 point from 546
+30.05 05:18:50 Going to coordinates X=-27.233, Y=-42.066
+30.05 05:18:50 Moving is finished
+30.05 05:20:28 Scanning 100 point from 546
+30.05 05:20:28 Going to coordinates X=-27.203, Y=-42.066
+30.05 05:20:28 Moving is finished
+30.05 05:22:05 Scanning 101 point from 546
+30.05 05:22:05 Going to coordinates X=-27.173, Y=-42.066
+30.05 05:22:05 Moving is finished
+30.05 05:23:43 Scanning 102 point from 546
+30.05 05:23:43 Going to coordinates X=-27.143, Y=-42.066
+30.05 05:23:43 Moving is finished
+30.05 05:25:20 Scanning 103 point from 546
+30.05 05:25:20 Going to coordinates X=-27.113, Y=-42.066
+30.05 05:25:20 Moving is finished
+30.05 05:26:58 Scanning 104 point from 546
+30.05 05:26:58 Going to coordinates X=-27.083, Y=-42.066
+30.05 05:26:58 Moving is finished
+30.05 05:28:34 Scanning 105 point from 546
+30.05 05:28:34 Going to coordinates X=-27.683, Y=-42.036
+30.05 05:28:35 Moving is finished
+30.05 05:30:12 Scanning 106 point from 546
+30.05 05:30:12 Going to coordinates X=-27.653, Y=-42.036
+30.05 05:30:12 Moving is finished
+30.05 05:31:49 Scanning 107 point from 546
+30.05 05:31:49 Going to coordinates X=-27.623, Y=-42.036
+30.05 05:31:49 Moving is finished
+30.05 05:33:26 Scanning 108 point from 546
+30.05 05:33:26 Going to coordinates X=-27.593, Y=-42.036
+30.05 05:33:26 Moving is finished
+30.05 05:35:03 Scanning 109 point from 546
+30.05 05:35:03 Going to coordinates X=-27.563, Y=-42.036
+30.05 05:35:03 Moving is finished
+30.05 05:36:40 Scanning 110 point from 546
+30.05 05:36:40 Going to coordinates X=-27.533, Y=-42.036
+30.05 05:36:41 Moving is finished
+30.05 05:38:18 Scanning 111 point from 546
+30.05 05:38:18 Going to coordinates X=-27.503, Y=-42.036
+30.05 05:38:18 Moving is finished
+30.05 05:39:55 Scanning 112 point from 546
+30.05 05:39:55 Going to coordinates X=-27.473, Y=-42.036
+30.05 05:39:55 Moving is finished
+30.05 05:41:33 Scanning 113 point from 546
+30.05 05:41:33 Going to coordinates X=-27.443, Y=-42.036
+30.05 05:41:33 Moving is finished
+30.05 05:43:11 Scanning 114 point from 546
+30.05 05:43:11 Going to coordinates X=-27.413, Y=-42.036
+30.05 05:43:11 Moving is finished
+30.05 05:44:47 Scanning 115 point from 546
+30.05 05:44:47 Going to coordinates X=-27.383, Y=-42.036
+30.05 05:44:48 Moving is finished
+30.05 05:46:24 Scanning 116 point from 546
+30.05 05:46:24 Going to coordinates X=-27.353, Y=-42.036
+30.05 05:46:25 Moving is finished
+30.05 05:48:01 Scanning 117 point from 546
+30.05 05:48:01 Going to coordinates X=-27.323, Y=-42.036
+30.05 05:48:01 Moving is finished
+30.05 05:49:38 Scanning 118 point from 546
+30.05 05:49:38 Going to coordinates X=-27.293, Y=-42.036
+30.05 05:49:38 Moving is finished
+30.05 05:51:15 Scanning 119 point from 546
+30.05 05:51:15 Going to coordinates X=-27.263, Y=-42.036
+30.05 05:51:15 Moving is finished
+30.05 05:52:52 Scanning 120 point from 546
+30.05 05:52:52 Going to coordinates X=-27.233, Y=-42.036
+30.05 05:52:52 Moving is finished
+30.05 05:54:28 Scanning 121 point from 546
+30.05 05:54:28 Going to coordinates X=-27.203, Y=-42.036
+30.05 05:54:28 Moving is finished
+30.05 05:56:05 Scanning 122 point from 546
+30.05 05:56:05 Going to coordinates X=-27.173, Y=-42.036
+30.05 05:56:05 Moving is finished
+30.05 05:57:42 Scanning 123 point from 546
+30.05 05:57:42 Going to coordinates X=-27.143, Y=-42.036
+30.05 05:57:42 Moving is finished
+30.05 05:59:19 Scanning 124 point from 546
+30.05 05:59:19 Going to coordinates X=-27.113, Y=-42.036
+30.05 05:59:19 Moving is finished
+30.05 06:00:56 Scanning 125 point from 546
+30.05 06:00:56 Going to coordinates X=-27.083, Y=-42.036
+30.05 06:00:56 Moving is finished
+30.05 06:02:33 Scanning 126 point from 546
+30.05 06:02:33 Going to coordinates X=-27.683, Y=-42.006
+30.05 06:02:34 Moving is finished
+30.05 06:04:10 Scanning 127 point from 546
+30.05 06:04:10 Going to coordinates X=-27.653, Y=-42.006
+30.05 06:04:10 Moving is finished
+30.05 06:05:47 Scanning 128 point from 546
+30.05 06:05:47 Going to coordinates X=-27.623, Y=-42.006
+30.05 06:05:47 Moving is finished
+30.05 06:07:24 Scanning 129 point from 546
+30.05 06:07:24 Going to coordinates X=-27.593, Y=-42.006
+30.05 06:07:24 Moving is finished
+30.05 06:09:01 Scanning 130 point from 546
+30.05 06:09:01 Going to coordinates X=-27.563, Y=-42.006
+30.05 06:09:01 Moving is finished
+30.05 06:10:38 Scanning 131 point from 546
+30.05 06:10:38 Going to coordinates X=-27.533, Y=-42.006
+30.05 06:10:38 Moving is finished
+30.05 06:12:14 Scanning 132 point from 546
+30.05 06:12:14 Going to coordinates X=-27.503, Y=-42.006
+30.05 06:12:15 Moving is finished
+30.05 06:13:51 Scanning 133 point from 546
+30.05 06:13:51 Going to coordinates X=-27.473, Y=-42.006
+30.05 06:13:51 Moving is finished
+30.05 06:15:28 Scanning 134 point from 546
+30.05 06:15:28 Going to coordinates X=-27.443, Y=-42.006
+30.05 06:15:28 Moving is finished
+30.05 06:17:05 Scanning 135 point from 546
+30.05 06:17:05 Going to coordinates X=-27.413, Y=-42.006
+30.05 06:17:05 Moving is finished
+30.05 06:18:41 Scanning 136 point from 546
+30.05 06:18:41 Going to coordinates X=-27.383, Y=-42.006
+30.05 06:18:42 Moving is finished
+30.05 06:20:18 Scanning 137 point from 546
+30.05 06:20:18 Going to coordinates X=-27.353, Y=-42.006
+30.05 06:20:19 Moving is finished
+30.05 06:21:55 Scanning 138 point from 546
+30.05 06:21:55 Going to coordinates X=-27.323, Y=-42.006
+30.05 06:21:56 Moving is finished
+30.05 06:23:32 Scanning 139 point from 546
+30.05 06:23:32 Going to coordinates X=-27.293, Y=-42.006
+30.05 06:23:32 Moving is finished
+30.05 06:25:09 Scanning 140 point from 546
+30.05 06:25:09 Going to coordinates X=-27.263, Y=-42.006
+30.05 06:25:09 Moving is finished
+30.05 06:26:45 Scanning 141 point from 546
+30.05 06:26:45 Going to coordinates X=-27.233, Y=-42.006
+30.05 06:26:46 Moving is finished
+30.05 06:28:22 Scanning 142 point from 546
+30.05 06:28:22 Going to coordinates X=-27.203, Y=-42.006
+30.05 06:28:22 Moving is finished
+30.05 06:30:00 Scanning 143 point from 546
+30.05 06:30:00 Going to coordinates X=-27.173, Y=-42.006
+30.05 06:30:00 Moving is finished
+30.05 06:31:37 Scanning 144 point from 546
+30.05 06:31:37 Going to coordinates X=-27.143, Y=-42.006
+30.05 06:31:37 Moving is finished
+30.05 06:33:13 Scanning 145 point from 546
+30.05 06:33:13 Going to coordinates X=-27.113, Y=-42.006
+30.05 06:33:14 Moving is finished
+30.05 06:34:50 Scanning 146 point from 546
+30.05 06:34:50 Going to coordinates X=-27.083, Y=-42.006
+30.05 06:34:50 Moving is finished
+30.05 06:36:27 Scanning 147 point from 546
+30.05 06:36:27 Going to coordinates X=-27.683, Y=-41.976
+30.05 06:36:28 Moving is finished
+30.05 06:38:04 Scanning 148 point from 546
+30.05 06:38:04 Going to coordinates X=-27.653, Y=-41.976
+30.05 06:38:04 Moving is finished
+30.05 06:39:41 Scanning 149 point from 546
+30.05 06:39:41 Going to coordinates X=-27.623, Y=-41.976
+30.05 06:39:41 Moving is finished
+30.05 06:41:18 Scanning 150 point from 546
+30.05 06:41:18 Going to coordinates X=-27.593, Y=-41.976
+30.05 06:41:18 Moving is finished
+30.05 06:42:55 Scanning 151 point from 546
+30.05 06:42:55 Going to coordinates X=-27.563, Y=-41.976
+30.05 06:42:55 Moving is finished
+30.05 06:44:32 Scanning 152 point from 546
+30.05 06:44:32 Going to coordinates X=-27.533, Y=-41.976
+30.05 06:44:32 Moving is finished
+30.05 06:46:09 Scanning 153 point from 546
+30.05 06:46:09 Going to coordinates X=-27.503, Y=-41.976
+30.05 06:46:09 Moving is finished
+30.05 06:47:46 Scanning 154 point from 546
+30.05 06:47:46 Going to coordinates X=-27.473, Y=-41.976
+30.05 06:47:47 Moving is finished
+30.05 06:49:24 Scanning 155 point from 546
+30.05 06:49:24 Going to coordinates X=-27.443, Y=-41.976
+30.05 06:49:24 Moving is finished
+30.05 06:51:02 Scanning 156 point from 546
+30.05 06:51:02 Going to coordinates X=-27.413, Y=-41.976
+30.05 06:51:02 Moving is finished
+30.05 06:52:39 Scanning 157 point from 546
+30.05 06:52:39 Going to coordinates X=-27.383, Y=-41.976
+30.05 06:52:40 Moving is finished
+30.05 06:54:17 Scanning 158 point from 546
+30.05 06:54:17 Going to coordinates X=-27.353, Y=-41.976
+30.05 06:54:17 Moving is finished
+30.05 06:55:54 Scanning 159 point from 546
+30.05 06:55:54 Going to coordinates X=-27.323, Y=-41.976
+30.05 06:55:54 Moving is finished
+30.05 06:57:31 Scanning 160 point from 546
+30.05 06:57:31 Going to coordinates X=-27.293, Y=-41.976
+30.05 06:57:31 Moving is finished
+30.05 06:59:08 Scanning 161 point from 546
+30.05 06:59:08 Going to coordinates X=-27.263, Y=-41.976
+30.05 06:59:08 Moving is finished
+30.05 07:00:45 Scanning 162 point from 546
+30.05 07:00:45 Going to coordinates X=-27.233, Y=-41.976
+30.05 07:00:45 Moving is finished
+30.05 07:02:22 Scanning 163 point from 546
+30.05 07:02:22 Going to coordinates X=-27.203, Y=-41.976
+30.05 07:02:22 Moving is finished
+30.05 07:03:59 Scanning 164 point from 546
+30.05 07:03:59 Going to coordinates X=-27.173, Y=-41.976
+30.05 07:03:59 Moving is finished
+30.05 07:05:37 Scanning 165 point from 546
+30.05 07:05:37 Going to coordinates X=-27.143, Y=-41.976
+30.05 07:05:37 Moving is finished
+30.05 07:07:14 Scanning 166 point from 546
+30.05 07:07:14 Going to coordinates X=-27.113, Y=-41.976
+30.05 07:07:14 Moving is finished
+30.05 07:08:51 Scanning 167 point from 546
+30.05 07:08:51 Going to coordinates X=-27.083, Y=-41.976
+30.05 07:08:51 Moving is finished
+30.05 07:10:28 Scanning 168 point from 546
+30.05 07:10:28 Going to coordinates X=-27.683, Y=-41.946
+30.05 07:10:28 Moving is finished
+30.05 07:12:05 Scanning 169 point from 546
+30.05 07:12:05 Going to coordinates X=-27.653, Y=-41.946
+30.05 07:12:05 Moving is finished
+30.05 07:13:42 Scanning 170 point from 546
+30.05 07:13:42 Going to coordinates X=-27.623, Y=-41.946
+30.05 07:13:43 Moving is finished
+30.05 07:15:20 Scanning 171 point from 546
+30.05 07:15:20 Going to coordinates X=-27.593, Y=-41.946
+30.05 07:15:20 Moving is finished
+30.05 07:16:57 Scanning 172 point from 546
+30.05 07:16:57 Going to coordinates X=-27.563, Y=-41.946
+30.05 07:16:57 Moving is finished
+30.05 07:18:34 Scanning 173 point from 546
+30.05 07:18:34 Going to coordinates X=-27.533, Y=-41.946
+30.05 07:18:34 Moving is finished
+30.05 07:20:12 Scanning 174 point from 546
+30.05 07:20:12 Going to coordinates X=-27.503, Y=-41.946
+30.05 07:20:12 Moving is finished
+30.05 07:21:49 Scanning 175 point from 546
+30.05 07:21:49 Going to coordinates X=-27.473, Y=-41.946
+30.05 07:21:49 Moving is finished
+30.05 07:23:27 Scanning 176 point from 546
+30.05 07:23:27 Going to coordinates X=-27.443, Y=-41.946
+30.05 07:23:27 Moving is finished
+30.05 07:25:04 Scanning 177 point from 546
+30.05 07:25:04 Going to coordinates X=-27.413, Y=-41.946
+30.05 07:25:04 Moving is finished
+30.05 07:26:42 Scanning 178 point from 546
+30.05 07:26:42 Going to coordinates X=-27.383, Y=-41.946
+30.05 07:26:42 Moving is finished
+30.05 07:28:19 Scanning 179 point from 546
+30.05 07:28:19 Going to coordinates X=-27.353, Y=-41.946
+30.05 07:28:19 Moving is finished
+30.05 07:29:56 Scanning 180 point from 546
+30.05 07:29:56 Going to coordinates X=-27.323, Y=-41.946
+30.05 07:29:56 Moving is finished
+30.05 07:31:32 Scanning 181 point from 546
+30.05 07:31:32 Going to coordinates X=-27.293, Y=-41.946
+30.05 07:31:33 Moving is finished
+30.05 07:33:09 Scanning 182 point from 546
+30.05 07:33:09 Going to coordinates X=-27.263, Y=-41.946
+30.05 07:33:09 Moving is finished
+30.05 07:34:46 Scanning 183 point from 546
+30.05 07:34:46 Going to coordinates X=-27.233, Y=-41.946
+30.05 07:34:46 Moving is finished
+30.05 07:36:23 Scanning 184 point from 546
+30.05 07:36:23 Going to coordinates X=-27.203, Y=-41.946
+30.05 07:36:23 Moving is finished
+30.05 07:38:00 Scanning 185 point from 546
+30.05 07:38:00 Going to coordinates X=-27.173, Y=-41.946
+30.05 07:38:00 Moving is finished
+30.05 07:39:36 Scanning 186 point from 546
+30.05 07:39:36 Going to coordinates X=-27.143, Y=-41.946
+30.05 07:39:37 Moving is finished
+30.05 07:41:14 Scanning 187 point from 546
+30.05 07:41:14 Going to coordinates X=-27.113, Y=-41.946
+30.05 07:41:14 Moving is finished
+30.05 07:42:50 Scanning 188 point from 546
+30.05 07:42:50 Going to coordinates X=-27.083, Y=-41.946
+30.05 07:42:51 Moving is finished
+30.05 07:44:27 Scanning 189 point from 546
+30.05 07:44:27 Going to coordinates X=-27.683, Y=-41.916
+30.05 07:44:28 Moving is finished
+30.05 07:46:05 Scanning 190 point from 546
+30.05 07:46:05 Going to coordinates X=-27.653, Y=-41.916
+30.05 07:46:05 Moving is finished
+30.05 07:47:42 Scanning 191 point from 546
+30.05 07:47:42 Going to coordinates X=-27.623, Y=-41.916
+30.05 07:47:43 Moving is finished
+30.05 07:49:19 Scanning 192 point from 546
+30.05 07:49:19 Going to coordinates X=-27.593, Y=-41.916
+30.05 07:49:20 Moving is finished
+30.05 07:50:56 Scanning 193 point from 546
+30.05 07:50:56 Going to coordinates X=-27.563, Y=-41.916
+30.05 07:50:56 Moving is finished
+30.05 07:52:33 Scanning 194 point from 546
+30.05 07:52:33 Going to coordinates X=-27.533, Y=-41.916
+30.05 07:52:33 Moving is finished
+30.05 07:54:10 Scanning 195 point from 546
+30.05 07:54:10 Going to coordinates X=-27.503, Y=-41.916
+30.05 07:54:10 Moving is finished
+30.05 07:55:47 Scanning 196 point from 546
+30.05 07:55:47 Going to coordinates X=-27.473, Y=-41.916
+30.05 07:55:47 Moving is finished
+30.05 07:57:24 Scanning 197 point from 546
+30.05 07:57:24 Going to coordinates X=-27.443, Y=-41.916
+30.05 07:57:24 Moving is finished
+30.05 07:59:01 Scanning 198 point from 546
+30.05 07:59:01 Going to coordinates X=-27.413, Y=-41.916
+30.05 07:59:01 Moving is finished
+30.05 08:00:38 Scanning 199 point from 546
+30.05 08:00:38 Going to coordinates X=-27.383, Y=-41.916
+30.05 08:00:38 Moving is finished
+30.05 08:02:15 Scanning 200 point from 546
+30.05 08:02:15 Going to coordinates X=-27.353, Y=-41.916
+30.05 08:02:16 Moving is finished
+30.05 08:03:52 Scanning 201 point from 546
+30.05 08:03:52 Going to coordinates X=-27.323, Y=-41.916
+30.05 08:03:53 Moving is finished
+30.05 08:05:30 Scanning 202 point from 546
+30.05 08:05:30 Going to coordinates X=-27.293, Y=-41.916
+30.05 08:05:30 Moving is finished
+30.05 08:07:07 Scanning 203 point from 546
+30.05 08:07:07 Going to coordinates X=-27.263, Y=-41.916
+30.05 08:07:07 Moving is finished
+30.05 08:08:43 Scanning 204 point from 546
+30.05 08:08:43 Going to coordinates X=-27.233, Y=-41.916
+30.05 08:08:44 Moving is finished
+30.05 08:10:20 Scanning 205 point from 546
+30.05 08:10:20 Going to coordinates X=-27.203, Y=-41.916
+30.05 08:10:21 Moving is finished
+30.05 08:11:58 Scanning 206 point from 546
+30.05 08:11:58 Going to coordinates X=-27.173, Y=-41.916
+30.05 08:11:58 Moving is finished
+30.05 08:13:35 Scanning 207 point from 546
+30.05 08:13:35 Going to coordinates X=-27.143, Y=-41.916
+30.05 08:13:35 Moving is finished
+30.05 08:15:12 Scanning 208 point from 546
+30.05 08:15:12 Going to coordinates X=-27.113, Y=-41.916
+30.05 08:15:12 Moving is finished
+30.05 08:16:49 Scanning 209 point from 546
+30.05 08:16:49 Going to coordinates X=-27.083, Y=-41.916
+30.05 08:16:49 Moving is finished
+30.05 08:18:26 Scanning 210 point from 546
+30.05 08:18:26 Going to coordinates X=-27.683, Y=-41.886
+30.05 08:18:27 Moving is finished
+30.05 08:20:04 Scanning 211 point from 546
+30.05 08:20:04 Going to coordinates X=-27.653, Y=-41.886
+30.05 08:20:04 Moving is finished
+30.05 08:21:41 Scanning 212 point from 546
+30.05 08:21:41 Going to coordinates X=-27.623, Y=-41.886
+30.05 08:21:41 Moving is finished
+30.05 08:23:18 Scanning 213 point from 546
+30.05 08:23:18 Going to coordinates X=-27.593, Y=-41.886
+30.05 08:23:18 Moving is finished
+30.05 08:24:55 Scanning 214 point from 546
+30.05 08:24:55 Going to coordinates X=-27.563, Y=-41.886
+30.05 08:24:55 Moving is finished
+30.05 08:26:32 Scanning 215 point from 546
+30.05 08:26:32 Going to coordinates X=-27.533, Y=-41.886
+30.05 08:26:32 Moving is finished
+30.05 08:28:09 Scanning 216 point from 546
+30.05 08:28:09 Going to coordinates X=-27.503, Y=-41.886
+30.05 08:28:09 Moving is finished
+30.05 08:29:46 Scanning 217 point from 546
+30.05 08:29:46 Going to coordinates X=-27.473, Y=-41.886
+30.05 08:29:46 Moving is finished
+30.05 08:31:23 Scanning 218 point from 546
+30.05 08:31:23 Going to coordinates X=-27.443, Y=-41.886
+30.05 08:31:23 Moving is finished
+30.05 08:33:00 Scanning 219 point from 546
+30.05 08:33:00 Going to coordinates X=-27.413, Y=-41.886
+30.05 08:33:00 Moving is finished
+30.05 08:34:37 Scanning 220 point from 546
+30.05 08:34:37 Going to coordinates X=-27.383, Y=-41.886
+30.05 08:34:37 Moving is finished
+30.05 08:36:14 Scanning 221 point from 546
+30.05 08:36:14 Going to coordinates X=-27.353, Y=-41.886
+30.05 08:36:14 Moving is finished
+30.05 08:37:51 Scanning 222 point from 546
+30.05 08:37:51 Going to coordinates X=-27.323, Y=-41.886
+30.05 08:37:51 Moving is finished
+30.05 08:39:28 Scanning 223 point from 546
+30.05 08:39:28 Going to coordinates X=-27.293, Y=-41.886
+30.05 08:39:28 Moving is finished
+30.05 08:41:06 Scanning 224 point from 546
+30.05 08:41:06 Going to coordinates X=-27.263, Y=-41.886
+30.05 08:41:06 Moving is finished
+30.05 08:42:43 Scanning 225 point from 546
+30.05 08:42:43 Going to coordinates X=-27.233, Y=-41.886
+30.05 08:42:43 Moving is finished
+30.05 08:44:21 Scanning 226 point from 546
+30.05 08:44:21 Going to coordinates X=-27.203, Y=-41.886
+30.05 08:44:21 Moving is finished
+30.05 08:45:58 Scanning 227 point from 546
+30.05 08:45:58 Going to coordinates X=-27.173, Y=-41.886
+30.05 08:45:58 Moving is finished
+30.05 08:47:35 Scanning 228 point from 546
+30.05 08:47:35 Going to coordinates X=-27.143, Y=-41.886
+30.05 08:47:36 Moving is finished
+30.05 08:49:12 Scanning 229 point from 546
+30.05 08:49:12 Going to coordinates X=-27.113, Y=-41.886
+30.05 08:49:12 Moving is finished
+30.05 08:50:49 Scanning 230 point from 546
+30.05 08:50:49 Going to coordinates X=-27.083, Y=-41.886
+30.05 08:50:49 Moving is finished
+30.05 08:52:26 Scanning 231 point from 546
+30.05 08:52:26 Going to coordinates X=-27.683, Y=-41.856
+30.05 08:52:26 Moving is finished
+30.05 08:54:03 Scanning 232 point from 546
+30.05 08:54:03 Going to coordinates X=-27.653, Y=-41.856
+30.05 08:54:03 Moving is finished
+30.05 08:55:40 Scanning 233 point from 546
+30.05 08:55:40 Going to coordinates X=-27.623, Y=-41.856
+30.05 08:55:40 Moving is finished
+30.05 08:57:16 Scanning 234 point from 546
+30.05 08:57:16 Going to coordinates X=-27.593, Y=-41.856
+30.05 08:57:16 Moving is finished
+30.05 08:58:54 Scanning 235 point from 546
+30.05 08:58:54 Going to coordinates X=-27.563, Y=-41.856
+30.05 08:58:54 Moving is finished
+30.05 09:00:32 Scanning 236 point from 546
+30.05 09:00:32 Going to coordinates X=-27.533, Y=-41.856
+30.05 09:00:32 Moving is finished
+30.05 09:02:09 Scanning 237 point from 546
+30.05 09:02:09 Going to coordinates X=-27.503, Y=-41.856
+30.05 09:02:09 Moving is finished
+30.05 09:03:46 Scanning 238 point from 546
+30.05 09:03:46 Going to coordinates X=-27.473, Y=-41.856
+30.05 09:03:47 Moving is finished
+30.05 09:05:24 Scanning 239 point from 546
+30.05 09:05:24 Going to coordinates X=-27.443, Y=-41.856
+30.05 09:05:24 Moving is finished
+30.05 09:07:01 Scanning 240 point from 546
+30.05 09:07:01 Going to coordinates X=-27.413, Y=-41.856
+30.05 09:07:02 Moving is finished
+30.05 09:08:38 Scanning 241 point from 546
+30.05 09:08:38 Going to coordinates X=-27.383, Y=-41.856
+30.05 09:08:38 Moving is finished
+30.05 09:10:16 Scanning 242 point from 546
+30.05 09:10:16 Going to coordinates X=-27.353, Y=-41.856
+30.05 09:10:16 Moving is finished
+30.05 09:11:53 Scanning 243 point from 546
+30.05 09:11:53 Going to coordinates X=-27.323, Y=-41.856
+30.05 09:11:53 Moving is finished
+30.05 09:13:30 Scanning 244 point from 546
+30.05 09:13:30 Going to coordinates X=-27.293, Y=-41.856
+30.05 09:13:30 Moving is finished
+30.05 09:15:07 Scanning 245 point from 546
+30.05 09:15:07 Going to coordinates X=-27.263, Y=-41.856
+30.05 09:15:07 Moving is finished
+30.05 09:16:44 Scanning 246 point from 546
+30.05 09:16:44 Going to coordinates X=-27.233, Y=-41.856
+30.05 09:16:44 Moving is finished
+30.05 09:18:21 Scanning 247 point from 546
+30.05 09:18:21 Going to coordinates X=-27.203, Y=-41.856
+30.05 09:18:21 Moving is finished
+30.05 09:19:58 Scanning 248 point from 546
+30.05 09:19:58 Going to coordinates X=-27.173, Y=-41.856
+30.05 09:19:58 Moving is finished
+30.05 09:21:36 Scanning 249 point from 546
+30.05 09:21:36 Going to coordinates X=-27.143, Y=-41.856
+30.05 09:21:36 Moving is finished
+30.05 09:23:13 Scanning 250 point from 546
+30.05 09:23:13 Going to coordinates X=-27.113, Y=-41.856
+30.05 09:23:13 Moving is finished
+30.05 09:24:51 Scanning 251 point from 546
+30.05 09:24:51 Going to coordinates X=-27.083, Y=-41.856
+30.05 09:24:51 Moving is finished
+30.05 09:26:27 Scanning 252 point from 546
+30.05 09:26:27 Going to coordinates X=-27.683, Y=-41.826
+30.05 09:26:28 Moving is finished
+30.05 09:28:05 Scanning 253 point from 546
+30.05 09:28:05 Going to coordinates X=-27.653, Y=-41.826
+30.05 09:28:06 Moving is finished
+30.05 09:29:42 Scanning 254 point from 546
+30.05 09:29:42 Going to coordinates X=-27.623, Y=-41.826
+30.05 09:29:42 Moving is finished
+30.05 09:31:19 Scanning 255 point from 546
+30.05 09:31:19 Going to coordinates X=-27.593, Y=-41.826
+30.05 09:31:19 Moving is finished
+30.05 09:32:56 Scanning 256 point from 546
+30.05 09:32:56 Going to coordinates X=-27.563, Y=-41.826
+30.05 09:32:56 Moving is finished
+30.05 09:34:32 Scanning 257 point from 546
+30.05 09:34:32 Going to coordinates X=-27.533, Y=-41.826
+30.05 09:34:32 Moving is finished
+30.05 09:36:10 Scanning 258 point from 546
+30.05 09:36:10 Going to coordinates X=-27.503, Y=-41.826
+30.05 09:36:10 Moving is finished
+30.05 09:37:47 Scanning 259 point from 546
+30.05 09:37:47 Going to coordinates X=-27.473, Y=-41.826
+30.05 09:37:47 Moving is finished
+30.05 09:39:24 Scanning 260 point from 546
+30.05 09:39:24 Going to coordinates X=-27.443, Y=-41.826
+30.05 09:39:24 Moving is finished
+30.05 09:41:02 Scanning 261 point from 546
+30.05 09:41:02 Going to coordinates X=-27.413, Y=-41.826
+30.05 09:41:02 Moving is finished
+30.05 09:42:39 Scanning 262 point from 546
+30.05 09:42:39 Going to coordinates X=-27.383, Y=-41.826
+30.05 09:42:39 Moving is finished
+30.05 09:44:16 Scanning 263 point from 546
+30.05 09:44:16 Going to coordinates X=-27.353, Y=-41.826
+30.05 09:44:16 Moving is finished
+30.05 09:45:53 Scanning 264 point from 546
+30.05 09:45:53 Going to coordinates X=-27.323, Y=-41.826
+30.05 09:45:53 Moving is finished
+30.05 09:47:30 Scanning 265 point from 546
+30.05 09:47:30 Going to coordinates X=-27.293, Y=-41.826
+30.05 09:47:30 Moving is finished
+30.05 09:49:07 Scanning 266 point from 546
+30.05 09:49:07 Going to coordinates X=-27.263, Y=-41.826
+30.05 09:49:07 Moving is finished
+30.05 09:50:44 Scanning 267 point from 546
+30.05 09:50:44 Going to coordinates X=-27.233, Y=-41.826
+30.05 09:50:44 Moving is finished
+30.05 09:52:21 Scanning 268 point from 546
+30.05 09:52:21 Going to coordinates X=-27.203, Y=-41.826
+30.05 09:52:22 Moving is finished
+30.05 09:53:58 Scanning 269 point from 546
+30.05 09:53:58 Going to coordinates X=-27.173, Y=-41.826
+30.05 09:53:58 Moving is finished
+30.05 09:55:35 Scanning 270 point from 546
+30.05 09:55:35 Going to coordinates X=-27.143, Y=-41.826
+30.05 09:55:35 Moving is finished
+30.05 09:57:13 Scanning 271 point from 546
+30.05 09:57:13 Going to coordinates X=-27.113, Y=-41.826
+30.05 09:57:13 Moving is finished
+30.05 09:58:49 Scanning 272 point from 546
+30.05 09:58:49 Going to coordinates X=-27.083, Y=-41.826
+30.05 09:58:50 Moving is finished
+30.05 10:00:27 Scanning 273 point from 546
+30.05 10:00:27 Going to coordinates X=-27.683, Y=-41.796
+30.05 10:00:27 Moving is finished
+30.05 10:02:06 Scanning 274 point from 546
+30.05 10:02:06 Going to coordinates X=-27.653, Y=-41.796
+30.05 10:02:06 Moving is finished
+30.05 10:03:43 Scanning 275 point from 546
+30.05 10:03:43 Going to coordinates X=-27.623, Y=-41.796
+30.05 10:03:44 Moving is finished
+30.05 10:05:00 Stopped!
+30.05 10:07:49 Can't send the command to GRBL
+30.05 10:07:49 Write timeout30.05 10:07:49 Write timeout
+

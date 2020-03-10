@@ -1,0 +1,44 @@
+06.05 10:14:22 Initializing grbl...
+06.05 10:14:23 Got the response: b''
+06.05 10:21:49 Row 0: 06.05 10:21:49 Goto: -27.722; -38.000; 0.000
+06.05 10:21:49 Going to coordinates X=-27.722, Y=-38.000
+06.05 10:21:49 Moving is finished
+06.05 10:21:50 Row 1: 06.05 10:21:50 Goto: -27.722; -28.000; 0.000
+06.05 10:21:50 Going to coordinates X=-27.722, Y=-28.000
+06.05 10:21:52 Moving is finished
+06.05 10:21:53 Row 2: 06.05 10:21:53 Goto: -37.722; -38.000; 0.000
+06.05 10:21:53 Going to coordinates X=-37.722, Y=-38.000
+06.05 10:21:55 Moving is finished
+06.05 10:21:56 Row 3: 06.05 10:21:56 Goto: -7.722; -18.000; 0.000
+06.05 10:21:56 Going to coordinates X=-7.722, Y=-18.000
+06.05 10:21:59 Moving is finished
+06.05 10:22:00 Row 4: 06.05 10:22:00 Goto: -47.722; -8.000; 0.000
+06.05 10:22:00 Going to coordinates X=-47.722, Y=-8.000
+06.05 10:22:05 Moving is finished
+06.05 10:22:06 Row 5: 06.05 10:22:06 Goto: -47.722; -48.000; 0.000
+06.05 10:22:06 Going to coordinates X=-47.722, Y=-48.000
+06.05 10:22:10 Moving is finished
+06.05 10:22:11 Row 6: 06.05 10:22:11 Goto: -27.722; -38.000; 0.000
+06.05 10:22:11 Going to coordinates X=-27.722, Y=-38.000
+06.05 10:22:14 Moving is finished
+06.05 10:22:59 Row 0: 06.05 10:22:59 Goto: -27.722; -38.000; 0.000
+06.05 10:22:59 Going to coordinates X=-27.722, Y=-38.000
+06.05 10:23:03 Moving is finished
+06.05 10:23:04 Row 1: 06.05 10:23:04 Goto: -27.722; -28.000; 0.000
+06.05 10:23:04 Going to coordinates X=-27.722, Y=-28.000
+06.05 10:23:06 Moving is finished
+06.05 10:23:07 Row 2: 06.05 10:23:07 Goto: -37.722; -38.000; 0.000
+06.05 10:23:07 Going to coordinates X=-37.722, Y=-38.000
+06.05 10:23:09 Moving is finished
+06.05 10:23:11 Row 3: 06.05 10:23:11 Goto: -7.722; -18.000; 0.000
+06.05 10:23:11 Going to coordinates X=-7.722, Y=-18.000
+06.05 10:23:14 Moving is finished
+06.05 10:23:15 Row 4: 06.05 10:23:15 Goto: -47.722; -8.000; 0.000
+06.05 10:23:15 Going to coordinates X=-47.722, Y=-8.000
+06.05 10:23:19 Moving is finished
+06.05 10:23:20 Row 5: 06.05 10:23:20 Goto: -47.722; -48.000; 0.000
+06.05 10:23:20 Going to coordinates X=-47.722, Y=-48.000
+06.05 10:23:24 Moving is finished
+06.05 10:23:25 Row 6: 06.05 10:23:25 Goto: -27.722; -38.000; 0.000
+06.05 10:23:25 Going to coordinates X=-27.722, Y=-38.000
+06.05 10:23:28 Moving is finished

@@ -1,0 +1,29 @@
+16.07 18:02:45 Initializing grbl...
+16.07 18:02:46 Got the response: b''
+16.07 18:04:05 Row 0: 16.07 18:04:05 Goto: -8.629; -38.000; 0.000
+16.07 18:04:05 Going to coordinates X=-8.629, Y=-38.000
+16.07 18:04:06 Moving is finished
+16.07 18:05:06 Can't send the command to GRBL
+16.07 18:05:06 Write timeout16.07 18:05:06 Write timeout
+16.07 18:05:53 Row 0: 16.07 18:05:53 Map: x1: -8.635, y1: -38.01, x2: -8.577, y2: -38.01, xres: 0.001, yres: 0.100, fname: perpend1
+16.07 18:05:53 Scanning 0 point from 118
+16.07 18:05:53 Going to coordinates X=-8.635, Y=-38.010
+16.07 18:05:53 Moving is finished
+16.07 18:06:01 Scanning 1 point from 118
+16.07 18:06:01 Going to coordinates X=-8.634, Y=-38.010
+16.07 18:06:01 Status responce is malformed
+16.07 18:06:01 list index out of range
+16.07 18:06:17 Stopped!
+16.07 18:06:19 Row 0: 16.07 18:06:19 Map: x1: -8.635, y1: -38.01, x2: -8.577, y2: -38.01, xres: 0.001, yres: 0.100, fname: perpend1
+16.07 18:06:19 Scanning 0 point from 118
+16.07 18:06:19 Going to coordinates X=-8.635, Y=-38.010
+16.07 18:06:20 Moving is finished
+16.07 18:06:28 Scanning 1 point from 118
+16.07 18:06:28 Going to coordinates X=-8.634, Y=-38.010
+16.07 18:06:28 Moving is finished
+16.07 18:06:35 Scanning 2 point from 118
+16.07 18:06:35 Going to coordinates X=-8.633, Y=-38.010
+16.07 18:06:36 Status responce is malformed
+16.07 18:06:36 list index out of range
+16.07 18:06:43 Stopped!
+16.07 18:07:03 Can't send the command to GRBL

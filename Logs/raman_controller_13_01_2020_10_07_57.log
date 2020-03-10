@@ -1,0 +1,7 @@
+13.01 10:08:04 Initializing grbl...
+13.01 10:08:05 Got the response: 13.01 10:08:05 b"\r\nGrbl 1.1f ['$' for help]\r\n[MSG:'$H'|'$X' to unlock]\r\n"
+13.01 14:40:36 Can't send the command to GRBL
+13.01 14:40:36 Write timeout13.01 14:40:36 Write timeout
+
+13.01 14:48:18 Can't send the command to GRBL
+13.01 14:48:18 Write timeout

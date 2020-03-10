@@ -1,0 +1,1339 @@
+08.08 18:39:21 Initializing grbl...
+08.08 18:39:22 Got the response: b''
+08.08 18:48:50 Row 0: 08.08 18:48:50 Map: x1: -14.389, y1: -36.062, x2: -19.144, y2: -34.031, xres: 0.100, yres: 0.100, fname: ANASTASIIA_DNA
+08.08 18:48:50 Scanning 0 point from 1078
+08.08 18:48:50 Going to coordinates X=-19.144, Y=-36.062
+08.08 18:48:51 Moving is finished
+08.08 18:48:57 Scanning 1 point from 1078
+08.08 18:48:57 Going to coordinates X=-19.044, Y=-36.062
+08.08 18:48:57 Moving is finished
+08.08 18:49:02 Scanning 2 point from 1078
+08.08 18:49:02 Going to coordinates X=-18.944, Y=-36.062
+08.08 18:49:03 Moving is finished
+08.08 18:49:08 Scanning 3 point from 1078
+08.08 18:49:08 Going to coordinates X=-18.844, Y=-36.062
+08.08 18:49:08 Moving is finished
+08.08 18:49:14 Scanning 4 point from 1078
+08.08 18:49:14 Going to coordinates X=-18.744, Y=-36.062
+08.08 18:49:14 Moving is finished
+08.08 18:49:20 Scanning 5 point from 1078
+08.08 18:49:20 Going to coordinates X=-18.644, Y=-36.062
+08.08 18:49:20 Moving is finished
+08.08 18:49:25 Scanning 6 point from 1078
+08.08 18:49:25 Going to coordinates X=-18.544, Y=-36.062
+08.08 18:49:26 Moving is finished
+08.08 18:49:31 Scanning 7 point from 1078
+08.08 18:49:31 Going to coordinates X=-18.444, Y=-36.062
+08.08 18:49:31 Moving is finished
+08.08 18:49:34 Stopped!
+08.08 18:50:04 Can't send the command to GRBL
+08.08 18:50:04 Write timeout08.08 18:50:04 Write timeout
+
+08.08 18:51:46 Row 0: 08.08 18:51:46 Map: x1: -14.389, y1: -36.062, x2: -19.144, y2: -34.031, xres: 0.100, yres: 0.100, fname: ANASTASIIA_DNA
+08.08 18:51:46 Scanning 0 point from 1078
+08.08 18:51:46 Going to coordinates X=-19.144, Y=-36.062
+08.08 18:51:47 Moving is finished
+08.08 18:53:55 Scanning 1 point from 1078
+08.08 18:53:55 Going to coordinates X=-19.044, Y=-36.062
+08.08 18:53:56 Moving is finished
+08.08 18:56:04 Scanning 2 point from 1078
+08.08 18:56:04 Going to coordinates X=-18.944, Y=-36.062
+08.08 18:56:04 Moving is finished
+08.08 18:58:13 Scanning 3 point from 1078
+08.08 18:58:13 Going to coordinates X=-18.844, Y=-36.062
+08.08 18:58:13 Moving is finished
+08.08 19:00:22 Scanning 4 point from 1078
+08.08 19:00:22 Going to coordinates X=-18.744, Y=-36.062
+08.08 19:00:22 Moving is finished
+08.08 19:02:30 Scanning 5 point from 1078
+08.08 19:02:30 Going to coordinates X=-18.644, Y=-36.062
+08.08 19:02:31 Moving is finished
+08.08 19:04:39 Scanning 6 point from 1078
+08.08 19:04:39 Going to coordinates X=-18.544, Y=-36.062
+08.08 19:04:39 Moving is finished
+08.08 19:06:47 Scanning 7 point from 1078
+08.08 19:06:47 Going to coordinates X=-18.444, Y=-36.062
+08.08 19:06:47 Moving is finished
+08.08 19:08:56 Scanning 8 point from 1078
+08.08 19:08:56 Going to coordinates X=-18.344, Y=-36.062
+08.08 19:08:56 Moving is finished
+08.08 19:11:04 Scanning 9 point from 1078
+08.08 19:11:04 Going to coordinates X=-18.244, Y=-36.062
+08.08 19:11:04 Moving is finished
+08.08 19:13:12 Scanning 10 point from 1078
+08.08 19:13:12 Going to coordinates X=-18.144, Y=-36.062
+08.08 19:13:12 Moving is finished
+08.08 19:15:21 Scanning 11 point from 1078
+08.08 19:15:21 Going to coordinates X=-18.044, Y=-36.062
+08.08 19:15:21 Moving is finished
+08.08 19:17:30 Scanning 12 point from 1078
+08.08 19:17:30 Going to coordinates X=-17.944, Y=-36.062
+08.08 19:17:30 Moving is finished
+08.08 19:19:38 Scanning 13 point from 1078
+08.08 19:19:38 Going to coordinates X=-17.844, Y=-36.062
+08.08 19:19:38 Moving is finished
+08.08 19:21:46 Scanning 14 point from 1078
+08.08 19:21:46 Going to coordinates X=-17.744, Y=-36.062
+08.08 19:21:46 Moving is finished
+08.08 19:23:54 Scanning 15 point from 1078
+08.08 19:23:54 Going to coordinates X=-17.644, Y=-36.062
+08.08 19:23:54 Moving is finished
+08.08 19:26:02 Scanning 16 point from 1078
+08.08 19:26:02 Going to coordinates X=-17.544, Y=-36.062
+08.08 19:26:03 Moving is finished
+08.08 19:28:11 Scanning 17 point from 1078
+08.08 19:28:11 Going to coordinates X=-17.444, Y=-36.062
+08.08 19:28:11 Moving is finished
+08.08 19:30:19 Scanning 18 point from 1078
+08.08 19:30:19 Going to coordinates X=-17.344, Y=-36.062
+08.08 19:30:20 Moving is finished
+08.08 19:32:28 Scanning 19 point from 1078
+08.08 19:32:28 Going to coordinates X=-17.244, Y=-36.062
+08.08 19:32:28 Moving is finished
+08.08 19:34:36 Scanning 20 point from 1078
+08.08 19:34:36 Going to coordinates X=-17.144, Y=-36.062
+08.08 19:34:36 Moving is finished
+08.08 19:36:44 Scanning 21 point from 1078
+08.08 19:36:44 Going to coordinates X=-17.044, Y=-36.062
+08.08 19:36:45 Moving is finished
+08.08 19:38:53 Scanning 22 point from 1078
+08.08 19:38:53 Going to coordinates X=-16.944, Y=-36.062
+08.08 19:38:53 Moving is finished
+08.08 19:41:02 Scanning 23 point from 1078
+08.08 19:41:02 Going to coordinates X=-16.844, Y=-36.062
+08.08 19:41:02 Moving is finished
+08.08 19:43:10 Scanning 24 point from 1078
+08.08 19:43:10 Going to coordinates X=-16.744, Y=-36.062
+08.08 19:43:11 Moving is finished
+08.08 19:45:18 Scanning 25 point from 1078
+08.08 19:45:18 Going to coordinates X=-16.644, Y=-36.062
+08.08 19:45:19 Moving is finished
+08.08 19:47:27 Scanning 26 point from 1078
+08.08 19:47:27 Going to coordinates X=-16.544, Y=-36.062
+08.08 19:47:27 Moving is finished
+08.08 19:49:35 Scanning 27 point from 1078
+08.08 19:49:35 Going to coordinates X=-16.444, Y=-36.062
+08.08 19:49:36 Moving is finished
+08.08 19:51:44 Scanning 28 point from 1078
+08.08 19:51:44 Going to coordinates X=-16.344, Y=-36.062
+08.08 19:51:44 Moving is finished
+08.08 19:53:52 Scanning 29 point from 1078
+08.08 19:53:52 Going to coordinates X=-16.244, Y=-36.062
+08.08 19:53:53 Moving is finished
+08.08 19:56:01 Scanning 30 point from 1078
+08.08 19:56:01 Going to coordinates X=-16.144, Y=-36.062
+08.08 19:56:01 Moving is finished
+08.08 19:58:09 Scanning 31 point from 1078
+08.08 19:58:09 Going to coordinates X=-16.044, Y=-36.062
+08.08 19:58:09 Moving is finished
+08.08 20:00:18 Scanning 32 point from 1078
+08.08 20:00:18 Going to coordinates X=-15.944, Y=-36.062
+08.08 20:00:18 Moving is finished
+08.08 20:02:26 Scanning 33 point from 1078
+08.08 20:02:26 Going to coordinates X=-15.844, Y=-36.062
+08.08 20:02:26 Moving is finished
+08.08 20:04:35 Scanning 34 point from 1078
+08.08 20:04:35 Going to coordinates X=-15.744, Y=-36.062
+08.08 20:04:35 Moving is finished
+08.08 20:06:43 Scanning 35 point from 1078
+08.08 20:06:43 Going to coordinates X=-15.644, Y=-36.062
+08.08 20:06:44 Moving is finished
+08.08 20:08:52 Scanning 36 point from 1078
+08.08 20:08:52 Going to coordinates X=-15.544, Y=-36.062
+08.08 20:08:52 Moving is finished
+08.08 20:11:00 Scanning 37 point from 1078
+08.08 20:11:00 Going to coordinates X=-15.444, Y=-36.062
+08.08 20:11:00 Moving is finished
+08.08 20:13:08 Scanning 38 point from 1078
+08.08 20:13:08 Going to coordinates X=-15.344, Y=-36.062
+08.08 20:13:08 Moving is finished
+08.08 20:15:16 Scanning 39 point from 1078
+08.08 20:15:16 Going to coordinates X=-15.244, Y=-36.062
+08.08 20:15:16 Moving is finished
+08.08 20:17:25 Scanning 40 point from 1078
+08.08 20:17:25 Going to coordinates X=-15.144, Y=-36.062
+08.08 20:17:25 Moving is finished
+08.08 20:19:33 Scanning 41 point from 1078
+08.08 20:19:33 Going to coordinates X=-15.044, Y=-36.062
+08.08 20:19:33 Moving is finished
+08.08 20:21:41 Scanning 42 point from 1078
+08.08 20:21:41 Going to coordinates X=-14.944, Y=-36.062
+08.08 20:21:41 Moving is finished
+08.08 20:23:50 Scanning 43 point from 1078
+08.08 20:23:50 Going to coordinates X=-14.844, Y=-36.062
+08.08 20:23:50 Moving is finished
+08.08 20:25:59 Scanning 44 point from 1078
+08.08 20:25:59 Going to coordinates X=-14.744, Y=-36.062
+08.08 20:25:59 Moving is finished
+08.08 20:28:07 Scanning 45 point from 1078
+08.08 20:28:07 Going to coordinates X=-14.644, Y=-36.062
+08.08 20:28:07 Moving is finished
+08.08 20:30:15 Scanning 46 point from 1078
+08.08 20:30:15 Going to coordinates X=-14.544, Y=-36.062
+08.08 20:30:15 Moving is finished
+08.08 20:32:24 Scanning 47 point from 1078
+08.08 20:32:24 Going to coordinates X=-14.444, Y=-36.062
+08.08 20:32:24 Moving is finished
+08.08 20:34:32 Scanning 48 point from 1078
+08.08 20:34:32 Going to coordinates X=-14.344, Y=-36.062
+08.08 20:34:33 Moving is finished
+08.08 20:36:41 Scanning 49 point from 1078
+08.08 20:36:41 Going to coordinates X=-19.144, Y=-35.962
+08.08 20:36:43 Moving is finished
+08.08 20:38:51 Scanning 50 point from 1078
+08.08 20:38:51 Going to coordinates X=-19.044, Y=-35.962
+08.08 20:38:52 Moving is finished
+08.08 20:41:00 Scanning 51 point from 1078
+08.08 20:41:00 Going to coordinates X=-18.944, Y=-35.962
+08.08 20:41:01 Moving is finished
+08.08 20:43:08 Scanning 52 point from 1078
+08.08 20:43:08 Going to coordinates X=-18.844, Y=-35.962
+08.08 20:43:09 Moving is finished
+08.08 20:45:16 Scanning 53 point from 1078
+08.08 20:45:16 Going to coordinates X=-18.744, Y=-35.962
+08.08 20:45:17 Moving is finished
+08.08 20:47:25 Scanning 54 point from 1078
+08.08 20:47:25 Going to coordinates X=-18.644, Y=-35.962
+08.08 20:47:25 Moving is finished
+08.08 20:49:33 Scanning 55 point from 1078
+08.08 20:49:33 Going to coordinates X=-18.544, Y=-35.962
+08.08 20:49:33 Moving is finished
+08.08 20:51:41 Scanning 56 point from 1078
+08.08 20:51:41 Going to coordinates X=-18.444, Y=-35.962
+08.08 20:51:42 Moving is finished
+08.08 20:53:50 Scanning 57 point from 1078
+08.08 20:53:50 Going to coordinates X=-18.344, Y=-35.962
+08.08 20:53:50 Moving is finished
+08.08 20:55:58 Scanning 58 point from 1078
+08.08 20:55:58 Going to coordinates X=-18.244, Y=-35.962
+08.08 20:55:58 Moving is finished
+08.08 20:58:06 Scanning 59 point from 1078
+08.08 20:58:06 Going to coordinates X=-18.144, Y=-35.962
+08.08 20:58:06 Moving is finished
+08.08 21:00:15 Scanning 60 point from 1078
+08.08 21:00:15 Going to coordinates X=-18.044, Y=-35.962
+08.08 21:00:16 Moving is finished
+08.08 21:02:24 Scanning 61 point from 1078
+08.08 21:02:24 Going to coordinates X=-17.944, Y=-35.962
+08.08 21:02:24 Moving is finished
+08.08 21:04:32 Scanning 62 point from 1078
+08.08 21:04:32 Going to coordinates X=-17.844, Y=-35.962
+08.08 21:04:33 Moving is finished
+08.08 21:06:41 Scanning 63 point from 1078
+08.08 21:06:41 Going to coordinates X=-17.744, Y=-35.962
+08.08 21:06:41 Moving is finished
+08.08 21:08:50 Scanning 64 point from 1078
+08.08 21:08:50 Going to coordinates X=-17.644, Y=-35.962
+08.08 21:08:50 Moving is finished
+08.08 21:10:58 Scanning 65 point from 1078
+08.08 21:10:58 Going to coordinates X=-17.544, Y=-35.962
+08.08 21:10:59 Moving is finished
+08.08 21:13:07 Scanning 66 point from 1078
+08.08 21:13:07 Going to coordinates X=-17.444, Y=-35.962
+08.08 21:13:07 Moving is finished
+08.08 21:15:15 Scanning 67 point from 1078
+08.08 21:15:15 Going to coordinates X=-17.344, Y=-35.962
+08.08 21:15:15 Moving is finished
+08.08 21:17:23 Scanning 68 point from 1078
+08.08 21:17:23 Going to coordinates X=-17.244, Y=-35.962
+08.08 21:17:24 Moving is finished
+08.08 21:19:32 Scanning 69 point from 1078
+08.08 21:19:32 Going to coordinates X=-17.144, Y=-35.962
+08.08 21:19:32 Moving is finished
+08.08 21:21:40 Scanning 70 point from 1078
+08.08 21:21:40 Going to coordinates X=-17.044, Y=-35.962
+08.08 21:21:41 Moving is finished
+08.08 21:23:49 Scanning 71 point from 1078
+08.08 21:23:49 Going to coordinates X=-16.944, Y=-35.962
+08.08 21:23:49 Moving is finished
+08.08 21:25:57 Scanning 72 point from 1078
+08.08 21:25:57 Going to coordinates X=-16.844, Y=-35.962
+08.08 21:25:57 Moving is finished
+08.08 21:28:05 Scanning 73 point from 1078
+08.08 21:28:05 Going to coordinates X=-16.744, Y=-35.962
+08.08 21:28:06 Moving is finished
+08.08 21:30:14 Scanning 74 point from 1078
+08.08 21:30:14 Going to coordinates X=-16.644, Y=-35.962
+08.08 21:30:15 Moving is finished
+08.08 21:32:23 Scanning 75 point from 1078
+08.08 21:32:23 Going to coordinates X=-16.544, Y=-35.962
+08.08 21:32:23 Moving is finished
+08.08 21:34:31 Scanning 76 point from 1078
+08.08 21:34:31 Going to coordinates X=-16.444, Y=-35.962
+08.08 21:34:32 Moving is finished
+08.08 21:36:40 Scanning 77 point from 1078
+08.08 21:36:40 Going to coordinates X=-16.344, Y=-35.962
+08.08 21:36:40 Moving is finished
+08.08 21:38:48 Scanning 78 point from 1078
+08.08 21:38:48 Going to coordinates X=-16.244, Y=-35.962
+08.08 21:38:49 Moving is finished
+08.08 21:40:57 Scanning 79 point from 1078
+08.08 21:40:57 Going to coordinates X=-16.144, Y=-35.962
+08.08 21:40:57 Moving is finished
+08.08 21:43:05 Scanning 80 point from 1078
+08.08 21:43:05 Going to coordinates X=-16.044, Y=-35.962
+08.08 21:43:05 Moving is finished
+08.08 21:45:13 Scanning 81 point from 1078
+08.08 21:45:13 Going to coordinates X=-15.944, Y=-35.962
+08.08 21:45:13 Moving is finished
+08.08 21:47:22 Scanning 82 point from 1078
+08.08 21:47:22 Going to coordinates X=-15.844, Y=-35.962
+08.08 21:47:22 Moving is finished
+08.08 21:49:30 Scanning 83 point from 1078
+08.08 21:49:30 Going to coordinates X=-15.744, Y=-35.962
+08.08 21:49:30 Moving is finished
+08.08 21:51:38 Scanning 84 point from 1078
+08.08 21:51:38 Going to coordinates X=-15.644, Y=-35.962
+08.08 21:51:38 Moving is finished
+08.08 21:53:47 Scanning 85 point from 1078
+08.08 21:53:47 Going to coordinates X=-15.544, Y=-35.962
+08.08 21:53:47 Moving is finished
+08.08 21:55:55 Scanning 86 point from 1078
+08.08 21:55:55 Going to coordinates X=-15.444, Y=-35.962
+08.08 21:55:55 Moving is finished
+08.08 21:58:04 Scanning 87 point from 1078
+08.08 21:58:04 Going to coordinates X=-15.344, Y=-35.962
+08.08 21:58:04 Moving is finished
+08.08 22:00:13 Scanning 88 point from 1078
+08.08 22:00:13 Going to coordinates X=-15.244, Y=-35.962
+08.08 22:00:13 Moving is finished
+08.08 22:02:21 Scanning 89 point from 1078
+08.08 22:02:21 Going to coordinates X=-15.144, Y=-35.962
+08.08 22:02:21 Moving is finished
+08.08 22:04:29 Scanning 90 point from 1078
+08.08 22:04:29 Going to coordinates X=-15.044, Y=-35.962
+08.08 22:04:30 Moving is finished
+08.08 22:06:38 Scanning 91 point from 1078
+08.08 22:06:38 Going to coordinates X=-14.944, Y=-35.962
+08.08 22:06:39 Moving is finished
+08.08 22:08:47 Scanning 92 point from 1078
+08.08 22:08:47 Going to coordinates X=-14.844, Y=-35.962
+08.08 22:08:47 Moving is finished
+08.08 22:10:56 Scanning 93 point from 1078
+08.08 22:10:56 Going to coordinates X=-14.744, Y=-35.962
+08.08 22:10:56 Moving is finished
+08.08 22:13:04 Scanning 94 point from 1078
+08.08 22:13:04 Going to coordinates X=-14.644, Y=-35.962
+08.08 22:13:05 Moving is finished
+08.08 22:15:13 Scanning 95 point from 1078
+08.08 22:15:13 Going to coordinates X=-14.544, Y=-35.962
+08.08 22:15:14 Moving is finished
+08.08 22:17:22 Scanning 96 point from 1078
+08.08 22:17:22 Going to coordinates X=-14.444, Y=-35.962
+08.08 22:17:22 Moving is finished
+08.08 22:19:31 Scanning 97 point from 1078
+08.08 22:19:31 Going to coordinates X=-14.344, Y=-35.962
+08.08 22:19:31 Moving is finished
+08.08 22:21:39 Scanning 98 point from 1078
+08.08 22:21:39 Going to coordinates X=-19.144, Y=-35.862
+08.08 22:21:41 Moving is finished
+08.08 22:23:49 Scanning 99 point from 1078
+08.08 22:23:49 Going to coordinates X=-19.044, Y=-35.862
+08.08 22:23:49 Moving is finished
+08.08 22:25:57 Scanning 100 point from 1078
+08.08 22:25:57 Going to coordinates X=-18.944, Y=-35.862
+08.08 22:25:57 Moving is finished
+08.08 22:28:05 Scanning 101 point from 1078
+08.08 22:28:05 Going to coordinates X=-18.844, Y=-35.862
+08.08 22:28:06 Moving is finished
+08.08 22:30:14 Scanning 102 point from 1078
+08.08 22:30:14 Going to coordinates X=-18.744, Y=-35.862
+08.08 22:30:14 Moving is finished
+08.08 22:32:23 Scanning 103 point from 1078
+08.08 22:32:23 Going to coordinates X=-18.644, Y=-35.862
+08.08 22:32:23 Moving is finished
+08.08 22:34:31 Scanning 104 point from 1078
+08.08 22:34:31 Going to coordinates X=-18.544, Y=-35.862
+08.08 22:34:31 Moving is finished
+08.08 22:36:39 Scanning 105 point from 1078
+08.08 22:36:39 Going to coordinates X=-18.444, Y=-35.862
+08.08 22:36:39 Moving is finished
+08.08 22:38:48 Scanning 106 point from 1078
+08.08 22:38:48 Going to coordinates X=-18.344, Y=-35.862
+08.08 22:38:48 Moving is finished
+08.08 22:40:56 Scanning 107 point from 1078
+08.08 22:40:56 Going to coordinates X=-18.244, Y=-35.862
+08.08 22:40:56 Moving is finished
+08.08 22:43:05 Scanning 108 point from 1078
+08.08 22:43:05 Going to coordinates X=-18.144, Y=-35.862
+08.08 22:43:05 Moving is finished
+08.08 22:45:13 Scanning 109 point from 1078
+08.08 22:45:13 Going to coordinates X=-18.044, Y=-35.862
+08.08 22:45:13 Moving is finished
+08.08 22:47:21 Scanning 110 point from 1078
+08.08 22:47:21 Going to coordinates X=-17.944, Y=-35.862
+08.08 22:47:22 Moving is finished
+08.08 22:49:30 Scanning 111 point from 1078
+08.08 22:49:30 Going to coordinates X=-17.844, Y=-35.862
+08.08 22:49:30 Moving is finished
+08.08 22:51:38 Scanning 112 point from 1078
+08.08 22:51:38 Going to coordinates X=-17.744, Y=-35.862
+08.08 22:51:39 Moving is finished
+08.08 22:53:47 Scanning 113 point from 1078
+08.08 22:53:47 Going to coordinates X=-17.644, Y=-35.862
+08.08 22:53:47 Moving is finished
+08.08 22:55:55 Scanning 114 point from 1078
+08.08 22:55:55 Going to coordinates X=-17.544, Y=-35.862
+08.08 22:55:55 Moving is finished
+08.08 22:58:03 Scanning 115 point from 1078
+08.08 22:58:03 Going to coordinates X=-17.444, Y=-35.862
+08.08 22:58:03 Moving is finished
+08.08 23:00:11 Scanning 116 point from 1078
+08.08 23:00:11 Going to coordinates X=-17.344, Y=-35.862
+08.08 23:00:12 Moving is finished
+08.08 23:02:20 Scanning 117 point from 1078
+08.08 23:02:20 Going to coordinates X=-17.244, Y=-35.862
+08.08 23:02:20 Moving is finished
+08.08 23:04:28 Scanning 118 point from 1078
+08.08 23:04:28 Going to coordinates X=-17.144, Y=-35.862
+08.08 23:04:28 Moving is finished
+08.08 23:06:36 Scanning 119 point from 1078
+08.08 23:06:36 Going to coordinates X=-17.044, Y=-35.862
+08.08 23:06:36 Moving is finished
+08.08 23:08:45 Scanning 120 point from 1078
+08.08 23:08:45 Going to coordinates X=-16.944, Y=-35.862
+08.08 23:08:45 Moving is finished
+08.08 23:10:53 Scanning 121 point from 1078
+08.08 23:10:53 Going to coordinates X=-16.844, Y=-35.862
+08.08 23:10:53 Moving is finished
+08.08 23:13:02 Scanning 122 point from 1078
+08.08 23:13:02 Going to coordinates X=-16.744, Y=-35.862
+08.08 23:13:02 Moving is finished
+08.08 23:15:10 Scanning 123 point from 1078
+08.08 23:15:10 Going to coordinates X=-16.644, Y=-35.862
+08.08 23:15:10 Moving is finished
+08.08 23:17:19 Scanning 124 point from 1078
+08.08 23:17:19 Going to coordinates X=-16.544, Y=-35.862
+08.08 23:17:19 Moving is finished
+08.08 23:19:27 Scanning 125 point from 1078
+08.08 23:19:27 Going to coordinates X=-16.444, Y=-35.862
+08.08 23:19:27 Moving is finished
+08.08 23:21:36 Scanning 126 point from 1078
+08.08 23:21:36 Going to coordinates X=-16.344, Y=-35.862
+08.08 23:21:36 Moving is finished
+08.08 23:23:45 Scanning 127 point from 1078
+08.08 23:23:45 Going to coordinates X=-16.244, Y=-35.862
+08.08 23:23:45 Moving is finished
+08.08 23:25:53 Scanning 128 point from 1078
+08.08 23:25:53 Going to coordinates X=-16.144, Y=-35.862
+08.08 23:25:53 Moving is finished
+08.08 23:28:02 Scanning 129 point from 1078
+08.08 23:28:02 Going to coordinates X=-16.044, Y=-35.862
+08.08 23:28:02 Moving is finished
+08.08 23:30:10 Scanning 130 point from 1078
+08.08 23:30:10 Going to coordinates X=-15.944, Y=-35.862
+08.08 23:30:10 Moving is finished
+08.08 23:32:18 Scanning 131 point from 1078
+08.08 23:32:18 Going to coordinates X=-15.844, Y=-35.862
+08.08 23:32:18 Moving is finished
+08.08 23:34:26 Scanning 132 point from 1078
+08.08 23:34:26 Going to coordinates X=-15.744, Y=-35.862
+08.08 23:34:26 Moving is finished
+08.08 23:36:35 Scanning 133 point from 1078
+08.08 23:36:35 Going to coordinates X=-15.644, Y=-35.862
+08.08 23:36:35 Moving is finished
+08.08 23:38:43 Scanning 134 point from 1078
+08.08 23:38:43 Going to coordinates X=-15.544, Y=-35.862
+08.08 23:38:43 Moving is finished
+08.08 23:40:52 Scanning 135 point from 1078
+08.08 23:40:52 Going to coordinates X=-15.444, Y=-35.862
+08.08 23:40:52 Moving is finished
+08.08 23:43:00 Scanning 136 point from 1078
+08.08 23:43:00 Going to coordinates X=-15.344, Y=-35.862
+08.08 23:43:00 Moving is finished
+08.08 23:45:08 Scanning 137 point from 1078
+08.08 23:45:08 Going to coordinates X=-15.244, Y=-35.862
+08.08 23:45:09 Moving is finished
+08.08 23:47:17 Scanning 138 point from 1078
+08.08 23:47:17 Going to coordinates X=-15.144, Y=-35.862
+08.08 23:47:17 Moving is finished
+08.08 23:49:26 Scanning 139 point from 1078
+08.08 23:49:26 Going to coordinates X=-15.044, Y=-35.862
+08.08 23:49:26 Moving is finished
+08.08 23:51:34 Scanning 140 point from 1078
+08.08 23:51:34 Going to coordinates X=-14.944, Y=-35.862
+08.08 23:51:35 Moving is finished
+08.08 23:53:43 Scanning 141 point from 1078
+08.08 23:53:43 Going to coordinates X=-14.844, Y=-35.862
+08.08 23:53:43 Moving is finished
+08.08 23:55:51 Scanning 142 point from 1078
+08.08 23:55:51 Going to coordinates X=-14.744, Y=-35.862
+08.08 23:55:51 Moving is finished
+08.08 23:58:00 Scanning 143 point from 1078
+08.08 23:58:00 Going to coordinates X=-14.644, Y=-35.862
+08.08 23:58:00 Moving is finished
+09.08 00:00:08 Scanning 144 point from 1078
+09.08 00:00:08 Going to coordinates X=-14.544, Y=-35.862
+09.08 00:00:09 Moving is finished
+09.08 00:02:17 Scanning 145 point from 1078
+09.08 00:02:17 Going to coordinates X=-14.444, Y=-35.862
+09.08 00:02:18 Moving is finished
+09.08 00:04:26 Scanning 146 point from 1078
+09.08 00:04:26 Going to coordinates X=-14.344, Y=-35.862
+09.08 00:04:26 Moving is finished
+09.08 00:06:34 Scanning 147 point from 1078
+09.08 00:06:34 Going to coordinates X=-19.144, Y=-35.762
+09.08 00:06:35 Moving is finished
+09.08 00:08:43 Scanning 148 point from 1078
+09.08 00:08:43 Going to coordinates X=-19.044, Y=-35.762
+09.08 00:08:44 Moving is finished
+09.08 00:10:52 Scanning 149 point from 1078
+09.08 00:10:52 Going to coordinates X=-18.944, Y=-35.762
+09.08 00:10:53 Moving is finished
+09.08 00:13:00 Scanning 150 point from 1078
+09.08 00:13:00 Going to coordinates X=-18.844, Y=-35.762
+09.08 00:13:01 Moving is finished
+09.08 00:15:09 Scanning 151 point from 1078
+09.08 00:15:09 Going to coordinates X=-18.744, Y=-35.762
+09.08 00:15:09 Moving is finished
+09.08 00:17:17 Scanning 152 point from 1078
+09.08 00:17:17 Going to coordinates X=-18.644, Y=-35.762
+09.08 00:17:17 Moving is finished
+09.08 00:19:26 Scanning 153 point from 1078
+09.08 00:19:26 Going to coordinates X=-18.544, Y=-35.762
+09.08 00:19:26 Moving is finished
+09.08 00:21:34 Scanning 154 point from 1078
+09.08 00:21:34 Going to coordinates X=-18.444, Y=-35.762
+09.08 00:21:34 Moving is finished
+09.08 00:23:43 Scanning 155 point from 1078
+09.08 00:23:43 Going to coordinates X=-18.344, Y=-35.762
+09.08 00:23:43 Moving is finished
+09.08 00:25:51 Scanning 156 point from 1078
+09.08 00:25:51 Going to coordinates X=-18.244, Y=-35.762
+09.08 00:25:51 Moving is finished
+09.08 00:28:00 Scanning 157 point from 1078
+09.08 00:28:00 Going to coordinates X=-18.144, Y=-35.762
+09.08 00:28:00 Moving is finished
+09.08 00:30:08 Scanning 158 point from 1078
+09.08 00:30:08 Going to coordinates X=-18.044, Y=-35.762
+09.08 00:30:09 Moving is finished
+09.08 00:32:16 Scanning 159 point from 1078
+09.08 00:32:16 Going to coordinates X=-17.944, Y=-35.762
+09.08 00:32:17 Moving is finished
+09.08 00:34:25 Scanning 160 point from 1078
+09.08 00:34:25 Going to coordinates X=-17.844, Y=-35.762
+09.08 00:34:25 Moving is finished
+09.08 00:36:33 Scanning 161 point from 1078
+09.08 00:36:33 Going to coordinates X=-17.744, Y=-35.762
+09.08 00:36:34 Moving is finished
+09.08 00:38:42 Scanning 162 point from 1078
+09.08 00:38:42 Going to coordinates X=-17.644, Y=-35.762
+09.08 00:38:42 Moving is finished
+09.08 00:40:50 Scanning 163 point from 1078
+09.08 00:40:50 Going to coordinates X=-17.544, Y=-35.762
+09.08 00:40:50 Moving is finished
+09.08 00:42:58 Scanning 164 point from 1078
+09.08 00:42:58 Going to coordinates X=-17.444, Y=-35.762
+09.08 00:42:58 Moving is finished
+09.08 00:45:06 Scanning 165 point from 1078
+09.08 00:45:06 Going to coordinates X=-17.344, Y=-35.762
+09.08 00:45:07 Moving is finished
+09.08 00:47:15 Scanning 166 point from 1078
+09.08 00:47:15 Going to coordinates X=-17.244, Y=-35.762
+09.08 00:47:15 Moving is finished
+09.08 00:49:23 Scanning 167 point from 1078
+09.08 00:49:23 Going to coordinates X=-17.144, Y=-35.762
+09.08 00:49:24 Moving is finished
+09.08 00:51:32 Scanning 168 point from 1078
+09.08 00:51:32 Going to coordinates X=-17.044, Y=-35.762
+09.08 00:51:32 Moving is finished
+09.08 00:53:41 Scanning 169 point from 1078
+09.08 00:53:41 Going to coordinates X=-16.944, Y=-35.762
+09.08 00:53:41 Moving is finished
+09.08 00:55:49 Scanning 170 point from 1078
+09.08 00:55:49 Going to coordinates X=-16.844, Y=-35.762
+09.08 00:55:49 Moving is finished
+09.08 00:57:58 Scanning 171 point from 1078
+09.08 00:57:58 Going to coordinates X=-16.744, Y=-35.762
+09.08 00:57:58 Moving is finished
+09.08 01:00:06 Scanning 172 point from 1078
+09.08 01:00:06 Going to coordinates X=-16.644, Y=-35.762
+09.08 01:00:07 Moving is finished
+09.08 01:02:15 Scanning 173 point from 1078
+09.08 01:02:15 Going to coordinates X=-16.544, Y=-35.762
+09.08 01:02:15 Moving is finished
+09.08 01:04:23 Scanning 174 point from 1078
+09.08 01:04:23 Going to coordinates X=-16.444, Y=-35.762
+09.08 01:04:24 Moving is finished
+09.08 01:06:32 Scanning 175 point from 1078
+09.08 01:06:32 Going to coordinates X=-16.344, Y=-35.762
+09.08 01:06:32 Moving is finished
+09.08 01:08:40 Scanning 176 point from 1078
+09.08 01:08:40 Going to coordinates X=-16.244, Y=-35.762
+09.08 01:08:40 Moving is finished
+09.08 01:10:49 Scanning 177 point from 1078
+09.08 01:10:49 Going to coordinates X=-16.144, Y=-35.762
+09.08 01:10:49 Moving is finished
+09.08 01:12:57 Scanning 178 point from 1078
+09.08 01:12:57 Going to coordinates X=-16.044, Y=-35.762
+09.08 01:12:58 Moving is finished
+09.08 01:15:06 Scanning 179 point from 1078
+09.08 01:15:06 Going to coordinates X=-15.944, Y=-35.762
+09.08 01:15:06 Moving is finished
+09.08 01:17:15 Scanning 180 point from 1078
+09.08 01:17:15 Going to coordinates X=-15.844, Y=-35.762
+09.08 01:17:15 Moving is finished
+09.08 01:19:23 Scanning 181 point from 1078
+09.08 01:19:23 Going to coordinates X=-15.744, Y=-35.762
+09.08 01:19:23 Moving is finished
+09.08 01:21:31 Scanning 182 point from 1078
+09.08 01:21:31 Going to coordinates X=-15.644, Y=-35.762
+09.08 01:21:32 Moving is finished
+09.08 01:23:40 Scanning 183 point from 1078
+09.08 01:23:40 Going to coordinates X=-15.544, Y=-35.762
+09.08 01:23:40 Moving is finished
+09.08 01:25:49 Scanning 184 point from 1078
+09.08 01:25:49 Going to coordinates X=-15.444, Y=-35.762
+09.08 01:25:49 Moving is finished
+09.08 01:27:57 Scanning 185 point from 1078
+09.08 01:27:57 Going to coordinates X=-15.344, Y=-35.762
+09.08 01:27:58 Moving is finished
+09.08 01:30:06 Scanning 186 point from 1078
+09.08 01:30:06 Going to coordinates X=-15.244, Y=-35.762
+09.08 01:30:06 Moving is finished
+09.08 01:32:15 Scanning 187 point from 1078
+09.08 01:32:15 Going to coordinates X=-15.144, Y=-35.762
+09.08 01:32:15 Moving is finished
+09.08 01:34:23 Scanning 188 point from 1078
+09.08 01:34:23 Going to coordinates X=-15.044, Y=-35.762
+09.08 01:34:23 Moving is finished
+09.08 01:36:31 Scanning 189 point from 1078
+09.08 01:36:31 Going to coordinates X=-14.944, Y=-35.762
+09.08 01:36:32 Moving is finished
+09.08 01:38:40 Scanning 190 point from 1078
+09.08 01:38:40 Going to coordinates X=-14.844, Y=-35.762
+09.08 01:38:40 Moving is finished
+09.08 01:40:48 Scanning 191 point from 1078
+09.08 01:40:48 Going to coordinates X=-14.744, Y=-35.762
+09.08 01:40:48 Moving is finished
+09.08 01:42:56 Scanning 192 point from 1078
+09.08 01:42:56 Going to coordinates X=-14.644, Y=-35.762
+09.08 01:42:56 Moving is finished
+09.08 01:45:04 Scanning 193 point from 1078
+09.08 01:45:04 Going to coordinates X=-14.544, Y=-35.762
+09.08 01:45:04 Moving is finished
+09.08 01:47:12 Scanning 194 point from 1078
+09.08 01:47:12 Going to coordinates X=-14.444, Y=-35.762
+09.08 01:47:13 Moving is finished
+09.08 01:49:21 Scanning 195 point from 1078
+09.08 01:49:21 Going to coordinates X=-14.344, Y=-35.762
+09.08 01:49:21 Moving is finished
+09.08 01:51:29 Scanning 196 point from 1078
+09.08 01:51:29 Going to coordinates X=-19.144, Y=-35.662
+09.08 01:51:30 Moving is finished
+09.08 01:53:39 Scanning 197 point from 1078
+09.08 01:53:39 Going to coordinates X=-19.044, Y=-35.662
+09.08 01:53:39 Moving is finished
+09.08 01:55:48 Scanning 198 point from 1078
+09.08 01:55:48 Going to coordinates X=-18.944, Y=-35.662
+09.08 01:55:48 Moving is finished
+09.08 01:57:56 Scanning 199 point from 1078
+09.08 01:57:56 Going to coordinates X=-18.844, Y=-35.662
+09.08 01:57:56 Moving is finished
+09.08 02:00:04 Scanning 200 point from 1078
+09.08 02:00:04 Going to coordinates X=-18.744, Y=-35.662
+09.08 02:00:04 Moving is finished
+09.08 02:02:13 Scanning 201 point from 1078
+09.08 02:02:13 Going to coordinates X=-18.644, Y=-35.662
+09.08 02:02:13 Moving is finished
+09.08 02:04:21 Scanning 202 point from 1078
+09.08 02:04:21 Going to coordinates X=-18.544, Y=-35.662
+09.08 02:04:21 Moving is finished
+09.08 02:06:29 Scanning 203 point from 1078
+09.08 02:06:29 Going to coordinates X=-18.444, Y=-35.662
+09.08 02:06:29 Moving is finished
+09.08 02:08:37 Scanning 204 point from 1078
+09.08 02:08:37 Going to coordinates X=-18.344, Y=-35.662
+09.08 02:08:37 Moving is finished
+09.08 02:10:46 Scanning 205 point from 1078
+09.08 02:10:46 Going to coordinates X=-18.244, Y=-35.662
+09.08 02:10:46 Moving is finished
+09.08 02:12:54 Scanning 206 point from 1078
+09.08 02:12:54 Going to coordinates X=-18.144, Y=-35.662
+09.08 02:12:55 Moving is finished
+09.08 02:15:03 Scanning 207 point from 1078
+09.08 02:15:03 Going to coordinates X=-18.044, Y=-35.662
+09.08 02:15:03 Moving is finished
+09.08 02:17:12 Scanning 208 point from 1078
+09.08 02:17:12 Going to coordinates X=-17.944, Y=-35.662
+09.08 02:17:12 Moving is finished
+09.08 02:19:20 Scanning 209 point from 1078
+09.08 02:19:20 Going to coordinates X=-17.844, Y=-35.662
+09.08 02:19:20 Moving is finished
+09.08 02:21:28 Scanning 210 point from 1078
+09.08 02:21:28 Going to coordinates X=-17.744, Y=-35.662
+09.08 02:21:29 Moving is finished
+09.08 02:23:37 Scanning 211 point from 1078
+09.08 02:23:37 Going to coordinates X=-17.644, Y=-35.662
+09.08 02:23:37 Moving is finished
+09.08 02:25:45 Scanning 212 point from 1078
+09.08 02:25:45 Going to coordinates X=-17.544, Y=-35.662
+09.08 02:25:45 Moving is finished
+09.08 02:27:53 Scanning 213 point from 1078
+09.08 02:27:53 Going to coordinates X=-17.444, Y=-35.662
+09.08 02:27:54 Moving is finished
+09.08 02:30:02 Scanning 214 point from 1078
+09.08 02:30:02 Going to coordinates X=-17.344, Y=-35.662
+09.08 02:30:02 Moving is finished
+09.08 02:32:10 Scanning 215 point from 1078
+09.08 02:32:10 Going to coordinates X=-17.244, Y=-35.662
+09.08 02:32:10 Moving is finished
+09.08 02:34:18 Scanning 216 point from 1078
+09.08 02:34:18 Going to coordinates X=-17.144, Y=-35.662
+09.08 02:34:19 Moving is finished
+09.08 02:36:27 Scanning 217 point from 1078
+09.08 02:36:27 Going to coordinates X=-17.044, Y=-35.662
+09.08 02:36:27 Moving is finished
+09.08 02:38:35 Scanning 218 point from 1078
+09.08 02:38:35 Going to coordinates X=-16.944, Y=-35.662
+09.08 02:38:35 Moving is finished
+09.08 02:40:44 Scanning 219 point from 1078
+09.08 02:40:44 Going to coordinates X=-16.844, Y=-35.662
+09.08 02:40:44 Moving is finished
+09.08 02:42:52 Scanning 220 point from 1078
+09.08 02:42:52 Going to coordinates X=-16.744, Y=-35.662
+09.08 02:42:52 Moving is finished
+09.08 02:45:00 Scanning 221 point from 1078
+09.08 02:45:00 Going to coordinates X=-16.644, Y=-35.662
+09.08 02:45:00 Moving is finished
+09.08 02:47:08 Scanning 222 point from 1078
+09.08 02:47:08 Going to coordinates X=-16.544, Y=-35.662
+09.08 02:47:08 Moving is finished
+09.08 02:49:17 Scanning 223 point from 1078
+09.08 02:49:17 Going to coordinates X=-16.444, Y=-35.662
+09.08 02:49:17 Moving is finished
+09.08 02:51:25 Scanning 224 point from 1078
+09.08 02:51:25 Going to coordinates X=-16.344, Y=-35.662
+09.08 02:51:25 Moving is finished
+09.08 02:53:33 Scanning 225 point from 1078
+09.08 02:53:33 Going to coordinates X=-16.244, Y=-35.662
+09.08 02:53:33 Moving is finished
+09.08 02:55:42 Scanning 226 point from 1078
+09.08 02:55:42 Going to coordinates X=-16.144, Y=-35.662
+09.08 02:55:42 Moving is finished
+09.08 02:57:50 Scanning 227 point from 1078
+09.08 02:57:50 Going to coordinates X=-16.044, Y=-35.662
+09.08 02:57:50 Moving is finished
+09.08 02:59:59 Scanning 228 point from 1078
+09.08 02:59:59 Going to coordinates X=-15.944, Y=-35.662
+09.08 02:59:59 Moving is finished
+09.08 03:02:07 Scanning 229 point from 1078
+09.08 03:02:07 Going to coordinates X=-15.844, Y=-35.662
+09.08 03:02:07 Moving is finished
+09.08 03:04:15 Scanning 230 point from 1078
+09.08 03:04:15 Going to coordinates X=-15.744, Y=-35.662
+09.08 03:04:16 Moving is finished
+09.08 03:06:23 Scanning 231 point from 1078
+09.08 03:06:23 Going to coordinates X=-15.644, Y=-35.662
+09.08 03:06:24 Moving is finished
+09.08 03:08:32 Scanning 232 point from 1078
+09.08 03:08:32 Going to coordinates X=-15.544, Y=-35.662
+09.08 03:08:32 Moving is finished
+09.08 03:10:40 Scanning 233 point from 1078
+09.08 03:10:40 Going to coordinates X=-15.444, Y=-35.662
+09.08 03:10:40 Moving is finished
+09.08 03:12:49 Scanning 234 point from 1078
+09.08 03:12:49 Going to coordinates X=-15.344, Y=-35.662
+09.08 03:12:49 Moving is finished
+09.08 03:14:58 Scanning 235 point from 1078
+09.08 03:14:58 Going to coordinates X=-15.244, Y=-35.662
+09.08 03:14:58 Moving is finished
+09.08 03:17:07 Scanning 236 point from 1078
+09.08 03:17:07 Going to coordinates X=-15.144, Y=-35.662
+09.08 03:17:07 Moving is finished
+09.08 03:19:15 Scanning 237 point from 1078
+09.08 03:19:15 Going to coordinates X=-15.044, Y=-35.662
+09.08 03:19:15 Moving is finished
+09.08 03:21:24 Scanning 238 point from 1078
+09.08 03:21:24 Going to coordinates X=-14.944, Y=-35.662
+09.08 03:21:24 Moving is finished
+09.08 03:23:32 Scanning 239 point from 1078
+09.08 03:23:32 Going to coordinates X=-14.844, Y=-35.662
+09.08 03:23:32 Moving is finished
+09.08 03:25:41 Scanning 240 point from 1078
+09.08 03:25:41 Going to coordinates X=-14.744, Y=-35.662
+09.08 03:25:41 Moving is finished
+09.08 03:27:49 Scanning 241 point from 1078
+09.08 03:27:49 Going to coordinates X=-14.644, Y=-35.662
+09.08 03:27:49 Moving is finished
+09.08 03:29:57 Scanning 242 point from 1078
+09.08 03:29:57 Going to coordinates X=-14.544, Y=-35.662
+09.08 03:29:58 Moving is finished
+09.08 03:32:05 Scanning 243 point from 1078
+09.08 03:32:05 Going to coordinates X=-14.444, Y=-35.662
+09.08 03:32:06 Moving is finished
+09.08 03:34:14 Scanning 244 point from 1078
+09.08 03:34:14 Going to coordinates X=-14.344, Y=-35.662
+09.08 03:34:15 Moving is finished
+09.08 03:36:23 Scanning 245 point from 1078
+09.08 03:36:23 Going to coordinates X=-19.144, Y=-35.562
+09.08 03:36:24 Moving is finished
+09.08 03:38:32 Scanning 246 point from 1078
+09.08 03:38:32 Going to coordinates X=-19.044, Y=-35.562
+09.08 03:38:33 Moving is finished
+09.08 03:40:41 Scanning 247 point from 1078
+09.08 03:40:41 Going to coordinates X=-18.944, Y=-35.562
+09.08 03:40:41 Moving is finished
+09.08 03:42:49 Scanning 248 point from 1078
+09.08 03:42:49 Going to coordinates X=-18.844, Y=-35.562
+09.08 03:42:49 Moving is finished
+09.08 03:44:57 Scanning 249 point from 1078
+09.08 03:44:57 Going to coordinates X=-18.744, Y=-35.562
+09.08 03:44:58 Moving is finished
+09.08 03:47:06 Scanning 250 point from 1078
+09.08 03:47:06 Going to coordinates X=-18.644, Y=-35.562
+09.08 03:47:07 Moving is finished
+09.08 03:49:15 Scanning 251 point from 1078
+09.08 03:49:15 Going to coordinates X=-18.544, Y=-35.562
+09.08 03:49:16 Moving is finished
+09.08 03:51:24 Scanning 252 point from 1078
+09.08 03:51:24 Going to coordinates X=-18.444, Y=-35.562
+09.08 03:51:24 Moving is finished
+09.08 03:53:33 Scanning 253 point from 1078
+09.08 03:53:33 Going to coordinates X=-18.344, Y=-35.562
+09.08 03:53:33 Moving is finished
+09.08 03:55:41 Scanning 254 point from 1078
+09.08 03:55:41 Going to coordinates X=-18.244, Y=-35.562
+09.08 03:55:41 Moving is finished
+09.08 03:57:50 Scanning 255 point from 1078
+09.08 03:57:50 Going to coordinates X=-18.144, Y=-35.562
+09.08 03:57:50 Moving is finished
+09.08 03:59:58 Scanning 256 point from 1078
+09.08 03:59:58 Going to coordinates X=-18.044, Y=-35.562
+09.08 03:59:59 Moving is finished
+09.08 04:02:07 Scanning 257 point from 1078
+09.08 04:02:07 Going to coordinates X=-17.944, Y=-35.562
+09.08 04:02:07 Moving is finished
+09.08 04:04:15 Scanning 258 point from 1078
+09.08 04:04:15 Going to coordinates X=-17.844, Y=-35.562
+09.08 04:04:16 Moving is finished
+09.08 04:06:24 Scanning 259 point from 1078
+09.08 04:06:24 Going to coordinates X=-17.744, Y=-35.562
+09.08 04:06:24 Moving is finished
+09.08 04:08:32 Scanning 260 point from 1078
+09.08 04:08:32 Going to coordinates X=-17.644, Y=-35.562
+09.08 04:08:32 Moving is finished
+09.08 04:10:40 Scanning 261 point from 1078
+09.08 04:10:40 Going to coordinates X=-17.544, Y=-35.562
+09.08 04:10:41 Moving is finished
+09.08 04:12:48 Scanning 262 point from 1078
+09.08 04:12:48 Going to coordinates X=-17.444, Y=-35.562
+09.08 04:12:49 Moving is finished
+09.08 04:14:57 Scanning 263 point from 1078
+09.08 04:14:57 Going to coordinates X=-17.344, Y=-35.562
+09.08 04:14:57 Moving is finished
+09.08 04:17:05 Scanning 264 point from 1078
+09.08 04:17:05 Going to coordinates X=-17.244, Y=-35.562
+09.08 04:17:06 Moving is finished
+09.08 04:19:14 Scanning 265 point from 1078
+09.08 04:19:14 Going to coordinates X=-17.144, Y=-35.562
+09.08 04:19:14 Moving is finished
+09.08 04:21:23 Scanning 266 point from 1078
+09.08 04:21:23 Going to coordinates X=-17.044, Y=-35.562
+09.08 04:21:23 Moving is finished
+09.08 04:23:32 Scanning 267 point from 1078
+09.08 04:23:32 Going to coordinates X=-16.944, Y=-35.562
+09.08 04:23:32 Moving is finished
+09.08 04:25:40 Scanning 268 point from 1078
+09.08 04:25:40 Going to coordinates X=-16.844, Y=-35.562
+09.08 04:25:40 Moving is finished
+09.08 04:27:48 Scanning 269 point from 1078
+09.08 04:27:48 Going to coordinates X=-16.744, Y=-35.562
+09.08 04:27:48 Moving is finished
+09.08 04:29:56 Scanning 270 point from 1078
+09.08 04:29:56 Going to coordinates X=-16.644, Y=-35.562
+09.08 04:29:57 Moving is finished
+09.08 04:32:05 Scanning 271 point from 1078
+09.08 04:32:05 Going to coordinates X=-16.544, Y=-35.562
+09.08 04:32:05 Moving is finished
+09.08 04:34:13 Scanning 272 point from 1078
+09.08 04:34:13 Going to coordinates X=-16.444, Y=-35.562
+09.08 04:34:13 Moving is finished
+09.08 04:36:22 Scanning 273 point from 1078
+09.08 04:36:22 Going to coordinates X=-16.344, Y=-35.562
+09.08 04:36:22 Moving is finished
+09.08 04:38:30 Scanning 274 point from 1078
+09.08 04:38:30 Going to coordinates X=-16.244, Y=-35.562
+09.08 04:38:30 Moving is finished
+09.08 04:40:39 Scanning 275 point from 1078
+09.08 04:40:39 Going to coordinates X=-16.144, Y=-35.562
+09.08 04:40:39 Moving is finished
+09.08 04:42:48 Scanning 276 point from 1078
+09.08 04:42:48 Going to coordinates X=-16.044, Y=-35.562
+09.08 04:42:48 Moving is finished
+09.08 04:44:56 Scanning 277 point from 1078
+09.08 04:44:56 Going to coordinates X=-15.944, Y=-35.562
+09.08 04:44:57 Moving is finished
+09.08 04:47:05 Scanning 278 point from 1078
+09.08 04:47:05 Going to coordinates X=-15.844, Y=-35.562
+09.08 04:47:05 Moving is finished
+09.08 04:49:14 Scanning 279 point from 1078
+09.08 04:49:14 Going to coordinates X=-15.744, Y=-35.562
+09.08 04:49:14 Moving is finished
+09.08 04:51:22 Scanning 280 point from 1078
+09.08 04:51:22 Going to coordinates X=-15.644, Y=-35.562
+09.08 04:51:22 Moving is finished
+09.08 04:53:31 Scanning 281 point from 1078
+09.08 04:53:31 Going to coordinates X=-15.544, Y=-35.562
+09.08 04:53:31 Moving is finished
+09.08 04:55:39 Scanning 282 point from 1078
+09.08 04:55:39 Going to coordinates X=-15.444, Y=-35.562
+09.08 04:55:39 Moving is finished
+09.08 04:57:48 Scanning 283 point from 1078
+09.08 04:57:48 Going to coordinates X=-15.344, Y=-35.562
+09.08 04:57:48 Moving is finished
+09.08 04:59:56 Scanning 284 point from 1078
+09.08 04:59:56 Going to coordinates X=-15.244, Y=-35.562
+09.08 04:59:56 Moving is finished
+09.08 05:02:05 Scanning 285 point from 1078
+09.08 05:02:05 Going to coordinates X=-15.144, Y=-35.562
+09.08 05:02:05 Moving is finished
+09.08 05:04:13 Scanning 286 point from 1078
+09.08 05:04:13 Going to coordinates X=-15.044, Y=-35.562
+09.08 05:04:14 Moving is finished
+09.08 05:06:22 Scanning 287 point from 1078
+09.08 05:06:22 Going to coordinates X=-14.944, Y=-35.562
+09.08 05:06:22 Moving is finished
+09.08 05:08:31 Scanning 288 point from 1078
+09.08 05:08:31 Going to coordinates X=-14.844, Y=-35.562
+09.08 05:08:31 Moving is finished
+09.08 05:10:40 Scanning 289 point from 1078
+09.08 05:10:40 Going to coordinates X=-14.744, Y=-35.562
+09.08 05:10:40 Moving is finished
+09.08 05:12:49 Scanning 290 point from 1078
+09.08 05:12:49 Going to coordinates X=-14.644, Y=-35.562
+09.08 05:12:49 Moving is finished
+09.08 05:14:58 Scanning 291 point from 1078
+09.08 05:14:58 Going to coordinates X=-14.544, Y=-35.562
+09.08 05:14:58 Moving is finished
+09.08 05:17:06 Scanning 292 point from 1078
+09.08 05:17:06 Going to coordinates X=-14.444, Y=-35.562
+09.08 05:17:07 Moving is finished
+09.08 05:19:15 Scanning 293 point from 1078
+09.08 05:19:15 Going to coordinates X=-14.344, Y=-35.562
+09.08 05:19:15 Moving is finished
+09.08 05:21:23 Scanning 294 point from 1078
+09.08 05:21:23 Going to coordinates X=-19.144, Y=-35.462
+09.08 05:21:25 Moving is finished
+09.08 05:23:33 Scanning 295 point from 1078
+09.08 05:23:33 Going to coordinates X=-19.044, Y=-35.462
+09.08 05:23:33 Moving is finished
+09.08 05:25:41 Scanning 296 point from 1078
+09.08 05:25:41 Going to coordinates X=-18.944, Y=-35.462
+09.08 05:25:42 Moving is finished
+09.08 05:27:50 Scanning 297 point from 1078
+09.08 05:27:50 Going to coordinates X=-18.844, Y=-35.462
+09.08 05:27:50 Moving is finished
+09.08 05:29:59 Scanning 298 point from 1078
+09.08 05:29:59 Going to coordinates X=-18.744, Y=-35.462
+09.08 05:29:59 Moving is finished
+09.08 05:32:07 Scanning 299 point from 1078
+09.08 05:32:07 Going to coordinates X=-18.644, Y=-35.462
+09.08 05:32:07 Moving is finished
+09.08 05:34:15 Scanning 300 point from 1078
+09.08 05:34:15 Going to coordinates X=-18.544, Y=-35.462
+09.08 05:34:16 Moving is finished
+09.08 05:36:24 Scanning 301 point from 1078
+09.08 05:36:24 Going to coordinates X=-18.444, Y=-35.462
+09.08 05:36:24 Moving is finished
+09.08 05:38:32 Scanning 302 point from 1078
+09.08 05:38:32 Going to coordinates X=-18.344, Y=-35.462
+09.08 05:38:32 Moving is finished
+09.08 05:40:40 Scanning 303 point from 1078
+09.08 05:40:40 Going to coordinates X=-18.244, Y=-35.462
+09.08 05:40:41 Moving is finished
+09.08 05:42:49 Scanning 304 point from 1078
+09.08 05:42:49 Going to coordinates X=-18.144, Y=-35.462
+09.08 05:42:49 Moving is finished
+09.08 05:44:57 Scanning 305 point from 1078
+09.08 05:44:57 Going to coordinates X=-18.044, Y=-35.462
+09.08 05:44:58 Moving is finished
+09.08 05:47:06 Scanning 306 point from 1078
+09.08 05:47:06 Going to coordinates X=-17.944, Y=-35.462
+09.08 05:47:06 Moving is finished
+09.08 05:49:14 Scanning 307 point from 1078
+09.08 05:49:14 Going to coordinates X=-17.844, Y=-35.462
+09.08 05:49:15 Moving is finished
+09.08 05:51:24 Scanning 308 point from 1078
+09.08 05:51:24 Going to coordinates X=-17.744, Y=-35.462
+09.08 05:51:24 Moving is finished
+09.08 05:53:32 Scanning 309 point from 1078
+09.08 05:53:32 Going to coordinates X=-17.644, Y=-35.462
+09.08 05:53:33 Moving is finished
+09.08 05:55:41 Scanning 310 point from 1078
+09.08 05:55:41 Going to coordinates X=-17.544, Y=-35.462
+09.08 05:55:42 Moving is finished
+09.08 05:57:50 Scanning 311 point from 1078
+09.08 05:57:50 Going to coordinates X=-17.444, Y=-35.462
+09.08 05:57:50 Moving is finished
+09.08 05:59:58 Scanning 312 point from 1078
+09.08 05:59:58 Going to coordinates X=-17.344, Y=-35.462
+09.08 05:59:58 Moving is finished
+09.08 06:02:06 Scanning 313 point from 1078
+09.08 06:02:06 Going to coordinates X=-17.244, Y=-35.462
+09.08 06:02:06 Moving is finished
+09.08 06:04:14 Scanning 314 point from 1078
+09.08 06:04:14 Going to coordinates X=-17.144, Y=-35.462
+09.08 06:04:15 Moving is finished
+09.08 06:06:23 Scanning 315 point from 1078
+09.08 06:06:23 Going to coordinates X=-17.044, Y=-35.462
+09.08 06:06:23 Moving is finished
+09.08 06:08:31 Scanning 316 point from 1078
+09.08 06:08:31 Going to coordinates X=-16.944, Y=-35.462
+09.08 06:08:31 Moving is finished
+09.08 06:10:39 Scanning 317 point from 1078
+09.08 06:10:39 Going to coordinates X=-16.844, Y=-35.462
+09.08 06:10:39 Moving is finished
+09.08 06:12:48 Scanning 318 point from 1078
+09.08 06:12:48 Going to coordinates X=-16.744, Y=-35.462
+09.08 06:12:48 Moving is finished
+09.08 06:14:56 Scanning 319 point from 1078
+09.08 06:14:56 Going to coordinates X=-16.644, Y=-35.462
+09.08 06:14:56 Moving is finished
+09.08 06:17:05 Scanning 320 point from 1078
+09.08 06:17:05 Going to coordinates X=-16.544, Y=-35.462
+09.08 06:17:05 Moving is finished
+09.08 06:19:13 Scanning 321 point from 1078
+09.08 06:19:13 Going to coordinates X=-16.444, Y=-35.462
+09.08 06:19:13 Moving is finished
+09.08 06:21:21 Scanning 322 point from 1078
+09.08 06:21:21 Going to coordinates X=-16.344, Y=-35.462
+09.08 06:21:22 Moving is finished
+09.08 06:23:30 Scanning 323 point from 1078
+09.08 06:23:30 Going to coordinates X=-16.244, Y=-35.462
+09.08 06:23:30 Moving is finished
+09.08 06:25:38 Scanning 324 point from 1078
+09.08 06:25:38 Going to coordinates X=-16.144, Y=-35.462
+09.08 06:25:38 Moving is finished
+09.08 06:27:47 Scanning 325 point from 1078
+09.08 06:27:47 Going to coordinates X=-16.044, Y=-35.462
+09.08 06:27:47 Moving is finished
+09.08 06:29:56 Scanning 326 point from 1078
+09.08 06:29:56 Going to coordinates X=-15.944, Y=-35.462
+09.08 06:29:56 Moving is finished
+09.08 06:32:05 Scanning 327 point from 1078
+09.08 06:32:05 Going to coordinates X=-15.844, Y=-35.462
+09.08 06:32:05 Moving is finished
+09.08 06:34:13 Scanning 328 point from 1078
+09.08 06:34:13 Going to coordinates X=-15.744, Y=-35.462
+09.08 06:34:13 Moving is finished
+09.08 06:36:22 Scanning 329 point from 1078
+09.08 06:36:22 Going to coordinates X=-15.644, Y=-35.462
+09.08 06:36:22 Moving is finished
+09.08 06:38:31 Scanning 330 point from 1078
+09.08 06:38:31 Going to coordinates X=-15.544, Y=-35.462
+09.08 06:38:32 Moving is finished
+09.08 06:40:40 Scanning 331 point from 1078
+09.08 06:40:40 Going to coordinates X=-15.444, Y=-35.462
+09.08 06:40:40 Moving is finished
+09.08 06:42:49 Scanning 332 point from 1078
+09.08 06:42:49 Going to coordinates X=-15.344, Y=-35.462
+09.08 06:42:49 Moving is finished
+09.08 06:44:58 Scanning 333 point from 1078
+09.08 06:44:58 Going to coordinates X=-15.244, Y=-35.462
+09.08 06:44:58 Moving is finished
+09.08 06:47:06 Scanning 334 point from 1078
+09.08 06:47:06 Going to coordinates X=-15.144, Y=-35.462
+09.08 06:47:06 Moving is finished
+09.08 06:49:14 Scanning 335 point from 1078
+09.08 06:49:14 Going to coordinates X=-15.044, Y=-35.462
+09.08 06:49:14 Moving is finished
+09.08 06:51:23 Scanning 336 point from 1078
+09.08 06:51:23 Going to coordinates X=-14.944, Y=-35.462
+09.08 06:51:23 Moving is finished
+09.08 06:53:31 Scanning 337 point from 1078
+09.08 06:53:31 Going to coordinates X=-14.844, Y=-35.462
+09.08 06:53:31 Moving is finished
+09.08 06:55:39 Scanning 338 point from 1078
+09.08 06:55:39 Going to coordinates X=-14.744, Y=-35.462
+09.08 06:55:40 Moving is finished
+09.08 06:57:47 Scanning 339 point from 1078
+09.08 06:57:47 Going to coordinates X=-14.644, Y=-35.462
+09.08 06:57:48 Moving is finished
+09.08 06:59:56 Scanning 340 point from 1078
+09.08 06:59:56 Going to coordinates X=-14.544, Y=-35.462
+09.08 06:59:57 Moving is finished
+09.08 07:02:05 Scanning 341 point from 1078
+09.08 07:02:05 Going to coordinates X=-14.444, Y=-35.462
+09.08 07:02:05 Moving is finished
+09.08 07:04:13 Scanning 342 point from 1078
+09.08 07:04:13 Going to coordinates X=-14.344, Y=-35.462
+09.08 07:04:14 Moving is finished
+09.08 07:06:21 Scanning 343 point from 1078
+09.08 07:06:21 Going to coordinates X=-19.144, Y=-35.362
+09.08 07:06:23 Moving is finished
+09.08 07:08:30 Scanning 344 point from 1078
+09.08 07:08:30 Going to coordinates X=-19.044, Y=-35.362
+09.08 07:08:31 Moving is finished
+09.08 07:10:39 Scanning 345 point from 1078
+09.08 07:10:39 Going to coordinates X=-18.944, Y=-35.362
+09.08 07:10:39 Moving is finished
+09.08 07:12:47 Scanning 346 point from 1078
+09.08 07:12:47 Going to coordinates X=-18.844, Y=-35.362
+09.08 07:12:48 Moving is finished
+09.08 07:14:56 Scanning 347 point from 1078
+09.08 07:14:56 Going to coordinates X=-18.744, Y=-35.362
+09.08 07:14:56 Moving is finished
+09.08 07:17:05 Scanning 348 point from 1078
+09.08 07:17:05 Going to coordinates X=-18.644, Y=-35.362
+09.08 07:17:05 Moving is finished
+09.08 07:19:13 Scanning 349 point from 1078
+09.08 07:19:13 Going to coordinates X=-18.544, Y=-35.362
+09.08 07:19:13 Moving is finished
+09.08 07:21:21 Scanning 350 point from 1078
+09.08 07:21:21 Going to coordinates X=-18.444, Y=-35.362
+09.08 07:21:21 Moving is finished
+09.08 07:23:29 Scanning 351 point from 1078
+09.08 07:23:29 Going to coordinates X=-18.344, Y=-35.362
+09.08 07:23:30 Moving is finished
+09.08 07:25:37 Scanning 352 point from 1078
+09.08 07:25:37 Going to coordinates X=-18.244, Y=-35.362
+09.08 07:25:38 Moving is finished
+09.08 07:27:46 Scanning 353 point from 1078
+09.08 07:27:46 Going to coordinates X=-18.144, Y=-35.362
+09.08 07:27:46 Moving is finished
+09.08 07:29:55 Scanning 354 point from 1078
+09.08 07:29:55 Going to coordinates X=-18.044, Y=-35.362
+09.08 07:29:55 Moving is finished
+09.08 07:32:04 Scanning 355 point from 1078
+09.08 07:32:04 Going to coordinates X=-17.944, Y=-35.362
+09.08 07:32:04 Moving is finished
+09.08 07:34:12 Scanning 356 point from 1078
+09.08 07:34:12 Going to coordinates X=-17.844, Y=-35.362
+09.08 07:34:12 Moving is finished
+09.08 07:36:21 Scanning 357 point from 1078
+09.08 07:36:21 Going to coordinates X=-17.744, Y=-35.362
+09.08 07:36:22 Moving is finished
+09.08 07:38:30 Scanning 358 point from 1078
+09.08 07:38:30 Going to coordinates X=-17.644, Y=-35.362
+09.08 07:38:30 Moving is finished
+09.08 07:40:38 Scanning 359 point from 1078
+09.08 07:40:38 Going to coordinates X=-17.544, Y=-35.362
+09.08 07:40:39 Moving is finished
+09.08 07:42:47 Scanning 360 point from 1078
+09.08 07:42:47 Going to coordinates X=-17.444, Y=-35.362
+09.08 07:42:47 Moving is finished
+09.08 07:44:55 Scanning 361 point from 1078
+09.08 07:44:55 Going to coordinates X=-17.344, Y=-35.362
+09.08 07:44:55 Moving is finished
+09.08 07:47:03 Scanning 362 point from 1078
+09.08 07:47:03 Going to coordinates X=-17.244, Y=-35.362
+09.08 07:47:03 Moving is finished
+09.08 07:49:11 Scanning 363 point from 1078
+09.08 07:49:11 Going to coordinates X=-17.144, Y=-35.362
+09.08 07:49:12 Moving is finished
+09.08 07:51:20 Scanning 364 point from 1078
+09.08 07:51:20 Going to coordinates X=-17.044, Y=-35.362
+09.08 07:51:20 Moving is finished
+09.08 07:53:28 Scanning 365 point from 1078
+09.08 07:53:28 Going to coordinates X=-16.944, Y=-35.362
+09.08 07:53:28 Moving is finished
+09.08 07:55:37 Scanning 366 point from 1078
+09.08 07:55:37 Going to coordinates X=-16.844, Y=-35.362
+09.08 07:55:37 Moving is finished
+09.08 07:57:45 Scanning 367 point from 1078
+09.08 07:57:45 Going to coordinates X=-16.744, Y=-35.362
+09.08 07:57:46 Moving is finished
+09.08 07:59:54 Scanning 368 point from 1078
+09.08 07:59:54 Going to coordinates X=-16.644, Y=-35.362
+09.08 07:59:54 Moving is finished
+09.08 08:02:03 Scanning 369 point from 1078
+09.08 08:02:03 Going to coordinates X=-16.544, Y=-35.362
+09.08 08:02:03 Moving is finished
+09.08 08:04:11 Scanning 370 point from 1078
+09.08 08:04:11 Going to coordinates X=-16.444, Y=-35.362
+09.08 08:04:12 Moving is finished
+09.08 08:06:19 Scanning 371 point from 1078
+09.08 08:06:19 Going to coordinates X=-16.344, Y=-35.362
+09.08 08:06:20 Moving is finished
+09.08 08:08:28 Scanning 372 point from 1078
+09.08 08:08:28 Going to coordinates X=-16.244, Y=-35.362
+09.08 08:08:28 Moving is finished
+09.08 08:10:36 Scanning 373 point from 1078
+09.08 08:10:36 Going to coordinates X=-16.144, Y=-35.362
+09.08 08:10:36 Moving is finished
+09.08 08:12:44 Scanning 374 point from 1078
+09.08 08:12:44 Going to coordinates X=-16.044, Y=-35.362
+09.08 08:12:45 Moving is finished
+09.08 08:14:53 Scanning 375 point from 1078
+09.08 08:14:53 Going to coordinates X=-15.944, Y=-35.362
+09.08 08:14:53 Moving is finished
+09.08 08:17:01 Scanning 376 point from 1078
+09.08 08:17:01 Going to coordinates X=-15.844, Y=-35.362
+09.08 08:17:01 Moving is finished
+09.08 08:19:09 Scanning 377 point from 1078
+09.08 08:19:09 Going to coordinates X=-15.744, Y=-35.362
+09.08 08:19:09 Moving is finished
+09.08 08:21:18 Scanning 378 point from 1078
+09.08 08:21:18 Going to coordinates X=-15.644, Y=-35.362
+09.08 08:21:18 Moving is finished
+09.08 08:23:26 Scanning 379 point from 1078
+09.08 08:23:26 Going to coordinates X=-15.544, Y=-35.362
+09.08 08:23:27 Moving is finished
+09.08 08:25:35 Scanning 380 point from 1078
+09.08 08:25:35 Going to coordinates X=-15.444, Y=-35.362
+09.08 08:25:35 Moving is finished
+09.08 08:27:43 Scanning 381 point from 1078
+09.08 08:27:43 Going to coordinates X=-15.344, Y=-35.362
+09.08 08:27:44 Moving is finished
+09.08 08:29:52 Scanning 382 point from 1078
+09.08 08:29:52 Going to coordinates X=-15.244, Y=-35.362
+09.08 08:29:52 Moving is finished
+09.08 08:32:00 Scanning 383 point from 1078
+09.08 08:32:00 Going to coordinates X=-15.144, Y=-35.362
+09.08 08:32:00 Moving is finished
+09.08 08:34:08 Scanning 384 point from 1078
+09.08 08:34:08 Going to coordinates X=-15.044, Y=-35.362
+09.08 08:34:09 Moving is finished
+09.08 08:36:17 Scanning 385 point from 1078
+09.08 08:36:17 Going to coordinates X=-14.944, Y=-35.362
+09.08 08:36:17 Moving is finished
+09.08 08:38:25 Scanning 386 point from 1078
+09.08 08:38:25 Going to coordinates X=-14.844, Y=-35.362
+09.08 08:38:25 Moving is finished
+09.08 08:40:34 Scanning 387 point from 1078
+09.08 08:40:34 Going to coordinates X=-14.744, Y=-35.362
+09.08 08:40:34 Moving is finished
+09.08 08:42:42 Scanning 388 point from 1078
+09.08 08:42:42 Going to coordinates X=-14.644, Y=-35.362
+09.08 08:42:43 Moving is finished
+09.08 08:44:51 Scanning 389 point from 1078
+09.08 08:44:51 Going to coordinates X=-14.544, Y=-35.362
+09.08 08:44:51 Moving is finished
+09.08 08:46:59 Scanning 390 point from 1078
+09.08 08:46:59 Going to coordinates X=-14.444, Y=-35.362
+09.08 08:47:00 Moving is finished
+09.08 08:49:08 Scanning 391 point from 1078
+09.08 08:49:08 Going to coordinates X=-14.344, Y=-35.362
+09.08 08:49:08 Moving is finished
+09.08 08:51:17 Scanning 392 point from 1078
+09.08 08:51:17 Going to coordinates X=-19.144, Y=-35.262
+09.08 08:51:18 Moving is finished
+09.08 08:53:27 Scanning 393 point from 1078
+09.08 08:53:27 Going to coordinates X=-19.044, Y=-35.262
+09.08 08:53:27 Moving is finished
+09.08 08:55:35 Scanning 394 point from 1078
+09.08 08:55:35 Going to coordinates X=-18.944, Y=-35.262
+09.08 08:55:36 Moving is finished
+09.08 08:57:44 Scanning 395 point from 1078
+09.08 08:57:44 Going to coordinates X=-18.844, Y=-35.262
+09.08 08:57:44 Moving is finished
+09.08 08:59:52 Scanning 396 point from 1078
+09.08 08:59:52 Going to coordinates X=-18.744, Y=-35.262
+09.08 08:59:53 Moving is finished
+09.08 09:02:01 Scanning 397 point from 1078
+09.08 09:02:01 Going to coordinates X=-18.644, Y=-35.262
+09.08 09:02:01 Moving is finished
+09.08 09:04:09 Scanning 398 point from 1078
+09.08 09:04:09 Going to coordinates X=-18.544, Y=-35.262
+09.08 09:04:10 Moving is finished
+09.08 09:06:18 Scanning 399 point from 1078
+09.08 09:06:18 Going to coordinates X=-18.444, Y=-35.262
+09.08 09:06:19 Moving is finished
+09.08 09:08:27 Scanning 400 point from 1078
+09.08 09:08:27 Going to coordinates X=-18.344, Y=-35.262
+09.08 09:08:27 Moving is finished
+09.08 09:10:35 Scanning 401 point from 1078
+09.08 09:10:35 Going to coordinates X=-18.244, Y=-35.262
+09.08 09:10:35 Moving is finished
+09.08 09:12:43 Scanning 402 point from 1078
+09.08 09:12:43 Going to coordinates X=-18.144, Y=-35.262
+09.08 09:12:44 Moving is finished
+09.08 09:14:52 Scanning 403 point from 1078
+09.08 09:14:52 Going to coordinates X=-18.044, Y=-35.262
+09.08 09:14:52 Moving is finished
+09.08 09:17:00 Scanning 404 point from 1078
+09.08 09:17:00 Going to coordinates X=-17.944, Y=-35.262
+09.08 09:17:00 Moving is finished
+09.08 09:19:08 Scanning 405 point from 1078
+09.08 09:19:08 Going to coordinates X=-17.844, Y=-35.262
+09.08 09:19:09 Moving is finished
+09.08 09:21:17 Scanning 406 point from 1078
+09.08 09:21:17 Going to coordinates X=-17.744, Y=-35.262
+09.08 09:21:17 Moving is finished
+09.08 09:23:26 Scanning 407 point from 1078
+09.08 09:23:26 Going to coordinates X=-17.644, Y=-35.262
+09.08 09:23:26 Moving is finished
+09.08 09:25:35 Scanning 408 point from 1078
+09.08 09:25:35 Going to coordinates X=-17.544, Y=-35.262
+09.08 09:25:35 Moving is finished
+09.08 09:27:43 Scanning 409 point from 1078
+09.08 09:27:43 Going to coordinates X=-17.444, Y=-35.262
+09.08 09:27:43 Moving is finished
+09.08 09:29:51 Scanning 410 point from 1078
+09.08 09:29:51 Going to coordinates X=-17.344, Y=-35.262
+09.08 09:29:52 Moving is finished
+09.08 09:32:00 Scanning 411 point from 1078
+09.08 09:32:00 Going to coordinates X=-17.244, Y=-35.262
+09.08 09:32:01 Moving is finished
+09.08 09:34:09 Scanning 412 point from 1078
+09.08 09:34:09 Going to coordinates X=-17.144, Y=-35.262
+09.08 09:34:09 Moving is finished
+09.08 09:36:18 Scanning 413 point from 1078
+09.08 09:36:18 Going to coordinates X=-17.044, Y=-35.262
+09.08 09:36:18 Moving is finished
+09.08 09:38:26 Scanning 414 point from 1078
+09.08 09:38:26 Going to coordinates X=-16.944, Y=-35.262
+09.08 09:38:26 Moving is finished
+09.08 09:40:34 Scanning 415 point from 1078
+09.08 09:40:34 Going to coordinates X=-16.844, Y=-35.262
+09.08 09:40:34 Moving is finished
+09.08 09:42:43 Scanning 416 point from 1078
+09.08 09:42:43 Going to coordinates X=-16.744, Y=-35.262
+09.08 09:42:43 Moving is finished
+09.08 09:44:51 Scanning 417 point from 1078
+09.08 09:44:51 Going to coordinates X=-16.644, Y=-35.262
+09.08 09:44:52 Moving is finished
+09.08 09:47:00 Scanning 418 point from 1078
+09.08 09:47:00 Going to coordinates X=-16.544, Y=-35.262
+09.08 09:47:00 Moving is finished
+09.08 09:49:08 Scanning 419 point from 1078
+09.08 09:49:08 Going to coordinates X=-16.444, Y=-35.262
+09.08 09:49:08 Moving is finished
+09.08 09:51:16 Scanning 420 point from 1078
+09.08 09:51:16 Going to coordinates X=-16.344, Y=-35.262
+09.08 09:51:17 Moving is finished
+09.08 09:53:25 Scanning 421 point from 1078
+09.08 09:53:25 Going to coordinates X=-16.244, Y=-35.262
+09.08 09:53:25 Moving is finished
+09.08 09:55:33 Scanning 422 point from 1078
+09.08 09:55:33 Going to coordinates X=-16.144, Y=-35.262
+09.08 09:55:33 Moving is finished
+09.08 09:57:41 Scanning 423 point from 1078
+09.08 09:57:41 Going to coordinates X=-16.044, Y=-35.262
+09.08 09:57:42 Moving is finished
+09.08 09:59:50 Scanning 424 point from 1078
+09.08 09:59:50 Going to coordinates X=-15.944, Y=-35.262
+09.08 09:59:51 Moving is finished
+09.08 10:01:59 Scanning 425 point from 1078
+09.08 10:01:59 Going to coordinates X=-15.844, Y=-35.262
+09.08 10:02:00 Moving is finished
+09.08 10:04:08 Scanning 426 point from 1078
+09.08 10:04:08 Going to coordinates X=-15.744, Y=-35.262
+09.08 10:04:08 Moving is finished
+09.08 10:06:16 Scanning 427 point from 1078
+09.08 10:06:16 Going to coordinates X=-15.644, Y=-35.262
+09.08 10:06:17 Moving is finished
+09.08 10:08:25 Scanning 428 point from 1078
+09.08 10:08:25 Going to coordinates X=-15.544, Y=-35.262
+09.08 10:08:25 Moving is finished
+09.08 10:10:33 Scanning 429 point from 1078
+09.08 10:10:33 Going to coordinates X=-15.444, Y=-35.262
+09.08 10:10:34 Moving is finished
+09.08 10:12:42 Scanning 430 point from 1078
+09.08 10:12:42 Going to coordinates X=-15.344, Y=-35.262
+09.08 10:12:43 Moving is finished
+09.08 10:14:51 Scanning 431 point from 1078
+09.08 10:14:51 Going to coordinates X=-15.244, Y=-35.262
+09.08 10:14:51 Moving is finished
+09.08 10:16:59 Scanning 432 point from 1078
+09.08 10:16:59 Going to coordinates X=-15.144, Y=-35.262
+09.08 10:17:00 Moving is finished
+09.08 10:19:09 Scanning 433 point from 1078
+09.08 10:19:09 Going to coordinates X=-15.044, Y=-35.262
+09.08 10:19:09 Moving is finished
+09.08 10:21:17 Scanning 434 point from 1078
+09.08 10:21:17 Going to coordinates X=-14.944, Y=-35.262
+09.08 10:21:17 Moving is finished
+09.08 10:22:36 Stopped!
+09.08 10:22:41 list index out of range

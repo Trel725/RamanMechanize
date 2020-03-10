@@ -1,0 +1,1376 @@
+16.11 20:44:51 Initializing grbl...
+16.11 20:44:52 Got the response: b''
+16.11 20:46:10 Row 0: 16.11 20:46:10 Map: x1: -12.803, y1: -37.887, x2: -14.764, y2: -35.015, xres: 0.100, yres: 0.100, fname: Mart suc - B
+16.11 20:46:10 Scanning 0 point from 630
+16.11 20:46:10 Going to coordinates X=-14.764, Y=-37.887
+16.11 20:46:11 Moving is finished
+16.11 20:48:19 Scanning 1 point from 630
+16.11 20:48:19 Going to coordinates X=-14.664, Y=-37.887
+16.11 20:48:20 Moving is finished
+16.11 20:50:28 Scanning 2 point from 630
+16.11 20:50:28 Going to coordinates X=-14.564, Y=-37.887
+16.11 20:50:28 Moving is finished
+16.11 20:52:36 Scanning 3 point from 630
+16.11 20:52:36 Going to coordinates X=-14.464, Y=-37.887
+16.11 20:52:36 Moving is finished
+16.11 20:54:44 Scanning 4 point from 630
+16.11 20:54:44 Going to coordinates X=-14.364, Y=-37.887
+16.11 20:54:45 Moving is finished
+16.11 20:56:53 Scanning 5 point from 630
+16.11 20:56:53 Going to coordinates X=-14.264, Y=-37.887
+16.11 20:56:53 Moving is finished
+16.11 20:59:02 Scanning 6 point from 630
+16.11 20:59:02 Going to coordinates X=-14.164, Y=-37.887
+16.11 20:59:02 Moving is finished
+16.11 21:01:10 Scanning 7 point from 630
+16.11 21:01:10 Going to coordinates X=-14.064, Y=-37.887
+16.11 21:01:10 Moving is finished
+16.11 21:03:18 Scanning 8 point from 630
+16.11 21:03:18 Going to coordinates X=-13.964, Y=-37.887
+16.11 21:03:19 Moving is finished
+16.11 21:05:26 Scanning 9 point from 630
+16.11 21:05:26 Going to coordinates X=-13.864, Y=-37.887
+16.11 21:05:27 Moving is finished
+16.11 21:07:35 Scanning 10 point from 630
+16.11 21:07:35 Going to coordinates X=-13.764, Y=-37.887
+16.11 21:07:35 Moving is finished
+16.11 21:09:43 Scanning 11 point from 630
+16.11 21:09:43 Going to coordinates X=-13.664, Y=-37.887
+16.11 21:09:43 Moving is finished
+16.11 21:11:51 Scanning 12 point from 630
+16.11 21:11:51 Going to coordinates X=-13.564, Y=-37.887
+16.11 21:11:52 Moving is finished
+16.11 21:14:00 Scanning 13 point from 630
+16.11 21:14:00 Going to coordinates X=-13.464, Y=-37.887
+16.11 21:14:00 Moving is finished
+16.11 21:16:08 Scanning 14 point from 630
+16.11 21:16:08 Going to coordinates X=-13.364, Y=-37.887
+16.11 21:16:08 Moving is finished
+16.11 21:18:16 Scanning 15 point from 630
+16.11 21:18:16 Going to coordinates X=-13.264, Y=-37.887
+16.11 21:18:16 Moving is finished
+16.11 21:20:24 Scanning 16 point from 630
+16.11 21:20:24 Going to coordinates X=-13.164, Y=-37.887
+16.11 21:20:25 Moving is finished
+16.11 21:22:33 Scanning 17 point from 630
+16.11 21:22:33 Going to coordinates X=-13.064, Y=-37.887
+16.11 21:22:33 Moving is finished
+16.11 21:24:41 Scanning 18 point from 630
+16.11 21:24:41 Going to coordinates X=-12.964, Y=-37.887
+16.11 21:24:42 Moving is finished
+16.11 21:26:50 Scanning 19 point from 630
+16.11 21:26:50 Going to coordinates X=-12.864, Y=-37.887
+16.11 21:26:50 Moving is finished
+16.11 21:28:58 Scanning 20 point from 630
+16.11 21:28:58 Going to coordinates X=-12.764, Y=-37.887
+16.11 21:28:59 Moving is finished
+16.11 21:31:07 Scanning 21 point from 630
+16.11 21:31:07 Going to coordinates X=-14.764, Y=-37.787
+16.11 21:31:08 Moving is finished
+16.11 21:33:16 Scanning 22 point from 630
+16.11 21:33:16 Going to coordinates X=-14.664, Y=-37.787
+16.11 21:33:16 Moving is finished
+16.11 21:35:24 Scanning 23 point from 630
+16.11 21:35:24 Going to coordinates X=-14.564, Y=-37.787
+16.11 21:35:25 Moving is finished
+16.11 21:37:33 Scanning 24 point from 630
+16.11 21:37:33 Going to coordinates X=-14.464, Y=-37.787
+16.11 21:37:34 Moving is finished
+16.11 21:39:42 Scanning 25 point from 630
+16.11 21:39:42 Going to coordinates X=-14.364, Y=-37.787
+16.11 21:39:43 Moving is finished
+16.11 21:41:51 Scanning 26 point from 630
+16.11 21:41:51 Going to coordinates X=-14.264, Y=-37.787
+16.11 21:41:51 Moving is finished
+16.11 21:44:00 Scanning 27 point from 630
+16.11 21:44:00 Going to coordinates X=-14.164, Y=-37.787
+16.11 21:44:00 Moving is finished
+16.11 21:46:08 Scanning 28 point from 630
+16.11 21:46:08 Going to coordinates X=-14.064, Y=-37.787
+16.11 21:46:08 Moving is finished
+16.11 21:48:16 Scanning 29 point from 630
+16.11 21:48:16 Going to coordinates X=-13.964, Y=-37.787
+16.11 21:48:17 Moving is finished
+16.11 21:50:25 Scanning 30 point from 630
+16.11 21:50:25 Going to coordinates X=-13.864, Y=-37.787
+16.11 21:50:25 Moving is finished
+16.11 21:52:33 Scanning 31 point from 630
+16.11 21:52:33 Going to coordinates X=-13.764, Y=-37.787
+16.11 21:52:33 Moving is finished
+16.11 21:54:41 Scanning 32 point from 630
+16.11 21:54:41 Going to coordinates X=-13.664, Y=-37.787
+16.11 21:54:42 Moving is finished
+16.11 21:56:50 Scanning 33 point from 630
+16.11 21:56:50 Going to coordinates X=-13.564, Y=-37.787
+16.11 21:56:51 Moving is finished
+16.11 21:58:59 Scanning 34 point from 630
+16.11 21:58:59 Going to coordinates X=-13.464, Y=-37.787
+16.11 21:59:00 Moving is finished
+16.11 22:01:08 Scanning 35 point from 630
+16.11 22:01:08 Going to coordinates X=-13.364, Y=-37.787
+16.11 22:01:08 Moving is finished
+16.11 22:03:16 Scanning 36 point from 630
+16.11 22:03:16 Going to coordinates X=-13.264, Y=-37.787
+16.11 22:03:16 Moving is finished
+16.11 22:05:25 Scanning 37 point from 630
+16.11 22:05:25 Going to coordinates X=-13.164, Y=-37.787
+16.11 22:05:25 Moving is finished
+16.11 22:07:34 Scanning 38 point from 630
+16.11 22:07:34 Going to coordinates X=-13.064, Y=-37.787
+16.11 22:07:34 Moving is finished
+16.11 22:09:42 Scanning 39 point from 630
+16.11 22:09:42 Going to coordinates X=-12.964, Y=-37.787
+16.11 22:09:42 Moving is finished
+16.11 22:11:51 Scanning 40 point from 630
+16.11 22:11:51 Going to coordinates X=-12.864, Y=-37.787
+16.11 22:11:51 Moving is finished
+16.11 22:13:59 Scanning 41 point from 630
+16.11 22:13:59 Going to coordinates X=-12.764, Y=-37.787
+16.11 22:14:00 Moving is finished
+16.11 22:16:08 Scanning 42 point from 630
+16.11 22:16:08 Going to coordinates X=-14.764, Y=-37.687
+16.11 22:16:09 Moving is finished
+16.11 22:18:18 Scanning 43 point from 630
+16.11 22:18:18 Going to coordinates X=-14.664, Y=-37.687
+16.11 22:18:18 Moving is finished
+16.11 22:20:26 Scanning 44 point from 630
+16.11 22:20:26 Going to coordinates X=-14.564, Y=-37.687
+16.11 22:20:27 Moving is finished
+16.11 22:22:35 Scanning 45 point from 630
+16.11 22:22:35 Going to coordinates X=-14.464, Y=-37.687
+16.11 22:22:35 Moving is finished
+16.11 22:24:43 Scanning 46 point from 630
+16.11 22:24:43 Going to coordinates X=-14.364, Y=-37.687
+16.11 22:24:43 Moving is finished
+16.11 22:26:52 Scanning 47 point from 630
+16.11 22:26:52 Going to coordinates X=-14.264, Y=-37.687
+16.11 22:26:52 Moving is finished
+16.11 22:29:00 Scanning 48 point from 630
+16.11 22:29:00 Going to coordinates X=-14.164, Y=-37.687
+16.11 22:29:01 Moving is finished
+16.11 22:31:09 Scanning 49 point from 630
+16.11 22:31:09 Going to coordinates X=-14.064, Y=-37.687
+16.11 22:31:10 Moving is finished
+16.11 22:33:18 Scanning 50 point from 630
+16.11 22:33:18 Going to coordinates X=-13.964, Y=-37.687
+16.11 22:33:18 Moving is finished
+16.11 22:35:26 Scanning 51 point from 630
+16.11 22:35:26 Going to coordinates X=-13.864, Y=-37.687
+16.11 22:35:27 Moving is finished
+16.11 22:37:35 Scanning 52 point from 630
+16.11 22:37:35 Going to coordinates X=-13.764, Y=-37.687
+16.11 22:37:35 Moving is finished
+16.11 22:39:43 Scanning 53 point from 630
+16.11 22:39:43 Going to coordinates X=-13.664, Y=-37.687
+16.11 22:39:43 Moving is finished
+16.11 22:41:52 Scanning 54 point from 630
+16.11 22:41:52 Going to coordinates X=-13.564, Y=-37.687
+16.11 22:41:52 Moving is finished
+16.11 22:44:01 Scanning 55 point from 630
+16.11 22:44:01 Going to coordinates X=-13.464, Y=-37.687
+16.11 22:44:02 Moving is finished
+16.11 22:46:09 Scanning 56 point from 630
+16.11 22:46:09 Going to coordinates X=-13.364, Y=-37.687
+16.11 22:46:10 Moving is finished
+16.11 22:48:18 Scanning 57 point from 630
+16.11 22:48:18 Going to coordinates X=-13.264, Y=-37.687
+16.11 22:48:18 Moving is finished
+16.11 22:50:27 Scanning 58 point from 630
+16.11 22:50:27 Going to coordinates X=-13.164, Y=-37.687
+16.11 22:50:27 Moving is finished
+16.11 22:52:35 Scanning 59 point from 630
+16.11 22:52:35 Going to coordinates X=-13.064, Y=-37.687
+16.11 22:52:35 Moving is finished
+16.11 22:54:44 Scanning 60 point from 630
+16.11 22:54:44 Going to coordinates X=-12.964, Y=-37.687
+16.11 22:54:44 Moving is finished
+16.11 22:56:52 Scanning 61 point from 630
+16.11 22:56:52 Going to coordinates X=-12.864, Y=-37.687
+16.11 22:56:53 Moving is finished
+16.11 22:59:01 Scanning 62 point from 630
+16.11 22:59:01 Going to coordinates X=-12.764, Y=-37.687
+16.11 22:59:01 Moving is finished
+16.11 23:01:09 Scanning 63 point from 630
+16.11 23:01:09 Going to coordinates X=-14.764, Y=-37.587
+16.11 23:01:10 Moving is finished
+16.11 23:03:18 Scanning 64 point from 630
+16.11 23:03:18 Going to coordinates X=-14.664, Y=-37.587
+16.11 23:03:18 Moving is finished
+16.11 23:05:27 Scanning 65 point from 630
+16.11 23:05:27 Going to coordinates X=-14.564, Y=-37.587
+16.11 23:05:27 Moving is finished
+16.11 23:07:35 Scanning 66 point from 630
+16.11 23:07:35 Going to coordinates X=-14.464, Y=-37.587
+16.11 23:07:35 Moving is finished
+16.11 23:09:43 Scanning 67 point from 630
+16.11 23:09:43 Going to coordinates X=-14.364, Y=-37.587
+16.11 23:09:43 Moving is finished
+16.11 23:11:51 Scanning 68 point from 630
+16.11 23:11:51 Going to coordinates X=-14.264, Y=-37.587
+16.11 23:11:52 Moving is finished
+16.11 23:14:00 Scanning 69 point from 630
+16.11 23:14:00 Going to coordinates X=-14.164, Y=-37.587
+16.11 23:14:00 Moving is finished
+16.11 23:16:08 Scanning 70 point from 630
+16.11 23:16:08 Going to coordinates X=-14.064, Y=-37.587
+16.11 23:16:08 Moving is finished
+16.11 23:18:17 Scanning 71 point from 630
+16.11 23:18:17 Going to coordinates X=-13.964, Y=-37.587
+16.11 23:18:17 Moving is finished
+16.11 23:20:25 Scanning 72 point from 630
+16.11 23:20:25 Going to coordinates X=-13.864, Y=-37.587
+16.11 23:20:26 Moving is finished
+16.11 23:22:34 Scanning 73 point from 630
+16.11 23:22:34 Going to coordinates X=-13.764, Y=-37.587
+16.11 23:22:34 Moving is finished
+16.11 23:24:43 Scanning 74 point from 630
+16.11 23:24:43 Going to coordinates X=-13.664, Y=-37.587
+16.11 23:24:43 Moving is finished
+16.11 23:26:51 Scanning 75 point from 630
+16.11 23:26:51 Going to coordinates X=-13.564, Y=-37.587
+16.11 23:26:52 Moving is finished
+16.11 23:28:59 Scanning 76 point from 630
+16.11 23:28:59 Going to coordinates X=-13.464, Y=-37.587
+16.11 23:29:00 Moving is finished
+16.11 23:31:08 Scanning 77 point from 630
+16.11 23:31:08 Going to coordinates X=-13.364, Y=-37.587
+16.11 23:31:09 Moving is finished
+16.11 23:33:17 Scanning 78 point from 630
+16.11 23:33:17 Going to coordinates X=-13.264, Y=-37.587
+16.11 23:33:18 Moving is finished
+16.11 23:35:26 Scanning 79 point from 630
+16.11 23:35:26 Going to coordinates X=-13.164, Y=-37.587
+16.11 23:35:26 Moving is finished
+16.11 23:37:35 Scanning 80 point from 630
+16.11 23:37:35 Going to coordinates X=-13.064, Y=-37.587
+16.11 23:37:35 Moving is finished
+16.11 23:39:43 Scanning 81 point from 630
+16.11 23:39:43 Going to coordinates X=-12.964, Y=-37.587
+16.11 23:39:44 Moving is finished
+16.11 23:41:52 Scanning 82 point from 630
+16.11 23:41:52 Going to coordinates X=-12.864, Y=-37.587
+16.11 23:41:52 Moving is finished
+16.11 23:44:00 Scanning 83 point from 630
+16.11 23:44:00 Going to coordinates X=-12.764, Y=-37.587
+16.11 23:44:01 Moving is finished
+16.11 23:46:09 Scanning 84 point from 630
+16.11 23:46:09 Going to coordinates X=-14.764, Y=-37.487
+16.11 23:46:10 Moving is finished
+16.11 23:48:18 Scanning 85 point from 630
+16.11 23:48:18 Going to coordinates X=-14.664, Y=-37.487
+16.11 23:48:18 Moving is finished
+16.11 23:50:27 Scanning 86 point from 630
+16.11 23:50:27 Going to coordinates X=-14.564, Y=-37.487
+16.11 23:50:27 Moving is finished
+16.11 23:52:35 Scanning 87 point from 630
+16.11 23:52:35 Going to coordinates X=-14.464, Y=-37.487
+16.11 23:52:35 Moving is finished
+16.11 23:54:43 Scanning 88 point from 630
+16.11 23:54:43 Going to coordinates X=-14.364, Y=-37.487
+16.11 23:54:43 Moving is finished
+16.11 23:56:52 Scanning 89 point from 630
+16.11 23:56:52 Going to coordinates X=-14.264, Y=-37.487
+16.11 23:56:52 Moving is finished
+16.11 23:59:00 Scanning 90 point from 630
+16.11 23:59:00 Going to coordinates X=-14.164, Y=-37.487
+16.11 23:59:00 Moving is finished
+17.11 00:01:09 Scanning 91 point from 630
+17.11 00:01:09 Going to coordinates X=-14.064, Y=-37.487
+17.11 00:01:09 Moving is finished
+17.11 00:03:18 Scanning 92 point from 630
+17.11 00:03:18 Going to coordinates X=-13.964, Y=-37.487
+17.11 00:03:18 Moving is finished
+17.11 00:05:26 Scanning 93 point from 630
+17.11 00:05:26 Going to coordinates X=-13.864, Y=-37.487
+17.11 00:05:27 Moving is finished
+17.11 00:07:35 Scanning 94 point from 630
+17.11 00:07:35 Going to coordinates X=-13.764, Y=-37.487
+17.11 00:07:35 Moving is finished
+17.11 00:09:44 Scanning 95 point from 630
+17.11 00:09:44 Going to coordinates X=-13.664, Y=-37.487
+17.11 00:09:44 Moving is finished
+17.11 00:11:52 Scanning 96 point from 630
+17.11 00:11:52 Going to coordinates X=-13.564, Y=-37.487
+17.11 00:11:52 Moving is finished
+17.11 00:14:00 Scanning 97 point from 630
+17.11 00:14:00 Going to coordinates X=-13.464, Y=-37.487
+17.11 00:14:01 Moving is finished
+17.11 00:16:09 Scanning 98 point from 630
+17.11 00:16:09 Going to coordinates X=-13.364, Y=-37.487
+17.11 00:16:09 Moving is finished
+17.11 00:18:17 Scanning 99 point from 630
+17.11 00:18:17 Going to coordinates X=-13.264, Y=-37.487
+17.11 00:18:18 Moving is finished
+17.11 00:20:26 Scanning 100 point from 630
+17.11 00:20:26 Going to coordinates X=-13.164, Y=-37.487
+17.11 00:20:26 Moving is finished
+17.11 00:22:34 Scanning 101 point from 630
+17.11 00:22:34 Going to coordinates X=-13.064, Y=-37.487
+17.11 00:22:35 Moving is finished
+17.11 00:24:44 Scanning 102 point from 630
+17.11 00:24:44 Going to coordinates X=-12.964, Y=-37.487
+17.11 00:24:44 Moving is finished
+17.11 00:26:52 Scanning 103 point from 630
+17.11 00:26:52 Going to coordinates X=-12.864, Y=-37.487
+17.11 00:26:52 Moving is finished
+17.11 00:29:00 Scanning 104 point from 630
+17.11 00:29:00 Going to coordinates X=-12.764, Y=-37.487
+17.11 00:29:01 Moving is finished
+17.11 00:31:09 Scanning 105 point from 630
+17.11 00:31:09 Going to coordinates X=-14.764, Y=-37.387
+17.11 00:31:10 Moving is finished
+17.11 00:33:18 Scanning 106 point from 630
+17.11 00:33:18 Going to coordinates X=-14.664, Y=-37.387
+17.11 00:33:19 Moving is finished
+17.11 00:35:27 Scanning 107 point from 630
+17.11 00:35:27 Going to coordinates X=-14.564, Y=-37.387
+17.11 00:35:27 Moving is finished
+17.11 00:37:36 Scanning 108 point from 630
+17.11 00:37:36 Going to coordinates X=-14.464, Y=-37.387
+17.11 00:37:36 Moving is finished
+17.11 00:39:44 Scanning 109 point from 630
+17.11 00:39:44 Going to coordinates X=-14.364, Y=-37.387
+17.11 00:39:45 Moving is finished
+17.11 00:41:53 Scanning 110 point from 630
+17.11 00:41:53 Going to coordinates X=-14.264, Y=-37.387
+17.11 00:41:53 Moving is finished
+17.11 00:44:01 Scanning 111 point from 630
+17.11 00:44:01 Going to coordinates X=-14.164, Y=-37.387
+17.11 00:44:02 Moving is finished
+17.11 00:46:10 Scanning 112 point from 630
+17.11 00:46:10 Going to coordinates X=-14.064, Y=-37.387
+17.11 00:46:10 Moving is finished
+17.11 00:48:18 Scanning 113 point from 630
+17.11 00:48:18 Going to coordinates X=-13.964, Y=-37.387
+17.11 00:48:19 Moving is finished
+17.11 00:50:27 Scanning 114 point from 630
+17.11 00:50:27 Going to coordinates X=-13.864, Y=-37.387
+17.11 00:50:28 Moving is finished
+17.11 00:52:36 Scanning 115 point from 630
+17.11 00:52:36 Going to coordinates X=-13.764, Y=-37.387
+17.11 00:52:36 Moving is finished
+17.11 00:54:45 Scanning 116 point from 630
+17.11 00:54:45 Going to coordinates X=-13.664, Y=-37.387
+17.11 00:54:45 Moving is finished
+17.11 00:56:53 Scanning 117 point from 630
+17.11 00:56:53 Going to coordinates X=-13.564, Y=-37.387
+17.11 00:56:53 Moving is finished
+17.11 00:59:02 Scanning 118 point from 630
+17.11 00:59:02 Going to coordinates X=-13.464, Y=-37.387
+17.11 00:59:02 Moving is finished
+17.11 01:01:10 Scanning 119 point from 630
+17.11 01:01:10 Going to coordinates X=-13.364, Y=-37.387
+17.11 01:01:10 Moving is finished
+17.11 01:03:19 Scanning 120 point from 630
+17.11 01:03:19 Going to coordinates X=-13.264, Y=-37.387
+17.11 01:03:19 Moving is finished
+17.11 01:05:28 Scanning 121 point from 630
+17.11 01:05:28 Going to coordinates X=-13.164, Y=-37.387
+17.11 01:05:28 Moving is finished
+17.11 01:07:36 Scanning 122 point from 630
+17.11 01:07:36 Going to coordinates X=-13.064, Y=-37.387
+17.11 01:07:36 Moving is finished
+17.11 01:09:44 Scanning 123 point from 630
+17.11 01:09:44 Going to coordinates X=-12.964, Y=-37.387
+17.11 01:09:44 Moving is finished
+17.11 01:11:53 Scanning 124 point from 630
+17.11 01:11:53 Going to coordinates X=-12.864, Y=-37.387
+17.11 01:11:53 Moving is finished
+17.11 01:14:01 Scanning 125 point from 630
+17.11 01:14:01 Going to coordinates X=-12.764, Y=-37.387
+17.11 01:14:01 Moving is finished
+17.11 01:16:10 Scanning 126 point from 630
+17.11 01:16:10 Going to coordinates X=-14.764, Y=-37.287
+17.11 01:16:10 Moving is finished
+17.11 01:18:19 Scanning 127 point from 630
+17.11 01:18:19 Going to coordinates X=-14.664, Y=-37.287
+17.11 01:18:19 Moving is finished
+17.11 01:20:27 Scanning 128 point from 630
+17.11 01:20:27 Going to coordinates X=-14.564, Y=-37.287
+17.11 01:20:27 Moving is finished
+17.11 01:22:36 Scanning 129 point from 630
+17.11 01:22:36 Going to coordinates X=-14.464, Y=-37.287
+17.11 01:22:36 Moving is finished
+17.11 01:24:44 Scanning 130 point from 630
+17.11 01:24:44 Going to coordinates X=-14.364, Y=-37.287
+17.11 01:24:44 Moving is finished
+17.11 01:26:53 Scanning 131 point from 630
+17.11 01:26:53 Going to coordinates X=-14.264, Y=-37.287
+17.11 01:26:53 Moving is finished
+17.11 01:29:02 Scanning 132 point from 630
+17.11 01:29:02 Going to coordinates X=-14.164, Y=-37.287
+17.11 01:29:02 Moving is finished
+17.11 01:31:11 Scanning 133 point from 630
+17.11 01:31:11 Going to coordinates X=-14.064, Y=-37.287
+17.11 01:31:11 Moving is finished
+17.11 01:33:19 Scanning 134 point from 630
+17.11 01:33:19 Going to coordinates X=-13.964, Y=-37.287
+17.11 01:33:20 Moving is finished
+17.11 01:35:28 Scanning 135 point from 630
+17.11 01:35:28 Going to coordinates X=-13.864, Y=-37.287
+17.11 01:35:28 Moving is finished
+17.11 01:37:37 Scanning 136 point from 630
+17.11 01:37:37 Going to coordinates X=-13.764, Y=-37.287
+17.11 01:37:37 Moving is finished
+17.11 01:39:46 Scanning 137 point from 630
+17.11 01:39:46 Going to coordinates X=-13.664, Y=-37.287
+17.11 01:39:46 Moving is finished
+17.11 01:41:54 Scanning 138 point from 630
+17.11 01:41:54 Going to coordinates X=-13.564, Y=-37.287
+17.11 01:41:54 Moving is finished
+17.11 01:44:02 Scanning 139 point from 630
+17.11 01:44:02 Going to coordinates X=-13.464, Y=-37.287
+17.11 01:44:03 Moving is finished
+17.11 01:46:11 Scanning 140 point from 630
+17.11 01:46:11 Going to coordinates X=-13.364, Y=-37.287
+17.11 01:46:11 Moving is finished
+17.11 01:48:19 Scanning 141 point from 630
+17.11 01:48:19 Going to coordinates X=-13.264, Y=-37.287
+17.11 01:48:19 Moving is finished
+17.11 01:50:27 Scanning 142 point from 630
+17.11 01:50:27 Going to coordinates X=-13.164, Y=-37.287
+17.11 01:50:27 Moving is finished
+17.11 01:52:37 Scanning 143 point from 630
+17.11 01:52:37 Going to coordinates X=-13.064, Y=-37.287
+17.11 01:52:37 Moving is finished
+17.11 01:54:45 Scanning 144 point from 630
+17.11 01:54:45 Going to coordinates X=-12.964, Y=-37.287
+17.11 01:54:45 Moving is finished
+17.11 01:56:54 Scanning 145 point from 630
+17.11 01:56:54 Going to coordinates X=-12.864, Y=-37.287
+17.11 01:56:55 Moving is finished
+17.11 01:59:03 Scanning 146 point from 630
+17.11 01:59:03 Going to coordinates X=-12.764, Y=-37.287
+17.11 01:59:03 Moving is finished
+17.11 02:01:12 Scanning 147 point from 630
+17.11 02:01:12 Going to coordinates X=-14.764, Y=-37.187
+17.11 02:01:13 Moving is finished
+17.11 02:03:22 Scanning 148 point from 630
+17.11 02:03:22 Going to coordinates X=-14.664, Y=-37.187
+17.11 02:03:22 Moving is finished
+17.11 02:05:30 Scanning 149 point from 630
+17.11 02:05:30 Going to coordinates X=-14.564, Y=-37.187
+17.11 02:05:30 Moving is finished
+17.11 02:07:38 Scanning 150 point from 630
+17.11 02:07:38 Going to coordinates X=-14.464, Y=-37.187
+17.11 02:07:39 Moving is finished
+17.11 02:09:47 Scanning 151 point from 630
+17.11 02:09:47 Going to coordinates X=-14.364, Y=-37.187
+17.11 02:09:47 Moving is finished
+17.11 02:11:56 Scanning 152 point from 630
+17.11 02:11:56 Going to coordinates X=-14.264, Y=-37.187
+17.11 02:11:56 Moving is finished
+17.11 02:14:04 Scanning 153 point from 630
+17.11 02:14:04 Going to coordinates X=-14.164, Y=-37.187
+17.11 02:14:04 Moving is finished
+17.11 02:16:12 Scanning 154 point from 630
+17.11 02:16:12 Going to coordinates X=-14.064, Y=-37.187
+17.11 02:16:12 Moving is finished
+17.11 02:18:21 Scanning 155 point from 630
+17.11 02:18:21 Going to coordinates X=-13.964, Y=-37.187
+17.11 02:18:21 Moving is finished
+17.11 02:20:29 Scanning 156 point from 630
+17.11 02:20:29 Going to coordinates X=-13.864, Y=-37.187
+17.11 02:20:29 Moving is finished
+17.11 02:22:38 Scanning 157 point from 630
+17.11 02:22:38 Going to coordinates X=-13.764, Y=-37.187
+17.11 02:22:38 Moving is finished
+17.11 02:24:46 Scanning 158 point from 630
+17.11 02:24:46 Going to coordinates X=-13.664, Y=-37.187
+17.11 02:24:46 Moving is finished
+17.11 02:26:55 Scanning 159 point from 630
+17.11 02:26:55 Going to coordinates X=-13.564, Y=-37.187
+17.11 02:26:55 Moving is finished
+17.11 02:29:03 Scanning 160 point from 630
+17.11 02:29:03 Going to coordinates X=-13.464, Y=-37.187
+17.11 02:29:04 Moving is finished
+17.11 02:31:11 Scanning 161 point from 630
+17.11 02:31:11 Going to coordinates X=-13.364, Y=-37.187
+17.11 02:31:12 Moving is finished
+17.11 02:33:20 Scanning 162 point from 630
+17.11 02:33:20 Going to coordinates X=-13.264, Y=-37.187
+17.11 02:33:20 Moving is finished
+17.11 02:35:28 Scanning 163 point from 630
+17.11 02:35:28 Going to coordinates X=-13.164, Y=-37.187
+17.11 02:35:28 Moving is finished
+17.11 02:37:37 Scanning 164 point from 630
+17.11 02:37:37 Going to coordinates X=-13.064, Y=-37.187
+17.11 02:37:37 Moving is finished
+17.11 02:39:45 Scanning 165 point from 630
+17.11 02:39:45 Going to coordinates X=-12.964, Y=-37.187
+17.11 02:39:45 Moving is finished
+17.11 02:41:53 Scanning 166 point from 630
+17.11 02:41:53 Going to coordinates X=-12.864, Y=-37.187
+17.11 02:41:54 Moving is finished
+17.11 02:44:01 Scanning 167 point from 630
+17.11 02:44:01 Going to coordinates X=-12.764, Y=-37.187
+17.11 02:44:02 Moving is finished
+17.11 02:46:10 Scanning 168 point from 630
+17.11 02:46:10 Going to coordinates X=-14.764, Y=-37.087
+17.11 02:46:11 Moving is finished
+17.11 02:48:19 Scanning 169 point from 630
+17.11 02:48:19 Going to coordinates X=-14.664, Y=-37.087
+17.11 02:48:20 Moving is finished
+17.11 02:50:28 Scanning 170 point from 630
+17.11 02:50:28 Going to coordinates X=-14.564, Y=-37.087
+17.11 02:50:28 Moving is finished
+17.11 02:52:36 Scanning 171 point from 630
+17.11 02:52:36 Going to coordinates X=-14.464, Y=-37.087
+17.11 02:52:37 Moving is finished
+17.11 02:54:45 Scanning 172 point from 630
+17.11 02:54:45 Going to coordinates X=-14.364, Y=-37.087
+17.11 02:54:46 Moving is finished
+17.11 02:56:54 Scanning 173 point from 630
+17.11 02:56:54 Going to coordinates X=-14.264, Y=-37.087
+17.11 02:56:54 Moving is finished
+17.11 02:59:02 Scanning 174 point from 630
+17.11 02:59:02 Going to coordinates X=-14.164, Y=-37.087
+17.11 02:59:03 Moving is finished
+17.11 03:01:11 Scanning 175 point from 630
+17.11 03:01:11 Going to coordinates X=-14.064, Y=-37.087
+17.11 03:01:11 Moving is finished
+17.11 03:03:19 Scanning 176 point from 630
+17.11 03:03:19 Going to coordinates X=-13.964, Y=-37.087
+17.11 03:03:19 Moving is finished
+17.11 03:05:27 Scanning 177 point from 630
+17.11 03:05:27 Going to coordinates X=-13.864, Y=-37.087
+17.11 03:05:28 Moving is finished
+17.11 03:07:36 Scanning 178 point from 630
+17.11 03:07:36 Going to coordinates X=-13.764, Y=-37.087
+17.11 03:07:36 Moving is finished
+17.11 03:09:44 Scanning 179 point from 630
+17.11 03:09:44 Going to coordinates X=-13.664, Y=-37.087
+17.11 03:09:45 Moving is finished
+17.11 03:11:53 Scanning 180 point from 630
+17.11 03:11:53 Going to coordinates X=-13.564, Y=-37.087
+17.11 03:11:53 Moving is finished
+17.11 03:14:01 Scanning 181 point from 630
+17.11 03:14:01 Going to coordinates X=-13.464, Y=-37.087
+17.11 03:14:02 Moving is finished
+17.11 03:16:10 Scanning 182 point from 630
+17.11 03:16:10 Going to coordinates X=-13.364, Y=-37.087
+17.11 03:16:10 Moving is finished
+17.11 03:18:18 Scanning 183 point from 630
+17.11 03:18:18 Going to coordinates X=-13.264, Y=-37.087
+17.11 03:18:19 Moving is finished
+17.11 03:20:28 Scanning 184 point from 630
+17.11 03:20:28 Going to coordinates X=-13.164, Y=-37.087
+17.11 03:20:28 Moving is finished
+17.11 03:22:36 Scanning 185 point from 630
+17.11 03:22:36 Going to coordinates X=-13.064, Y=-37.087
+17.11 03:22:36 Moving is finished
+17.11 03:24:44 Scanning 186 point from 630
+17.11 03:24:44 Going to coordinates X=-12.964, Y=-37.087
+17.11 03:24:45 Moving is finished
+17.11 03:26:53 Scanning 187 point from 630
+17.11 03:26:53 Going to coordinates X=-12.864, Y=-37.087
+17.11 03:26:53 Moving is finished
+17.11 03:29:01 Scanning 188 point from 630
+17.11 03:29:01 Going to coordinates X=-12.764, Y=-37.087
+17.11 03:29:02 Moving is finished
+17.11 03:31:10 Scanning 189 point from 630
+17.11 03:31:10 Going to coordinates X=-14.764, Y=-36.987
+17.11 03:31:11 Moving is finished
+17.11 03:33:19 Scanning 190 point from 630
+17.11 03:33:19 Going to coordinates X=-14.664, Y=-36.987
+17.11 03:33:19 Moving is finished
+17.11 03:35:27 Scanning 191 point from 630
+17.11 03:35:27 Going to coordinates X=-14.564, Y=-36.987
+17.11 03:35:28 Moving is finished
+17.11 03:37:36 Scanning 192 point from 630
+17.11 03:37:36 Going to coordinates X=-14.464, Y=-36.987
+17.11 03:37:36 Moving is finished
+17.11 03:39:45 Scanning 193 point from 630
+17.11 03:39:45 Going to coordinates X=-14.364, Y=-36.987
+17.11 03:39:45 Moving is finished
+17.11 03:41:53 Scanning 194 point from 630
+17.11 03:41:53 Going to coordinates X=-14.264, Y=-36.987
+17.11 03:41:54 Moving is finished
+17.11 03:44:02 Scanning 195 point from 630
+17.11 03:44:02 Going to coordinates X=-14.164, Y=-36.987
+17.11 03:44:02 Moving is finished
+17.11 03:46:11 Scanning 196 point from 630
+17.11 03:46:11 Going to coordinates X=-14.064, Y=-36.987
+17.11 03:46:11 Moving is finished
+17.11 03:48:19 Scanning 197 point from 630
+17.11 03:48:19 Going to coordinates X=-13.964, Y=-36.987
+17.11 03:48:19 Moving is finished
+17.11 03:50:27 Scanning 198 point from 630
+17.11 03:50:27 Going to coordinates X=-13.864, Y=-36.987
+17.11 03:50:28 Moving is finished
+17.11 03:52:35 Scanning 199 point from 630
+17.11 03:52:35 Going to coordinates X=-13.764, Y=-36.987
+17.11 03:52:36 Moving is finished
+17.11 03:54:44 Scanning 200 point from 630
+17.11 03:54:44 Going to coordinates X=-13.664, Y=-36.987
+17.11 03:54:44 Moving is finished
+17.11 03:56:53 Scanning 201 point from 630
+17.11 03:56:53 Going to coordinates X=-13.564, Y=-36.987
+17.11 03:56:53 Moving is finished
+17.11 03:59:01 Scanning 202 point from 630
+17.11 03:59:01 Going to coordinates X=-13.464, Y=-36.987
+17.11 03:59:01 Moving is finished
+17.11 04:01:09 Scanning 203 point from 630
+17.11 04:01:09 Going to coordinates X=-13.364, Y=-36.987
+17.11 04:01:09 Moving is finished
+17.11 04:03:17 Scanning 204 point from 630
+17.11 04:03:17 Going to coordinates X=-13.264, Y=-36.987
+17.11 04:03:18 Moving is finished
+17.11 04:05:26 Scanning 205 point from 630
+17.11 04:05:26 Going to coordinates X=-13.164, Y=-36.987
+17.11 04:05:26 Moving is finished
+17.11 04:07:35 Scanning 206 point from 630
+17.11 04:07:35 Going to coordinates X=-13.064, Y=-36.987
+17.11 04:07:35 Moving is finished
+17.11 04:09:44 Scanning 207 point from 630
+17.11 04:09:44 Going to coordinates X=-12.964, Y=-36.987
+17.11 04:09:44 Moving is finished
+17.11 04:11:53 Scanning 208 point from 630
+17.11 04:11:53 Going to coordinates X=-12.864, Y=-36.987
+17.11 04:11:53 Moving is finished
+17.11 04:14:01 Scanning 209 point from 630
+17.11 04:14:01 Going to coordinates X=-12.764, Y=-36.987
+17.11 04:14:01 Moving is finished
+17.11 04:16:09 Scanning 210 point from 630
+17.11 04:16:09 Going to coordinates X=-14.764, Y=-36.887
+17.11 04:16:10 Moving is finished
+17.11 04:18:19 Scanning 211 point from 630
+17.11 04:18:19 Going to coordinates X=-14.664, Y=-36.887
+17.11 04:18:19 Moving is finished
+17.11 04:20:27 Scanning 212 point from 630
+17.11 04:20:27 Going to coordinates X=-14.564, Y=-36.887
+17.11 04:20:28 Moving is finished
+17.11 04:22:36 Scanning 213 point from 630
+17.11 04:22:36 Going to coordinates X=-14.464, Y=-36.887
+17.11 04:22:36 Moving is finished
+17.11 04:24:45 Scanning 214 point from 630
+17.11 04:24:45 Going to coordinates X=-14.364, Y=-36.887
+17.11 04:24:45 Moving is finished
+17.11 04:26:54 Scanning 215 point from 630
+17.11 04:26:54 Going to coordinates X=-14.264, Y=-36.887
+17.11 04:26:54 Moving is finished
+17.11 04:29:02 Scanning 216 point from 630
+17.11 04:29:02 Going to coordinates X=-14.164, Y=-36.887
+17.11 04:29:03 Moving is finished
+17.11 04:31:11 Scanning 217 point from 630
+17.11 04:31:11 Going to coordinates X=-14.064, Y=-36.887
+17.11 04:31:12 Moving is finished
+17.11 04:33:20 Scanning 218 point from 630
+17.11 04:33:20 Going to coordinates X=-13.964, Y=-36.887
+17.11 04:33:20 Moving is finished
+17.11 04:35:29 Scanning 219 point from 630
+17.11 04:35:29 Going to coordinates X=-13.864, Y=-36.887
+17.11 04:35:29 Moving is finished
+17.11 04:37:37 Scanning 220 point from 630
+17.11 04:37:37 Going to coordinates X=-13.764, Y=-36.887
+17.11 04:37:37 Moving is finished
+17.11 04:39:46 Scanning 221 point from 630
+17.11 04:39:46 Going to coordinates X=-13.664, Y=-36.887
+17.11 04:39:46 Moving is finished
+17.11 04:41:54 Scanning 222 point from 630
+17.11 04:41:54 Going to coordinates X=-13.564, Y=-36.887
+17.11 04:41:55 Moving is finished
+17.11 04:44:03 Scanning 223 point from 630
+17.11 04:44:03 Going to coordinates X=-13.464, Y=-36.887
+17.11 04:44:03 Moving is finished
+17.11 04:46:11 Scanning 224 point from 630
+17.11 04:46:11 Going to coordinates X=-13.364, Y=-36.887
+17.11 04:46:12 Moving is finished
+17.11 04:48:20 Scanning 225 point from 630
+17.11 04:48:20 Going to coordinates X=-13.264, Y=-36.887
+17.11 04:48:20 Moving is finished
+17.11 04:50:29 Scanning 226 point from 630
+17.11 04:50:29 Going to coordinates X=-13.164, Y=-36.887
+17.11 04:50:29 Moving is finished
+17.11 04:52:37 Scanning 227 point from 630
+17.11 04:52:37 Going to coordinates X=-13.064, Y=-36.887
+17.11 04:52:37 Moving is finished
+17.11 04:54:46 Scanning 228 point from 630
+17.11 04:54:46 Going to coordinates X=-12.964, Y=-36.887
+17.11 04:54:46 Moving is finished
+17.11 04:56:54 Scanning 229 point from 630
+17.11 04:56:54 Going to coordinates X=-12.864, Y=-36.887
+17.11 04:56:54 Moving is finished
+17.11 04:59:03 Scanning 230 point from 630
+17.11 04:59:03 Going to coordinates X=-12.764, Y=-36.887
+17.11 04:59:03 Moving is finished
+17.11 05:01:11 Scanning 231 point from 630
+17.11 05:01:11 Going to coordinates X=-14.764, Y=-36.787
+17.11 05:01:12 Moving is finished
+17.11 05:03:20 Scanning 232 point from 630
+17.11 05:03:20 Going to coordinates X=-14.664, Y=-36.787
+17.11 05:03:21 Moving is finished
+17.11 05:05:29 Scanning 233 point from 630
+17.11 05:05:29 Going to coordinates X=-14.564, Y=-36.787
+17.11 05:05:29 Moving is finished
+17.11 05:07:37 Scanning 234 point from 630
+17.11 05:07:37 Going to coordinates X=-14.464, Y=-36.787
+17.11 05:07:38 Moving is finished
+17.11 05:09:46 Scanning 235 point from 630
+17.11 05:09:46 Going to coordinates X=-14.364, Y=-36.787
+17.11 05:09:46 Moving is finished
+17.11 05:11:54 Scanning 236 point from 630
+17.11 05:11:54 Going to coordinates X=-14.264, Y=-36.787
+17.11 05:11:54 Moving is finished
+17.11 05:14:02 Scanning 237 point from 630
+17.11 05:14:02 Going to coordinates X=-14.164, Y=-36.787
+17.11 05:14:03 Moving is finished
+17.11 05:16:11 Scanning 238 point from 630
+17.11 05:16:11 Going to coordinates X=-14.064, Y=-36.787
+17.11 05:16:11 Moving is finished
+17.11 05:18:19 Scanning 239 point from 630
+17.11 05:18:19 Going to coordinates X=-13.964, Y=-36.787
+17.11 05:18:20 Moving is finished
+17.11 05:20:28 Scanning 240 point from 630
+17.11 05:20:28 Going to coordinates X=-13.864, Y=-36.787
+17.11 05:20:29 Moving is finished
+17.11 05:22:37 Scanning 241 point from 630
+17.11 05:22:37 Going to coordinates X=-13.764, Y=-36.787
+17.11 05:22:38 Moving is finished
+17.11 05:24:46 Scanning 242 point from 630
+17.11 05:24:46 Going to coordinates X=-13.664, Y=-36.787
+17.11 05:24:46 Moving is finished
+17.11 05:26:55 Scanning 243 point from 630
+17.11 05:26:55 Going to coordinates X=-13.564, Y=-36.787
+17.11 05:26:55 Moving is finished
+17.11 05:29:04 Scanning 244 point from 630
+17.11 05:29:04 Going to coordinates X=-13.464, Y=-36.787
+17.11 05:29:04 Moving is finished
+17.11 05:31:13 Scanning 245 point from 630
+17.11 05:31:13 Going to coordinates X=-13.364, Y=-36.787
+17.11 05:31:13 Moving is finished
+17.11 05:33:21 Scanning 246 point from 630
+17.11 05:33:21 Going to coordinates X=-13.264, Y=-36.787
+17.11 05:33:22 Moving is finished
+17.11 05:35:30 Scanning 247 point from 630
+17.11 05:35:30 Going to coordinates X=-13.164, Y=-36.787
+17.11 05:35:30 Moving is finished
+17.11 05:37:38 Scanning 248 point from 630
+17.11 05:37:38 Going to coordinates X=-13.064, Y=-36.787
+17.11 05:37:39 Moving is finished
+17.11 05:39:47 Scanning 249 point from 630
+17.11 05:39:47 Going to coordinates X=-12.964, Y=-36.787
+17.11 05:39:47 Moving is finished
+17.11 05:41:55 Scanning 250 point from 630
+17.11 05:41:55 Going to coordinates X=-12.864, Y=-36.787
+17.11 05:41:55 Moving is finished
+17.11 05:44:04 Scanning 251 point from 630
+17.11 05:44:04 Going to coordinates X=-12.764, Y=-36.787
+17.11 05:44:04 Moving is finished
+17.11 05:46:12 Scanning 252 point from 630
+17.11 05:46:12 Going to coordinates X=-14.764, Y=-36.687
+17.11 05:46:13 Moving is finished
+17.11 05:48:22 Scanning 253 point from 630
+17.11 05:48:22 Going to coordinates X=-14.664, Y=-36.687
+17.11 05:48:22 Moving is finished
+17.11 05:50:30 Scanning 254 point from 630
+17.11 05:50:30 Going to coordinates X=-14.564, Y=-36.687
+17.11 05:50:30 Moving is finished
+17.11 05:52:39 Scanning 255 point from 630
+17.11 05:52:39 Going to coordinates X=-14.464, Y=-36.687
+17.11 05:52:39 Moving is finished
+17.11 05:54:47 Scanning 256 point from 630
+17.11 05:54:47 Going to coordinates X=-14.364, Y=-36.687
+17.11 05:54:47 Moving is finished
+17.11 05:56:55 Scanning 257 point from 630
+17.11 05:56:55 Going to coordinates X=-14.264, Y=-36.687
+17.11 05:56:55 Moving is finished
+17.11 05:59:04 Scanning 258 point from 630
+17.11 05:59:04 Going to coordinates X=-14.164, Y=-36.687
+17.11 05:59:04 Moving is finished
+17.11 06:01:12 Scanning 259 point from 630
+17.11 06:01:12 Going to coordinates X=-14.064, Y=-36.687
+17.11 06:01:12 Moving is finished
+17.11 06:03:21 Scanning 260 point from 630
+17.11 06:03:21 Going to coordinates X=-13.964, Y=-36.687
+17.11 06:03:21 Moving is finished
+17.11 06:05:29 Scanning 261 point from 630
+17.11 06:05:29 Going to coordinates X=-13.864, Y=-36.687
+17.11 06:05:30 Moving is finished
+17.11 06:07:38 Scanning 262 point from 630
+17.11 06:07:38 Going to coordinates X=-13.764, Y=-36.687
+17.11 06:07:39 Moving is finished
+17.11 06:09:46 Scanning 263 point from 630
+17.11 06:09:46 Going to coordinates X=-13.664, Y=-36.687
+17.11 06:09:47 Moving is finished
+17.11 06:11:55 Scanning 264 point from 630
+17.11 06:11:55 Going to coordinates X=-13.564, Y=-36.687
+17.11 06:11:55 Moving is finished
+17.11 06:14:03 Scanning 265 point from 630
+17.11 06:14:03 Going to coordinates X=-13.464, Y=-36.687
+17.11 06:14:03 Moving is finished
+17.11 06:16:12 Scanning 266 point from 630
+17.11 06:16:12 Going to coordinates X=-13.364, Y=-36.687
+17.11 06:16:12 Moving is finished
+17.11 06:18:20 Scanning 267 point from 630
+17.11 06:18:20 Going to coordinates X=-13.264, Y=-36.687
+17.11 06:18:20 Moving is finished
+17.11 06:20:29 Scanning 268 point from 630
+17.11 06:20:29 Going to coordinates X=-13.164, Y=-36.687
+17.11 06:20:29 Moving is finished
+17.11 06:22:38 Scanning 269 point from 630
+17.11 06:22:38 Going to coordinates X=-13.064, Y=-36.687
+17.11 06:22:38 Moving is finished
+17.11 06:24:46 Scanning 270 point from 630
+17.11 06:24:46 Going to coordinates X=-12.964, Y=-36.687
+17.11 06:24:46 Moving is finished
+17.11 06:26:54 Scanning 271 point from 630
+17.11 06:26:54 Going to coordinates X=-12.864, Y=-36.687
+17.11 06:26:55 Moving is finished
+17.11 06:29:03 Scanning 272 point from 630
+17.11 06:29:03 Going to coordinates X=-12.764, Y=-36.687
+17.11 06:29:03 Moving is finished
+17.11 06:31:11 Scanning 273 point from 630
+17.11 06:31:11 Going to coordinates X=-14.764, Y=-36.587
+17.11 06:31:12 Moving is finished
+17.11 06:33:21 Scanning 274 point from 630
+17.11 06:33:21 Going to coordinates X=-14.664, Y=-36.587
+17.11 06:33:21 Moving is finished
+17.11 06:35:29 Scanning 275 point from 630
+17.11 06:35:29 Going to coordinates X=-14.564, Y=-36.587
+17.11 06:35:29 Moving is finished
+17.11 06:37:37 Scanning 276 point from 630
+17.11 06:37:37 Going to coordinates X=-14.464, Y=-36.587
+17.11 06:37:37 Moving is finished
+17.11 06:39:46 Scanning 277 point from 630
+17.11 06:39:46 Going to coordinates X=-14.364, Y=-36.587
+17.11 06:39:46 Moving is finished
+17.11 06:41:54 Scanning 278 point from 630
+17.11 06:41:54 Going to coordinates X=-14.264, Y=-36.587
+17.11 06:41:54 Moving is finished
+17.11 06:44:02 Scanning 279 point from 630
+17.11 06:44:02 Going to coordinates X=-14.164, Y=-36.587
+17.11 06:44:03 Moving is finished
+17.11 06:46:11 Scanning 280 point from 630
+17.11 06:46:11 Going to coordinates X=-14.064, Y=-36.587
+17.11 06:46:11 Moving is finished
+17.11 06:48:19 Scanning 281 point from 630
+17.11 06:48:19 Going to coordinates X=-13.964, Y=-36.587
+17.11 06:48:19 Moving is finished
+17.11 06:50:28 Scanning 282 point from 630
+17.11 06:50:28 Going to coordinates X=-13.864, Y=-36.587
+17.11 06:50:28 Moving is finished
+17.11 06:52:36 Scanning 283 point from 630
+17.11 06:52:36 Going to coordinates X=-13.764, Y=-36.587
+17.11 06:52:37 Moving is finished
+17.11 06:54:45 Scanning 284 point from 630
+17.11 06:54:45 Going to coordinates X=-13.664, Y=-36.587
+17.11 06:54:45 Moving is finished
+17.11 06:56:54 Scanning 285 point from 630
+17.11 06:56:54 Going to coordinates X=-13.564, Y=-36.587
+17.11 06:56:54 Moving is finished
+17.11 06:59:02 Scanning 286 point from 630
+17.11 06:59:02 Going to coordinates X=-13.464, Y=-36.587
+17.11 06:59:03 Moving is finished
+17.11 07:01:11 Scanning 287 point from 630
+17.11 07:01:11 Going to coordinates X=-13.364, Y=-36.587
+17.11 07:01:11 Moving is finished
+17.11 07:03:19 Scanning 288 point from 630
+17.11 07:03:19 Going to coordinates X=-13.264, Y=-36.587
+17.11 07:03:20 Moving is finished
+17.11 07:05:28 Scanning 289 point from 630
+17.11 07:05:28 Going to coordinates X=-13.164, Y=-36.587
+17.11 07:05:28 Moving is finished
+17.11 07:07:36 Scanning 290 point from 630
+17.11 07:07:36 Going to coordinates X=-13.064, Y=-36.587
+17.11 07:07:37 Moving is finished
+17.11 07:09:45 Scanning 291 point from 630
+17.11 07:09:45 Going to coordinates X=-12.964, Y=-36.587
+17.11 07:09:45 Moving is finished
+17.11 07:11:53 Scanning 292 point from 630
+17.11 07:11:53 Going to coordinates X=-12.864, Y=-36.587
+17.11 07:11:53 Moving is finished
+17.11 07:14:02 Scanning 293 point from 630
+17.11 07:14:02 Going to coordinates X=-12.764, Y=-36.587
+17.11 07:14:02 Moving is finished
+17.11 07:16:10 Scanning 294 point from 630
+17.11 07:16:10 Going to coordinates X=-14.764, Y=-36.487
+17.11 07:16:11 Moving is finished
+17.11 07:18:19 Scanning 295 point from 630
+17.11 07:18:19 Going to coordinates X=-14.664, Y=-36.487
+17.11 07:18:20 Moving is finished
+17.11 07:20:28 Scanning 296 point from 630
+17.11 07:20:28 Going to coordinates X=-14.564, Y=-36.487
+17.11 07:20:28 Moving is finished
+17.11 07:22:37 Scanning 297 point from 630
+17.11 07:22:37 Going to coordinates X=-14.464, Y=-36.487
+17.11 07:22:37 Moving is finished
+17.11 07:24:45 Scanning 298 point from 630
+17.11 07:24:45 Going to coordinates X=-14.364, Y=-36.487
+17.11 07:24:46 Moving is finished
+17.11 07:26:54 Scanning 299 point from 630
+17.11 07:26:54 Going to coordinates X=-14.264, Y=-36.487
+17.11 07:26:54 Moving is finished
+17.11 07:29:02 Scanning 300 point from 630
+17.11 07:29:02 Going to coordinates X=-14.164, Y=-36.487
+17.11 07:29:02 Moving is finished
+17.11 07:31:11 Scanning 301 point from 630
+17.11 07:31:11 Going to coordinates X=-14.064, Y=-36.487
+17.11 07:31:11 Moving is finished
+17.11 07:33:19 Scanning 302 point from 630
+17.11 07:33:19 Going to coordinates X=-13.964, Y=-36.487
+17.11 07:33:20 Moving is finished
+17.11 07:35:28 Scanning 303 point from 630
+17.11 07:35:28 Going to coordinates X=-13.864, Y=-36.487
+17.11 07:35:28 Moving is finished
+17.11 07:37:36 Scanning 304 point from 630
+17.11 07:37:36 Going to coordinates X=-13.764, Y=-36.487
+17.11 07:37:37 Moving is finished
+17.11 07:39:45 Scanning 305 point from 630
+17.11 07:39:45 Going to coordinates X=-13.664, Y=-36.487
+17.11 07:39:45 Moving is finished
+17.11 07:41:53 Scanning 306 point from 630
+17.11 07:41:53 Going to coordinates X=-13.564, Y=-36.487
+17.11 07:41:53 Moving is finished
+17.11 07:44:02 Scanning 307 point from 630
+17.11 07:44:02 Going to coordinates X=-13.464, Y=-36.487
+17.11 07:44:02 Moving is finished
+17.11 07:46:11 Scanning 308 point from 630
+17.11 07:46:11 Going to coordinates X=-13.364, Y=-36.487
+17.11 07:46:11 Moving is finished
+17.11 07:48:19 Scanning 309 point from 630
+17.11 07:48:19 Going to coordinates X=-13.264, Y=-36.487
+17.11 07:48:19 Moving is finished
+17.11 07:50:27 Scanning 310 point from 630
+17.11 07:50:27 Going to coordinates X=-13.164, Y=-36.487
+17.11 07:50:27 Moving is finished
+17.11 07:52:36 Scanning 311 point from 630
+17.11 07:52:36 Going to coordinates X=-13.064, Y=-36.487
+17.11 07:52:36 Moving is finished
+17.11 07:54:44 Scanning 312 point from 630
+17.11 07:54:44 Going to coordinates X=-12.964, Y=-36.487
+17.11 07:54:44 Moving is finished
+17.11 07:56:52 Scanning 313 point from 630
+17.11 07:56:52 Going to coordinates X=-12.864, Y=-36.487
+17.11 07:56:53 Moving is finished
+17.11 07:59:01 Scanning 314 point from 630
+17.11 07:59:01 Going to coordinates X=-12.764, Y=-36.487
+17.11 07:59:01 Moving is finished
+17.11 08:01:09 Scanning 315 point from 630
+17.11 08:01:09 Going to coordinates X=-14.764, Y=-36.387
+17.11 08:01:10 Moving is finished
+17.11 08:03:19 Scanning 316 point from 630
+17.11 08:03:19 Going to coordinates X=-14.664, Y=-36.387
+17.11 08:03:19 Moving is finished
+17.11 08:05:27 Scanning 317 point from 630
+17.11 08:05:27 Going to coordinates X=-14.564, Y=-36.387
+17.11 08:05:27 Moving is finished
+17.11 08:07:36 Scanning 318 point from 630
+17.11 08:07:36 Going to coordinates X=-14.464, Y=-36.387
+17.11 08:07:36 Moving is finished
+17.11 08:09:44 Scanning 319 point from 630
+17.11 08:09:44 Going to coordinates X=-14.364, Y=-36.387
+17.11 08:09:45 Moving is finished
+17.11 08:11:53 Scanning 320 point from 630
+17.11 08:11:53 Going to coordinates X=-14.264, Y=-36.387
+17.11 08:11:53 Moving is finished
+17.11 08:14:02 Scanning 321 point from 630
+17.11 08:14:02 Going to coordinates X=-14.164, Y=-36.387
+17.11 08:14:02 Moving is finished
+17.11 08:16:10 Scanning 322 point from 630
+17.11 08:16:10 Going to coordinates X=-14.064, Y=-36.387
+17.11 08:16:10 Moving is finished
+17.11 08:18:19 Scanning 323 point from 630
+17.11 08:18:19 Going to coordinates X=-13.964, Y=-36.387
+17.11 08:18:19 Moving is finished
+17.11 08:20:28 Scanning 324 point from 630
+17.11 08:20:28 Going to coordinates X=-13.864, Y=-36.387
+17.11 08:20:28 Moving is finished
+17.11 08:22:37 Scanning 325 point from 630
+17.11 08:22:37 Going to coordinates X=-13.764, Y=-36.387
+17.11 08:22:37 Moving is finished
+17.11 08:24:45 Scanning 326 point from 630
+17.11 08:24:45 Going to coordinates X=-13.664, Y=-36.387
+17.11 08:24:45 Moving is finished
+17.11 08:26:54 Scanning 327 point from 630
+17.11 08:26:54 Going to coordinates X=-13.564, Y=-36.387
+17.11 08:26:54 Moving is finished
+17.11 08:29:02 Scanning 328 point from 630
+17.11 08:29:02 Going to coordinates X=-13.464, Y=-36.387
+17.11 08:29:03 Moving is finished
+17.11 08:31:11 Scanning 329 point from 630
+17.11 08:31:11 Going to coordinates X=-13.364, Y=-36.387
+17.11 08:31:11 Moving is finished
+17.11 08:33:19 Scanning 330 point from 630
+17.11 08:33:19 Going to coordinates X=-13.264, Y=-36.387
+17.11 08:33:19 Moving is finished
+17.11 08:35:28 Scanning 331 point from 630
+17.11 08:35:28 Going to coordinates X=-13.164, Y=-36.387
+17.11 08:35:28 Moving is finished
+17.11 08:37:36 Scanning 332 point from 630
+17.11 08:37:36 Going to coordinates X=-13.064, Y=-36.387
+17.11 08:37:37 Moving is finished
+17.11 08:39:45 Scanning 333 point from 630
+17.11 08:39:45 Going to coordinates X=-12.964, Y=-36.387
+17.11 08:39:46 Moving is finished
+17.11 08:41:54 Scanning 334 point from 630
+17.11 08:41:54 Going to coordinates X=-12.864, Y=-36.387
+17.11 08:41:54 Moving is finished
+17.11 08:44:02 Scanning 335 point from 630
+17.11 08:44:02 Going to coordinates X=-12.764, Y=-36.387
+17.11 08:44:03 Moving is finished
+17.11 08:46:11 Scanning 336 point from 630
+17.11 08:46:11 Going to coordinates X=-14.764, Y=-36.287
+17.11 08:46:12 Moving is finished
+17.11 08:48:20 Scanning 337 point from 630
+17.11 08:48:20 Going to coordinates X=-14.664, Y=-36.287
+17.11 08:48:20 Moving is finished
+17.11 08:50:29 Scanning 338 point from 630
+17.11 08:50:29 Going to coordinates X=-14.564, Y=-36.287
+17.11 08:50:29 Moving is finished
+17.11 08:52:37 Scanning 339 point from 630
+17.11 08:52:37 Going to coordinates X=-14.464, Y=-36.287
+17.11 08:52:37 Moving is finished
+17.11 08:54:46 Scanning 340 point from 630
+17.11 08:54:46 Going to coordinates X=-14.364, Y=-36.287
+17.11 08:54:46 Moving is finished
+17.11 08:56:54 Scanning 341 point from 630
+17.11 08:56:54 Going to coordinates X=-14.264, Y=-36.287
+17.11 08:56:54 Moving is finished
+17.11 08:59:03 Scanning 342 point from 630
+17.11 08:59:03 Going to coordinates X=-14.164, Y=-36.287
+17.11 08:59:03 Moving is finished
+17.11 09:01:11 Scanning 343 point from 630
+17.11 09:01:11 Going to coordinates X=-14.064, Y=-36.287
+17.11 09:01:11 Moving is finished
+17.11 09:03:20 Scanning 344 point from 630
+17.11 09:03:20 Going to coordinates X=-13.964, Y=-36.287
+17.11 09:03:21 Moving is finished
+17.11 09:05:29 Scanning 345 point from 630
+17.11 09:05:29 Going to coordinates X=-13.864, Y=-36.287
+17.11 09:05:29 Moving is finished
+17.11 09:07:38 Scanning 346 point from 630
+17.11 09:07:38 Going to coordinates X=-13.764, Y=-36.287
+17.11 09:07:38 Moving is finished
+17.11 09:09:46 Scanning 347 point from 630
+17.11 09:09:46 Going to coordinates X=-13.664, Y=-36.287
+17.11 09:09:47 Moving is finished
+17.11 09:11:55 Scanning 348 point from 630
+17.11 09:11:55 Going to coordinates X=-13.564, Y=-36.287
+17.11 09:11:55 Moving is finished
+17.11 09:14:03 Scanning 349 point from 630
+17.11 09:14:03 Going to coordinates X=-13.464, Y=-36.287
+17.11 09:14:03 Moving is finished
+17.11 09:16:11 Scanning 350 point from 630
+17.11 09:16:11 Going to coordinates X=-13.364, Y=-36.287
+17.11 09:16:12 Moving is finished
+17.11 09:18:20 Scanning 351 point from 630
+17.11 09:18:20 Going to coordinates X=-13.264, Y=-36.287
+17.11 09:18:20 Moving is finished
+17.11 09:20:29 Scanning 352 point from 630
+17.11 09:20:29 Going to coordinates X=-13.164, Y=-36.287
+17.11 09:20:29 Moving is finished
+17.11 09:22:37 Scanning 353 point from 630
+17.11 09:22:37 Going to coordinates X=-13.064, Y=-36.287
+17.11 09:22:37 Moving is finished
+17.11 09:24:45 Scanning 354 point from 630
+17.11 09:24:45 Going to coordinates X=-12.964, Y=-36.287
+17.11 09:24:46 Moving is finished
+17.11 09:26:54 Scanning 355 point from 630
+17.11 09:26:54 Going to coordinates X=-12.864, Y=-36.287
+17.11 09:26:54 Moving is finished
+17.11 09:29:02 Scanning 356 point from 630
+17.11 09:29:02 Going to coordinates X=-12.764, Y=-36.287
+17.11 09:29:03 Moving is finished
+17.11 09:31:11 Scanning 357 point from 630
+17.11 09:31:11 Going to coordinates X=-14.764, Y=-36.187
+17.11 09:31:12 Moving is finished
+17.11 09:33:20 Scanning 358 point from 630
+17.11 09:33:20 Going to coordinates X=-14.664, Y=-36.187
+17.11 09:33:21 Moving is finished
+17.11 09:35:29 Scanning 359 point from 630
+17.11 09:35:29 Going to coordinates X=-14.564, Y=-36.187
+17.11 09:35:29 Moving is finished
+17.11 09:37:37 Scanning 360 point from 630
+17.11 09:37:37 Going to coordinates X=-14.464, Y=-36.187
+17.11 09:37:38 Moving is finished
+17.11 09:39:46 Scanning 361 point from 630
+17.11 09:39:46 Going to coordinates X=-14.364, Y=-36.187
+17.11 09:39:47 Moving is finished
+17.11 09:41:55 Scanning 362 point from 630
+17.11 09:41:55 Going to coordinates X=-14.264, Y=-36.187
+17.11 09:41:55 Moving is finished
+17.11 09:44:04 Scanning 363 point from 630
+17.11 09:44:04 Going to coordinates X=-14.164, Y=-36.187
+17.11 09:44:04 Moving is finished
+17.11 09:46:13 Scanning 364 point from 630
+17.11 09:46:13 Going to coordinates X=-14.064, Y=-36.187
+17.11 09:46:13 Moving is finished
+17.11 09:48:22 Scanning 365 point from 630
+17.11 09:48:22 Going to coordinates X=-13.964, Y=-36.187
+17.11 09:48:22 Moving is finished
+17.11 09:50:31 Scanning 366 point from 630
+17.11 09:50:31 Going to coordinates X=-13.864, Y=-36.187
+17.11 09:50:31 Moving is finished
+17.11 09:52:39 Scanning 367 point from 630
+17.11 09:52:39 Going to coordinates X=-13.764, Y=-36.187
+17.11 09:52:39 Moving is finished
+17.11 09:54:47 Scanning 368 point from 630
+17.11 09:54:47 Going to coordinates X=-13.664, Y=-36.187
+17.11 09:54:48 Moving is finished
+17.11 09:56:56 Scanning 369 point from 630
+17.11 09:56:56 Going to coordinates X=-13.564, Y=-36.187
+17.11 09:56:56 Moving is finished
+17.11 09:59:04 Scanning 370 point from 630
+17.11 09:59:04 Going to coordinates X=-13.464, Y=-36.187
+17.11 09:59:04 Moving is finished
+17.11 10:01:13 Scanning 371 point from 630
+17.11 10:01:13 Going to coordinates X=-13.364, Y=-36.187
+17.11 10:01:13 Moving is finished
+17.11 10:03:21 Scanning 372 point from 630
+17.11 10:03:21 Going to coordinates X=-13.264, Y=-36.187
+17.11 10:03:21 Moving is finished
+17.11 10:05:30 Scanning 373 point from 630
+17.11 10:05:30 Going to coordinates X=-13.164, Y=-36.187
+17.11 10:05:30 Moving is finished
+17.11 10:07:39 Scanning 374 point from 630
+17.11 10:07:39 Going to coordinates X=-13.064, Y=-36.187
+17.11 10:07:39 Moving is finished
+17.11 10:09:47 Scanning 375 point from 630
+17.11 10:09:47 Going to coordinates X=-12.964, Y=-36.187
+17.11 10:09:47 Moving is finished
+17.11 10:11:56 Scanning 376 point from 630
+17.11 10:11:56 Going to coordinates X=-12.864, Y=-36.187
+17.11 10:11:56 Moving is finished
+17.11 10:14:04 Scanning 377 point from 630
+17.11 10:14:04 Going to coordinates X=-12.764, Y=-36.187
+17.11 10:14:04 Moving is finished
+17.11 10:16:13 Scanning 378 point from 630
+17.11 10:16:13 Going to coordinates X=-14.764, Y=-36.087
+17.11 10:16:14 Moving is finished
+17.11 10:18:22 Scanning 379 point from 630
+17.11 10:18:22 Going to coordinates X=-14.664, Y=-36.087
+17.11 10:18:23 Moving is finished
+17.11 10:20:31 Scanning 380 point from 630
+17.11 10:20:31 Going to coordinates X=-14.564, Y=-36.087
+17.11 10:20:31 Moving is finished
+17.11 10:22:40 Scanning 381 point from 630
+17.11 10:22:40 Going to coordinates X=-14.464, Y=-36.087
+17.11 10:22:40 Moving is finished
+17.11 10:24:48 Scanning 382 point from 630
+17.11 10:24:48 Going to coordinates X=-14.364, Y=-36.087
+17.11 10:24:48 Moving is finished
+17.11 10:26:56 Scanning 383 point from 630
+17.11 10:26:56 Going to coordinates X=-14.264, Y=-36.087
+17.11 10:26:56 Moving is finished
+17.11 10:29:05 Scanning 384 point from 630
+17.11 10:29:05 Going to coordinates X=-14.164, Y=-36.087
+17.11 10:29:05 Moving is finished
+17.11 10:31:14 Scanning 385 point from 630
+17.11 10:31:14 Going to coordinates X=-14.064, Y=-36.087
+17.11 10:31:14 Moving is finished
+17.11 10:33:22 Scanning 386 point from 630
+17.11 10:33:22 Going to coordinates X=-13.964, Y=-36.087
+17.11 10:33:22 Moving is finished
+17.11 10:35:31 Scanning 387 point from 630
+17.11 10:35:31 Going to coordinates X=-13.864, Y=-36.087
+17.11 10:35:31 Moving is finished
+17.11 10:37:39 Scanning 388 point from 630
+17.11 10:37:39 Going to coordinates X=-13.764, Y=-36.087
+17.11 10:37:40 Moving is finished
+17.11 10:39:48 Scanning 389 point from 630
+17.11 10:39:48 Going to coordinates X=-13.664, Y=-36.087
+17.11 10:39:49 Moving is finished
+17.11 10:41:57 Scanning 390 point from 630
+17.11 10:41:57 Going to coordinates X=-13.564, Y=-36.087
+17.11 10:41:57 Moving is finished
+17.11 10:44:06 Scanning 391 point from 630
+17.11 10:44:06 Going to coordinates X=-13.464, Y=-36.087
+17.11 10:44:06 Moving is finished
+17.11 10:46:14 Scanning 392 point from 630
+17.11 10:46:14 Going to coordinates X=-13.364, Y=-36.087
+17.11 10:46:15 Moving is finished
+17.11 10:48:23 Scanning 393 point from 630
+17.11 10:48:23 Going to coordinates X=-13.264, Y=-36.087
+17.11 10:48:23 Moving is finished
+17.11 10:50:31 Scanning 394 point from 630
+17.11 10:50:31 Going to coordinates X=-13.164, Y=-36.087
+17.11 10:50:32 Moving is finished
+17.11 10:52:40 Scanning 395 point from 630
+17.11 10:52:40 Going to coordinates X=-13.064, Y=-36.087
+17.11 10:52:40 Moving is finished
+17.11 10:54:49 Scanning 396 point from 630
+17.11 10:54:49 Going to coordinates X=-12.964, Y=-36.087
+17.11 10:54:49 Moving is finished
+17.11 10:56:57 Scanning 397 point from 630
+17.11 10:56:57 Going to coordinates X=-12.864, Y=-36.087
+17.11 10:56:57 Moving is finished
+17.11 10:59:06 Scanning 398 point from 630
+17.11 10:59:06 Going to coordinates X=-12.764, Y=-36.087
+17.11 10:59:06 Moving is finished
+17.11 11:01:15 Scanning 399 point from 630
+17.11 11:01:15 Going to coordinates X=-14.764, Y=-35.987
+17.11 11:01:16 Moving is finished
+17.11 11:03:24 Scanning 400 point from 630
+17.11 11:03:24 Going to coordinates X=-14.664, Y=-35.987
+17.11 11:03:24 Moving is finished
+17.11 11:05:33 Scanning 401 point from 630
+17.11 11:05:33 Going to coordinates X=-14.564, Y=-35.987
+17.11 11:05:33 Moving is finished
+17.11 11:07:41 Scanning 402 point from 630
+17.11 11:07:41 Going to coordinates X=-14.464, Y=-35.987
+17.11 11:07:41 Moving is finished
+17.11 11:09:49 Scanning 403 point from 630
+17.11 11:09:49 Going to coordinates X=-14.364, Y=-35.987
+17.11 11:09:50 Moving is finished
+17.11 11:11:58 Scanning 404 point from 630
+17.11 11:11:58 Going to coordinates X=-14.264, Y=-35.987
+17.11 11:11:59 Moving is finished
+17.11 11:14:07 Scanning 405 point from 630
+17.11 11:14:07 Going to coordinates X=-14.164, Y=-35.987
+17.11 11:14:07 Moving is finished
+17.11 11:16:15 Scanning 406 point from 630
+17.11 11:16:15 Going to coordinates X=-14.064, Y=-35.987
+17.11 11:16:16 Moving is finished
+17.11 11:18:24 Scanning 407 point from 630
+17.11 11:18:24 Going to coordinates X=-13.964, Y=-35.987
+17.11 11:18:24 Moving is finished
+17.11 11:20:33 Scanning 408 point from 630
+17.11 11:20:33 Going to coordinates X=-13.864, Y=-35.987
+17.11 11:20:34 Moving is finished
+17.11 11:22:42 Scanning 409 point from 630
+17.11 11:22:42 Going to coordinates X=-13.764, Y=-35.987
+17.11 11:22:42 Moving is finished
+17.11 11:24:50 Scanning 410 point from 630
+17.11 11:24:50 Going to coordinates X=-13.664, Y=-35.987
+17.11 11:24:51 Moving is finished
+17.11 11:26:59 Scanning 411 point from 630
+17.11 11:26:59 Going to coordinates X=-13.564, Y=-35.987
+17.11 11:26:59 Moving is finished
+17.11 11:29:07 Scanning 412 point from 630
+17.11 11:29:07 Going to coordinates X=-13.464, Y=-35.987
+17.11 11:29:08 Moving is finished
+17.11 11:31:16 Scanning 413 point from 630
+17.11 11:31:16 Going to coordinates X=-13.364, Y=-35.987
+17.11 11:31:16 Moving is finished
+17.11 11:33:24 Scanning 414 point from 630
+17.11 11:33:24 Going to coordinates X=-13.264, Y=-35.987
+17.11 11:33:24 Moving is finished
+17.11 11:35:32 Scanning 415 point from 630
+17.11 11:35:32 Going to coordinates X=-13.164, Y=-35.987
+17.11 11:35:33 Moving is finished
+17.11 11:37:41 Scanning 416 point from 630
+17.11 11:37:41 Going to coordinates X=-13.064, Y=-35.987
+17.11 11:37:41 Moving is finished
+17.11 11:39:49 Scanning 417 point from 630
+17.11 11:39:49 Going to coordinates X=-12.964, Y=-35.987
+17.11 11:39:49 Moving is finished
+17.11 11:41:58 Scanning 418 point from 630
+17.11 11:41:58 Going to coordinates X=-12.864, Y=-35.987
+17.11 11:41:58 Moving is finished
+17.11 11:44:07 Scanning 419 point from 630
+17.11 11:44:07 Going to coordinates X=-12.764, Y=-35.987
+17.11 11:44:07 Moving is finished
+17.11 11:46:16 Scanning 420 point from 630
+17.11 11:46:16 Going to coordinates X=-14.764, Y=-35.887
+17.11 11:46:17 Moving is finished
+17.11 11:48:26 Scanning 421 point from 630
+17.11 11:48:26 Going to coordinates X=-14.664, Y=-35.887
+17.11 11:48:26 Moving is finished
+17.11 11:50:34 Scanning 422 point from 630
+17.11 11:50:34 Going to coordinates X=-14.564, Y=-35.887
+17.11 11:50:35 Moving is finished
+17.11 11:52:43 Scanning 423 point from 630
+17.11 11:52:43 Going to coordinates X=-14.464, Y=-35.887
+17.11 11:52:43 Moving is finished
+17.11 11:54:51 Scanning 424 point from 630
+17.11 11:54:51 Going to coordinates X=-14.364, Y=-35.887
+17.11 11:54:51 Moving is finished
+17.11 11:57:00 Scanning 425 point from 630
+17.11 11:57:00 Going to coordinates X=-14.264, Y=-35.887
+17.11 11:57:00 Moving is finished
+17.11 11:59:08 Scanning 426 point from 630
+17.11 11:59:08 Going to coordinates X=-14.164, Y=-35.887
+17.11 11:59:08 Moving is finished
+17.11 12:01:17 Scanning 427 point from 630
+17.11 12:01:17 Going to coordinates X=-14.064, Y=-35.887
+17.11 12:01:17 Moving is finished
+17.11 12:03:25 Scanning 428 point from 630
+17.11 12:03:25 Going to coordinates X=-13.964, Y=-35.887
+17.11 12:03:26 Moving is finished
+17.11 12:05:34 Scanning 429 point from 630
+17.11 12:05:34 Going to coordinates X=-13.864, Y=-35.887
+17.11 12:05:35 Moving is finished
+17.11 12:07:43 Scanning 430 point from 630
+17.11 12:07:43 Going to coordinates X=-13.764, Y=-35.887
+17.11 12:07:43 Moving is finished
+17.11 12:09:52 Scanning 431 point from 630
+17.11 12:09:52 Going to coordinates X=-13.664, Y=-35.887
+17.11 12:09:52 Moving is finished
+17.11 12:12:00 Scanning 432 point from 630
+17.11 12:12:00 Going to coordinates X=-13.564, Y=-35.887
+17.11 12:12:00 Moving is finished
+17.11 12:14:08 Scanning 433 point from 630
+17.11 12:14:08 Going to coordinates X=-13.464, Y=-35.887
+17.11 12:14:09 Moving is finished
+17.11 12:16:17 Scanning 434 point from 630
+17.11 12:16:17 Going to coordinates X=-13.364, Y=-35.887
+17.11 12:16:17 Moving is finished
+17.11 12:18:25 Scanning 435 point from 630
+17.11 12:18:25 Going to coordinates X=-13.264, Y=-35.887
+17.11 12:18:26 Moving is finished
+17.11 12:20:34 Scanning 436 point from 630
+17.11 12:20:34 Going to coordinates X=-13.164, Y=-35.887
+17.11 12:20:34 Moving is finished
+17.11 12:22:42 Scanning 437 point from 630
+17.11 12:22:42 Going to coordinates X=-13.064, Y=-35.887
+17.11 12:22:43 Moving is finished
+17.11 12:24:51 Scanning 438 point from 630
+17.11 12:24:51 Going to coordinates X=-12.964, Y=-35.887
+17.11 12:24:51 Moving is finished
+17.11 12:26:59 Scanning 439 point from 630
+17.11 12:26:59 Going to coordinates X=-12.864, Y=-35.887
+17.11 12:26:59 Moving is finished
+17.11 12:29:07 Scanning 440 point from 630
+17.11 12:29:07 Going to coordinates X=-12.764, Y=-35.887
+17.11 12:29:08 Moving is finished
+17.11 12:31:16 Scanning 441 point from 630
+17.11 12:31:16 Going to coordinates X=-14.764, Y=-35.787
+17.11 12:31:17 Moving is finished
+17.11 12:33:24 Scanning 442 point from 630
+17.11 12:33:24 Going to coordinates X=-14.664, Y=-35.787
+17.11 12:33:25 Moving is finished
+17.11 12:35:34 Scanning 443 point from 630
+17.11 12:35:34 Going to coordinates X=-14.564, Y=-35.787
+17.11 12:35:34 Moving is finished
+17.11 12:37:42 Scanning 444 point from 630
+17.11 12:37:42 Going to coordinates X=-14.464, Y=-35.787
+17.11 12:37:42 Moving is finished
+17.11 12:39:50 Scanning 445 point from 630
+17.11 12:39:50 Going to coordinates X=-14.364, Y=-35.787
+17.11 12:39:51 Moving is finished
+17.11 12:41:59 Scanning 446 point from 630
+17.11 12:41:59 Going to coordinates X=-14.264, Y=-35.787
+17.11 12:41:59 Moving is finished
+17.11 12:44:08 Scanning 447 point from 630
+17.11 12:44:08 Going to coordinates X=-14.164, Y=-35.787
+17.11 12:44:08 Moving is finished
+17.11 12:46:16 Scanning 448 point from 630
+17.11 12:46:16 Going to coordinates X=-14.064, Y=-35.787
+17.11 12:46:16 Moving is finished
+17.11 12:48:24 Scanning 449 point from 630
+17.11 12:48:24 Going to coordinates X=-13.964, Y=-35.787
+17.11 12:48:24 Moving is finished
+17.11 12:50:33 Scanning 450 point from 630
+17.11 12:50:33 Going to coordinates X=-13.864, Y=-35.787
+17.11 12:50:33 Moving is finished
+17.11 12:52:42 Scanning 451 point from 630
+17.11 12:52:42 Going to coordinates X=-13.764, Y=-35.787
+17.11 12:52:42 Moving is finished
+17.11 12:54:50 Scanning 452 point from 630
+17.11 12:54:50 Going to coordinates X=-13.664, Y=-35.787
+17.11 12:54:50 Moving is finished
+17.11 12:56:58 Scanning 453 point from 630
+17.11 12:56:58 Going to coordinates X=-13.564, Y=-35.787
+17.11 12:56:58 Moving is finished
+17.11 12:59:07 Scanning 454 point from 630
+17.11 12:59:07 Going to coordinates X=-13.464, Y=-35.787
+17.11 12:59:08 Moving is finished
+17.11 13:01:16 Scanning 455 point from 630
+17.11 13:01:16 Going to coordinates X=-13.364, Y=-35.787
+17.11 13:01:16 Moving is finished
+17.11 13:03:24 Scanning 456 point from 630
+17.11 13:03:24 Going to coordinates X=-13.264, Y=-35.787
+17.11 13:03:25 Moving is finished
+17.11 13:03:53 Stopped!
+17.11 13:03:57 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))

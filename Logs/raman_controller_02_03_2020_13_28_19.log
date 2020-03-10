@@ -1,0 +1,1424 @@
+02.03 13:28:24 Initializing grbl...
+02.03 13:28:25 Got the response: b''
+02.03 13:31:35 Row 0: 02.03 13:31:35 Map: x1: -6.63, y1: -38.0, x2: -8.212, y2: -39.662, xres: 0.100, yres: 0.100, fname: T+M3 (11)-3
+02.03 13:31:35 Scanning 0 point from 306
+02.03 13:31:35 Going to coordinates X=-8.212, Y=-39.662
+02.03 13:31:35 Moving is finished
+02.03 13:33:20 Scanning 1 point from 306
+02.03 13:33:20 Going to coordinates X=-8.112, Y=-39.662
+02.03 13:33:21 Moving is finished
+02.03 13:35:05 Scanning 2 point from 306
+02.03 13:35:05 Going to coordinates X=-8.012, Y=-39.662
+02.03 13:35:05 Moving is finished
+02.03 13:36:51 Scanning 3 point from 306
+02.03 13:36:51 Going to coordinates X=-7.912, Y=-39.662
+02.03 13:36:51 Moving is finished
+02.03 13:38:36 Scanning 4 point from 306
+02.03 13:38:36 Going to coordinates X=-7.812, Y=-39.662
+02.03 13:38:36 Moving is finished
+02.03 13:40:21 Scanning 5 point from 306
+02.03 13:40:21 Going to coordinates X=-7.712, Y=-39.662
+02.03 13:40:21 Moving is finished
+02.03 13:42:06 Scanning 6 point from 306
+02.03 13:42:06 Going to coordinates X=-7.612, Y=-39.662
+02.03 13:42:06 Moving is finished
+02.03 13:43:50 Scanning 7 point from 306
+02.03 13:43:50 Going to coordinates X=-7.512, Y=-39.662
+02.03 13:43:51 Moving is finished
+02.03 13:45:36 Scanning 8 point from 306
+02.03 13:45:36 Going to coordinates X=-7.412, Y=-39.662
+02.03 13:45:36 Moving is finished
+02.03 13:47:21 Scanning 9 point from 306
+02.03 13:47:21 Going to coordinates X=-7.312, Y=-39.662
+02.03 13:47:22 Moving is finished
+02.03 13:49:06 Scanning 10 point from 306
+02.03 13:49:06 Going to coordinates X=-7.212, Y=-39.662
+02.03 13:49:07 Moving is finished
+02.03 13:50:51 Scanning 11 point from 306
+02.03 13:50:51 Going to coordinates X=-7.112, Y=-39.662
+02.03 13:50:52 Moving is finished
+02.03 13:52:36 Scanning 12 point from 306
+02.03 13:52:36 Going to coordinates X=-7.012, Y=-39.662
+02.03 13:52:36 Moving is finished
+02.03 13:54:21 Scanning 13 point from 306
+02.03 13:54:21 Going to coordinates X=-6.912, Y=-39.662
+02.03 13:54:21 Moving is finished
+02.03 13:56:07 Scanning 14 point from 306
+02.03 13:56:07 Going to coordinates X=-6.812, Y=-39.662
+02.03 13:56:07 Moving is finished
+02.03 13:57:52 Scanning 15 point from 306
+02.03 13:57:52 Going to coordinates X=-6.712, Y=-39.662
+02.03 13:57:52 Moving is finished
+02.03 13:59:36 Scanning 16 point from 306
+02.03 13:59:36 Going to coordinates X=-6.612, Y=-39.662
+02.03 13:59:37 Moving is finished
+02.03 14:01:21 Scanning 17 point from 306
+02.03 14:01:21 Going to coordinates X=-8.212, Y=-39.562
+02.03 14:01:22 Moving is finished
+02.03 14:03:07 Scanning 18 point from 306
+02.03 14:03:07 Going to coordinates X=-8.112, Y=-39.562
+02.03 14:03:07 Moving is finished
+02.03 14:04:52 Scanning 19 point from 306
+02.03 14:04:52 Going to coordinates X=-8.012, Y=-39.562
+02.03 14:04:53 Moving is finished
+02.03 14:06:38 Scanning 20 point from 306
+02.03 14:06:38 Going to coordinates X=-7.912, Y=-39.562
+02.03 14:06:38 Moving is finished
+02.03 14:08:23 Scanning 21 point from 306
+02.03 14:08:23 Going to coordinates X=-7.812, Y=-39.562
+02.03 14:08:23 Moving is finished
+02.03 14:10:08 Scanning 22 point from 306
+02.03 14:10:08 Going to coordinates X=-7.712, Y=-39.562
+02.03 14:10:08 Moving is finished
+02.03 14:11:53 Scanning 23 point from 306
+02.03 14:11:53 Going to coordinates X=-7.612, Y=-39.562
+02.03 14:11:53 Moving is finished
+02.03 14:13:37 Scanning 24 point from 306
+02.03 14:13:37 Going to coordinates X=-7.512, Y=-39.562
+02.03 14:13:38 Moving is finished
+02.03 14:15:22 Scanning 25 point from 306
+02.03 14:15:22 Going to coordinates X=-7.412, Y=-39.562
+02.03 14:15:23 Moving is finished
+02.03 14:17:07 Scanning 26 point from 306
+02.03 14:17:07 Going to coordinates X=-7.312, Y=-39.562
+02.03 14:17:07 Moving is finished
+02.03 14:18:52 Scanning 27 point from 306
+02.03 14:18:52 Going to coordinates X=-7.212, Y=-39.562
+02.03 14:18:52 Moving is finished
+02.03 14:20:36 Scanning 28 point from 306
+02.03 14:20:36 Going to coordinates X=-7.112, Y=-39.562
+02.03 14:20:37 Moving is finished
+02.03 14:22:22 Scanning 29 point from 306
+02.03 14:22:22 Going to coordinates X=-7.012, Y=-39.562
+02.03 14:22:22 Moving is finished
+02.03 14:24:07 Scanning 30 point from 306
+02.03 14:24:07 Going to coordinates X=-6.912, Y=-39.562
+02.03 14:24:07 Moving is finished
+02.03 14:25:51 Scanning 31 point from 306
+02.03 14:25:51 Going to coordinates X=-6.812, Y=-39.562
+02.03 14:25:52 Moving is finished
+02.03 14:27:36 Scanning 32 point from 306
+02.03 14:27:36 Going to coordinates X=-6.712, Y=-39.562
+02.03 14:27:36 Moving is finished
+
+02.03 14:27:39 Scanning 33 point from 306
+02.03 14:27:39 Going to coordinates X=-6.612, Y=-39.562
+02.03 14:27:39 Moving is finished
+02.03 14:29:24 Scanning 34 point from 306
+02.03 14:29:24 Going to coordinates X=-8.212, Y=-39.462
+02.03 14:29:25 Moving is finished
+02.03 14:31:10 Scanning 35 point from 306
+02.03 14:31:10 Going to coordinates X=-8.112, Y=-39.462
+02.03 14:31:11 Moving is finished
+02.03 14:32:55 Scanning 36 point from 306
+02.03 14:32:55 Going to coordinates X=-8.012, Y=-39.462
+02.03 14:32:55 Moving is finished
+02.03 14:34:41 Scanning 37 point from 306
+02.03 14:34:41 Going to coordinates X=-7.912, Y=-39.462
+02.03 14:34:41 Moving is finished
+02.03 14:36:26 Scanning 38 point from 306
+02.03 14:36:26 Going to coordinates X=-7.812, Y=-39.462
+02.03 14:36:26 Moving is finished
+02.03 14:38:11 Scanning 39 point from 306
+02.03 14:38:11 Going to coordinates X=-7.712, Y=-39.462
+02.03 14:38:11 Moving is finished
+02.03 14:39:56 Scanning 40 point from 306
+02.03 14:39:56 Going to coordinates X=-7.612, Y=-39.462
+02.03 14:39:56 Moving is finished
+02.03 14:41:41 Scanning 41 point from 306
+02.03 14:41:41 Going to coordinates X=-7.512, Y=-39.462
+02.03 14:41:41 Moving is finished
+02.03 14:43:27 Scanning 42 point from 306
+02.03 14:43:27 Going to coordinates X=-7.412, Y=-39.462
+02.03 14:43:27 Moving is finished
+02.03 14:45:12 Scanning 43 point from 306
+02.03 14:45:12 Going to coordinates X=-7.312, Y=-39.462
+02.03 14:45:13 Moving is finished
+02.03 14:46:57 Scanning 44 point from 306
+02.03 14:46:57 Going to coordinates X=-7.212, Y=-39.462
+02.03 14:46:57 Moving is finished
+02.03 14:48:43 Scanning 45 point from 306
+02.03 14:48:43 Going to coordinates X=-7.112, Y=-39.462
+02.03 14:48:43 Moving is finished
+02.03 14:50:28 Scanning 46 point from 306
+02.03 14:50:28 Going to coordinates X=-7.012, Y=-39.462
+02.03 14:50:28 Moving is finished
+02.03 14:52:12 Scanning 47 point from 306
+02.03 14:52:12 Going to coordinates X=-6.912, Y=-39.462
+02.03 14:52:13 Moving is finished
+02.03 14:53:57 Scanning 48 point from 306
+02.03 14:53:57 Going to coordinates X=-6.812, Y=-39.462
+02.03 14:53:58 Moving is finished
+02.03 14:55:42 Scanning 49 point from 306
+02.03 14:55:42 Going to coordinates X=-6.712, Y=-39.462
+02.03 14:55:43 Moving is finished
+02.03 14:57:27 Scanning 50 point from 306
+02.03 14:57:27 Going to coordinates X=-6.612, Y=-39.462
+02.03 14:57:27 Moving is finished
+02.03 14:59:13 Scanning 51 point from 306
+02.03 14:59:13 Going to coordinates X=-8.212, Y=-39.362
+02.03 14:59:14 Moving is finished
+02.03 15:00:59 Scanning 52 point from 306
+02.03 15:00:59 Going to coordinates X=-8.112, Y=-39.362
+02.03 15:00:59 Moving is finished
+02.03 15:02:44 Scanning 53 point from 306
+02.03 15:02:44 Going to coordinates X=-8.012, Y=-39.362
+02.03 15:02:44 Moving is finished
+02.03 15:04:29 Scanning 54 point from 306
+02.03 15:04:29 Going to coordinates X=-7.912, Y=-39.362
+02.03 15:04:29 Moving is finished
+02.03 15:06:14 Scanning 55 point from 306
+02.03 15:06:14 Going to coordinates X=-7.812, Y=-39.362
+02.03 15:06:15 Moving is finished
+02.03 15:07:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:07:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:07:45 Scanning 56 point from 306
+02.03 15:07:45 Going to coordinates X=-7.712, Y=-39.362
+02.03 15:07:45 Moving is finished
+02.03 15:07:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:07:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:07:58 Scanning 57 point from 306
+02.03 15:07:58 Going to coordinates X=-7.612, Y=-39.362
+02.03 15:07:58 Moving is finished
+02.03 15:08:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:10 Scanning 58 point from 306
+02.03 15:08:10 Going to coordinates X=-7.512, Y=-39.362
+02.03 15:08:10 Moving is finished
+02.03 15:08:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:22 Scanning 59 point from 306
+02.03 15:08:22 Going to coordinates X=-7.412, Y=-39.362
+02.03 15:08:22 Moving is finished
+02.03 15:08:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:34 Scanning 60 point from 306
+02.03 15:08:34 Going to coordinates X=-7.312, Y=-39.362
+02.03 15:08:34 Moving is finished
+02.03 15:08:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:46 Scanning 61 point from 306
+02.03 15:08:46 Going to coordinates X=-7.212, Y=-39.362
+02.03 15:08:46 Moving is finished
+02.03 15:08:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:08:58 Scanning 62 point from 306
+02.03 15:08:58 Going to coordinates X=-7.112, Y=-39.362
+02.03 15:08:58 Moving is finished
+02.03 15:09:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:10 Scanning 63 point from 306
+02.03 15:09:10 Going to coordinates X=-7.012, Y=-39.362
+02.03 15:09:11 Moving is finished
+02.03 15:09:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:23 Scanning 64 point from 306
+02.03 15:09:23 Going to coordinates X=-6.912, Y=-39.362
+02.03 15:09:23 Moving is finished
+02.03 15:09:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:35 Scanning 65 point from 306
+02.03 15:09:35 Going to coordinates X=-6.812, Y=-39.362
+02.03 15:09:35 Moving is finished
+02.03 15:09:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:47 Scanning 66 point from 306
+02.03 15:09:47 Going to coordinates X=-6.712, Y=-39.362
+02.03 15:09:48 Moving is finished
+02.03 15:09:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:09:59 Scanning 67 point from 306
+02.03 15:09:59 Going to coordinates X=-6.612, Y=-39.362
+02.03 15:10:00 Moving is finished
+02.03 15:10:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:11 Scanning 68 point from 306
+02.03 15:10:11 Going to coordinates X=-8.212, Y=-39.262
+02.03 15:10:12 Moving is finished
+02.03 15:10:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:24 Scanning 69 point from 306
+02.03 15:10:24 Going to coordinates X=-8.112, Y=-39.262
+02.03 15:10:24 Moving is finished
+02.03 15:10:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:36 Scanning 70 point from 306
+02.03 15:10:36 Going to coordinates X=-8.012, Y=-39.262
+02.03 15:10:37 Moving is finished
+02.03 15:10:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:10:48 Scanning 71 point from 306
+02.03 15:10:48 Going to coordinates X=-7.912, Y=-39.262
+02.03 15:10:49 Moving is finished
+02.03 15:10:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:01 Scanning 72 point from 306
+02.03 15:11:01 Going to coordinates X=-7.812, Y=-39.262
+02.03 15:11:01 Moving is finished
+02.03 15:11:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:13 Scanning 73 point from 306
+02.03 15:11:13 Going to coordinates X=-7.712, Y=-39.262
+02.03 15:11:13 Moving is finished
+02.03 15:11:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:25 Scanning 74 point from 306
+02.03 15:11:25 Going to coordinates X=-7.612, Y=-39.262
+02.03 15:11:25 Moving is finished
+02.03 15:11:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:37 Scanning 75 point from 306
+02.03 15:11:37 Going to coordinates X=-7.512, Y=-39.262
+02.03 15:11:37 Moving is finished
+02.03 15:11:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:11:49 Scanning 76 point from 306
+02.03 15:11:49 Going to coordinates X=-7.412, Y=-39.262
+02.03 15:11:49 Moving is finished
+02.03 15:11:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:01 Scanning 77 point from 306
+02.03 15:12:01 Going to coordinates X=-7.312, Y=-39.262
+02.03 15:12:01 Moving is finished
+02.03 15:12:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:13 Scanning 78 point from 306
+02.03 15:12:13 Going to coordinates X=-7.212, Y=-39.262
+02.03 15:12:14 Moving is finished
+02.03 15:12:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:25 Scanning 79 point from 306
+02.03 15:12:25 Going to coordinates X=-7.112, Y=-39.262
+02.03 15:12:26 Moving is finished
+02.03 15:12:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:38 Scanning 80 point from 306
+02.03 15:12:38 Going to coordinates X=-7.012, Y=-39.262
+02.03 15:12:38 Moving is finished
+02.03 15:12:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:12:50 Scanning 81 point from 306
+02.03 15:12:50 Going to coordinates X=-6.912, Y=-39.262
+02.03 15:12:50 Moving is finished
+02.03 15:12:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:02 Scanning 82 point from 306
+02.03 15:13:02 Going to coordinates X=-6.812, Y=-39.262
+02.03 15:13:02 Moving is finished
+02.03 15:13:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:14 Scanning 83 point from 306
+02.03 15:13:14 Going to coordinates X=-6.712, Y=-39.262
+02.03 15:13:14 Moving is finished
+02.03 15:13:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:26 Scanning 84 point from 306
+02.03 15:13:26 Going to coordinates X=-6.612, Y=-39.262
+02.03 15:13:26 Moving is finished
+02.03 15:13:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:38 Scanning 85 point from 306
+02.03 15:13:38 Going to coordinates X=-8.212, Y=-39.162
+02.03 15:13:39 Moving is finished
+02.03 15:13:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:13:51 Scanning 86 point from 306
+02.03 15:13:51 Going to coordinates X=-8.112, Y=-39.162
+02.03 15:13:51 Moving is finished
+02.03 15:13:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:03 Scanning 87 point from 306
+02.03 15:14:03 Going to coordinates X=-8.012, Y=-39.162
+02.03 15:14:03 Moving is finished
+02.03 15:14:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:15 Scanning 88 point from 306
+02.03 15:14:15 Going to coordinates X=-7.912, Y=-39.162
+02.03 15:14:15 Moving is finished
+02.03 15:14:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:27 Scanning 89 point from 306
+02.03 15:14:27 Going to coordinates X=-7.812, Y=-39.162
+02.03 15:14:28 Moving is finished
+02.03 15:14:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:39 Scanning 90 point from 306
+02.03 15:14:39 Going to coordinates X=-7.712, Y=-39.162
+02.03 15:14:40 Moving is finished
+02.03 15:14:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:14:51 Scanning 91 point from 306
+02.03 15:14:51 Going to coordinates X=-7.612, Y=-39.162
+02.03 15:14:52 Moving is finished
+02.03 15:14:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:04 Scanning 92 point from 306
+02.03 15:15:04 Going to coordinates X=-7.512, Y=-39.162
+02.03 15:15:04 Moving is finished
+02.03 15:15:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:16 Scanning 93 point from 306
+02.03 15:15:16 Going to coordinates X=-7.412, Y=-39.162
+02.03 15:15:16 Moving is finished
+02.03 15:15:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:28 Scanning 94 point from 306
+02.03 15:15:28 Going to coordinates X=-7.312, Y=-39.162
+02.03 15:15:28 Moving is finished
+02.03 15:15:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:40 Scanning 95 point from 306
+02.03 15:15:40 Going to coordinates X=-7.212, Y=-39.162
+02.03 15:15:40 Moving is finished
+02.03 15:15:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:15:52 Scanning 96 point from 306
+02.03 15:15:52 Going to coordinates X=-7.112, Y=-39.162
+02.03 15:15:53 Moving is finished
+02.03 15:15:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:04 Scanning 97 point from 306
+02.03 15:16:04 Going to coordinates X=-7.012, Y=-39.162
+02.03 15:16:05 Moving is finished
+02.03 15:16:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:17 Scanning 98 point from 306
+02.03 15:16:17 Going to coordinates X=-6.912, Y=-39.162
+02.03 15:16:17 Moving is finished
+02.03 15:16:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:29 Scanning 99 point from 306
+02.03 15:16:29 Going to coordinates X=-6.812, Y=-39.162
+02.03 15:16:29 Moving is finished
+02.03 15:16:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:41 Scanning 100 point from 306
+02.03 15:16:41 Going to coordinates X=-6.712, Y=-39.162
+02.03 15:16:41 Moving is finished
+02.03 15:16:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:16:53 Scanning 101 point from 306
+02.03 15:16:53 Going to coordinates X=-6.612, Y=-39.162
+02.03 15:16:53 Moving is finished
+02.03 15:16:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:05 Scanning 102 point from 306
+02.03 15:17:05 Going to coordinates X=-8.212, Y=-39.062
+02.03 15:17:06 Moving is finished
+02.03 15:17:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:18 Scanning 103 point from 306
+02.03 15:17:18 Going to coordinates X=-8.112, Y=-39.062
+02.03 15:17:18 Moving is finished
+02.03 15:17:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:30 Scanning 104 point from 306
+02.03 15:17:30 Going to coordinates X=-8.012, Y=-39.062
+02.03 15:17:30 Moving is finished
+02.03 15:17:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:42 Scanning 105 point from 306
+02.03 15:17:42 Going to coordinates X=-7.912, Y=-39.062
+02.03 15:17:42 Moving is finished
+02.03 15:17:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:17:54 Scanning 106 point from 306
+02.03 15:17:54 Going to coordinates X=-7.812, Y=-39.062
+02.03 15:17:54 Moving is finished
+02.03 15:18:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:06 Scanning 107 point from 306
+02.03 15:18:06 Going to coordinates X=-7.712, Y=-39.062
+02.03 15:18:06 Moving is finished
+02.03 15:18:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:18 Scanning 108 point from 306
+02.03 15:18:18 Going to coordinates X=-7.612, Y=-39.062
+02.03 15:18:19 Moving is finished
+02.03 15:18:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:30 Scanning 109 point from 306
+02.03 15:18:30 Going to coordinates X=-7.512, Y=-39.062
+02.03 15:18:31 Moving is finished
+02.03 15:18:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:43 Scanning 110 point from 306
+02.03 15:18:43 Going to coordinates X=-7.412, Y=-39.062
+02.03 15:18:43 Moving is finished
+02.03 15:18:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:18:55 Scanning 111 point from 306
+02.03 15:18:55 Going to coordinates X=-7.312, Y=-39.062
+02.03 15:18:55 Moving is finished
+02.03 15:19:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:07 Scanning 112 point from 306
+02.03 15:19:07 Going to coordinates X=-7.212, Y=-39.062
+02.03 15:19:07 Moving is finished
+02.03 15:19:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:19 Scanning 113 point from 306
+02.03 15:19:19 Going to coordinates X=-7.112, Y=-39.062
+02.03 15:19:19 Moving is finished
+02.03 15:19:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:31 Scanning 114 point from 306
+02.03 15:19:31 Going to coordinates X=-7.012, Y=-39.062
+02.03 15:19:32 Moving is finished
+02.03 15:19:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:43 Scanning 115 point from 306
+02.03 15:19:43 Going to coordinates X=-6.912, Y=-39.062
+02.03 15:19:44 Moving is finished
+02.03 15:19:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:19:56 Scanning 116 point from 306
+02.03 15:19:56 Going to coordinates X=-6.812, Y=-39.062
+02.03 15:19:56 Moving is finished
+02.03 15:20:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:08 Scanning 117 point from 306
+02.03 15:20:08 Going to coordinates X=-6.712, Y=-39.062
+02.03 15:20:08 Moving is finished
+02.03 15:20:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:20 Scanning 118 point from 306
+02.03 15:20:20 Going to coordinates X=-6.612, Y=-39.062
+02.03 15:20:20 Moving is finished
+02.03 15:20:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:32 Scanning 119 point from 306
+02.03 15:20:32 Going to coordinates X=-8.212, Y=-38.962
+02.03 15:20:33 Moving is finished
+02.03 15:20:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:45 Scanning 120 point from 306
+02.03 15:20:45 Going to coordinates X=-8.112, Y=-38.962
+02.03 15:20:45 Moving is finished
+02.03 15:20:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:20:57 Scanning 121 point from 306
+02.03 15:20:57 Going to coordinates X=-8.012, Y=-38.962
+02.03 15:20:57 Moving is finished
+02.03 15:21:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:09 Scanning 122 point from 306
+02.03 15:21:09 Going to coordinates X=-7.912, Y=-38.962
+02.03 15:21:10 Moving is finished
+02.03 15:21:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:21 Scanning 123 point from 306
+02.03 15:21:21 Going to coordinates X=-7.812, Y=-38.962
+02.03 15:21:22 Moving is finished
+02.03 15:21:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:34 Scanning 124 point from 306
+02.03 15:21:34 Going to coordinates X=-7.712, Y=-38.962
+02.03 15:21:34 Moving is finished
+02.03 15:21:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:46 Scanning 125 point from 306
+02.03 15:21:46 Going to coordinates X=-7.612, Y=-38.962
+02.03 15:21:46 Moving is finished
+02.03 15:21:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:21:58 Scanning 126 point from 306
+02.03 15:21:58 Going to coordinates X=-7.512, Y=-38.962
+02.03 15:21:58 Moving is finished
+02.03 15:22:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:10 Scanning 127 point from 306
+02.03 15:22:10 Going to coordinates X=-7.412, Y=-38.962
+02.03 15:22:10 Moving is finished
+02.03 15:22:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:22 Scanning 128 point from 306
+02.03 15:22:22 Going to coordinates X=-7.312, Y=-38.962
+02.03 15:22:23 Moving is finished
+02.03 15:22:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:34 Scanning 129 point from 306
+02.03 15:22:34 Going to coordinates X=-7.212, Y=-38.962
+02.03 15:22:35 Moving is finished
+02.03 15:22:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:47 Scanning 130 point from 306
+02.03 15:22:47 Going to coordinates X=-7.112, Y=-38.962
+02.03 15:22:47 Moving is finished
+02.03 15:22:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:22:59 Scanning 131 point from 306
+02.03 15:22:59 Going to coordinates X=-7.012, Y=-38.962
+02.03 15:22:59 Moving is finished
+02.03 15:23:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:11 Scanning 132 point from 306
+02.03 15:23:11 Going to coordinates X=-6.912, Y=-38.962
+02.03 15:23:11 Moving is finished
+02.03 15:23:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:23 Scanning 133 point from 306
+02.03 15:23:23 Going to coordinates X=-6.812, Y=-38.962
+02.03 15:23:23 Moving is finished
+02.03 15:23:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:35 Scanning 134 point from 306
+02.03 15:23:35 Going to coordinates X=-6.712, Y=-38.962
+02.03 15:23:35 Moving is finished
+02.03 15:23:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:47 Scanning 135 point from 306
+02.03 15:23:47 Going to coordinates X=-6.612, Y=-38.962
+02.03 15:23:47 Moving is finished
+02.03 15:23:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:23:59 Scanning 136 point from 306
+02.03 15:23:59 Going to coordinates X=-8.212, Y=-38.862
+02.03 15:24:00 Moving is finished
+02.03 15:24:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:12 Scanning 137 point from 306
+02.03 15:24:12 Going to coordinates X=-8.112, Y=-38.862
+02.03 15:24:12 Moving is finished
+02.03 15:24:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:24 Scanning 138 point from 306
+02.03 15:24:24 Going to coordinates X=-8.012, Y=-38.862
+02.03 15:24:24 Moving is finished
+02.03 15:24:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:36 Scanning 139 point from 306
+02.03 15:24:36 Going to coordinates X=-7.912, Y=-38.862
+02.03 15:24:37 Moving is finished
+02.03 15:24:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:24:49 Scanning 140 point from 306
+02.03 15:24:49 Going to coordinates X=-7.812, Y=-38.862
+02.03 15:24:49 Moving is finished
+02.03 15:24:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:01 Scanning 141 point from 306
+02.03 15:25:01 Going to coordinates X=-7.712, Y=-38.862
+02.03 15:25:01 Moving is finished
+02.03 15:25:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:13 Scanning 142 point from 306
+02.03 15:25:13 Going to coordinates X=-7.612, Y=-38.862
+02.03 15:25:13 Moving is finished
+02.03 15:25:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:25 Scanning 143 point from 306
+02.03 15:25:25 Going to coordinates X=-7.512, Y=-38.862
+02.03 15:25:25 Moving is finished
+02.03 15:25:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:37 Scanning 144 point from 306
+02.03 15:25:37 Going to coordinates X=-7.412, Y=-38.862
+02.03 15:25:37 Moving is finished
+02.03 15:25:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:25:49 Scanning 145 point from 306
+02.03 15:25:49 Going to coordinates X=-7.312, Y=-38.862
+02.03 15:25:49 Moving is finished
+02.03 15:25:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:01 Scanning 146 point from 306
+02.03 15:26:01 Going to coordinates X=-7.212, Y=-38.862
+02.03 15:26:02 Moving is finished
+02.03 15:26:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:13 Scanning 147 point from 306
+02.03 15:26:13 Going to coordinates X=-7.112, Y=-38.862
+02.03 15:26:14 Moving is finished
+02.03 15:26:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:26 Scanning 148 point from 306
+02.03 15:26:26 Going to coordinates X=-7.012, Y=-38.862
+02.03 15:26:26 Moving is finished
+02.03 15:26:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:38 Scanning 149 point from 306
+02.03 15:26:38 Going to coordinates X=-6.912, Y=-38.862
+02.03 15:26:38 Moving is finished
+02.03 15:26:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:26:50 Scanning 150 point from 306
+02.03 15:26:50 Going to coordinates X=-6.812, Y=-38.862
+02.03 15:26:50 Moving is finished
+02.03 15:26:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:02 Scanning 151 point from 306
+02.03 15:27:02 Going to coordinates X=-6.712, Y=-38.862
+02.03 15:27:02 Moving is finished
+02.03 15:27:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:14 Scanning 152 point from 306
+02.03 15:27:14 Going to coordinates X=-6.612, Y=-38.862
+02.03 15:27:15 Moving is finished
+02.03 15:27:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:26 Scanning 153 point from 306
+02.03 15:27:26 Going to coordinates X=-8.212, Y=-38.762
+02.03 15:27:27 Moving is finished
+02.03 15:27:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:39 Scanning 154 point from 306
+02.03 15:27:39 Going to coordinates X=-8.112, Y=-38.762
+02.03 15:27:39 Moving is finished
+02.03 15:27:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:27:51 Scanning 155 point from 306
+02.03 15:27:51 Going to coordinates X=-8.012, Y=-38.762
+02.03 15:27:52 Moving is finished
+02.03 15:27:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:04 Scanning 156 point from 306
+02.03 15:28:04 Going to coordinates X=-7.912, Y=-38.762
+02.03 15:28:04 Moving is finished
+02.03 15:28:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:16 Scanning 157 point from 306
+02.03 15:28:16 Going to coordinates X=-7.812, Y=-38.762
+02.03 15:28:16 Moving is finished
+02.03 15:28:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:28 Scanning 158 point from 306
+02.03 15:28:28 Going to coordinates X=-7.712, Y=-38.762
+02.03 15:28:28 Moving is finished
+02.03 15:28:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:40 Scanning 159 point from 306
+02.03 15:28:40 Going to coordinates X=-7.612, Y=-38.762
+02.03 15:28:40 Moving is finished
+02.03 15:28:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:28:52 Scanning 160 point from 306
+02.03 15:28:52 Going to coordinates X=-7.512, Y=-38.762
+02.03 15:28:52 Moving is finished
+02.03 15:28:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:04 Scanning 161 point from 306
+02.03 15:29:04 Going to coordinates X=-7.412, Y=-38.762
+02.03 15:29:05 Moving is finished
+02.03 15:29:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:16 Scanning 162 point from 306
+02.03 15:29:16 Going to coordinates X=-7.312, Y=-38.762
+02.03 15:29:17 Moving is finished
+02.03 15:29:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:28 Scanning 163 point from 306
+02.03 15:29:28 Going to coordinates X=-7.212, Y=-38.762
+02.03 15:29:29 Moving is finished
+02.03 15:29:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:41 Scanning 164 point from 306
+02.03 15:29:41 Going to coordinates X=-7.112, Y=-38.762
+02.03 15:29:41 Moving is finished
+02.03 15:29:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:29:53 Scanning 165 point from 306
+02.03 15:29:53 Going to coordinates X=-7.012, Y=-38.762
+02.03 15:29:53 Moving is finished
+02.03 15:29:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:05 Scanning 166 point from 306
+02.03 15:30:05 Going to coordinates X=-6.912, Y=-38.762
+02.03 15:30:05 Moving is finished
+02.03 15:30:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:17 Scanning 167 point from 306
+02.03 15:30:17 Going to coordinates X=-6.812, Y=-38.762
+02.03 15:30:17 Moving is finished
+02.03 15:30:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:29 Scanning 168 point from 306
+02.03 15:30:29 Going to coordinates X=-6.712, Y=-38.762
+02.03 15:30:29 Moving is finished
+02.03 15:30:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:41 Scanning 169 point from 306
+02.03 15:30:41 Going to coordinates X=-6.612, Y=-38.762
+02.03 15:30:41 Moving is finished
+02.03 15:30:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:30:53 Scanning 170 point from 306
+02.03 15:30:53 Going to coordinates X=-8.212, Y=-38.662
+02.03 15:30:54 Moving is finished
+02.03 15:31:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:06 Scanning 171 point from 306
+02.03 15:31:06 Going to coordinates X=-8.112, Y=-38.662
+02.03 15:31:06 Moving is finished
+02.03 15:31:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:18 Scanning 172 point from 306
+02.03 15:31:18 Going to coordinates X=-8.012, Y=-38.662
+02.03 15:31:18 Moving is finished
+02.03 15:31:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:30 Scanning 173 point from 306
+02.03 15:31:30 Going to coordinates X=-7.912, Y=-38.662
+02.03 15:31:31 Moving is finished
+02.03 15:31:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:43 Scanning 174 point from 306
+02.03 15:31:43 Going to coordinates X=-7.812, Y=-38.662
+02.03 15:31:43 Moving is finished
+02.03 15:31:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:31:55 Scanning 175 point from 306
+02.03 15:31:55 Going to coordinates X=-7.712, Y=-38.662
+02.03 15:31:55 Moving is finished
+02.03 15:32:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:07 Scanning 176 point from 306
+02.03 15:32:07 Going to coordinates X=-7.612, Y=-38.662
+02.03 15:32:07 Moving is finished
+02.03 15:32:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:19 Scanning 177 point from 306
+02.03 15:32:19 Going to coordinates X=-7.512, Y=-38.662
+02.03 15:32:19 Moving is finished
+02.03 15:32:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:31 Scanning 178 point from 306
+02.03 15:32:31 Going to coordinates X=-7.412, Y=-38.662
+02.03 15:32:31 Moving is finished
+02.03 15:32:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:43 Scanning 179 point from 306
+02.03 15:32:43 Going to coordinates X=-7.312, Y=-38.662
+02.03 15:32:43 Moving is finished
+02.03 15:32:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:32:55 Scanning 180 point from 306
+02.03 15:32:55 Going to coordinates X=-7.212, Y=-38.662
+02.03 15:32:56 Moving is finished
+02.03 15:33:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:07 Scanning 181 point from 306
+02.03 15:33:07 Going to coordinates X=-7.112, Y=-38.662
+02.03 15:33:08 Moving is finished
+02.03 15:33:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:20 Scanning 182 point from 306
+02.03 15:33:20 Going to coordinates X=-7.012, Y=-38.662
+02.03 15:33:20 Moving is finished
+02.03 15:33:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:32 Scanning 183 point from 306
+02.03 15:33:32 Going to coordinates X=-6.912, Y=-38.662
+02.03 15:33:32 Moving is finished
+02.03 15:33:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:44 Scanning 184 point from 306
+02.03 15:33:44 Going to coordinates X=-6.812, Y=-38.662
+02.03 15:33:44 Moving is finished
+02.03 15:33:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:33:56 Scanning 185 point from 306
+02.03 15:33:56 Going to coordinates X=-6.712, Y=-38.662
+02.03 15:33:56 Moving is finished
+02.03 15:34:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:08 Scanning 186 point from 306
+02.03 15:34:08 Going to coordinates X=-6.612, Y=-38.662
+02.03 15:34:08 Moving is finished
+02.03 15:34:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:20 Scanning 187 point from 306
+02.03 15:34:20 Going to coordinates X=-8.212, Y=-38.562
+02.03 15:34:21 Moving is finished
+02.03 15:34:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:33 Scanning 188 point from 306
+02.03 15:34:33 Going to coordinates X=-8.112, Y=-38.562
+02.03 15:34:33 Moving is finished
+02.03 15:34:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:45 Scanning 189 point from 306
+02.03 15:34:45 Going to coordinates X=-8.012, Y=-38.562
+02.03 15:34:45 Moving is finished
+02.03 15:34:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:34:57 Scanning 190 point from 306
+02.03 15:34:57 Going to coordinates X=-7.912, Y=-38.562
+02.03 15:34:58 Moving is finished
+02.03 15:35:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:09 Scanning 191 point from 306
+02.03 15:35:09 Going to coordinates X=-7.812, Y=-38.562
+02.03 15:35:10 Moving is finished
+02.03 15:35:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:22 Scanning 192 point from 306
+02.03 15:35:22 Going to coordinates X=-7.712, Y=-38.562
+02.03 15:35:22 Moving is finished
+02.03 15:35:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:34 Scanning 193 point from 306
+02.03 15:35:34 Going to coordinates X=-7.612, Y=-38.562
+02.03 15:35:34 Moving is finished
+02.03 15:35:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:46 Scanning 194 point from 306
+02.03 15:35:46 Going to coordinates X=-7.512, Y=-38.562
+02.03 15:35:46 Moving is finished
+02.03 15:35:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:35:58 Scanning 195 point from 306
+02.03 15:35:58 Going to coordinates X=-7.412, Y=-38.562
+02.03 15:35:58 Moving is finished
+02.03 15:36:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:10 Scanning 196 point from 306
+02.03 15:36:10 Going to coordinates X=-7.312, Y=-38.562
+02.03 15:36:11 Moving is finished
+02.03 15:36:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:22 Scanning 197 point from 306
+02.03 15:36:22 Going to coordinates X=-7.212, Y=-38.562
+02.03 15:36:23 Moving is finished
+02.03 15:36:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:35 Scanning 198 point from 306
+02.03 15:36:35 Going to coordinates X=-7.112, Y=-38.562
+02.03 15:36:35 Moving is finished
+02.03 15:36:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:47 Scanning 199 point from 306
+02.03 15:36:47 Going to coordinates X=-7.012, Y=-38.562
+02.03 15:36:47 Moving is finished
+02.03 15:36:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:36:59 Scanning 200 point from 306
+02.03 15:36:59 Going to coordinates X=-6.912, Y=-38.562
+02.03 15:36:59 Moving is finished
+02.03 15:37:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:11 Scanning 201 point from 306
+02.03 15:37:11 Going to coordinates X=-6.812, Y=-38.562
+02.03 15:37:11 Moving is finished
+02.03 15:37:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:23 Scanning 202 point from 306
+02.03 15:37:23 Going to coordinates X=-6.712, Y=-38.562
+02.03 15:37:24 Moving is finished
+02.03 15:37:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:35 Scanning 203 point from 306
+02.03 15:37:35 Going to coordinates X=-6.612, Y=-38.562
+02.03 15:37:36 Moving is finished
+02.03 15:37:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:47 Scanning 204 point from 306
+02.03 15:37:47 Going to coordinates X=-8.212, Y=-38.462
+02.03 15:37:48 Moving is finished
+02.03 15:37:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:37:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:00 Scanning 205 point from 306
+02.03 15:38:00 Going to coordinates X=-8.112, Y=-38.462
+02.03 15:38:00 Moving is finished
+02.03 15:38:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:12 Scanning 206 point from 306
+02.03 15:38:12 Going to coordinates X=-8.012, Y=-38.462
+02.03 15:38:13 Moving is finished
+02.03 15:38:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:24 Scanning 207 point from 306
+02.03 15:38:24 Going to coordinates X=-7.912, Y=-38.462
+02.03 15:38:25 Moving is finished
+02.03 15:38:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:37 Scanning 208 point from 306
+02.03 15:38:37 Going to coordinates X=-7.812, Y=-38.462
+02.03 15:38:37 Moving is finished
+02.03 15:38:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:38:49 Scanning 209 point from 306
+02.03 15:38:49 Going to coordinates X=-7.712, Y=-38.462
+02.03 15:38:49 Moving is finished
+02.03 15:38:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:01 Scanning 210 point from 306
+02.03 15:39:01 Going to coordinates X=-7.612, Y=-38.462
+02.03 15:39:01 Moving is finished
+02.03 15:39:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:13 Scanning 211 point from 306
+02.03 15:39:13 Going to coordinates X=-7.512, Y=-38.462
+02.03 15:39:13 Moving is finished
+02.03 15:39:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:25 Scanning 212 point from 306
+02.03 15:39:25 Going to coordinates X=-7.412, Y=-38.462
+02.03 15:39:26 Moving is finished
+02.03 15:39:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:37 Scanning 213 point from 306
+02.03 15:39:37 Going to coordinates X=-7.312, Y=-38.462
+02.03 15:39:38 Moving is finished
+02.03 15:39:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:39:50 Scanning 214 point from 306
+02.03 15:39:50 Going to coordinates X=-7.212, Y=-38.462
+02.03 15:39:50 Moving is finished
+02.03 15:39:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:02 Scanning 215 point from 306
+02.03 15:40:02 Going to coordinates X=-7.112, Y=-38.462
+02.03 15:40:02 Moving is finished
+02.03 15:40:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:14 Scanning 216 point from 306
+02.03 15:40:14 Going to coordinates X=-7.012, Y=-38.462
+02.03 15:40:14 Moving is finished
+02.03 15:40:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:26 Scanning 217 point from 306
+02.03 15:40:26 Going to coordinates X=-6.912, Y=-38.462
+02.03 15:40:26 Moving is finished
+02.03 15:40:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:38 Scanning 218 point from 306
+02.03 15:40:38 Going to coordinates X=-6.812, Y=-38.462
+02.03 15:40:39 Moving is finished
+02.03 15:40:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:40:50 Scanning 219 point from 306
+02.03 15:40:50 Going to coordinates X=-6.712, Y=-38.462
+02.03 15:40:51 Moving is finished
+02.03 15:40:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:03 Scanning 220 point from 306
+02.03 15:41:03 Going to coordinates X=-6.612, Y=-38.462
+02.03 15:41:03 Moving is finished
+02.03 15:41:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:15 Scanning 221 point from 306
+02.03 15:41:15 Going to coordinates X=-8.212, Y=-38.362
+02.03 15:41:16 Moving is finished
+02.03 15:41:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:27 Scanning 222 point from 306
+02.03 15:41:27 Going to coordinates X=-8.112, Y=-38.362
+02.03 15:41:28 Moving is finished
+02.03 15:41:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:39 Scanning 223 point from 306
+02.03 15:41:39 Going to coordinates X=-8.012, Y=-38.362
+02.03 15:41:40 Moving is finished
+02.03 15:41:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:41:52 Scanning 224 point from 306
+02.03 15:41:52 Going to coordinates X=-7.912, Y=-38.362
+02.03 15:41:52 Moving is finished
+02.03 15:41:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:04 Scanning 225 point from 306
+02.03 15:42:04 Going to coordinates X=-7.812, Y=-38.362
+02.03 15:42:04 Moving is finished
+02.03 15:42:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:16 Scanning 226 point from 306
+02.03 15:42:16 Going to coordinates X=-7.712, Y=-38.362
+02.03 15:42:16 Moving is finished
+02.03 15:42:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:28 Scanning 227 point from 306
+02.03 15:42:28 Going to coordinates X=-7.612, Y=-38.362
+02.03 15:42:28 Moving is finished
+02.03 15:42:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:40 Scanning 228 point from 306
+02.03 15:42:40 Going to coordinates X=-7.512, Y=-38.362
+02.03 15:42:41 Moving is finished
+02.03 15:42:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:42:52 Scanning 229 point from 306
+02.03 15:42:52 Going to coordinates X=-7.412, Y=-38.362
+02.03 15:42:53 Moving is finished
+02.03 15:42:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:04 Scanning 230 point from 306
+02.03 15:43:04 Going to coordinates X=-7.312, Y=-38.362
+02.03 15:43:05 Moving is finished
+02.03 15:43:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:16 Scanning 231 point from 306
+02.03 15:43:16 Going to coordinates X=-7.212, Y=-38.362
+02.03 15:43:17 Moving is finished
+02.03 15:43:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:29 Scanning 232 point from 306
+02.03 15:43:29 Going to coordinates X=-7.112, Y=-38.362
+02.03 15:43:29 Moving is finished
+02.03 15:43:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:41 Scanning 233 point from 306
+02.03 15:43:41 Going to coordinates X=-7.012, Y=-38.362
+02.03 15:43:41 Moving is finished
+02.03 15:43:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:43:53 Scanning 234 point from 306
+02.03 15:43:53 Going to coordinates X=-6.912, Y=-38.362
+02.03 15:43:53 Moving is finished
+02.03 15:43:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:05 Scanning 235 point from 306
+02.03 15:44:05 Going to coordinates X=-6.812, Y=-38.362
+02.03 15:44:05 Moving is finished
+02.03 15:44:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:17 Scanning 236 point from 306
+02.03 15:44:17 Going to coordinates X=-6.712, Y=-38.362
+02.03 15:44:18 Moving is finished
+02.03 15:44:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:29 Scanning 237 point from 306
+02.03 15:44:29 Going to coordinates X=-6.612, Y=-38.362
+02.03 15:44:30 Moving is finished
+02.03 15:44:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:42 Scanning 238 point from 306
+02.03 15:44:42 Going to coordinates X=-8.212, Y=-38.262
+02.03 15:44:42 Moving is finished
+02.03 15:44:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:44:54 Scanning 239 point from 306
+02.03 15:44:54 Going to coordinates X=-8.112, Y=-38.262
+02.03 15:44:55 Moving is finished
+02.03 15:45:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:06 Scanning 240 point from 306
+02.03 15:45:06 Going to coordinates X=-8.012, Y=-38.262
+02.03 15:45:07 Moving is finished
+02.03 15:45:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:18 Scanning 241 point from 306
+02.03 15:45:18 Going to coordinates X=-7.912, Y=-38.262
+02.03 15:45:19 Moving is finished
+02.03 15:45:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:31 Scanning 242 point from 306
+02.03 15:45:31 Going to coordinates X=-7.812, Y=-38.262
+02.03 15:45:31 Moving is finished
+02.03 15:45:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:43 Scanning 243 point from 306
+02.03 15:45:43 Going to coordinates X=-7.712, Y=-38.262
+02.03 15:45:43 Moving is finished
+02.03 15:45:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:45:55 Scanning 244 point from 306
+02.03 15:45:55 Going to coordinates X=-7.612, Y=-38.262
+02.03 15:45:55 Moving is finished
+02.03 15:46:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:07 Scanning 245 point from 306
+02.03 15:46:07 Going to coordinates X=-7.512, Y=-38.262
+02.03 15:46:07 Moving is finished
+02.03 15:46:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:19 Scanning 246 point from 306
+02.03 15:46:19 Going to coordinates X=-7.412, Y=-38.262
+02.03 15:46:20 Moving is finished
+02.03 15:46:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:31 Scanning 247 point from 306
+02.03 15:46:31 Going to coordinates X=-7.312, Y=-38.262
+02.03 15:46:32 Moving is finished
+02.03 15:46:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:44 Scanning 248 point from 306
+02.03 15:46:44 Going to coordinates X=-7.212, Y=-38.262
+02.03 15:46:44 Moving is finished
+02.03 15:46:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:46:56 Scanning 249 point from 306
+02.03 15:46:56 Going to coordinates X=-7.112, Y=-38.262
+02.03 15:46:56 Moving is finished
+02.03 15:47:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:08 Scanning 250 point from 306
+02.03 15:47:08 Going to coordinates X=-7.012, Y=-38.262
+02.03 15:47:08 Moving is finished
+02.03 15:47:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:20 Scanning 251 point from 306
+02.03 15:47:20 Going to coordinates X=-6.912, Y=-38.262
+02.03 15:47:20 Moving is finished
+02.03 15:47:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:32 Scanning 252 point from 306
+02.03 15:47:32 Going to coordinates X=-6.812, Y=-38.262
+02.03 15:47:33 Moving is finished
+02.03 15:47:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:44 Scanning 253 point from 306
+02.03 15:47:44 Going to coordinates X=-6.712, Y=-38.262
+02.03 15:47:45 Moving is finished
+02.03 15:47:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:47:57 Scanning 254 point from 306
+02.03 15:47:57 Going to coordinates X=-6.612, Y=-38.262
+02.03 15:47:57 Moving is finished
+02.03 15:48:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:09 Scanning 255 point from 306
+02.03 15:48:09 Going to coordinates X=-8.212, Y=-38.162
+02.03 15:48:10 Moving is finished
+02.03 15:48:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:22 Scanning 256 point from 306
+02.03 15:48:22 Going to coordinates X=-8.112, Y=-38.162
+02.03 15:48:22 Moving is finished
+02.03 15:48:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:34 Scanning 257 point from 306
+02.03 15:48:34 Going to coordinates X=-8.012, Y=-38.162
+02.03 15:48:34 Moving is finished
+02.03 15:48:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:46 Scanning 258 point from 306
+02.03 15:48:46 Going to coordinates X=-7.912, Y=-38.162
+02.03 15:48:46 Moving is finished
+02.03 15:48:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:48:58 Scanning 259 point from 306
+02.03 15:48:58 Going to coordinates X=-7.812, Y=-38.162
+02.03 15:48:58 Moving is finished
+02.03 15:49:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:10 Scanning 260 point from 306
+02.03 15:49:10 Going to coordinates X=-7.712, Y=-38.162
+02.03 15:49:10 Moving is finished
+02.03 15:49:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:22 Scanning 261 point from 306
+02.03 15:49:22 Going to coordinates X=-7.612, Y=-38.162
+02.03 15:49:22 Moving is finished
+02.03 15:49:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:34 Scanning 262 point from 306
+02.03 15:49:34 Going to coordinates X=-7.512, Y=-38.162
+02.03 15:49:35 Moving is finished
+02.03 15:49:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:46 Scanning 263 point from 306
+02.03 15:49:46 Going to coordinates X=-7.412, Y=-38.162
+02.03 15:49:47 Moving is finished
+02.03 15:49:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:49:59 Scanning 264 point from 306
+02.03 15:49:59 Going to coordinates X=-7.312, Y=-38.162
+02.03 15:49:59 Moving is finished
+02.03 15:50:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:11 Scanning 265 point from 306
+02.03 15:50:11 Going to coordinates X=-7.212, Y=-38.162
+02.03 15:50:11 Moving is finished
+02.03 15:50:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:23 Scanning 266 point from 306
+02.03 15:50:23 Going to coordinates X=-7.112, Y=-38.162
+02.03 15:50:23 Moving is finished
+02.03 15:50:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:35 Scanning 267 point from 306
+02.03 15:50:35 Going to coordinates X=-7.012, Y=-38.162
+02.03 15:50:35 Moving is finished
+02.03 15:50:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:47 Scanning 268 point from 306
+02.03 15:50:47 Going to coordinates X=-6.912, Y=-38.162
+02.03 15:50:48 Moving is finished
+02.03 15:50:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:50:59 Scanning 269 point from 306
+02.03 15:50:59 Going to coordinates X=-6.812, Y=-38.162
+02.03 15:51:00 Moving is finished
+02.03 15:51:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:11 Scanning 270 point from 306
+02.03 15:51:11 Going to coordinates X=-6.712, Y=-38.162
+02.03 15:51:12 Moving is finished
+02.03 15:51:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:24 Scanning 271 point from 306
+02.03 15:51:24 Going to coordinates X=-6.612, Y=-38.162
+02.03 15:51:24 Moving is finished
+02.03 15:51:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:36 Scanning 272 point from 306
+02.03 15:51:36 Going to coordinates X=-8.212, Y=-38.062
+02.03 15:51:37 Moving is finished
+02.03 15:51:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:51:48 Scanning 273 point from 306
+02.03 15:51:48 Going to coordinates X=-8.112, Y=-38.062
+02.03 15:51:49 Moving is finished
+02.03 15:51:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:01 Scanning 274 point from 306
+02.03 15:52:01 Going to coordinates X=-8.012, Y=-38.062
+02.03 15:52:01 Moving is finished
+02.03 15:52:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:13 Scanning 275 point from 306
+02.03 15:52:13 Going to coordinates X=-7.912, Y=-38.062
+02.03 15:52:13 Moving is finished
+02.03 15:52:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:25 Scanning 276 point from 306
+02.03 15:52:25 Going to coordinates X=-7.812, Y=-38.062
+02.03 15:52:25 Moving is finished
+02.03 15:52:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:37 Scanning 277 point from 306
+02.03 15:52:37 Going to coordinates X=-7.712, Y=-38.062
+02.03 15:52:37 Moving is finished
+02.03 15:52:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:52:49 Scanning 278 point from 306
+02.03 15:52:49 Going to coordinates X=-7.612, Y=-38.062
+02.03 15:52:50 Moving is finished
+02.03 15:52:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:01 Scanning 279 point from 306
+02.03 15:53:01 Going to coordinates X=-7.512, Y=-38.062
+02.03 15:53:02 Moving is finished
+02.03 15:53:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:14 Scanning 280 point from 306
+02.03 15:53:14 Going to coordinates X=-7.412, Y=-38.062
+02.03 15:53:14 Moving is finished
+02.03 15:53:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:26 Scanning 281 point from 306
+02.03 15:53:26 Going to coordinates X=-7.312, Y=-38.062
+02.03 15:53:26 Moving is finished
+02.03 15:53:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:38 Scanning 282 point from 306
+02.03 15:53:38 Going to coordinates X=-7.212, Y=-38.062
+02.03 15:53:38 Moving is finished
+02.03 15:53:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:53:50 Scanning 283 point from 306
+02.03 15:53:50 Going to coordinates X=-7.112, Y=-38.062
+02.03 15:53:50 Moving is finished
+02.03 15:53:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:02 Scanning 284 point from 306
+02.03 15:54:02 Going to coordinates X=-7.012, Y=-38.062
+02.03 15:54:03 Moving is finished
+02.03 15:54:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:14 Scanning 285 point from 306
+02.03 15:54:14 Going to coordinates X=-6.912, Y=-38.062
+02.03 15:54:15 Moving is finished
+02.03 15:54:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:26 Scanning 286 point from 306
+02.03 15:54:26 Going to coordinates X=-6.812, Y=-38.062
+02.03 15:54:27 Moving is finished
+02.03 15:54:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:39 Scanning 287 point from 306
+02.03 15:54:39 Going to coordinates X=-6.712, Y=-38.062
+02.03 15:54:39 Moving is finished
+02.03 15:54:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:54:51 Scanning 288 point from 306
+02.03 15:54:51 Going to coordinates X=-6.612, Y=-38.062
+02.03 15:54:51 Moving is finished
+02.03 15:54:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:03 Scanning 289 point from 306
+02.03 15:55:03 Going to coordinates X=-8.212, Y=-37.962
+02.03 15:55:04 Moving is finished
+02.03 15:55:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:16 Scanning 290 point from 306
+02.03 15:55:16 Going to coordinates X=-8.112, Y=-37.962
+02.03 15:55:16 Moving is finished
+02.03 15:55:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:28 Scanning 291 point from 306
+02.03 15:55:28 Going to coordinates X=-8.012, Y=-37.962
+02.03 15:55:28 Moving is finished
+02.03 15:55:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:40 Scanning 292 point from 306
+02.03 15:55:40 Going to coordinates X=-7.912, Y=-37.962
+02.03 15:55:40 Moving is finished
+02.03 15:55:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:55:52 Scanning 293 point from 306
+02.03 15:55:52 Going to coordinates X=-7.812, Y=-37.962
+02.03 15:55:52 Moving is finished
+02.03 15:55:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:04 Scanning 294 point from 306
+02.03 15:56:04 Going to coordinates X=-7.712, Y=-37.962
+02.03 15:56:04 Moving is finished
+02.03 15:56:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:16 Scanning 295 point from 306
+02.03 15:56:16 Going to coordinates X=-7.612, Y=-37.962
+02.03 15:56:16 Moving is finished
+02.03 15:56:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:28 Scanning 296 point from 306
+02.03 15:56:28 Going to coordinates X=-7.512, Y=-37.962
+02.03 15:56:29 Moving is finished
+02.03 15:56:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:41 Scanning 297 point from 306
+02.03 15:56:41 Going to coordinates X=-7.412, Y=-37.962
+02.03 15:56:41 Moving is finished
+02.03 15:56:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:56:53 Scanning 298 point from 306
+02.03 15:56:53 Going to coordinates X=-7.312, Y=-37.962
+02.03 15:56:53 Moving is finished
+02.03 15:56:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:05 Scanning 299 point from 306
+02.03 15:57:05 Going to coordinates X=-7.212, Y=-37.962
+02.03 15:57:05 Moving is finished
+02.03 15:57:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:17 Scanning 300 point from 306
+02.03 15:57:17 Going to coordinates X=-7.112, Y=-37.962
+02.03 15:57:17 Moving is finished
+02.03 15:57:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:29 Scanning 301 point from 306
+02.03 15:57:29 Going to coordinates X=-7.012, Y=-37.962
+02.03 15:57:29 Moving is finished
+02.03 15:57:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:41 Scanning 302 point from 306
+02.03 15:57:41 Going to coordinates X=-6.912, Y=-37.962
+02.03 15:57:42 Moving is finished
+02.03 15:57:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:57:53 Scanning 303 point from 306
+02.03 15:57:53 Going to coordinates X=-6.812, Y=-37.962
+02.03 15:57:54 Moving is finished
+02.03 15:58:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:58:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:58:05 Scanning 304 point from 306
+02.03 15:58:05 Going to coordinates X=-6.712, Y=-37.962
+02.03 15:58:06 Moving is finished
+02.03 15:58:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:58:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:58:17 Scanning 305 point from 306
+02.03 15:58:17 Going to coordinates X=-6.612, Y=-37.962
+02.03 15:58:18 Moving is finished
+02.03 15:58:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+02.03 15:58:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'

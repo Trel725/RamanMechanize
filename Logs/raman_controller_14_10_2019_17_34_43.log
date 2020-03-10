@@ -1,0 +1,975 @@
+14.10 17:34:44 Initializing grbl...
+14.10 17:34:45 Got the response: b''
+14.10 17:35:35 Can't send the command to GRBL
+14.10 17:35:35 Write timeout14.10 17:35:35 Write timeout
+
+14.10 17:47:26 Row 0: 14.10 17:47:26 Map: x1: -13.351, y1: -37.518, x2: -15.096, y2: -36.0, xres: 0.100, yres: 0.100, fname: MoTe2 sit sapfir
+14.10 17:47:26 Scanning 0 point from 323
+14.10 17:47:26 Going to coordinates X=-15.096, Y=-37.518
+14.10 17:47:27 Moving is finished
+14.10 17:49:11 Scanning 1 point from 323
+14.10 17:49:11 Going to coordinates X=-14.996, Y=-37.518
+14.10 17:49:12 Moving is finished
+14.10 17:50:57 Scanning 2 point from 323
+14.10 17:50:57 Going to coordinates X=-14.896, Y=-37.518
+14.10 17:50:57 Moving is finished
+14.10 17:52:42 Scanning 3 point from 323
+14.10 17:52:42 Going to coordinates X=-14.796, Y=-37.518
+14.10 17:52:42 Moving is finished
+14.10 17:54:27 Scanning 4 point from 323
+14.10 17:54:27 Going to coordinates X=-14.696, Y=-37.518
+14.10 17:54:28 Moving is finished
+14.10 17:56:13 Scanning 5 point from 323
+14.10 17:56:13 Going to coordinates X=-14.596, Y=-37.518
+14.10 17:56:13 Moving is finished
+14.10 17:57:59 Scanning 6 point from 323
+14.10 17:57:59 Going to coordinates X=-14.496, Y=-37.518
+14.10 17:57:59 Moving is finished
+14.10 17:59:44 Scanning 7 point from 323
+14.10 17:59:44 Going to coordinates X=-14.396, Y=-37.518
+14.10 17:59:44 Moving is finished
+14.10 18:01:29 Scanning 8 point from 323
+14.10 18:01:29 Going to coordinates X=-14.296, Y=-37.518
+14.10 18:01:29 Moving is finished
+14.10 18:03:13 Scanning 9 point from 323
+14.10 18:03:13 Going to coordinates X=-14.196, Y=-37.518
+14.10 18:03:14 Moving is finished
+14.10 18:04:58 Scanning 10 point from 323
+14.10 18:04:58 Going to coordinates X=-14.096, Y=-37.518
+14.10 18:04:59 Moving is finished
+14.10 18:06:43 Scanning 11 point from 323
+14.10 18:06:43 Going to coordinates X=-13.996, Y=-37.518
+14.10 18:06:44 Moving is finished
+14.10 18:08:29 Scanning 12 point from 323
+14.10 18:08:29 Going to coordinates X=-13.896, Y=-37.518
+14.10 18:08:30 Moving is finished
+14.10 18:10:15 Scanning 13 point from 323
+14.10 18:10:15 Going to coordinates X=-13.796, Y=-37.518
+14.10 18:10:15 Moving is finished
+14.10 18:12:00 Scanning 14 point from 323
+14.10 18:12:00 Going to coordinates X=-13.696, Y=-37.518
+14.10 18:12:00 Moving is finished
+14.10 18:13:45 Scanning 15 point from 323
+14.10 18:13:45 Going to coordinates X=-13.596, Y=-37.518
+14.10 18:13:46 Moving is finished
+14.10 18:15:31 Scanning 16 point from 323
+14.10 18:15:31 Going to coordinates X=-13.496, Y=-37.518
+14.10 18:15:31 Moving is finished
+14.10 18:17:16 Scanning 17 point from 323
+14.10 18:17:16 Going to coordinates X=-13.396, Y=-37.518
+14.10 18:17:16 Moving is finished
+14.10 18:19:01 Scanning 18 point from 323
+14.10 18:19:01 Going to coordinates X=-13.296, Y=-37.518
+14.10 18:19:01 Moving is finished
+14.10 18:20:46 Scanning 19 point from 323
+14.10 18:20:46 Going to coordinates X=-15.096, Y=-37.418
+14.10 18:20:47 Moving is finished
+14.10 18:22:31 Scanning 20 point from 323
+14.10 18:22:31 Going to coordinates X=-14.996, Y=-37.418
+14.10 18:22:32 Moving is finished
+14.10 18:24:16 Scanning 21 point from 323
+14.10 18:24:16 Going to coordinates X=-14.896, Y=-37.418
+14.10 18:24:17 Moving is finished
+14.10 18:26:02 Scanning 22 point from 323
+14.10 18:26:02 Going to coordinates X=-14.796, Y=-37.418
+14.10 18:26:02 Moving is finished
+14.10 18:27:47 Scanning 23 point from 323
+14.10 18:27:47 Going to coordinates X=-14.696, Y=-37.418
+14.10 18:27:47 Moving is finished
+14.10 18:29:33 Scanning 24 point from 323
+14.10 18:29:33 Going to coordinates X=-14.596, Y=-37.418
+14.10 18:29:33 Moving is finished
+14.10 18:31:18 Scanning 25 point from 323
+14.10 18:31:18 Going to coordinates X=-14.496, Y=-37.418
+14.10 18:31:18 Moving is finished
+14.10 18:33:03 Scanning 26 point from 323
+14.10 18:33:03 Going to coordinates X=-14.396, Y=-37.418
+14.10 18:33:03 Moving is finished
+14.10 18:34:48 Scanning 27 point from 323
+14.10 18:34:48 Going to coordinates X=-14.296, Y=-37.418
+14.10 18:34:48 Moving is finished
+14.10 18:36:33 Scanning 28 point from 323
+14.10 18:36:33 Going to coordinates X=-14.196, Y=-37.418
+14.10 18:36:33 Moving is finished
+14.10 18:38:17 Scanning 29 point from 323
+14.10 18:38:17 Going to coordinates X=-14.096, Y=-37.418
+14.10 18:38:18 Moving is finished
+14.10 18:40:02 Scanning 30 point from 323
+14.10 18:40:02 Going to coordinates X=-13.996, Y=-37.418
+14.10 18:40:02 Moving is finished
+14.10 18:41:47 Scanning 31 point from 323
+14.10 18:41:47 Going to coordinates X=-13.896, Y=-37.418
+14.10 18:41:48 Moving is finished
+14.10 18:43:32 Scanning 32 point from 323
+14.10 18:43:32 Going to coordinates X=-13.796, Y=-37.418
+14.10 18:43:32 Moving is finished
+14.10 18:45:17 Scanning 33 point from 323
+14.10 18:45:17 Going to coordinates X=-13.696, Y=-37.418
+14.10 18:45:18 Moving is finished
+14.10 18:47:02 Scanning 34 point from 323
+14.10 18:47:02 Going to coordinates X=-13.596, Y=-37.418
+14.10 18:47:02 Moving is finished
+14.10 18:48:47 Scanning 35 point from 323
+14.10 18:48:47 Going to coordinates X=-13.496, Y=-37.418
+14.10 18:48:48 Moving is finished
+14.10 18:50:33 Scanning 36 point from 323
+14.10 18:50:33 Going to coordinates X=-13.396, Y=-37.418
+14.10 18:50:33 Moving is finished
+14.10 18:52:18 Scanning 37 point from 323
+14.10 18:52:18 Going to coordinates X=-13.296, Y=-37.418
+14.10 18:52:18 Moving is finished
+14.10 18:54:03 Scanning 38 point from 323
+14.10 18:54:03 Going to coordinates X=-15.096, Y=-37.318
+14.10 18:54:04 Moving is finished
+14.10 18:55:48 Scanning 39 point from 323
+14.10 18:55:48 Going to coordinates X=-14.996, Y=-37.318
+14.10 18:55:49 Moving is finished
+14.10 18:57:34 Scanning 40 point from 323
+14.10 18:57:34 Going to coordinates X=-14.896, Y=-37.318
+14.10 18:57:34 Moving is finished
+14.10 18:59:19 Scanning 41 point from 323
+14.10 18:59:19 Going to coordinates X=-14.796, Y=-37.318
+14.10 18:59:19 Moving is finished
+14.10 19:01:03 Scanning 42 point from 323
+14.10 19:01:03 Going to coordinates X=-14.696, Y=-37.318
+14.10 19:01:03 Moving is finished
+14.10 19:02:48 Scanning 43 point from 323
+14.10 19:02:48 Going to coordinates X=-14.596, Y=-37.318
+14.10 19:02:48 Moving is finished
+14.10 19:04:33 Scanning 44 point from 323
+14.10 19:04:33 Going to coordinates X=-14.496, Y=-37.318
+14.10 19:04:34 Moving is finished
+14.10 19:06:18 Scanning 45 point from 323
+14.10 19:06:18 Going to coordinates X=-14.396, Y=-37.318
+14.10 19:06:19 Moving is finished
+14.10 19:08:03 Scanning 46 point from 323
+14.10 19:08:03 Going to coordinates X=-14.296, Y=-37.318
+14.10 19:08:03 Moving is finished
+14.10 19:09:49 Scanning 47 point from 323
+14.10 19:09:49 Going to coordinates X=-14.196, Y=-37.318
+14.10 19:09:49 Moving is finished
+14.10 19:11:34 Scanning 48 point from 323
+14.10 19:11:34 Going to coordinates X=-14.096, Y=-37.318
+14.10 19:11:35 Moving is finished
+14.10 19:13:19 Scanning 49 point from 323
+14.10 19:13:19 Going to coordinates X=-13.996, Y=-37.318
+14.10 19:13:19 Moving is finished
+14.10 19:15:04 Scanning 50 point from 323
+14.10 19:15:04 Going to coordinates X=-13.896, Y=-37.318
+14.10 19:15:04 Moving is finished
+14.10 19:16:49 Scanning 51 point from 323
+14.10 19:16:49 Going to coordinates X=-13.796, Y=-37.318
+14.10 19:16:49 Moving is finished
+14.10 19:18:34 Scanning 52 point from 323
+14.10 19:18:34 Going to coordinates X=-13.696, Y=-37.318
+14.10 19:18:34 Moving is finished
+14.10 19:20:20 Scanning 53 point from 323
+14.10 19:20:20 Going to coordinates X=-13.596, Y=-37.318
+14.10 19:20:20 Moving is finished
+14.10 19:22:05 Scanning 54 point from 323
+14.10 19:22:05 Going to coordinates X=-13.496, Y=-37.318
+14.10 19:22:05 Moving is finished
+14.10 19:23:50 Scanning 55 point from 323
+14.10 19:23:50 Going to coordinates X=-13.396, Y=-37.318
+14.10 19:23:50 Moving is finished
+14.10 19:25:35 Scanning 56 point from 323
+14.10 19:25:35 Going to coordinates X=-13.296, Y=-37.318
+14.10 19:25:35 Moving is finished
+14.10 19:27:19 Scanning 57 point from 323
+14.10 19:27:19 Going to coordinates X=-15.096, Y=-37.218
+14.10 19:27:20 Moving is finished
+14.10 19:29:05 Scanning 58 point from 323
+14.10 19:29:05 Going to coordinates X=-14.996, Y=-37.218
+14.10 19:29:05 Moving is finished
+14.10 19:30:50 Scanning 59 point from 323
+14.10 19:30:50 Going to coordinates X=-14.896, Y=-37.218
+14.10 19:30:50 Moving is finished
+14.10 19:32:35 Scanning 60 point from 323
+14.10 19:32:35 Going to coordinates X=-14.796, Y=-37.218
+14.10 19:32:35 Moving is finished
+14.10 19:34:20 Scanning 61 point from 323
+14.10 19:34:20 Going to coordinates X=-14.696, Y=-37.218
+14.10 19:34:20 Moving is finished
+14.10 19:36:05 Scanning 62 point from 323
+14.10 19:36:05 Going to coordinates X=-14.596, Y=-37.218
+14.10 19:36:05 Moving is finished
+14.10 19:37:50 Scanning 63 point from 323
+14.10 19:37:50 Going to coordinates X=-14.496, Y=-37.218
+14.10 19:37:50 Moving is finished
+14.10 19:39:35 Scanning 64 point from 323
+14.10 19:39:35 Going to coordinates X=-14.396, Y=-37.218
+14.10 19:39:36 Moving is finished
+14.10 19:41:21 Scanning 65 point from 323
+14.10 19:41:21 Going to coordinates X=-14.296, Y=-37.218
+14.10 19:41:21 Moving is finished
+14.10 19:43:06 Scanning 66 point from 323
+14.10 19:43:06 Going to coordinates X=-14.196, Y=-37.218
+14.10 19:43:06 Moving is finished
+14.10 19:44:51 Scanning 67 point from 323
+14.10 19:44:51 Going to coordinates X=-14.096, Y=-37.218
+14.10 19:44:51 Moving is finished
+14.10 19:46:36 Scanning 68 point from 323
+14.10 19:46:36 Going to coordinates X=-13.996, Y=-37.218
+14.10 19:46:36 Moving is finished
+14.10 19:48:21 Scanning 69 point from 323
+14.10 19:48:21 Going to coordinates X=-13.896, Y=-37.218
+14.10 19:48:21 Moving is finished
+14.10 19:50:06 Scanning 70 point from 323
+14.10 19:50:06 Going to coordinates X=-13.796, Y=-37.218
+14.10 19:50:06 Moving is finished
+14.10 19:51:51 Scanning 71 point from 323
+14.10 19:51:51 Going to coordinates X=-13.696, Y=-37.218
+14.10 19:51:51 Moving is finished
+14.10 19:53:36 Scanning 72 point from 323
+14.10 19:53:36 Going to coordinates X=-13.596, Y=-37.218
+14.10 19:53:37 Moving is finished
+14.10 19:55:21 Scanning 73 point from 323
+14.10 19:55:21 Going to coordinates X=-13.496, Y=-37.218
+14.10 19:55:21 Moving is finished
+14.10 19:57:06 Scanning 74 point from 323
+14.10 19:57:06 Going to coordinates X=-13.396, Y=-37.218
+14.10 19:57:06 Moving is finished
+14.10 19:58:51 Scanning 75 point from 323
+14.10 19:58:51 Going to coordinates X=-13.296, Y=-37.218
+14.10 19:58:51 Moving is finished
+14.10 20:00:36 Scanning 76 point from 323
+14.10 20:00:36 Going to coordinates X=-15.096, Y=-37.118
+14.10 20:00:37 Moving is finished
+14.10 20:02:22 Scanning 77 point from 323
+14.10 20:02:22 Going to coordinates X=-14.996, Y=-37.118
+14.10 20:02:23 Moving is finished
+14.10 20:04:07 Scanning 78 point from 323
+14.10 20:04:07 Going to coordinates X=-14.896, Y=-37.118
+14.10 20:04:08 Moving is finished
+14.10 20:05:52 Scanning 79 point from 323
+14.10 20:05:52 Going to coordinates X=-14.796, Y=-37.118
+14.10 20:05:53 Moving is finished
+14.10 20:07:37 Scanning 80 point from 323
+14.10 20:07:37 Going to coordinates X=-14.696, Y=-37.118
+14.10 20:07:37 Moving is finished
+14.10 20:09:22 Scanning 81 point from 323
+14.10 20:09:22 Going to coordinates X=-14.596, Y=-37.118
+14.10 20:09:22 Moving is finished
+14.10 20:11:07 Scanning 82 point from 323
+14.10 20:11:07 Going to coordinates X=-14.496, Y=-37.118
+14.10 20:11:07 Moving is finished
+14.10 20:12:52 Scanning 83 point from 323
+14.10 20:12:52 Going to coordinates X=-14.396, Y=-37.118
+14.10 20:12:53 Moving is finished
+14.10 20:14:38 Scanning 84 point from 323
+14.10 20:14:38 Going to coordinates X=-14.296, Y=-37.118
+14.10 20:14:38 Moving is finished
+14.10 20:16:23 Scanning 85 point from 323
+14.10 20:16:23 Going to coordinates X=-14.196, Y=-37.118
+14.10 20:16:24 Moving is finished
+14.10 20:18:08 Scanning 86 point from 323
+14.10 20:18:08 Going to coordinates X=-14.096, Y=-37.118
+14.10 20:18:08 Moving is finished
+14.10 20:19:54 Scanning 87 point from 323
+14.10 20:19:54 Going to coordinates X=-13.996, Y=-37.118
+14.10 20:19:54 Moving is finished
+14.10 20:21:39 Scanning 88 point from 323
+14.10 20:21:39 Going to coordinates X=-13.896, Y=-37.118
+14.10 20:21:39 Moving is finished
+14.10 20:23:24 Scanning 89 point from 323
+14.10 20:23:24 Going to coordinates X=-13.796, Y=-37.118
+14.10 20:23:24 Moving is finished
+14.10 20:25:09 Scanning 90 point from 323
+14.10 20:25:09 Going to coordinates X=-13.696, Y=-37.118
+14.10 20:25:09 Moving is finished
+14.10 20:26:54 Scanning 91 point from 323
+14.10 20:26:54 Going to coordinates X=-13.596, Y=-37.118
+14.10 20:26:55 Moving is finished
+14.10 20:28:39 Scanning 92 point from 323
+14.10 20:28:39 Going to coordinates X=-13.496, Y=-37.118
+14.10 20:28:40 Moving is finished
+14.10 20:30:25 Scanning 93 point from 323
+14.10 20:30:25 Going to coordinates X=-13.396, Y=-37.118
+14.10 20:30:25 Moving is finished
+14.10 20:32:10 Scanning 94 point from 323
+14.10 20:32:10 Going to coordinates X=-13.296, Y=-37.118
+14.10 20:32:11 Moving is finished
+14.10 20:33:56 Scanning 95 point from 323
+14.10 20:33:56 Going to coordinates X=-15.096, Y=-37.018
+14.10 20:33:57 Moving is finished
+14.10 20:35:41 Scanning 96 point from 323
+14.10 20:35:41 Going to coordinates X=-14.996, Y=-37.018
+14.10 20:35:41 Moving is finished
+14.10 20:37:26 Scanning 97 point from 323
+14.10 20:37:26 Going to coordinates X=-14.896, Y=-37.018
+14.10 20:37:27 Moving is finished
+14.10 20:39:11 Scanning 98 point from 323
+14.10 20:39:11 Going to coordinates X=-14.796, Y=-37.018
+14.10 20:39:12 Moving is finished
+14.10 20:40:56 Scanning 99 point from 323
+14.10 20:40:56 Going to coordinates X=-14.696, Y=-37.018
+14.10 20:40:56 Moving is finished
+14.10 20:42:41 Scanning 100 point from 323
+14.10 20:42:41 Going to coordinates X=-14.596, Y=-37.018
+14.10 20:42:42 Moving is finished
+14.10 20:44:26 Scanning 101 point from 323
+14.10 20:44:26 Going to coordinates X=-14.496, Y=-37.018
+14.10 20:44:27 Moving is finished
+14.10 20:46:11 Scanning 102 point from 323
+14.10 20:46:11 Going to coordinates X=-14.396, Y=-37.018
+14.10 20:46:11 Moving is finished
+14.10 20:47:56 Scanning 103 point from 323
+14.10 20:47:56 Going to coordinates X=-14.296, Y=-37.018
+14.10 20:47:56 Moving is finished
+14.10 20:49:41 Scanning 104 point from 323
+14.10 20:49:41 Going to coordinates X=-14.196, Y=-37.018
+14.10 20:49:41 Moving is finished
+14.10 20:51:26 Scanning 105 point from 323
+14.10 20:51:26 Going to coordinates X=-14.096, Y=-37.018
+14.10 20:51:26 Moving is finished
+14.10 20:53:11 Scanning 106 point from 323
+14.10 20:53:11 Going to coordinates X=-13.996, Y=-37.018
+14.10 20:53:12 Moving is finished
+14.10 20:54:56 Scanning 107 point from 323
+14.10 20:54:56 Going to coordinates X=-13.896, Y=-37.018
+14.10 20:54:56 Moving is finished
+14.10 20:56:41 Scanning 108 point from 323
+14.10 20:56:41 Going to coordinates X=-13.796, Y=-37.018
+14.10 20:56:42 Moving is finished
+14.10 20:58:27 Scanning 109 point from 323
+14.10 20:58:27 Going to coordinates X=-13.696, Y=-37.018
+14.10 20:58:27 Moving is finished
+14.10 21:00:12 Scanning 110 point from 323
+14.10 21:00:12 Going to coordinates X=-13.596, Y=-37.018
+14.10 21:00:12 Moving is finished
+14.10 21:01:57 Scanning 111 point from 323
+14.10 21:01:57 Going to coordinates X=-13.496, Y=-37.018
+14.10 21:01:58 Moving is finished
+14.10 21:03:42 Scanning 112 point from 323
+14.10 21:03:42 Going to coordinates X=-13.396, Y=-37.018
+14.10 21:03:43 Moving is finished
+14.10 21:05:28 Scanning 113 point from 323
+14.10 21:05:28 Going to coordinates X=-13.296, Y=-37.018
+14.10 21:05:28 Moving is finished
+14.10 21:07:12 Scanning 114 point from 323
+14.10 21:07:12 Going to coordinates X=-15.096, Y=-36.918
+14.10 21:07:13 Moving is finished
+14.10 21:08:58 Scanning 115 point from 323
+14.10 21:08:58 Going to coordinates X=-14.996, Y=-36.918
+14.10 21:08:58 Moving is finished
+14.10 21:10:43 Scanning 116 point from 323
+14.10 21:10:43 Going to coordinates X=-14.896, Y=-36.918
+14.10 21:10:43 Moving is finished
+14.10 21:12:29 Scanning 117 point from 323
+14.10 21:12:29 Going to coordinates X=-14.796, Y=-36.918
+14.10 21:12:29 Moving is finished
+14.10 21:14:14 Scanning 118 point from 323
+14.10 21:14:14 Going to coordinates X=-14.696, Y=-36.918
+14.10 21:14:14 Moving is finished
+14.10 21:16:00 Scanning 119 point from 323
+14.10 21:16:00 Going to coordinates X=-14.596, Y=-36.918
+14.10 21:16:00 Moving is finished
+14.10 21:17:45 Scanning 120 point from 323
+14.10 21:17:45 Going to coordinates X=-14.496, Y=-36.918
+14.10 21:17:45 Moving is finished
+14.10 21:19:30 Scanning 121 point from 323
+14.10 21:19:30 Going to coordinates X=-14.396, Y=-36.918
+14.10 21:19:30 Moving is finished
+14.10 21:21:15 Scanning 122 point from 323
+14.10 21:21:15 Going to coordinates X=-14.296, Y=-36.918
+14.10 21:21:16 Moving is finished
+14.10 21:23:00 Scanning 123 point from 323
+14.10 21:23:00 Going to coordinates X=-14.196, Y=-36.918
+14.10 21:23:01 Moving is finished
+14.10 21:24:45 Scanning 124 point from 323
+14.10 21:24:45 Going to coordinates X=-14.096, Y=-36.918
+14.10 21:24:45 Moving is finished
+14.10 21:26:30 Scanning 125 point from 323
+14.10 21:26:30 Going to coordinates X=-13.996, Y=-36.918
+14.10 21:26:30 Moving is finished
+14.10 21:28:16 Scanning 126 point from 323
+14.10 21:28:16 Going to coordinates X=-13.896, Y=-36.918
+14.10 21:28:16 Moving is finished
+14.10 21:30:01 Scanning 127 point from 323
+14.10 21:30:01 Going to coordinates X=-13.796, Y=-36.918
+14.10 21:30:01 Moving is finished
+14.10 21:31:46 Scanning 128 point from 323
+14.10 21:31:46 Going to coordinates X=-13.696, Y=-36.918
+14.10 21:31:46 Moving is finished
+14.10 21:33:31 Scanning 129 point from 323
+14.10 21:33:31 Going to coordinates X=-13.596, Y=-36.918
+14.10 21:33:31 Moving is finished
+14.10 21:35:16 Scanning 130 point from 323
+14.10 21:35:16 Going to coordinates X=-13.496, Y=-36.918
+14.10 21:35:16 Moving is finished
+14.10 21:37:01 Scanning 131 point from 323
+14.10 21:37:01 Going to coordinates X=-13.396, Y=-36.918
+14.10 21:37:01 Moving is finished
+14.10 21:38:46 Scanning 132 point from 323
+14.10 21:38:46 Going to coordinates X=-13.296, Y=-36.918
+14.10 21:38:46 Moving is finished
+14.10 21:40:31 Scanning 133 point from 323
+14.10 21:40:31 Going to coordinates X=-15.096, Y=-36.818
+14.10 21:40:32 Moving is finished
+14.10 21:42:16 Scanning 134 point from 323
+14.10 21:42:16 Going to coordinates X=-14.996, Y=-36.818
+14.10 21:42:17 Moving is finished
+14.10 21:44:01 Scanning 135 point from 323
+14.10 21:44:01 Going to coordinates X=-14.896, Y=-36.818
+14.10 21:44:02 Moving is finished
+14.10 21:45:46 Scanning 136 point from 323
+14.10 21:45:46 Going to coordinates X=-14.796, Y=-36.818
+14.10 21:45:47 Moving is finished
+14.10 21:47:32 Scanning 137 point from 323
+14.10 21:47:32 Going to coordinates X=-14.696, Y=-36.818
+14.10 21:47:33 Moving is finished
+14.10 21:49:18 Scanning 138 point from 323
+14.10 21:49:18 Going to coordinates X=-14.596, Y=-36.818
+14.10 21:49:18 Moving is finished
+14.10 21:51:03 Scanning 139 point from 323
+14.10 21:51:03 Going to coordinates X=-14.496, Y=-36.818
+14.10 21:51:03 Moving is finished
+14.10 21:52:48 Scanning 140 point from 323
+14.10 21:52:48 Going to coordinates X=-14.396, Y=-36.818
+14.10 21:52:48 Moving is finished
+14.10 21:54:34 Scanning 141 point from 323
+14.10 21:54:34 Going to coordinates X=-14.296, Y=-36.818
+14.10 21:54:34 Moving is finished
+14.10 21:56:19 Scanning 142 point from 323
+14.10 21:56:19 Going to coordinates X=-14.196, Y=-36.818
+14.10 21:56:19 Moving is finished
+14.10 21:58:04 Scanning 143 point from 323
+14.10 21:58:04 Going to coordinates X=-14.096, Y=-36.818
+14.10 21:58:04 Moving is finished
+14.10 21:59:50 Scanning 144 point from 323
+14.10 21:59:50 Going to coordinates X=-13.996, Y=-36.818
+14.10 21:59:50 Moving is finished
+14.10 22:01:35 Scanning 145 point from 323
+14.10 22:01:35 Going to coordinates X=-13.896, Y=-36.818
+14.10 22:01:35 Moving is finished
+14.10 22:03:20 Scanning 146 point from 323
+14.10 22:03:20 Going to coordinates X=-13.796, Y=-36.818
+14.10 22:03:20 Moving is finished
+14.10 22:05:05 Scanning 147 point from 323
+14.10 22:05:05 Going to coordinates X=-13.696, Y=-36.818
+14.10 22:05:05 Moving is finished
+14.10 22:06:50 Scanning 148 point from 323
+14.10 22:06:50 Going to coordinates X=-13.596, Y=-36.818
+14.10 22:06:51 Moving is finished
+14.10 22:08:35 Scanning 149 point from 323
+14.10 22:08:35 Going to coordinates X=-13.496, Y=-36.818
+14.10 22:08:36 Moving is finished
+14.10 22:10:21 Scanning 150 point from 323
+14.10 22:10:21 Going to coordinates X=-13.396, Y=-36.818
+14.10 22:10:21 Moving is finished
+14.10 22:12:05 Scanning 151 point from 323
+14.10 22:12:05 Going to coordinates X=-13.296, Y=-36.818
+14.10 22:12:06 Moving is finished
+14.10 22:13:50 Scanning 152 point from 323
+14.10 22:13:50 Going to coordinates X=-15.096, Y=-36.718
+14.10 22:13:51 Moving is finished
+14.10 22:15:35 Scanning 153 point from 323
+14.10 22:15:35 Going to coordinates X=-14.996, Y=-36.718
+14.10 22:15:36 Moving is finished
+14.10 22:17:21 Scanning 154 point from 323
+14.10 22:17:21 Going to coordinates X=-14.896, Y=-36.718
+14.10 22:17:21 Moving is finished
+14.10 22:19:06 Scanning 155 point from 323
+14.10 22:19:06 Going to coordinates X=-14.796, Y=-36.718
+14.10 22:19:06 Moving is finished
+14.10 22:20:52 Scanning 156 point from 323
+14.10 22:20:52 Going to coordinates X=-14.696, Y=-36.718
+14.10 22:20:52 Moving is finished
+14.10 22:22:37 Scanning 157 point from 323
+14.10 22:22:37 Going to coordinates X=-14.596, Y=-36.718
+14.10 22:22:37 Moving is finished
+14.10 22:24:22 Scanning 158 point from 323
+14.10 22:24:22 Going to coordinates X=-14.496, Y=-36.718
+14.10 22:24:22 Moving is finished
+14.10 22:26:08 Scanning 159 point from 323
+14.10 22:26:08 Going to coordinates X=-14.396, Y=-36.718
+14.10 22:26:08 Moving is finished
+14.10 22:27:53 Scanning 160 point from 323
+14.10 22:27:53 Going to coordinates X=-14.296, Y=-36.718
+14.10 22:27:53 Moving is finished
+14.10 22:29:38 Scanning 161 point from 323
+14.10 22:29:38 Going to coordinates X=-14.196, Y=-36.718
+14.10 22:29:39 Moving is finished
+14.10 22:31:23 Scanning 162 point from 323
+14.10 22:31:23 Going to coordinates X=-14.096, Y=-36.718
+14.10 22:31:24 Moving is finished
+14.10 22:33:09 Scanning 163 point from 323
+14.10 22:33:09 Going to coordinates X=-13.996, Y=-36.718
+14.10 22:33:09 Moving is finished
+14.10 22:34:54 Scanning 164 point from 323
+14.10 22:34:54 Going to coordinates X=-13.896, Y=-36.718
+14.10 22:34:54 Moving is finished
+14.10 22:36:39 Scanning 165 point from 323
+14.10 22:36:39 Going to coordinates X=-13.796, Y=-36.718
+14.10 22:36:39 Moving is finished
+14.10 22:38:24 Scanning 166 point from 323
+14.10 22:38:24 Going to coordinates X=-13.696, Y=-36.718
+14.10 22:38:24 Moving is finished
+14.10 22:40:10 Scanning 167 point from 323
+14.10 22:40:10 Going to coordinates X=-13.596, Y=-36.718
+14.10 22:40:10 Moving is finished
+14.10 22:41:55 Scanning 168 point from 323
+14.10 22:41:55 Going to coordinates X=-13.496, Y=-36.718
+14.10 22:41:55 Moving is finished
+14.10 22:43:40 Scanning 169 point from 323
+14.10 22:43:40 Going to coordinates X=-13.396, Y=-36.718
+14.10 22:43:40 Moving is finished
+14.10 22:45:24 Scanning 170 point from 323
+14.10 22:45:24 Going to coordinates X=-13.296, Y=-36.718
+14.10 22:45:25 Moving is finished
+14.10 22:47:09 Scanning 171 point from 323
+14.10 22:47:09 Going to coordinates X=-15.096, Y=-36.618
+14.10 22:47:10 Moving is finished
+14.10 22:48:55 Scanning 172 point from 323
+14.10 22:48:55 Going to coordinates X=-14.996, Y=-36.618
+14.10 22:48:56 Moving is finished
+14.10 22:50:40 Scanning 173 point from 323
+14.10 22:50:40 Going to coordinates X=-14.896, Y=-36.618
+14.10 22:50:41 Moving is finished
+14.10 22:52:26 Scanning 174 point from 323
+14.10 22:52:26 Going to coordinates X=-14.796, Y=-36.618
+14.10 22:52:26 Moving is finished
+14.10 22:54:11 Scanning 175 point from 323
+14.10 22:54:11 Going to coordinates X=-14.696, Y=-36.618
+14.10 22:54:11 Moving is finished
+14.10 22:55:56 Scanning 176 point from 323
+14.10 22:55:56 Going to coordinates X=-14.596, Y=-36.618
+14.10 22:55:56 Moving is finished
+14.10 22:57:41 Scanning 177 point from 323
+14.10 22:57:41 Going to coordinates X=-14.496, Y=-36.618
+14.10 22:57:41 Moving is finished
+14.10 22:59:26 Scanning 178 point from 323
+14.10 22:59:26 Going to coordinates X=-14.396, Y=-36.618
+14.10 22:59:26 Moving is finished
+14.10 23:01:11 Scanning 179 point from 323
+14.10 23:01:11 Going to coordinates X=-14.296, Y=-36.618
+14.10 23:01:11 Moving is finished
+14.10 23:02:56 Scanning 180 point from 323
+14.10 23:02:56 Going to coordinates X=-14.196, Y=-36.618
+14.10 23:02:56 Moving is finished
+14.10 23:04:41 Scanning 181 point from 323
+14.10 23:04:41 Going to coordinates X=-14.096, Y=-36.618
+14.10 23:04:41 Moving is finished
+14.10 23:06:26 Scanning 182 point from 323
+14.10 23:06:26 Going to coordinates X=-13.996, Y=-36.618
+14.10 23:06:27 Moving is finished
+14.10 23:08:11 Scanning 183 point from 323
+14.10 23:08:11 Going to coordinates X=-13.896, Y=-36.618
+14.10 23:08:12 Moving is finished
+14.10 23:09:57 Scanning 184 point from 323
+14.10 23:09:57 Going to coordinates X=-13.796, Y=-36.618
+14.10 23:09:57 Moving is finished
+14.10 23:11:42 Scanning 185 point from 323
+14.10 23:11:42 Going to coordinates X=-13.696, Y=-36.618
+14.10 23:11:42 Moving is finished
+14.10 23:13:28 Scanning 186 point from 323
+14.10 23:13:28 Going to coordinates X=-13.596, Y=-36.618
+14.10 23:13:28 Moving is finished
+14.10 23:15:13 Scanning 187 point from 323
+14.10 23:15:13 Going to coordinates X=-13.496, Y=-36.618
+14.10 23:15:13 Moving is finished
+14.10 23:16:58 Scanning 188 point from 323
+14.10 23:16:58 Going to coordinates X=-13.396, Y=-36.618
+14.10 23:16:58 Moving is finished
+14.10 23:18:43 Scanning 189 point from 323
+14.10 23:18:43 Going to coordinates X=-13.296, Y=-36.618
+14.10 23:18:43 Moving is finished
+14.10 23:20:27 Scanning 190 point from 323
+14.10 23:20:27 Going to coordinates X=-15.096, Y=-36.518
+14.10 23:20:28 Moving is finished
+14.10 23:22:13 Scanning 191 point from 323
+14.10 23:22:13 Going to coordinates X=-14.996, Y=-36.518
+14.10 23:22:13 Moving is finished
+14.10 23:23:58 Scanning 192 point from 323
+14.10 23:23:58 Going to coordinates X=-14.896, Y=-36.518
+14.10 23:23:58 Moving is finished
+14.10 23:25:43 Scanning 193 point from 323
+14.10 23:25:43 Going to coordinates X=-14.796, Y=-36.518
+14.10 23:25:43 Moving is finished
+14.10 23:27:28 Scanning 194 point from 323
+14.10 23:27:28 Going to coordinates X=-14.696, Y=-36.518
+14.10 23:27:28 Moving is finished
+14.10 23:29:13 Scanning 195 point from 323
+14.10 23:29:13 Going to coordinates X=-14.596, Y=-36.518
+14.10 23:29:13 Moving is finished
+14.10 23:30:58 Scanning 196 point from 323
+14.10 23:30:58 Going to coordinates X=-14.496, Y=-36.518
+14.10 23:30:58 Moving is finished
+14.10 23:32:42 Scanning 197 point from 323
+14.10 23:32:42 Going to coordinates X=-14.396, Y=-36.518
+14.10 23:32:43 Moving is finished
+14.10 23:34:28 Scanning 198 point from 323
+14.10 23:34:28 Going to coordinates X=-14.296, Y=-36.518
+14.10 23:34:28 Moving is finished
+14.10 23:36:13 Scanning 199 point from 323
+14.10 23:36:13 Going to coordinates X=-14.196, Y=-36.518
+14.10 23:36:14 Moving is finished
+14.10 23:37:59 Scanning 200 point from 323
+14.10 23:37:59 Going to coordinates X=-14.096, Y=-36.518
+14.10 23:37:59 Moving is finished
+14.10 23:39:45 Scanning 201 point from 323
+14.10 23:39:45 Going to coordinates X=-13.996, Y=-36.518
+14.10 23:39:45 Moving is finished
+14.10 23:41:29 Scanning 202 point from 323
+14.10 23:41:29 Going to coordinates X=-13.896, Y=-36.518
+14.10 23:41:30 Moving is finished
+14.10 23:43:15 Scanning 203 point from 323
+14.10 23:43:15 Going to coordinates X=-13.796, Y=-36.518
+14.10 23:43:15 Moving is finished
+14.10 23:45:00 Scanning 204 point from 323
+14.10 23:45:00 Going to coordinates X=-13.696, Y=-36.518
+14.10 23:45:00 Moving is finished
+14.10 23:46:45 Scanning 205 point from 323
+14.10 23:46:45 Going to coordinates X=-13.596, Y=-36.518
+14.10 23:46:45 Moving is finished
+14.10 23:48:30 Scanning 206 point from 323
+14.10 23:48:30 Going to coordinates X=-13.496, Y=-36.518
+14.10 23:48:30 Moving is finished
+14.10 23:50:15 Scanning 207 point from 323
+14.10 23:50:15 Going to coordinates X=-13.396, Y=-36.518
+14.10 23:50:15 Moving is finished
+14.10 23:52:00 Scanning 208 point from 323
+14.10 23:52:00 Going to coordinates X=-13.296, Y=-36.518
+14.10 23:52:00 Moving is finished
+14.10 23:53:45 Scanning 209 point from 323
+14.10 23:53:45 Going to coordinates X=-15.096, Y=-36.418
+14.10 23:53:46 Moving is finished
+14.10 23:55:30 Scanning 210 point from 323
+14.10 23:55:30 Going to coordinates X=-14.996, Y=-36.418
+14.10 23:55:30 Moving is finished
+14.10 23:57:15 Scanning 211 point from 323
+14.10 23:57:15 Going to coordinates X=-14.896, Y=-36.418
+14.10 23:57:15 Moving is finished
+14.10 23:59:00 Scanning 212 point from 323
+14.10 23:59:00 Going to coordinates X=-14.796, Y=-36.418
+14.10 23:59:01 Moving is finished
+15.10 00:00:46 Scanning 213 point from 323
+15.10 00:00:46 Going to coordinates X=-14.696, Y=-36.418
+15.10 00:00:46 Moving is finished
+15.10 00:02:31 Scanning 214 point from 323
+15.10 00:02:31 Going to coordinates X=-14.596, Y=-36.418
+15.10 00:02:31 Moving is finished
+15.10 00:04:16 Scanning 215 point from 323
+15.10 00:04:16 Going to coordinates X=-14.496, Y=-36.418
+15.10 00:04:16 Moving is finished
+15.10 00:06:01 Scanning 216 point from 323
+15.10 00:06:01 Going to coordinates X=-14.396, Y=-36.418
+15.10 00:06:02 Moving is finished
+15.10 00:07:47 Scanning 217 point from 323
+15.10 00:07:47 Going to coordinates X=-14.296, Y=-36.418
+15.10 00:07:47 Moving is finished
+15.10 00:09:32 Scanning 218 point from 323
+15.10 00:09:32 Going to coordinates X=-14.196, Y=-36.418
+15.10 00:09:32 Moving is finished
+15.10 00:11:17 Scanning 219 point from 323
+15.10 00:11:17 Going to coordinates X=-14.096, Y=-36.418
+15.10 00:11:17 Moving is finished
+15.10 00:13:01 Scanning 220 point from 323
+15.10 00:13:01 Going to coordinates X=-13.996, Y=-36.418
+15.10 00:13:02 Moving is finished
+15.10 00:14:46 Scanning 221 point from 323
+15.10 00:14:46 Going to coordinates X=-13.896, Y=-36.418
+15.10 00:14:47 Moving is finished
+15.10 00:16:32 Scanning 222 point from 323
+15.10 00:16:32 Going to coordinates X=-13.796, Y=-36.418
+15.10 00:16:33 Moving is finished
+15.10 00:18:17 Scanning 223 point from 323
+15.10 00:18:17 Going to coordinates X=-13.696, Y=-36.418
+15.10 00:18:18 Moving is finished
+15.10 00:20:02 Scanning 224 point from 323
+15.10 00:20:02 Going to coordinates X=-13.596, Y=-36.418
+15.10 00:20:02 Moving is finished
+15.10 00:21:47 Scanning 225 point from 323
+15.10 00:21:47 Going to coordinates X=-13.496, Y=-36.418
+15.10 00:21:47 Moving is finished
+15.10 00:23:32 Scanning 226 point from 323
+15.10 00:23:32 Going to coordinates X=-13.396, Y=-36.418
+15.10 00:23:32 Moving is finished
+15.10 00:25:17 Scanning 227 point from 323
+15.10 00:25:17 Going to coordinates X=-13.296, Y=-36.418
+15.10 00:25:17 Moving is finished
+15.10 00:27:02 Scanning 228 point from 323
+15.10 00:27:02 Going to coordinates X=-15.096, Y=-36.318
+15.10 00:27:03 Moving is finished
+15.10 00:28:47 Scanning 229 point from 323
+15.10 00:28:47 Going to coordinates X=-14.996, Y=-36.318
+15.10 00:28:48 Moving is finished
+15.10 00:30:33 Scanning 230 point from 323
+15.10 00:30:33 Going to coordinates X=-14.896, Y=-36.318
+15.10 00:30:33 Moving is finished
+15.10 00:32:18 Scanning 231 point from 323
+15.10 00:32:18 Going to coordinates X=-14.796, Y=-36.318
+15.10 00:32:18 Moving is finished
+15.10 00:34:03 Scanning 232 point from 323
+15.10 00:34:03 Going to coordinates X=-14.696, Y=-36.318
+15.10 00:34:03 Moving is finished
+15.10 00:35:48 Scanning 233 point from 323
+15.10 00:35:48 Going to coordinates X=-14.596, Y=-36.318
+15.10 00:35:48 Moving is finished
+15.10 00:37:33 Scanning 234 point from 323
+15.10 00:37:33 Going to coordinates X=-14.496, Y=-36.318
+15.10 00:37:33 Moving is finished
+15.10 00:39:18 Scanning 235 point from 323
+15.10 00:39:18 Going to coordinates X=-14.396, Y=-36.318
+15.10 00:39:18 Moving is finished
+15.10 00:41:04 Scanning 236 point from 323
+15.10 00:41:04 Going to coordinates X=-14.296, Y=-36.318
+15.10 00:41:04 Moving is finished
+15.10 00:42:48 Scanning 237 point from 323
+15.10 00:42:48 Going to coordinates X=-14.196, Y=-36.318
+15.10 00:42:49 Moving is finished
+15.10 00:44:33 Scanning 238 point from 323
+15.10 00:44:33 Going to coordinates X=-14.096, Y=-36.318
+15.10 00:44:34 Moving is finished
+15.10 00:46:18 Scanning 239 point from 323
+15.10 00:46:18 Going to coordinates X=-13.996, Y=-36.318
+15.10 00:46:19 Moving is finished
+15.10 00:48:03 Scanning 240 point from 323
+15.10 00:48:03 Going to coordinates X=-13.896, Y=-36.318
+15.10 00:48:03 Moving is finished
+15.10 00:49:49 Scanning 241 point from 323
+15.10 00:49:49 Going to coordinates X=-13.796, Y=-36.318
+15.10 00:49:49 Moving is finished
+15.10 00:51:34 Scanning 242 point from 323
+15.10 00:51:34 Going to coordinates X=-13.696, Y=-36.318
+15.10 00:51:35 Moving is finished
+15.10 00:53:20 Scanning 243 point from 323
+15.10 00:53:20 Going to coordinates X=-13.596, Y=-36.318
+15.10 00:53:20 Moving is finished
+15.10 00:55:05 Scanning 244 point from 323
+15.10 00:55:05 Going to coordinates X=-13.496, Y=-36.318
+15.10 00:55:05 Moving is finished
+15.10 00:56:50 Scanning 245 point from 323
+15.10 00:56:50 Going to coordinates X=-13.396, Y=-36.318
+15.10 00:56:50 Moving is finished
+15.10 00:58:35 Scanning 246 point from 323
+15.10 00:58:35 Going to coordinates X=-13.296, Y=-36.318
+15.10 00:58:36 Moving is finished
+15.10 01:00:20 Scanning 247 point from 323
+15.10 01:00:20 Going to coordinates X=-15.096, Y=-36.218
+15.10 01:00:21 Moving is finished
+15.10 01:02:05 Scanning 248 point from 323
+15.10 01:02:05 Going to coordinates X=-14.996, Y=-36.218
+15.10 01:02:06 Moving is finished
+15.10 01:03:51 Scanning 249 point from 323
+15.10 01:03:51 Going to coordinates X=-14.896, Y=-36.218
+15.10 01:03:51 Moving is finished
+15.10 01:05:37 Scanning 250 point from 323
+15.10 01:05:37 Going to coordinates X=-14.796, Y=-36.218
+15.10 01:05:37 Moving is finished
+15.10 01:07:21 Scanning 251 point from 323
+15.10 01:07:21 Going to coordinates X=-14.696, Y=-36.218
+15.10 01:07:22 Moving is finished
+15.10 01:09:06 Scanning 252 point from 323
+15.10 01:09:06 Going to coordinates X=-14.596, Y=-36.218
+15.10 01:09:06 Moving is finished
+15.10 01:10:51 Scanning 253 point from 323
+15.10 01:10:51 Going to coordinates X=-14.496, Y=-36.218
+15.10 01:10:51 Moving is finished
+15.10 01:12:35 Scanning 254 point from 323
+15.10 01:12:35 Going to coordinates X=-14.396, Y=-36.218
+15.10 01:12:36 Moving is finished
+15.10 01:14:20 Scanning 255 point from 323
+15.10 01:14:20 Going to coordinates X=-14.296, Y=-36.218
+15.10 01:14:20 Moving is finished
+15.10 01:16:05 Scanning 256 point from 323
+15.10 01:16:05 Going to coordinates X=-14.196, Y=-36.218
+15.10 01:16:05 Moving is finished
+15.10 01:17:50 Scanning 257 point from 323
+15.10 01:17:50 Going to coordinates X=-14.096, Y=-36.218
+15.10 01:17:50 Moving is finished
+15.10 01:19:34 Scanning 258 point from 323
+15.10 01:19:34 Going to coordinates X=-13.996, Y=-36.218
+15.10 01:19:35 Moving is finished
+15.10 01:21:19 Scanning 259 point from 323
+15.10 01:21:19 Going to coordinates X=-13.896, Y=-36.218
+15.10 01:21:20 Moving is finished
+15.10 01:23:04 Scanning 260 point from 323
+15.10 01:23:04 Going to coordinates X=-13.796, Y=-36.218
+15.10 01:23:05 Moving is finished
+15.10 01:24:49 Scanning 261 point from 323
+15.10 01:24:49 Going to coordinates X=-13.696, Y=-36.218
+15.10 01:24:49 Moving is finished
+15.10 01:26:34 Scanning 262 point from 323
+15.10 01:26:34 Going to coordinates X=-13.596, Y=-36.218
+15.10 01:26:34 Moving is finished
+15.10 01:28:19 Scanning 263 point from 323
+15.10 01:28:19 Going to coordinates X=-13.496, Y=-36.218
+15.10 01:28:19 Moving is finished
+15.10 01:30:04 Scanning 264 point from 323
+15.10 01:30:04 Going to coordinates X=-13.396, Y=-36.218
+15.10 01:30:05 Moving is finished
+15.10 01:31:49 Scanning 265 point from 323
+15.10 01:31:49 Going to coordinates X=-13.296, Y=-36.218
+15.10 01:31:50 Moving is finished
+15.10 01:33:34 Scanning 266 point from 323
+15.10 01:33:34 Going to coordinates X=-15.096, Y=-36.118
+15.10 01:33:35 Moving is finished
+15.10 01:35:21 Scanning 267 point from 323
+15.10 01:35:21 Going to coordinates X=-14.996, Y=-36.118
+15.10 01:35:21 Moving is finished
+15.10 01:37:07 Scanning 268 point from 323
+15.10 01:37:07 Going to coordinates X=-14.896, Y=-36.118
+15.10 01:37:07 Moving is finished
+15.10 01:38:52 Scanning 269 point from 323
+15.10 01:38:52 Going to coordinates X=-14.796, Y=-36.118
+15.10 01:38:52 Moving is finished
+15.10 01:40:37 Scanning 270 point from 323
+15.10 01:40:37 Going to coordinates X=-14.696, Y=-36.118
+15.10 01:40:37 Moving is finished
+15.10 01:42:22 Scanning 271 point from 323
+15.10 01:42:22 Going to coordinates X=-14.596, Y=-36.118
+15.10 01:42:23 Moving is finished
+15.10 01:44:07 Scanning 272 point from 323
+15.10 01:44:07 Going to coordinates X=-14.496, Y=-36.118
+15.10 01:44:07 Moving is finished
+15.10 01:45:52 Scanning 273 point from 323
+15.10 01:45:52 Going to coordinates X=-14.396, Y=-36.118
+15.10 01:45:52 Moving is finished
+15.10 01:47:37 Scanning 274 point from 323
+15.10 01:47:37 Going to coordinates X=-14.296, Y=-36.118
+15.10 01:47:38 Moving is finished
+15.10 01:49:23 Scanning 275 point from 323
+15.10 01:49:23 Going to coordinates X=-14.196, Y=-36.118
+15.10 01:49:23 Moving is finished
+15.10 01:51:08 Scanning 276 point from 323
+15.10 01:51:08 Going to coordinates X=-14.096, Y=-36.118
+15.10 01:51:08 Moving is finished
+15.10 01:52:53 Scanning 277 point from 323
+15.10 01:52:53 Going to coordinates X=-13.996, Y=-36.118
+15.10 01:52:53 Moving is finished
+15.10 01:54:38 Scanning 278 point from 323
+15.10 01:54:38 Going to coordinates X=-13.896, Y=-36.118
+15.10 01:54:38 Moving is finished
+15.10 01:56:22 Scanning 279 point from 323
+15.10 01:56:22 Going to coordinates X=-13.796, Y=-36.118
+15.10 01:56:23 Moving is finished
+15.10 01:58:08 Scanning 280 point from 323
+15.10 01:58:08 Going to coordinates X=-13.696, Y=-36.118
+15.10 01:58:08 Moving is finished
+15.10 01:59:53 Scanning 281 point from 323
+15.10 01:59:53 Going to coordinates X=-13.596, Y=-36.118
+15.10 01:59:53 Moving is finished
+15.10 02:01:38 Scanning 282 point from 323
+15.10 02:01:38 Going to coordinates X=-13.496, Y=-36.118
+15.10 02:01:38 Moving is finished
+15.10 02:03:23 Scanning 283 point from 323
+15.10 02:03:23 Going to coordinates X=-13.396, Y=-36.118
+15.10 02:03:23 Moving is finished
+15.10 02:05:08 Scanning 284 point from 323
+15.10 02:05:08 Going to coordinates X=-13.296, Y=-36.118
+15.10 02:05:09 Moving is finished
+15.10 02:06:53 Scanning 285 point from 323
+15.10 02:06:53 Going to coordinates X=-15.096, Y=-36.018
+15.10 02:06:54 Moving is finished
+15.10 02:08:39 Scanning 286 point from 323
+15.10 02:08:39 Going to coordinates X=-14.996, Y=-36.018
+15.10 02:08:39 Moving is finished
+15.10 02:10:24 Scanning 287 point from 323
+15.10 02:10:24 Going to coordinates X=-14.896, Y=-36.018
+15.10 02:10:24 Moving is finished
+15.10 02:12:09 Scanning 288 point from 323
+15.10 02:12:09 Going to coordinates X=-14.796, Y=-36.018
+15.10 02:12:09 Moving is finished
+15.10 02:13:55 Scanning 289 point from 323
+15.10 02:13:55 Going to coordinates X=-14.696, Y=-36.018
+15.10 02:13:55 Moving is finished
+15.10 02:15:40 Scanning 290 point from 323
+15.10 02:15:40 Going to coordinates X=-14.596, Y=-36.018
+15.10 02:15:40 Moving is finished
+15.10 02:17:26 Scanning 291 point from 323
+15.10 02:17:26 Going to coordinates X=-14.496, Y=-36.018
+15.10 02:17:26 Moving is finished
+15.10 02:19:11 Scanning 292 point from 323
+15.10 02:19:11 Going to coordinates X=-14.396, Y=-36.018
+15.10 02:19:11 Moving is finished
+15.10 02:20:56 Scanning 293 point from 323
+15.10 02:20:56 Going to coordinates X=-14.296, Y=-36.018
+15.10 02:20:56 Moving is finished
+15.10 02:22:41 Scanning 294 point from 323
+15.10 02:22:41 Going to coordinates X=-14.196, Y=-36.018
+15.10 02:22:41 Moving is finished
+15.10 02:24:27 Scanning 295 point from 323
+15.10 02:24:27 Going to coordinates X=-14.096, Y=-36.018
+15.10 02:24:27 Moving is finished
+15.10 02:26:12 Scanning 296 point from 323
+15.10 02:26:12 Going to coordinates X=-13.996, Y=-36.018
+15.10 02:26:12 Moving is finished
+15.10 02:27:57 Scanning 297 point from 323
+15.10 02:27:57 Going to coordinates X=-13.896, Y=-36.018
+15.10 02:27:57 Moving is finished
+15.10 02:29:42 Scanning 298 point from 323
+15.10 02:29:42 Going to coordinates X=-13.796, Y=-36.018
+15.10 02:29:42 Moving is finished
+15.10 02:31:27 Scanning 299 point from 323
+15.10 02:31:27 Going to coordinates X=-13.696, Y=-36.018
+15.10 02:31:27 Moving is finished
+15.10 02:33:12 Scanning 300 point from 323
+15.10 02:33:12 Going to coordinates X=-13.596, Y=-36.018
+15.10 02:33:12 Moving is finished
+15.10 02:34:58 Scanning 301 point from 323
+15.10 02:34:58 Going to coordinates X=-13.496, Y=-36.018
+15.10 02:34:58 Moving is finished
+15.10 02:36:43 Scanning 302 point from 323
+15.10 02:36:43 Going to coordinates X=-13.396, Y=-36.018
+15.10 02:36:43 Moving is finished
+15.10 02:38:28 Scanning 303 point from 323
+15.10 02:38:28 Going to coordinates X=-13.296, Y=-36.018
+15.10 02:38:28 Moving is finished
+15.10 02:40:13 Scanning 304 point from 323
+15.10 02:40:13 Going to coordinates X=-15.096, Y=-35.918
+15.10 02:40:14 Moving is finished
+15.10 02:41:58 Scanning 305 point from 323
+15.10 02:41:58 Going to coordinates X=-14.996, Y=-35.918
+15.10 02:41:59 Moving is finished
+15.10 02:43:43 Scanning 306 point from 323
+15.10 02:43:43 Going to coordinates X=-14.896, Y=-35.918
+15.10 02:43:43 Moving is finished
+15.10 02:45:28 Scanning 307 point from 323
+15.10 02:45:28 Going to coordinates X=-14.796, Y=-35.918
+15.10 02:45:28 Moving is finished
+15.10 02:47:13 Scanning 308 point from 323
+15.10 02:47:13 Going to coordinates X=-14.696, Y=-35.918
+15.10 02:47:13 Moving is finished
+15.10 02:48:58 Scanning 309 point from 323
+15.10 02:48:58 Going to coordinates X=-14.596, Y=-35.918
+15.10 02:48:58 Moving is finished
+15.10 02:50:43 Scanning 310 point from 323
+15.10 02:50:43 Going to coordinates X=-14.496, Y=-35.918
+15.10 02:50:43 Moving is finished
+15.10 02:52:28 Scanning 311 point from 323
+15.10 02:52:28 Going to coordinates X=-14.396, Y=-35.918
+15.10 02:52:29 Moving is finished
+15.10 02:54:13 Scanning 312 point from 323
+15.10 02:54:13 Going to coordinates X=-14.296, Y=-35.918
+15.10 02:54:14 Moving is finished
+15.10 02:55:58 Scanning 313 point from 323
+15.10 02:55:58 Going to coordinates X=-14.196, Y=-35.918
+15.10 02:55:59 Moving is finished
+15.10 02:57:43 Scanning 314 point from 323
+15.10 02:57:43 Going to coordinates X=-14.096, Y=-35.918
+15.10 02:57:44 Moving is finished
+15.10 02:59:29 Scanning 315 point from 323
+15.10 02:59:29 Going to coordinates X=-13.996, Y=-35.918
+15.10 02:59:29 Moving is finished
+15.10 03:01:14 Scanning 316 point from 323
+15.10 03:01:14 Going to coordinates X=-13.896, Y=-35.918
+15.10 03:01:14 Moving is finished
+15.10 03:03:00 Scanning 317 point from 323
+15.10 03:03:00 Going to coordinates X=-13.796, Y=-35.918
+15.10 03:03:00 Moving is finished
+15.10 03:04:45 Scanning 318 point from 323
+15.10 03:04:45 Going to coordinates X=-13.696, Y=-35.918
+15.10 03:04:45 Moving is finished
+15.10 03:06:30 Scanning 319 point from 323
+15.10 03:06:30 Going to coordinates X=-13.596, Y=-35.918
+15.10 03:06:30 Moving is finished
+15.10 03:08:15 Scanning 320 point from 323
+15.10 03:08:15 Going to coordinates X=-13.496, Y=-35.918
+15.10 03:08:15 Moving is finished
+15.10 03:10:00 Scanning 321 point from 323
+15.10 03:10:00 Going to coordinates X=-13.396, Y=-35.918
+15.10 03:10:01 Moving is finished
+15.10 03:11:45 Scanning 322 point from 323
+15.10 03:11:45 Going to coordinates X=-13.296, Y=-35.918
+15.10 03:11:46 Moving is finished

@@ -1,0 +1,59 @@
+15.07 14:06:33 Initializing grbl...
+15.07 14:06:34 Got the response: b''
+15.07 14:12:20 Row 0: 15.07 14:12:20 Map: x1: -13.26, y1: -38.564, x2: -13.226, y2: -38.574, xres: 0.010, yres: 0.010, fname: blmcooh
+15.07 14:12:20 Scanning 0 point from 10
+15.07 14:12:20 Going to coordinates X=-13.260, Y=-38.574
+15.07 14:12:20 Moving is finished
+15.07 14:13:56 Scanning 1 point from 10
+15.07 14:13:56 Going to coordinates X=-13.250, Y=-38.574
+15.07 14:13:57 Moving is finished
+15.07 14:15:33 Scanning 2 point from 10
+15.07 14:15:33 Going to coordinates X=-13.240, Y=-38.574
+15.07 14:15:33 Moving is finished
+15.07 14:17:10 Scanning 3 point from 10
+15.07 14:17:10 Going to coordinates X=-13.230, Y=-38.574
+15.07 14:17:10 Moving is finished
+15.07 14:18:46 Scanning 4 point from 10
+15.07 14:18:46 Going to coordinates X=-13.220, Y=-38.574
+15.07 14:18:46 Moving is finished
+15.07 14:20:23 Scanning 5 point from 10
+15.07 14:20:23 Going to coordinates X=-13.260, Y=-38.564
+15.07 14:20:23 Moving is finished
+15.07 14:21:59 Scanning 6 point from 10
+15.07 14:21:59 Going to coordinates X=-13.250, Y=-38.564
+15.07 14:21:59 Moving is finished
+15.07 14:23:36 Scanning 7 point from 10
+15.07 14:23:36 Going to coordinates X=-13.240, Y=-38.564
+15.07 14:23:36 Moving is finished
+15.07 14:25:12 Scanning 8 point from 10
+15.07 14:25:12 Going to coordinates X=-13.230, Y=-38.564
+15.07 14:25:13 Moving is finished
+15.07 14:26:49 Scanning 9 point from 10
+15.07 14:26:49 Going to coordinates X=-13.220, Y=-38.564
+15.07 14:26:49 Moving is finished
+15.07 14:28:26 Row 1: 15.07 14:28:26 Goto: -13.351; -38.595; 0.000
+15.07 14:28:26 Going to coordinates X=-13.351, Y=-38.595
+15.07 14:28:26 Moving is finished
+15.07 14:28:27 Row 2: 15.07 14:28:27 Raman: blmcooh
+15.07 14:28:27 Starting signal collection to the file blmcooh
+15.07 14:30:06 Data is collected!
+15.07 14:30:06 Row 3: 15.07 14:30:06 Circle: x: -13.351, y: -38.595, rad: 0.010, n: 10, fname: blmcooh
+15.07 14:30:06 Scanning point 1 of circle
+15.07 14:30:06 Going to coordinates X=-13.341, Y=-38.595
+15.07 14:30:06 Moving is finished
+15.07 14:30:07 Starting signal collection to the file blmcooh_circle_1
+15.07 14:31:46 Data is collected!
+15.07 14:31:46 Scanning point 2 of circle
+15.07 14:31:46 Going to coordinates X=-13.343, Y=-38.589
+15.07 14:31:46 Moving is finished
+15.07 14:31:47 Starting signal collection to the file blmcooh_circle_2
+15.07 14:33:27 Data is collected!
+15.07 14:33:27 Scanning point 3 of circle
+15.07 14:33:27 Going to coordinates X=-13.348, Y=-38.585
+15.07 14:33:27 Moving is finished
+15.07 14:33:28 Starting signal collection to the file blmcooh_circle_3
+15.07 14:34:08 Stopped!
+15.07 14:44:39 Status responce is malformed
+15.07 14:44:39 list index out of range
+15.07 14:57:27 Can't send the command to GRBL
+15.07 14:57:27 Write timeout

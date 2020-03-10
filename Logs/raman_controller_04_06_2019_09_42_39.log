@@ -1,0 +1,59 @@
+04.06 09:42:45 Initializing grbl...
+04.06 09:42:45 Got the response: b''
+04.06 09:44:13 Can't send the command to GRBL
+04.06 09:44:13 Write timeout04.06 09:44:13 Write timeout
+
+04.06 09:48:55 Row 0: 04.06 09:48:55 Circle: x: -27.683, y: -38.113, rad: 0.010, n: 10, fname: OLGA AAC
+04.06 09:48:55 Scanning point 1 of circle
+04.06 09:49:45 Going to coordinates X=-27.673, Y=-38.113
+04.06 09:50:45 Moving is finished
+04.06 09:50:46 Starting signal collection to the file OLGAAAC_circle_1
+04.06 09:52:26 Data is collected!
+04.06 09:52:26 Scanning point 2 of circle
+04.06 09:53:16 Going to coordinates X=-27.675, Y=-38.107
+04.06 09:54:16 Moving is finished
+04.06 09:54:17 Starting signal collection to the file OLGAAAC_circle_2
+04.06 09:55:57 Data is collected!
+04.06 09:55:57 Scanning point 3 of circle
+04.06 09:56:47 Going to coordinates X=-27.680, Y=-38.103
+04.06 09:57:47 Moving is finished
+04.06 09:57:48 Starting signal collection to the file OLGAAAC_circle_3
+04.06 09:59:27 Data is collected!
+04.06 09:59:27 Scanning point 4 of circle
+04.06 10:00:17 Going to coordinates X=-27.686, Y=-38.103
+04.06 10:01:17 Moving is finished
+04.06 10:01:18 Starting signal collection to the file OLGAAAC_circle_4
+04.06 10:02:58 Data is collected!
+04.06 10:02:58 Scanning point 5 of circle
+04.06 10:03:48 Going to coordinates X=-27.691, Y=-38.107
+04.06 10:04:48 Moving is finished
+04.06 10:04:49 Starting signal collection to the file OLGAAAC_circle_5
+04.06 10:06:29 Data is collected!
+04.06 10:06:29 Scanning point 6 of circle
+04.06 10:07:19 Going to coordinates X=-27.693, Y=-38.113
+04.06 10:08:19 Moving is finished
+04.06 10:08:20 Starting signal collection to the file OLGAAAC_circle_6
+04.06 10:09:59 Data is collected!
+04.06 10:09:59 Scanning point 7 of circle
+04.06 10:10:49 Going to coordinates X=-27.691, Y=-38.119
+04.06 10:11:49 Moving is finished
+04.06 10:11:50 Starting signal collection to the file OLGAAAC_circle_7
+04.06 10:13:30 Data is collected!
+04.06 10:13:30 Scanning point 8 of circle
+04.06 10:13:30 Going to coordinates X=-27.686, Y=-38.123
+04.06 10:14:30 Moving is finished
+04.06 10:14:31 Starting signal collection to the file OLGAAAC_circle_8
+04.06 10:16:11 Data is collected!
+04.06 10:16:11 Scanning point 9 of circle
+04.06 10:17:01 Going to coordinates X=-27.680, Y=-38.123
+04.06 10:18:01 Moving is finished
+04.06 10:18:02 Starting signal collection to the file OLGAAAC_circle_9
+04.06 10:19:42 Data is collected!
+04.06 10:19:42 Scanning point 10 of circle
+04.06 10:20:32 Going to coordinates X=-27.675, Y=-38.119
+04.06 10:21:32 Moving is finished
+04.06 10:21:33 Starting signal collection to the file OLGAAAC_circle_10
+04.06 10:23:13 Data is collected!
+04.06 11:02:42 Can't send the command to GRBL
+04.06 11:02:42 Write timeout04.06 11:02:42 Write timeout
+

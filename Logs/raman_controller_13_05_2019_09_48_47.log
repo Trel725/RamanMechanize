@@ -1,0 +1,26 @@
+13.05 09:49:19 Initializing grbl...
+13.05 09:49:19 Got the response: b''
+13.05 09:50:35 Can't send the command to GRBL
+13.05 09:50:35 Write timeout13.05 09:50:35 Write timeout
+13.05 09:50:44 Can't send the command to GRBL
+13.05 09:50:44 Write timeout13.05 09:50:44 Write timeout
+
+13.05 09:54:08 Row 0: 13.05 09:54:08 Goto: -30.141; -37.918; 0.000
+13.05 09:54:08 Going to coordinates X=-30.141, Y=-37.918
+13.05 09:54:09 Moving is finished
+13.05 09:54:10 Row 1: 13.05 09:54:10 Raman: coohbez2
+13.05 09:54:10 Starting signal collection to the file coohbez2
+13.05 09:55:49 Data is collected!
+13.05 09:55:49 Row 2: 13.05 09:55:49 Map: x1: -30.102, y1: -38.093, x2: -29.776, y2: -38.423, xres: 0.100, yres: 0.100, fname: coohbez2
+13.05 09:55:49 Scanning 0 point from 25
+13.05 09:55:49 Going to coordinates X=-30.102, Y=-38.423
+13.05 09:55:49 Moving is finished
+13.05 09:57:26 Scanning 1 point from 25
+13.05 09:57:26 Going to coordinates X=-30.002, Y=-38.423
+13.05 09:57:26 Moving is finished
+13.05 09:57:44 Stopped!
+13.05 12:13:39 Can't send the command to GRBL
+13.05 12:13:39 Write timeout13.05 12:13:39 Write timeout
+
+13.05 12:42:36 Can't send the command to GRBL
+13.05 12:42:36 Write timeout

@@ -1,0 +1,2874 @@
+25.04 17:36:09 Initializing grbl...
+25.04 17:36:09 Got the response: b''
+25.04 17:40:03 Row 0: 25.04 17:40:03 Map: x1: -27.79, y1: -40.381, x2: -23.337, y2: -39.773, xres: 0.050, yres: 0.050, fname: NH2term5
+25.04 17:40:03 Scanning 0 point from 1274
+25.04 17:40:03 Going to coordinates X=-27.790, Y=-40.381
+25.04 17:40:04 Moving is finished
+25.04 17:41:10 Scanning 1 point from 1274
+25.04 17:41:10 Going to coordinates X=-27.740, Y=-40.381
+25.04 17:41:10 Moving is finished
+25.04 17:42:16 Scanning 2 point from 1274
+25.04 17:42:16 Going to coordinates X=-27.690, Y=-40.381
+25.04 17:42:16 Moving is finished
+25.04 17:43:22 Scanning 3 point from 1274
+25.04 17:43:22 Going to coordinates X=-27.640, Y=-40.381
+25.04 17:43:23 Moving is finished
+25.04 17:44:28 Scanning 4 point from 1274
+25.04 17:44:28 Going to coordinates X=-27.590, Y=-40.381
+25.04 17:44:28 Moving is finished
+25.04 17:45:34 Scanning 5 point from 1274
+25.04 17:45:34 Going to coordinates X=-27.540, Y=-40.381
+25.04 17:45:34 Moving is finished
+25.04 17:46:40 Scanning 6 point from 1274
+25.04 17:46:40 Going to coordinates X=-27.490, Y=-40.381
+25.04 17:46:40 Moving is finished
+25.04 17:47:46 Scanning 7 point from 1274
+25.04 17:47:46 Going to coordinates X=-27.440, Y=-40.381
+25.04 17:47:46 Moving is finished
+25.04 17:48:52 Scanning 8 point from 1274
+25.04 17:48:52 Going to coordinates X=-27.390, Y=-40.381
+25.04 17:48:52 Moving is finished
+25.04 17:49:58 Scanning 9 point from 1274
+25.04 17:49:58 Going to coordinates X=-27.340, Y=-40.381
+25.04 17:49:58 Moving is finished
+25.04 17:51:03 Scanning 10 point from 1274
+25.04 17:51:03 Going to coordinates X=-27.290, Y=-40.381
+25.04 17:51:03 Moving is finished
+25.04 17:52:09 Scanning 11 point from 1274
+25.04 17:52:09 Going to coordinates X=-27.240, Y=-40.381
+25.04 17:52:09 Moving is finished
+25.04 17:53:15 Scanning 12 point from 1274
+25.04 17:53:15 Going to coordinates X=-27.190, Y=-40.381
+25.04 17:53:16 Moving is finished
+25.04 17:54:21 Scanning 13 point from 1274
+25.04 17:54:21 Going to coordinates X=-27.140, Y=-40.381
+25.04 17:54:22 Moving is finished
+25.04 17:55:27 Scanning 14 point from 1274
+25.04 17:55:27 Going to coordinates X=-27.090, Y=-40.381
+25.04 17:55:28 Moving is finished
+25.04 17:56:33 Scanning 15 point from 1274
+25.04 17:56:33 Going to coordinates X=-27.040, Y=-40.381
+25.04 17:56:34 Moving is finished
+25.04 17:57:39 Scanning 16 point from 1274
+25.04 17:57:39 Going to coordinates X=-26.990, Y=-40.381
+25.04 17:57:40 Moving is finished
+25.04 17:58:45 Scanning 17 point from 1274
+25.04 17:58:45 Going to coordinates X=-26.940, Y=-40.381
+25.04 17:58:46 Moving is finished
+25.04 17:59:52 Scanning 18 point from 1274
+25.04 17:59:52 Going to coordinates X=-26.890, Y=-40.381
+25.04 17:59:52 Moving is finished
+25.04 18:00:58 Scanning 19 point from 1274
+25.04 18:00:58 Going to coordinates X=-26.840, Y=-40.381
+25.04 18:00:58 Moving is finished
+25.04 18:02:03 Scanning 20 point from 1274
+25.04 18:02:03 Going to coordinates X=-26.790, Y=-40.381
+25.04 18:02:04 Moving is finished
+25.04 18:03:09 Scanning 21 point from 1274
+25.04 18:03:09 Going to coordinates X=-26.740, Y=-40.381
+25.04 18:03:09 Moving is finished
+25.04 18:04:15 Scanning 22 point from 1274
+25.04 18:04:15 Going to coordinates X=-26.690, Y=-40.381
+25.04 18:04:15 Moving is finished
+25.04 18:05:21 Scanning 23 point from 1274
+25.04 18:05:21 Going to coordinates X=-26.640, Y=-40.381
+25.04 18:05:21 Moving is finished
+25.04 18:06:27 Scanning 24 point from 1274
+25.04 18:06:27 Going to coordinates X=-26.590, Y=-40.381
+25.04 18:06:27 Moving is finished
+25.04 18:07:33 Scanning 25 point from 1274
+25.04 18:07:33 Going to coordinates X=-26.540, Y=-40.381
+25.04 18:07:33 Moving is finished
+25.04 18:08:39 Scanning 26 point from 1274
+25.04 18:08:39 Going to coordinates X=-26.490, Y=-40.381
+25.04 18:08:39 Moving is finished
+25.04 18:09:44 Scanning 27 point from 1274
+25.04 18:09:44 Going to coordinates X=-26.440, Y=-40.381
+25.04 18:09:44 Moving is finished
+25.04 18:10:51 Scanning 28 point from 1274
+25.04 18:10:51 Going to coordinates X=-26.390, Y=-40.381
+25.04 18:10:51 Moving is finished
+25.04 18:11:57 Scanning 29 point from 1274
+25.04 18:11:57 Going to coordinates X=-26.340, Y=-40.381
+25.04 18:11:57 Moving is finished
+25.04 18:13:03 Scanning 30 point from 1274
+25.04 18:13:03 Going to coordinates X=-26.290, Y=-40.381
+25.04 18:13:03 Moving is finished
+25.04 18:14:09 Scanning 31 point from 1274
+25.04 18:14:09 Going to coordinates X=-26.240, Y=-40.381
+25.04 18:14:09 Moving is finished
+25.04 18:15:15 Scanning 32 point from 1274
+25.04 18:15:15 Going to coordinates X=-26.190, Y=-40.381
+25.04 18:15:16 Moving is finished
+25.04 18:16:22 Scanning 33 point from 1274
+25.04 18:16:22 Going to coordinates X=-26.140, Y=-40.381
+25.04 18:16:22 Moving is finished
+25.04 18:17:28 Scanning 34 point from 1274
+25.04 18:17:28 Going to coordinates X=-26.090, Y=-40.381
+25.04 18:17:28 Moving is finished
+25.04 18:18:34 Scanning 35 point from 1274
+25.04 18:18:34 Going to coordinates X=-26.040, Y=-40.381
+25.04 18:18:34 Moving is finished
+25.04 18:19:40 Scanning 36 point from 1274
+25.04 18:19:40 Going to coordinates X=-25.990, Y=-40.381
+25.04 18:19:40 Moving is finished
+25.04 18:20:48 Scanning 37 point from 1274
+25.04 18:20:48 Going to coordinates X=-25.940, Y=-40.381
+25.04 18:20:48 Moving is finished
+25.04 18:21:54 Scanning 38 point from 1274
+25.04 18:21:54 Going to coordinates X=-25.890, Y=-40.381
+25.04 18:21:54 Moving is finished
+25.04 18:23:00 Scanning 39 point from 1274
+25.04 18:23:00 Going to coordinates X=-25.840, Y=-40.381
+25.04 18:23:00 Moving is finished
+25.04 18:24:06 Scanning 40 point from 1274
+25.04 18:24:06 Going to coordinates X=-25.790, Y=-40.381
+25.04 18:24:06 Moving is finished
+25.04 18:25:12 Scanning 41 point from 1274
+25.04 18:25:12 Going to coordinates X=-25.740, Y=-40.381
+25.04 18:25:12 Moving is finished
+25.04 18:26:18 Scanning 42 point from 1274
+25.04 18:26:18 Going to coordinates X=-25.690, Y=-40.381
+25.04 18:26:18 Moving is finished
+25.04 18:27:24 Scanning 43 point from 1274
+25.04 18:27:24 Going to coordinates X=-25.640, Y=-40.381
+25.04 18:27:24 Moving is finished
+25.04 18:28:30 Scanning 44 point from 1274
+25.04 18:28:30 Going to coordinates X=-25.590, Y=-40.381
+25.04 18:28:30 Moving is finished
+25.04 18:29:36 Scanning 45 point from 1274
+25.04 18:29:36 Going to coordinates X=-25.540, Y=-40.381
+25.04 18:29:36 Moving is finished
+25.04 18:30:42 Scanning 46 point from 1274
+25.04 18:30:42 Going to coordinates X=-25.490, Y=-40.381
+25.04 18:30:42 Moving is finished
+25.04 18:31:48 Scanning 47 point from 1274
+25.04 18:31:48 Going to coordinates X=-25.440, Y=-40.381
+25.04 18:31:48 Moving is finished
+25.04 18:32:54 Scanning 48 point from 1274
+25.04 18:32:54 Going to coordinates X=-25.390, Y=-40.381
+25.04 18:32:54 Moving is finished
+25.04 18:34:00 Scanning 49 point from 1274
+25.04 18:34:00 Going to coordinates X=-25.340, Y=-40.381
+25.04 18:34:00 Moving is finished
+25.04 18:35:07 Scanning 50 point from 1274
+25.04 18:35:07 Going to coordinates X=-25.290, Y=-40.381
+25.04 18:35:07 Moving is finished
+25.04 18:36:13 Scanning 51 point from 1274
+25.04 18:36:13 Going to coordinates X=-25.240, Y=-40.381
+25.04 18:36:13 Moving is finished
+25.04 18:37:19 Scanning 52 point from 1274
+25.04 18:37:19 Going to coordinates X=-25.190, Y=-40.381
+25.04 18:37:20 Moving is finished
+25.04 18:38:25 Scanning 53 point from 1274
+25.04 18:38:25 Going to coordinates X=-25.140, Y=-40.381
+25.04 18:38:26 Moving is finished
+25.04 18:39:31 Scanning 54 point from 1274
+25.04 18:39:31 Going to coordinates X=-25.090, Y=-40.381
+25.04 18:39:32 Moving is finished
+25.04 18:40:38 Scanning 55 point from 1274
+25.04 18:40:38 Going to coordinates X=-25.040, Y=-40.381
+25.04 18:40:38 Moving is finished
+25.04 18:41:44 Scanning 56 point from 1274
+25.04 18:41:44 Going to coordinates X=-24.990, Y=-40.381
+25.04 18:41:44 Moving is finished
+25.04 18:42:50 Scanning 57 point from 1274
+25.04 18:42:50 Going to coordinates X=-24.940, Y=-40.381
+25.04 18:42:50 Moving is finished
+25.04 18:43:55 Scanning 58 point from 1274
+25.04 18:43:55 Going to coordinates X=-24.890, Y=-40.381
+25.04 18:43:55 Moving is finished
+25.04 18:45:01 Scanning 59 point from 1274
+25.04 18:45:01 Going to coordinates X=-24.840, Y=-40.381
+25.04 18:45:01 Moving is finished
+25.04 18:46:07 Scanning 60 point from 1274
+25.04 18:46:07 Going to coordinates X=-24.790, Y=-40.381
+25.04 18:46:07 Moving is finished
+25.04 18:47:13 Scanning 61 point from 1274
+25.04 18:47:13 Going to coordinates X=-24.740, Y=-40.381
+25.04 18:47:13 Moving is finished
+25.04 18:48:19 Scanning 62 point from 1274
+25.04 18:48:19 Going to coordinates X=-24.690, Y=-40.381
+25.04 18:48:19 Moving is finished
+25.04 18:49:25 Scanning 63 point from 1274
+25.04 18:49:25 Going to coordinates X=-24.640, Y=-40.381
+25.04 18:49:25 Moving is finished
+25.04 18:50:31 Scanning 64 point from 1274
+25.04 18:50:31 Going to coordinates X=-24.590, Y=-40.381
+25.04 18:50:31 Moving is finished
+25.04 18:51:37 Scanning 65 point from 1274
+25.04 18:51:37 Going to coordinates X=-24.540, Y=-40.381
+25.04 18:51:37 Moving is finished
+25.04 18:52:43 Scanning 66 point from 1274
+25.04 18:52:43 Going to coordinates X=-24.490, Y=-40.381
+25.04 18:52:44 Moving is finished
+25.04 18:53:49 Scanning 67 point from 1274
+25.04 18:53:49 Going to coordinates X=-24.440, Y=-40.381
+25.04 18:53:49 Moving is finished
+25.04 18:54:55 Scanning 68 point from 1274
+25.04 18:54:55 Going to coordinates X=-24.390, Y=-40.381
+25.04 18:54:55 Moving is finished
+25.04 18:56:01 Scanning 69 point from 1274
+25.04 18:56:01 Going to coordinates X=-24.340, Y=-40.381
+25.04 18:56:01 Moving is finished
+25.04 18:57:07 Scanning 70 point from 1274
+25.04 18:57:07 Going to coordinates X=-24.290, Y=-40.381
+25.04 18:57:07 Moving is finished
+25.04 18:58:13 Scanning 71 point from 1274
+25.04 18:58:13 Going to coordinates X=-24.240, Y=-40.381
+25.04 18:58:13 Moving is finished
+25.04 18:59:19 Scanning 72 point from 1274
+25.04 18:59:19 Going to coordinates X=-24.190, Y=-40.381
+25.04 18:59:19 Moving is finished
+25.04 19:00:25 Scanning 73 point from 1274
+25.04 19:00:25 Going to coordinates X=-24.140, Y=-40.381
+25.04 19:00:25 Moving is finished
+25.04 19:01:31 Scanning 74 point from 1274
+25.04 19:01:31 Going to coordinates X=-24.090, Y=-40.381
+25.04 19:01:31 Moving is finished
+25.04 19:02:38 Scanning 75 point from 1274
+25.04 19:02:38 Going to coordinates X=-24.040, Y=-40.381
+25.04 19:02:38 Moving is finished
+25.04 19:03:44 Scanning 76 point from 1274
+25.04 19:03:44 Going to coordinates X=-23.990, Y=-40.381
+25.04 19:03:44 Moving is finished
+25.04 19:04:50 Scanning 77 point from 1274
+25.04 19:04:50 Going to coordinates X=-23.940, Y=-40.381
+25.04 19:04:51 Moving is finished
+25.04 19:05:56 Scanning 78 point from 1274
+25.04 19:05:56 Going to coordinates X=-23.890, Y=-40.381
+25.04 19:05:57 Moving is finished
+25.04 19:07:02 Scanning 79 point from 1274
+25.04 19:07:02 Going to coordinates X=-23.840, Y=-40.381
+25.04 19:07:02 Moving is finished
+25.04 19:08:08 Scanning 80 point from 1274
+25.04 19:08:08 Going to coordinates X=-23.790, Y=-40.381
+25.04 19:08:09 Moving is finished
+25.04 19:09:15 Scanning 81 point from 1274
+25.04 19:09:15 Going to coordinates X=-23.740, Y=-40.381
+25.04 19:09:15 Moving is finished
+25.04 19:10:20 Scanning 82 point from 1274
+25.04 19:10:20 Going to coordinates X=-23.690, Y=-40.381
+25.04 19:10:21 Moving is finished
+25.04 19:11:27 Scanning 83 point from 1274
+25.04 19:11:27 Going to coordinates X=-23.640, Y=-40.381
+25.04 19:11:27 Moving is finished
+25.04 19:12:33 Scanning 84 point from 1274
+25.04 19:12:33 Going to coordinates X=-23.590, Y=-40.381
+25.04 19:12:33 Moving is finished
+25.04 19:13:39 Scanning 85 point from 1274
+25.04 19:13:39 Going to coordinates X=-23.540, Y=-40.381
+25.04 19:13:39 Moving is finished
+25.04 19:14:45 Scanning 86 point from 1274
+25.04 19:14:45 Going to coordinates X=-23.490, Y=-40.381
+25.04 19:14:45 Moving is finished
+25.04 19:15:52 Scanning 87 point from 1274
+25.04 19:15:52 Going to coordinates X=-23.440, Y=-40.381
+25.04 19:15:52 Moving is finished
+25.04 19:16:59 Scanning 88 point from 1274
+25.04 19:16:59 Going to coordinates X=-23.390, Y=-40.381
+25.04 19:16:59 Moving is finished
+25.04 19:18:04 Scanning 89 point from 1274
+25.04 19:18:04 Going to coordinates X=-23.340, Y=-40.381
+25.04 19:18:05 Moving is finished
+25.04 19:19:10 Scanning 90 point from 1274
+25.04 19:19:10 Going to coordinates X=-23.290, Y=-40.381
+25.04 19:19:10 Moving is finished
+25.04 19:20:16 Scanning 91 point from 1274
+25.04 19:20:16 Going to coordinates X=-27.790, Y=-40.331
+25.04 19:20:18 Moving is finished
+25.04 19:21:23 Scanning 92 point from 1274
+25.04 19:21:23 Going to coordinates X=-27.740, Y=-40.331
+25.04 19:21:24 Moving is finished
+25.04 19:22:30 Scanning 93 point from 1274
+25.04 19:22:30 Going to coordinates X=-27.690, Y=-40.331
+25.04 19:22:30 Moving is finished
+25.04 19:23:37 Scanning 94 point from 1274
+25.04 19:23:37 Going to coordinates X=-27.640, Y=-40.331
+25.04 19:23:37 Moving is finished
+25.04 19:24:43 Scanning 95 point from 1274
+25.04 19:24:43 Going to coordinates X=-27.590, Y=-40.331
+25.04 19:24:43 Moving is finished
+25.04 19:25:49 Scanning 96 point from 1274
+25.04 19:25:49 Going to coordinates X=-27.540, Y=-40.331
+25.04 19:25:49 Moving is finished
+25.04 19:26:54 Scanning 97 point from 1274
+25.04 19:26:54 Going to coordinates X=-27.490, Y=-40.331
+25.04 19:26:55 Moving is finished
+25.04 19:28:00 Scanning 98 point from 1274
+25.04 19:28:00 Going to coordinates X=-27.440, Y=-40.331
+25.04 19:28:00 Moving is finished
+25.04 19:29:06 Scanning 99 point from 1274
+25.04 19:29:06 Going to coordinates X=-27.390, Y=-40.331
+25.04 19:29:06 Moving is finished
+25.04 19:30:12 Scanning 100 point from 1274
+25.04 19:30:12 Going to coordinates X=-27.340, Y=-40.331
+25.04 19:30:12 Moving is finished
+25.04 19:31:18 Scanning 101 point from 1274
+25.04 19:31:18 Going to coordinates X=-27.290, Y=-40.331
+25.04 19:31:18 Moving is finished
+25.04 19:32:24 Scanning 102 point from 1274
+25.04 19:32:24 Going to coordinates X=-27.240, Y=-40.331
+25.04 19:32:24 Moving is finished
+25.04 19:33:30 Scanning 103 point from 1274
+25.04 19:33:30 Going to coordinates X=-27.190, Y=-40.331
+25.04 19:33:30 Moving is finished
+25.04 19:34:36 Scanning 104 point from 1274
+25.04 19:34:36 Going to coordinates X=-27.140, Y=-40.331
+25.04 19:34:36 Moving is finished
+25.04 19:35:42 Scanning 105 point from 1274
+25.04 19:35:42 Going to coordinates X=-27.090, Y=-40.331
+25.04 19:35:42 Moving is finished
+25.04 19:36:48 Scanning 106 point from 1274
+25.04 19:36:48 Going to coordinates X=-27.040, Y=-40.331
+25.04 19:36:48 Moving is finished
+25.04 19:37:55 Scanning 107 point from 1274
+25.04 19:37:55 Going to coordinates X=-26.990, Y=-40.331
+25.04 19:37:55 Moving is finished
+25.04 19:39:01 Scanning 108 point from 1274
+25.04 19:39:01 Going to coordinates X=-26.940, Y=-40.331
+25.04 19:39:01 Moving is finished
+25.04 19:40:07 Scanning 109 point from 1274
+25.04 19:40:07 Going to coordinates X=-26.890, Y=-40.331
+25.04 19:40:08 Moving is finished
+25.04 19:41:13 Scanning 110 point from 1274
+25.04 19:41:13 Going to coordinates X=-26.840, Y=-40.331
+25.04 19:41:13 Moving is finished
+25.04 19:42:19 Scanning 111 point from 1274
+25.04 19:42:19 Going to coordinates X=-26.790, Y=-40.331
+25.04 19:42:19 Moving is finished
+25.04 19:43:25 Scanning 112 point from 1274
+25.04 19:43:25 Going to coordinates X=-26.740, Y=-40.331
+25.04 19:43:25 Moving is finished
+25.04 19:44:31 Scanning 113 point from 1274
+25.04 19:44:31 Going to coordinates X=-26.690, Y=-40.331
+25.04 19:44:32 Moving is finished
+25.04 19:45:38 Scanning 114 point from 1274
+25.04 19:45:38 Going to coordinates X=-26.640, Y=-40.331
+25.04 19:45:38 Moving is finished
+25.04 19:46:44 Scanning 115 point from 1274
+25.04 19:46:44 Going to coordinates X=-26.590, Y=-40.331
+25.04 19:46:44 Moving is finished
+25.04 19:47:50 Scanning 116 point from 1274
+25.04 19:47:50 Going to coordinates X=-26.540, Y=-40.331
+25.04 19:47:50 Moving is finished
+25.04 19:48:56 Scanning 117 point from 1274
+25.04 19:48:56 Going to coordinates X=-26.490, Y=-40.331
+25.04 19:48:57 Moving is finished
+25.04 19:50:02 Scanning 118 point from 1274
+25.04 19:50:02 Going to coordinates X=-26.440, Y=-40.331
+25.04 19:50:02 Moving is finished
+25.04 19:51:09 Scanning 119 point from 1274
+25.04 19:51:09 Going to coordinates X=-26.390, Y=-40.331
+25.04 19:51:09 Moving is finished
+25.04 19:52:14 Scanning 120 point from 1274
+25.04 19:52:14 Going to coordinates X=-26.340, Y=-40.331
+25.04 19:52:15 Moving is finished
+25.04 19:53:20 Scanning 121 point from 1274
+25.04 19:53:20 Going to coordinates X=-26.290, Y=-40.331
+25.04 19:53:20 Moving is finished
+25.04 19:54:26 Scanning 122 point from 1274
+25.04 19:54:26 Going to coordinates X=-26.240, Y=-40.331
+25.04 19:54:27 Moving is finished
+25.04 19:55:33 Scanning 123 point from 1274
+25.04 19:55:33 Going to coordinates X=-26.190, Y=-40.331
+25.04 19:55:33 Moving is finished
+25.04 19:56:38 Scanning 124 point from 1274
+25.04 19:56:38 Going to coordinates X=-26.140, Y=-40.331
+25.04 19:56:39 Moving is finished
+25.04 19:57:44 Scanning 125 point from 1274
+25.04 19:57:44 Going to coordinates X=-26.090, Y=-40.331
+25.04 19:57:45 Moving is finished
+25.04 19:58:50 Scanning 126 point from 1274
+25.04 19:58:50 Going to coordinates X=-26.040, Y=-40.331
+25.04 19:58:51 Moving is finished
+25.04 19:59:56 Scanning 127 point from 1274
+25.04 19:59:56 Going to coordinates X=-25.990, Y=-40.331
+25.04 19:59:56 Moving is finished
+25.04 20:01:02 Scanning 128 point from 1274
+25.04 20:01:02 Going to coordinates X=-25.940, Y=-40.331
+25.04 20:01:02 Moving is finished
+25.04 20:02:08 Scanning 129 point from 1274
+25.04 20:02:08 Going to coordinates X=-25.890, Y=-40.331
+25.04 20:02:09 Moving is finished
+25.04 20:03:15 Scanning 130 point from 1274
+25.04 20:03:15 Going to coordinates X=-25.840, Y=-40.331
+25.04 20:03:15 Moving is finished
+25.04 20:04:21 Scanning 131 point from 1274
+25.04 20:04:21 Going to coordinates X=-25.790, Y=-40.331
+25.04 20:04:21 Moving is finished
+25.04 20:05:26 Scanning 132 point from 1274
+25.04 20:05:26 Going to coordinates X=-25.740, Y=-40.331
+25.04 20:05:27 Moving is finished
+25.04 20:06:32 Scanning 133 point from 1274
+25.04 20:06:32 Going to coordinates X=-25.690, Y=-40.331
+25.04 20:06:32 Moving is finished
+25.04 20:07:38 Scanning 134 point from 1274
+25.04 20:07:38 Going to coordinates X=-25.640, Y=-40.331
+25.04 20:07:38 Moving is finished
+25.04 20:08:44 Scanning 135 point from 1274
+25.04 20:08:44 Going to coordinates X=-25.590, Y=-40.331
+25.04 20:08:44 Moving is finished
+25.04 20:09:49 Scanning 136 point from 1274
+25.04 20:09:49 Going to coordinates X=-25.540, Y=-40.331
+25.04 20:09:49 Moving is finished
+25.04 20:10:55 Scanning 137 point from 1274
+25.04 20:10:55 Going to coordinates X=-25.490, Y=-40.331
+25.04 20:10:55 Moving is finished
+25.04 20:12:01 Scanning 138 point from 1274
+25.04 20:12:01 Going to coordinates X=-25.440, Y=-40.331
+25.04 20:12:01 Moving is finished
+25.04 20:13:07 Scanning 139 point from 1274
+25.04 20:13:07 Going to coordinates X=-25.390, Y=-40.331
+25.04 20:13:07 Moving is finished
+25.04 20:14:13 Scanning 140 point from 1274
+25.04 20:14:13 Going to coordinates X=-25.340, Y=-40.331
+25.04 20:14:13 Moving is finished
+25.04 20:15:19 Scanning 141 point from 1274
+25.04 20:15:19 Going to coordinates X=-25.290, Y=-40.331
+25.04 20:15:19 Moving is finished
+25.04 20:16:24 Scanning 142 point from 1274
+25.04 20:16:24 Going to coordinates X=-25.240, Y=-40.331
+25.04 20:16:24 Moving is finished
+25.04 20:17:30 Scanning 143 point from 1274
+25.04 20:17:30 Going to coordinates X=-25.190, Y=-40.331
+25.04 20:17:30 Moving is finished
+25.04 20:18:37 Scanning 144 point from 1274
+25.04 20:18:37 Going to coordinates X=-25.140, Y=-40.331
+25.04 20:18:37 Moving is finished
+25.04 20:19:43 Scanning 145 point from 1274
+25.04 20:19:43 Going to coordinates X=-25.090, Y=-40.331
+25.04 20:19:43 Moving is finished
+25.04 20:20:49 Scanning 146 point from 1274
+25.04 20:20:49 Going to coordinates X=-25.040, Y=-40.331
+25.04 20:20:50 Moving is finished
+25.04 20:21:56 Scanning 147 point from 1274
+25.04 20:21:56 Going to coordinates X=-24.990, Y=-40.331
+25.04 20:21:56 Moving is finished
+25.04 20:23:02 Scanning 148 point from 1274
+25.04 20:23:02 Going to coordinates X=-24.940, Y=-40.331
+25.04 20:23:02 Moving is finished
+25.04 20:24:08 Scanning 149 point from 1274
+25.04 20:24:08 Going to coordinates X=-24.890, Y=-40.331
+25.04 20:24:08 Moving is finished
+25.04 20:25:15 Scanning 150 point from 1274
+25.04 20:25:15 Going to coordinates X=-24.840, Y=-40.331
+25.04 20:25:15 Moving is finished
+25.04 20:26:20 Scanning 151 point from 1274
+25.04 20:26:20 Going to coordinates X=-24.790, Y=-40.331
+25.04 20:26:21 Moving is finished
+25.04 20:27:27 Scanning 152 point from 1274
+25.04 20:27:27 Going to coordinates X=-24.740, Y=-40.331
+25.04 20:27:27 Moving is finished
+25.04 20:28:33 Scanning 153 point from 1274
+25.04 20:28:33 Going to coordinates X=-24.690, Y=-40.331
+25.04 20:28:33 Moving is finished
+25.04 20:29:39 Scanning 154 point from 1274
+25.04 20:29:39 Going to coordinates X=-24.640, Y=-40.331
+25.04 20:29:39 Moving is finished
+25.04 20:30:45 Scanning 155 point from 1274
+25.04 20:30:45 Going to coordinates X=-24.590, Y=-40.331
+25.04 20:30:45 Moving is finished
+25.04 20:31:51 Scanning 156 point from 1274
+25.04 20:31:51 Going to coordinates X=-24.540, Y=-40.331
+25.04 20:31:51 Moving is finished
+25.04 20:32:56 Scanning 157 point from 1274
+25.04 20:32:56 Going to coordinates X=-24.490, Y=-40.331
+25.04 20:32:57 Moving is finished
+25.04 20:34:03 Scanning 158 point from 1274
+25.04 20:34:03 Going to coordinates X=-24.440, Y=-40.331
+25.04 20:34:03 Moving is finished
+25.04 20:35:09 Scanning 159 point from 1274
+25.04 20:35:09 Going to coordinates X=-24.390, Y=-40.331
+25.04 20:35:09 Moving is finished
+25.04 20:36:15 Scanning 160 point from 1274
+25.04 20:36:15 Going to coordinates X=-24.340, Y=-40.331
+25.04 20:36:15 Moving is finished
+25.04 20:37:21 Scanning 161 point from 1274
+25.04 20:37:21 Going to coordinates X=-24.290, Y=-40.331
+25.04 20:37:21 Moving is finished
+25.04 20:38:27 Scanning 162 point from 1274
+25.04 20:38:27 Going to coordinates X=-24.240, Y=-40.331
+25.04 20:38:27 Moving is finished
+25.04 20:39:33 Scanning 163 point from 1274
+25.04 20:39:33 Going to coordinates X=-24.190, Y=-40.331
+25.04 20:39:33 Moving is finished
+25.04 20:40:38 Scanning 164 point from 1274
+25.04 20:40:38 Going to coordinates X=-24.140, Y=-40.331
+25.04 20:40:39 Moving is finished
+25.04 20:41:44 Scanning 165 point from 1274
+25.04 20:41:44 Going to coordinates X=-24.090, Y=-40.331
+25.04 20:41:45 Moving is finished
+25.04 20:42:50 Scanning 166 point from 1274
+25.04 20:42:50 Going to coordinates X=-24.040, Y=-40.331
+25.04 20:42:51 Moving is finished
+25.04 20:43:56 Scanning 167 point from 1274
+25.04 20:43:56 Going to coordinates X=-23.990, Y=-40.331
+25.04 20:43:56 Moving is finished
+25.04 20:45:02 Scanning 168 point from 1274
+25.04 20:45:02 Going to coordinates X=-23.940, Y=-40.331
+25.04 20:45:02 Moving is finished
+25.04 20:46:08 Scanning 169 point from 1274
+25.04 20:46:08 Going to coordinates X=-23.890, Y=-40.331
+25.04 20:46:08 Moving is finished
+25.04 20:47:14 Scanning 170 point from 1274
+25.04 20:47:14 Going to coordinates X=-23.840, Y=-40.331
+25.04 20:47:14 Moving is finished
+25.04 20:48:21 Scanning 171 point from 1274
+25.04 20:48:21 Going to coordinates X=-23.790, Y=-40.331
+25.04 20:48:21 Moving is finished
+25.04 20:49:27 Scanning 172 point from 1274
+25.04 20:49:27 Going to coordinates X=-23.740, Y=-40.331
+25.04 20:49:28 Moving is finished
+25.04 20:50:34 Scanning 173 point from 1274
+25.04 20:50:34 Going to coordinates X=-23.690, Y=-40.331
+25.04 20:50:34 Moving is finished
+25.04 20:51:40 Scanning 174 point from 1274
+25.04 20:51:40 Going to coordinates X=-23.640, Y=-40.331
+25.04 20:51:40 Moving is finished
+25.04 20:52:46 Scanning 175 point from 1274
+25.04 20:52:46 Going to coordinates X=-23.590, Y=-40.331
+25.04 20:52:46 Moving is finished
+25.04 20:53:53 Scanning 176 point from 1274
+25.04 20:53:53 Going to coordinates X=-23.540, Y=-40.331
+25.04 20:53:53 Moving is finished
+25.04 20:54:58 Scanning 177 point from 1274
+25.04 20:54:58 Going to coordinates X=-23.490, Y=-40.331
+25.04 20:54:59 Moving is finished
+25.04 20:56:05 Scanning 178 point from 1274
+25.04 20:56:05 Going to coordinates X=-23.440, Y=-40.331
+25.04 20:56:05 Moving is finished
+25.04 20:57:11 Scanning 179 point from 1274
+25.04 20:57:11 Going to coordinates X=-23.390, Y=-40.331
+25.04 20:57:12 Moving is finished
+25.04 20:58:17 Scanning 180 point from 1274
+25.04 20:58:17 Going to coordinates X=-23.340, Y=-40.331
+25.04 20:58:18 Moving is finished
+25.04 20:59:24 Scanning 181 point from 1274
+25.04 20:59:24 Going to coordinates X=-23.290, Y=-40.331
+25.04 20:59:24 Moving is finished
+25.04 21:00:30 Scanning 182 point from 1274
+25.04 21:00:30 Going to coordinates X=-27.790, Y=-40.281
+25.04 21:00:32 Moving is finished
+25.04 21:01:38 Scanning 183 point from 1274
+25.04 21:01:38 Going to coordinates X=-27.740, Y=-40.281
+25.04 21:01:39 Moving is finished
+25.04 21:02:44 Scanning 184 point from 1274
+25.04 21:02:44 Going to coordinates X=-27.690, Y=-40.281
+25.04 21:02:44 Moving is finished
+25.04 21:03:51 Scanning 185 point from 1274
+25.04 21:03:51 Going to coordinates X=-27.640, Y=-40.281
+25.04 21:03:51 Moving is finished
+25.04 21:04:57 Scanning 186 point from 1274
+25.04 21:04:57 Going to coordinates X=-27.590, Y=-40.281
+25.04 21:04:57 Moving is finished
+25.04 21:06:03 Scanning 187 point from 1274
+25.04 21:06:03 Going to coordinates X=-27.540, Y=-40.281
+25.04 21:06:03 Moving is finished
+25.04 21:07:09 Scanning 188 point from 1274
+25.04 21:07:09 Going to coordinates X=-27.490, Y=-40.281
+25.04 21:07:10 Moving is finished
+25.04 21:08:16 Scanning 189 point from 1274
+25.04 21:08:16 Going to coordinates X=-27.440, Y=-40.281
+25.04 21:08:16 Moving is finished
+25.04 21:09:21 Scanning 190 point from 1274
+25.04 21:09:21 Going to coordinates X=-27.390, Y=-40.281
+25.04 21:09:22 Moving is finished
+25.04 21:10:28 Scanning 191 point from 1274
+25.04 21:10:28 Going to coordinates X=-27.340, Y=-40.281
+25.04 21:10:28 Moving is finished
+25.04 21:11:34 Scanning 192 point from 1274
+25.04 21:11:34 Going to coordinates X=-27.290, Y=-40.281
+25.04 21:11:35 Moving is finished
+25.04 21:12:40 Scanning 193 point from 1274
+25.04 21:12:40 Going to coordinates X=-27.240, Y=-40.281
+25.04 21:12:40 Moving is finished
+25.04 21:13:46 Scanning 194 point from 1274
+25.04 21:13:46 Going to coordinates X=-27.190, Y=-40.281
+25.04 21:13:46 Moving is finished
+25.04 21:14:52 Scanning 195 point from 1274
+25.04 21:14:52 Going to coordinates X=-27.140, Y=-40.281
+25.04 21:14:52 Moving is finished
+25.04 21:15:58 Scanning 196 point from 1274
+25.04 21:15:58 Going to coordinates X=-27.090, Y=-40.281
+25.04 21:15:58 Moving is finished
+25.04 21:17:04 Scanning 197 point from 1274
+25.04 21:17:04 Going to coordinates X=-27.040, Y=-40.281
+25.04 21:17:04 Moving is finished
+25.04 21:18:09 Scanning 198 point from 1274
+25.04 21:18:09 Going to coordinates X=-26.990, Y=-40.281
+25.04 21:18:10 Moving is finished
+25.04 21:19:16 Scanning 199 point from 1274
+25.04 21:19:16 Going to coordinates X=-26.940, Y=-40.281
+25.04 21:19:16 Moving is finished
+25.04 21:20:21 Scanning 200 point from 1274
+25.04 21:20:21 Going to coordinates X=-26.890, Y=-40.281
+25.04 21:20:21 Moving is finished
+25.04 21:21:27 Scanning 201 point from 1274
+25.04 21:21:27 Going to coordinates X=-26.840, Y=-40.281
+25.04 21:21:27 Moving is finished
+25.04 21:22:32 Scanning 202 point from 1274
+25.04 21:22:32 Going to coordinates X=-26.790, Y=-40.281
+25.04 21:22:33 Moving is finished
+25.04 21:23:39 Scanning 203 point from 1274
+25.04 21:23:39 Going to coordinates X=-26.740, Y=-40.281
+25.04 21:23:39 Moving is finished
+25.04 21:24:46 Scanning 204 point from 1274
+25.04 21:24:46 Going to coordinates X=-26.690, Y=-40.281
+25.04 21:24:46 Moving is finished
+25.04 21:25:51 Scanning 205 point from 1274
+25.04 21:25:51 Going to coordinates X=-26.640, Y=-40.281
+25.04 21:25:52 Moving is finished
+25.04 21:26:58 Scanning 206 point from 1274
+25.04 21:26:58 Going to coordinates X=-26.590, Y=-40.281
+25.04 21:26:58 Moving is finished
+25.04 21:28:03 Scanning 207 point from 1274
+25.04 21:28:03 Going to coordinates X=-26.540, Y=-40.281
+25.04 21:28:04 Moving is finished
+25.04 21:29:09 Scanning 208 point from 1274
+25.04 21:29:09 Going to coordinates X=-26.490, Y=-40.281
+25.04 21:29:10 Moving is finished
+25.04 21:30:16 Scanning 209 point from 1274
+25.04 21:30:16 Going to coordinates X=-26.440, Y=-40.281
+25.04 21:30:16 Moving is finished
+25.04 21:31:22 Scanning 210 point from 1274
+25.04 21:31:22 Going to coordinates X=-26.390, Y=-40.281
+25.04 21:31:22 Moving is finished
+25.04 21:32:28 Scanning 211 point from 1274
+25.04 21:32:28 Going to coordinates X=-26.340, Y=-40.281
+25.04 21:32:28 Moving is finished
+25.04 21:33:34 Scanning 212 point from 1274
+25.04 21:33:34 Going to coordinates X=-26.290, Y=-40.281
+25.04 21:33:34 Moving is finished
+25.04 21:34:40 Scanning 213 point from 1274
+25.04 21:34:40 Going to coordinates X=-26.240, Y=-40.281
+25.04 21:34:40 Moving is finished
+25.04 21:35:46 Scanning 214 point from 1274
+25.04 21:35:46 Going to coordinates X=-26.190, Y=-40.281
+25.04 21:35:46 Moving is finished
+25.04 21:36:52 Scanning 215 point from 1274
+25.04 21:36:52 Going to coordinates X=-26.140, Y=-40.281
+25.04 21:36:52 Moving is finished
+25.04 21:37:58 Scanning 216 point from 1274
+25.04 21:37:58 Going to coordinates X=-26.090, Y=-40.281
+25.04 21:37:59 Moving is finished
+25.04 21:39:04 Scanning 217 point from 1274
+25.04 21:39:04 Going to coordinates X=-26.040, Y=-40.281
+25.04 21:39:04 Moving is finished
+25.04 21:40:09 Scanning 218 point from 1274
+25.04 21:40:09 Going to coordinates X=-25.990, Y=-40.281
+25.04 21:40:10 Moving is finished
+25.04 21:41:16 Scanning 219 point from 1274
+25.04 21:41:16 Going to coordinates X=-25.940, Y=-40.281
+25.04 21:41:16 Moving is finished
+25.04 21:42:21 Scanning 220 point from 1274
+25.04 21:42:21 Going to coordinates X=-25.890, Y=-40.281
+25.04 21:42:22 Moving is finished
+25.04 21:43:27 Scanning 221 point from 1274
+25.04 21:43:27 Going to coordinates X=-25.840, Y=-40.281
+25.04 21:43:27 Moving is finished
+25.04 21:44:33 Scanning 222 point from 1274
+25.04 21:44:33 Going to coordinates X=-25.790, Y=-40.281
+25.04 21:44:33 Moving is finished
+25.04 21:45:40 Scanning 223 point from 1274
+25.04 21:45:40 Going to coordinates X=-25.740, Y=-40.281
+25.04 21:45:40 Moving is finished
+25.04 21:46:46 Scanning 224 point from 1274
+25.04 21:46:46 Going to coordinates X=-25.690, Y=-40.281
+25.04 21:46:46 Moving is finished
+25.04 21:47:52 Scanning 225 point from 1274
+25.04 21:47:52 Going to coordinates X=-25.640, Y=-40.281
+25.04 21:47:52 Moving is finished
+25.04 21:48:58 Scanning 226 point from 1274
+25.04 21:48:58 Going to coordinates X=-25.590, Y=-40.281
+25.04 21:48:58 Moving is finished
+25.04 21:50:04 Scanning 227 point from 1274
+25.04 21:50:04 Going to coordinates X=-25.540, Y=-40.281
+25.04 21:50:05 Moving is finished
+25.04 21:51:10 Scanning 228 point from 1274
+25.04 21:51:10 Going to coordinates X=-25.490, Y=-40.281
+25.04 21:51:11 Moving is finished
+25.04 21:52:17 Scanning 229 point from 1274
+25.04 21:52:17 Going to coordinates X=-25.440, Y=-40.281
+25.04 21:52:17 Moving is finished
+25.04 21:53:24 Scanning 230 point from 1274
+25.04 21:53:24 Going to coordinates X=-25.390, Y=-40.281
+25.04 21:53:24 Moving is finished
+25.04 21:54:30 Scanning 231 point from 1274
+25.04 21:54:30 Going to coordinates X=-25.340, Y=-40.281
+25.04 21:54:30 Moving is finished
+25.04 21:55:36 Scanning 232 point from 1274
+25.04 21:55:36 Going to coordinates X=-25.290, Y=-40.281
+25.04 21:55:36 Moving is finished
+25.04 21:56:42 Scanning 233 point from 1274
+25.04 21:56:42 Going to coordinates X=-25.240, Y=-40.281
+25.04 21:56:42 Moving is finished
+25.04 21:57:47 Scanning 234 point from 1274
+25.04 21:57:47 Going to coordinates X=-25.190, Y=-40.281
+25.04 21:57:47 Moving is finished
+25.04 21:58:53 Scanning 235 point from 1274
+25.04 21:58:53 Going to coordinates X=-25.140, Y=-40.281
+25.04 21:58:54 Moving is finished
+25.04 21:59:59 Scanning 236 point from 1274
+25.04 21:59:59 Going to coordinates X=-25.090, Y=-40.281
+25.04 22:00:00 Moving is finished
+25.04 22:01:06 Scanning 237 point from 1274
+25.04 22:01:06 Going to coordinates X=-25.040, Y=-40.281
+25.04 22:01:06 Moving is finished
+25.04 22:02:12 Scanning 238 point from 1274
+25.04 22:02:12 Going to coordinates X=-24.990, Y=-40.281
+25.04 22:02:12 Moving is finished
+25.04 22:03:18 Scanning 239 point from 1274
+25.04 22:03:18 Going to coordinates X=-24.940, Y=-40.281
+25.04 22:03:18 Moving is finished
+25.04 22:04:24 Scanning 240 point from 1274
+25.04 22:04:24 Going to coordinates X=-24.890, Y=-40.281
+25.04 22:04:24 Moving is finished
+25.04 22:05:31 Scanning 241 point from 1274
+25.04 22:05:31 Going to coordinates X=-24.840, Y=-40.281
+25.04 22:05:31 Moving is finished
+25.04 22:06:37 Scanning 242 point from 1274
+25.04 22:06:37 Going to coordinates X=-24.790, Y=-40.281
+25.04 22:06:37 Moving is finished
+25.04 22:07:43 Scanning 243 point from 1274
+25.04 22:07:43 Going to coordinates X=-24.740, Y=-40.281
+25.04 22:07:43 Moving is finished
+25.04 22:08:49 Scanning 244 point from 1274
+25.04 22:08:49 Going to coordinates X=-24.690, Y=-40.281
+25.04 22:08:49 Moving is finished
+25.04 22:09:55 Scanning 245 point from 1274
+25.04 22:09:55 Going to coordinates X=-24.640, Y=-40.281
+25.04 22:09:55 Moving is finished
+25.04 22:11:02 Scanning 246 point from 1274
+25.04 22:11:02 Going to coordinates X=-24.590, Y=-40.281
+25.04 22:11:02 Moving is finished
+25.04 22:12:07 Scanning 247 point from 1274
+25.04 22:12:07 Going to coordinates X=-24.540, Y=-40.281
+25.04 22:12:08 Moving is finished
+25.04 22:13:13 Scanning 248 point from 1274
+25.04 22:13:13 Going to coordinates X=-24.490, Y=-40.281
+25.04 22:13:14 Moving is finished
+25.04 22:14:20 Scanning 249 point from 1274
+25.04 22:14:20 Going to coordinates X=-24.440, Y=-40.281
+25.04 22:14:20 Moving is finished
+25.04 22:15:26 Scanning 250 point from 1274
+25.04 22:15:26 Going to coordinates X=-24.390, Y=-40.281
+25.04 22:15:26 Moving is finished
+25.04 22:16:31 Scanning 251 point from 1274
+25.04 22:16:31 Going to coordinates X=-24.340, Y=-40.281
+25.04 22:16:32 Moving is finished
+25.04 22:17:38 Scanning 252 point from 1274
+25.04 22:17:38 Going to coordinates X=-24.290, Y=-40.281
+25.04 22:17:38 Moving is finished
+25.04 22:18:44 Scanning 253 point from 1274
+25.04 22:18:44 Going to coordinates X=-24.240, Y=-40.281
+25.04 22:18:44 Moving is finished
+25.04 22:19:50 Scanning 254 point from 1274
+25.04 22:19:50 Going to coordinates X=-24.190, Y=-40.281
+25.04 22:19:50 Moving is finished
+25.04 22:20:56 Scanning 255 point from 1274
+25.04 22:20:56 Going to coordinates X=-24.140, Y=-40.281
+25.04 22:20:56 Moving is finished
+25.04 22:22:02 Scanning 256 point from 1274
+25.04 22:22:02 Going to coordinates X=-24.090, Y=-40.281
+25.04 22:22:03 Moving is finished
+25.04 22:23:09 Scanning 257 point from 1274
+25.04 22:23:09 Going to coordinates X=-24.040, Y=-40.281
+25.04 22:23:09 Moving is finished
+25.04 22:24:15 Scanning 258 point from 1274
+25.04 22:24:15 Going to coordinates X=-23.990, Y=-40.281
+25.04 22:24:15 Moving is finished
+25.04 22:25:21 Scanning 259 point from 1274
+25.04 22:25:21 Going to coordinates X=-23.940, Y=-40.281
+25.04 22:25:21 Moving is finished
+25.04 22:26:28 Scanning 260 point from 1274
+25.04 22:26:28 Going to coordinates X=-23.890, Y=-40.281
+25.04 22:26:28 Moving is finished
+25.04 22:27:34 Scanning 261 point from 1274
+25.04 22:27:34 Going to coordinates X=-23.840, Y=-40.281
+25.04 22:27:34 Moving is finished
+25.04 22:28:40 Scanning 262 point from 1274
+25.04 22:28:40 Going to coordinates X=-23.790, Y=-40.281
+25.04 22:28:40 Moving is finished
+25.04 22:29:46 Scanning 263 point from 1274
+25.04 22:29:46 Going to coordinates X=-23.740, Y=-40.281
+25.04 22:29:47 Moving is finished
+25.04 22:30:52 Scanning 264 point from 1274
+25.04 22:30:52 Going to coordinates X=-23.690, Y=-40.281
+25.04 22:30:52 Moving is finished
+25.04 22:31:59 Scanning 265 point from 1274
+25.04 22:31:59 Going to coordinates X=-23.640, Y=-40.281
+25.04 22:31:59 Moving is finished
+25.04 22:33:05 Scanning 266 point from 1274
+25.04 22:33:05 Going to coordinates X=-23.590, Y=-40.281
+25.04 22:33:05 Moving is finished
+25.04 22:34:10 Scanning 267 point from 1274
+25.04 22:34:10 Going to coordinates X=-23.540, Y=-40.281
+25.04 22:34:11 Moving is finished
+25.04 22:35:17 Scanning 268 point from 1274
+25.04 22:35:17 Going to coordinates X=-23.490, Y=-40.281
+25.04 22:35:17 Moving is finished
+25.04 22:36:23 Scanning 269 point from 1274
+25.04 22:36:23 Going to coordinates X=-23.440, Y=-40.281
+25.04 22:36:23 Moving is finished
+25.04 22:37:29 Scanning 270 point from 1274
+25.04 22:37:29 Going to coordinates X=-23.390, Y=-40.281
+25.04 22:37:29 Moving is finished
+25.04 22:38:35 Scanning 271 point from 1274
+25.04 22:38:35 Going to coordinates X=-23.340, Y=-40.281
+25.04 22:38:35 Moving is finished
+25.04 22:39:41 Scanning 272 point from 1274
+25.04 22:39:41 Going to coordinates X=-23.290, Y=-40.281
+25.04 22:39:41 Moving is finished
+25.04 22:40:47 Scanning 273 point from 1274
+25.04 22:40:47 Going to coordinates X=-27.790, Y=-40.231
+25.04 22:40:49 Moving is finished
+25.04 22:41:55 Scanning 274 point from 1274
+25.04 22:41:55 Going to coordinates X=-27.740, Y=-40.231
+25.04 22:41:56 Moving is finished
+25.04 22:43:02 Scanning 275 point from 1274
+25.04 22:43:02 Going to coordinates X=-27.690, Y=-40.231
+25.04 22:43:02 Moving is finished
+25.04 22:44:09 Scanning 276 point from 1274
+25.04 22:44:09 Going to coordinates X=-27.640, Y=-40.231
+25.04 22:44:09 Moving is finished
+25.04 22:45:14 Scanning 277 point from 1274
+25.04 22:45:14 Going to coordinates X=-27.590, Y=-40.231
+25.04 22:45:14 Moving is finished
+25.04 22:46:20 Scanning 278 point from 1274
+25.04 22:46:20 Going to coordinates X=-27.540, Y=-40.231
+25.04 22:46:20 Moving is finished
+25.04 22:47:26 Scanning 279 point from 1274
+25.04 22:47:26 Going to coordinates X=-27.490, Y=-40.231
+25.04 22:47:27 Moving is finished
+25.04 22:48:32 Scanning 280 point from 1274
+25.04 22:48:32 Going to coordinates X=-27.440, Y=-40.231
+25.04 22:48:32 Moving is finished
+25.04 22:49:38 Scanning 281 point from 1274
+25.04 22:49:38 Going to coordinates X=-27.390, Y=-40.231
+25.04 22:49:38 Moving is finished
+25.04 22:50:44 Scanning 282 point from 1274
+25.04 22:50:44 Going to coordinates X=-27.340, Y=-40.231
+25.04 22:50:45 Moving is finished
+25.04 22:51:50 Scanning 283 point from 1274
+25.04 22:51:50 Going to coordinates X=-27.290, Y=-40.231
+25.04 22:51:50 Moving is finished
+25.04 22:52:56 Scanning 284 point from 1274
+25.04 22:52:56 Going to coordinates X=-27.240, Y=-40.231
+25.04 22:52:56 Moving is finished
+25.04 22:54:01 Scanning 285 point from 1274
+25.04 22:54:01 Going to coordinates X=-27.190, Y=-40.231
+25.04 22:54:02 Moving is finished
+25.04 22:55:07 Scanning 286 point from 1274
+25.04 22:55:07 Going to coordinates X=-27.140, Y=-40.231
+25.04 22:55:07 Moving is finished
+25.04 22:56:14 Scanning 287 point from 1274
+25.04 22:56:14 Going to coordinates X=-27.090, Y=-40.231
+25.04 22:56:14 Moving is finished
+25.04 22:57:20 Scanning 288 point from 1274
+25.04 22:57:20 Going to coordinates X=-27.040, Y=-40.231
+25.04 22:57:20 Moving is finished
+25.04 22:58:26 Scanning 289 point from 1274
+25.04 22:58:26 Going to coordinates X=-26.990, Y=-40.231
+25.04 22:58:26 Moving is finished
+25.04 22:59:32 Scanning 290 point from 1274
+25.04 22:59:32 Going to coordinates X=-26.940, Y=-40.231
+25.04 22:59:32 Moving is finished
+25.04 23:00:38 Scanning 291 point from 1274
+25.04 23:00:38 Going to coordinates X=-26.890, Y=-40.231
+25.04 23:00:38 Moving is finished
+25.04 23:01:45 Scanning 292 point from 1274
+25.04 23:01:45 Going to coordinates X=-26.840, Y=-40.231
+25.04 23:01:45 Moving is finished
+25.04 23:02:51 Scanning 293 point from 1274
+25.04 23:02:51 Going to coordinates X=-26.790, Y=-40.231
+25.04 23:02:51 Moving is finished
+25.04 23:03:57 Scanning 294 point from 1274
+25.04 23:03:57 Going to coordinates X=-26.740, Y=-40.231
+25.04 23:03:57 Moving is finished
+25.04 23:05:03 Scanning 295 point from 1274
+25.04 23:05:03 Going to coordinates X=-26.690, Y=-40.231
+25.04 23:05:03 Moving is finished
+25.04 23:06:09 Scanning 296 point from 1274
+25.04 23:06:09 Going to coordinates X=-26.640, Y=-40.231
+25.04 23:06:09 Moving is finished
+25.04 23:07:14 Scanning 297 point from 1274
+25.04 23:07:14 Going to coordinates X=-26.590, Y=-40.231
+25.04 23:07:15 Moving is finished
+25.04 23:08:21 Scanning 298 point from 1274
+25.04 23:08:21 Going to coordinates X=-26.540, Y=-40.231
+25.04 23:08:21 Moving is finished
+25.04 23:09:27 Scanning 299 point from 1274
+25.04 23:09:27 Going to coordinates X=-26.490, Y=-40.231
+25.04 23:09:27 Moving is finished
+25.04 23:10:33 Scanning 300 point from 1274
+25.04 23:10:33 Going to coordinates X=-26.440, Y=-40.231
+25.04 23:10:33 Moving is finished
+25.04 23:11:39 Scanning 301 point from 1274
+25.04 23:11:39 Going to coordinates X=-26.390, Y=-40.231
+25.04 23:11:39 Moving is finished
+25.04 23:12:45 Scanning 302 point from 1274
+25.04 23:12:45 Going to coordinates X=-26.340, Y=-40.231
+25.04 23:12:45 Moving is finished
+25.04 23:13:51 Scanning 303 point from 1274
+25.04 23:13:51 Going to coordinates X=-26.290, Y=-40.231
+25.04 23:13:51 Moving is finished
+25.04 23:14:57 Scanning 304 point from 1274
+25.04 23:14:57 Going to coordinates X=-26.240, Y=-40.231
+25.04 23:14:57 Moving is finished
+25.04 23:16:03 Scanning 305 point from 1274
+25.04 23:16:03 Going to coordinates X=-26.190, Y=-40.231
+25.04 23:16:03 Moving is finished
+25.04 23:17:09 Scanning 306 point from 1274
+25.04 23:17:09 Going to coordinates X=-26.140, Y=-40.231
+25.04 23:17:09 Moving is finished
+25.04 23:18:14 Scanning 307 point from 1274
+25.04 23:18:14 Going to coordinates X=-26.090, Y=-40.231
+25.04 23:18:15 Moving is finished
+25.04 23:19:21 Scanning 308 point from 1274
+25.04 23:19:21 Going to coordinates X=-26.040, Y=-40.231
+25.04 23:19:21 Moving is finished
+25.04 23:20:27 Scanning 309 point from 1274
+25.04 23:20:27 Going to coordinates X=-25.990, Y=-40.231
+25.04 23:20:28 Moving is finished
+25.04 23:21:33 Scanning 310 point from 1274
+25.04 23:21:33 Going to coordinates X=-25.940, Y=-40.231
+25.04 23:21:33 Moving is finished
+25.04 23:22:39 Scanning 311 point from 1274
+25.04 23:22:39 Going to coordinates X=-25.890, Y=-40.231
+25.04 23:22:39 Moving is finished
+25.04 23:23:45 Scanning 312 point from 1274
+25.04 23:23:45 Going to coordinates X=-25.840, Y=-40.231
+25.04 23:23:45 Moving is finished
+25.04 23:24:51 Scanning 313 point from 1274
+25.04 23:24:51 Going to coordinates X=-25.790, Y=-40.231
+25.04 23:24:51 Moving is finished
+25.04 23:25:56 Scanning 314 point from 1274
+25.04 23:25:56 Going to coordinates X=-25.740, Y=-40.231
+25.04 23:25:57 Moving is finished
+25.04 23:27:02 Scanning 315 point from 1274
+25.04 23:27:02 Going to coordinates X=-25.690, Y=-40.231
+25.04 23:27:02 Moving is finished
+25.04 23:28:08 Scanning 316 point from 1274
+25.04 23:28:08 Going to coordinates X=-25.640, Y=-40.231
+25.04 23:28:08 Moving is finished
+25.04 23:29:14 Scanning 317 point from 1274
+25.04 23:29:14 Going to coordinates X=-25.590, Y=-40.231
+25.04 23:29:14 Moving is finished
+25.04 23:30:20 Scanning 318 point from 1274
+25.04 23:30:20 Going to coordinates X=-25.540, Y=-40.231
+25.04 23:30:20 Moving is finished
+25.04 23:31:26 Scanning 319 point from 1274
+25.04 23:31:26 Going to coordinates X=-25.490, Y=-40.231
+25.04 23:31:26 Moving is finished
+25.04 23:32:32 Scanning 320 point from 1274
+25.04 23:32:32 Going to coordinates X=-25.440, Y=-40.231
+25.04 23:32:32 Moving is finished
+25.04 23:33:39 Scanning 321 point from 1274
+25.04 23:33:39 Going to coordinates X=-25.390, Y=-40.231
+25.04 23:33:39 Moving is finished
+25.04 23:34:45 Scanning 322 point from 1274
+25.04 23:34:45 Going to coordinates X=-25.340, Y=-40.231
+25.04 23:34:45 Moving is finished
+25.04 23:35:50 Scanning 323 point from 1274
+25.04 23:35:50 Going to coordinates X=-25.290, Y=-40.231
+25.04 23:35:51 Moving is finished
+25.04 23:36:57 Scanning 324 point from 1274
+25.04 23:36:57 Going to coordinates X=-25.240, Y=-40.231
+25.04 23:36:57 Moving is finished
+25.04 23:38:03 Scanning 325 point from 1274
+25.04 23:38:03 Going to coordinates X=-25.190, Y=-40.231
+25.04 23:38:04 Moving is finished
+25.04 23:39:10 Scanning 326 point from 1274
+25.04 23:39:10 Going to coordinates X=-25.140, Y=-40.231
+25.04 23:39:10 Moving is finished
+25.04 23:40:17 Scanning 327 point from 1274
+25.04 23:40:17 Going to coordinates X=-25.090, Y=-40.231
+25.04 23:40:17 Moving is finished
+25.04 23:41:23 Scanning 328 point from 1274
+25.04 23:41:23 Going to coordinates X=-25.040, Y=-40.231
+25.04 23:41:23 Moving is finished
+25.04 23:42:29 Scanning 329 point from 1274
+25.04 23:42:29 Going to coordinates X=-24.990, Y=-40.231
+25.04 23:42:29 Moving is finished
+25.04 23:43:35 Scanning 330 point from 1274
+25.04 23:43:35 Going to coordinates X=-24.940, Y=-40.231
+25.04 23:43:35 Moving is finished
+25.04 23:44:41 Scanning 331 point from 1274
+25.04 23:44:41 Going to coordinates X=-24.890, Y=-40.231
+25.04 23:44:41 Moving is finished
+25.04 23:45:47 Scanning 332 point from 1274
+25.04 23:45:47 Going to coordinates X=-24.840, Y=-40.231
+25.04 23:45:47 Moving is finished
+25.04 23:46:54 Scanning 333 point from 1274
+25.04 23:46:54 Going to coordinates X=-24.790, Y=-40.231
+25.04 23:46:54 Moving is finished
+25.04 23:48:00 Scanning 334 point from 1274
+25.04 23:48:00 Going to coordinates X=-24.740, Y=-40.231
+25.04 23:48:00 Moving is finished
+25.04 23:49:06 Scanning 335 point from 1274
+25.04 23:49:06 Going to coordinates X=-24.690, Y=-40.231
+25.04 23:49:06 Moving is finished
+25.04 23:50:12 Scanning 336 point from 1274
+25.04 23:50:12 Going to coordinates X=-24.640, Y=-40.231
+25.04 23:50:13 Moving is finished
+25.04 23:51:18 Scanning 337 point from 1274
+25.04 23:51:18 Going to coordinates X=-24.590, Y=-40.231
+25.04 23:51:18 Moving is finished
+25.04 23:52:24 Scanning 338 point from 1274
+25.04 23:52:24 Going to coordinates X=-24.540, Y=-40.231
+25.04 23:52:24 Moving is finished
+25.04 23:53:30 Scanning 339 point from 1274
+25.04 23:53:30 Going to coordinates X=-24.490, Y=-40.231
+25.04 23:53:30 Moving is finished
+25.04 23:54:36 Scanning 340 point from 1274
+25.04 23:54:36 Going to coordinates X=-24.440, Y=-40.231
+25.04 23:54:36 Moving is finished
+25.04 23:55:42 Scanning 341 point from 1274
+25.04 23:55:42 Going to coordinates X=-24.390, Y=-40.231
+25.04 23:55:42 Moving is finished
+25.04 23:56:48 Scanning 342 point from 1274
+25.04 23:56:48 Going to coordinates X=-24.340, Y=-40.231
+25.04 23:56:49 Moving is finished
+25.04 23:57:54 Scanning 343 point from 1274
+25.04 23:57:54 Going to coordinates X=-24.290, Y=-40.231
+25.04 23:57:54 Moving is finished
+25.04 23:59:00 Scanning 344 point from 1274
+25.04 23:59:00 Going to coordinates X=-24.240, Y=-40.231
+25.04 23:59:01 Moving is finished
+26.04 00:00:07 Scanning 345 point from 1274
+26.04 00:00:07 Going to coordinates X=-24.190, Y=-40.231
+26.04 00:00:07 Moving is finished
+26.04 00:01:12 Scanning 346 point from 1274
+26.04 00:01:12 Going to coordinates X=-24.140, Y=-40.231
+26.04 00:01:13 Moving is finished
+26.04 00:02:18 Scanning 347 point from 1274
+26.04 00:02:18 Going to coordinates X=-24.090, Y=-40.231
+26.04 00:02:18 Moving is finished
+26.04 00:03:23 Scanning 348 point from 1274
+26.04 00:03:23 Going to coordinates X=-24.040, Y=-40.231
+26.04 00:03:24 Moving is finished
+26.04 00:04:29 Scanning 349 point from 1274
+26.04 00:04:29 Going to coordinates X=-23.990, Y=-40.231
+26.04 00:04:29 Moving is finished
+26.04 00:05:35 Scanning 350 point from 1274
+26.04 00:05:35 Going to coordinates X=-23.940, Y=-40.231
+26.04 00:05:36 Moving is finished
+26.04 00:06:42 Scanning 351 point from 1274
+26.04 00:06:42 Going to coordinates X=-23.890, Y=-40.231
+26.04 00:06:42 Moving is finished
+26.04 00:07:48 Scanning 352 point from 1274
+26.04 00:07:48 Going to coordinates X=-23.840, Y=-40.231
+26.04 00:07:48 Moving is finished
+26.04 00:08:54 Scanning 353 point from 1274
+26.04 00:08:54 Going to coordinates X=-23.790, Y=-40.231
+26.04 00:08:54 Moving is finished
+26.04 00:09:59 Scanning 354 point from 1274
+26.04 00:09:59 Going to coordinates X=-23.740, Y=-40.231
+26.04 00:10:00 Moving is finished
+26.04 00:11:05 Scanning 355 point from 1274
+26.04 00:11:05 Going to coordinates X=-23.690, Y=-40.231
+26.04 00:11:06 Moving is finished
+26.04 00:12:11 Scanning 356 point from 1274
+26.04 00:12:11 Going to coordinates X=-23.640, Y=-40.231
+26.04 00:12:11 Moving is finished
+26.04 00:13:17 Scanning 357 point from 1274
+26.04 00:13:17 Going to coordinates X=-23.590, Y=-40.231
+26.04 00:13:17 Moving is finished
+26.04 00:14:23 Scanning 358 point from 1274
+26.04 00:14:23 Going to coordinates X=-23.540, Y=-40.231
+26.04 00:14:23 Moving is finished
+26.04 00:15:29 Scanning 359 point from 1274
+26.04 00:15:29 Going to coordinates X=-23.490, Y=-40.231
+26.04 00:15:29 Moving is finished
+26.04 00:16:34 Scanning 360 point from 1274
+26.04 00:16:34 Going to coordinates X=-23.440, Y=-40.231
+26.04 00:16:34 Moving is finished
+26.04 00:17:40 Scanning 361 point from 1274
+26.04 00:17:40 Going to coordinates X=-23.390, Y=-40.231
+26.04 00:17:41 Moving is finished
+26.04 00:18:47 Scanning 362 point from 1274
+26.04 00:18:47 Going to coordinates X=-23.340, Y=-40.231
+26.04 00:18:47 Moving is finished
+26.04 00:19:54 Scanning 363 point from 1274
+26.04 00:19:54 Going to coordinates X=-23.290, Y=-40.231
+26.04 00:19:54 Moving is finished
+26.04 00:20:59 Scanning 364 point from 1274
+26.04 00:20:59 Going to coordinates X=-27.790, Y=-40.181
+26.04 00:21:01 Moving is finished
+26.04 00:22:06 Scanning 365 point from 1274
+26.04 00:22:06 Going to coordinates X=-27.740, Y=-40.181
+26.04 00:22:06 Moving is finished
+26.04 00:23:12 Scanning 366 point from 1274
+26.04 00:23:12 Going to coordinates X=-27.690, Y=-40.181
+26.04 00:23:12 Moving is finished
+26.04 00:24:18 Scanning 367 point from 1274
+26.04 00:24:18 Going to coordinates X=-27.640, Y=-40.181
+26.04 00:24:19 Moving is finished
+26.04 00:25:24 Scanning 368 point from 1274
+26.04 00:25:24 Going to coordinates X=-27.590, Y=-40.181
+26.04 00:25:24 Moving is finished
+26.04 00:26:30 Scanning 369 point from 1274
+26.04 00:26:30 Going to coordinates X=-27.540, Y=-40.181
+26.04 00:26:30 Moving is finished
+26.04 00:27:36 Scanning 370 point from 1274
+26.04 00:27:36 Going to coordinates X=-27.490, Y=-40.181
+26.04 00:27:36 Moving is finished
+26.04 00:28:42 Scanning 371 point from 1274
+26.04 00:28:42 Going to coordinates X=-27.440, Y=-40.181
+26.04 00:28:42 Moving is finished
+26.04 00:29:48 Scanning 372 point from 1274
+26.04 00:29:48 Going to coordinates X=-27.390, Y=-40.181
+26.04 00:29:48 Moving is finished
+26.04 00:30:53 Scanning 373 point from 1274
+26.04 00:30:53 Going to coordinates X=-27.340, Y=-40.181
+26.04 00:30:54 Moving is finished
+26.04 00:31:59 Scanning 374 point from 1274
+26.04 00:31:59 Going to coordinates X=-27.290, Y=-40.181
+26.04 00:32:00 Moving is finished
+26.04 00:33:05 Scanning 375 point from 1274
+26.04 00:33:05 Going to coordinates X=-27.240, Y=-40.181
+26.04 00:33:05 Moving is finished
+26.04 00:34:11 Scanning 376 point from 1274
+26.04 00:34:11 Going to coordinates X=-27.190, Y=-40.181
+26.04 00:34:11 Moving is finished
+26.04 00:35:17 Scanning 377 point from 1274
+26.04 00:35:17 Going to coordinates X=-27.140, Y=-40.181
+26.04 00:35:17 Moving is finished
+26.04 00:36:23 Scanning 378 point from 1274
+26.04 00:36:23 Going to coordinates X=-27.090, Y=-40.181
+26.04 00:36:23 Moving is finished
+26.04 00:37:29 Scanning 379 point from 1274
+26.04 00:37:29 Going to coordinates X=-27.040, Y=-40.181
+26.04 00:37:29 Moving is finished
+26.04 00:38:35 Scanning 380 point from 1274
+26.04 00:38:35 Going to coordinates X=-26.990, Y=-40.181
+26.04 00:38:35 Moving is finished
+26.04 00:39:41 Scanning 381 point from 1274
+26.04 00:39:41 Going to coordinates X=-26.940, Y=-40.181
+26.04 00:39:41 Moving is finished
+26.04 00:40:47 Scanning 382 point from 1274
+26.04 00:40:47 Going to coordinates X=-26.890, Y=-40.181
+26.04 00:40:47 Moving is finished
+26.04 00:41:53 Scanning 383 point from 1274
+26.04 00:41:53 Going to coordinates X=-26.840, Y=-40.181
+26.04 00:41:53 Moving is finished
+26.04 00:42:59 Scanning 384 point from 1274
+26.04 00:42:59 Going to coordinates X=-26.790, Y=-40.181
+26.04 00:42:59 Moving is finished
+26.04 00:44:05 Scanning 385 point from 1274
+26.04 00:44:05 Going to coordinates X=-26.740, Y=-40.181
+26.04 00:44:05 Moving is finished
+26.04 00:45:11 Scanning 386 point from 1274
+26.04 00:45:11 Going to coordinates X=-26.690, Y=-40.181
+26.04 00:45:12 Moving is finished
+26.04 00:46:17 Scanning 387 point from 1274
+26.04 00:46:17 Going to coordinates X=-26.640, Y=-40.181
+26.04 00:46:17 Moving is finished
+26.04 00:47:23 Scanning 388 point from 1274
+26.04 00:47:23 Going to coordinates X=-26.590, Y=-40.181
+26.04 00:47:23 Moving is finished
+26.04 00:48:29 Scanning 389 point from 1274
+26.04 00:48:29 Going to coordinates X=-26.540, Y=-40.181
+26.04 00:48:29 Moving is finished
+26.04 00:49:36 Scanning 390 point from 1274
+26.04 00:49:36 Going to coordinates X=-26.490, Y=-40.181
+26.04 00:49:36 Moving is finished
+26.04 00:50:41 Scanning 391 point from 1274
+26.04 00:50:41 Going to coordinates X=-26.440, Y=-40.181
+26.04 00:50:42 Moving is finished
+26.04 00:51:48 Scanning 392 point from 1274
+26.04 00:51:48 Going to coordinates X=-26.390, Y=-40.181
+26.04 00:51:48 Moving is finished
+26.04 00:52:54 Scanning 393 point from 1274
+26.04 00:52:54 Going to coordinates X=-26.340, Y=-40.181
+26.04 00:52:54 Moving is finished
+26.04 00:54:00 Scanning 394 point from 1274
+26.04 00:54:00 Going to coordinates X=-26.290, Y=-40.181
+26.04 00:54:00 Moving is finished
+26.04 00:55:06 Scanning 395 point from 1274
+26.04 00:55:06 Going to coordinates X=-26.240, Y=-40.181
+26.04 00:55:06 Moving is finished
+26.04 00:56:12 Scanning 396 point from 1274
+26.04 00:56:12 Going to coordinates X=-26.190, Y=-40.181
+26.04 00:56:12 Moving is finished
+26.04 00:57:18 Scanning 397 point from 1274
+26.04 00:57:18 Going to coordinates X=-26.140, Y=-40.181
+26.04 00:57:18 Moving is finished
+26.04 00:58:24 Scanning 398 point from 1274
+26.04 00:58:24 Going to coordinates X=-26.090, Y=-40.181
+26.04 00:58:24 Moving is finished
+26.04 00:59:30 Scanning 399 point from 1274
+26.04 00:59:30 Going to coordinates X=-26.040, Y=-40.181
+26.04 00:59:31 Moving is finished
+26.04 01:00:37 Scanning 400 point from 1274
+26.04 01:00:37 Going to coordinates X=-25.990, Y=-40.181
+26.04 01:00:37 Moving is finished
+26.04 01:01:43 Scanning 401 point from 1274
+26.04 01:01:43 Going to coordinates X=-25.940, Y=-40.181
+26.04 01:01:43 Moving is finished
+26.04 01:02:49 Scanning 402 point from 1274
+26.04 01:02:49 Going to coordinates X=-25.890, Y=-40.181
+26.04 01:02:49 Moving is finished
+26.04 01:03:55 Scanning 403 point from 1274
+26.04 01:03:55 Going to coordinates X=-25.840, Y=-40.181
+26.04 01:03:55 Moving is finished
+26.04 01:05:02 Scanning 404 point from 1274
+26.04 01:05:02 Going to coordinates X=-25.790, Y=-40.181
+26.04 01:05:02 Moving is finished
+26.04 01:06:08 Scanning 405 point from 1274
+26.04 01:06:08 Going to coordinates X=-25.740, Y=-40.181
+26.04 01:06:08 Moving is finished
+26.04 01:07:13 Scanning 406 point from 1274
+26.04 01:07:13 Going to coordinates X=-25.690, Y=-40.181
+26.04 01:07:13 Moving is finished
+26.04 01:08:19 Scanning 407 point from 1274
+26.04 01:08:19 Going to coordinates X=-25.640, Y=-40.181
+26.04 01:08:19 Moving is finished
+26.04 01:09:25 Scanning 408 point from 1274
+26.04 01:09:25 Going to coordinates X=-25.590, Y=-40.181
+26.04 01:09:25 Moving is finished
+26.04 01:10:31 Scanning 409 point from 1274
+26.04 01:10:31 Going to coordinates X=-25.540, Y=-40.181
+26.04 01:10:31 Moving is finished
+26.04 01:11:37 Scanning 410 point from 1274
+26.04 01:11:37 Going to coordinates X=-25.490, Y=-40.181
+26.04 01:11:37 Moving is finished
+26.04 01:12:43 Scanning 411 point from 1274
+26.04 01:12:43 Going to coordinates X=-25.440, Y=-40.181
+26.04 01:12:43 Moving is finished
+26.04 01:13:48 Scanning 412 point from 1274
+26.04 01:13:48 Going to coordinates X=-25.390, Y=-40.181
+26.04 01:13:49 Moving is finished
+26.04 01:14:54 Scanning 413 point from 1274
+26.04 01:14:54 Going to coordinates X=-25.340, Y=-40.181
+26.04 01:14:55 Moving is finished
+26.04 01:16:00 Scanning 414 point from 1274
+26.04 01:16:00 Going to coordinates X=-25.290, Y=-40.181
+26.04 01:16:00 Moving is finished
+26.04 01:17:06 Scanning 415 point from 1274
+26.04 01:17:06 Going to coordinates X=-25.240, Y=-40.181
+26.04 01:17:06 Moving is finished
+26.04 01:18:12 Scanning 416 point from 1274
+26.04 01:18:12 Going to coordinates X=-25.190, Y=-40.181
+26.04 01:18:12 Moving is finished
+26.04 01:19:18 Scanning 417 point from 1274
+26.04 01:19:18 Going to coordinates X=-25.140, Y=-40.181
+26.04 01:19:18 Moving is finished
+26.04 01:20:24 Scanning 418 point from 1274
+26.04 01:20:24 Going to coordinates X=-25.090, Y=-40.181
+26.04 01:20:24 Moving is finished
+26.04 01:21:30 Scanning 419 point from 1274
+26.04 01:21:30 Going to coordinates X=-25.040, Y=-40.181
+26.04 01:21:30 Moving is finished
+26.04 01:22:36 Scanning 420 point from 1274
+26.04 01:22:36 Going to coordinates X=-24.990, Y=-40.181
+26.04 01:22:36 Moving is finished
+26.04 01:23:42 Scanning 421 point from 1274
+26.04 01:23:42 Going to coordinates X=-24.940, Y=-40.181
+26.04 01:23:42 Moving is finished
+26.04 01:24:49 Scanning 422 point from 1274
+26.04 01:24:49 Going to coordinates X=-24.890, Y=-40.181
+26.04 01:24:49 Moving is finished
+26.04 01:25:55 Scanning 423 point from 1274
+26.04 01:25:55 Going to coordinates X=-24.840, Y=-40.181
+26.04 01:25:55 Moving is finished
+26.04 01:27:01 Scanning 424 point from 1274
+26.04 01:27:01 Going to coordinates X=-24.790, Y=-40.181
+26.04 01:27:01 Moving is finished
+26.04 01:28:08 Scanning 425 point from 1274
+26.04 01:28:08 Going to coordinates X=-24.740, Y=-40.181
+26.04 01:28:08 Moving is finished
+26.04 01:29:14 Scanning 426 point from 1274
+26.04 01:29:14 Going to coordinates X=-24.690, Y=-40.181
+26.04 01:29:15 Moving is finished
+26.04 01:30:21 Scanning 427 point from 1274
+26.04 01:30:21 Going to coordinates X=-24.640, Y=-40.181
+26.04 01:30:21 Moving is finished
+26.04 01:31:27 Scanning 428 point from 1274
+26.04 01:31:27 Going to coordinates X=-24.590, Y=-40.181
+26.04 01:31:27 Moving is finished
+26.04 01:32:34 Scanning 429 point from 1274
+26.04 01:32:34 Going to coordinates X=-24.540, Y=-40.181
+26.04 01:32:34 Moving is finished
+26.04 01:33:40 Scanning 430 point from 1274
+26.04 01:33:40 Going to coordinates X=-24.490, Y=-40.181
+26.04 01:33:40 Moving is finished
+26.04 01:34:46 Scanning 431 point from 1274
+26.04 01:34:46 Going to coordinates X=-24.440, Y=-40.181
+26.04 01:34:46 Moving is finished
+26.04 01:35:52 Scanning 432 point from 1274
+26.04 01:35:52 Going to coordinates X=-24.390, Y=-40.181
+26.04 01:35:52 Moving is finished
+26.04 01:36:58 Scanning 433 point from 1274
+26.04 01:36:58 Going to coordinates X=-24.340, Y=-40.181
+26.04 01:36:58 Moving is finished
+26.04 01:38:04 Scanning 434 point from 1274
+26.04 01:38:04 Going to coordinates X=-24.290, Y=-40.181
+26.04 01:38:04 Moving is finished
+26.04 01:39:10 Scanning 435 point from 1274
+26.04 01:39:10 Going to coordinates X=-24.240, Y=-40.181
+26.04 01:39:10 Moving is finished
+26.04 01:40:16 Scanning 436 point from 1274
+26.04 01:40:16 Going to coordinates X=-24.190, Y=-40.181
+26.04 01:40:16 Moving is finished
+26.04 01:41:23 Scanning 437 point from 1274
+26.04 01:41:23 Going to coordinates X=-24.140, Y=-40.181
+26.04 01:41:23 Moving is finished
+26.04 01:42:29 Scanning 438 point from 1274
+26.04 01:42:29 Going to coordinates X=-24.090, Y=-40.181
+26.04 01:42:29 Moving is finished
+26.04 01:43:35 Scanning 439 point from 1274
+26.04 01:43:35 Going to coordinates X=-24.040, Y=-40.181
+26.04 01:43:35 Moving is finished
+26.04 01:44:41 Scanning 440 point from 1274
+26.04 01:44:41 Going to coordinates X=-23.990, Y=-40.181
+26.04 01:44:41 Moving is finished
+26.04 01:45:47 Scanning 441 point from 1274
+26.04 01:45:47 Going to coordinates X=-23.940, Y=-40.181
+26.04 01:45:47 Moving is finished
+26.04 01:46:54 Scanning 442 point from 1274
+26.04 01:46:54 Going to coordinates X=-23.890, Y=-40.181
+26.04 01:46:54 Moving is finished
+26.04 01:48:00 Scanning 443 point from 1274
+26.04 01:48:00 Going to coordinates X=-23.840, Y=-40.181
+26.04 01:48:00 Moving is finished
+26.04 01:49:06 Scanning 444 point from 1274
+26.04 01:49:06 Going to coordinates X=-23.790, Y=-40.181
+26.04 01:49:06 Moving is finished
+26.04 01:50:12 Scanning 445 point from 1274
+26.04 01:50:12 Going to coordinates X=-23.740, Y=-40.181
+26.04 01:50:12 Moving is finished
+26.04 01:51:18 Scanning 446 point from 1274
+26.04 01:51:18 Going to coordinates X=-23.690, Y=-40.181
+26.04 01:51:18 Moving is finished
+26.04 01:52:24 Scanning 447 point from 1274
+26.04 01:52:24 Going to coordinates X=-23.640, Y=-40.181
+26.04 01:52:24 Moving is finished
+26.04 01:53:30 Scanning 448 point from 1274
+26.04 01:53:30 Going to coordinates X=-23.590, Y=-40.181
+26.04 01:53:30 Moving is finished
+26.04 01:54:36 Scanning 449 point from 1274
+26.04 01:54:36 Going to coordinates X=-23.540, Y=-40.181
+26.04 01:54:37 Moving is finished
+26.04 01:55:43 Scanning 450 point from 1274
+26.04 01:55:43 Going to coordinates X=-23.490, Y=-40.181
+26.04 01:55:43 Moving is finished
+26.04 01:56:49 Scanning 451 point from 1274
+26.04 01:56:49 Going to coordinates X=-23.440, Y=-40.181
+26.04 01:56:49 Moving is finished
+26.04 01:57:55 Scanning 452 point from 1274
+26.04 01:57:55 Going to coordinates X=-23.390, Y=-40.181
+26.04 01:57:56 Moving is finished
+26.04 01:59:01 Scanning 453 point from 1274
+26.04 01:59:01 Going to coordinates X=-23.340, Y=-40.181
+26.04 01:59:01 Moving is finished
+26.04 02:00:07 Scanning 454 point from 1274
+26.04 02:00:07 Going to coordinates X=-23.290, Y=-40.181
+26.04 02:00:07 Moving is finished
+26.04 02:01:12 Scanning 455 point from 1274
+26.04 02:01:12 Going to coordinates X=-27.790, Y=-40.131
+26.04 02:01:14 Moving is finished
+26.04 02:02:20 Scanning 456 point from 1274
+26.04 02:02:20 Going to coordinates X=-27.740, Y=-40.131
+26.04 02:02:20 Moving is finished
+26.04 02:03:26 Scanning 457 point from 1274
+26.04 02:03:26 Going to coordinates X=-27.690, Y=-40.131
+26.04 02:03:26 Moving is finished
+26.04 02:04:32 Scanning 458 point from 1274
+26.04 02:04:32 Going to coordinates X=-27.640, Y=-40.131
+26.04 02:04:32 Moving is finished
+26.04 02:05:38 Scanning 459 point from 1274
+26.04 02:05:38 Going to coordinates X=-27.590, Y=-40.131
+26.04 02:05:38 Moving is finished
+26.04 02:06:44 Scanning 460 point from 1274
+26.04 02:06:44 Going to coordinates X=-27.540, Y=-40.131
+26.04 02:06:44 Moving is finished
+26.04 02:07:49 Scanning 461 point from 1274
+26.04 02:07:49 Going to coordinates X=-27.490, Y=-40.131
+26.04 02:07:50 Moving is finished
+26.04 02:08:55 Scanning 462 point from 1274
+26.04 02:08:55 Going to coordinates X=-27.440, Y=-40.131
+26.04 02:08:56 Moving is finished
+26.04 02:10:01 Scanning 463 point from 1274
+26.04 02:10:01 Going to coordinates X=-27.390, Y=-40.131
+26.04 02:10:01 Moving is finished
+26.04 02:11:08 Scanning 464 point from 1274
+26.04 02:11:08 Going to coordinates X=-27.340, Y=-40.131
+26.04 02:11:08 Moving is finished
+26.04 02:12:13 Scanning 465 point from 1274
+26.04 02:12:13 Going to coordinates X=-27.290, Y=-40.131
+26.04 02:12:14 Moving is finished
+26.04 02:13:19 Scanning 466 point from 1274
+26.04 02:13:19 Going to coordinates X=-27.240, Y=-40.131
+26.04 02:13:19 Moving is finished
+26.04 02:14:26 Scanning 467 point from 1274
+26.04 02:14:26 Going to coordinates X=-27.190, Y=-40.131
+26.04 02:14:26 Moving is finished
+26.04 02:15:32 Scanning 468 point from 1274
+26.04 02:15:32 Going to coordinates X=-27.140, Y=-40.131
+26.04 02:15:32 Moving is finished
+26.04 02:16:38 Scanning 469 point from 1274
+26.04 02:16:38 Going to coordinates X=-27.090, Y=-40.131
+26.04 02:16:38 Moving is finished
+26.04 02:17:44 Scanning 470 point from 1274
+26.04 02:17:44 Going to coordinates X=-27.040, Y=-40.131
+26.04 02:17:44 Moving is finished
+26.04 02:18:50 Scanning 471 point from 1274
+26.04 02:18:50 Going to coordinates X=-26.990, Y=-40.131
+26.04 02:18:50 Moving is finished
+26.04 02:19:57 Scanning 472 point from 1274
+26.04 02:19:57 Going to coordinates X=-26.940, Y=-40.131
+26.04 02:19:57 Moving is finished
+26.04 02:21:02 Scanning 473 point from 1274
+26.04 02:21:02 Going to coordinates X=-26.890, Y=-40.131
+26.04 02:21:03 Moving is finished
+26.04 02:22:08 Scanning 474 point from 1274
+26.04 02:22:08 Going to coordinates X=-26.840, Y=-40.131
+26.04 02:22:09 Moving is finished
+26.04 02:23:15 Scanning 475 point from 1274
+26.04 02:23:15 Going to coordinates X=-26.790, Y=-40.131
+26.04 02:23:15 Moving is finished
+26.04 02:24:21 Scanning 476 point from 1274
+26.04 02:24:21 Going to coordinates X=-26.740, Y=-40.131
+26.04 02:24:21 Moving is finished
+26.04 02:25:28 Scanning 477 point from 1274
+26.04 02:25:28 Going to coordinates X=-26.690, Y=-40.131
+26.04 02:25:28 Moving is finished
+26.04 02:26:34 Scanning 478 point from 1274
+26.04 02:26:34 Going to coordinates X=-26.640, Y=-40.131
+26.04 02:26:34 Moving is finished
+26.04 02:27:40 Scanning 479 point from 1274
+26.04 02:27:40 Going to coordinates X=-26.590, Y=-40.131
+26.04 02:27:41 Moving is finished
+26.04 02:28:47 Scanning 480 point from 1274
+26.04 02:28:47 Going to coordinates X=-26.540, Y=-40.131
+26.04 02:28:47 Moving is finished
+26.04 02:29:53 Scanning 481 point from 1274
+26.04 02:29:53 Going to coordinates X=-26.490, Y=-40.131
+26.04 02:29:53 Moving is finished
+26.04 02:30:59 Scanning 482 point from 1274
+26.04 02:30:59 Going to coordinates X=-26.440, Y=-40.131
+26.04 02:30:59 Moving is finished
+26.04 02:32:05 Scanning 483 point from 1274
+26.04 02:32:05 Going to coordinates X=-26.390, Y=-40.131
+26.04 02:32:05 Moving is finished
+26.04 02:33:11 Scanning 484 point from 1274
+26.04 02:33:11 Going to coordinates X=-26.340, Y=-40.131
+26.04 02:33:11 Moving is finished
+26.04 02:34:18 Scanning 485 point from 1274
+26.04 02:34:18 Going to coordinates X=-26.290, Y=-40.131
+26.04 02:34:18 Moving is finished
+26.04 02:35:24 Scanning 486 point from 1274
+26.04 02:35:24 Going to coordinates X=-26.240, Y=-40.131
+26.04 02:35:24 Moving is finished
+26.04 02:36:30 Scanning 487 point from 1274
+26.04 02:36:30 Going to coordinates X=-26.190, Y=-40.131
+26.04 02:36:30 Moving is finished
+26.04 02:37:36 Scanning 488 point from 1274
+26.04 02:37:36 Going to coordinates X=-26.140, Y=-40.131
+26.04 02:37:36 Moving is finished
+26.04 02:38:42 Scanning 489 point from 1274
+26.04 02:38:42 Going to coordinates X=-26.090, Y=-40.131
+26.04 02:38:42 Moving is finished
+26.04 02:39:47 Scanning 490 point from 1274
+26.04 02:39:47 Going to coordinates X=-26.040, Y=-40.131
+26.04 02:39:47 Moving is finished
+26.04 02:40:53 Scanning 491 point from 1274
+26.04 02:40:53 Going to coordinates X=-25.990, Y=-40.131
+26.04 02:40:53 Moving is finished
+26.04 02:41:59 Scanning 492 point from 1274
+26.04 02:41:59 Going to coordinates X=-25.940, Y=-40.131
+26.04 02:41:59 Moving is finished
+26.04 02:43:05 Scanning 493 point from 1274
+26.04 02:43:05 Going to coordinates X=-25.890, Y=-40.131
+26.04 02:43:05 Moving is finished
+26.04 02:44:11 Scanning 494 point from 1274
+26.04 02:44:11 Going to coordinates X=-25.840, Y=-40.131
+26.04 02:44:11 Moving is finished
+26.04 02:45:17 Scanning 495 point from 1274
+26.04 02:45:17 Going to coordinates X=-25.790, Y=-40.131
+26.04 02:45:17 Moving is finished
+26.04 02:46:23 Scanning 496 point from 1274
+26.04 02:46:23 Going to coordinates X=-25.740, Y=-40.131
+26.04 02:46:23 Moving is finished
+26.04 02:47:29 Scanning 497 point from 1274
+26.04 02:47:29 Going to coordinates X=-25.690, Y=-40.131
+26.04 02:47:29 Moving is finished
+26.04 02:48:35 Scanning 498 point from 1274
+26.04 02:48:35 Going to coordinates X=-25.640, Y=-40.131
+26.04 02:48:35 Moving is finished
+26.04 02:49:41 Scanning 499 point from 1274
+26.04 02:49:41 Going to coordinates X=-25.590, Y=-40.131
+26.04 02:49:41 Moving is finished
+26.04 02:50:47 Scanning 500 point from 1274
+26.04 02:50:47 Going to coordinates X=-25.540, Y=-40.131
+26.04 02:50:47 Moving is finished
+26.04 02:51:53 Scanning 501 point from 1274
+26.04 02:51:53 Going to coordinates X=-25.490, Y=-40.131
+26.04 02:51:53 Moving is finished
+26.04 02:52:59 Scanning 502 point from 1274
+26.04 02:52:59 Going to coordinates X=-25.440, Y=-40.131
+26.04 02:52:59 Moving is finished
+26.04 02:54:06 Scanning 503 point from 1274
+26.04 02:54:06 Going to coordinates X=-25.390, Y=-40.131
+26.04 02:54:06 Moving is finished
+26.04 02:55:11 Scanning 504 point from 1274
+26.04 02:55:11 Going to coordinates X=-25.340, Y=-40.131
+26.04 02:55:12 Moving is finished
+26.04 02:56:18 Scanning 505 point from 1274
+26.04 02:56:18 Going to coordinates X=-25.290, Y=-40.131
+26.04 02:56:18 Moving is finished
+26.04 02:57:23 Scanning 506 point from 1274
+26.04 02:57:23 Going to coordinates X=-25.240, Y=-40.131
+26.04 02:57:24 Moving is finished
+26.04 02:58:29 Scanning 507 point from 1274
+26.04 02:58:29 Going to coordinates X=-25.190, Y=-40.131
+26.04 02:58:29 Moving is finished
+26.04 02:59:35 Scanning 508 point from 1274
+26.04 02:59:35 Going to coordinates X=-25.140, Y=-40.131
+26.04 02:59:36 Moving is finished
+26.04 03:00:41 Scanning 509 point from 1274
+26.04 03:00:41 Going to coordinates X=-25.090, Y=-40.131
+26.04 03:00:41 Moving is finished
+26.04 03:01:47 Scanning 510 point from 1274
+26.04 03:01:47 Going to coordinates X=-25.040, Y=-40.131
+26.04 03:01:47 Moving is finished
+26.04 03:02:53 Scanning 511 point from 1274
+26.04 03:02:53 Going to coordinates X=-24.990, Y=-40.131
+26.04 03:02:53 Moving is finished
+26.04 03:03:59 Scanning 512 point from 1274
+26.04 03:03:59 Going to coordinates X=-24.940, Y=-40.131
+26.04 03:03:59 Moving is finished
+26.04 03:05:05 Scanning 513 point from 1274
+26.04 03:05:05 Going to coordinates X=-24.890, Y=-40.131
+26.04 03:05:05 Moving is finished
+26.04 03:06:10 Scanning 514 point from 1274
+26.04 03:06:10 Going to coordinates X=-24.840, Y=-40.131
+26.04 03:06:10 Moving is finished
+26.04 03:07:16 Scanning 515 point from 1274
+26.04 03:07:16 Going to coordinates X=-24.790, Y=-40.131
+26.04 03:07:16 Moving is finished
+26.04 03:08:22 Scanning 516 point from 1274
+26.04 03:08:22 Going to coordinates X=-24.740, Y=-40.131
+26.04 03:08:22 Moving is finished
+26.04 03:09:29 Scanning 517 point from 1274
+26.04 03:09:29 Going to coordinates X=-24.690, Y=-40.131
+26.04 03:09:29 Moving is finished
+26.04 03:10:35 Scanning 518 point from 1274
+26.04 03:10:35 Going to coordinates X=-24.640, Y=-40.131
+26.04 03:10:35 Moving is finished
+26.04 03:11:41 Scanning 519 point from 1274
+26.04 03:11:41 Going to coordinates X=-24.590, Y=-40.131
+26.04 03:11:41 Moving is finished
+26.04 03:12:47 Scanning 520 point from 1274
+26.04 03:12:47 Going to coordinates X=-24.540, Y=-40.131
+26.04 03:12:47 Moving is finished
+26.04 03:13:54 Scanning 521 point from 1274
+26.04 03:13:54 Going to coordinates X=-24.490, Y=-40.131
+26.04 03:13:54 Moving is finished
+26.04 03:14:59 Scanning 522 point from 1274
+26.04 03:14:59 Going to coordinates X=-24.440, Y=-40.131
+26.04 03:14:59 Moving is finished
+26.04 03:16:06 Scanning 523 point from 1274
+26.04 03:16:06 Going to coordinates X=-24.390, Y=-40.131
+26.04 03:16:06 Moving is finished
+26.04 03:17:12 Scanning 524 point from 1274
+26.04 03:17:12 Going to coordinates X=-24.340, Y=-40.131
+26.04 03:17:12 Moving is finished
+26.04 03:18:18 Scanning 525 point from 1274
+26.04 03:18:18 Going to coordinates X=-24.290, Y=-40.131
+26.04 03:18:18 Moving is finished
+26.04 03:19:24 Scanning 526 point from 1274
+26.04 03:19:24 Going to coordinates X=-24.240, Y=-40.131
+26.04 03:19:25 Moving is finished
+26.04 03:20:30 Scanning 527 point from 1274
+26.04 03:20:30 Going to coordinates X=-24.190, Y=-40.131
+26.04 03:20:31 Moving is finished
+26.04 03:21:36 Scanning 528 point from 1274
+26.04 03:21:36 Going to coordinates X=-24.140, Y=-40.131
+26.04 03:21:37 Moving is finished
+26.04 03:22:42 Scanning 529 point from 1274
+26.04 03:22:42 Going to coordinates X=-24.090, Y=-40.131
+26.04 03:22:43 Moving is finished
+26.04 03:23:49 Scanning 530 point from 1274
+26.04 03:23:49 Going to coordinates X=-24.040, Y=-40.131
+26.04 03:23:49 Moving is finished
+26.04 03:24:56 Scanning 531 point from 1274
+26.04 03:24:56 Going to coordinates X=-23.990, Y=-40.131
+26.04 03:24:56 Moving is finished
+26.04 03:26:02 Scanning 532 point from 1274
+26.04 03:26:02 Going to coordinates X=-23.940, Y=-40.131
+26.04 03:26:02 Moving is finished
+26.04 03:27:08 Scanning 533 point from 1274
+26.04 03:27:08 Going to coordinates X=-23.890, Y=-40.131
+26.04 03:27:08 Moving is finished
+26.04 03:28:14 Scanning 534 point from 1274
+26.04 03:28:14 Going to coordinates X=-23.840, Y=-40.131
+26.04 03:28:14 Moving is finished
+26.04 03:29:20 Scanning 535 point from 1274
+26.04 03:29:20 Going to coordinates X=-23.790, Y=-40.131
+26.04 03:29:20 Moving is finished
+26.04 03:30:27 Scanning 536 point from 1274
+26.04 03:30:27 Going to coordinates X=-23.740, Y=-40.131
+26.04 03:30:27 Moving is finished
+26.04 03:31:33 Scanning 537 point from 1274
+26.04 03:31:33 Going to coordinates X=-23.690, Y=-40.131
+26.04 03:31:33 Moving is finished
+26.04 03:32:39 Scanning 538 point from 1274
+26.04 03:32:39 Going to coordinates X=-23.640, Y=-40.131
+26.04 03:32:40 Moving is finished
+26.04 03:33:46 Scanning 539 point from 1274
+26.04 03:33:46 Going to coordinates X=-23.590, Y=-40.131
+26.04 03:33:46 Moving is finished
+26.04 03:34:52 Scanning 540 point from 1274
+26.04 03:34:52 Going to coordinates X=-23.540, Y=-40.131
+26.04 03:34:52 Moving is finished
+26.04 03:35:59 Scanning 541 point from 1274
+26.04 03:35:59 Going to coordinates X=-23.490, Y=-40.131
+26.04 03:35:59 Moving is finished
+26.04 03:37:05 Scanning 542 point from 1274
+26.04 03:37:05 Going to coordinates X=-23.440, Y=-40.131
+26.04 03:37:05 Moving is finished
+26.04 03:38:11 Scanning 543 point from 1274
+26.04 03:38:11 Going to coordinates X=-23.390, Y=-40.131
+26.04 03:38:12 Moving is finished
+26.04 03:39:17 Scanning 544 point from 1274
+26.04 03:39:17 Going to coordinates X=-23.340, Y=-40.131
+26.04 03:39:17 Moving is finished
+26.04 03:40:23 Scanning 545 point from 1274
+26.04 03:40:23 Going to coordinates X=-23.290, Y=-40.131
+26.04 03:40:23 Moving is finished
+26.04 03:41:28 Scanning 546 point from 1274
+26.04 03:41:28 Going to coordinates X=-27.790, Y=-40.081
+26.04 03:41:30 Moving is finished
+26.04 03:42:35 Scanning 547 point from 1274
+26.04 03:42:35 Going to coordinates X=-27.740, Y=-40.081
+26.04 03:42:35 Moving is finished
+26.04 03:43:41 Scanning 548 point from 1274
+26.04 03:43:41 Going to coordinates X=-27.690, Y=-40.081
+26.04 03:43:41 Moving is finished
+26.04 03:44:46 Scanning 549 point from 1274
+26.04 03:44:46 Going to coordinates X=-27.640, Y=-40.081
+26.04 03:44:47 Moving is finished
+26.04 03:45:53 Scanning 550 point from 1274
+26.04 03:45:53 Going to coordinates X=-27.590, Y=-40.081
+26.04 03:45:53 Moving is finished
+26.04 03:46:59 Scanning 551 point from 1274
+26.04 03:46:59 Going to coordinates X=-27.540, Y=-40.081
+26.04 03:46:59 Moving is finished
+26.04 03:48:05 Scanning 552 point from 1274
+26.04 03:48:05 Going to coordinates X=-27.490, Y=-40.081
+26.04 03:48:05 Moving is finished
+26.04 03:49:11 Scanning 553 point from 1274
+26.04 03:49:11 Going to coordinates X=-27.440, Y=-40.081
+26.04 03:49:11 Moving is finished
+26.04 03:50:17 Scanning 554 point from 1274
+26.04 03:50:17 Going to coordinates X=-27.390, Y=-40.081
+26.04 03:50:17 Moving is finished
+26.04 03:51:22 Scanning 555 point from 1274
+26.04 03:51:22 Going to coordinates X=-27.340, Y=-40.081
+26.04 03:51:23 Moving is finished
+26.04 03:52:29 Scanning 556 point from 1274
+26.04 03:52:29 Going to coordinates X=-27.290, Y=-40.081
+26.04 03:52:29 Moving is finished
+26.04 03:53:35 Scanning 557 point from 1274
+26.04 03:53:35 Going to coordinates X=-27.240, Y=-40.081
+26.04 03:53:36 Moving is finished
+26.04 03:54:41 Scanning 558 point from 1274
+26.04 03:54:41 Going to coordinates X=-27.190, Y=-40.081
+26.04 03:54:41 Moving is finished
+26.04 03:55:47 Scanning 559 point from 1274
+26.04 03:55:47 Going to coordinates X=-27.140, Y=-40.081
+26.04 03:55:47 Moving is finished
+26.04 03:56:53 Scanning 560 point from 1274
+26.04 03:56:53 Going to coordinates X=-27.090, Y=-40.081
+26.04 03:56:53 Moving is finished
+26.04 03:57:59 Scanning 561 point from 1274
+26.04 03:57:59 Going to coordinates X=-27.040, Y=-40.081
+26.04 03:57:59 Moving is finished
+26.04 03:59:05 Scanning 562 point from 1274
+26.04 03:59:05 Going to coordinates X=-26.990, Y=-40.081
+26.04 03:59:05 Moving is finished
+26.04 04:00:12 Scanning 563 point from 1274
+26.04 04:00:12 Going to coordinates X=-26.940, Y=-40.081
+26.04 04:00:12 Moving is finished
+26.04 04:01:18 Scanning 564 point from 1274
+26.04 04:01:18 Going to coordinates X=-26.890, Y=-40.081
+26.04 04:01:18 Moving is finished
+26.04 04:02:24 Scanning 565 point from 1274
+26.04 04:02:24 Going to coordinates X=-26.840, Y=-40.081
+26.04 04:02:24 Moving is finished
+26.04 04:03:30 Scanning 566 point from 1274
+26.04 04:03:30 Going to coordinates X=-26.790, Y=-40.081
+26.04 04:03:30 Moving is finished
+26.04 04:04:36 Scanning 567 point from 1274
+26.04 04:04:36 Going to coordinates X=-26.740, Y=-40.081
+26.04 04:04:37 Moving is finished
+26.04 04:05:43 Scanning 568 point from 1274
+26.04 04:05:43 Going to coordinates X=-26.690, Y=-40.081
+26.04 04:05:43 Moving is finished
+26.04 04:06:49 Scanning 569 point from 1274
+26.04 04:06:49 Going to coordinates X=-26.640, Y=-40.081
+26.04 04:06:49 Moving is finished
+26.04 04:07:55 Scanning 570 point from 1274
+26.04 04:07:55 Going to coordinates X=-26.590, Y=-40.081
+26.04 04:07:56 Moving is finished
+26.04 04:09:02 Scanning 571 point from 1274
+26.04 04:09:02 Going to coordinates X=-26.540, Y=-40.081
+26.04 04:09:02 Moving is finished
+26.04 04:10:08 Scanning 572 point from 1274
+26.04 04:10:08 Going to coordinates X=-26.490, Y=-40.081
+26.04 04:10:08 Moving is finished
+26.04 04:11:14 Scanning 573 point from 1274
+26.04 04:11:14 Going to coordinates X=-26.440, Y=-40.081
+26.04 04:11:14 Moving is finished
+26.04 04:12:20 Scanning 574 point from 1274
+26.04 04:12:20 Going to coordinates X=-26.390, Y=-40.081
+26.04 04:12:20 Moving is finished
+26.04 04:13:26 Scanning 575 point from 1274
+26.04 04:13:26 Going to coordinates X=-26.340, Y=-40.081
+26.04 04:13:26 Moving is finished
+26.04 04:14:32 Scanning 576 point from 1274
+26.04 04:14:32 Going to coordinates X=-26.290, Y=-40.081
+26.04 04:14:33 Moving is finished
+26.04 04:15:39 Scanning 577 point from 1274
+26.04 04:15:39 Going to coordinates X=-26.240, Y=-40.081
+26.04 04:15:39 Moving is finished
+26.04 04:16:45 Scanning 578 point from 1274
+26.04 04:16:45 Going to coordinates X=-26.190, Y=-40.081
+26.04 04:16:45 Moving is finished
+26.04 04:17:51 Scanning 579 point from 1274
+26.04 04:17:51 Going to coordinates X=-26.140, Y=-40.081
+26.04 04:17:51 Moving is finished
+26.04 04:18:57 Scanning 580 point from 1274
+26.04 04:18:57 Going to coordinates X=-26.090, Y=-40.081
+26.04 04:18:57 Moving is finished
+26.04 04:20:03 Scanning 581 point from 1274
+26.04 04:20:03 Going to coordinates X=-26.040, Y=-40.081
+26.04 04:20:03 Moving is finished
+26.04 04:21:09 Scanning 582 point from 1274
+26.04 04:21:09 Going to coordinates X=-25.990, Y=-40.081
+26.04 04:21:09 Moving is finished
+26.04 04:22:15 Scanning 583 point from 1274
+26.04 04:22:15 Going to coordinates X=-25.940, Y=-40.081
+26.04 04:22:15 Moving is finished
+26.04 04:23:21 Scanning 584 point from 1274
+26.04 04:23:21 Going to coordinates X=-25.890, Y=-40.081
+26.04 04:23:21 Moving is finished
+26.04 04:24:27 Scanning 585 point from 1274
+26.04 04:24:27 Going to coordinates X=-25.840, Y=-40.081
+26.04 04:24:27 Moving is finished
+26.04 04:25:32 Scanning 586 point from 1274
+26.04 04:25:32 Going to coordinates X=-25.790, Y=-40.081
+26.04 04:25:33 Moving is finished
+26.04 04:26:39 Scanning 587 point from 1274
+26.04 04:26:39 Going to coordinates X=-25.740, Y=-40.081
+26.04 04:26:39 Moving is finished
+26.04 04:27:45 Scanning 588 point from 1274
+26.04 04:27:45 Going to coordinates X=-25.690, Y=-40.081
+26.04 04:27:45 Moving is finished
+26.04 04:28:51 Scanning 589 point from 1274
+26.04 04:28:51 Going to coordinates X=-25.640, Y=-40.081
+26.04 04:28:51 Moving is finished
+26.04 04:29:57 Scanning 590 point from 1274
+26.04 04:29:57 Going to coordinates X=-25.590, Y=-40.081
+26.04 04:29:57 Moving is finished
+26.04 04:31:03 Scanning 591 point from 1274
+26.04 04:31:03 Going to coordinates X=-25.540, Y=-40.081
+26.04 04:31:03 Moving is finished
+26.04 04:32:09 Scanning 592 point from 1274
+26.04 04:32:09 Going to coordinates X=-25.490, Y=-40.081
+26.04 04:32:09 Moving is finished
+26.04 04:33:14 Scanning 593 point from 1274
+26.04 04:33:14 Going to coordinates X=-25.440, Y=-40.081
+26.04 04:33:15 Moving is finished
+26.04 04:34:20 Scanning 594 point from 1274
+26.04 04:34:20 Going to coordinates X=-25.390, Y=-40.081
+26.04 04:34:20 Moving is finished
+26.04 04:35:26 Scanning 595 point from 1274
+26.04 04:35:26 Going to coordinates X=-25.340, Y=-40.081
+26.04 04:35:27 Moving is finished
+26.04 04:36:32 Scanning 596 point from 1274
+26.04 04:36:32 Going to coordinates X=-25.290, Y=-40.081
+26.04 04:36:33 Moving is finished
+26.04 04:37:38 Scanning 597 point from 1274
+26.04 04:37:38 Going to coordinates X=-25.240, Y=-40.081
+26.04 04:37:38 Moving is finished
+26.04 04:38:44 Scanning 598 point from 1274
+26.04 04:38:44 Going to coordinates X=-25.190, Y=-40.081
+26.04 04:38:44 Moving is finished
+26.04 04:39:51 Scanning 599 point from 1274
+26.04 04:39:51 Going to coordinates X=-25.140, Y=-40.081
+26.04 04:39:51 Moving is finished
+26.04 04:40:57 Scanning 600 point from 1274
+26.04 04:40:57 Going to coordinates X=-25.090, Y=-40.081
+26.04 04:40:57 Moving is finished
+26.04 04:42:04 Scanning 601 point from 1274
+26.04 04:42:04 Going to coordinates X=-25.040, Y=-40.081
+26.04 04:42:04 Moving is finished
+26.04 04:43:09 Scanning 602 point from 1274
+26.04 04:43:09 Going to coordinates X=-24.990, Y=-40.081
+26.04 04:43:10 Moving is finished
+26.04 04:44:16 Scanning 603 point from 1274
+26.04 04:44:16 Going to coordinates X=-24.940, Y=-40.081
+26.04 04:44:16 Moving is finished
+26.04 04:45:22 Scanning 604 point from 1274
+26.04 04:45:22 Going to coordinates X=-24.890, Y=-40.081
+26.04 04:45:22 Moving is finished
+26.04 04:46:28 Scanning 605 point from 1274
+26.04 04:46:28 Going to coordinates X=-24.840, Y=-40.081
+26.04 04:46:28 Moving is finished
+26.04 04:47:34 Scanning 606 point from 1274
+26.04 04:47:34 Going to coordinates X=-24.790, Y=-40.081
+26.04 04:47:35 Moving is finished
+26.04 04:48:40 Scanning 607 point from 1274
+26.04 04:48:40 Going to coordinates X=-24.740, Y=-40.081
+26.04 04:48:41 Moving is finished
+26.04 04:49:46 Scanning 608 point from 1274
+26.04 04:49:46 Going to coordinates X=-24.690, Y=-40.081
+26.04 04:49:47 Moving is finished
+26.04 04:50:53 Scanning 609 point from 1274
+26.04 04:50:53 Going to coordinates X=-24.640, Y=-40.081
+26.04 04:50:53 Moving is finished
+26.04 04:51:59 Scanning 610 point from 1274
+26.04 04:51:59 Going to coordinates X=-24.590, Y=-40.081
+26.04 04:51:59 Moving is finished
+26.04 04:53:04 Scanning 611 point from 1274
+26.04 04:53:04 Going to coordinates X=-24.540, Y=-40.081
+26.04 04:53:05 Moving is finished
+26.04 04:54:10 Scanning 612 point from 1274
+26.04 04:54:10 Going to coordinates X=-24.490, Y=-40.081
+26.04 04:54:10 Moving is finished
+26.04 04:55:16 Scanning 613 point from 1274
+26.04 04:55:16 Going to coordinates X=-24.440, Y=-40.081
+26.04 04:55:16 Moving is finished
+26.04 04:56:22 Scanning 614 point from 1274
+26.04 04:56:22 Going to coordinates X=-24.390, Y=-40.081
+26.04 04:56:22 Moving is finished
+26.04 04:57:28 Scanning 615 point from 1274
+26.04 04:57:28 Going to coordinates X=-24.340, Y=-40.081
+26.04 04:57:28 Moving is finished
+26.04 04:58:34 Scanning 616 point from 1274
+26.04 04:58:34 Going to coordinates X=-24.290, Y=-40.081
+26.04 04:58:34 Moving is finished
+26.04 04:59:40 Scanning 617 point from 1274
+26.04 04:59:40 Going to coordinates X=-24.240, Y=-40.081
+26.04 04:59:40 Moving is finished
+26.04 05:00:47 Scanning 618 point from 1274
+26.04 05:00:47 Going to coordinates X=-24.190, Y=-40.081
+26.04 05:00:47 Moving is finished
+26.04 05:01:53 Scanning 619 point from 1274
+26.04 05:01:53 Going to coordinates X=-24.140, Y=-40.081
+26.04 05:01:53 Moving is finished
+26.04 05:02:59 Scanning 620 point from 1274
+26.04 05:02:59 Going to coordinates X=-24.090, Y=-40.081
+26.04 05:02:59 Moving is finished
+26.04 05:04:05 Scanning 621 point from 1274
+26.04 05:04:05 Going to coordinates X=-24.040, Y=-40.081
+26.04 05:04:05 Moving is finished
+26.04 05:05:12 Scanning 622 point from 1274
+26.04 05:05:12 Going to coordinates X=-23.990, Y=-40.081
+26.04 05:05:12 Moving is finished
+26.04 05:06:18 Scanning 623 point from 1274
+26.04 05:06:18 Going to coordinates X=-23.940, Y=-40.081
+26.04 05:06:18 Moving is finished
+26.04 05:07:24 Scanning 624 point from 1274
+26.04 05:07:24 Going to coordinates X=-23.890, Y=-40.081
+26.04 05:07:24 Moving is finished
+26.04 05:08:30 Scanning 625 point from 1274
+26.04 05:08:30 Going to coordinates X=-23.840, Y=-40.081
+26.04 05:08:30 Moving is finished
+26.04 05:09:36 Scanning 626 point from 1274
+26.04 05:09:36 Going to coordinates X=-23.790, Y=-40.081
+26.04 05:09:36 Moving is finished
+26.04 05:10:42 Scanning 627 point from 1274
+26.04 05:10:42 Going to coordinates X=-23.740, Y=-40.081
+26.04 05:10:42 Moving is finished
+26.04 05:11:47 Scanning 628 point from 1274
+26.04 05:11:47 Going to coordinates X=-23.690, Y=-40.081
+26.04 05:11:48 Moving is finished
+26.04 05:12:53 Scanning 629 point from 1274
+26.04 05:12:53 Going to coordinates X=-23.640, Y=-40.081
+26.04 05:12:53 Moving is finished
+26.04 05:13:59 Scanning 630 point from 1274
+26.04 05:13:59 Going to coordinates X=-23.590, Y=-40.081
+26.04 05:13:59 Moving is finished
+26.04 05:15:05 Scanning 631 point from 1274
+26.04 05:15:05 Going to coordinates X=-23.540, Y=-40.081
+26.04 05:15:05 Moving is finished
+26.04 05:16:12 Scanning 632 point from 1274
+26.04 05:16:12 Going to coordinates X=-23.490, Y=-40.081
+26.04 05:16:12 Moving is finished
+26.04 05:17:17 Scanning 633 point from 1274
+26.04 05:17:17 Going to coordinates X=-23.440, Y=-40.081
+26.04 05:17:18 Moving is finished
+26.04 05:18:24 Scanning 634 point from 1274
+26.04 05:18:24 Going to coordinates X=-23.390, Y=-40.081
+26.04 05:18:24 Moving is finished
+26.04 05:19:30 Scanning 635 point from 1274
+26.04 05:19:30 Going to coordinates X=-23.340, Y=-40.081
+26.04 05:19:30 Moving is finished
+26.04 05:20:36 Scanning 636 point from 1274
+26.04 05:20:36 Going to coordinates X=-23.290, Y=-40.081
+26.04 05:20:36 Moving is finished
+26.04 05:21:41 Scanning 637 point from 1274
+26.04 05:21:41 Going to coordinates X=-27.790, Y=-40.031
+26.04 05:21:43 Moving is finished
+26.04 05:22:49 Scanning 638 point from 1274
+26.04 05:22:49 Going to coordinates X=-27.740, Y=-40.031
+26.04 05:22:49 Moving is finished
+26.04 05:23:55 Scanning 639 point from 1274
+26.04 05:23:55 Going to coordinates X=-27.690, Y=-40.031
+26.04 05:23:55 Moving is finished
+26.04 05:25:01 Scanning 640 point from 1274
+26.04 05:25:01 Going to coordinates X=-27.640, Y=-40.031
+26.04 05:25:01 Moving is finished
+26.04 05:26:07 Scanning 641 point from 1274
+26.04 05:26:07 Going to coordinates X=-27.590, Y=-40.031
+26.04 05:26:07 Moving is finished
+26.04 05:27:13 Scanning 642 point from 1274
+26.04 05:27:13 Going to coordinates X=-27.540, Y=-40.031
+26.04 05:27:13 Moving is finished
+26.04 05:28:19 Scanning 643 point from 1274
+26.04 05:28:19 Going to coordinates X=-27.490, Y=-40.031
+26.04 05:28:19 Moving is finished
+26.04 05:29:26 Scanning 644 point from 1274
+26.04 05:29:26 Going to coordinates X=-27.440, Y=-40.031
+26.04 05:29:26 Moving is finished
+26.04 05:30:32 Scanning 645 point from 1274
+26.04 05:30:32 Going to coordinates X=-27.390, Y=-40.031
+26.04 05:30:32 Moving is finished
+26.04 05:31:38 Scanning 646 point from 1274
+26.04 05:31:38 Going to coordinates X=-27.340, Y=-40.031
+26.04 05:31:38 Moving is finished
+26.04 05:32:44 Scanning 647 point from 1274
+26.04 05:32:44 Going to coordinates X=-27.290, Y=-40.031
+26.04 05:32:45 Moving is finished
+26.04 05:33:50 Scanning 648 point from 1274
+26.04 05:33:50 Going to coordinates X=-27.240, Y=-40.031
+26.04 05:33:50 Moving is finished
+26.04 05:34:57 Scanning 649 point from 1274
+26.04 05:34:57 Going to coordinates X=-27.190, Y=-40.031
+26.04 05:34:57 Moving is finished
+26.04 05:36:03 Scanning 650 point from 1274
+26.04 05:36:03 Going to coordinates X=-27.140, Y=-40.031
+26.04 05:36:03 Moving is finished
+26.04 05:37:08 Scanning 651 point from 1274
+26.04 05:37:08 Going to coordinates X=-27.090, Y=-40.031
+26.04 05:37:08 Moving is finished
+26.04 05:38:14 Scanning 652 point from 1274
+26.04 05:38:14 Going to coordinates X=-27.040, Y=-40.031
+26.04 05:38:15 Moving is finished
+26.04 05:39:21 Scanning 653 point from 1274
+26.04 05:39:21 Going to coordinates X=-26.990, Y=-40.031
+26.04 05:39:21 Moving is finished
+26.04 05:40:27 Scanning 654 point from 1274
+26.04 05:40:27 Going to coordinates X=-26.940, Y=-40.031
+26.04 05:40:27 Moving is finished
+26.04 05:41:33 Scanning 655 point from 1274
+26.04 05:41:33 Going to coordinates X=-26.890, Y=-40.031
+26.04 05:41:33 Moving is finished
+26.04 05:42:38 Scanning 656 point from 1274
+26.04 05:42:38 Going to coordinates X=-26.840, Y=-40.031
+26.04 05:42:38 Moving is finished
+26.04 05:43:45 Scanning 657 point from 1274
+26.04 05:43:45 Going to coordinates X=-26.790, Y=-40.031
+26.04 05:43:45 Moving is finished
+26.04 05:44:52 Scanning 658 point from 1274
+26.04 05:44:52 Going to coordinates X=-26.740, Y=-40.031
+26.04 05:44:52 Moving is finished
+26.04 05:45:58 Scanning 659 point from 1274
+26.04 05:45:58 Going to coordinates X=-26.690, Y=-40.031
+26.04 05:45:58 Moving is finished
+26.04 05:47:04 Scanning 660 point from 1274
+26.04 05:47:04 Going to coordinates X=-26.640, Y=-40.031
+26.04 05:47:04 Moving is finished
+26.04 05:48:10 Scanning 661 point from 1274
+26.04 05:48:10 Going to coordinates X=-26.590, Y=-40.031
+26.04 05:48:11 Moving is finished
+26.04 05:49:16 Scanning 662 point from 1274
+26.04 05:49:16 Going to coordinates X=-26.540, Y=-40.031
+26.04 05:49:17 Moving is finished
+26.04 05:50:23 Scanning 663 point from 1274
+26.04 05:50:23 Going to coordinates X=-26.490, Y=-40.031
+26.04 05:50:23 Moving is finished
+26.04 05:51:29 Scanning 664 point from 1274
+26.04 05:51:29 Going to coordinates X=-26.440, Y=-40.031
+26.04 05:51:29 Moving is finished
+26.04 05:52:35 Scanning 665 point from 1274
+26.04 05:52:35 Going to coordinates X=-26.390, Y=-40.031
+26.04 05:52:35 Moving is finished
+26.04 05:53:42 Scanning 666 point from 1274
+26.04 05:53:42 Going to coordinates X=-26.340, Y=-40.031
+26.04 05:53:42 Moving is finished
+26.04 05:54:47 Scanning 667 point from 1274
+26.04 05:54:47 Going to coordinates X=-26.290, Y=-40.031
+26.04 05:54:47 Moving is finished
+26.04 05:55:53 Scanning 668 point from 1274
+26.04 05:55:53 Going to coordinates X=-26.240, Y=-40.031
+26.04 05:55:53 Moving is finished
+26.04 05:56:59 Scanning 669 point from 1274
+26.04 05:56:59 Going to coordinates X=-26.190, Y=-40.031
+26.04 05:56:59 Moving is finished
+26.04 05:58:05 Scanning 670 point from 1274
+26.04 05:58:05 Going to coordinates X=-26.140, Y=-40.031
+26.04 05:58:05 Moving is finished
+26.04 05:59:11 Scanning 671 point from 1274
+26.04 05:59:11 Going to coordinates X=-26.090, Y=-40.031
+26.04 05:59:11 Moving is finished
+26.04 06:00:17 Scanning 672 point from 1274
+26.04 06:00:17 Going to coordinates X=-26.040, Y=-40.031
+26.04 06:00:17 Moving is finished
+26.04 06:01:23 Scanning 673 point from 1274
+26.04 06:01:23 Going to coordinates X=-25.990, Y=-40.031
+26.04 06:01:23 Moving is finished
+26.04 06:02:29 Scanning 674 point from 1274
+26.04 06:02:29 Going to coordinates X=-25.940, Y=-40.031
+26.04 06:02:29 Moving is finished
+26.04 06:03:35 Scanning 675 point from 1274
+26.04 06:03:35 Going to coordinates X=-25.890, Y=-40.031
+26.04 06:03:35 Moving is finished
+26.04 06:04:41 Scanning 676 point from 1274
+26.04 06:04:41 Going to coordinates X=-25.840, Y=-40.031
+26.04 06:04:41 Moving is finished
+26.04 06:05:46 Scanning 677 point from 1274
+26.04 06:05:46 Going to coordinates X=-25.790, Y=-40.031
+26.04 06:05:47 Moving is finished
+26.04 06:06:52 Scanning 678 point from 1274
+26.04 06:06:52 Going to coordinates X=-25.740, Y=-40.031
+26.04 06:06:52 Moving is finished
+26.04 06:07:59 Scanning 679 point from 1274
+26.04 06:07:59 Going to coordinates X=-25.690, Y=-40.031
+26.04 06:07:59 Moving is finished
+26.04 06:09:05 Scanning 680 point from 1274
+26.04 06:09:05 Going to coordinates X=-25.640, Y=-40.031
+26.04 06:09:05 Moving is finished
+26.04 06:10:11 Scanning 681 point from 1274
+26.04 06:10:11 Going to coordinates X=-25.590, Y=-40.031
+26.04 06:10:12 Moving is finished
+26.04 06:11:17 Scanning 682 point from 1274
+26.04 06:11:17 Going to coordinates X=-25.540, Y=-40.031
+26.04 06:11:18 Moving is finished
+26.04 06:12:23 Scanning 683 point from 1274
+26.04 06:12:23 Going to coordinates X=-25.490, Y=-40.031
+26.04 06:12:24 Moving is finished
+26.04 06:13:30 Scanning 684 point from 1274
+26.04 06:13:30 Going to coordinates X=-25.440, Y=-40.031
+26.04 06:13:30 Moving is finished
+26.04 06:14:36 Scanning 685 point from 1274
+26.04 06:14:36 Going to coordinates X=-25.390, Y=-40.031
+26.04 06:14:36 Moving is finished
+26.04 06:15:42 Scanning 686 point from 1274
+26.04 06:15:42 Going to coordinates X=-25.340, Y=-40.031
+26.04 06:15:42 Moving is finished
+26.04 06:16:48 Scanning 687 point from 1274
+26.04 06:16:48 Going to coordinates X=-25.290, Y=-40.031
+26.04 06:16:48 Moving is finished
+26.04 06:17:54 Scanning 688 point from 1274
+26.04 06:17:54 Going to coordinates X=-25.240, Y=-40.031
+26.04 06:17:54 Moving is finished
+26.04 06:19:00 Scanning 689 point from 1274
+26.04 06:19:00 Going to coordinates X=-25.190, Y=-40.031
+26.04 06:19:00 Moving is finished
+26.04 06:20:05 Scanning 690 point from 1274
+26.04 06:20:05 Going to coordinates X=-25.140, Y=-40.031
+26.04 06:20:06 Moving is finished
+26.04 06:21:11 Scanning 691 point from 1274
+26.04 06:21:11 Going to coordinates X=-25.090, Y=-40.031
+26.04 06:21:11 Moving is finished
+26.04 06:22:17 Scanning 692 point from 1274
+26.04 06:22:17 Going to coordinates X=-25.040, Y=-40.031
+26.04 06:22:17 Moving is finished
+26.04 06:23:23 Scanning 693 point from 1274
+26.04 06:23:23 Going to coordinates X=-24.990, Y=-40.031
+26.04 06:23:23 Moving is finished
+26.04 06:24:29 Scanning 694 point from 1274
+26.04 06:24:29 Going to coordinates X=-24.940, Y=-40.031
+26.04 06:24:29 Moving is finished
+26.04 06:25:35 Scanning 695 point from 1274
+26.04 06:25:35 Going to coordinates X=-24.890, Y=-40.031
+26.04 06:25:35 Moving is finished
+26.04 06:26:40 Scanning 696 point from 1274
+26.04 06:26:40 Going to coordinates X=-24.840, Y=-40.031
+26.04 06:26:40 Moving is finished
+26.04 06:27:46 Scanning 697 point from 1274
+26.04 06:27:46 Going to coordinates X=-24.790, Y=-40.031
+26.04 06:27:46 Moving is finished
+26.04 06:28:52 Scanning 698 point from 1274
+26.04 06:28:52 Going to coordinates X=-24.740, Y=-40.031
+26.04 06:28:52 Moving is finished
+26.04 06:29:58 Scanning 699 point from 1274
+26.04 06:29:58 Going to coordinates X=-24.690, Y=-40.031
+26.04 06:29:58 Moving is finished
+26.04 06:31:04 Scanning 700 point from 1274
+26.04 06:31:04 Going to coordinates X=-24.640, Y=-40.031
+26.04 06:31:04 Moving is finished
+26.04 06:32:10 Scanning 701 point from 1274
+26.04 06:32:10 Going to coordinates X=-24.590, Y=-40.031
+26.04 06:32:10 Moving is finished
+26.04 06:33:16 Scanning 702 point from 1274
+26.04 06:33:16 Going to coordinates X=-24.540, Y=-40.031
+26.04 06:33:16 Moving is finished
+26.04 06:34:22 Scanning 703 point from 1274
+26.04 06:34:22 Going to coordinates X=-24.490, Y=-40.031
+26.04 06:34:22 Moving is finished
+26.04 06:35:27 Scanning 704 point from 1274
+26.04 06:35:27 Going to coordinates X=-24.440, Y=-40.031
+26.04 06:35:28 Moving is finished
+26.04 06:36:33 Scanning 705 point from 1274
+26.04 06:36:33 Going to coordinates X=-24.390, Y=-40.031
+26.04 06:36:33 Moving is finished
+26.04 06:37:40 Scanning 706 point from 1274
+26.04 06:37:40 Going to coordinates X=-24.340, Y=-40.031
+26.04 06:37:40 Moving is finished
+26.04 06:38:46 Scanning 707 point from 1274
+26.04 06:38:46 Going to coordinates X=-24.290, Y=-40.031
+26.04 06:38:46 Moving is finished
+26.04 06:39:52 Scanning 708 point from 1274
+26.04 06:39:52 Going to coordinates X=-24.240, Y=-40.031
+26.04 06:39:52 Moving is finished
+26.04 06:40:58 Scanning 709 point from 1274
+26.04 06:40:58 Going to coordinates X=-24.190, Y=-40.031
+26.04 06:40:58 Moving is finished
+26.04 06:42:04 Scanning 710 point from 1274
+26.04 06:42:04 Going to coordinates X=-24.140, Y=-40.031
+26.04 06:42:04 Moving is finished
+26.04 06:43:09 Scanning 711 point from 1274
+26.04 06:43:09 Going to coordinates X=-24.090, Y=-40.031
+26.04 06:43:10 Moving is finished
+26.04 06:44:15 Scanning 712 point from 1274
+26.04 06:44:15 Going to coordinates X=-24.040, Y=-40.031
+26.04 06:44:15 Moving is finished
+26.04 06:45:21 Scanning 713 point from 1274
+26.04 06:45:21 Going to coordinates X=-23.990, Y=-40.031
+26.04 06:45:22 Moving is finished
+26.04 06:46:27 Scanning 714 point from 1274
+26.04 06:46:27 Going to coordinates X=-23.940, Y=-40.031
+26.04 06:46:28 Moving is finished
+26.04 06:47:34 Scanning 715 point from 1274
+26.04 06:47:34 Going to coordinates X=-23.890, Y=-40.031
+26.04 06:47:34 Moving is finished
+26.04 06:48:40 Scanning 716 point from 1274
+26.04 06:48:40 Going to coordinates X=-23.840, Y=-40.031
+26.04 06:48:40 Moving is finished
+26.04 06:49:45 Scanning 717 point from 1274
+26.04 06:49:45 Going to coordinates X=-23.790, Y=-40.031
+26.04 06:49:46 Moving is finished
+26.04 06:50:51 Scanning 718 point from 1274
+26.04 06:50:51 Going to coordinates X=-23.740, Y=-40.031
+26.04 06:50:51 Moving is finished
+26.04 06:51:58 Scanning 719 point from 1274
+26.04 06:51:58 Going to coordinates X=-23.690, Y=-40.031
+26.04 06:51:58 Moving is finished
+26.04 06:53:04 Scanning 720 point from 1274
+26.04 06:53:04 Going to coordinates X=-23.640, Y=-40.031
+26.04 06:53:04 Moving is finished
+26.04 06:54:10 Scanning 721 point from 1274
+26.04 06:54:10 Going to coordinates X=-23.590, Y=-40.031
+26.04 06:54:10 Moving is finished
+26.04 06:55:17 Scanning 722 point from 1274
+26.04 06:55:17 Going to coordinates X=-23.540, Y=-40.031
+26.04 06:55:17 Moving is finished
+26.04 06:56:23 Scanning 723 point from 1274
+26.04 06:56:23 Going to coordinates X=-23.490, Y=-40.031
+26.04 06:56:23 Moving is finished
+26.04 06:57:29 Scanning 724 point from 1274
+26.04 06:57:29 Going to coordinates X=-23.440, Y=-40.031
+26.04 06:57:29 Moving is finished
+26.04 06:58:35 Scanning 725 point from 1274
+26.04 06:58:35 Going to coordinates X=-23.390, Y=-40.031
+26.04 06:58:35 Moving is finished
+26.04 06:59:41 Scanning 726 point from 1274
+26.04 06:59:41 Going to coordinates X=-23.340, Y=-40.031
+26.04 06:59:41 Moving is finished
+26.04 07:00:47 Scanning 727 point from 1274
+26.04 07:00:47 Going to coordinates X=-23.290, Y=-40.031
+26.04 07:00:47 Moving is finished
+26.04 07:01:53 Scanning 728 point from 1274
+26.04 07:01:53 Going to coordinates X=-27.790, Y=-39.981
+26.04 07:01:54 Moving is finished
+26.04 07:03:00 Scanning 729 point from 1274
+26.04 07:03:00 Going to coordinates X=-27.740, Y=-39.981
+26.04 07:03:00 Moving is finished
+26.04 07:04:07 Scanning 730 point from 1274
+26.04 07:04:07 Going to coordinates X=-27.690, Y=-39.981
+26.04 07:04:07 Moving is finished
+26.04 07:05:12 Scanning 731 point from 1274
+26.04 07:05:12 Going to coordinates X=-27.640, Y=-39.981
+26.04 07:05:12 Moving is finished
+26.04 07:06:18 Scanning 732 point from 1274
+26.04 07:06:18 Going to coordinates X=-27.590, Y=-39.981
+26.04 07:06:18 Moving is finished
+26.04 07:07:24 Scanning 733 point from 1274
+26.04 07:07:24 Going to coordinates X=-27.540, Y=-39.981
+26.04 07:07:24 Moving is finished
+26.04 07:08:30 Scanning 734 point from 1274
+26.04 07:08:30 Going to coordinates X=-27.490, Y=-39.981
+26.04 07:08:30 Moving is finished
+26.04 07:09:36 Scanning 735 point from 1274
+26.04 07:09:36 Going to coordinates X=-27.440, Y=-39.981
+26.04 07:09:37 Moving is finished
+26.04 07:10:43 Scanning 736 point from 1274
+26.04 07:10:43 Going to coordinates X=-27.390, Y=-39.981
+26.04 07:10:44 Moving is finished
+26.04 07:11:50 Scanning 737 point from 1274
+26.04 07:11:50 Going to coordinates X=-27.340, Y=-39.981
+26.04 07:11:50 Moving is finished
+26.04 07:12:56 Scanning 738 point from 1274
+26.04 07:12:56 Going to coordinates X=-27.290, Y=-39.981
+26.04 07:12:57 Moving is finished
+26.04 07:14:03 Scanning 739 point from 1274
+26.04 07:14:03 Going to coordinates X=-27.240, Y=-39.981
+26.04 07:14:03 Moving is finished
+26.04 07:15:09 Scanning 740 point from 1274
+26.04 07:15:09 Going to coordinates X=-27.190, Y=-39.981
+26.04 07:15:10 Moving is finished
+26.04 07:16:16 Scanning 741 point from 1274
+26.04 07:16:16 Going to coordinates X=-27.140, Y=-39.981
+26.04 07:16:16 Moving is finished
+26.04 07:17:22 Scanning 742 point from 1274
+26.04 07:17:22 Going to coordinates X=-27.090, Y=-39.981
+26.04 07:17:22 Moving is finished
+26.04 07:18:28 Scanning 743 point from 1274
+26.04 07:18:28 Going to coordinates X=-27.040, Y=-39.981
+26.04 07:18:28 Moving is finished
+26.04 07:19:34 Scanning 744 point from 1274
+26.04 07:19:34 Going to coordinates X=-26.990, Y=-39.981
+26.04 07:19:35 Moving is finished
+26.04 07:20:41 Scanning 745 point from 1274
+26.04 07:20:41 Going to coordinates X=-26.940, Y=-39.981
+26.04 07:20:41 Moving is finished
+26.04 07:21:47 Scanning 746 point from 1274
+26.04 07:21:47 Going to coordinates X=-26.890, Y=-39.981
+26.04 07:21:47 Moving is finished
+26.04 07:22:52 Scanning 747 point from 1274
+26.04 07:22:52 Going to coordinates X=-26.840, Y=-39.981
+26.04 07:22:53 Moving is finished
+26.04 07:23:58 Scanning 748 point from 1274
+26.04 07:23:58 Going to coordinates X=-26.790, Y=-39.981
+26.04 07:23:59 Moving is finished
+26.04 07:25:04 Scanning 749 point from 1274
+26.04 07:25:04 Going to coordinates X=-26.740, Y=-39.981
+26.04 07:25:05 Moving is finished
+26.04 07:26:11 Scanning 750 point from 1274
+26.04 07:26:11 Going to coordinates X=-26.690, Y=-39.981
+26.04 07:26:11 Moving is finished
+26.04 07:27:17 Scanning 751 point from 1274
+26.04 07:27:17 Going to coordinates X=-26.640, Y=-39.981
+26.04 07:27:17 Moving is finished
+26.04 07:28:23 Scanning 752 point from 1274
+26.04 07:28:23 Going to coordinates X=-26.590, Y=-39.981
+26.04 07:28:24 Moving is finished
+26.04 07:29:30 Scanning 753 point from 1274
+26.04 07:29:30 Going to coordinates X=-26.540, Y=-39.981
+26.04 07:29:30 Moving is finished
+26.04 07:30:36 Scanning 754 point from 1274
+26.04 07:30:36 Going to coordinates X=-26.490, Y=-39.981
+26.04 07:30:36 Moving is finished
+26.04 07:31:42 Scanning 755 point from 1274
+26.04 07:31:42 Going to coordinates X=-26.440, Y=-39.981
+26.04 07:31:42 Moving is finished
+26.04 07:32:47 Scanning 756 point from 1274
+26.04 07:32:47 Going to coordinates X=-26.390, Y=-39.981
+26.04 07:32:47 Moving is finished
+26.04 07:33:53 Scanning 757 point from 1274
+26.04 07:33:53 Going to coordinates X=-26.340, Y=-39.981
+26.04 07:33:53 Moving is finished
+26.04 07:34:59 Scanning 758 point from 1274
+26.04 07:34:59 Going to coordinates X=-26.290, Y=-39.981
+26.04 07:34:59 Moving is finished
+26.04 07:36:05 Scanning 759 point from 1274
+26.04 07:36:05 Going to coordinates X=-26.240, Y=-39.981
+26.04 07:36:05 Moving is finished
+26.04 07:37:11 Scanning 760 point from 1274
+26.04 07:37:11 Going to coordinates X=-26.190, Y=-39.981
+26.04 07:37:11 Moving is finished
+26.04 07:38:17 Scanning 761 point from 1274
+26.04 07:38:17 Going to coordinates X=-26.140, Y=-39.981
+26.04 07:38:17 Moving is finished
+26.04 07:39:23 Scanning 762 point from 1274
+26.04 07:39:23 Going to coordinates X=-26.090, Y=-39.981
+26.04 07:39:23 Moving is finished
+26.04 07:40:29 Scanning 763 point from 1274
+26.04 07:40:29 Going to coordinates X=-26.040, Y=-39.981
+26.04 07:40:29 Moving is finished
+26.04 07:41:35 Scanning 764 point from 1274
+26.04 07:41:35 Going to coordinates X=-25.990, Y=-39.981
+26.04 07:41:36 Moving is finished
+26.04 07:42:42 Scanning 765 point from 1274
+26.04 07:42:42 Going to coordinates X=-25.940, Y=-39.981
+26.04 07:42:42 Moving is finished
+26.04 07:43:48 Scanning 766 point from 1274
+26.04 07:43:48 Going to coordinates X=-25.890, Y=-39.981
+26.04 07:43:48 Moving is finished
+26.04 07:44:53 Scanning 767 point from 1274
+26.04 07:44:53 Going to coordinates X=-25.840, Y=-39.981
+26.04 07:44:53 Moving is finished
+26.04 07:45:59 Scanning 768 point from 1274
+26.04 07:45:59 Going to coordinates X=-25.790, Y=-39.981
+26.04 07:45:59 Moving is finished
+26.04 07:47:04 Scanning 769 point from 1274
+26.04 07:47:04 Going to coordinates X=-25.740, Y=-39.981
+26.04 07:47:05 Moving is finished
+26.04 07:48:10 Scanning 770 point from 1274
+26.04 07:48:10 Going to coordinates X=-25.690, Y=-39.981
+26.04 07:48:10 Moving is finished
+26.04 07:49:17 Scanning 771 point from 1274
+26.04 07:49:17 Going to coordinates X=-25.640, Y=-39.981
+26.04 07:49:17 Moving is finished
+26.04 07:50:22 Scanning 772 point from 1274
+26.04 07:50:22 Going to coordinates X=-25.590, Y=-39.981
+26.04 07:50:23 Moving is finished
+26.04 07:51:28 Scanning 773 point from 1274
+26.04 07:51:28 Going to coordinates X=-25.540, Y=-39.981
+26.04 07:51:28 Moving is finished
+26.04 07:52:34 Scanning 774 point from 1274
+26.04 07:52:34 Going to coordinates X=-25.490, Y=-39.981
+26.04 07:52:34 Moving is finished
+26.04 07:53:41 Scanning 775 point from 1274
+26.04 07:53:41 Going to coordinates X=-25.440, Y=-39.981
+26.04 07:53:41 Moving is finished
+26.04 07:54:46 Scanning 776 point from 1274
+26.04 07:54:46 Going to coordinates X=-25.390, Y=-39.981
+26.04 07:54:47 Moving is finished
+26.04 07:55:53 Scanning 777 point from 1274
+26.04 07:55:53 Going to coordinates X=-25.340, Y=-39.981
+26.04 07:55:53 Moving is finished
+26.04 07:56:59 Scanning 778 point from 1274
+26.04 07:56:59 Going to coordinates X=-25.290, Y=-39.981
+26.04 07:56:59 Moving is finished
+26.04 07:58:05 Scanning 779 point from 1274
+26.04 07:58:05 Going to coordinates X=-25.240, Y=-39.981
+26.04 07:58:06 Moving is finished
+26.04 07:59:12 Scanning 780 point from 1274
+26.04 07:59:12 Going to coordinates X=-25.190, Y=-39.981
+26.04 07:59:12 Moving is finished
+26.04 08:00:18 Scanning 781 point from 1274
+26.04 08:00:18 Going to coordinates X=-25.140, Y=-39.981
+26.04 08:00:18 Moving is finished
+26.04 08:01:24 Scanning 782 point from 1274
+26.04 08:01:24 Going to coordinates X=-25.090, Y=-39.981
+26.04 08:01:24 Moving is finished
+26.04 08:02:30 Scanning 783 point from 1274
+26.04 08:02:30 Going to coordinates X=-25.040, Y=-39.981
+26.04 08:02:31 Moving is finished
+26.04 08:03:36 Scanning 784 point from 1274
+26.04 08:03:36 Going to coordinates X=-24.990, Y=-39.981
+26.04 08:03:36 Moving is finished
+26.04 08:04:43 Scanning 785 point from 1274
+26.04 08:04:43 Going to coordinates X=-24.940, Y=-39.981
+26.04 08:04:43 Moving is finished
+26.04 08:05:48 Scanning 786 point from 1274
+26.04 08:05:48 Going to coordinates X=-24.890, Y=-39.981
+26.04 08:05:49 Moving is finished
+26.04 08:06:55 Scanning 787 point from 1274
+26.04 08:06:55 Going to coordinates X=-24.840, Y=-39.981
+26.04 08:06:55 Moving is finished
+26.04 08:08:01 Scanning 788 point from 1274
+26.04 08:08:01 Going to coordinates X=-24.790, Y=-39.981
+26.04 08:08:02 Moving is finished
+26.04 08:09:08 Scanning 789 point from 1274
+26.04 08:09:08 Going to coordinates X=-24.740, Y=-39.981
+26.04 08:09:08 Moving is finished
+26.04 08:10:14 Scanning 790 point from 1274
+26.04 08:10:14 Going to coordinates X=-24.690, Y=-39.981
+26.04 08:10:14 Moving is finished
+26.04 08:11:20 Scanning 791 point from 1274
+26.04 08:11:20 Going to coordinates X=-24.640, Y=-39.981
+26.04 08:11:20 Moving is finished
+26.04 08:12:26 Scanning 792 point from 1274
+26.04 08:12:26 Going to coordinates X=-24.590, Y=-39.981
+26.04 08:12:26 Moving is finished
+26.04 08:13:32 Scanning 793 point from 1274
+26.04 08:13:32 Going to coordinates X=-24.540, Y=-39.981
+26.04 08:13:32 Moving is finished
+26.04 08:14:38 Scanning 794 point from 1274
+26.04 08:14:38 Going to coordinates X=-24.490, Y=-39.981
+26.04 08:14:38 Moving is finished
+26.04 08:15:44 Scanning 795 point from 1274
+26.04 08:15:44 Going to coordinates X=-24.440, Y=-39.981
+26.04 08:15:44 Moving is finished
+26.04 08:16:50 Scanning 796 point from 1274
+26.04 08:16:50 Going to coordinates X=-24.390, Y=-39.981
+26.04 08:16:51 Moving is finished
+26.04 08:17:56 Scanning 797 point from 1274
+26.04 08:17:56 Going to coordinates X=-24.340, Y=-39.981
+26.04 08:17:56 Moving is finished
+26.04 08:19:02 Scanning 798 point from 1274
+26.04 08:19:02 Going to coordinates X=-24.290, Y=-39.981
+26.04 08:19:02 Moving is finished
+26.04 08:20:08 Scanning 799 point from 1274
+26.04 08:20:08 Going to coordinates X=-24.240, Y=-39.981
+26.04 08:20:08 Moving is finished
+26.04 08:21:13 Scanning 800 point from 1274
+26.04 08:21:13 Going to coordinates X=-24.190, Y=-39.981
+26.04 08:21:14 Moving is finished
+26.04 08:22:19 Scanning 801 point from 1274
+26.04 08:22:19 Going to coordinates X=-24.140, Y=-39.981
+26.04 08:22:20 Moving is finished
+26.04 08:23:25 Scanning 802 point from 1274
+26.04 08:23:25 Going to coordinates X=-24.090, Y=-39.981
+26.04 08:23:26 Moving is finished
+26.04 08:24:31 Scanning 803 point from 1274
+26.04 08:24:31 Going to coordinates X=-24.040, Y=-39.981
+26.04 08:24:31 Moving is finished
+26.04 08:25:37 Scanning 804 point from 1274
+26.04 08:25:37 Going to coordinates X=-23.990, Y=-39.981
+26.04 08:25:37 Moving is finished
+26.04 08:26:43 Scanning 805 point from 1274
+26.04 08:26:43 Going to coordinates X=-23.940, Y=-39.981
+26.04 08:26:43 Moving is finished
+26.04 08:27:49 Scanning 806 point from 1274
+26.04 08:27:49 Going to coordinates X=-23.890, Y=-39.981
+26.04 08:27:49 Moving is finished
+26.04 08:28:55 Scanning 807 point from 1274
+26.04 08:28:55 Going to coordinates X=-23.840, Y=-39.981
+26.04 08:28:55 Moving is finished
+26.04 08:30:02 Scanning 808 point from 1274
+26.04 08:30:02 Going to coordinates X=-23.790, Y=-39.981
+26.04 08:30:02 Moving is finished
+26.04 08:31:08 Scanning 809 point from 1274
+26.04 08:31:08 Going to coordinates X=-23.740, Y=-39.981
+26.04 08:31:08 Moving is finished
+26.04 08:32:13 Scanning 810 point from 1274
+26.04 08:32:13 Going to coordinates X=-23.690, Y=-39.981
+26.04 08:32:14 Moving is finished
+26.04 08:33:20 Scanning 811 point from 1274
+26.04 08:33:20 Going to coordinates X=-23.640, Y=-39.981
+26.04 08:33:20 Moving is finished
+26.04 08:34:26 Scanning 812 point from 1274
+26.04 08:34:26 Going to coordinates X=-23.590, Y=-39.981
+26.04 08:34:26 Moving is finished
+26.04 08:35:32 Scanning 813 point from 1274
+26.04 08:35:32 Going to coordinates X=-23.540, Y=-39.981
+26.04 08:35:32 Moving is finished
+26.04 08:36:38 Scanning 814 point from 1274
+26.04 08:36:38 Going to coordinates X=-23.490, Y=-39.981
+26.04 08:36:38 Moving is finished
+26.04 08:37:44 Scanning 815 point from 1274
+26.04 08:37:44 Going to coordinates X=-23.440, Y=-39.981
+26.04 08:37:44 Moving is finished
+26.04 08:38:50 Scanning 816 point from 1274
+26.04 08:38:50 Going to coordinates X=-23.390, Y=-39.981
+26.04 08:38:50 Moving is finished
+26.04 08:39:56 Scanning 817 point from 1274
+26.04 08:39:56 Going to coordinates X=-23.340, Y=-39.981
+26.04 08:39:57 Moving is finished
+26.04 08:41:02 Scanning 818 point from 1274
+26.04 08:41:02 Going to coordinates X=-23.290, Y=-39.981
+26.04 08:41:03 Moving is finished
+26.04 08:42:08 Scanning 819 point from 1274
+26.04 08:42:08 Going to coordinates X=-27.790, Y=-39.931
+26.04 08:42:09 Moving is finished
+26.04 08:43:15 Scanning 820 point from 1274
+26.04 08:43:15 Going to coordinates X=-27.740, Y=-39.931
+26.04 08:43:15 Moving is finished
+26.04 08:44:21 Scanning 821 point from 1274
+26.04 08:44:21 Going to coordinates X=-27.690, Y=-39.931
+26.04 08:44:21 Moving is finished
+26.04 08:45:27 Scanning 822 point from 1274
+26.04 08:45:27 Going to coordinates X=-27.640, Y=-39.931
+26.04 08:45:27 Moving is finished
+26.04 08:46:33 Scanning 823 point from 1274
+26.04 08:46:33 Going to coordinates X=-27.590, Y=-39.931
+26.04 08:46:33 Moving is finished
+26.04 08:47:39 Scanning 824 point from 1274
+26.04 08:47:39 Going to coordinates X=-27.540, Y=-39.931
+26.04 08:47:40 Moving is finished
+26.04 08:48:46 Scanning 825 point from 1274
+26.04 08:48:46 Going to coordinates X=-27.490, Y=-39.931
+26.04 08:48:46 Moving is finished
+26.04 08:49:52 Scanning 826 point from 1274
+26.04 08:49:52 Going to coordinates X=-27.440, Y=-39.931
+26.04 08:49:52 Moving is finished
+26.04 08:50:58 Scanning 827 point from 1274
+26.04 08:50:58 Going to coordinates X=-27.390, Y=-39.931
+26.04 08:50:58 Moving is finished
+26.04 08:52:04 Scanning 828 point from 1274
+26.04 08:52:04 Going to coordinates X=-27.340, Y=-39.931
+26.04 08:52:04 Moving is finished
+26.04 08:53:10 Scanning 829 point from 1274
+26.04 08:53:10 Going to coordinates X=-27.290, Y=-39.931
+26.04 08:53:10 Moving is finished
+26.04 08:54:17 Scanning 830 point from 1274
+26.04 08:54:17 Going to coordinates X=-27.240, Y=-39.931
+26.04 08:54:17 Moving is finished
+26.04 08:55:23 Scanning 831 point from 1274
+26.04 08:55:23 Going to coordinates X=-27.190, Y=-39.931
+26.04 08:55:23 Moving is finished
+26.04 08:56:29 Scanning 832 point from 1274
+26.04 08:56:29 Going to coordinates X=-27.140, Y=-39.931
+26.04 08:56:29 Moving is finished
+26.04 08:57:35 Scanning 833 point from 1274
+26.04 08:57:35 Going to coordinates X=-27.090, Y=-39.931
+26.04 08:57:35 Moving is finished
+26.04 08:58:40 Scanning 834 point from 1274
+26.04 08:58:40 Going to coordinates X=-27.040, Y=-39.931
+26.04 08:58:40 Moving is finished
+26.04 08:59:46 Scanning 835 point from 1274
+26.04 08:59:46 Going to coordinates X=-26.990, Y=-39.931
+26.04 08:59:46 Moving is finished
+26.04 09:00:52 Scanning 836 point from 1274
+26.04 09:00:52 Going to coordinates X=-26.940, Y=-39.931
+26.04 09:00:53 Moving is finished
+26.04 09:01:59 Scanning 837 point from 1274
+26.04 09:01:59 Going to coordinates X=-26.890, Y=-39.931
+26.04 09:01:59 Moving is finished
+26.04 09:03:05 Scanning 838 point from 1274
+26.04 09:03:05 Going to coordinates X=-26.840, Y=-39.931
+26.04 09:03:05 Moving is finished
+26.04 09:04:11 Scanning 839 point from 1274
+26.04 09:04:11 Going to coordinates X=-26.790, Y=-39.931
+26.04 09:04:11 Moving is finished
+26.04 09:05:16 Scanning 840 point from 1274
+26.04 09:05:16 Going to coordinates X=-26.740, Y=-39.931
+26.04 09:05:17 Moving is finished
+26.04 09:06:22 Scanning 841 point from 1274
+26.04 09:06:22 Going to coordinates X=-26.690, Y=-39.931
+26.04 09:06:22 Moving is finished
+26.04 09:07:28 Scanning 842 point from 1274
+26.04 09:07:28 Going to coordinates X=-26.640, Y=-39.931
+26.04 09:07:28 Moving is finished
+26.04 09:08:34 Scanning 843 point from 1274
+26.04 09:08:34 Going to coordinates X=-26.590, Y=-39.931
+26.04 09:08:34 Moving is finished
+26.04 09:09:40 Scanning 844 point from 1274
+26.04 09:09:40 Going to coordinates X=-26.540, Y=-39.931
+26.04 09:09:40 Moving is finished
+26.04 09:10:46 Scanning 845 point from 1274
+26.04 09:10:46 Going to coordinates X=-26.490, Y=-39.931
+26.04 09:10:46 Moving is finished
+26.04 09:11:52 Scanning 846 point from 1274
+26.04 09:11:52 Going to coordinates X=-26.440, Y=-39.931
+26.04 09:11:53 Moving is finished
+26.04 09:12:58 Scanning 847 point from 1274
+26.04 09:12:58 Going to coordinates X=-26.390, Y=-39.931
+26.04 09:12:59 Moving is finished
+26.04 09:14:05 Scanning 848 point from 1274
+26.04 09:14:05 Going to coordinates X=-26.340, Y=-39.931
+26.04 09:14:05 Moving is finished
+26.04 09:15:11 Scanning 849 point from 1274
+26.04 09:15:11 Going to coordinates X=-26.290, Y=-39.931
+26.04 09:15:12 Moving is finished
+26.04 09:16:17 Scanning 850 point from 1274
+26.04 09:16:17 Going to coordinates X=-26.240, Y=-39.931
+26.04 09:16:17 Moving is finished
+26.04 09:17:23 Scanning 851 point from 1274
+26.04 09:17:23 Going to coordinates X=-26.190, Y=-39.931
+26.04 09:17:23 Moving is finished
+26.04 09:18:30 Scanning 852 point from 1274
+26.04 09:18:30 Going to coordinates X=-26.140, Y=-39.931
+26.04 09:18:30 Moving is finished
+26.04 09:19:36 Scanning 853 point from 1274
+26.04 09:19:36 Going to coordinates X=-26.090, Y=-39.931
+26.04 09:19:36 Moving is finished
+26.04 09:20:42 Scanning 854 point from 1274
+26.04 09:20:42 Going to coordinates X=-26.040, Y=-39.931
+26.04 09:20:42 Moving is finished
+26.04 09:21:48 Scanning 855 point from 1274
+26.04 09:21:48 Going to coordinates X=-25.990, Y=-39.931
+26.04 09:21:48 Moving is finished
+26.04 09:22:54 Scanning 856 point from 1274
+26.04 09:22:54 Going to coordinates X=-25.940, Y=-39.931
+26.04 09:22:54 Moving is finished
+26.04 09:24:01 Scanning 857 point from 1274
+26.04 09:24:01 Going to coordinates X=-25.890, Y=-39.931
+26.04 09:24:01 Moving is finished
+26.04 09:25:07 Scanning 858 point from 1274
+26.04 09:25:07 Going to coordinates X=-25.840, Y=-39.931
+26.04 09:25:07 Moving is finished
+26.04 09:26:13 Scanning 859 point from 1274
+26.04 09:26:13 Going to coordinates X=-25.790, Y=-39.931
+26.04 09:26:14 Moving is finished
+26.04 09:27:20 Scanning 860 point from 1274
+26.04 09:27:20 Going to coordinates X=-25.740, Y=-39.931
+26.04 09:27:20 Moving is finished
+26.04 09:28:26 Scanning 861 point from 1274
+26.04 09:28:26 Going to coordinates X=-25.690, Y=-39.931
+26.04 09:28:26 Moving is finished
+26.04 09:29:33 Scanning 862 point from 1274
+26.04 09:29:33 Going to coordinates X=-25.640, Y=-39.931
+26.04 09:29:33 Moving is finished
+26.04 09:30:39 Scanning 863 point from 1274
+26.04 09:30:39 Going to coordinates X=-25.590, Y=-39.931
+26.04 09:30:39 Moving is finished
+26.04 09:31:45 Scanning 864 point from 1274
+26.04 09:31:45 Going to coordinates X=-25.540, Y=-39.931
+26.04 09:31:46 Moving is finished
+26.04 09:32:52 Scanning 865 point from 1274
+26.04 09:32:52 Going to coordinates X=-25.490, Y=-39.931
+26.04 09:32:52 Moving is finished
+26.04 09:33:58 Scanning 866 point from 1274
+26.04 09:33:58 Going to coordinates X=-25.440, Y=-39.931
+26.04 09:33:58 Moving is finished
+26.04 09:35:04 Scanning 867 point from 1274
+26.04 09:35:04 Going to coordinates X=-25.390, Y=-39.931
+26.04 09:35:04 Moving is finished
+26.04 09:36:10 Scanning 868 point from 1274
+26.04 09:36:10 Going to coordinates X=-25.340, Y=-39.931
+26.04 09:36:10 Moving is finished
+26.04 09:37:17 Scanning 869 point from 1274
+26.04 09:37:17 Going to coordinates X=-25.290, Y=-39.931
+26.04 09:37:17 Moving is finished
+26.04 09:38:23 Scanning 870 point from 1274
+26.04 09:38:23 Going to coordinates X=-25.240, Y=-39.931
+26.04 09:38:23 Moving is finished
+26.04 09:39:29 Scanning 871 point from 1274
+26.04 09:39:29 Going to coordinates X=-25.190, Y=-39.931
+26.04 09:39:29 Moving is finished
+26.04 09:40:35 Scanning 872 point from 1274
+26.04 09:40:35 Going to coordinates X=-25.140, Y=-39.931
+26.04 09:40:35 Moving is finished
+26.04 09:41:41 Scanning 873 point from 1274
+26.04 09:41:41 Going to coordinates X=-25.090, Y=-39.931
+26.04 09:41:41 Moving is finished
+26.04 09:42:48 Scanning 874 point from 1274
+26.04 09:42:48 Going to coordinates X=-25.040, Y=-39.931
+26.04 09:42:48 Moving is finished
+26.04 09:43:54 Scanning 875 point from 1274
+26.04 09:43:54 Going to coordinates X=-24.990, Y=-39.931
+26.04 09:43:54 Moving is finished
+26.04 09:45:00 Scanning 876 point from 1274
+26.04 09:45:00 Going to coordinates X=-24.940, Y=-39.931
+26.04 09:45:00 Moving is finished
+26.04 09:46:06 Scanning 877 point from 1274
+26.04 09:46:06 Going to coordinates X=-24.890, Y=-39.931
+26.04 09:46:06 Moving is finished
+26.04 09:47:12 Scanning 878 point from 1274
+26.04 09:47:12 Going to coordinates X=-24.840, Y=-39.931
+26.04 09:47:12 Moving is finished
+26.04 09:48:18 Scanning 879 point from 1274
+26.04 09:48:18 Going to coordinates X=-24.790, Y=-39.931
+26.04 09:48:18 Moving is finished
+26.04 09:49:24 Scanning 880 point from 1274
+26.04 09:49:24 Going to coordinates X=-24.740, Y=-39.931
+26.04 09:49:24 Moving is finished
+26.04 09:50:30 Scanning 881 point from 1274
+26.04 09:50:30 Going to coordinates X=-24.690, Y=-39.931
+26.04 09:50:30 Moving is finished
+26.04 09:51:36 Scanning 882 point from 1274
+26.04 09:51:36 Going to coordinates X=-24.640, Y=-39.931
+26.04 09:51:36 Moving is finished
+26.04 09:52:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:23 Scanning 883 point from 1274
+26.04 09:52:23 Going to coordinates X=-24.590, Y=-39.931
+26.04 09:52:23 Moving is finished
+26.04 09:52:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:34 Scanning 884 point from 1274
+26.04 09:52:34 Going to coordinates X=-24.540, Y=-39.931
+26.04 09:52:35 Moving is finished
+26.04 09:52:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:46 Scanning 885 point from 1274
+26.04 09:52:46 Going to coordinates X=-24.490, Y=-39.931
+26.04 09:52:46 Moving is finished
+26.04 09:52:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:52:57 Scanning 886 point from 1274
+26.04 09:52:57 Going to coordinates X=-24.440, Y=-39.931
+26.04 09:52:58 Moving is finished
+26.04 09:53:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:09 Scanning 887 point from 1274
+26.04 09:53:09 Going to coordinates X=-24.390, Y=-39.931
+26.04 09:53:09 Moving is finished
+26.04 09:53:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:20 Scanning 888 point from 1274
+26.04 09:53:20 Going to coordinates X=-24.340, Y=-39.931
+26.04 09:53:21 Moving is finished
+26.04 09:53:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:32 Scanning 889 point from 1274
+26.04 09:53:32 Going to coordinates X=-24.290, Y=-39.931
+26.04 09:53:32 Moving is finished
+26.04 09:53:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:43 Scanning 890 point from 1274
+26.04 09:53:43 Going to coordinates X=-24.240, Y=-39.931
+26.04 09:53:44 Moving is finished
+26.04 09:53:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:53:55 Scanning 891 point from 1274
+26.04 09:53:55 Going to coordinates X=-24.190, Y=-39.931
+26.04 09:53:55 Moving is finished
+26.04 09:54:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:06 Scanning 892 point from 1274
+26.04 09:54:06 Going to coordinates X=-24.140, Y=-39.931
+26.04 09:54:06 Moving is finished
+26.04 09:54:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:18 Scanning 893 point from 1274
+26.04 09:54:18 Going to coordinates X=-24.090, Y=-39.931
+26.04 09:54:18 Moving is finished
+26.04 09:54:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:29 Scanning 894 point from 1274
+26.04 09:54:29 Going to coordinates X=-24.040, Y=-39.931
+26.04 09:54:29 Moving is finished
+26.04 09:54:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:41 Scanning 895 point from 1274
+26.04 09:54:41 Going to coordinates X=-23.990, Y=-39.931
+26.04 09:54:41 Moving is finished
+26.04 09:54:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:54:52 Scanning 896 point from 1274
+26.04 09:54:52 Going to coordinates X=-23.940, Y=-39.931
+26.04 09:54:52 Moving is finished
+26.04 09:54:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:04 Scanning 897 point from 1274
+26.04 09:55:04 Going to coordinates X=-23.890, Y=-39.931
+26.04 09:55:04 Moving is finished
+26.04 09:55:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:15 Scanning 898 point from 1274
+26.04 09:55:15 Going to coordinates X=-23.840, Y=-39.931
+26.04 09:55:15 Moving is finished
+26.04 09:55:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:27 Scanning 899 point from 1274
+26.04 09:55:27 Going to coordinates X=-23.790, Y=-39.931
+26.04 09:55:27 Moving is finished
+26.04 09:55:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:38 Scanning 900 point from 1274
+26.04 09:55:38 Going to coordinates X=-23.740, Y=-39.931
+26.04 09:55:38 Moving is finished
+26.04 09:55:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:55:49 Scanning 901 point from 1274
+26.04 09:55:49 Going to coordinates X=-23.690, Y=-39.931
+26.04 09:55:50 Moving is finished
+26.04 09:55:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:01 Scanning 902 point from 1274
+26.04 09:56:01 Going to coordinates X=-23.640, Y=-39.931
+26.04 09:56:01 Moving is finished
+26.04 09:56:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:12 Scanning 903 point from 1274
+26.04 09:56:12 Going to coordinates X=-23.590, Y=-39.931
+26.04 09:56:13 Moving is finished
+26.04 09:56:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:24 Scanning 904 point from 1274
+26.04 09:56:24 Going to coordinates X=-23.540, Y=-39.931
+26.04 09:56:24 Moving is finished
+26.04 09:56:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:35 Scanning 905 point from 1274
+26.04 09:56:35 Going to coordinates X=-23.490, Y=-39.931
+26.04 09:56:36 Moving is finished
+26.04 09:56:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:47 Scanning 906 point from 1274
+26.04 09:56:47 Going to coordinates X=-23.440, Y=-39.931
+26.04 09:56:47 Moving is finished
+26.04 09:56:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:56:58 Scanning 907 point from 1274
+26.04 09:56:58 Going to coordinates X=-23.390, Y=-39.931
+26.04 09:56:59 Moving is finished
+26.04 09:57:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:10 Scanning 908 point from 1274
+26.04 09:57:10 Going to coordinates X=-23.340, Y=-39.931
+26.04 09:57:10 Moving is finished
+26.04 09:57:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:21 Scanning 909 point from 1274
+26.04 09:57:21 Going to coordinates X=-23.290, Y=-39.931
+26.04 09:57:22 Moving is finished
+26.04 09:57:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:33 Scanning 910 point from 1274
+26.04 09:57:33 Going to coordinates X=-27.790, Y=-39.881
+26.04 09:57:34 Moving is finished
+26.04 09:57:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:46 Scanning 911 point from 1274
+26.04 09:57:46 Going to coordinates X=-27.740, Y=-39.881
+26.04 09:57:46 Moving is finished
+26.04 09:57:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:57:57 Scanning 912 point from 1274
+26.04 09:57:57 Going to coordinates X=-27.690, Y=-39.881
+26.04 09:57:57 Moving is finished
+26.04 09:58:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:09 Scanning 913 point from 1274
+26.04 09:58:09 Going to coordinates X=-27.640, Y=-39.881
+26.04 09:58:09 Moving is finished
+26.04 09:58:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:20 Scanning 914 point from 1274
+26.04 09:58:20 Going to coordinates X=-27.590, Y=-39.881
+26.04 09:58:20 Moving is finished
+26.04 09:58:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:32 Scanning 915 point from 1274
+26.04 09:58:32 Going to coordinates X=-27.540, Y=-39.881
+26.04 09:58:32 Moving is finished
+26.04 09:58:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:43 Scanning 916 point from 1274
+26.04 09:58:43 Going to coordinates X=-27.490, Y=-39.881
+26.04 09:58:43 Moving is finished
+26.04 09:58:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:58:54 Scanning 917 point from 1274
+26.04 09:58:54 Going to coordinates X=-27.440, Y=-39.881
+26.04 09:58:55 Moving is finished
+26.04 09:59:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:06 Scanning 918 point from 1274
+26.04 09:59:06 Going to coordinates X=-27.390, Y=-39.881
+26.04 09:59:06 Moving is finished
+26.04 09:59:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:17 Scanning 919 point from 1274
+26.04 09:59:17 Going to coordinates X=-27.340, Y=-39.881
+26.04 09:59:18 Moving is finished
+26.04 09:59:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:29 Scanning 920 point from 1274
+26.04 09:59:29 Going to coordinates X=-27.290, Y=-39.881
+26.04 09:59:29 Moving is finished
+26.04 09:59:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:40 Scanning 921 point from 1274
+26.04 09:59:40 Going to coordinates X=-27.240, Y=-39.881
+26.04 09:59:41 Moving is finished
+26.04 09:59:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 09:59:52 Scanning 922 point from 1274
+26.04 09:59:52 Going to coordinates X=-27.190, Y=-39.881
+26.04 09:59:52 Moving is finished
+26.04 09:59:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 10:00:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 10:00:03 Scanning 923 point from 1274
+26.04 10:00:03 Going to coordinates X=-27.140, Y=-39.881
+26.04 10:00:04 Moving is finished
+26.04 10:00:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 10:00:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 10:00:15 Scanning 924 point from 1274
+26.04 10:00:15 Going to coordinates X=-27.090, Y=-39.881
+26.04 10:00:15 Moving is finished
+26.04 10:00:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 10:00:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+26.04 10:00:26 Scanning 925 point from 1274
+26.04 10:00:26 Going to coordinates X=-27.040, Y=-39.881
+26.04 10:00:26 Moving is finished
+26.04 10:01:18 Scanning 926 point from 1274
+26.04 10:01:18 Going to coordinates X=-26.990, Y=-39.881
+26.04 10:01:19 Moving is finished
+26.04 10:01:37 Scanning 927 point from 1274
+26.04 10:01:37 Going to coordinates X=-26.940, Y=-39.881
+26.04 10:01:38 Moving is finished
+26.04 10:01:44 Stopped!

@@ -1,0 +1,39 @@
+11.07 09:22:51 Initializing grbl...
+11.07 09:22:51 Got the response: b''
+11.07 09:32:55 Can't send the command to GRBL
+11.07 09:32:55 Write timeout11.07 09:32:55 Write timeout
+
+11.07 10:01:30 Row 0: 11.07 10:01:30 Circle: x: -14.000, y: -42.103, rad: 0.010, n: 20, fname: M3
+11.07 10:01:30 Scanning point 1 of circle
+11.07 10:01:30 Going to coordinates X=-13.990, Y=-42.103
+11.07 10:01:30 Moving is finished
+11.07 10:01:31 Starting signal collection to the file M3_circle_1
+11.07 10:02:38 Data is collected!
+11.07 10:02:38 Scanning point 2 of circle
+11.07 10:02:38 Going to coordinates X=-13.990, Y=-42.100
+11.07 10:02:38 Status responce is malformed
+11.07 10:02:38 list index out of range
+11.07 10:03:38 Moving is finished
+11.07 10:03:39 Starting signal collection to the file M3_circle_2
+11.07 10:04:45 Data is collected!
+11.07 10:04:45 Scanning point 3 of circle
+11.07 10:04:45 Going to coordinates X=-13.992, Y=-42.097
+11.07 10:04:45 Moving is finished
+11.07 10:04:46 Starting signal collection to the file M3_circle_3
+11.07 10:05:54 Data is collected!
+11.07 10:05:54 Scanning point 4 of circle
+11.07 10:05:54 Going to coordinates X=-13.994, Y=-42.095
+11.07 10:05:57 Moving is finished
+11.07 10:05:58 Starting signal collection to the file M3_circle_4
+11.07 10:06:09 timed out
+11.07 10:06:10 Data is collected!
+11.07 10:06:10 Paused
+11.07 10:06:42 Can't send the command to GRBL
+11.07 10:06:42 Write timeout11.07 10:06:42 Write timeout
+
+11.07 10:06:55 Can't send the command to GRBL
+11.07 10:06:55 Write timeout11.07 10:06:55 Write timeout
+
+11.07 10:29:09 Stopped!
+11.07 10:29:14 Row 0: 11.07 10:29:14 Paused
+11.07 10:29:23 Stopped!

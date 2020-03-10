@@ -1,0 +1,193 @@
+14.06 18:46:52 Initializing grbl...
+14.06 18:46:53 Got the response: b''
+14.06 18:50:03 Row 0: 14.06 18:50:03 Map: x1: -48.327, y1: -38.907, x2: -47.58, y2: -39.206, xres: 0.030, yres: 0.030, fname: dmemseranh2
+14.06 18:50:03 Scanning 0 point from 286
+14.06 18:50:03 Going to coordinates X=-48.327, Y=-39.206
+14.06 18:50:04 Moving is finished
+14.06 18:51:42 Scanning 1 point from 286
+14.06 18:51:42 Going to coordinates X=-48.297, Y=-39.206
+14.06 18:51:42 Moving is finished
+14.06 18:53:19 Scanning 2 point from 286
+14.06 18:53:19 Going to coordinates X=-48.267, Y=-39.206
+14.06 18:53:19 Moving is finished
+14.06 18:54:56 Scanning 3 point from 286
+14.06 18:54:56 Going to coordinates X=-48.237, Y=-39.206
+14.06 18:54:56 Moving is finished
+
+14.06 18:54:58 Scanning 4 point from 286
+14.06 18:54:58 Going to coordinates X=-48.207, Y=-39.206
+14.06 18:54:59 Moving is finished
+
+14.06 18:55:00 Scanning 5 point from 286
+14.06 18:55:00 Going to coordinates X=-48.177, Y=-39.206
+14.06 18:55:01 Moving is finished
+
+14.06 18:55:03 Scanning 6 point from 286
+14.06 18:55:03 Going to coordinates X=-48.147, Y=-39.206
+14.06 18:55:03 Moving is finished
+
+14.06 18:55:05 Scanning 7 point from 286
+14.06 18:55:05 Going to coordinates X=-48.117, Y=-39.206
+14.06 18:55:05 Moving is finished
+
+14.06 18:55:07 Scanning 8 point from 286
+14.06 18:55:07 Going to coordinates X=-48.087, Y=-39.206
+14.06 18:55:07 Moving is finished
+
+14.06 18:55:10 Scanning 9 point from 286
+14.06 18:55:10 Going to coordinates X=-48.057, Y=-39.206
+14.06 18:55:10 Moving is finished
+
+14.06 18:55:12 Scanning 10 point from 286
+14.06 18:55:12 Paused
+14.06 18:55:14 Stopped!
+14.06 18:55:23 Row 0: 14.06 18:55:23 Paused
+14.06 18:55:25 Map: x1: -48.327, y1: -38.907, x2: -47.58, y2: -39.206, xres: 0.030, yres: 0.030, fname: dmemseranh2
+14.06 18:55:25 Scanning 0 point from 286
+14.06 18:55:25 Going to coordinates X=-48.327, Y=-39.206
+14.06 18:55:26 Moving is finished
+14.06 18:57:02 Scanning 1 point from 286
+14.06 18:57:02 Going to coordinates X=-48.297, Y=-39.206
+14.06 18:57:02 Moving is finished
+14.06 18:58:39 Scanning 2 point from 286
+14.06 18:58:39 Going to coordinates X=-48.267, Y=-39.206
+14.06 18:58:39 Moving is finished
+14.06 19:00:16 Scanning 3 point from 286
+14.06 19:00:16 Going to coordinates X=-48.237, Y=-39.206
+14.06 19:00:17 Moving is finished
+14.06 19:01:53 Scanning 4 point from 286
+14.06 19:01:53 Going to coordinates X=-48.207, Y=-39.206
+14.06 19:01:53 Moving is finished
+14.06 19:03:30 Scanning 5 point from 286
+14.06 19:03:30 Going to coordinates X=-48.177, Y=-39.206
+14.06 19:03:30 Moving is finished
+14.06 19:05:07 Scanning 6 point from 286
+14.06 19:05:07 Going to coordinates X=-48.147, Y=-39.206
+14.06 19:05:07 Moving is finished
+14.06 19:06:44 Scanning 7 point from 286
+14.06 19:06:44 Going to coordinates X=-48.117, Y=-39.206
+14.06 19:06:44 Moving is finished
+14.06 19:08:20 Scanning 8 point from 286
+14.06 19:08:20 Going to coordinates X=-48.087, Y=-39.206
+14.06 19:08:21 Moving is finished
+14.06 19:09:57 Scanning 9 point from 286
+14.06 19:09:57 Going to coordinates X=-48.057, Y=-39.206
+14.06 19:09:57 Moving is finished
+14.06 19:11:35 Scanning 10 point from 286
+14.06 19:11:35 Going to coordinates X=-48.027, Y=-39.206
+14.06 19:11:35 Moving is finished
+14.06 19:13:12 Scanning 11 point from 286
+14.06 19:13:12 Going to coordinates X=-47.997, Y=-39.206
+14.06 19:13:12 Moving is finished
+14.06 19:14:48 Scanning 12 point from 286
+14.06 19:14:48 Going to coordinates X=-47.967, Y=-39.206
+14.06 19:14:48 Moving is finished
+14.06 19:16:25 Scanning 13 point from 286
+14.06 19:16:25 Going to coordinates X=-47.937, Y=-39.206
+14.06 19:16:25 Moving is finished
+14.06 19:18:02 Scanning 14 point from 286
+14.06 19:18:02 Going to coordinates X=-47.907, Y=-39.206
+14.06 19:18:02 Moving is finished
+14.06 19:19:39 Scanning 15 point from 286
+14.06 19:19:39 Going to coordinates X=-47.877, Y=-39.206
+14.06 19:19:39 Moving is finished
+14.06 19:21:16 Scanning 16 point from 286
+14.06 19:21:16 Going to coordinates X=-47.847, Y=-39.206
+14.06 19:21:16 Moving is finished
+14.06 19:22:53 Scanning 17 point from 286
+14.06 19:22:53 Going to coordinates X=-47.817, Y=-39.206
+14.06 19:22:53 Moving is finished
+14.06 19:24:30 Scanning 18 point from 286
+14.06 19:24:30 Going to coordinates X=-47.787, Y=-39.206
+14.06 19:24:30 Moving is finished
+14.06 19:26:07 Scanning 19 point from 286
+14.06 19:26:07 Going to coordinates X=-47.757, Y=-39.206
+14.06 19:26:07 Moving is finished
+14.06 19:27:43 Scanning 20 point from 286
+14.06 19:27:43 Going to coordinates X=-47.727, Y=-39.206
+14.06 19:27:44 Moving is finished
+14.06 19:29:21 Scanning 21 point from 286
+14.06 19:29:21 Going to coordinates X=-47.697, Y=-39.206
+14.06 19:29:21 Moving is finished
+14.06 19:30:57 Scanning 22 point from 286
+14.06 19:30:57 Going to coordinates X=-47.667, Y=-39.206
+14.06 19:30:57 Moving is finished
+14.06 19:32:34 Scanning 23 point from 286
+14.06 19:32:34 Going to coordinates X=-47.637, Y=-39.206
+14.06 19:32:34 Moving is finished
+14.06 19:34:11 Scanning 24 point from 286
+14.06 19:34:11 Going to coordinates X=-47.607, Y=-39.206
+14.06 19:34:11 Moving is finished
+14.06 19:35:48 Scanning 25 point from 286
+14.06 19:35:48 Going to coordinates X=-47.577, Y=-39.206
+14.06 19:35:48 Moving is finished
+14.06 19:37:24 Scanning 26 point from 286
+14.06 19:37:24 Going to coordinates X=-48.327, Y=-39.176
+14.06 19:37:25 Moving is finished
+14.06 19:39:02 Scanning 27 point from 286
+14.06 19:39:02 Going to coordinates X=-48.297, Y=-39.176
+14.06 19:39:03 Moving is finished
+14.06 19:40:39 Scanning 28 point from 286
+14.06 19:40:39 Going to coordinates X=-48.267, Y=-39.176
+14.06 19:40:40 Moving is finished
+14.06 19:42:16 Scanning 29 point from 286
+14.06 19:42:16 Going to coordinates X=-48.237, Y=-39.176
+14.06 19:42:16 Moving is finished
+14.06 19:43:53 Scanning 30 point from 286
+14.06 19:43:53 Going to coordinates X=-48.207, Y=-39.176
+14.06 19:43:53 Moving is finished
+14.06 19:45:31 Scanning 31 point from 286
+14.06 19:45:31 Going to coordinates X=-48.177, Y=-39.176
+14.06 19:45:31 Moving is finished
+14.06 19:47:08 Scanning 32 point from 286
+14.06 19:47:08 Going to coordinates X=-48.147, Y=-39.176
+14.06 19:47:08 Moving is finished
+14.06 19:48:45 Scanning 33 point from 286
+14.06 19:48:45 Going to coordinates X=-48.117, Y=-39.176
+14.06 19:48:45 Moving is finished
+14.06 19:50:22 Scanning 34 point from 286
+14.06 19:50:22 Going to coordinates X=-48.087, Y=-39.176
+14.06 19:50:22 Moving is finished
+14.06 19:51:59 Scanning 35 point from 286
+14.06 19:51:59 Going to coordinates X=-48.057, Y=-39.176
+14.06 19:52:00 Moving is finished
+14.06 19:53:37 Scanning 36 point from 286
+14.06 19:53:37 Going to coordinates X=-48.027, Y=-39.176
+14.06 19:53:37 Moving is finished
+14.06 19:55:14 Scanning 37 point from 286
+14.06 19:55:14 Going to coordinates X=-47.997, Y=-39.176
+14.06 19:55:14 Moving is finished
+14.06 19:56:52 Scanning 38 point from 286
+14.06 19:56:52 Going to coordinates X=-47.967, Y=-39.176
+14.06 19:56:52 Moving is finished
+
+14.06 19:57:44 Scanning 39 point from 286
+14.06 19:57:44 Going to coordinates X=-47.937, Y=-39.176
+14.06 19:57:44 Moving is finished
+
+14.06 19:57:47 Scanning 40 point from 286
+14.06 19:57:47 Going to coordinates X=-47.907, Y=-39.176
+14.06 19:57:47 Moving is finished
+
+14.06 19:57:50 Scanning 41 point from 286
+14.06 19:57:50 Going to coordinates X=-47.877, Y=-39.176
+14.06 19:57:50 Moving is finished
+
+14.06 19:57:52 Scanning 42 point from 286
+14.06 19:57:52 Going to coordinates X=-47.847, Y=-39.176
+14.06 19:57:53 Moving is finished
+14.06 19:57:57 Scanning 43 point from 286
+14.06 19:57:57 Paused
+14.06 19:57:59 Going to coordinates X=-47.817, Y=-39.176
+14.06 19:57:59 Moving is finished
+14.06 19:58:02 Scanning 44 point from 286
+14.06 19:58:02 Going to coordinates X=-47.787, Y=-39.176
+14.06 19:58:03 Moving is finished
+14.06 19:58:06 Stopped!
+14.06 19:58:14 Row 0: 14.06 19:58:14 Map: x1: -48.327, y1: -38.907, x2: -47.58, y2: -39.206, xres: 0.030, yres: 0.030, fname: dmemseranh2
+14.06 19:58:14 Scanning 0 point from 286
+14.06 19:58:14 Going to coordinates X=-48.327, Y=-39.206
+14.06 19:58:14 Moving is finished
+14.06 19:58:19 Scanning 1 point from 286
+14.06 19:58:19 Going to coordinates X=-48.297, Y=-39.206
+14.06 19:58:19 Moving is finished

@@ -1,0 +1,244 @@
+12.02 08:29:13 Initializing grbl...
+12.02 08:29:13 Got the response: b''
+12.02 08:31:25 Focused at  1
+12.02 08:31:56 Row 0: 12.02 08:31:56 Map: x1: -14.0, y1: -40.554, x2: -15.168, y2: -39.323, xres: 0.100, yres: 0.100, fname: M3-4
+12.02 08:31:56 Scanning 0 point from 182
+12.02 08:31:56 Going to coordinates X=-15.168, Y=-40.554
+12.02 08:31:57 Moving is finished
+12.02 08:33:42 Scanning 1 point from 182
+12.02 08:33:42 Going to coordinates X=-15.068, Y=-40.554
+12.02 08:33:42 Moving is finished
+12.02 08:35:27 Scanning 2 point from 182
+12.02 08:35:27 Going to coordinates X=-14.968, Y=-40.554
+12.02 08:35:28 Moving is finished
+12.02 08:37:12 Scanning 3 point from 182
+12.02 08:37:12 Going to coordinates X=-14.868, Y=-40.554
+12.02 08:37:13 Moving is finished
+12.02 08:38:57 Scanning 4 point from 182
+12.02 08:38:57 Going to coordinates X=-14.768, Y=-40.554
+12.02 08:38:57 Moving is finished
+12.02 08:40:42 Scanning 5 point from 182
+12.02 08:40:42 Going to coordinates X=-14.668, Y=-40.554
+12.02 08:40:42 Moving is finished
+12.02 08:42:27 Scanning 6 point from 182
+12.02 08:42:27 Going to coordinates X=-14.568, Y=-40.554
+12.02 08:42:27 Moving is finished
+12.02 08:44:12 Scanning 7 point from 182
+12.02 08:44:12 Going to coordinates X=-14.468, Y=-40.554
+12.02 08:44:13 Moving is finished
+12.02 08:45:57 Scanning 8 point from 182
+12.02 08:45:57 Going to coordinates X=-14.368, Y=-40.554
+12.02 08:45:58 Moving is finished
+12.02 08:47:43 Scanning 9 point from 182
+12.02 08:47:43 Going to coordinates X=-14.268, Y=-40.554
+12.02 08:47:43 Moving is finished
+12.02 08:49:28 Scanning 10 point from 182
+12.02 08:49:28 Going to coordinates X=-14.168, Y=-40.554
+12.02 08:49:29 Moving is finished
+12.02 08:51:13 Scanning 11 point from 182
+12.02 08:51:13 Going to coordinates X=-14.068, Y=-40.554
+12.02 08:51:13 Moving is finished
+12.02 08:52:58 Scanning 12 point from 182
+12.02 08:52:58 Going to coordinates X=-13.968, Y=-40.554
+12.02 08:52:58 Moving is finished
+12.02 08:54:42 Scanning 13 point from 182
+12.02 08:54:42 Going to coordinates X=-15.168, Y=-40.454
+12.02 08:54:43 Moving is finished
+12.02 08:56:28 Scanning 14 point from 182
+12.02 08:56:28 Going to coordinates X=-15.068, Y=-40.454
+12.02 08:56:28 Moving is finished
+12.02 08:58:13 Scanning 15 point from 182
+12.02 08:58:13 Going to coordinates X=-14.968, Y=-40.454
+12.02 08:58:13 Moving is finished
+12.02 08:59:58 Scanning 16 point from 182
+12.02 08:59:58 Going to coordinates X=-14.868, Y=-40.454
+12.02 08:59:58 Moving is finished
+12.02 09:01:43 Scanning 17 point from 182
+12.02 09:01:43 Going to coordinates X=-14.768, Y=-40.454
+12.02 09:01:43 Moving is finished
+12.02 09:03:28 Scanning 18 point from 182
+12.02 09:03:28 Going to coordinates X=-14.668, Y=-40.454
+12.02 09:03:29 Moving is finished
+12.02 09:05:14 Scanning 19 point from 182
+12.02 09:05:14 Going to coordinates X=-14.568, Y=-40.454
+12.02 09:05:14 Moving is finished
+12.02 09:06:58 Scanning 20 point from 182
+12.02 09:06:58 Going to coordinates X=-14.468, Y=-40.454
+12.02 09:06:59 Moving is finished
+12.02 09:08:44 Scanning 21 point from 182
+12.02 09:08:44 Going to coordinates X=-14.368, Y=-40.454
+12.02 09:08:44 Moving is finished
+12.02 09:10:29 Scanning 22 point from 182
+12.02 09:10:29 Going to coordinates X=-14.268, Y=-40.454
+12.02 09:10:29 Moving is finished
+12.02 09:12:14 Scanning 23 point from 182
+12.02 09:12:14 Going to coordinates X=-14.168, Y=-40.454
+12.02 09:12:14 Moving is finished
+12.02 09:13:59 Scanning 24 point from 182
+12.02 09:13:59 Going to coordinates X=-14.068, Y=-40.454
+12.02 09:13:59 Moving is finished
+12.02 09:15:44 Scanning 25 point from 182
+12.02 09:15:44 Going to coordinates X=-13.968, Y=-40.454
+12.02 09:15:44 Moving is finished
+12.02 09:17:29 Scanning 26 point from 182
+12.02 09:17:29 Going to coordinates X=-15.168, Y=-40.354
+12.02 09:17:29 Moving is finished
+12.02 09:19:14 Scanning 27 point from 182
+12.02 09:19:14 Going to coordinates X=-15.068, Y=-40.354
+12.02 09:19:15 Moving is finished
+12.02 09:21:00 Scanning 28 point from 182
+12.02 09:21:00 Going to coordinates X=-14.968, Y=-40.354
+12.02 09:21:00 Moving is finished
+12.02 09:22:45 Scanning 29 point from 182
+12.02 09:22:45 Going to coordinates X=-14.868, Y=-40.354
+12.02 09:22:45 Moving is finished
+12.02 09:24:30 Scanning 30 point from 182
+12.02 09:24:30 Going to coordinates X=-14.768, Y=-40.354
+12.02 09:24:30 Moving is finished
+12.02 09:26:15 Scanning 31 point from 182
+12.02 09:26:15 Going to coordinates X=-14.668, Y=-40.354
+12.02 09:26:15 Moving is finished
+12.02 09:28:00 Scanning 32 point from 182
+12.02 09:28:00 Going to coordinates X=-14.568, Y=-40.354
+12.02 09:28:01 Moving is finished
+12.02 09:29:45 Scanning 33 point from 182
+12.02 09:29:45 Going to coordinates X=-14.468, Y=-40.354
+12.02 09:29:45 Moving is finished
+12.02 09:31:30 Scanning 34 point from 182
+12.02 09:31:30 Going to coordinates X=-14.368, Y=-40.354
+12.02 09:31:31 Moving is finished
+12.02 09:33:15 Scanning 35 point from 182
+12.02 09:33:15 Going to coordinates X=-14.268, Y=-40.354
+12.02 09:33:15 Moving is finished
+12.02 09:35:00 Scanning 36 point from 182
+12.02 09:35:00 Going to coordinates X=-14.168, Y=-40.354
+12.02 09:35:01 Moving is finished
+12.02 09:36:46 Scanning 37 point from 182
+12.02 09:36:46 Going to coordinates X=-14.068, Y=-40.354
+12.02 09:36:46 Moving is finished
+12.02 09:38:30 Scanning 38 point from 182
+12.02 09:38:30 Going to coordinates X=-13.968, Y=-40.354
+12.02 09:38:31 Moving is finished
+12.02 09:40:15 Scanning 39 point from 182
+12.02 09:40:15 Going to coordinates X=-15.168, Y=-40.254
+12.02 09:40:16 Moving is finished
+12.02 09:42:01 Scanning 40 point from 182
+12.02 09:42:01 Going to coordinates X=-15.068, Y=-40.254
+12.02 09:42:01 Moving is finished
+12.02 09:43:46 Scanning 41 point from 182
+12.02 09:43:46 Going to coordinates X=-14.968, Y=-40.254
+12.02 09:43:46 Moving is finished
+12.02 09:45:31 Scanning 42 point from 182
+12.02 09:45:31 Going to coordinates X=-14.868, Y=-40.254
+12.02 09:45:31 Moving is finished
+12.02 09:47:15 Scanning 43 point from 182
+12.02 09:47:15 Going to coordinates X=-14.768, Y=-40.254
+12.02 09:47:16 Moving is finished
+12.02 09:49:00 Scanning 44 point from 182
+12.02 09:49:00 Going to coordinates X=-14.668, Y=-40.254
+12.02 09:49:01 Moving is finished
+12.02 09:50:46 Scanning 45 point from 182
+12.02 09:50:46 Going to coordinates X=-14.568, Y=-40.254
+12.02 09:50:46 Moving is finished
+12.02 09:52:31 Scanning 46 point from 182
+12.02 09:52:31 Going to coordinates X=-14.468, Y=-40.254
+12.02 09:52:31 Moving is finished
+12.02 09:54:16 Scanning 47 point from 182
+12.02 09:54:16 Going to coordinates X=-14.368, Y=-40.254
+12.02 09:54:16 Moving is finished
+12.02 09:56:01 Scanning 48 point from 182
+12.02 09:56:01 Going to coordinates X=-14.268, Y=-40.254
+12.02 09:56:01 Moving is finished
+12.02 09:57:47 Scanning 49 point from 182
+12.02 09:57:47 Going to coordinates X=-14.168, Y=-40.254
+12.02 09:57:47 Moving is finished
+12.02 09:59:32 Scanning 50 point from 182
+12.02 09:59:32 Going to coordinates X=-14.068, Y=-40.254
+12.02 09:59:32 Moving is finished
+12.02 10:01:17 Scanning 51 point from 182
+12.02 10:01:17 Going to coordinates X=-13.968, Y=-40.254
+12.02 10:01:17 Moving is finished
+12.02 10:03:01 Scanning 52 point from 182
+12.02 10:03:01 Going to coordinates X=-15.168, Y=-40.154
+12.02 10:03:02 Moving is finished
+12.02 10:04:47 Scanning 53 point from 182
+12.02 10:04:47 Going to coordinates X=-15.068, Y=-40.154
+12.02 10:04:47 Moving is finished
+12.02 10:06:32 Scanning 54 point from 182
+12.02 10:06:32 Going to coordinates X=-14.968, Y=-40.154
+12.02 10:06:32 Moving is finished
+12.02 10:08:17 Scanning 55 point from 182
+12.02 10:08:17 Going to coordinates X=-14.868, Y=-40.154
+12.02 10:08:17 Moving is finished
+12.02 10:10:02 Scanning 56 point from 182
+12.02 10:10:02 Going to coordinates X=-14.768, Y=-40.154
+12.02 10:10:02 Moving is finished
+12.02 10:11:47 Scanning 57 point from 182
+12.02 10:11:47 Going to coordinates X=-14.668, Y=-40.154
+12.02 10:11:47 Moving is finished
+12.02 10:13:32 Scanning 58 point from 182
+12.02 10:13:32 Going to coordinates X=-14.568, Y=-40.154
+12.02 10:13:32 Moving is finished
+12.02 10:15:17 Scanning 59 point from 182
+12.02 10:15:17 Going to coordinates X=-14.468, Y=-40.154
+12.02 10:15:17 Moving is finished
+12.02 10:17:02 Scanning 60 point from 182
+12.02 10:17:02 Going to coordinates X=-14.368, Y=-40.154
+12.02 10:17:02 Moving is finished
+12.02 10:18:46 Scanning 61 point from 182
+12.02 10:18:46 Going to coordinates X=-14.268, Y=-40.154
+12.02 10:18:47 Moving is finished
+12.02 10:20:31 Scanning 62 point from 182
+12.02 10:20:31 Going to coordinates X=-14.168, Y=-40.154
+12.02 10:20:31 Moving is finished
+12.02 10:22:16 Scanning 63 point from 182
+12.02 10:22:16 Going to coordinates X=-14.068, Y=-40.154
+12.02 10:22:16 Moving is finished
+12.02 10:24:01 Scanning 64 point from 182
+12.02 10:24:01 Going to coordinates X=-13.968, Y=-40.154
+12.02 10:24:02 Moving is finished
+12.02 10:25:47 Scanning 65 point from 182
+12.02 10:25:47 Going to coordinates X=-15.168, Y=-40.054
+12.02 10:25:47 Moving is finished
+12.02 10:27:32 Scanning 66 point from 182
+12.02 10:27:32 Going to coordinates X=-15.068, Y=-40.054
+12.02 10:27:32 Moving is finished
+12.02 10:29:17 Scanning 67 point from 182
+12.02 10:29:17 Going to coordinates X=-14.968, Y=-40.054
+12.02 10:29:18 Moving is finished
+12.02 10:31:03 Scanning 68 point from 182
+12.02 10:31:03 Going to coordinates X=-14.868, Y=-40.054
+12.02 10:31:04 Moving is finished
+12.02 10:32:49 Scanning 69 point from 182
+12.02 10:32:49 Going to coordinates X=-14.768, Y=-40.054
+12.02 10:32:49 Moving is finished
+12.02 10:34:33 Scanning 70 point from 182
+12.02 10:34:33 Going to coordinates X=-14.668, Y=-40.054
+12.02 10:34:34 Moving is finished
+12.02 10:36:18 Scanning 71 point from 182
+12.02 10:36:18 Going to coordinates X=-14.568, Y=-40.054
+12.02 10:36:19 Moving is finished
+12.02 10:38:03 Scanning 72 point from 182
+12.02 10:38:03 Going to coordinates X=-14.468, Y=-40.054
+12.02 10:38:04 Moving is finished
+12.02 10:39:48 Scanning 73 point from 182
+12.02 10:39:48 Going to coordinates X=-14.368, Y=-40.054
+12.02 10:39:49 Moving is finished
+12.02 10:41:33 Scanning 74 point from 182
+12.02 10:41:33 Going to coordinates X=-14.268, Y=-40.054
+12.02 10:41:33 Moving is finished
+12.02 10:43:18 Scanning 75 point from 182
+12.02 10:43:18 Going to coordinates X=-14.168, Y=-40.054
+12.02 10:43:18 Moving is finished
+12.02 10:45:03 Scanning 76 point from 182
+12.02 10:45:03 Going to coordinates X=-14.068, Y=-40.054
+12.02 10:45:03 Moving is finished
+12.02 10:46:48 Scanning 77 point from 182
+12.02 10:46:48 Going to coordinates X=-13.968, Y=-40.054
+12.02 10:46:49 Moving is finished
+12.02 10:48:33 Scanning 78 point from 182
+12.02 10:48:33 Going to coordinates X=-15.168, Y=-39.954
+12.02 10:48:34 Moving is finished
+12.02 10:49:57 Stopped!
+12.02 10:53:06 Status responce is malformed
+12.02 10:53:06 list index out of range

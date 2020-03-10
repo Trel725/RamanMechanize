@@ -1,0 +1,53 @@
+10.06 13:13:33 Initializing grbl...
+10.06 13:13:33 Got the response: b''
+10.06 13:14:37 Can't send the command to GRBL
+10.06 13:14:37 Write timeout
+10.06 13:14:37 Write timeout
+10.06 13:15:00 Can't send the command to GRBL
+10.06 13:15:00 Write timeout10.06 13:15:00 Write timeout
+
+10.06 13:20:36 Can't send the command to GRBL
+10.06 13:20:36 Write timeout10.06 13:20:36 Write timeout
+
+10.06 13:28:21 Row 0: 10.06 13:28:21 Goto: -27.810; -38.670; 0.000
+10.06 13:28:21 Going to coordinates X=-27.810, Y=-38.670
+10.06 13:28:22 Moving is finished
+10.06 13:28:23 Row 1: 10.06 13:28:23 Raman: aac-1
+10.06 13:28:23 Starting signal collection to the file aac-1
+10.06 13:30:02 Data is collected!
+10.06 13:30:02 Row 2: 10.06 13:30:02 Goto: -27.893; -38.588; 0.000
+10.06 13:30:02 Going to coordinates X=-27.893, Y=-38.588
+10.06 13:30:02 Moving is finished
+10.06 13:30:03 Row 3: 10.06 13:30:03 Raman: aac-1
+10.06 13:30:03 Starting signal collection to the file aac-1
+10.06 13:31:42 Data is collected!
+10.06 13:31:42 Row 4: 10.06 13:31:42 Goto: -27.990; -38.588; 0.000
+10.06 13:31:42 Going to coordinates X=-27.990, Y=-38.588
+10.06 13:31:42 Moving is finished
+10.06 13:31:43 Row 5: 10.06 13:31:43 Raman: aac-1
+10.06 13:31:43 Starting signal collection to the file aac-1
+10.06 13:33:21 Data is collected!
+10.06 13:33:21 Row 6: 10.06 13:33:21 Goto: -28.098; -38.711; 0.000
+10.06 13:33:21 Going to coordinates X=-28.098, Y=-38.711
+10.06 13:33:22 Moving is finished
+10.06 13:33:23 Row 7: 10.06 13:33:23 Raman: aac-1
+10.06 13:33:23 Starting signal collection to the file aac-1
+10.06 13:35:01 Data is collected!
+10.06 13:44:01 Row 0: 10.06 13:44:01 Goto: -28.098; -38.670; 0.000
+10.06 13:44:01 Going to coordinates X=-28.098, Y=-38.670
+10.06 13:44:02 Moving is finished
+10.06 13:44:03 Row 1: 10.06 13:44:03 Raman: aac-2
+10.06 13:44:03 Starting signal collection to the file aac-2
+10.06 13:45:41 Data is collected!
+10.06 13:45:41 Row 2: 10.06 13:45:41 Goto: -28.156; -38.608; 0.000
+10.06 13:45:41 Going to coordinates X=-28.156, Y=-38.608
+10.06 13:45:42 Moving is finished
+10.06 13:45:43 Row 3: 10.06 13:45:43 Raman: aac-1
+10.06 13:45:43 Starting signal collection to the file aac-1
+10.06 13:47:21 Data is collected!
+10.06 13:47:21 Row 4: 10.06 13:47:21 Goto: -28.098; -38.546; 0.000
+10.06 13:47:21 Going to coordinates X=-28.098, Y=-38.546
+10.06 13:47:22 Moving is finished
+10.06 13:47:23 Row 5: 10.06 13:47:23 Raman: aac-1
+10.06 13:47:23 Starting signal collection to the file aac-1
+10.06 13:49:01 Data is collected!

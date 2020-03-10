@@ -1,0 +1,687 @@
+13.07 13:14:21 Initializing grbl...
+13.07 13:14:22 Got the response: b''
+13.07 13:15:06 Can't send the command to GRBL
+13.07 13:15:06 Write timeout13.07 13:15:06 Write timeout
+
+13.07 13:15:26 Can't send the command to GRBL
+13.07 13:15:26 Write timeout13.07 13:15:26 Write timeout
+
+13.07 13:17:22 Row 0: 13.07 13:17:22 Map: x1: -13.293, y1: -38.123, x2: -12.837, y2: -37.856, xres: 0.010, yres: 0.010, fname: blmcooh2
+13.07 13:17:22 Scanning 0 point from 1316
+13.07 13:17:22 Going to coordinates X=-13.293, Y=-38.123
+13.07 13:17:22 Moving is finished
+13.07 13:18:59 Scanning 1 point from 1316
+13.07 13:18:59 Going to coordinates X=-13.283, Y=-38.123
+13.07 13:18:59 Moving is finished
+13.07 13:20:36 Scanning 2 point from 1316
+13.07 13:20:36 Going to coordinates X=-13.273, Y=-38.123
+13.07 13:20:36 Moving is finished
+13.07 13:22:12 Scanning 3 point from 1316
+13.07 13:22:12 Going to coordinates X=-13.263, Y=-38.123
+13.07 13:22:12 Moving is finished
+13.07 13:23:49 Scanning 4 point from 1316
+13.07 13:23:49 Going to coordinates X=-13.253, Y=-38.123
+13.07 13:23:49 Moving is finished
+13.07 13:25:25 Scanning 5 point from 1316
+13.07 13:25:25 Going to coordinates X=-13.243, Y=-38.123
+13.07 13:25:26 Moving is finished
+13.07 13:27:02 Scanning 6 point from 1316
+13.07 13:27:02 Going to coordinates X=-13.233, Y=-38.123
+13.07 13:27:02 Moving is finished
+13.07 13:28:40 Scanning 7 point from 1316
+13.07 13:28:40 Going to coordinates X=-13.223, Y=-38.123
+13.07 13:28:40 Moving is finished
+13.07 13:30:16 Scanning 8 point from 1316
+13.07 13:30:16 Going to coordinates X=-13.213, Y=-38.123
+13.07 13:30:16 Moving is finished
+13.07 13:31:53 Scanning 9 point from 1316
+13.07 13:31:53 Going to coordinates X=-13.203, Y=-38.123
+13.07 13:31:53 Moving is finished
+13.07 13:33:30 Scanning 10 point from 1316
+13.07 13:33:30 Going to coordinates X=-13.193, Y=-38.123
+13.07 13:33:30 Moving is finished
+13.07 13:35:07 Scanning 11 point from 1316
+13.07 13:35:07 Going to coordinates X=-13.183, Y=-38.123
+13.07 13:35:07 Moving is finished
+13.07 13:36:44 Scanning 12 point from 1316
+13.07 13:36:44 Going to coordinates X=-13.173, Y=-38.123
+13.07 13:36:44 Moving is finished
+13.07 13:38:21 Scanning 13 point from 1316
+13.07 13:38:21 Going to coordinates X=-13.163, Y=-38.123
+13.07 13:38:21 Moving is finished
+13.07 13:39:57 Scanning 14 point from 1316
+13.07 13:39:57 Going to coordinates X=-13.153, Y=-38.123
+13.07 13:39:57 Moving is finished
+13.07 13:41:34 Scanning 15 point from 1316
+13.07 13:41:34 Going to coordinates X=-13.143, Y=-38.123
+13.07 13:41:34 Moving is finished
+13.07 13:43:11 Scanning 16 point from 1316
+13.07 13:43:11 Going to coordinates X=-13.133, Y=-38.123
+13.07 13:43:11 Moving is finished
+13.07 13:44:48 Scanning 17 point from 1316
+13.07 13:44:48 Going to coordinates X=-13.123, Y=-38.123
+13.07 13:44:48 Moving is finished
+13.07 13:46:24 Scanning 18 point from 1316
+13.07 13:46:24 Going to coordinates X=-13.113, Y=-38.123
+13.07 13:46:24 Moving is finished
+13.07 13:48:01 Scanning 19 point from 1316
+13.07 13:48:01 Going to coordinates X=-13.103, Y=-38.123
+13.07 13:48:01 Moving is finished
+13.07 13:49:38 Scanning 20 point from 1316
+13.07 13:49:38 Going to coordinates X=-13.093, Y=-38.123
+13.07 13:49:38 Moving is finished
+13.07 13:51:15 Scanning 21 point from 1316
+13.07 13:51:15 Going to coordinates X=-13.083, Y=-38.123
+13.07 13:51:15 Moving is finished
+13.07 13:52:52 Scanning 22 point from 1316
+13.07 13:52:52 Going to coordinates X=-13.073, Y=-38.123
+13.07 13:52:52 Moving is finished
+13.07 13:54:29 Scanning 23 point from 1316
+13.07 13:54:29 Going to coordinates X=-13.063, Y=-38.123
+13.07 13:54:29 Moving is finished
+13.07 13:54:33 Stopped!
+13.07 13:57:34 Can't send the command to GRBL
+13.07 13:57:34 Write timeout13.07 13:57:34 Write timeout
+
+13.07 14:02:37 Row 0: 13.07 14:02:37 Map: x1: -13.457, y1: -38.451, x2: -13.264, y2: -38.318, xres: 0.010, yres: 0.010, fname: blmcooh2
+13.07 14:02:37 Scanning 0 point from 315
+13.07 14:02:37 Going to coordinates X=-13.457, Y=-38.451
+13.07 14:02:38 Moving is finished
+13.07 14:04:15 Scanning 1 point from 315
+13.07 14:04:15 Going to coordinates X=-13.447, Y=-38.451
+13.07 14:04:15 Moving is finished
+13.07 14:05:51 Scanning 2 point from 315
+13.07 14:05:51 Going to coordinates X=-13.437, Y=-38.451
+13.07 14:05:51 Moving is finished
+13.07 14:07:28 Scanning 3 point from 315
+13.07 14:07:28 Going to coordinates X=-13.427, Y=-38.451
+13.07 14:07:29 Moving is finished
+13.07 14:09:06 Scanning 4 point from 315
+13.07 14:09:06 Going to coordinates X=-13.417, Y=-38.451
+13.07 14:09:06 Moving is finished
+13.07 14:10:43 Scanning 5 point from 315
+13.07 14:10:43 Going to coordinates X=-13.407, Y=-38.451
+13.07 14:10:43 Moving is finished
+13.07 14:12:19 Scanning 6 point from 315
+13.07 14:12:19 Going to coordinates X=-13.397, Y=-38.451
+13.07 14:12:19 Moving is finished
+13.07 14:13:56 Scanning 7 point from 315
+13.07 14:13:56 Going to coordinates X=-13.387, Y=-38.451
+13.07 14:13:56 Moving is finished
+13.07 14:15:33 Scanning 8 point from 315
+13.07 14:15:33 Going to coordinates X=-13.377, Y=-38.451
+13.07 14:15:33 Moving is finished
+13.07 14:17:09 Scanning 9 point from 315
+13.07 14:17:09 Going to coordinates X=-13.367, Y=-38.451
+13.07 14:17:10 Moving is finished
+13.07 14:18:46 Scanning 10 point from 315
+13.07 14:18:46 Going to coordinates X=-13.357, Y=-38.451
+13.07 14:18:46 Moving is finished
+13.07 14:20:24 Scanning 11 point from 315
+13.07 14:20:24 Going to coordinates X=-13.347, Y=-38.451
+13.07 14:20:24 Moving is finished
+13.07 14:22:01 Scanning 12 point from 315
+13.07 14:22:01 Going to coordinates X=-13.337, Y=-38.451
+13.07 14:22:01 Moving is finished
+13.07 14:23:37 Scanning 13 point from 315
+13.07 14:23:37 Going to coordinates X=-13.327, Y=-38.451
+13.07 14:23:37 Moving is finished
+13.07 14:25:14 Scanning 14 point from 315
+13.07 14:25:14 Going to coordinates X=-13.317, Y=-38.451
+13.07 14:25:15 Moving is finished
+13.07 14:26:52 Scanning 15 point from 315
+13.07 14:26:52 Going to coordinates X=-13.307, Y=-38.451
+13.07 14:26:52 Moving is finished
+13.07 14:28:29 Scanning 16 point from 315
+13.07 14:28:29 Going to coordinates X=-13.297, Y=-38.451
+13.07 14:28:29 Moving is finished
+13.07 14:30:06 Scanning 17 point from 315
+13.07 14:30:06 Going to coordinates X=-13.287, Y=-38.451
+13.07 14:30:06 Moving is finished
+13.07 14:31:43 Scanning 18 point from 315
+13.07 14:31:43 Going to coordinates X=-13.277, Y=-38.451
+13.07 14:31:43 Moving is finished
+13.07 14:33:20 Scanning 19 point from 315
+13.07 14:33:20 Going to coordinates X=-13.267, Y=-38.451
+13.07 14:33:20 Moving is finished
+13.07 14:34:57 Scanning 20 point from 315
+13.07 14:34:57 Going to coordinates X=-13.257, Y=-38.451
+13.07 14:34:57 Moving is finished
+13.07 14:36:34 Scanning 21 point from 315
+13.07 14:36:34 Going to coordinates X=-13.457, Y=-38.441
+13.07 14:36:34 Moving is finished
+13.07 14:38:11 Scanning 22 point from 315
+13.07 14:38:11 Going to coordinates X=-13.447, Y=-38.441
+13.07 14:38:11 Moving is finished
+13.07 14:39:47 Scanning 23 point from 315
+13.07 14:39:47 Going to coordinates X=-13.437, Y=-38.441
+13.07 14:39:47 Moving is finished
+13.07 14:41:24 Scanning 24 point from 315
+13.07 14:41:24 Going to coordinates X=-13.427, Y=-38.441
+13.07 14:41:24 Moving is finished
+13.07 14:43:01 Scanning 25 point from 315
+13.07 14:43:01 Going to coordinates X=-13.417, Y=-38.441
+13.07 14:43:01 Moving is finished
+13.07 14:44:38 Scanning 26 point from 315
+13.07 14:44:38 Going to coordinates X=-13.407, Y=-38.441
+13.07 14:44:38 Moving is finished
+13.07 14:46:14 Scanning 27 point from 315
+13.07 14:46:14 Going to coordinates X=-13.397, Y=-38.441
+13.07 14:46:14 Moving is finished
+13.07 14:47:51 Scanning 28 point from 315
+13.07 14:47:51 Going to coordinates X=-13.387, Y=-38.441
+13.07 14:47:51 Moving is finished
+13.07 14:49:28 Scanning 29 point from 315
+13.07 14:49:28 Going to coordinates X=-13.377, Y=-38.441
+13.07 14:49:28 Moving is finished
+13.07 14:51:05 Scanning 30 point from 315
+13.07 14:51:05 Going to coordinates X=-13.367, Y=-38.441
+13.07 14:51:05 Moving is finished
+13.07 14:52:41 Scanning 31 point from 315
+13.07 14:52:41 Going to coordinates X=-13.357, Y=-38.441
+13.07 14:52:42 Moving is finished
+13.07 14:54:18 Scanning 32 point from 315
+13.07 14:54:18 Going to coordinates X=-13.347, Y=-38.441
+13.07 14:54:18 Moving is finished
+13.07 14:55:55 Scanning 33 point from 315
+13.07 14:55:55 Going to coordinates X=-13.337, Y=-38.441
+13.07 14:55:55 Moving is finished
+13.07 14:57:32 Scanning 34 point from 315
+13.07 14:57:32 Going to coordinates X=-13.327, Y=-38.441
+13.07 14:57:32 Moving is finished
+13.07 14:59:09 Scanning 35 point from 315
+13.07 14:59:09 Going to coordinates X=-13.317, Y=-38.441
+13.07 14:59:09 Moving is finished
+13.07 15:00:46 Scanning 36 point from 315
+13.07 15:00:46 Going to coordinates X=-13.307, Y=-38.441
+13.07 15:00:46 Moving is finished
+13.07 15:02:23 Scanning 37 point from 315
+13.07 15:02:23 Going to coordinates X=-13.297, Y=-38.441
+13.07 15:02:24 Moving is finished
+13.07 15:04:00 Scanning 38 point from 315
+13.07 15:04:00 Going to coordinates X=-13.287, Y=-38.441
+13.07 15:04:00 Moving is finished
+13.07 15:05:37 Scanning 39 point from 315
+13.07 15:05:37 Going to coordinates X=-13.277, Y=-38.441
+13.07 15:05:37 Moving is finished
+13.07 15:07:14 Scanning 40 point from 315
+13.07 15:07:14 Going to coordinates X=-13.267, Y=-38.441
+13.07 15:07:14 Moving is finished
+13.07 15:08:51 Scanning 41 point from 315
+13.07 15:08:51 Going to coordinates X=-13.257, Y=-38.441
+13.07 15:08:51 Moving is finished
+13.07 15:10:27 Scanning 42 point from 315
+13.07 15:10:27 Going to coordinates X=-13.457, Y=-38.431
+13.07 15:10:27 Moving is finished
+13.07 15:12:04 Scanning 43 point from 315
+13.07 15:12:04 Going to coordinates X=-13.447, Y=-38.431
+13.07 15:12:04 Moving is finished
+13.07 15:13:41 Scanning 44 point from 315
+13.07 15:13:41 Going to coordinates X=-13.437, Y=-38.431
+13.07 15:13:41 Moving is finished
+13.07 15:15:17 Scanning 45 point from 315
+13.07 15:15:17 Going to coordinates X=-13.427, Y=-38.431
+13.07 15:15:17 Moving is finished
+13.07 15:16:54 Scanning 46 point from 315
+13.07 15:16:54 Going to coordinates X=-13.417, Y=-38.431
+13.07 15:16:54 Moving is finished
+13.07 15:18:31 Scanning 47 point from 315
+13.07 15:18:31 Going to coordinates X=-13.407, Y=-38.431
+13.07 15:18:31 Moving is finished
+13.07 15:20:07 Scanning 48 point from 315
+13.07 15:20:07 Going to coordinates X=-13.397, Y=-38.431
+13.07 15:20:07 Moving is finished
+13.07 15:21:44 Scanning 49 point from 315
+13.07 15:21:44 Going to coordinates X=-13.387, Y=-38.431
+13.07 15:21:44 Moving is finished
+13.07 15:23:21 Scanning 50 point from 315
+13.07 15:23:21 Going to coordinates X=-13.377, Y=-38.431
+13.07 15:23:21 Moving is finished
+13.07 15:24:57 Scanning 51 point from 315
+13.07 15:24:57 Going to coordinates X=-13.367, Y=-38.431
+13.07 15:24:57 Moving is finished
+13.07 15:26:34 Scanning 52 point from 315
+13.07 15:26:34 Going to coordinates X=-13.357, Y=-38.431
+13.07 15:26:34 Moving is finished
+13.07 15:28:10 Scanning 53 point from 315
+13.07 15:28:10 Going to coordinates X=-13.347, Y=-38.431
+13.07 15:28:11 Moving is finished
+13.07 15:29:47 Scanning 54 point from 315
+13.07 15:29:47 Going to coordinates X=-13.337, Y=-38.431
+13.07 15:29:47 Moving is finished
+13.07 15:31:24 Scanning 55 point from 315
+13.07 15:31:24 Going to coordinates X=-13.327, Y=-38.431
+13.07 15:31:24 Moving is finished
+13.07 15:33:00 Scanning 56 point from 315
+13.07 15:33:00 Going to coordinates X=-13.317, Y=-38.431
+13.07 15:33:01 Moving is finished
+13.07 15:34:38 Scanning 57 point from 315
+13.07 15:34:38 Going to coordinates X=-13.307, Y=-38.431
+13.07 15:34:38 Moving is finished
+13.07 15:36:14 Scanning 58 point from 315
+13.07 15:36:14 Going to coordinates X=-13.297, Y=-38.431
+13.07 15:36:15 Moving is finished
+13.07 15:37:51 Scanning 59 point from 315
+13.07 15:37:51 Going to coordinates X=-13.287, Y=-38.431
+13.07 15:37:51 Moving is finished
+13.07 15:39:28 Scanning 60 point from 315
+13.07 15:39:28 Going to coordinates X=-13.277, Y=-38.431
+13.07 15:39:28 Moving is finished
+13.07 15:41:05 Scanning 61 point from 315
+13.07 15:41:05 Going to coordinates X=-13.267, Y=-38.431
+13.07 15:41:05 Moving is finished
+13.07 15:42:42 Scanning 62 point from 315
+13.07 15:42:42 Going to coordinates X=-13.257, Y=-38.431
+13.07 15:42:42 Moving is finished
+13.07 15:44:19 Scanning 63 point from 315
+13.07 15:44:19 Going to coordinates X=-13.457, Y=-38.421
+13.07 15:44:19 Moving is finished
+13.07 15:45:56 Scanning 64 point from 315
+13.07 15:45:56 Going to coordinates X=-13.447, Y=-38.421
+13.07 15:45:56 Moving is finished
+13.07 15:47:33 Scanning 65 point from 315
+13.07 15:47:33 Going to coordinates X=-13.437, Y=-38.421
+13.07 15:47:33 Moving is finished
+13.07 15:49:10 Scanning 66 point from 315
+13.07 15:49:10 Going to coordinates X=-13.427, Y=-38.421
+13.07 15:49:10 Moving is finished
+13.07 15:50:46 Scanning 67 point from 315
+13.07 15:50:46 Going to coordinates X=-13.417, Y=-38.421
+13.07 15:50:46 Moving is finished
+13.07 15:52:23 Scanning 68 point from 315
+13.07 15:52:23 Going to coordinates X=-13.407, Y=-38.421
+13.07 15:52:23 Moving is finished
+13.07 15:54:00 Scanning 69 point from 315
+13.07 15:54:00 Going to coordinates X=-13.397, Y=-38.421
+13.07 15:54:00 Moving is finished
+13.07 15:55:37 Scanning 70 point from 315
+13.07 15:55:37 Going to coordinates X=-13.387, Y=-38.421
+13.07 15:55:37 Moving is finished
+13.07 15:57:13 Scanning 71 point from 315
+13.07 15:57:13 Going to coordinates X=-13.377, Y=-38.421
+13.07 15:57:14 Moving is finished
+13.07 15:58:50 Scanning 72 point from 315
+13.07 15:58:50 Going to coordinates X=-13.367, Y=-38.421
+13.07 15:58:50 Moving is finished
+13.07 16:00:27 Scanning 73 point from 315
+13.07 16:00:27 Going to coordinates X=-13.357, Y=-38.421
+13.07 16:00:27 Moving is finished
+13.07 16:02:04 Scanning 74 point from 315
+13.07 16:02:04 Going to coordinates X=-13.347, Y=-38.421
+13.07 16:02:04 Moving is finished
+13.07 16:03:41 Scanning 75 point from 315
+13.07 16:03:41 Going to coordinates X=-13.337, Y=-38.421
+13.07 16:03:41 Moving is finished
+13.07 16:05:17 Scanning 76 point from 315
+13.07 16:05:17 Going to coordinates X=-13.327, Y=-38.421
+13.07 16:05:17 Moving is finished
+13.07 16:06:55 Scanning 77 point from 315
+13.07 16:06:55 Going to coordinates X=-13.317, Y=-38.421
+13.07 16:06:55 Moving is finished
+13.07 16:08:31 Scanning 78 point from 315
+13.07 16:08:31 Going to coordinates X=-13.307, Y=-38.421
+13.07 16:08:31 Moving is finished
+13.07 16:10:08 Scanning 79 point from 315
+13.07 16:10:08 Going to coordinates X=-13.297, Y=-38.421
+13.07 16:10:08 Moving is finished
+13.07 16:11:45 Scanning 80 point from 315
+13.07 16:11:45 Going to coordinates X=-13.287, Y=-38.421
+13.07 16:11:45 Moving is finished
+13.07 16:13:22 Scanning 81 point from 315
+13.07 16:13:22 Going to coordinates X=-13.277, Y=-38.421
+13.07 16:13:22 Moving is finished
+13.07 16:14:59 Scanning 82 point from 315
+13.07 16:14:59 Going to coordinates X=-13.267, Y=-38.421
+13.07 16:14:59 Moving is finished
+13.07 16:16:35 Scanning 83 point from 315
+13.07 16:16:35 Going to coordinates X=-13.257, Y=-38.421
+13.07 16:16:35 Moving is finished
+13.07 16:18:12 Scanning 84 point from 315
+13.07 16:18:12 Going to coordinates X=-13.457, Y=-38.411
+13.07 16:18:12 Moving is finished
+13.07 16:19:49 Scanning 85 point from 315
+13.07 16:19:49 Going to coordinates X=-13.447, Y=-38.411
+13.07 16:19:49 Moving is finished
+13.07 16:21:26 Scanning 86 point from 315
+13.07 16:21:26 Going to coordinates X=-13.437, Y=-38.411
+13.07 16:21:26 Moving is finished
+13.07 16:23:02 Scanning 87 point from 315
+13.07 16:23:02 Going to coordinates X=-13.427, Y=-38.411
+13.07 16:23:03 Moving is finished
+13.07 16:24:39 Scanning 88 point from 315
+13.07 16:24:39 Going to coordinates X=-13.417, Y=-38.411
+13.07 16:24:39 Moving is finished
+13.07 16:26:16 Scanning 89 point from 315
+13.07 16:26:16 Going to coordinates X=-13.407, Y=-38.411
+13.07 16:26:16 Moving is finished
+13.07 16:27:53 Scanning 90 point from 315
+13.07 16:27:53 Going to coordinates X=-13.397, Y=-38.411
+13.07 16:27:53 Moving is finished
+13.07 16:29:30 Scanning 91 point from 315
+13.07 16:29:30 Going to coordinates X=-13.387, Y=-38.411
+13.07 16:29:30 Moving is finished
+13.07 16:31:07 Scanning 92 point from 315
+13.07 16:31:07 Going to coordinates X=-13.377, Y=-38.411
+13.07 16:31:07 Moving is finished
+13.07 16:32:43 Scanning 93 point from 315
+13.07 16:32:43 Going to coordinates X=-13.367, Y=-38.411
+13.07 16:32:43 Moving is finished
+13.07 16:34:21 Scanning 94 point from 315
+13.07 16:34:21 Going to coordinates X=-13.357, Y=-38.411
+13.07 16:34:21 Moving is finished
+13.07 16:35:57 Scanning 95 point from 315
+13.07 16:35:57 Going to coordinates X=-13.347, Y=-38.411
+13.07 16:35:57 Moving is finished
+13.07 16:37:34 Scanning 96 point from 315
+13.07 16:37:34 Going to coordinates X=-13.337, Y=-38.411
+13.07 16:37:34 Moving is finished
+13.07 16:39:10 Scanning 97 point from 315
+13.07 16:39:10 Going to coordinates X=-13.327, Y=-38.411
+13.07 16:39:10 Moving is finished
+13.07 16:40:48 Scanning 98 point from 315
+13.07 16:40:48 Going to coordinates X=-13.317, Y=-38.411
+13.07 16:40:48 Moving is finished
+13.07 16:42:25 Scanning 99 point from 315
+13.07 16:42:25 Going to coordinates X=-13.307, Y=-38.411
+13.07 16:42:25 Moving is finished
+13.07 16:44:02 Scanning 100 point from 315
+13.07 16:44:02 Going to coordinates X=-13.297, Y=-38.411
+13.07 16:44:02 Moving is finished
+13.07 16:45:38 Scanning 101 point from 315
+13.07 16:45:38 Going to coordinates X=-13.287, Y=-38.411
+13.07 16:45:39 Moving is finished
+13.07 16:47:15 Scanning 102 point from 315
+13.07 16:47:15 Going to coordinates X=-13.277, Y=-38.411
+13.07 16:47:16 Moving is finished
+13.07 16:48:52 Scanning 103 point from 315
+13.07 16:48:52 Going to coordinates X=-13.267, Y=-38.411
+13.07 16:48:52 Moving is finished
+13.07 16:50:29 Scanning 104 point from 315
+13.07 16:50:29 Going to coordinates X=-13.257, Y=-38.411
+13.07 16:50:29 Moving is finished
+13.07 16:52:06 Scanning 105 point from 315
+13.07 16:52:06 Going to coordinates X=-13.457, Y=-38.401
+13.07 16:52:06 Moving is finished
+13.07 16:53:43 Scanning 106 point from 315
+13.07 16:53:43 Going to coordinates X=-13.447, Y=-38.401
+13.07 16:53:43 Moving is finished
+13.07 16:55:19 Scanning 107 point from 315
+13.07 16:55:19 Going to coordinates X=-13.437, Y=-38.401
+13.07 16:55:19 Moving is finished
+13.07 16:56:56 Scanning 108 point from 315
+13.07 16:56:56 Going to coordinates X=-13.427, Y=-38.401
+13.07 16:56:56 Moving is finished
+13.07 16:57:49 Stopped!
+13.07 16:58:41 Row 0: 13.07 16:58:41 Map: x1: -13.322, y1: -39.621, x2: -12.952, y2: -40.0, xres: 0.010, yres: 0.010, fname: blmcooh2
+13.07 16:58:41 Scanning 0 point from 1482
+13.07 16:58:41 Going to coordinates X=-13.322, Y=-40.000
+13.07 16:58:41 Moving is finished
+13.07 17:00:18 Scanning 1 point from 1482
+13.07 17:00:18 Going to coordinates X=-13.312, Y=-40.000
+13.07 17:00:19 Moving is finished
+13.07 17:01:55 Scanning 2 point from 1482
+13.07 17:01:55 Going to coordinates X=-13.302, Y=-40.000
+13.07 17:01:55 Moving is finished
+13.07 17:03:31 Scanning 3 point from 1482
+13.07 17:03:31 Going to coordinates X=-13.292, Y=-40.000
+13.07 17:03:32 Moving is finished
+13.07 17:42:16 Scanning 4 point from 1482
+13.07 17:42:16 Going to coordinates X=-13.282, Y=-40.000
+13.07 17:42:16 Moving is finished
+13.07 17:43:53 Scanning 5 point from 1482
+13.07 17:43:53 Going to coordinates X=-13.272, Y=-40.000
+13.07 17:43:53 Moving is finished
+13.07 18:22:28 Scanning 6 point from 1482
+13.07 18:22:28 Going to coordinates X=-13.262, Y=-40.000
+13.07 18:22:28 Moving is finished
+13.07 18:24:05 Scanning 7 point from 1482
+13.07 18:24:05 Going to coordinates X=-13.252, Y=-40.000
+13.07 18:24:05 Moving is finished
+14.07 00:12:43 Scanning 8 point from 1482
+14.07 00:12:43 Going to coordinates X=-13.242, Y=-40.000
+14.07 00:12:43 Moving is finished
+14.07 00:22:57 Scanning 9 point from 1482
+14.07 00:22:57 Going to coordinates X=-13.232, Y=-40.000
+14.07 00:22:58 Moving is finished
+14.07 00:24:34 Scanning 10 point from 1482
+14.07 00:24:34 Going to coordinates X=-13.222, Y=-40.000
+14.07 00:24:34 Moving is finished
+14.07 05:18:51 Scanning 11 point from 1482
+14.07 05:18:51 Going to coordinates X=-13.212, Y=-40.000
+14.07 05:18:51 Moving is finished
+14.07 05:20:28 Scanning 12 point from 1482
+14.07 05:20:28 Going to coordinates X=-13.202, Y=-40.000
+14.07 05:20:29 Moving is finished
+14.07 05:22:06 Scanning 13 point from 1482
+14.07 05:22:06 Going to coordinates X=-13.192, Y=-40.000
+14.07 05:22:07 Moving is finished
+14.07 05:23:43 Scanning 14 point from 1482
+14.07 05:23:43 Going to coordinates X=-13.182, Y=-40.000
+14.07 05:23:43 Moving is finished
+14.07 06:03:13 Scanning 15 point from 1482
+14.07 06:03:13 Going to coordinates X=-13.172, Y=-40.000
+14.07 06:03:13 Moving is finished
+14.07 06:04:50 Scanning 16 point from 1482
+14.07 06:04:50 Going to coordinates X=-13.162, Y=-40.000
+14.07 06:04:50 Moving is finished
+14.07 11:50:50 Scanning 17 point from 1482
+14.07 11:50:50 Going to coordinates X=-13.152, Y=-40.000
+14.07 11:50:50 Moving is finished
+14.07 11:52:27 Scanning 18 point from 1482
+14.07 11:52:27 Going to coordinates X=-13.142, Y=-40.000
+14.07 11:52:27 Moving is finished
+14.07 12:31:01 Scanning 19 point from 1482
+14.07 12:31:01 Going to coordinates X=-13.132, Y=-40.000
+14.07 12:31:01 Moving is finished
+14.07 12:32:38 Scanning 20 point from 1482
+14.07 12:32:38 Going to coordinates X=-13.122, Y=-40.000
+14.07 12:32:38 Moving is finished
+14.07 12:34:16 Scanning 21 point from 1482
+14.07 12:34:16 Going to coordinates X=-13.112, Y=-40.000
+14.07 12:34:16 Moving is finished
+14.07 19:12:19 Status responce is malformed
+14.07 19:12:19 list index out of range
+14.07 20:22:41 Scanning 22 point from 1482
+14.07 20:22:41 Going to coordinates X=-13.102, Y=-40.000
+14.07 20:22:42 Moving is finished
+14.07 20:24:18 Scanning 23 point from 1482
+14.07 20:24:18 Going to coordinates X=-13.092, Y=-40.000
+14.07 20:24:18 Moving is finished
+14.07 21:02:52 Scanning 24 point from 1482
+14.07 21:02:52 Going to coordinates X=-13.082, Y=-40.000
+14.07 21:02:52 Moving is finished
+14.07 21:04:29 Scanning 25 point from 1482
+14.07 21:04:29 Going to coordinates X=-13.072, Y=-40.000
+14.07 21:04:29 Moving is finished
+14.07 21:43:03 Scanning 26 point from 1482
+14.07 21:43:03 Going to coordinates X=-13.062, Y=-40.000
+14.07 21:43:03 Moving is finished
+14.07 21:44:41 Scanning 27 point from 1482
+14.07 21:44:41 Going to coordinates X=-13.052, Y=-40.000
+14.07 21:44:41 Moving is finished
+14.07 21:57:54 Scanning 28 point from 1482
+14.07 21:57:54 Going to coordinates X=-13.042, Y=-40.000
+14.07 21:57:55 Moving is finished
+14.07 21:59:32 Scanning 29 point from 1482
+14.07 21:59:32 Going to coordinates X=-13.032, Y=-40.000
+14.07 21:59:32 Moving is finished
+14.07 22:01:09 Scanning 30 point from 1482
+14.07 22:01:09 Going to coordinates X=-13.022, Y=-40.000
+14.07 22:01:09 Moving is finished
+14.07 22:02:45 Scanning 31 point from 1482
+14.07 22:02:45 Going to coordinates X=-13.012, Y=-40.000
+14.07 22:02:45 Moving is finished
+14.07 22:04:23 Scanning 32 point from 1482
+14.07 22:04:23 Going to coordinates X=-13.002, Y=-40.000
+14.07 22:04:23 Moving is finished
+14.07 22:06:00 Scanning 33 point from 1482
+14.07 22:06:00 Going to coordinates X=-12.992, Y=-40.000
+14.07 22:06:00 Moving is finished
+14.07 22:45:17 Scanning 34 point from 1482
+14.07 22:45:17 Going to coordinates X=-12.982, Y=-40.000
+14.07 22:45:17 Moving is finished
+14.07 22:46:54 Scanning 35 point from 1482
+14.07 22:46:54 Going to coordinates X=-12.972, Y=-40.000
+14.07 22:46:54 Moving is finished
+14.07 23:25:48 Scanning 36 point from 1482
+14.07 23:25:48 Going to coordinates X=-12.962, Y=-40.000
+14.07 23:25:49 Moving is finished
+14.07 23:27:25 Scanning 37 point from 1482
+14.07 23:27:25 Going to coordinates X=-12.952, Y=-40.000
+14.07 23:27:25 Moving is finished
+15.07 00:06:43 Scanning 38 point from 1482
+15.07 00:06:43 Going to coordinates X=-13.322, Y=-39.990
+15.07 00:06:43 Moving is finished
+15.07 00:08:20 Scanning 39 point from 1482
+15.07 00:08:20 Going to coordinates X=-13.312, Y=-39.990
+15.07 00:08:20 Moving is finished
+15.07 00:09:57 Scanning 40 point from 1482
+15.07 00:09:57 Going to coordinates X=-13.302, Y=-39.990
+15.07 00:09:57 Moving is finished
+15.07 00:11:34 Scanning 41 point from 1482
+15.07 00:11:34 Going to coordinates X=-13.292, Y=-39.990
+15.07 00:11:34 Moving is finished
+15.07 00:13:11 Scanning 42 point from 1482
+15.07 00:13:11 Going to coordinates X=-13.282, Y=-39.990
+15.07 00:13:11 Moving is finished
+15.07 00:14:47 Scanning 43 point from 1482
+15.07 00:14:47 Going to coordinates X=-13.272, Y=-39.990
+15.07 00:14:48 Moving is finished
+15.07 00:16:24 Scanning 44 point from 1482
+15.07 00:16:24 Going to coordinates X=-13.262, Y=-39.990
+15.07 00:16:24 Moving is finished
+15.07 00:18:01 Scanning 45 point from 1482
+15.07 00:18:01 Going to coordinates X=-13.252, Y=-39.990
+15.07 00:18:01 Moving is finished
+15.07 00:19:37 Scanning 46 point from 1482
+15.07 00:19:37 Going to coordinates X=-13.242, Y=-39.990
+15.07 00:19:37 Moving is finished
+15.07 00:21:14 Scanning 47 point from 1482
+15.07 00:21:14 Going to coordinates X=-13.232, Y=-39.990
+15.07 00:21:14 Moving is finished
+15.07 00:22:51 Scanning 48 point from 1482
+15.07 00:22:51 Going to coordinates X=-13.222, Y=-39.990
+15.07 00:22:51 Moving is finished
+15.07 00:24:28 Scanning 49 point from 1482
+15.07 00:24:28 Going to coordinates X=-13.212, Y=-39.990
+15.07 00:24:28 Moving is finished
+15.07 01:03:33 Scanning 50 point from 1482
+15.07 01:03:33 Going to coordinates X=-13.202, Y=-39.990
+15.07 01:03:34 Moving is finished
+15.07 01:13:49 Scanning 51 point from 1482
+15.07 01:13:49 Going to coordinates X=-13.192, Y=-39.990
+15.07 01:13:49 Moving is finished
+15.07 01:24:03 Scanning 52 point from 1482
+15.07 01:24:03 Going to coordinates X=-13.182, Y=-39.990
+15.07 01:24:03 Moving is finished
+15.07 01:34:19 Scanning 53 point from 1482
+15.07 01:34:19 Going to coordinates X=-13.172, Y=-39.990
+15.07 01:34:19 Moving is finished
+15.07 02:13:35 Scanning 54 point from 1482
+15.07 02:13:35 Going to coordinates X=-13.162, Y=-39.990
+15.07 02:13:35 Moving is finished
+15.07 02:15:12 Scanning 55 point from 1482
+15.07 02:15:12 Going to coordinates X=-13.152, Y=-39.990
+15.07 02:15:12 Moving is finished
+15.07 02:16:50 Scanning 56 point from 1482
+15.07 02:16:50 Going to coordinates X=-13.142, Y=-39.990
+15.07 02:16:50 Moving is finished
+15.07 02:18:26 Scanning 57 point from 1482
+15.07 02:18:26 Going to coordinates X=-13.132, Y=-39.990
+15.07 02:18:26 Moving is finished
+15.07 02:20:03 Scanning 58 point from 1482
+15.07 02:20:03 Going to coordinates X=-13.122, Y=-39.990
+15.07 02:20:03 Moving is finished
+15.07 02:21:40 Scanning 59 point from 1482
+15.07 02:21:40 Going to coordinates X=-13.112, Y=-39.990
+15.07 02:21:40 Moving is finished
+15.07 02:23:17 Scanning 60 point from 1482
+15.07 02:23:17 Going to coordinates X=-13.102, Y=-39.990
+15.07 02:23:17 Moving is finished
+15.07 02:24:53 Scanning 61 point from 1482
+15.07 02:24:53 Going to coordinates X=-13.092, Y=-39.990
+15.07 02:24:53 Moving is finished
+15.07 02:26:30 Scanning 62 point from 1482
+15.07 02:26:30 Going to coordinates X=-13.082, Y=-39.990
+15.07 02:26:30 Moving is finished
+15.07 02:28:07 Scanning 63 point from 1482
+15.07 02:28:07 Going to coordinates X=-13.072, Y=-39.990
+15.07 02:28:07 Moving is finished
+15.07 02:44:20 Scanning 64 point from 1482
+15.07 02:44:20 Going to coordinates X=-13.062, Y=-39.990
+15.07 02:44:20 Moving is finished
+15.07 02:45:56 Scanning 65 point from 1482
+15.07 02:45:56 Going to coordinates X=-13.052, Y=-39.990
+15.07 02:45:56 Moving is finished
+15.07 03:24:29 Scanning 66 point from 1482
+15.07 03:24:29 Going to coordinates X=-13.042, Y=-39.990
+15.07 03:24:29 Moving is finished
+15.07 03:34:44 Scanning 67 point from 1482
+15.07 03:34:44 Going to coordinates X=-13.032, Y=-39.990
+15.07 03:34:44 Moving is finished
+15.07 03:36:21 Scanning 68 point from 1482
+15.07 03:36:21 Going to coordinates X=-13.022, Y=-39.990
+15.07 03:36:21 Moving is finished
+15.07 04:15:17 Scanning 69 point from 1482
+15.07 04:15:17 Going to coordinates X=-13.012, Y=-39.990
+15.07 04:15:17 Moving is finished
+15.07 04:25:32 Scanning 70 point from 1482
+15.07 04:25:32 Going to coordinates X=-13.002, Y=-39.990
+15.07 04:25:32 Moving is finished
+15.07 04:35:46 Scanning 71 point from 1482
+15.07 04:35:46 Going to coordinates X=-12.992, Y=-39.990
+15.07 04:35:46 Moving is finished
+15.07 05:15:02 Scanning 72 point from 1482
+15.07 05:15:02 Going to coordinates X=-12.982, Y=-39.990
+15.07 05:15:03 Moving is finished
+15.07 05:16:40 Scanning 73 point from 1482
+15.07 05:16:40 Going to coordinates X=-12.972, Y=-39.990
+15.07 05:16:40 Moving is finished
+15.07 05:55:37 Scanning 74 point from 1482
+15.07 05:55:37 Going to coordinates X=-12.962, Y=-39.990
+15.07 05:55:37 Moving is finished
+15.07 05:57:13 Scanning 75 point from 1482
+15.07 05:57:13 Going to coordinates X=-12.952, Y=-39.990
+15.07 05:57:14 Moving is finished
+15.07 05:58:50 Scanning 76 point from 1482
+15.07 05:58:50 Going to coordinates X=-13.322, Y=-39.980
+15.07 05:58:51 Moving is finished
+15.07 06:00:27 Scanning 77 point from 1482
+15.07 06:00:27 Going to coordinates X=-13.312, Y=-39.980
+15.07 06:00:27 Moving is finished
+15.07 06:02:04 Scanning 78 point from 1482
+15.07 06:02:04 Going to coordinates X=-13.302, Y=-39.980
+15.07 06:02:05 Moving is finished
+15.07 06:03:42 Scanning 79 point from 1482
+15.07 06:03:42 Going to coordinates X=-13.292, Y=-39.980
+15.07 06:03:42 Moving is finished
+15.07 06:42:38 Scanning 80 point from 1482
+15.07 06:42:38 Going to coordinates X=-13.282, Y=-39.980
+15.07 06:42:38 Moving is finished
+15.07 06:44:14 Scanning 81 point from 1482
+15.07 06:44:14 Going to coordinates X=-13.272, Y=-39.980
+15.07 06:44:14 Moving is finished
+15.07 07:23:51 Scanning 82 point from 1482
+15.07 07:23:51 Going to coordinates X=-13.262, Y=-39.980
+15.07 07:23:51 Moving is finished
+15.07 07:25:28 Scanning 83 point from 1482
+15.07 07:25:28 Going to coordinates X=-13.252, Y=-39.980
+15.07 07:25:28 Moving is finished
+15.07 07:27:05 Scanning 84 point from 1482
+15.07 07:27:05 Going to coordinates X=-13.242, Y=-39.980
+15.07 07:27:05 Moving is finished
+15.07 07:28:42 Scanning 85 point from 1482
+15.07 07:28:42 Going to coordinates X=-13.232, Y=-39.980
+15.07 07:28:43 Moving is finished
+15.07 08:40:27 Scanning 86 point from 1482
+15.07 08:40:27 Going to coordinates X=-13.222, Y=-39.980
+15.07 08:40:28 Moving is finished
+15.07 08:42:04 Scanning 87 point from 1482
+15.07 08:42:04 Going to coordinates X=-13.212, Y=-39.980
+15.07 08:42:05 Moving is finished
+15.07 08:52:19 Scanning 88 point from 1482
+15.07 08:52:19 Going to coordinates X=-13.202, Y=-39.980
+15.07 08:52:19 Moving is finished
+15.07 08:53:56 Scanning 89 point from 1482
+15.07 08:53:56 Going to coordinates X=-13.192, Y=-39.980
+15.07 08:53:56 Moving is finished

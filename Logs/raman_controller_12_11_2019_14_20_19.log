@@ -1,0 +1,37 @@
+12.11 14:20:20 Initializing grbl...
+12.11 14:20:20 Got the response: b''
+12.11 15:28:42 Write timeout12.11 15:28:42 Can't send the command to GRBL
+
+12.11 16:18:45 Row 0: 12.11 16:18:45 Goto: -21.904; -41.354; 0.000
+12.11 16:18:45 Going to coordinates X=-21.904, Y=-41.354
+12.11 16:18:47 Moving is finished
+12.11 16:18:48 Row 1: 12.11 16:18:48 Raman: S1P2
+12.11 16:18:48 Starting signal collection to the file S1P2
+12.11 16:20:58 Data is collected!
+12.11 16:20:58 Row 2: 12.11 16:20:58 Goto: -21.611; -41.354; 0.000
+12.11 16:20:58 Going to coordinates X=-21.611, Y=-41.354
+12.11 16:20:58 Moving is finished
+12.11 16:20:59 Row 3: 12.11 16:20:59 Raman: S1P2
+12.11 16:20:59 Starting signal collection to the file S1P2
+12.11 16:23:09 Data is collected!
+12.11 16:23:09 Row 4: 12.11 16:23:09 Goto: -22.000; -40.369; 0.000
+12.11 16:23:09 Going to coordinates X=-22.000, Y=-40.369
+12.11 16:23:09 Moving is finished
+12.11 16:23:10 Row 5: 12.11 16:23:10 Raman: S1P2
+12.11 16:23:10 Starting signal collection to the file S1P2
+12.11 16:25:20 Data is collected!
+12.11 16:25:20 Row 6: 12.11 16:25:20 Goto: -29.106; -40.410; 0.000
+12.11 16:25:20 Going to coordinates X=-29.106, Y=-40.410
+12.11 16:25:22 Moving is finished
+12.11 16:25:23 Row 7: 12.11 16:25:23 Raman: S1P2
+12.11 16:25:23 Starting signal collection to the file S1P2
+12.11 16:27:32 Data is collected!
+12.11 16:27:32 Row 8: 12.11 16:27:32 Goto: -28.712; -40.410; 0.000
+12.11 16:28:22 Going to coordinates X=-28.712, Y=-40.410
+12.11 16:29:22 Moving is finished
+12.11 16:29:23 Row 9: 12.11 16:29:23 Raman: S1P2
+12.11 16:29:23 Starting signal collection to the file S1P2
+12.11 16:30:31 Stopped!
+12.11 16:30:54 Can't send the command to GRBL
+12.11 16:30:54 Write timeout12.11 16:30:54 Write timeout
+

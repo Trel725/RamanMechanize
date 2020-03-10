@@ -26,6 +26,21 @@ class RamanController(object):
         self.path = 'C:\\AutoRaman\\Mapping\\'
         self.suffix = ""
 
+    def sendKey(self, key):
+        SendKeys(key)
+
+    def escapeApp(self):
+        SendKeys("{VK_ESCAPE}")
+        time.sleep(0.5)
+
+    def resetApp(self):
+        SendKeys("{DELETE}")
+        time.sleep(0.5)
+        for i in range(5):
+            SendKeys("{VK_ESCAPE}")
+            time.sleep(0.5)
+        SendKeys("{DELETE}")
+
     def startScan(self):
         self.w.set_focus()
         SendKeys("{F1}")

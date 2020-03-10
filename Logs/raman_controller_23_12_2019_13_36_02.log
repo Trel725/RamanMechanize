@@ -1,0 +1,70 @@
+23.12 13:36:05 Initializing grbl...
+23.12 13:36:06 Got the response: b''
+23.12 13:36:34 Focused at  226
+23.12 13:36:41 Focused at  189
+23.12 13:36:53 Focused at  64
+23.12 13:36:59 Focused at  67
+23.12 13:37:07 Focused at  34
+23.12 13:37:19 Focused at  1
+23.12 13:37:50 Row 0: 23.12 13:37:50 Map: x1: -14.0, y1: -38.0, x2: -15.457, y2: -35.6, xres: 0.100, yres: 0.100, fname: Martgluc-Sol3-B
+23.12 13:37:50 Scanning 0 point from 400
+23.12 13:37:54 Going to coordinates X=-15.457, Y=-38.000
+23.12 13:37:55 Moving is finished
+23.12 13:40:03 Scanning 1 point from 400
+23.12 13:40:03 Going to coordinates X=-15.357, Y=-38.000
+23.12 13:40:03 Moving is finished
+23.12 13:42:12 Scanning 2 point from 400
+23.12 13:42:12 Going to coordinates X=-15.257, Y=-38.000
+23.12 13:42:12 Moving is finished
+23.12 13:44:20 Scanning 3 point from 400
+23.12 13:44:20 Going to coordinates X=-15.157, Y=-38.000
+23.12 13:44:20 Moving is finished
+23.12 13:46:29 Scanning 4 point from 400
+23.12 13:46:29 Going to coordinates X=-15.057, Y=-38.000
+23.12 13:46:29 Moving is finished
+23.12 13:48:37 Scanning 5 point from 400
+23.12 13:48:37 Going to coordinates X=-14.957, Y=-38.000
+23.12 13:48:37 Moving is finished
+23.12 13:50:46 Scanning 6 point from 400
+23.12 13:50:46 Going to coordinates X=-14.857, Y=-38.000
+23.12 13:50:46 Moving is finished
+23.12 13:52:54 Scanning 7 point from 400
+23.12 13:52:54 Going to coordinates X=-14.757, Y=-38.000
+23.12 13:52:54 Moving is finished
+23.12 13:55:02 Scanning 8 point from 400
+23.12 13:55:02 Going to coordinates X=-14.657, Y=-38.000
+23.12 13:55:03 Moving is finished
+23.12 13:57:11 Scanning 9 point from 400
+23.12 13:57:11 Going to coordinates X=-14.557, Y=-38.000
+23.12 13:57:11 Moving is finished
+23.12 13:59:20 Scanning 10 point from 400
+23.12 13:59:24 Going to coordinates X=-14.457, Y=-38.000
+23.12 13:59:24 Moving is finished
+23.12 14:01:33 Scanning 11 point from 400
+23.12 14:01:33 Going to coordinates X=-14.357, Y=-38.000
+23.12 14:01:33 Moving is finished
+23.12 14:03:41 Scanning 12 point from 400
+23.12 14:03:41 Going to coordinates X=-14.257, Y=-38.000
+23.12 14:03:41 Moving is finished
+23.12 14:05:49 Scanning 13 point from 400
+23.12 14:05:49 Going to coordinates X=-14.157, Y=-38.000
+23.12 14:05:50 Moving is finished
+23.12 14:07:58 Scanning 14 point from 400
+23.12 14:07:58 Going to coordinates X=-14.057, Y=-38.000
+23.12 14:07:58 Moving is finished
+23.12 14:10:07 Scanning 15 point from 400
+23.12 14:10:07 Going to coordinates X=-13.957, Y=-38.000
+23.12 14:10:07 Moving is finished
+23.12 14:12:15 Scanning 16 point from 400
+23.12 14:12:15 Going to coordinates X=-15.457, Y=-37.900
+23.12 14:12:16 Moving is finished
+23.12 14:14:24 Scanning 17 point from 400
+23.12 14:14:24 Going to coordinates X=-15.357, Y=-37.900
+23.12 14:14:25 Moving is finished
+23.12 14:16:33 Scanning 18 point from 400
+23.12 14:16:33 Going to coordinates X=-15.257, Y=-37.900
+23.12 14:16:33 Moving is finished
+23.12 14:18:11 Stopped!
+23.12 14:20:35 Focused at  33
+23.12 14:21:04 Focused at  105
+23.12 14:21:15 Focused at  104

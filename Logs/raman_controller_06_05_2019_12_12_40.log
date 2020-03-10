@@ -1,0 +1,66 @@
+06.05 12:12:44 Initializing grbl...
+06.05 12:12:45 Got the response: b''
+06.05 12:13:41 Can't send the command to GRBL
+06.05 12:13:41 Write timeout06.05 12:13:41 Write timeout
+
+06.05 12:16:09 Row 0: 06.05 12:16:09 Map: x1: -28.576, y1: -37.67, x2: -27.512, y2: -37.103, xres: 0.100, yres: 0.100, fname: l-tyros
+06.05 12:16:09 Scanning 0 point from 84
+06.05 12:16:09 Going to coordinates X=-28.576, Y=-37.670
+06.05 12:16:09 Moving is finished
+06.05 12:17:46 Scanning 1 point from 84
+06.05 12:17:46 Going to coordinates X=-28.476, Y=-37.670
+06.05 12:17:46 Moving is finished
+06.05 12:19:23 Scanning 2 point from 84
+06.05 12:19:23 Going to coordinates X=-28.376, Y=-37.670
+06.05 12:19:23 Moving is finished
+06.05 12:20:59 Scanning 3 point from 84
+06.05 12:20:59 Going to coordinates X=-28.276, Y=-37.670
+06.05 12:20:59 Moving is finished
+06.05 12:22:36 Scanning 4 point from 84
+06.05 12:22:36 Going to coordinates X=-28.176, Y=-37.670
+06.05 12:22:36 Moving is finished
+06.05 12:24:13 Scanning 5 point from 84
+06.05 12:24:13 Going to coordinates X=-28.076, Y=-37.670
+06.05 12:24:13 Moving is finished
+06.05 12:25:49 Scanning 6 point from 84
+06.05 12:25:49 Going to coordinates X=-27.976, Y=-37.670
+06.05 12:25:49 Moving is finished
+06.05 12:27:26 Scanning 7 point from 84
+06.05 12:27:26 Going to coordinates X=-27.876, Y=-37.670
+06.05 12:27:26 Moving is finished
+06.05 12:29:03 Scanning 8 point from 84
+06.05 12:29:03 Going to coordinates X=-27.776, Y=-37.670
+06.05 12:29:03 Moving is finished
+06.05 12:30:39 Scanning 9 point from 84
+06.05 12:30:39 Going to coordinates X=-27.676, Y=-37.670
+06.05 12:30:40 Moving is finished
+06.05 12:32:16 Scanning 10 point from 84
+06.05 12:32:16 Going to coordinates X=-27.576, Y=-37.670
+06.05 12:32:16 Moving is finished
+06.05 12:33:53 Scanning 11 point from 84
+06.05 12:33:53 Going to coordinates X=-27.476, Y=-37.670
+06.05 12:33:53 Moving is finished
+06.05 12:35:29 Scanning 12 point from 84
+06.05 12:35:29 Going to coordinates X=-28.576, Y=-37.570
+06.05 12:35:30 Moving is finished
+06.05 12:37:07 Scanning 13 point from 84
+06.05 12:37:07 Going to coordinates X=-28.476, Y=-37.570
+06.05 12:37:07 Moving is finished
+06.05 12:38:44 Scanning 14 point from 84
+06.05 12:38:44 Going to coordinates X=-28.376, Y=-37.570
+06.05 12:38:44 Moving is finished
+06.05 12:39:45 Stopped!
+06.05 12:42:07 Can't send the command to GRBL
+06.05 12:42:07 Write timeout06.05 12:42:07 Write timeout
+
+06.05 12:57:49 Can't send the command to GRBL
+06.05 12:57:49 Write timeout06.05 12:57:49 Write timeout
+06.05 13:07:43 Can't send the command to GRBL
+06.05 13:07:43 Write timeout06.05 13:07:43 Write timeout
+
+06.05 13:35:44 Can't send the command to GRBL
+06.05 13:35:44 Write timeout06.05 13:35:44 Write timeout
+
+06.05 13:40:39 Can't send the command to GRBL
+06.05 13:40:39 Write timeout06.05 13:40:39 Write timeout
+

@@ -1,0 +1,413 @@
+26.02 09:56:54 Initializing grbl...
+26.02 09:56:55 Got the response: b''
+26.02 09:58:06 Focused at  92
+26.02 09:58:27 Row 0: 26.02 09:58:27 Map: x1: -12.548, y1: -38.0, x2: -13.49, y2: -39.169, xres: 0.100, yres: 0.100, fname: M1-5
+26.02 09:58:27 Scanning 0 point from 143
+26.02 09:58:27 Going to coordinates X=-13.490, Y=-39.169
+26.02 09:58:27 Moving is finished
+26.02 10:00:12 Scanning 1 point from 143
+26.02 10:00:12 Going to coordinates X=-13.390, Y=-39.169
+26.02 10:00:12 Moving is finished
+26.02 10:01:58 Scanning 2 point from 143
+26.02 10:01:58 Going to coordinates X=-13.290, Y=-39.169
+26.02 10:01:58 Moving is finished
+26.02 10:03:43 Scanning 3 point from 143
+26.02 10:03:43 Going to coordinates X=-13.190, Y=-39.169
+26.02 10:03:43 Moving is finished
+26.02 10:05:28 Scanning 4 point from 143
+26.02 10:05:28 Going to coordinates X=-13.090, Y=-39.169
+26.02 10:05:28 Moving is finished
+26.02 10:07:12 Scanning 5 point from 143
+26.02 10:07:12 Going to coordinates X=-12.990, Y=-39.169
+26.02 10:07:13 Moving is finished
+26.02 10:08:58 Scanning 6 point from 143
+26.02 10:08:58 Going to coordinates X=-12.890, Y=-39.169
+26.02 10:08:58 Moving is finished
+26.02 10:10:43 Scanning 7 point from 143
+26.02 10:10:43 Going to coordinates X=-12.790, Y=-39.169
+26.02 10:10:43 Moving is finished
+26.02 10:12:27 Scanning 8 point from 143
+26.02 10:12:27 Going to coordinates X=-12.690, Y=-39.169
+26.02 10:12:28 Moving is finished
+26.02 10:14:12 Scanning 9 point from 143
+26.02 10:14:12 Going to coordinates X=-12.590, Y=-39.169
+26.02 10:14:12 Moving is finished
+26.02 10:15:58 Scanning 10 point from 143
+26.02 10:15:58 Going to coordinates X=-12.490, Y=-39.169
+26.02 10:15:58 Moving is finished
+26.02 10:17:43 Scanning 11 point from 143
+26.02 10:17:43 Going to coordinates X=-13.490, Y=-39.069
+26.02 10:17:44 Moving is finished
+26.02 10:19:29 Scanning 12 point from 143
+26.02 10:19:29 Going to coordinates X=-13.390, Y=-39.069
+26.02 10:19:29 Moving is finished
+26.02 10:21:14 Scanning 13 point from 143
+26.02 10:21:14 Going to coordinates X=-13.290, Y=-39.069
+26.02 10:21:14 Moving is finished
+26.02 10:22:59 Scanning 14 point from 143
+26.02 10:22:59 Going to coordinates X=-13.190, Y=-39.069
+26.02 10:22:59 Moving is finished
+26.02 10:24:44 Scanning 15 point from 143
+26.02 10:24:44 Going to coordinates X=-13.090, Y=-39.069
+26.02 10:24:44 Moving is finished
+26.02 10:26:29 Scanning 16 point from 143
+26.02 10:26:29 Going to coordinates X=-12.990, Y=-39.069
+26.02 10:26:30 Moving is finished
+26.02 10:28:14 Scanning 17 point from 143
+26.02 10:28:14 Going to coordinates X=-12.890, Y=-39.069
+26.02 10:28:14 Moving is finished
+26.02 10:30:00 Scanning 18 point from 143
+26.02 10:30:00 Going to coordinates X=-12.790, Y=-39.069
+26.02 10:30:00 Moving is finished
+26.02 10:31:45 Scanning 19 point from 143
+26.02 10:31:45 Going to coordinates X=-12.690, Y=-39.069
+26.02 10:31:46 Moving is finished
+26.02 10:33:30 Scanning 20 point from 143
+26.02 10:33:30 Going to coordinates X=-12.590, Y=-39.069
+26.02 10:33:30 Moving is finished
+26.02 10:35:15 Scanning 21 point from 143
+26.02 10:35:15 Going to coordinates X=-12.490, Y=-39.069
+26.02 10:35:15 Moving is finished
+26.02 10:37:00 Scanning 22 point from 143
+26.02 10:37:00 Going to coordinates X=-13.490, Y=-38.969
+26.02 10:37:01 Moving is finished
+26.02 10:38:45 Scanning 23 point from 143
+26.02 10:38:45 Going to coordinates X=-13.390, Y=-38.969
+26.02 10:38:46 Moving is finished
+26.02 10:40:31 Scanning 24 point from 143
+26.02 10:40:31 Going to coordinates X=-13.290, Y=-38.969
+26.02 10:40:31 Moving is finished
+26.02 10:42:16 Scanning 25 point from 143
+26.02 10:42:16 Going to coordinates X=-13.190, Y=-38.969
+26.02 10:42:16 Moving is finished
+26.02 10:44:01 Scanning 26 point from 143
+26.02 10:44:01 Going to coordinates X=-13.090, Y=-38.969
+26.02 10:44:02 Moving is finished
+26.02 10:45:47 Scanning 27 point from 143
+26.02 10:45:47 Going to coordinates X=-12.990, Y=-38.969
+26.02 10:45:47 Moving is finished
+26.02 10:47:32 Scanning 28 point from 143
+26.02 10:47:32 Going to coordinates X=-12.890, Y=-38.969
+26.02 10:47:32 Moving is finished
+26.02 10:49:18 Scanning 29 point from 143
+26.02 10:49:18 Going to coordinates X=-12.790, Y=-38.969
+26.02 10:49:18 Moving is finished
+26.02 10:51:03 Scanning 30 point from 143
+26.02 10:51:03 Going to coordinates X=-12.690, Y=-38.969
+26.02 10:51:03 Moving is finished
+26.02 10:52:48 Scanning 31 point from 143
+26.02 10:52:48 Going to coordinates X=-12.590, Y=-38.969
+26.02 10:52:48 Moving is finished
+26.02 10:54:33 Scanning 32 point from 143
+26.02 10:54:33 Going to coordinates X=-12.490, Y=-38.969
+26.02 10:54:34 Moving is finished
+26.02 10:56:19 Scanning 33 point from 143
+26.02 10:56:19 Going to coordinates X=-13.490, Y=-38.869
+26.02 10:56:20 Moving is finished
+26.02 10:58:05 Scanning 34 point from 143
+26.02 10:58:05 Going to coordinates X=-13.390, Y=-38.869
+26.02 10:58:05 Moving is finished
+26.02 10:59:50 Scanning 35 point from 143
+26.02 10:59:50 Going to coordinates X=-13.290, Y=-38.869
+26.02 10:59:51 Moving is finished
+26.02 11:01:35 Scanning 36 point from 143
+26.02 11:01:35 Going to coordinates X=-13.190, Y=-38.869
+26.02 11:01:36 Moving is finished
+26.02 11:03:20 Scanning 37 point from 143
+26.02 11:03:20 Going to coordinates X=-13.090, Y=-38.869
+26.02 11:03:21 Moving is finished
+26.02 11:05:05 Scanning 38 point from 143
+26.02 11:05:05 Going to coordinates X=-12.990, Y=-38.869
+26.02 11:05:06 Moving is finished
+26.02 11:06:51 Scanning 39 point from 143
+26.02 11:06:51 Going to coordinates X=-12.890, Y=-38.869
+26.02 11:06:51 Moving is finished
+26.02 11:08:36 Scanning 40 point from 143
+26.02 11:08:36 Going to coordinates X=-12.790, Y=-38.869
+26.02 11:08:36 Moving is finished
+26.02 11:10:21 Scanning 41 point from 143
+26.02 11:10:21 Going to coordinates X=-12.690, Y=-38.869
+26.02 11:10:21 Moving is finished
+26.02 11:12:06 Scanning 42 point from 143
+26.02 11:12:06 Going to coordinates X=-12.590, Y=-38.869
+26.02 11:12:07 Moving is finished
+26.02 11:13:51 Scanning 43 point from 143
+26.02 11:13:51 Going to coordinates X=-12.490, Y=-38.869
+26.02 11:13:52 Moving is finished
+26.02 11:15:36 Scanning 44 point from 143
+26.02 11:15:36 Going to coordinates X=-13.490, Y=-38.769
+26.02 11:15:37 Moving is finished
+26.02 11:17:22 Scanning 45 point from 143
+26.02 11:17:22 Going to coordinates X=-13.390, Y=-38.769
+26.02 11:17:23 Moving is finished
+26.02 11:19:08 Scanning 46 point from 143
+26.02 11:19:08 Going to coordinates X=-13.290, Y=-38.769
+26.02 11:19:08 Moving is finished
+26.02 11:20:52 Scanning 47 point from 143
+26.02 11:20:52 Going to coordinates X=-13.190, Y=-38.769
+26.02 11:20:53 Moving is finished
+26.02 11:22:37 Scanning 48 point from 143
+26.02 11:22:37 Going to coordinates X=-13.090, Y=-38.769
+26.02 11:22:38 Moving is finished
+26.02 11:24:23 Scanning 49 point from 143
+26.02 11:24:23 Going to coordinates X=-12.990, Y=-38.769
+26.02 11:24:23 Moving is finished
+26.02 11:26:08 Scanning 50 point from 143
+26.02 11:26:08 Going to coordinates X=-12.890, Y=-38.769
+26.02 11:26:08 Moving is finished
+26.02 11:27:53 Scanning 51 point from 143
+26.02 11:27:53 Going to coordinates X=-12.790, Y=-38.769
+26.02 11:27:53 Moving is finished
+26.02 11:29:38 Scanning 52 point from 143
+26.02 11:29:38 Going to coordinates X=-12.690, Y=-38.769
+26.02 11:29:38 Moving is finished
+26.02 11:31:23 Scanning 53 point from 143
+26.02 11:31:23 Going to coordinates X=-12.590, Y=-38.769
+26.02 11:31:23 Moving is finished
+26.02 11:33:08 Scanning 54 point from 143
+26.02 11:33:08 Going to coordinates X=-12.490, Y=-38.769
+26.02 11:33:09 Moving is finished
+26.02 11:34:53 Scanning 55 point from 143
+26.02 11:34:53 Going to coordinates X=-13.490, Y=-38.669
+26.02 11:34:54 Moving is finished
+26.02 11:36:39 Scanning 56 point from 143
+26.02 11:36:39 Going to coordinates X=-13.390, Y=-38.669
+26.02 11:36:39 Moving is finished
+26.02 11:38:24 Scanning 57 point from 143
+26.02 11:38:24 Going to coordinates X=-13.290, Y=-38.669
+26.02 11:38:25 Moving is finished
+26.02 11:40:10 Scanning 58 point from 143
+26.02 11:40:10 Going to coordinates X=-13.190, Y=-38.669
+26.02 11:40:10 Moving is finished
+26.02 11:41:55 Scanning 59 point from 143
+26.02 11:41:55 Going to coordinates X=-13.090, Y=-38.669
+26.02 11:41:56 Moving is finished
+26.02 11:43:41 Scanning 60 point from 143
+26.02 11:43:41 Going to coordinates X=-12.990, Y=-38.669
+26.02 11:43:41 Moving is finished
+26.02 11:45:26 Scanning 61 point from 143
+26.02 11:45:26 Going to coordinates X=-12.890, Y=-38.669
+26.02 11:45:26 Moving is finished
+26.02 11:47:11 Scanning 62 point from 143
+26.02 11:47:11 Going to coordinates X=-12.790, Y=-38.669
+26.02 11:47:11 Moving is finished
+26.02 11:48:56 Scanning 63 point from 143
+26.02 11:48:56 Going to coordinates X=-12.690, Y=-38.669
+26.02 11:48:57 Moving is finished
+26.02 11:50:42 Scanning 64 point from 143
+26.02 11:50:42 Going to coordinates X=-12.590, Y=-38.669
+26.02 11:50:42 Moving is finished
+26.02 11:52:27 Scanning 65 point from 143
+26.02 11:52:27 Going to coordinates X=-12.490, Y=-38.669
+26.02 11:52:27 Moving is finished
+26.02 11:54:12 Scanning 66 point from 143
+26.02 11:54:12 Going to coordinates X=-13.490, Y=-38.569
+26.02 11:54:13 Moving is finished
+26.02 11:55:57 Scanning 67 point from 143
+26.02 11:55:57 Going to coordinates X=-13.390, Y=-38.569
+26.02 11:55:58 Moving is finished
+26.02 11:57:43 Scanning 68 point from 143
+26.02 11:57:43 Going to coordinates X=-13.290, Y=-38.569
+26.02 11:57:43 Moving is finished
+26.02 11:59:29 Scanning 69 point from 143
+26.02 11:59:29 Going to coordinates X=-13.190, Y=-38.569
+26.02 11:59:29 Moving is finished
+26.02 12:01:14 Scanning 70 point from 143
+26.02 12:01:14 Going to coordinates X=-13.090, Y=-38.569
+26.02 12:01:14 Moving is finished
+26.02 12:02:59 Scanning 71 point from 143
+26.02 12:02:59 Going to coordinates X=-12.990, Y=-38.569
+26.02 12:02:59 Moving is finished
+26.02 12:04:45 Scanning 72 point from 143
+26.02 12:04:45 Going to coordinates X=-12.890, Y=-38.569
+26.02 12:04:45 Moving is finished
+26.02 12:06:30 Scanning 73 point from 143
+26.02 12:06:30 Going to coordinates X=-12.790, Y=-38.569
+26.02 12:06:30 Moving is finished
+26.02 12:08:15 Scanning 74 point from 143
+26.02 12:08:15 Going to coordinates X=-12.690, Y=-38.569
+26.02 12:08:15 Moving is finished
+26.02 12:10:00 Scanning 75 point from 143
+26.02 12:10:00 Going to coordinates X=-12.590, Y=-38.569
+26.02 12:10:00 Moving is finished
+26.02 12:11:45 Scanning 76 point from 143
+26.02 12:11:45 Going to coordinates X=-12.490, Y=-38.569
+26.02 12:11:45 Moving is finished
+26.02 12:13:30 Scanning 77 point from 143
+26.02 12:13:30 Going to coordinates X=-13.490, Y=-38.469
+26.02 12:13:31 Moving is finished
+26.02 12:15:15 Scanning 78 point from 143
+26.02 12:15:15 Going to coordinates X=-13.390, Y=-38.469
+26.02 12:15:16 Moving is finished
+26.02 12:17:00 Scanning 79 point from 143
+26.02 12:17:00 Going to coordinates X=-13.290, Y=-38.469
+26.02 12:17:01 Moving is finished
+26.02 12:18:45 Scanning 80 point from 143
+26.02 12:18:45 Going to coordinates X=-13.190, Y=-38.469
+26.02 12:18:45 Moving is finished
+26.02 12:20:31 Scanning 81 point from 143
+26.02 12:20:31 Going to coordinates X=-13.090, Y=-38.469
+26.02 12:20:31 Moving is finished
+26.02 12:22:17 Scanning 82 point from 143
+26.02 12:22:17 Going to coordinates X=-12.990, Y=-38.469
+26.02 12:22:17 Moving is finished
+26.02 12:24:02 Scanning 83 point from 143
+26.02 12:24:02 Going to coordinates X=-12.890, Y=-38.469
+26.02 12:24:02 Moving is finished
+26.02 12:25:47 Scanning 84 point from 143
+26.02 12:25:47 Going to coordinates X=-12.790, Y=-38.469
+26.02 12:25:48 Moving is finished
+26.02 12:27:33 Scanning 85 point from 143
+26.02 12:27:33 Going to coordinates X=-12.690, Y=-38.469
+26.02 12:27:33 Moving is finished
+26.02 12:29:17 Scanning 86 point from 143
+26.02 12:29:17 Going to coordinates X=-12.590, Y=-38.469
+26.02 12:29:18 Moving is finished
+26.02 12:31:02 Scanning 87 point from 143
+26.02 12:31:02 Going to coordinates X=-12.490, Y=-38.469
+26.02 12:31:03 Moving is finished
+26.02 12:32:47 Scanning 88 point from 143
+26.02 12:32:47 Going to coordinates X=-13.490, Y=-38.369
+26.02 12:32:48 Moving is finished
+26.02 12:34:33 Scanning 89 point from 143
+26.02 12:34:33 Going to coordinates X=-13.390, Y=-38.369
+26.02 12:34:33 Moving is finished
+26.02 12:36:18 Scanning 90 point from 143
+26.02 12:36:18 Going to coordinates X=-13.290, Y=-38.369
+26.02 12:36:18 Moving is finished
+26.02 12:38:03 Scanning 91 point from 143
+26.02 12:38:03 Going to coordinates X=-13.190, Y=-38.369
+26.02 12:38:03 Moving is finished
+26.02 12:39:48 Scanning 92 point from 143
+26.02 12:39:48 Going to coordinates X=-13.090, Y=-38.369
+26.02 12:39:48 Moving is finished
+26.02 12:41:33 Scanning 93 point from 143
+26.02 12:41:33 Going to coordinates X=-12.990, Y=-38.369
+26.02 12:41:33 Moving is finished
+26.02 12:43:18 Scanning 94 point from 143
+26.02 12:43:18 Going to coordinates X=-12.890, Y=-38.369
+26.02 12:43:18 Moving is finished
+26.02 12:45:03 Scanning 95 point from 143
+26.02 12:45:03 Going to coordinates X=-12.790, Y=-38.369
+26.02 12:45:03 Moving is finished
+26.02 12:46:48 Scanning 96 point from 143
+26.02 12:46:48 Going to coordinates X=-12.690, Y=-38.369
+26.02 12:46:48 Moving is finished
+26.02 12:48:34 Scanning 97 point from 143
+26.02 12:48:34 Going to coordinates X=-12.590, Y=-38.369
+26.02 12:48:34 Moving is finished
+26.02 12:50:19 Scanning 98 point from 143
+26.02 12:50:19 Going to coordinates X=-12.490, Y=-38.369
+26.02 12:50:19 Moving is finished
+26.02 12:52:04 Scanning 99 point from 143
+26.02 12:52:04 Going to coordinates X=-13.490, Y=-38.269
+26.02 12:52:05 Moving is finished
+26.02 12:53:49 Scanning 100 point from 143
+26.02 12:53:49 Going to coordinates X=-13.390, Y=-38.269
+26.02 12:53:50 Moving is finished
+26.02 12:55:34 Scanning 101 point from 143
+26.02 12:55:34 Going to coordinates X=-13.290, Y=-38.269
+26.02 12:55:35 Moving is finished
+26.02 12:57:20 Scanning 102 point from 143
+26.02 12:57:20 Going to coordinates X=-13.190, Y=-38.269
+26.02 12:57:20 Moving is finished
+26.02 12:59:04 Scanning 103 point from 143
+26.02 12:59:04 Going to coordinates X=-13.090, Y=-38.269
+26.02 12:59:05 Moving is finished
+26.02 13:00:49 Scanning 104 point from 143
+26.02 13:00:49 Going to coordinates X=-12.990, Y=-38.269
+26.02 13:00:50 Moving is finished
+26.02 13:02:34 Scanning 105 point from 143
+26.02 13:02:34 Going to coordinates X=-12.890, Y=-38.269
+26.02 13:02:35 Moving is finished
+26.02 13:04:19 Scanning 106 point from 143
+26.02 13:04:19 Going to coordinates X=-12.790, Y=-38.269
+26.02 13:04:20 Moving is finished
+26.02 13:06:04 Scanning 107 point from 143
+26.02 13:06:04 Going to coordinates X=-12.690, Y=-38.269
+26.02 13:06:05 Moving is finished
+26.02 13:07:49 Scanning 108 point from 143
+26.02 13:07:49 Going to coordinates X=-12.590, Y=-38.269
+26.02 13:07:49 Moving is finished
+26.02 13:09:34 Scanning 109 point from 143
+26.02 13:09:34 Going to coordinates X=-12.490, Y=-38.269
+26.02 13:09:34 Moving is finished
+26.02 13:11:18 Scanning 110 point from 143
+26.02 13:11:18 Going to coordinates X=-13.490, Y=-38.169
+26.02 13:11:19 Moving is finished
+26.02 13:13:04 Scanning 111 point from 143
+26.02 13:13:04 Going to coordinates X=-13.390, Y=-38.169
+26.02 13:13:04 Moving is finished
+26.02 13:14:49 Scanning 112 point from 143
+26.02 13:14:49 Going to coordinates X=-13.290, Y=-38.169
+26.02 13:14:49 Moving is finished
+26.02 13:16:34 Scanning 113 point from 143
+26.02 13:16:34 Going to coordinates X=-13.190, Y=-38.169
+26.02 13:16:34 Moving is finished
+26.02 13:18:19 Scanning 114 point from 143
+26.02 13:18:19 Going to coordinates X=-13.090, Y=-38.169
+26.02 13:18:20 Moving is finished
+26.02 13:20:04 Scanning 115 point from 143
+26.02 13:20:04 Going to coordinates X=-12.990, Y=-38.169
+26.02 13:20:04 Moving is finished
+26.02 13:21:50 Scanning 116 point from 143
+26.02 13:21:50 Going to coordinates X=-12.890, Y=-38.169
+26.02 13:21:50 Moving is finished
+26.02 13:23:35 Scanning 117 point from 143
+26.02 13:23:35 Going to coordinates X=-12.790, Y=-38.169
+26.02 13:23:35 Moving is finished
+26.02 13:25:20 Scanning 118 point from 143
+26.02 13:25:20 Going to coordinates X=-12.690, Y=-38.169
+26.02 13:25:21 Moving is finished
+26.02 13:27:05 Scanning 119 point from 143
+26.02 13:27:05 Going to coordinates X=-12.590, Y=-38.169
+26.02 13:27:06 Moving is finished
+26.02 13:28:51 Scanning 120 point from 143
+26.02 13:28:51 Going to coordinates X=-12.490, Y=-38.169
+26.02 13:28:51 Moving is finished
+26.02 13:30:36 Scanning 121 point from 143
+26.02 13:30:36 Going to coordinates X=-13.490, Y=-38.069
+26.02 13:30:36 Moving is finished
+26.02 13:32:21 Scanning 122 point from 143
+26.02 13:32:21 Going to coordinates X=-13.390, Y=-38.069
+26.02 13:32:21 Moving is finished
+26.02 13:34:06 Scanning 123 point from 143
+26.02 13:34:06 Going to coordinates X=-13.290, Y=-38.069
+26.02 13:34:06 Moving is finished
+26.02 13:35:51 Scanning 124 point from 143
+26.02 13:35:51 Going to coordinates X=-13.190, Y=-38.069
+26.02 13:35:52 Moving is finished
+26.02 13:37:36 Scanning 125 point from 143
+26.02 13:37:36 Going to coordinates X=-13.090, Y=-38.069
+26.02 13:37:37 Moving is finished
+26.02 13:39:23 Scanning 126 point from 143
+26.02 13:39:23 Going to coordinates X=-12.990, Y=-38.069
+26.02 13:39:23 Moving is finished
+26.02 13:41:07 Scanning 127 point from 143
+26.02 13:41:07 Going to coordinates X=-12.890, Y=-38.069
+26.02 13:41:08 Moving is finished
+26.02 13:42:53 Scanning 128 point from 143
+26.02 13:42:53 Going to coordinates X=-12.790, Y=-38.069
+26.02 13:42:53 Moving is finished
+26.02 13:44:38 Scanning 129 point from 143
+26.02 13:44:38 Going to coordinates X=-12.690, Y=-38.069
+26.02 13:44:38 Moving is finished
+26.02 13:46:23 Scanning 130 point from 143
+26.02 13:46:23 Going to coordinates X=-12.590, Y=-38.069
+26.02 13:46:23 Moving is finished
+26.02 13:48:08 Scanning 131 point from 143
+26.02 13:48:08 Going to coordinates X=-12.490, Y=-38.069
+26.02 13:48:08 Moving is finished
+26.02 13:49:53 Scanning 132 point from 143
+26.02 13:49:53 Going to coordinates X=-13.490, Y=-37.969
+26.02 13:49:54 Moving is finished
+26.02 13:51:39 Scanning 133 point from 143
+26.02 13:51:39 Going to coordinates X=-13.390, Y=-37.969
+26.02 13:51:39 Moving is finished
+26.02 13:53:24 Scanning 134 point from 143
+26.02 13:53:24 Going to coordinates X=-13.290, Y=-37.969
+26.02 13:53:25 Moving is finished
+26.02 13:55:10 Scanning 135 point from 143
+26.02 13:55:10 Going to coordinates X=-13.190, Y=-37.969
+26.02 13:55:10 Moving is finished
+26.02 13:56:34 Stopped!

@@ -1,0 +1,53 @@
+11.07 19:15:50 Initializing grbl...
+11.07 19:15:51 Got the response: b''
+11.07 19:17:06 Row 0: 11.07 19:17:06 Map: x1: -14.0, y1: -39.795, x2: -15.933, y2: -37.877, xres: 0.060, yres: 0.060, fname: M3-07/11/19
+11.07 19:17:06 Scanning 0 point from 1122
+11.07 19:17:06 Going to coordinates X=-15.933, Y=-39.795
+11.07 19:17:07 Moving is finished
+11.07 19:18:11 Scanning 1 point from 1122
+11.07 19:18:11 Going to coordinates X=-15.873, Y=-39.795
+11.07 19:18:12 Moving is finished
+
+11.07 19:18:14 Scanning 2 point from 1122
+11.07 19:18:14 Going to coordinates X=-15.813, Y=-39.795
+11.07 19:18:14 Moving is finished
+
+11.07 19:18:16 Scanning 3 point from 1122
+11.07 19:18:16 Going to coordinates X=-15.753, Y=-39.795
+11.07 19:18:16 Moving is finished
+
+11.07 19:18:18 Scanning 4 point from 1122
+11.07 19:18:18 Going to coordinates X=-15.693, Y=-39.795
+11.07 19:18:19 Moving is finished
+
+11.07 19:18:21 Scanning 5 point from 1122
+11.07 19:18:21 Going to coordinates X=-15.633, Y=-39.795
+11.07 19:18:21 Moving is finished
+
+11.07 19:18:23 Scanning 6 point from 1122
+11.07 19:18:23 Going to coordinates X=-15.573, Y=-39.795
+11.07 19:18:23 Moving is finished
+
+11.07 19:18:25 Scanning 7 point from 1122
+11.07 19:18:25 Going to coordinates X=-15.513, Y=-39.795
+11.07 19:18:25 Moving is finished
+11.07 19:18:27 Stopped!
+11.07 19:19:39 Row 0: 11.07 19:19:39 Map: x1: -14.0, y1: -39.795, x2: -15.933, y2: -37.877, xres: 0.060, yres: 0.060, fname: M3-07/11/19
+11.07 19:19:39 Scanning 0 point from 1122
+11.07 19:19:39 Going to coordinates X=-15.933, Y=-39.795
+11.07 19:19:39 Moving is finished
+11.07 19:20:43 Scanning 1 point from 1122
+11.07 19:20:43 Going to coordinates X=-15.873, Y=-39.795
+11.07 19:20:43 Moving is finished
+
+11.07 19:20:45 Scanning 2 point from 1122
+11.07 19:20:45 Going to coordinates X=-15.813, Y=-39.795
+11.07 19:20:46 Moving is finished
+
+11.07 19:20:47 Scanning 3 point from 1122
+11.07 19:20:47 Going to coordinates X=-15.753, Y=-39.795
+11.07 19:20:48 Moving is finished
+
+11.07 19:20:50 Scanning 4 point from 1122
+11.07 19:20:50 Going to coordinates X=-15.693, Y=-39.795
+11.07 19:20:50 Moving is finished

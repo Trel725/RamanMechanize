@@ -1,0 +1,394 @@
+18.12 13:50:16 Initializing grbl...
+18.12 13:50:16 Got the response: b''
+18.12 13:52:24 Row 0: 18.12 13:52:24 Map: x1: -14.0, y1: -38.656, x2: -14.865, y2: -38.246, xres: 0.050, yres: 0.050, fname: Mart-gluc-Sol2 -B
+18.12 13:52:24 Scanning 0 point from 190
+18.12 13:52:24 Going to coordinates X=-14.865, Y=-38.656
+18.12 13:52:24 Moving is finished
+18.12 13:54:32 Scanning 1 point from 190
+18.12 13:54:32 Going to coordinates X=-14.815, Y=-38.656
+18.12 13:54:32 Moving is finished
+18.12 13:56:40 Scanning 2 point from 190
+18.12 13:56:40 Going to coordinates X=-14.765, Y=-38.656
+18.12 13:56:41 Moving is finished
+18.12 13:58:49 Scanning 3 point from 190
+18.12 13:58:49 Going to coordinates X=-14.715, Y=-38.656
+18.12 13:58:49 Moving is finished
+18.12 14:00:57 Scanning 4 point from 190
+18.12 14:00:57 Going to coordinates X=-14.665, Y=-38.656
+18.12 14:00:57 Moving is finished
+18.12 14:03:05 Scanning 5 point from 190
+18.12 14:03:05 Going to coordinates X=-14.615, Y=-38.656
+18.12 14:03:06 Moving is finished
+18.12 14:05:14 Scanning 6 point from 190
+18.12 14:05:14 Going to coordinates X=-14.565, Y=-38.656
+18.12 14:05:14 Moving is finished
+18.12 14:07:22 Scanning 7 point from 190
+18.12 14:07:22 Going to coordinates X=-14.515, Y=-38.656
+18.12 14:07:22 Moving is finished
+18.12 14:09:30 Scanning 8 point from 190
+18.12 14:09:30 Going to coordinates X=-14.465, Y=-38.656
+18.12 14:09:30 Moving is finished
+18.12 14:11:39 Scanning 9 point from 190
+18.12 14:11:39 Going to coordinates X=-14.415, Y=-38.656
+18.12 14:11:39 Moving is finished
+18.12 14:13:47 Scanning 10 point from 190
+18.12 14:13:47 Going to coordinates X=-14.365, Y=-38.656
+18.12 14:13:47 Moving is finished
+18.12 14:15:55 Scanning 11 point from 190
+18.12 14:15:55 Going to coordinates X=-14.315, Y=-38.656
+18.12 14:15:55 Moving is finished
+18.12 14:18:03 Scanning 12 point from 190
+18.12 14:18:03 Going to coordinates X=-14.265, Y=-38.656
+18.12 14:18:04 Moving is finished
+18.12 14:20:12 Scanning 13 point from 190
+18.12 14:20:12 Going to coordinates X=-14.215, Y=-38.656
+18.12 14:20:12 Moving is finished
+18.12 14:22:20 Scanning 14 point from 190
+18.12 14:22:20 Going to coordinates X=-14.165, Y=-38.656
+18.12 14:22:21 Moving is finished
+18.12 14:24:29 Scanning 15 point from 190
+18.12 14:24:29 Going to coordinates X=-14.115, Y=-38.656
+18.12 14:24:30 Moving is finished
+18.12 14:26:38 Scanning 16 point from 190
+18.12 14:26:38 Going to coordinates X=-14.065, Y=-38.656
+18.12 14:26:38 Moving is finished
+18.12 14:28:46 Scanning 17 point from 190
+18.12 14:28:46 Going to coordinates X=-14.015, Y=-38.656
+18.12 14:28:47 Moving is finished
+18.12 14:30:55 Scanning 18 point from 190
+18.12 14:30:55 Going to coordinates X=-13.965, Y=-38.656
+18.12 14:30:55 Moving is finished
+18.12 14:33:04 Scanning 19 point from 190
+18.12 14:33:04 Going to coordinates X=-14.865, Y=-38.606
+18.12 14:33:04 Moving is finished
+18.12 14:35:12 Scanning 20 point from 190
+18.12 14:35:12 Going to coordinates X=-14.815, Y=-38.606
+18.12 14:35:13 Moving is finished
+18.12 14:37:21 Scanning 21 point from 190
+18.12 14:37:21 Going to coordinates X=-14.765, Y=-38.606
+18.12 14:37:21 Moving is finished
+18.12 14:39:29 Scanning 22 point from 190
+18.12 14:39:29 Going to coordinates X=-14.715, Y=-38.606
+18.12 14:39:29 Moving is finished
+18.12 14:41:37 Scanning 23 point from 190
+18.12 14:41:37 Going to coordinates X=-14.665, Y=-38.606
+18.12 14:41:38 Moving is finished
+18.12 14:43:46 Scanning 24 point from 190
+18.12 14:43:46 Going to coordinates X=-14.615, Y=-38.606
+18.12 14:43:46 Moving is finished
+18.12 14:45:54 Scanning 25 point from 190
+18.12 14:45:54 Going to coordinates X=-14.565, Y=-38.606
+18.12 14:45:55 Moving is finished
+18.12 14:48:03 Scanning 26 point from 190
+18.12 14:48:03 Going to coordinates X=-14.515, Y=-38.606
+18.12 14:48:03 Moving is finished
+18.12 14:50:11 Scanning 27 point from 190
+18.12 14:50:11 Going to coordinates X=-14.465, Y=-38.606
+18.12 14:50:11 Moving is finished
+18.12 14:52:20 Scanning 28 point from 190
+18.12 14:52:20 Going to coordinates X=-14.415, Y=-38.606
+18.12 14:52:20 Moving is finished
+18.12 14:54:28 Scanning 29 point from 190
+18.12 14:54:28 Going to coordinates X=-14.365, Y=-38.606
+18.12 14:54:28 Moving is finished
+18.12 14:56:37 Scanning 30 point from 190
+18.12 14:56:37 Going to coordinates X=-14.315, Y=-38.606
+18.12 14:56:37 Moving is finished
+18.12 14:58:46 Scanning 31 point from 190
+18.12 14:58:46 Going to coordinates X=-14.265, Y=-38.606
+18.12 14:58:46 Moving is finished
+18.12 15:00:54 Scanning 32 point from 190
+18.12 15:00:54 Going to coordinates X=-14.215, Y=-38.606
+18.12 15:00:55 Moving is finished
+18.12 15:03:03 Scanning 33 point from 190
+18.12 15:03:03 Going to coordinates X=-14.165, Y=-38.606
+18.12 15:03:03 Moving is finished
+18.12 15:05:11 Scanning 34 point from 190
+18.12 15:05:11 Going to coordinates X=-14.115, Y=-38.606
+18.12 15:05:12 Moving is finished
+18.12 15:07:20 Scanning 35 point from 190
+18.12 15:07:20 Going to coordinates X=-14.065, Y=-38.606
+18.12 15:07:20 Moving is finished
+18.12 15:09:28 Scanning 36 point from 190
+18.12 15:09:28 Going to coordinates X=-14.015, Y=-38.606
+18.12 15:09:28 Moving is finished
+18.12 15:11:37 Scanning 37 point from 190
+18.12 15:11:37 Going to coordinates X=-13.965, Y=-38.606
+18.12 15:11:37 Moving is finished
+18.12 15:13:45 Scanning 38 point from 190
+18.12 15:13:45 Going to coordinates X=-14.865, Y=-38.556
+18.12 15:13:46 Moving is finished
+18.12 15:15:54 Scanning 39 point from 190
+18.12 15:15:54 Going to coordinates X=-14.815, Y=-38.556
+18.12 15:15:54 Moving is finished
+18.12 15:18:02 Scanning 40 point from 190
+18.12 15:18:02 Going to coordinates X=-14.765, Y=-38.556
+18.12 15:18:02 Moving is finished
+18.12 15:20:10 Scanning 41 point from 190
+18.12 15:20:10 Going to coordinates X=-14.715, Y=-38.556
+18.12 15:20:10 Moving is finished
+18.12 15:22:19 Scanning 42 point from 190
+18.12 15:22:19 Going to coordinates X=-14.665, Y=-38.556
+18.12 15:22:19 Moving is finished
+18.12 15:24:27 Scanning 43 point from 190
+18.12 15:24:27 Going to coordinates X=-14.615, Y=-38.556
+18.12 15:24:27 Moving is finished
+18.12 15:26:36 Scanning 44 point from 190
+18.12 15:26:36 Going to coordinates X=-14.565, Y=-38.556
+18.12 15:26:36 Moving is finished
+18.12 15:28:44 Scanning 45 point from 190
+18.12 15:28:44 Going to coordinates X=-14.515, Y=-38.556
+18.12 15:28:44 Moving is finished
+18.12 15:30:52 Scanning 46 point from 190
+18.12 15:30:52 Going to coordinates X=-14.465, Y=-38.556
+18.12 15:30:53 Moving is finished
+18.12 15:33:01 Scanning 47 point from 190
+18.12 15:33:01 Going to coordinates X=-14.415, Y=-38.556
+18.12 15:33:01 Moving is finished
+18.12 15:35:10 Scanning 48 point from 190
+18.12 15:35:10 Going to coordinates X=-14.365, Y=-38.556
+18.12 15:35:10 Moving is finished
+18.12 15:37:19 Scanning 49 point from 190
+18.12 15:37:19 Going to coordinates X=-14.315, Y=-38.556
+18.12 15:37:19 Moving is finished
+18.12 15:39:27 Scanning 50 point from 190
+18.12 15:39:27 Going to coordinates X=-14.265, Y=-38.556
+18.12 15:39:28 Moving is finished
+18.12 15:41:36 Scanning 51 point from 190
+18.12 15:41:36 Going to coordinates X=-14.215, Y=-38.556
+18.12 15:41:36 Moving is finished
+18.12 15:43:44 Scanning 52 point from 190
+18.12 15:43:44 Going to coordinates X=-14.165, Y=-38.556
+18.12 15:43:44 Moving is finished
+18.12 15:45:52 Scanning 53 point from 190
+18.12 15:45:52 Going to coordinates X=-14.115, Y=-38.556
+18.12 15:45:52 Moving is finished
+18.12 15:48:00 Scanning 54 point from 190
+18.12 15:48:00 Going to coordinates X=-14.065, Y=-38.556
+18.12 15:48:01 Moving is finished
+18.12 15:50:09 Scanning 55 point from 190
+18.12 15:50:09 Going to coordinates X=-14.015, Y=-38.556
+18.12 15:50:09 Moving is finished
+18.12 15:52:17 Scanning 56 point from 190
+18.12 15:52:17 Going to coordinates X=-13.965, Y=-38.556
+18.12 15:52:17 Moving is finished
+18.12 15:54:25 Scanning 57 point from 190
+18.12 15:54:25 Going to coordinates X=-14.865, Y=-38.506
+18.12 15:54:26 Moving is finished
+18.12 15:56:34 Scanning 58 point from 190
+18.12 15:56:34 Going to coordinates X=-14.815, Y=-38.506
+18.12 15:56:35 Moving is finished
+18.12 15:58:43 Scanning 59 point from 190
+18.12 15:58:43 Going to coordinates X=-14.765, Y=-38.506
+18.12 15:58:43 Moving is finished
+18.12 16:00:51 Scanning 60 point from 190
+18.12 16:00:51 Going to coordinates X=-14.715, Y=-38.506
+18.12 16:00:52 Moving is finished
+18.12 16:03:00 Scanning 61 point from 190
+18.12 16:03:00 Going to coordinates X=-14.665, Y=-38.506
+18.12 16:03:00 Moving is finished
+18.12 16:05:08 Scanning 62 point from 190
+18.12 16:05:08 Going to coordinates X=-14.615, Y=-38.506
+18.12 16:05:08 Moving is finished
+18.12 16:07:17 Scanning 63 point from 190
+18.12 16:07:17 Going to coordinates X=-14.565, Y=-38.506
+18.12 16:07:17 Moving is finished
+18.12 16:09:25 Scanning 64 point from 190
+18.12 16:09:25 Going to coordinates X=-14.515, Y=-38.506
+18.12 16:09:26 Moving is finished
+18.12 16:11:34 Scanning 65 point from 190
+18.12 16:11:34 Going to coordinates X=-14.465, Y=-38.506
+18.12 16:11:34 Moving is finished
+18.12 16:13:42 Scanning 66 point from 190
+18.12 16:13:42 Going to coordinates X=-14.415, Y=-38.506
+18.12 16:13:42 Moving is finished
+18.12 16:15:50 Scanning 67 point from 190
+18.12 16:15:50 Going to coordinates X=-14.365, Y=-38.506
+18.12 16:15:50 Moving is finished
+18.12 16:17:58 Scanning 68 point from 190
+18.12 16:17:58 Going to coordinates X=-14.315, Y=-38.506
+18.12 16:17:59 Moving is finished
+18.12 16:20:07 Scanning 69 point from 190
+18.12 16:20:07 Going to coordinates X=-14.265, Y=-38.506
+18.12 16:20:07 Moving is finished
+18.12 16:22:16 Scanning 70 point from 190
+18.12 16:22:16 Going to coordinates X=-14.215, Y=-38.506
+18.12 16:22:16 Moving is finished
+18.12 16:24:24 Scanning 71 point from 190
+18.12 16:24:24 Going to coordinates X=-14.165, Y=-38.506
+18.12 16:24:24 Moving is finished
+18.12 16:26:32 Scanning 72 point from 190
+18.12 16:26:32 Going to coordinates X=-14.115, Y=-38.506
+18.12 16:26:32 Moving is finished
+18.12 16:28:41 Scanning 73 point from 190
+18.12 16:28:41 Going to coordinates X=-14.065, Y=-38.506
+18.12 16:28:41 Moving is finished
+18.12 16:30:49 Scanning 74 point from 190
+18.12 16:30:49 Going to coordinates X=-14.015, Y=-38.506
+18.12 16:30:49 Moving is finished
+18.12 16:32:57 Scanning 75 point from 190
+18.12 16:32:57 Going to coordinates X=-13.965, Y=-38.506
+18.12 16:32:58 Moving is finished
+18.12 16:35:06 Scanning 76 point from 190
+18.12 16:35:06 Going to coordinates X=-14.865, Y=-38.456
+18.12 16:35:06 Moving is finished
+18.12 16:37:14 Scanning 77 point from 190
+18.12 16:37:14 Going to coordinates X=-14.815, Y=-38.456
+18.12 16:37:15 Moving is finished
+18.12 16:39:23 Scanning 78 point from 190
+18.12 16:39:23 Going to coordinates X=-14.765, Y=-38.456
+18.12 16:39:23 Moving is finished
+18.12 16:41:31 Scanning 79 point from 190
+18.12 16:41:31 Going to coordinates X=-14.715, Y=-38.456
+18.12 16:41:31 Moving is finished
+18.12 16:43:40 Scanning 80 point from 190
+18.12 16:43:40 Going to coordinates X=-14.665, Y=-38.456
+18.12 16:43:40 Moving is finished
+18.12 16:45:48 Scanning 81 point from 190
+18.12 16:45:48 Going to coordinates X=-14.615, Y=-38.456
+18.12 16:45:48 Moving is finished
+18.12 16:47:56 Scanning 82 point from 190
+18.12 16:47:56 Going to coordinates X=-14.565, Y=-38.456
+18.12 16:47:57 Moving is finished
+18.12 16:50:05 Scanning 83 point from 190
+18.12 16:50:05 Going to coordinates X=-14.515, Y=-38.456
+18.12 16:50:05 Moving is finished
+18.12 16:52:13 Scanning 84 point from 190
+18.12 16:52:13 Going to coordinates X=-14.465, Y=-38.456
+18.12 16:52:13 Moving is finished
+18.12 16:54:21 Scanning 85 point from 190
+18.12 16:54:21 Going to coordinates X=-14.415, Y=-38.456
+18.12 16:54:22 Moving is finished
+18.12 16:56:30 Scanning 86 point from 190
+18.12 16:56:30 Going to coordinates X=-14.365, Y=-38.456
+18.12 16:56:30 Moving is finished
+18.12 16:58:38 Scanning 87 point from 190
+18.12 16:58:38 Going to coordinates X=-14.315, Y=-38.456
+18.12 16:58:38 Moving is finished
+18.12 17:00:47 Scanning 88 point from 190
+18.12 17:00:47 Going to coordinates X=-14.265, Y=-38.456
+18.12 17:00:47 Moving is finished
+18.12 17:02:55 Scanning 89 point from 190
+18.12 17:02:55 Going to coordinates X=-14.215, Y=-38.456
+18.12 17:02:55 Moving is finished
+18.12 17:05:04 Scanning 90 point from 190
+18.12 17:05:04 Going to coordinates X=-14.165, Y=-38.456
+18.12 17:05:04 Moving is finished
+18.12 17:07:12 Scanning 91 point from 190
+18.12 17:07:12 Going to coordinates X=-14.115, Y=-38.456
+18.12 17:07:12 Moving is finished
+18.12 17:09:21 Scanning 92 point from 190
+18.12 17:09:21 Going to coordinates X=-14.065, Y=-38.456
+18.12 17:09:21 Moving is finished
+18.12 17:11:29 Scanning 93 point from 190
+18.12 17:11:29 Going to coordinates X=-14.015, Y=-38.456
+18.12 17:11:29 Moving is finished
+18.12 17:13:37 Scanning 94 point from 190
+18.12 17:13:37 Going to coordinates X=-13.965, Y=-38.456
+18.12 17:13:37 Moving is finished
+18.12 17:15:46 Scanning 95 point from 190
+18.12 17:15:46 Going to coordinates X=-14.865, Y=-38.406
+18.12 17:15:47 Moving is finished
+18.12 17:17:55 Scanning 96 point from 190
+18.12 17:17:55 Going to coordinates X=-14.815, Y=-38.406
+18.12 17:17:56 Moving is finished
+18.12 17:20:04 Scanning 97 point from 190
+18.12 17:20:04 Going to coordinates X=-14.765, Y=-38.406
+18.12 17:20:04 Moving is finished
+18.12 17:22:12 Scanning 98 point from 190
+18.12 17:22:12 Going to coordinates X=-14.715, Y=-38.406
+18.12 17:22:12 Moving is finished
+18.12 17:24:20 Scanning 99 point from 190
+18.12 17:24:20 Going to coordinates X=-14.665, Y=-38.406
+18.12 17:24:21 Moving is finished
+18.12 17:26:30 Scanning 100 point from 190
+18.12 17:26:30 Going to coordinates X=-14.615, Y=-38.406
+18.12 17:26:30 Moving is finished
+18.12 17:28:38 Scanning 101 point from 190
+18.12 17:28:38 Going to coordinates X=-14.565, Y=-38.406
+18.12 17:28:38 Moving is finished
+18.12 17:30:46 Scanning 102 point from 190
+18.12 17:30:46 Going to coordinates X=-14.515, Y=-38.406
+18.12 17:30:46 Moving is finished
+18.12 17:32:54 Scanning 103 point from 190
+18.12 17:32:54 Going to coordinates X=-14.465, Y=-38.406
+18.12 17:32:55 Moving is finished
+18.12 17:35:04 Scanning 104 point from 190
+18.12 17:35:04 Going to coordinates X=-14.415, Y=-38.406
+18.12 17:35:04 Moving is finished
+18.12 17:37:12 Scanning 105 point from 190
+18.12 17:37:12 Going to coordinates X=-14.365, Y=-38.406
+18.12 17:37:12 Moving is finished
+18.12 17:39:21 Scanning 106 point from 190
+18.12 17:39:21 Going to coordinates X=-14.315, Y=-38.406
+18.12 17:39:21 Moving is finished
+18.12 17:41:30 Scanning 107 point from 190
+18.12 17:41:30 Going to coordinates X=-14.265, Y=-38.406
+18.12 17:41:30 Moving is finished
+18.12 17:43:38 Scanning 108 point from 190
+18.12 17:43:38 Going to coordinates X=-14.215, Y=-38.406
+18.12 17:43:38 Moving is finished
+18.12 17:45:46 Scanning 109 point from 190
+18.12 17:45:46 Going to coordinates X=-14.165, Y=-38.406
+18.12 17:45:46 Moving is finished
+18.12 17:47:54 Scanning 110 point from 190
+18.12 17:47:54 Going to coordinates X=-14.115, Y=-38.406
+18.12 17:47:55 Moving is finished
+18.12 17:50:03 Scanning 111 point from 190
+18.12 17:50:03 Going to coordinates X=-14.065, Y=-38.406
+18.12 17:50:03 Moving is finished
+18.12 17:52:11 Scanning 112 point from 190
+18.12 17:52:11 Going to coordinates X=-14.015, Y=-38.406
+18.12 17:52:12 Moving is finished
+18.12 17:54:20 Scanning 113 point from 190
+18.12 17:54:20 Going to coordinates X=-13.965, Y=-38.406
+18.12 17:54:20 Moving is finished
+18.12 17:56:28 Scanning 114 point from 190
+18.12 17:56:28 Going to coordinates X=-14.865, Y=-38.356
+18.12 17:56:29 Moving is finished
+18.12 17:58:37 Scanning 115 point from 190
+18.12 17:58:37 Going to coordinates X=-14.815, Y=-38.356
+18.12 17:58:37 Moving is finished
+18.12 18:00:45 Scanning 116 point from 190
+18.12 18:00:45 Going to coordinates X=-14.765, Y=-38.356
+18.12 18:00:46 Moving is finished
+18.12 18:02:54 Scanning 117 point from 190
+18.12 18:02:54 Going to coordinates X=-14.715, Y=-38.356
+18.12 18:02:54 Moving is finished
+18.12 18:05:02 Scanning 118 point from 190
+18.12 18:05:02 Going to coordinates X=-14.665, Y=-38.356
+18.12 18:05:02 Moving is finished
+18.12 18:07:11 Scanning 119 point from 190
+18.12 18:07:11 Going to coordinates X=-14.615, Y=-38.356
+18.12 18:07:11 Moving is finished
+18.12 18:09:19 Scanning 120 point from 190
+18.12 18:09:19 Going to coordinates X=-14.565, Y=-38.356
+18.12 18:09:19 Moving is finished
+18.12 18:11:27 Scanning 121 point from 190
+18.12 18:11:27 Going to coordinates X=-14.515, Y=-38.356
+18.12 18:11:27 Moving is finished
+18.12 18:13:35 Scanning 122 point from 190
+18.12 18:13:35 Going to coordinates X=-14.465, Y=-38.356
+18.12 18:13:36 Moving is finished
+18.12 18:15:44 Scanning 123 point from 190
+18.12 18:15:44 Going to coordinates X=-14.415, Y=-38.356
+18.12 18:15:45 Moving is finished
+18.12 18:17:53 Scanning 124 point from 190
+18.12 18:17:53 Going to coordinates X=-14.365, Y=-38.356
+18.12 18:17:53 Moving is finished
+18.12 18:20:01 Scanning 125 point from 190
+18.12 18:20:01 Going to coordinates X=-14.315, Y=-38.356
+18.12 18:20:02 Moving is finished
+18.12 18:22:11 Scanning 126 point from 190
+18.12 18:22:11 Going to coordinates X=-14.265, Y=-38.356
+18.12 18:22:11 Moving is finished
+18.12 18:24:19 Scanning 127 point from 190
+18.12 18:24:19 Going to coordinates X=-14.215, Y=-38.356
+18.12 18:24:19 Moving is finished
+18.12 18:26:28 Scanning 128 point from 190
+18.12 18:26:28 Going to coordinates X=-14.165, Y=-38.356
+18.12 18:26:28 Moving is finished
+18.12 18:28:36 Scanning 129 point from 190
+18.12 18:28:36 Going to coordinates X=-14.115, Y=-38.356
+18.12 18:28:36 Moving is finished
+18.12 18:28:50 Stopped!

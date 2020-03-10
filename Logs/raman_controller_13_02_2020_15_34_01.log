@@ -1,0 +1,142 @@
+13.02 15:34:03 Initializing grbl...
+13.02 15:34:04 Got the response: b''
+13.02 15:34:36 Focused at  1
+13.02 16:18:22 Row 0: 13.02 16:18:22 Map: x1: -7.288, y1: -33.426, x2: -11.601, y2: -42.903, xres: 0.100, yres: 0.100, fname: uday_Spnges_C8F17_Dip
+13.02 16:18:22 Scanning 0 point from 4320
+13.02 16:18:22 Going to coordinates X=-11.601, Y=-42.903
+13.02 16:18:22 Moving is finished
+13.02 16:19:59 Scanning 1 point from 4320
+13.02 16:19:59 Going to coordinates X=-11.501, Y=-42.903
+13.02 16:19:59 Moving is finished
+13.02 16:21:37 Scanning 2 point from 4320
+13.02 16:21:37 Going to coordinates X=-11.401, Y=-42.903
+13.02 16:21:38 Moving is finished
+13.02 16:23:15 Scanning 3 point from 4320
+13.02 16:23:15 Going to coordinates X=-11.301, Y=-42.903
+13.02 16:23:15 Moving is finished
+13.02 16:24:52 Scanning 4 point from 4320
+13.02 16:24:52 Going to coordinates X=-11.201, Y=-42.903
+13.02 16:24:52 Moving is finished
+13.02 16:26:30 Scanning 5 point from 4320
+13.02 16:26:30 Going to coordinates X=-11.101, Y=-42.903
+13.02 16:26:30 Moving is finished
+13.02 16:28:07 Scanning 6 point from 4320
+13.02 16:28:07 Going to coordinates X=-11.001, Y=-42.903
+13.02 16:28:08 Moving is finished
+13.02 16:29:45 Scanning 7 point from 4320
+13.02 16:29:45 Going to coordinates X=-10.901, Y=-42.903
+13.02 16:29:46 Moving is finished
+13.02 16:31:23 Scanning 8 point from 4320
+13.02 16:31:23 Going to coordinates X=-10.801, Y=-42.903
+13.02 16:31:24 Moving is finished
+13.02 16:33:01 Scanning 9 point from 4320
+13.02 16:33:01 Going to coordinates X=-10.701, Y=-42.903
+13.02 16:33:01 Moving is finished
+13.02 16:34:39 Scanning 10 point from 4320
+13.02 16:34:39 Going to coordinates X=-10.601, Y=-42.903
+13.02 16:34:39 Moving is finished
+13.02 16:36:17 Scanning 11 point from 4320
+13.02 16:36:17 Going to coordinates X=-10.501, Y=-42.903
+13.02 16:36:17 Moving is finished
+13.02 16:37:54 Scanning 12 point from 4320
+13.02 16:37:54 Going to coordinates X=-10.401, Y=-42.903
+13.02 16:37:54 Moving is finished
+13.02 16:39:31 Scanning 13 point from 4320
+13.02 16:39:31 Going to coordinates X=-10.301, Y=-42.903
+13.02 16:39:32 Moving is finished
+13.02 16:41:09 Scanning 14 point from 4320
+13.02 16:41:09 Going to coordinates X=-10.201, Y=-42.903
+13.02 16:41:09 Moving is finished
+13.02 16:42:47 Scanning 15 point from 4320
+13.02 16:42:47 Going to coordinates X=-10.101, Y=-42.903
+13.02 16:42:48 Moving is finished
+13.02 16:44:25 Scanning 16 point from 4320
+13.02 16:44:25 Going to coordinates X=-10.001, Y=-42.903
+13.02 16:44:25 Moving is finished
+13.02 16:46:03 Scanning 17 point from 4320
+13.02 16:46:03 Going to coordinates X=-9.901, Y=-42.903
+13.02 16:46:03 Moving is finished
+13.02 16:47:40 Scanning 18 point from 4320
+13.02 16:47:40 Going to coordinates X=-9.801, Y=-42.903
+13.02 16:47:40 Moving is finished
+13.02 16:49:17 Scanning 19 point from 4320
+13.02 16:49:17 Going to coordinates X=-9.701, Y=-42.903
+13.02 16:49:18 Moving is finished
+13.02 16:50:55 Scanning 20 point from 4320
+13.02 16:50:55 Going to coordinates X=-9.601, Y=-42.903
+13.02 16:50:55 Moving is finished
+13.02 16:52:32 Scanning 21 point from 4320
+13.02 16:52:32 Going to coordinates X=-9.501, Y=-42.903
+13.02 16:52:33 Moving is finished
+13.02 16:54:10 Scanning 22 point from 4320
+13.02 16:54:10 Going to coordinates X=-9.401, Y=-42.903
+13.02 16:54:10 Moving is finished
+13.02 16:55:47 Scanning 23 point from 4320
+13.02 16:55:47 Going to coordinates X=-9.301, Y=-42.903
+13.02 16:55:47 Moving is finished
+13.02 16:57:25 Scanning 24 point from 4320
+13.02 16:57:25 Going to coordinates X=-9.201, Y=-42.903
+13.02 16:57:25 Moving is finished
+13.02 16:59:02 Scanning 25 point from 4320
+13.02 16:59:02 Going to coordinates X=-9.101, Y=-42.903
+13.02 16:59:03 Moving is finished
+13.02 17:00:40 Scanning 26 point from 4320
+13.02 17:00:40 Going to coordinates X=-9.001, Y=-42.903
+13.02 17:00:40 Moving is finished
+13.02 17:02:17 Scanning 27 point from 4320
+13.02 17:02:17 Going to coordinates X=-8.901, Y=-42.903
+13.02 17:02:18 Moving is finished
+13.02 17:03:55 Scanning 28 point from 4320
+13.02 17:03:55 Going to coordinates X=-8.801, Y=-42.903
+13.02 17:03:55 Moving is finished
+13.02 17:05:32 Scanning 29 point from 4320
+13.02 17:05:32 Going to coordinates X=-8.701, Y=-42.903
+13.02 17:05:32 Moving is finished
+13.02 17:05:35 Stopped!
+13.02 17:05:40 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+13.02 17:06:09 Row 0: 13.02 17:06:09 Map: x1: -7.288, y1: -33.426, x2: -11.601, y2: -42.903, xres: 0.100, yres: 0.100, fname: uday_Spnges_C8F17_Dip
+13.02 17:06:09 Scanning 0 point from 4320
+13.02 17:06:09 Going to coordinates X=-11.601, Y=-42.903
+13.02 17:06:10 Moving is finished
+13.02 17:06:16 Scanning 1 point from 4320
+13.02 17:06:16 Paused
+13.02 17:06:21 Focused at  14
+13.02 17:06:35 Going to coordinates X=-11.501, Y=-42.903
+13.02 17:06:35 Moving is finished
+13.02 17:08:12 Scanning 2 point from 4320
+13.02 17:08:12 Going to coordinates X=-11.401, Y=-42.903
+13.02 17:08:13 Moving is finished
+13.02 17:09:50 Scanning 3 point from 4320
+13.02 17:09:50 Going to coordinates X=-11.301, Y=-42.903
+13.02 17:09:50 Moving is finished
+13.02 17:11:28 Scanning 4 point from 4320
+13.02 17:11:28 Going to coordinates X=-11.201, Y=-42.903
+13.02 17:11:28 Moving is finished
+13.02 17:13:06 Scanning 5 point from 4320
+13.02 17:13:06 Going to coordinates X=-11.101, Y=-42.903
+13.02 17:13:06 Moving is finished
+13.02 17:14:44 Scanning 6 point from 4320
+13.02 17:14:44 Going to coordinates X=-11.001, Y=-42.903
+13.02 17:14:44 Moving is finished
+13.02 17:16:21 Scanning 7 point from 4320
+13.02 17:16:21 Going to coordinates X=-10.901, Y=-42.903
+13.02 17:16:22 Moving is finished
+13.02 17:17:59 Scanning 8 point from 4320
+13.02 17:17:59 Going to coordinates X=-10.801, Y=-42.903
+13.02 17:17:59 Moving is finished
+13.02 17:19:37 Scanning 9 point from 4320
+13.02 17:19:37 Going to coordinates X=-10.701, Y=-42.903
+13.02 17:19:37 Moving is finished
+13.02 17:21:15 Scanning 10 point from 4320
+13.02 17:21:15 Going to coordinates X=-10.601, Y=-42.903
+13.02 17:21:15 Moving is finished
+13.02 17:22:53 Scanning 11 point from 4320
+13.02 17:22:53 Going to coordinates X=-10.501, Y=-42.903
+13.02 17:22:53 Moving is finished
+13.02 17:24:30 Scanning 12 point from 4320
+13.02 17:24:30 Going to coordinates X=-10.401, Y=-42.903
+13.02 17:24:31 Moving is finished
+13.02 17:26:08 Scanning 13 point from 4320
+13.02 17:26:08 Going to coordinates X=-10.301, Y=-42.903
+13.02 17:26:08 Moving is finished
+13.02 17:26:55 Stopped!

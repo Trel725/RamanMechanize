@@ -1,0 +1,1679 @@
+30.07 19:20:34 Initializing grbl...
+30.07 19:20:34 Got the response: b''
+30.07 19:23:00 Row 0: 30.07 19:23:00 Map: x1: -13.173, y1: -38.0, x2: -14.731, y2: -39.805, xres: 0.050, yres: 0.050, fname: blmbezCOOH
+30.07 19:23:00 Scanning 0 point from 1254
+30.07 19:23:00 Going to coordinates X=-14.731, Y=-39.805
+30.07 19:23:00 Moving is finished
+30.07 19:24:37 Scanning 1 point from 1254
+30.07 19:24:37 Going to coordinates X=-14.681, Y=-39.805
+30.07 19:24:38 Moving is finished
+30.07 19:26:15 Scanning 2 point from 1254
+30.07 19:26:15 Going to coordinates X=-14.631, Y=-39.805
+30.07 19:26:15 Moving is finished
+30.07 19:27:52 Scanning 3 point from 1254
+30.07 19:27:52 Going to coordinates X=-14.581, Y=-39.805
+30.07 19:27:53 Moving is finished
+30.07 19:29:30 Scanning 4 point from 1254
+30.07 19:29:30 Going to coordinates X=-14.531, Y=-39.805
+30.07 19:29:30 Moving is finished
+30.07 19:31:07 Scanning 5 point from 1254
+30.07 19:31:07 Going to coordinates X=-14.481, Y=-39.805
+30.07 19:31:08 Moving is finished
+30.07 19:32:45 Scanning 6 point from 1254
+30.07 19:32:45 Going to coordinates X=-14.431, Y=-39.805
+30.07 19:32:45 Moving is finished
+30.07 19:34:22 Scanning 7 point from 1254
+30.07 19:34:22 Going to coordinates X=-14.381, Y=-39.805
+30.07 19:34:22 Moving is finished
+30.07 19:36:00 Scanning 8 point from 1254
+30.07 19:36:00 Going to coordinates X=-14.331, Y=-39.805
+30.07 19:36:00 Moving is finished
+30.07 19:37:37 Scanning 9 point from 1254
+30.07 19:37:37 Going to coordinates X=-14.281, Y=-39.805
+30.07 19:37:37 Moving is finished
+30.07 19:39:14 Scanning 10 point from 1254
+30.07 19:39:14 Going to coordinates X=-14.231, Y=-39.805
+30.07 19:39:14 Moving is finished
+30.07 19:40:52 Scanning 11 point from 1254
+30.07 19:40:52 Going to coordinates X=-14.181, Y=-39.805
+30.07 19:40:52 Moving is finished
+30.07 19:42:29 Scanning 12 point from 1254
+30.07 19:42:29 Going to coordinates X=-14.131, Y=-39.805
+30.07 19:42:29 Moving is finished
+30.07 19:44:06 Scanning 13 point from 1254
+30.07 19:44:06 Going to coordinates X=-14.081, Y=-39.805
+30.07 19:44:06 Moving is finished
+30.07 19:45:43 Scanning 14 point from 1254
+30.07 19:45:43 Going to coordinates X=-14.031, Y=-39.805
+30.07 19:45:43 Moving is finished
+30.07 19:47:21 Scanning 15 point from 1254
+30.07 19:47:21 Going to coordinates X=-13.981, Y=-39.805
+30.07 19:47:21 Moving is finished
+30.07 19:48:58 Scanning 16 point from 1254
+30.07 19:48:58 Going to coordinates X=-13.931, Y=-39.805
+30.07 19:48:58 Moving is finished
+30.07 19:50:35 Scanning 17 point from 1254
+30.07 19:50:35 Going to coordinates X=-13.881, Y=-39.805
+30.07 19:50:36 Moving is finished
+30.07 19:52:13 Scanning 18 point from 1254
+30.07 19:52:13 Going to coordinates X=-13.831, Y=-39.805
+30.07 19:52:13 Moving is finished
+30.07 19:53:50 Scanning 19 point from 1254
+30.07 19:53:50 Going to coordinates X=-13.781, Y=-39.805
+30.07 19:53:50 Moving is finished
+30.07 19:55:28 Scanning 20 point from 1254
+30.07 19:55:28 Going to coordinates X=-13.731, Y=-39.805
+30.07 19:55:28 Moving is finished
+30.07 19:57:05 Scanning 21 point from 1254
+30.07 19:57:05 Going to coordinates X=-13.681, Y=-39.805
+30.07 19:57:05 Moving is finished
+30.07 19:58:42 Scanning 22 point from 1254
+30.07 19:58:42 Going to coordinates X=-13.631, Y=-39.805
+30.07 19:58:43 Moving is finished
+30.07 20:00:20 Scanning 23 point from 1254
+30.07 20:00:20 Going to coordinates X=-13.581, Y=-39.805
+30.07 20:00:20 Moving is finished
+30.07 20:01:57 Scanning 24 point from 1254
+30.07 20:01:57 Going to coordinates X=-13.531, Y=-39.805
+30.07 20:01:57 Moving is finished
+30.07 20:03:35 Scanning 25 point from 1254
+30.07 20:03:35 Going to coordinates X=-13.481, Y=-39.805
+30.07 20:03:35 Moving is finished
+30.07 20:05:12 Scanning 26 point from 1254
+30.07 20:05:12 Going to coordinates X=-13.431, Y=-39.805
+30.07 20:05:12 Moving is finished
+30.07 20:06:49 Scanning 27 point from 1254
+30.07 20:06:49 Going to coordinates X=-13.381, Y=-39.805
+30.07 20:06:49 Moving is finished
+30.07 20:08:26 Scanning 28 point from 1254
+30.07 20:08:26 Going to coordinates X=-13.331, Y=-39.805
+30.07 20:08:27 Moving is finished
+30.07 20:10:04 Scanning 29 point from 1254
+30.07 20:10:04 Going to coordinates X=-13.281, Y=-39.805
+30.07 20:10:04 Moving is finished
+30.07 20:11:41 Scanning 30 point from 1254
+30.07 20:11:41 Going to coordinates X=-13.231, Y=-39.805
+30.07 20:11:41 Moving is finished
+30.07 20:13:18 Scanning 31 point from 1254
+30.07 20:13:18 Going to coordinates X=-13.181, Y=-39.805
+30.07 20:13:19 Moving is finished
+30.07 20:14:56 Scanning 32 point from 1254
+30.07 20:14:56 Going to coordinates X=-13.131, Y=-39.805
+30.07 20:14:56 Moving is finished
+30.07 20:16:33 Scanning 33 point from 1254
+30.07 20:16:33 Going to coordinates X=-14.731, Y=-39.755
+30.07 20:16:34 Moving is finished
+30.07 20:18:11 Scanning 34 point from 1254
+30.07 20:18:11 Going to coordinates X=-14.681, Y=-39.755
+30.07 20:18:11 Moving is finished
+30.07 20:19:48 Scanning 35 point from 1254
+30.07 20:19:48 Going to coordinates X=-14.631, Y=-39.755
+30.07 20:19:49 Moving is finished
+30.07 20:21:26 Scanning 36 point from 1254
+30.07 20:21:26 Going to coordinates X=-14.581, Y=-39.755
+30.07 20:21:26 Moving is finished
+30.07 20:23:03 Scanning 37 point from 1254
+30.07 20:23:03 Going to coordinates X=-14.531, Y=-39.755
+30.07 20:23:03 Moving is finished
+30.07 20:24:40 Scanning 38 point from 1254
+30.07 20:24:40 Going to coordinates X=-14.481, Y=-39.755
+30.07 20:24:40 Moving is finished
+30.07 20:26:17 Scanning 39 point from 1254
+30.07 20:26:17 Going to coordinates X=-14.431, Y=-39.755
+30.07 20:26:18 Moving is finished
+30.07 20:27:55 Scanning 40 point from 1254
+30.07 20:27:55 Going to coordinates X=-14.381, Y=-39.755
+30.07 20:27:55 Moving is finished
+30.07 20:29:32 Scanning 41 point from 1254
+30.07 20:29:32 Going to coordinates X=-14.331, Y=-39.755
+30.07 20:29:32 Moving is finished
+30.07 20:31:10 Scanning 42 point from 1254
+30.07 20:31:10 Going to coordinates X=-14.281, Y=-39.755
+30.07 20:31:10 Moving is finished
+30.07 20:32:47 Scanning 43 point from 1254
+30.07 20:32:47 Going to coordinates X=-14.231, Y=-39.755
+30.07 20:32:47 Moving is finished
+30.07 20:34:24 Scanning 44 point from 1254
+30.07 20:34:24 Going to coordinates X=-14.181, Y=-39.755
+30.07 20:34:24 Moving is finished
+30.07 20:36:01 Scanning 45 point from 1254
+30.07 20:36:01 Going to coordinates X=-14.131, Y=-39.755
+30.07 20:36:02 Moving is finished
+30.07 20:37:39 Scanning 46 point from 1254
+30.07 20:37:39 Going to coordinates X=-14.081, Y=-39.755
+30.07 20:37:39 Moving is finished
+30.07 20:39:16 Scanning 47 point from 1254
+30.07 20:39:16 Going to coordinates X=-14.031, Y=-39.755
+30.07 20:39:17 Moving is finished
+30.07 20:40:53 Scanning 48 point from 1254
+30.07 20:40:53 Going to coordinates X=-13.981, Y=-39.755
+30.07 20:40:54 Moving is finished
+30.07 20:42:31 Scanning 49 point from 1254
+30.07 20:42:31 Going to coordinates X=-13.931, Y=-39.755
+30.07 20:42:31 Moving is finished
+30.07 20:44:08 Scanning 50 point from 1254
+30.07 20:44:08 Going to coordinates X=-13.881, Y=-39.755
+30.07 20:44:09 Moving is finished
+30.07 20:45:46 Scanning 51 point from 1254
+30.07 20:45:46 Going to coordinates X=-13.831, Y=-39.755
+30.07 20:45:46 Moving is finished
+30.07 20:47:24 Scanning 52 point from 1254
+30.07 20:47:24 Going to coordinates X=-13.781, Y=-39.755
+30.07 20:47:24 Moving is finished
+30.07 20:49:01 Scanning 53 point from 1254
+30.07 20:49:01 Going to coordinates X=-13.731, Y=-39.755
+30.07 20:49:01 Moving is finished
+30.07 20:50:39 Scanning 54 point from 1254
+30.07 20:50:39 Going to coordinates X=-13.681, Y=-39.755
+30.07 20:50:39 Moving is finished
+30.07 20:52:16 Scanning 55 point from 1254
+30.07 20:52:16 Going to coordinates X=-13.631, Y=-39.755
+30.07 20:52:16 Moving is finished
+30.07 20:53:53 Scanning 56 point from 1254
+30.07 20:53:53 Going to coordinates X=-13.581, Y=-39.755
+30.07 20:53:54 Moving is finished
+30.07 20:55:31 Scanning 57 point from 1254
+30.07 20:55:31 Going to coordinates X=-13.531, Y=-39.755
+30.07 20:55:31 Moving is finished
+30.07 20:57:09 Scanning 58 point from 1254
+30.07 20:57:09 Going to coordinates X=-13.481, Y=-39.755
+30.07 20:57:09 Moving is finished
+30.07 20:58:46 Scanning 59 point from 1254
+30.07 20:58:46 Going to coordinates X=-13.431, Y=-39.755
+30.07 20:58:47 Moving is finished
+30.07 21:00:24 Scanning 60 point from 1254
+30.07 21:00:24 Going to coordinates X=-13.381, Y=-39.755
+30.07 21:00:24 Moving is finished
+30.07 21:02:02 Scanning 61 point from 1254
+30.07 21:02:02 Going to coordinates X=-13.331, Y=-39.755
+30.07 21:02:02 Moving is finished
+30.07 21:03:39 Scanning 62 point from 1254
+30.07 21:03:39 Going to coordinates X=-13.281, Y=-39.755
+30.07 21:03:40 Moving is finished
+30.07 21:05:17 Scanning 63 point from 1254
+30.07 21:05:17 Going to coordinates X=-13.231, Y=-39.755
+30.07 21:05:17 Moving is finished
+30.07 21:06:54 Scanning 64 point from 1254
+30.07 21:06:54 Going to coordinates X=-13.181, Y=-39.755
+30.07 21:06:54 Moving is finished
+30.07 21:08:31 Scanning 65 point from 1254
+30.07 21:08:31 Going to coordinates X=-13.131, Y=-39.755
+30.07 21:08:31 Moving is finished
+30.07 21:10:09 Scanning 66 point from 1254
+30.07 21:10:09 Going to coordinates X=-14.731, Y=-39.705
+30.07 21:10:10 Moving is finished
+30.07 21:11:47 Scanning 67 point from 1254
+30.07 21:11:47 Going to coordinates X=-14.681, Y=-39.705
+30.07 21:11:47 Moving is finished
+30.07 21:13:24 Scanning 68 point from 1254
+30.07 21:13:24 Going to coordinates X=-14.631, Y=-39.705
+30.07 21:13:25 Moving is finished
+30.07 21:15:02 Scanning 69 point from 1254
+30.07 21:15:02 Going to coordinates X=-14.581, Y=-39.705
+30.07 21:15:02 Moving is finished
+30.07 21:16:39 Scanning 70 point from 1254
+30.07 21:16:39 Going to coordinates X=-14.531, Y=-39.705
+30.07 21:16:39 Moving is finished
+30.07 21:18:17 Scanning 71 point from 1254
+30.07 21:18:17 Going to coordinates X=-14.481, Y=-39.705
+30.07 21:18:17 Moving is finished
+30.07 21:19:54 Scanning 72 point from 1254
+30.07 21:19:54 Going to coordinates X=-14.431, Y=-39.705
+30.07 21:19:55 Moving is finished
+30.07 21:21:32 Scanning 73 point from 1254
+30.07 21:21:32 Going to coordinates X=-14.381, Y=-39.705
+30.07 21:21:32 Moving is finished
+30.07 21:23:09 Scanning 74 point from 1254
+30.07 21:23:09 Going to coordinates X=-14.331, Y=-39.705
+30.07 21:23:09 Moving is finished
+30.07 21:24:46 Scanning 75 point from 1254
+30.07 21:24:46 Going to coordinates X=-14.281, Y=-39.705
+30.07 21:24:46 Moving is finished
+30.07 21:26:23 Scanning 76 point from 1254
+30.07 21:26:23 Going to coordinates X=-14.231, Y=-39.705
+30.07 21:26:23 Moving is finished
+30.07 21:28:00 Scanning 77 point from 1254
+30.07 21:28:00 Going to coordinates X=-14.181, Y=-39.705
+30.07 21:28:01 Moving is finished
+30.07 21:29:38 Scanning 78 point from 1254
+30.07 21:29:38 Going to coordinates X=-14.131, Y=-39.705
+30.07 21:29:38 Moving is finished
+30.07 21:31:16 Scanning 79 point from 1254
+30.07 21:31:16 Going to coordinates X=-14.081, Y=-39.705
+30.07 21:31:16 Moving is finished
+30.07 21:32:53 Scanning 80 point from 1254
+30.07 21:32:53 Going to coordinates X=-14.031, Y=-39.705
+30.07 21:32:53 Moving is finished
+30.07 21:34:30 Scanning 81 point from 1254
+30.07 21:34:30 Going to coordinates X=-13.981, Y=-39.705
+30.07 21:34:30 Moving is finished
+30.07 21:36:08 Scanning 82 point from 1254
+30.07 21:36:08 Going to coordinates X=-13.931, Y=-39.705
+30.07 21:36:08 Moving is finished
+30.07 21:37:45 Scanning 83 point from 1254
+30.07 21:37:45 Going to coordinates X=-13.881, Y=-39.705
+30.07 21:37:46 Moving is finished
+30.07 21:39:23 Scanning 84 point from 1254
+30.07 21:39:23 Going to coordinates X=-13.831, Y=-39.705
+30.07 21:39:23 Moving is finished
+30.07 21:41:01 Scanning 85 point from 1254
+30.07 21:41:01 Going to coordinates X=-13.781, Y=-39.705
+30.07 21:41:01 Moving is finished
+30.07 21:42:38 Scanning 86 point from 1254
+30.07 21:42:38 Going to coordinates X=-13.731, Y=-39.705
+30.07 21:42:38 Moving is finished
+30.07 21:44:15 Scanning 87 point from 1254
+30.07 21:44:15 Going to coordinates X=-13.681, Y=-39.705
+30.07 21:44:16 Moving is finished
+30.07 21:45:53 Scanning 88 point from 1254
+30.07 21:45:53 Going to coordinates X=-13.631, Y=-39.705
+30.07 21:45:53 Moving is finished
+30.07 21:47:30 Scanning 89 point from 1254
+30.07 21:47:30 Going to coordinates X=-13.581, Y=-39.705
+30.07 21:47:31 Moving is finished
+30.07 21:49:08 Scanning 90 point from 1254
+30.07 21:49:08 Going to coordinates X=-13.531, Y=-39.705
+30.07 21:49:08 Moving is finished
+30.07 21:50:45 Scanning 91 point from 1254
+30.07 21:50:45 Going to coordinates X=-13.481, Y=-39.705
+30.07 21:50:46 Moving is finished
+30.07 21:52:23 Scanning 92 point from 1254
+30.07 21:52:23 Going to coordinates X=-13.431, Y=-39.705
+30.07 21:52:23 Moving is finished
+30.07 21:54:00 Scanning 93 point from 1254
+30.07 21:54:00 Going to coordinates X=-13.381, Y=-39.705
+30.07 21:54:00 Moving is finished
+30.07 21:55:38 Scanning 94 point from 1254
+30.07 21:55:38 Going to coordinates X=-13.331, Y=-39.705
+30.07 21:55:38 Moving is finished
+30.07 21:57:15 Scanning 95 point from 1254
+30.07 21:57:15 Going to coordinates X=-13.281, Y=-39.705
+30.07 21:57:15 Moving is finished
+30.07 21:58:53 Scanning 96 point from 1254
+30.07 21:58:53 Going to coordinates X=-13.231, Y=-39.705
+30.07 21:58:53 Moving is finished
+30.07 22:00:31 Scanning 97 point from 1254
+30.07 22:00:31 Going to coordinates X=-13.181, Y=-39.705
+30.07 22:00:31 Moving is finished
+30.07 22:02:09 Scanning 98 point from 1254
+30.07 22:02:09 Going to coordinates X=-13.131, Y=-39.705
+30.07 22:02:09 Moving is finished
+30.07 22:03:46 Scanning 99 point from 1254
+30.07 22:03:46 Going to coordinates X=-14.731, Y=-39.655
+30.07 22:03:47 Moving is finished
+30.07 22:05:24 Scanning 100 point from 1254
+30.07 22:05:24 Going to coordinates X=-14.681, Y=-39.655
+30.07 22:05:25 Moving is finished
+30.07 22:07:02 Scanning 101 point from 1254
+30.07 22:07:02 Going to coordinates X=-14.631, Y=-39.655
+30.07 22:07:02 Moving is finished
+30.07 22:08:39 Scanning 102 point from 1254
+30.07 22:08:39 Going to coordinates X=-14.581, Y=-39.655
+30.07 22:08:39 Moving is finished
+30.07 22:10:17 Scanning 103 point from 1254
+30.07 22:10:17 Going to coordinates X=-14.531, Y=-39.655
+30.07 22:10:17 Moving is finished
+30.07 22:11:54 Scanning 104 point from 1254
+30.07 22:11:54 Going to coordinates X=-14.481, Y=-39.655
+30.07 22:11:55 Moving is finished
+30.07 22:13:32 Scanning 105 point from 1254
+30.07 22:13:32 Going to coordinates X=-14.431, Y=-39.655
+30.07 22:13:32 Moving is finished
+30.07 22:15:09 Scanning 106 point from 1254
+30.07 22:15:09 Going to coordinates X=-14.381, Y=-39.655
+30.07 22:15:10 Moving is finished
+30.07 22:16:46 Scanning 107 point from 1254
+30.07 22:16:46 Going to coordinates X=-14.331, Y=-39.655
+30.07 22:16:47 Moving is finished
+30.07 22:18:24 Scanning 108 point from 1254
+30.07 22:18:24 Going to coordinates X=-14.281, Y=-39.655
+30.07 22:18:24 Moving is finished
+30.07 22:20:02 Scanning 109 point from 1254
+30.07 22:20:02 Going to coordinates X=-14.231, Y=-39.655
+30.07 22:20:02 Moving is finished
+30.07 22:21:39 Scanning 110 point from 1254
+30.07 22:21:39 Going to coordinates X=-14.181, Y=-39.655
+30.07 22:21:39 Moving is finished
+30.07 22:23:16 Scanning 111 point from 1254
+30.07 22:23:16 Going to coordinates X=-14.131, Y=-39.655
+30.07 22:23:16 Moving is finished
+30.07 22:24:53 Scanning 112 point from 1254
+30.07 22:24:53 Going to coordinates X=-14.081, Y=-39.655
+30.07 22:24:53 Moving is finished
+30.07 22:26:30 Scanning 113 point from 1254
+30.07 22:26:30 Going to coordinates X=-14.031, Y=-39.655
+30.07 22:26:31 Moving is finished
+30.07 22:28:08 Scanning 114 point from 1254
+30.07 22:28:08 Going to coordinates X=-13.981, Y=-39.655
+30.07 22:28:08 Moving is finished
+30.07 22:29:45 Scanning 115 point from 1254
+30.07 22:29:45 Going to coordinates X=-13.931, Y=-39.655
+30.07 22:29:45 Moving is finished
+30.07 22:31:23 Scanning 116 point from 1254
+30.07 22:31:23 Going to coordinates X=-13.881, Y=-39.655
+30.07 22:31:23 Moving is finished
+30.07 22:33:00 Scanning 117 point from 1254
+30.07 22:33:00 Going to coordinates X=-13.831, Y=-39.655
+30.07 22:33:00 Moving is finished
+30.07 22:34:38 Scanning 118 point from 1254
+30.07 22:34:38 Going to coordinates X=-13.781, Y=-39.655
+30.07 22:34:38 Moving is finished
+30.07 22:36:15 Scanning 119 point from 1254
+30.07 22:36:15 Going to coordinates X=-13.731, Y=-39.655
+30.07 22:36:15 Moving is finished
+30.07 22:37:52 Scanning 120 point from 1254
+30.07 22:37:52 Going to coordinates X=-13.681, Y=-39.655
+30.07 22:37:52 Moving is finished
+30.07 22:39:29 Scanning 121 point from 1254
+30.07 22:39:29 Going to coordinates X=-13.631, Y=-39.655
+30.07 22:39:30 Moving is finished
+30.07 22:41:07 Scanning 122 point from 1254
+30.07 22:41:07 Going to coordinates X=-13.581, Y=-39.655
+30.07 22:41:07 Moving is finished
+30.07 22:42:45 Scanning 123 point from 1254
+30.07 22:42:45 Going to coordinates X=-13.531, Y=-39.655
+30.07 22:42:45 Moving is finished
+30.07 22:44:22 Scanning 124 point from 1254
+30.07 22:44:22 Going to coordinates X=-13.481, Y=-39.655
+30.07 22:44:22 Moving is finished
+30.07 22:45:59 Scanning 125 point from 1254
+30.07 22:45:59 Going to coordinates X=-13.431, Y=-39.655
+30.07 22:46:00 Moving is finished
+30.07 22:47:37 Scanning 126 point from 1254
+30.07 22:47:37 Going to coordinates X=-13.381, Y=-39.655
+30.07 22:47:37 Moving is finished
+30.07 22:49:14 Scanning 127 point from 1254
+30.07 22:49:14 Going to coordinates X=-13.331, Y=-39.655
+30.07 22:49:14 Moving is finished
+30.07 22:50:52 Scanning 128 point from 1254
+30.07 22:50:52 Going to coordinates X=-13.281, Y=-39.655
+30.07 22:50:52 Moving is finished
+30.07 22:52:29 Scanning 129 point from 1254
+30.07 22:52:29 Going to coordinates X=-13.231, Y=-39.655
+30.07 22:52:30 Moving is finished
+30.07 22:54:07 Scanning 130 point from 1254
+30.07 22:54:07 Going to coordinates X=-13.181, Y=-39.655
+30.07 22:54:07 Moving is finished
+30.07 22:55:45 Scanning 131 point from 1254
+30.07 22:55:45 Going to coordinates X=-13.131, Y=-39.655
+30.07 22:55:45 Moving is finished
+30.07 22:57:22 Scanning 132 point from 1254
+30.07 22:57:22 Going to coordinates X=-14.731, Y=-39.605
+30.07 22:57:23 Moving is finished
+30.07 22:59:00 Scanning 133 point from 1254
+30.07 22:59:00 Going to coordinates X=-14.681, Y=-39.605
+30.07 22:59:01 Moving is finished
+30.07 23:00:38 Scanning 134 point from 1254
+30.07 23:00:38 Going to coordinates X=-14.631, Y=-39.605
+30.07 23:00:38 Moving is finished
+30.07 23:02:15 Scanning 135 point from 1254
+30.07 23:02:15 Going to coordinates X=-14.581, Y=-39.605
+30.07 23:02:15 Moving is finished
+30.07 23:03:53 Scanning 136 point from 1254
+30.07 23:03:53 Going to coordinates X=-14.531, Y=-39.605
+30.07 23:03:53 Moving is finished
+30.07 23:05:30 Scanning 137 point from 1254
+30.07 23:05:30 Going to coordinates X=-14.481, Y=-39.605
+30.07 23:05:30 Moving is finished
+30.07 23:07:07 Scanning 138 point from 1254
+30.07 23:07:07 Going to coordinates X=-14.431, Y=-39.605
+30.07 23:07:08 Moving is finished
+30.07 23:08:45 Scanning 139 point from 1254
+30.07 23:08:45 Going to coordinates X=-14.381, Y=-39.605
+30.07 23:08:46 Moving is finished
+30.07 23:10:23 Scanning 140 point from 1254
+30.07 23:10:23 Going to coordinates X=-14.331, Y=-39.605
+30.07 23:10:23 Moving is finished
+30.07 23:12:00 Scanning 141 point from 1254
+30.07 23:12:00 Going to coordinates X=-14.281, Y=-39.605
+30.07 23:12:00 Moving is finished
+30.07 23:13:38 Scanning 142 point from 1254
+30.07 23:13:38 Going to coordinates X=-14.231, Y=-39.605
+30.07 23:13:38 Moving is finished
+30.07 23:15:15 Scanning 143 point from 1254
+30.07 23:15:15 Going to coordinates X=-14.181, Y=-39.605
+30.07 23:15:15 Moving is finished
+30.07 23:16:53 Scanning 144 point from 1254
+30.07 23:16:53 Going to coordinates X=-14.131, Y=-39.605
+30.07 23:16:53 Moving is finished
+30.07 23:18:30 Scanning 145 point from 1254
+30.07 23:18:30 Going to coordinates X=-14.081, Y=-39.605
+30.07 23:18:30 Moving is finished
+30.07 23:20:07 Scanning 146 point from 1254
+30.07 23:20:07 Going to coordinates X=-14.031, Y=-39.605
+30.07 23:20:07 Moving is finished
+30.07 23:21:45 Scanning 147 point from 1254
+30.07 23:21:45 Going to coordinates X=-13.981, Y=-39.605
+30.07 23:21:45 Moving is finished
+30.07 23:23:22 Scanning 148 point from 1254
+30.07 23:23:22 Going to coordinates X=-13.931, Y=-39.605
+30.07 23:23:22 Moving is finished
+30.07 23:24:59 Scanning 149 point from 1254
+30.07 23:24:59 Going to coordinates X=-13.881, Y=-39.605
+30.07 23:24:59 Moving is finished
+30.07 23:26:37 Scanning 150 point from 1254
+30.07 23:26:37 Going to coordinates X=-13.831, Y=-39.605
+30.07 23:26:37 Moving is finished
+30.07 23:28:14 Scanning 151 point from 1254
+30.07 23:28:14 Going to coordinates X=-13.781, Y=-39.605
+30.07 23:28:15 Moving is finished
+30.07 23:29:52 Scanning 152 point from 1254
+30.07 23:29:52 Going to coordinates X=-13.731, Y=-39.605
+30.07 23:29:52 Moving is finished
+30.07 23:31:29 Scanning 153 point from 1254
+30.07 23:31:29 Going to coordinates X=-13.681, Y=-39.605
+30.07 23:31:30 Moving is finished
+30.07 23:33:07 Scanning 154 point from 1254
+30.07 23:33:07 Going to coordinates X=-13.631, Y=-39.605
+30.07 23:33:07 Moving is finished
+30.07 23:34:45 Scanning 155 point from 1254
+30.07 23:34:45 Going to coordinates X=-13.581, Y=-39.605
+30.07 23:34:45 Moving is finished
+30.07 23:36:22 Scanning 156 point from 1254
+30.07 23:36:22 Going to coordinates X=-13.531, Y=-39.605
+30.07 23:36:22 Moving is finished
+30.07 23:37:59 Scanning 157 point from 1254
+30.07 23:37:59 Going to coordinates X=-13.481, Y=-39.605
+30.07 23:38:00 Moving is finished
+30.07 23:39:37 Scanning 158 point from 1254
+30.07 23:39:37 Going to coordinates X=-13.431, Y=-39.605
+30.07 23:39:38 Moving is finished
+30.07 23:41:14 Scanning 159 point from 1254
+30.07 23:41:14 Going to coordinates X=-13.381, Y=-39.605
+30.07 23:41:15 Moving is finished
+30.07 23:42:52 Scanning 160 point from 1254
+30.07 23:42:52 Going to coordinates X=-13.331, Y=-39.605
+30.07 23:42:53 Moving is finished
+30.07 23:44:30 Scanning 161 point from 1254
+30.07 23:44:30 Going to coordinates X=-13.281, Y=-39.605
+30.07 23:44:30 Moving is finished
+30.07 23:46:07 Scanning 162 point from 1254
+30.07 23:46:07 Going to coordinates X=-13.231, Y=-39.605
+30.07 23:46:07 Moving is finished
+30.07 23:47:44 Scanning 163 point from 1254
+30.07 23:47:44 Going to coordinates X=-13.181, Y=-39.605
+30.07 23:47:44 Moving is finished
+30.07 23:49:21 Scanning 164 point from 1254
+30.07 23:49:21 Going to coordinates X=-13.131, Y=-39.605
+30.07 23:49:21 Moving is finished
+30.07 23:50:59 Scanning 165 point from 1254
+30.07 23:50:59 Going to coordinates X=-14.731, Y=-39.555
+30.07 23:51:00 Moving is finished
+30.07 23:52:37 Scanning 166 point from 1254
+30.07 23:52:37 Going to coordinates X=-14.681, Y=-39.555
+30.07 23:52:37 Moving is finished
+30.07 23:54:14 Scanning 167 point from 1254
+30.07 23:54:14 Going to coordinates X=-14.631, Y=-39.555
+30.07 23:54:14 Moving is finished
+30.07 23:55:52 Scanning 168 point from 1254
+30.07 23:55:52 Going to coordinates X=-14.581, Y=-39.555
+30.07 23:55:52 Moving is finished
+30.07 23:57:29 Scanning 169 point from 1254
+30.07 23:57:29 Going to coordinates X=-14.531, Y=-39.555
+30.07 23:57:30 Moving is finished
+30.07 23:59:07 Scanning 170 point from 1254
+30.07 23:59:07 Going to coordinates X=-14.481, Y=-39.555
+30.07 23:59:07 Moving is finished
+31.07 00:00:44 Scanning 171 point from 1254
+31.07 00:00:44 Going to coordinates X=-14.431, Y=-39.555
+31.07 00:00:44 Moving is finished
+31.07 00:02:21 Scanning 172 point from 1254
+31.07 00:02:21 Going to coordinates X=-14.381, Y=-39.555
+31.07 00:02:21 Moving is finished
+31.07 00:03:58 Scanning 173 point from 1254
+31.07 00:03:58 Going to coordinates X=-14.331, Y=-39.555
+31.07 00:03:59 Moving is finished
+31.07 00:05:36 Scanning 174 point from 1254
+31.07 00:05:36 Going to coordinates X=-14.281, Y=-39.555
+31.07 00:05:36 Moving is finished
+31.07 00:07:13 Scanning 175 point from 1254
+31.07 00:07:13 Going to coordinates X=-14.231, Y=-39.555
+31.07 00:07:13 Moving is finished
+31.07 00:08:50 Scanning 176 point from 1254
+31.07 00:08:50 Going to coordinates X=-14.181, Y=-39.555
+31.07 00:08:50 Moving is finished
+31.07 00:10:28 Scanning 177 point from 1254
+31.07 00:10:28 Going to coordinates X=-14.131, Y=-39.555
+31.07 00:10:28 Moving is finished
+31.07 00:12:06 Scanning 178 point from 1254
+31.07 00:12:06 Going to coordinates X=-14.081, Y=-39.555
+31.07 00:12:06 Moving is finished
+31.07 00:13:43 Scanning 179 point from 1254
+31.07 00:13:43 Going to coordinates X=-14.031, Y=-39.555
+31.07 00:13:44 Moving is finished
+31.07 00:15:21 Scanning 180 point from 1254
+31.07 00:15:21 Going to coordinates X=-13.981, Y=-39.555
+31.07 00:15:21 Moving is finished
+31.07 00:16:58 Scanning 181 point from 1254
+31.07 00:16:58 Going to coordinates X=-13.931, Y=-39.555
+31.07 00:16:58 Moving is finished
+31.07 00:18:35 Scanning 182 point from 1254
+31.07 00:18:35 Going to coordinates X=-13.881, Y=-39.555
+31.07 00:18:35 Moving is finished
+31.07 00:20:13 Scanning 183 point from 1254
+31.07 00:20:13 Going to coordinates X=-13.831, Y=-39.555
+31.07 00:20:13 Moving is finished
+31.07 00:21:50 Scanning 184 point from 1254
+31.07 00:21:50 Going to coordinates X=-13.781, Y=-39.555
+31.07 00:21:51 Moving is finished
+31.07 00:23:28 Scanning 185 point from 1254
+31.07 00:23:28 Going to coordinates X=-13.731, Y=-39.555
+31.07 00:23:28 Moving is finished
+31.07 00:25:05 Scanning 186 point from 1254
+31.07 00:25:05 Going to coordinates X=-13.681, Y=-39.555
+31.07 00:25:05 Moving is finished
+31.07 00:26:43 Scanning 187 point from 1254
+31.07 00:26:43 Going to coordinates X=-13.631, Y=-39.555
+31.07 00:26:43 Moving is finished
+31.07 00:28:20 Scanning 188 point from 1254
+31.07 00:28:20 Going to coordinates X=-13.581, Y=-39.555
+31.07 00:28:20 Moving is finished
+31.07 00:29:57 Scanning 189 point from 1254
+31.07 00:29:57 Going to coordinates X=-13.531, Y=-39.555
+31.07 00:29:57 Moving is finished
+31.07 00:31:35 Scanning 190 point from 1254
+31.07 00:31:35 Going to coordinates X=-13.481, Y=-39.555
+31.07 00:31:35 Moving is finished
+31.07 00:33:12 Scanning 191 point from 1254
+31.07 00:33:12 Going to coordinates X=-13.431, Y=-39.555
+31.07 00:33:12 Moving is finished
+31.07 00:34:49 Scanning 192 point from 1254
+31.07 00:34:49 Going to coordinates X=-13.381, Y=-39.555
+31.07 00:34:49 Moving is finished
+31.07 00:36:26 Scanning 193 point from 1254
+31.07 00:36:26 Going to coordinates X=-13.331, Y=-39.555
+31.07 00:36:27 Moving is finished
+31.07 00:38:04 Scanning 194 point from 1254
+31.07 00:38:04 Going to coordinates X=-13.281, Y=-39.555
+31.07 00:38:05 Moving is finished
+31.07 00:39:42 Scanning 195 point from 1254
+31.07 00:39:42 Going to coordinates X=-13.231, Y=-39.555
+31.07 00:39:42 Moving is finished
+31.07 00:41:19 Scanning 196 point from 1254
+31.07 00:41:19 Going to coordinates X=-13.181, Y=-39.555
+31.07 00:41:19 Moving is finished
+31.07 00:42:57 Scanning 197 point from 1254
+31.07 00:42:57 Going to coordinates X=-13.131, Y=-39.555
+31.07 00:42:57 Moving is finished
+31.07 00:44:35 Scanning 198 point from 1254
+31.07 00:44:35 Going to coordinates X=-14.731, Y=-39.505
+31.07 00:44:35 Moving is finished
+31.07 00:46:13 Scanning 199 point from 1254
+31.07 00:46:13 Going to coordinates X=-14.681, Y=-39.505
+31.07 00:46:13 Moving is finished
+31.07 00:47:50 Scanning 200 point from 1254
+31.07 00:47:50 Going to coordinates X=-14.631, Y=-39.505
+31.07 00:47:50 Moving is finished
+31.07 00:49:28 Scanning 201 point from 1254
+31.07 00:49:28 Going to coordinates X=-14.581, Y=-39.505
+31.07 00:49:28 Moving is finished
+31.07 00:51:05 Scanning 202 point from 1254
+31.07 00:51:05 Going to coordinates X=-14.531, Y=-39.505
+31.07 00:51:06 Moving is finished
+31.07 00:52:43 Scanning 203 point from 1254
+31.07 00:52:43 Going to coordinates X=-14.481, Y=-39.505
+31.07 00:52:44 Moving is finished
+31.07 00:54:20 Scanning 204 point from 1254
+31.07 00:54:20 Going to coordinates X=-14.431, Y=-39.505
+31.07 00:54:21 Moving is finished
+31.07 00:55:58 Scanning 205 point from 1254
+31.07 00:55:58 Going to coordinates X=-14.381, Y=-39.505
+31.07 00:55:58 Moving is finished
+31.07 00:57:36 Scanning 206 point from 1254
+31.07 00:57:36 Going to coordinates X=-14.331, Y=-39.505
+31.07 00:57:36 Moving is finished
+31.07 00:59:13 Scanning 207 point from 1254
+31.07 00:59:13 Going to coordinates X=-14.281, Y=-39.505
+31.07 00:59:14 Moving is finished
+31.07 01:00:51 Scanning 208 point from 1254
+31.07 01:00:51 Going to coordinates X=-14.231, Y=-39.505
+31.07 01:00:51 Moving is finished
+31.07 01:02:28 Scanning 209 point from 1254
+31.07 01:02:28 Going to coordinates X=-14.181, Y=-39.505
+31.07 01:02:28 Moving is finished
+31.07 01:04:05 Scanning 210 point from 1254
+31.07 01:04:05 Going to coordinates X=-14.131, Y=-39.505
+31.07 01:04:06 Moving is finished
+31.07 01:05:43 Scanning 211 point from 1254
+31.07 01:05:43 Going to coordinates X=-14.081, Y=-39.505
+31.07 01:05:43 Moving is finished
+31.07 01:07:21 Scanning 212 point from 1254
+31.07 01:07:21 Going to coordinates X=-14.031, Y=-39.505
+31.07 01:07:21 Moving is finished
+31.07 01:08:58 Scanning 213 point from 1254
+31.07 01:08:58 Going to coordinates X=-13.981, Y=-39.505
+31.07 01:08:58 Moving is finished
+31.07 01:10:35 Scanning 214 point from 1254
+31.07 01:10:35 Going to coordinates X=-13.931, Y=-39.505
+31.07 01:10:36 Moving is finished
+31.07 01:12:12 Scanning 215 point from 1254
+31.07 01:12:12 Going to coordinates X=-13.881, Y=-39.505
+31.07 01:12:13 Moving is finished
+31.07 01:13:50 Scanning 216 point from 1254
+31.07 01:13:50 Going to coordinates X=-13.831, Y=-39.505
+31.07 01:13:50 Moving is finished
+31.07 01:15:27 Scanning 217 point from 1254
+31.07 01:15:27 Going to coordinates X=-13.781, Y=-39.505
+31.07 01:15:27 Moving is finished
+31.07 01:17:05 Scanning 218 point from 1254
+31.07 01:17:05 Going to coordinates X=-13.731, Y=-39.505
+31.07 01:17:05 Moving is finished
+31.07 01:18:42 Scanning 219 point from 1254
+31.07 01:18:42 Going to coordinates X=-13.681, Y=-39.505
+31.07 01:18:42 Moving is finished
+31.07 01:20:19 Scanning 220 point from 1254
+31.07 01:20:19 Going to coordinates X=-13.631, Y=-39.505
+31.07 01:20:20 Moving is finished
+31.07 01:21:57 Scanning 221 point from 1254
+31.07 01:21:57 Going to coordinates X=-13.581, Y=-39.505
+31.07 01:21:57 Moving is finished
+31.07 01:23:34 Scanning 222 point from 1254
+31.07 01:23:34 Going to coordinates X=-13.531, Y=-39.505
+31.07 01:23:35 Moving is finished
+31.07 01:25:11 Scanning 223 point from 1254
+31.07 01:25:11 Going to coordinates X=-13.481, Y=-39.505
+31.07 01:25:12 Moving is finished
+31.07 01:26:49 Scanning 224 point from 1254
+31.07 01:26:49 Going to coordinates X=-13.431, Y=-39.505
+31.07 01:26:49 Moving is finished
+31.07 01:28:26 Scanning 225 point from 1254
+31.07 01:28:26 Going to coordinates X=-13.381, Y=-39.505
+31.07 01:28:26 Moving is finished
+31.07 01:30:04 Scanning 226 point from 1254
+31.07 01:30:04 Going to coordinates X=-13.331, Y=-39.505
+31.07 01:30:04 Moving is finished
+31.07 01:31:42 Scanning 227 point from 1254
+31.07 01:31:42 Going to coordinates X=-13.281, Y=-39.505
+31.07 01:31:42 Moving is finished
+31.07 01:33:19 Scanning 228 point from 1254
+31.07 01:33:19 Going to coordinates X=-13.231, Y=-39.505
+31.07 01:33:19 Moving is finished
+31.07 01:34:56 Scanning 229 point from 1254
+31.07 01:34:56 Going to coordinates X=-13.181, Y=-39.505
+31.07 01:34:56 Moving is finished
+31.07 01:36:34 Scanning 230 point from 1254
+31.07 01:36:34 Going to coordinates X=-13.131, Y=-39.505
+31.07 01:36:34 Moving is finished
+31.07 01:38:12 Scanning 231 point from 1254
+31.07 01:38:12 Going to coordinates X=-14.731, Y=-39.455
+31.07 01:38:12 Moving is finished
+31.07 01:39:50 Scanning 232 point from 1254
+31.07 01:39:50 Going to coordinates X=-14.681, Y=-39.455
+31.07 01:39:50 Moving is finished
+31.07 01:41:27 Scanning 233 point from 1254
+31.07 01:41:27 Going to coordinates X=-14.631, Y=-39.455
+31.07 01:41:27 Moving is finished
+31.07 01:43:04 Scanning 234 point from 1254
+31.07 01:43:04 Going to coordinates X=-14.581, Y=-39.455
+31.07 01:43:05 Moving is finished
+31.07 01:44:41 Scanning 235 point from 1254
+31.07 01:44:41 Going to coordinates X=-14.531, Y=-39.455
+31.07 01:44:42 Moving is finished
+31.07 01:46:19 Scanning 236 point from 1254
+31.07 01:46:19 Going to coordinates X=-14.481, Y=-39.455
+31.07 01:46:19 Moving is finished
+31.07 01:47:57 Scanning 237 point from 1254
+31.07 01:47:57 Going to coordinates X=-14.431, Y=-39.455
+31.07 01:47:57 Moving is finished
+31.07 01:49:34 Scanning 238 point from 1254
+31.07 01:49:34 Going to coordinates X=-14.381, Y=-39.455
+31.07 01:49:34 Moving is finished
+31.07 01:51:11 Scanning 239 point from 1254
+31.07 01:51:11 Going to coordinates X=-14.331, Y=-39.455
+31.07 01:51:11 Moving is finished
+31.07 01:52:48 Scanning 240 point from 1254
+31.07 01:52:48 Going to coordinates X=-14.281, Y=-39.455
+31.07 01:52:49 Moving is finished
+31.07 01:54:26 Scanning 241 point from 1254
+31.07 01:54:26 Going to coordinates X=-14.231, Y=-39.455
+31.07 01:54:26 Moving is finished
+31.07 01:56:03 Scanning 242 point from 1254
+31.07 01:56:03 Going to coordinates X=-14.181, Y=-39.455
+31.07 01:56:03 Moving is finished
+31.07 01:57:41 Scanning 243 point from 1254
+31.07 01:57:41 Going to coordinates X=-14.131, Y=-39.455
+31.07 01:57:41 Moving is finished
+31.07 01:59:19 Scanning 244 point from 1254
+31.07 01:59:19 Going to coordinates X=-14.081, Y=-39.455
+31.07 01:59:19 Moving is finished
+31.07 02:00:56 Scanning 245 point from 1254
+31.07 02:00:56 Going to coordinates X=-14.031, Y=-39.455
+31.07 02:00:57 Moving is finished
+31.07 02:02:33 Scanning 246 point from 1254
+31.07 02:02:33 Going to coordinates X=-13.981, Y=-39.455
+31.07 02:02:34 Moving is finished
+31.07 02:04:12 Scanning 247 point from 1254
+31.07 02:04:12 Going to coordinates X=-13.931, Y=-39.455
+31.07 02:04:12 Moving is finished
+31.07 02:05:49 Scanning 248 point from 1254
+31.07 02:05:49 Going to coordinates X=-13.881, Y=-39.455
+31.07 02:05:49 Moving is finished
+31.07 02:07:27 Scanning 249 point from 1254
+31.07 02:07:27 Going to coordinates X=-13.831, Y=-39.455
+31.07 02:07:27 Moving is finished
+31.07 02:09:04 Scanning 250 point from 1254
+31.07 02:09:04 Going to coordinates X=-13.781, Y=-39.455
+31.07 02:09:04 Moving is finished
+31.07 02:10:42 Scanning 251 point from 1254
+31.07 02:10:42 Going to coordinates X=-13.731, Y=-39.455
+31.07 02:10:42 Moving is finished
+31.07 02:12:19 Scanning 252 point from 1254
+31.07 02:12:19 Going to coordinates X=-13.681, Y=-39.455
+31.07 02:12:20 Moving is finished
+31.07 02:13:56 Scanning 253 point from 1254
+31.07 02:13:56 Going to coordinates X=-13.631, Y=-39.455
+31.07 02:13:57 Moving is finished
+31.07 02:15:34 Scanning 254 point from 1254
+31.07 02:15:34 Going to coordinates X=-13.581, Y=-39.455
+31.07 02:15:34 Moving is finished
+31.07 02:17:12 Scanning 255 point from 1254
+31.07 02:17:12 Going to coordinates X=-13.531, Y=-39.455
+31.07 02:17:12 Moving is finished
+31.07 02:18:50 Scanning 256 point from 1254
+31.07 02:18:50 Going to coordinates X=-13.481, Y=-39.455
+31.07 02:18:50 Moving is finished
+31.07 02:20:28 Scanning 257 point from 1254
+31.07 02:20:28 Going to coordinates X=-13.431, Y=-39.455
+31.07 02:20:28 Moving is finished
+31.07 02:22:05 Scanning 258 point from 1254
+31.07 02:22:05 Going to coordinates X=-13.381, Y=-39.455
+31.07 02:22:05 Moving is finished
+31.07 02:23:42 Scanning 259 point from 1254
+31.07 02:23:42 Going to coordinates X=-13.331, Y=-39.455
+31.07 02:23:43 Moving is finished
+31.07 02:25:20 Scanning 260 point from 1254
+31.07 02:25:20 Going to coordinates X=-13.281, Y=-39.455
+31.07 02:25:20 Moving is finished
+31.07 02:26:57 Scanning 261 point from 1254
+31.07 02:26:57 Going to coordinates X=-13.231, Y=-39.455
+31.07 02:26:57 Moving is finished
+31.07 02:28:35 Scanning 262 point from 1254
+31.07 02:28:35 Going to coordinates X=-13.181, Y=-39.455
+31.07 02:28:35 Moving is finished
+31.07 02:30:12 Scanning 263 point from 1254
+31.07 02:30:12 Going to coordinates X=-13.131, Y=-39.455
+31.07 02:30:12 Moving is finished
+31.07 02:31:49 Scanning 264 point from 1254
+31.07 02:31:49 Going to coordinates X=-14.731, Y=-39.405
+31.07 02:31:50 Moving is finished
+31.07 02:33:27 Scanning 265 point from 1254
+31.07 02:33:27 Going to coordinates X=-14.681, Y=-39.405
+31.07 02:33:27 Moving is finished
+31.07 02:35:04 Scanning 266 point from 1254
+31.07 02:35:04 Going to coordinates X=-14.631, Y=-39.405
+31.07 02:35:05 Moving is finished
+31.07 02:36:42 Scanning 267 point from 1254
+31.07 02:36:42 Going to coordinates X=-14.581, Y=-39.405
+31.07 02:36:43 Moving is finished
+31.07 02:38:20 Scanning 268 point from 1254
+31.07 02:38:20 Going to coordinates X=-14.531, Y=-39.405
+31.07 02:38:20 Moving is finished
+31.07 02:39:57 Scanning 269 point from 1254
+31.07 02:39:57 Going to coordinates X=-14.481, Y=-39.405
+31.07 02:39:57 Moving is finished
+31.07 02:41:35 Scanning 270 point from 1254
+31.07 02:41:35 Going to coordinates X=-14.431, Y=-39.405
+31.07 02:41:35 Moving is finished
+31.07 02:43:12 Scanning 271 point from 1254
+31.07 02:43:12 Going to coordinates X=-14.381, Y=-39.405
+31.07 02:43:12 Moving is finished
+31.07 02:44:49 Scanning 272 point from 1254
+31.07 02:44:49 Going to coordinates X=-14.331, Y=-39.405
+31.07 02:44:49 Moving is finished
+31.07 02:46:26 Scanning 273 point from 1254
+31.07 02:46:26 Going to coordinates X=-14.281, Y=-39.405
+31.07 02:46:27 Moving is finished
+31.07 02:48:05 Scanning 274 point from 1254
+31.07 02:48:05 Going to coordinates X=-14.231, Y=-39.405
+31.07 02:48:05 Moving is finished
+31.07 02:49:42 Scanning 275 point from 1254
+31.07 02:49:42 Going to coordinates X=-14.181, Y=-39.405
+31.07 02:49:43 Moving is finished
+31.07 02:51:20 Scanning 276 point from 1254
+31.07 02:51:20 Going to coordinates X=-14.131, Y=-39.405
+31.07 02:51:20 Moving is finished
+31.07 02:52:57 Scanning 277 point from 1254
+31.07 02:52:57 Going to coordinates X=-14.081, Y=-39.405
+31.07 02:52:57 Moving is finished
+31.07 02:54:34 Scanning 278 point from 1254
+31.07 02:54:34 Going to coordinates X=-14.031, Y=-39.405
+31.07 02:54:34 Moving is finished
+31.07 02:56:12 Scanning 279 point from 1254
+31.07 02:56:12 Going to coordinates X=-13.981, Y=-39.405
+31.07 02:56:12 Moving is finished
+31.07 02:57:49 Scanning 280 point from 1254
+31.07 02:57:49 Going to coordinates X=-13.931, Y=-39.405
+31.07 02:57:49 Moving is finished
+31.07 02:59:27 Scanning 281 point from 1254
+31.07 02:59:27 Going to coordinates X=-13.881, Y=-39.405
+31.07 02:59:27 Moving is finished
+31.07 03:01:04 Scanning 282 point from 1254
+31.07 03:01:04 Going to coordinates X=-13.831, Y=-39.405
+31.07 03:01:04 Moving is finished
+31.07 03:02:41 Scanning 283 point from 1254
+31.07 03:02:41 Going to coordinates X=-13.781, Y=-39.405
+31.07 03:02:41 Moving is finished
+31.07 03:04:18 Scanning 284 point from 1254
+31.07 03:04:18 Going to coordinates X=-13.731, Y=-39.405
+31.07 03:04:19 Moving is finished
+31.07 03:05:57 Scanning 285 point from 1254
+31.07 03:05:57 Going to coordinates X=-13.681, Y=-39.405
+31.07 03:05:57 Moving is finished
+31.07 03:07:34 Scanning 286 point from 1254
+31.07 03:07:34 Going to coordinates X=-13.631, Y=-39.405
+31.07 03:07:34 Moving is finished
+31.07 03:09:11 Scanning 287 point from 1254
+31.07 03:09:11 Going to coordinates X=-13.581, Y=-39.405
+31.07 03:09:12 Moving is finished
+31.07 03:10:48 Scanning 288 point from 1254
+31.07 03:10:48 Going to coordinates X=-13.531, Y=-39.405
+31.07 03:10:49 Moving is finished
+31.07 03:12:26 Scanning 289 point from 1254
+31.07 03:12:26 Going to coordinates X=-13.481, Y=-39.405
+31.07 03:12:26 Moving is finished
+31.07 03:14:04 Scanning 290 point from 1254
+31.07 03:14:04 Going to coordinates X=-13.431, Y=-39.405
+31.07 03:14:04 Moving is finished
+31.07 03:15:41 Scanning 291 point from 1254
+31.07 03:15:41 Going to coordinates X=-13.381, Y=-39.405
+31.07 03:15:41 Moving is finished
+31.07 03:17:18 Scanning 292 point from 1254
+31.07 03:17:18 Going to coordinates X=-13.331, Y=-39.405
+31.07 03:17:18 Moving is finished
+31.07 03:18:56 Scanning 293 point from 1254
+31.07 03:18:56 Going to coordinates X=-13.281, Y=-39.405
+31.07 03:18:56 Moving is finished
+31.07 03:20:33 Scanning 294 point from 1254
+31.07 03:20:33 Going to coordinates X=-13.231, Y=-39.405
+31.07 03:20:34 Moving is finished
+31.07 03:22:11 Scanning 295 point from 1254
+31.07 03:22:11 Going to coordinates X=-13.181, Y=-39.405
+31.07 03:22:11 Moving is finished
+31.07 03:23:48 Scanning 296 point from 1254
+31.07 03:23:48 Going to coordinates X=-13.131, Y=-39.405
+31.07 03:23:48 Moving is finished
+31.07 03:25:26 Scanning 297 point from 1254
+31.07 03:25:26 Going to coordinates X=-14.731, Y=-39.355
+31.07 03:25:26 Moving is finished
+31.07 03:27:04 Scanning 298 point from 1254
+31.07 03:27:04 Going to coordinates X=-14.681, Y=-39.355
+31.07 03:27:04 Moving is finished
+31.07 03:28:41 Scanning 299 point from 1254
+31.07 03:28:41 Going to coordinates X=-14.631, Y=-39.355
+31.07 03:28:41 Moving is finished
+31.07 03:30:18 Scanning 300 point from 1254
+31.07 03:30:18 Going to coordinates X=-14.581, Y=-39.355
+31.07 03:30:18 Moving is finished
+31.07 03:31:56 Scanning 301 point from 1254
+31.07 03:31:56 Going to coordinates X=-14.531, Y=-39.355
+31.07 03:31:56 Moving is finished
+31.07 03:33:33 Scanning 302 point from 1254
+31.07 03:33:33 Going to coordinates X=-14.481, Y=-39.355
+31.07 03:33:34 Moving is finished
+31.07 03:35:10 Scanning 303 point from 1254
+31.07 03:35:10 Going to coordinates X=-14.431, Y=-39.355
+31.07 03:35:11 Moving is finished
+31.07 03:36:48 Scanning 304 point from 1254
+31.07 03:36:48 Going to coordinates X=-14.381, Y=-39.355
+31.07 03:36:49 Moving is finished
+31.07 03:38:26 Scanning 305 point from 1254
+31.07 03:38:26 Going to coordinates X=-14.331, Y=-39.355
+31.07 03:38:26 Moving is finished
+31.07 03:40:03 Scanning 306 point from 1254
+31.07 03:40:03 Going to coordinates X=-14.281, Y=-39.355
+31.07 03:40:03 Moving is finished
+31.07 03:41:40 Scanning 307 point from 1254
+31.07 03:41:40 Going to coordinates X=-14.231, Y=-39.355
+31.07 03:41:40 Moving is finished
+31.07 03:43:18 Scanning 308 point from 1254
+31.07 03:43:18 Going to coordinates X=-14.181, Y=-39.355
+31.07 03:43:18 Moving is finished
+31.07 03:44:55 Scanning 309 point from 1254
+31.07 03:44:55 Going to coordinates X=-14.131, Y=-39.355
+31.07 03:44:55 Moving is finished
+31.07 03:46:33 Scanning 310 point from 1254
+31.07 03:46:33 Going to coordinates X=-14.081, Y=-39.355
+31.07 03:46:33 Moving is finished
+31.07 03:48:10 Scanning 311 point from 1254
+31.07 03:48:10 Going to coordinates X=-14.031, Y=-39.355
+31.07 03:48:10 Moving is finished
+31.07 03:49:47 Scanning 312 point from 1254
+31.07 03:49:47 Going to coordinates X=-13.981, Y=-39.355
+31.07 03:49:47 Moving is finished
+31.07 03:51:25 Scanning 313 point from 1254
+31.07 03:51:25 Going to coordinates X=-13.931, Y=-39.355
+31.07 03:51:25 Moving is finished
+31.07 03:53:02 Scanning 314 point from 1254
+31.07 03:53:02 Going to coordinates X=-13.881, Y=-39.355
+31.07 03:53:02 Moving is finished
+31.07 03:54:40 Scanning 315 point from 1254
+31.07 03:54:40 Going to coordinates X=-13.831, Y=-39.355
+31.07 03:54:40 Moving is finished
+31.07 03:56:17 Scanning 316 point from 1254
+31.07 03:56:17 Going to coordinates X=-13.781, Y=-39.355
+31.07 03:56:17 Moving is finished
+31.07 03:57:54 Scanning 317 point from 1254
+31.07 03:57:54 Going to coordinates X=-13.731, Y=-39.355
+31.07 03:57:55 Moving is finished
+31.07 03:59:32 Scanning 318 point from 1254
+31.07 03:59:32 Going to coordinates X=-13.681, Y=-39.355
+31.07 03:59:32 Moving is finished
+31.07 04:01:10 Scanning 319 point from 1254
+31.07 04:01:10 Going to coordinates X=-13.631, Y=-39.355
+31.07 04:01:10 Moving is finished
+31.07 04:02:47 Scanning 320 point from 1254
+31.07 04:02:47 Going to coordinates X=-13.581, Y=-39.355
+31.07 04:02:47 Moving is finished
+31.07 04:04:25 Scanning 321 point from 1254
+31.07 04:04:25 Going to coordinates X=-13.531, Y=-39.355
+31.07 04:04:25 Moving is finished
+31.07 04:06:02 Scanning 322 point from 1254
+31.07 04:06:02 Going to coordinates X=-13.481, Y=-39.355
+31.07 04:06:02 Moving is finished
+31.07 04:07:40 Scanning 323 point from 1254
+31.07 04:07:40 Going to coordinates X=-13.431, Y=-39.355
+31.07 04:07:40 Moving is finished
+31.07 04:09:18 Scanning 324 point from 1254
+31.07 04:09:18 Going to coordinates X=-13.381, Y=-39.355
+31.07 04:09:18 Moving is finished
+31.07 04:10:55 Scanning 325 point from 1254
+31.07 04:10:55 Going to coordinates X=-13.331, Y=-39.355
+31.07 04:10:56 Moving is finished
+31.07 04:12:33 Scanning 326 point from 1254
+31.07 04:12:33 Going to coordinates X=-13.281, Y=-39.355
+31.07 04:12:33 Moving is finished
+31.07 04:14:10 Scanning 327 point from 1254
+31.07 04:14:10 Going to coordinates X=-13.231, Y=-39.355
+31.07 04:14:11 Moving is finished
+31.07 04:15:48 Scanning 328 point from 1254
+31.07 04:15:48 Going to coordinates X=-13.181, Y=-39.355
+31.07 04:15:48 Moving is finished
+31.07 04:17:25 Scanning 329 point from 1254
+31.07 04:17:25 Going to coordinates X=-13.131, Y=-39.355
+31.07 04:17:25 Moving is finished
+31.07 04:19:02 Scanning 330 point from 1254
+31.07 04:19:02 Going to coordinates X=-14.731, Y=-39.305
+31.07 04:19:03 Moving is finished
+31.07 04:20:40 Scanning 331 point from 1254
+31.07 04:20:40 Going to coordinates X=-14.681, Y=-39.305
+31.07 04:20:40 Moving is finished
+31.07 04:22:18 Scanning 332 point from 1254
+31.07 04:22:18 Going to coordinates X=-14.631, Y=-39.305
+31.07 04:22:18 Moving is finished
+31.07 04:23:55 Scanning 333 point from 1254
+31.07 04:23:55 Going to coordinates X=-14.581, Y=-39.305
+31.07 04:23:55 Moving is finished
+31.07 04:25:33 Scanning 334 point from 1254
+31.07 04:25:33 Going to coordinates X=-14.531, Y=-39.305
+31.07 04:25:33 Moving is finished
+31.07 04:27:10 Scanning 335 point from 1254
+31.07 04:27:10 Going to coordinates X=-14.481, Y=-39.305
+31.07 04:27:10 Moving is finished
+31.07 04:28:48 Scanning 336 point from 1254
+31.07 04:28:48 Going to coordinates X=-14.431, Y=-39.305
+31.07 04:28:49 Moving is finished
+31.07 04:30:25 Scanning 337 point from 1254
+31.07 04:30:25 Going to coordinates X=-14.381, Y=-39.305
+31.07 04:30:26 Moving is finished
+31.07 04:32:03 Scanning 338 point from 1254
+31.07 04:32:03 Going to coordinates X=-14.331, Y=-39.305
+31.07 04:32:03 Moving is finished
+31.07 04:33:40 Scanning 339 point from 1254
+31.07 04:33:40 Going to coordinates X=-14.281, Y=-39.305
+31.07 04:33:40 Moving is finished
+31.07 04:35:18 Scanning 340 point from 1254
+31.07 04:35:18 Going to coordinates X=-14.231, Y=-39.305
+31.07 04:35:18 Moving is finished
+31.07 04:36:55 Scanning 341 point from 1254
+31.07 04:36:55 Going to coordinates X=-14.181, Y=-39.305
+31.07 04:36:55 Moving is finished
+31.07 04:38:32 Scanning 342 point from 1254
+31.07 04:38:32 Going to coordinates X=-14.131, Y=-39.305
+31.07 04:38:33 Moving is finished
+31.07 04:40:10 Scanning 343 point from 1254
+31.07 04:40:10 Going to coordinates X=-14.081, Y=-39.305
+31.07 04:40:10 Moving is finished
+31.07 04:41:48 Scanning 344 point from 1254
+31.07 04:41:48 Going to coordinates X=-14.031, Y=-39.305
+31.07 04:41:48 Moving is finished
+31.07 04:43:25 Scanning 345 point from 1254
+31.07 04:43:25 Going to coordinates X=-13.981, Y=-39.305
+31.07 04:43:25 Moving is finished
+31.07 04:45:03 Scanning 346 point from 1254
+31.07 04:45:03 Going to coordinates X=-13.931, Y=-39.305
+31.07 04:45:03 Moving is finished
+31.07 04:46:40 Scanning 347 point from 1254
+31.07 04:46:40 Going to coordinates X=-13.881, Y=-39.305
+31.07 04:46:40 Moving is finished
+31.07 04:48:17 Scanning 348 point from 1254
+31.07 04:48:17 Going to coordinates X=-13.831, Y=-39.305
+31.07 04:48:17 Moving is finished
+31.07 04:49:55 Scanning 349 point from 1254
+31.07 04:49:55 Going to coordinates X=-13.781, Y=-39.305
+31.07 04:49:55 Moving is finished
+31.07 04:51:32 Scanning 350 point from 1254
+31.07 04:51:32 Going to coordinates X=-13.731, Y=-39.305
+31.07 04:51:33 Moving is finished
+31.07 04:53:10 Scanning 351 point from 1254
+31.07 04:53:10 Going to coordinates X=-13.681, Y=-39.305
+31.07 04:53:10 Moving is finished
+31.07 04:54:47 Scanning 352 point from 1254
+31.07 04:54:47 Going to coordinates X=-13.631, Y=-39.305
+31.07 04:54:47 Moving is finished
+31.07 04:56:24 Scanning 353 point from 1254
+31.07 04:56:24 Going to coordinates X=-13.581, Y=-39.305
+31.07 04:56:24 Moving is finished
+31.07 04:58:01 Scanning 354 point from 1254
+31.07 04:58:01 Going to coordinates X=-13.531, Y=-39.305
+31.07 04:58:02 Moving is finished
+31.07 04:59:39 Scanning 355 point from 1254
+31.07 04:59:39 Going to coordinates X=-13.481, Y=-39.305
+31.07 04:59:39 Moving is finished
+31.07 05:01:16 Scanning 356 point from 1254
+31.07 05:01:16 Going to coordinates X=-13.431, Y=-39.305
+31.07 05:01:16 Moving is finished
+31.07 05:02:53 Scanning 357 point from 1254
+31.07 05:02:53 Going to coordinates X=-13.381, Y=-39.305
+31.07 05:02:53 Moving is finished
+31.07 05:04:31 Scanning 358 point from 1254
+31.07 05:04:31 Going to coordinates X=-13.331, Y=-39.305
+31.07 05:04:31 Moving is finished
+31.07 05:06:08 Scanning 359 point from 1254
+31.07 05:06:08 Going to coordinates X=-13.281, Y=-39.305
+31.07 05:06:09 Moving is finished
+31.07 05:07:46 Scanning 360 point from 1254
+31.07 05:07:46 Going to coordinates X=-13.231, Y=-39.305
+31.07 05:07:46 Moving is finished
+31.07 05:09:23 Scanning 361 point from 1254
+31.07 05:09:23 Going to coordinates X=-13.181, Y=-39.305
+31.07 05:09:24 Moving is finished
+31.07 05:11:00 Scanning 362 point from 1254
+31.07 05:11:00 Going to coordinates X=-13.131, Y=-39.305
+31.07 05:11:01 Moving is finished
+31.07 05:12:38 Scanning 363 point from 1254
+31.07 05:12:38 Going to coordinates X=-14.731, Y=-39.255
+31.07 05:12:39 Moving is finished
+31.07 05:14:16 Scanning 364 point from 1254
+31.07 05:14:16 Going to coordinates X=-14.681, Y=-39.255
+31.07 05:14:16 Moving is finished
+31.07 05:15:53 Scanning 365 point from 1254
+31.07 05:15:53 Going to coordinates X=-14.631, Y=-39.255
+31.07 05:15:53 Moving is finished
+31.07 05:17:30 Scanning 366 point from 1254
+31.07 05:17:30 Going to coordinates X=-14.581, Y=-39.255
+31.07 05:17:30 Moving is finished
+31.07 05:19:07 Scanning 367 point from 1254
+31.07 05:19:07 Going to coordinates X=-14.531, Y=-39.255
+31.07 05:19:07 Moving is finished
+31.07 05:20:44 Scanning 368 point from 1254
+31.07 05:20:44 Going to coordinates X=-14.481, Y=-39.255
+31.07 05:20:45 Moving is finished
+31.07 05:22:22 Scanning 369 point from 1254
+31.07 05:22:22 Going to coordinates X=-14.431, Y=-39.255
+31.07 05:22:23 Moving is finished
+31.07 05:24:00 Scanning 370 point from 1254
+31.07 05:24:00 Going to coordinates X=-14.381, Y=-39.255
+31.07 05:24:00 Moving is finished
+31.07 05:25:37 Scanning 371 point from 1254
+31.07 05:25:37 Going to coordinates X=-14.331, Y=-39.255
+31.07 05:25:37 Moving is finished
+31.07 05:27:14 Scanning 372 point from 1254
+31.07 05:27:14 Going to coordinates X=-14.281, Y=-39.255
+31.07 05:27:15 Moving is finished
+31.07 05:28:52 Scanning 373 point from 1254
+31.07 05:28:52 Going to coordinates X=-14.231, Y=-39.255
+31.07 05:28:52 Moving is finished
+31.07 05:30:29 Scanning 374 point from 1254
+31.07 05:30:29 Going to coordinates X=-14.181, Y=-39.255
+31.07 05:30:29 Moving is finished
+31.07 05:32:07 Scanning 375 point from 1254
+31.07 05:32:07 Going to coordinates X=-14.131, Y=-39.255
+31.07 05:32:07 Moving is finished
+31.07 05:33:44 Scanning 376 point from 1254
+31.07 05:33:44 Going to coordinates X=-14.081, Y=-39.255
+31.07 05:33:44 Moving is finished
+31.07 05:35:22 Scanning 377 point from 1254
+31.07 05:35:22 Going to coordinates X=-14.031, Y=-39.255
+31.07 05:35:22 Moving is finished
+31.07 05:36:59 Scanning 378 point from 1254
+31.07 05:36:59 Going to coordinates X=-13.981, Y=-39.255
+31.07 05:36:59 Moving is finished
+31.07 05:38:36 Scanning 379 point from 1254
+31.07 05:38:36 Going to coordinates X=-13.931, Y=-39.255
+31.07 05:38:37 Moving is finished
+31.07 05:40:14 Scanning 380 point from 1254
+31.07 05:40:14 Going to coordinates X=-13.881, Y=-39.255
+31.07 05:40:14 Moving is finished
+31.07 05:41:51 Scanning 381 point from 1254
+31.07 05:41:51 Going to coordinates X=-13.831, Y=-39.255
+31.07 05:41:51 Moving is finished
+31.07 05:43:29 Scanning 382 point from 1254
+31.07 05:43:29 Going to coordinates X=-13.781, Y=-39.255
+31.07 05:43:29 Moving is finished
+31.07 05:45:06 Scanning 383 point from 1254
+31.07 05:45:06 Going to coordinates X=-13.731, Y=-39.255
+31.07 05:45:07 Moving is finished
+31.07 05:46:43 Scanning 384 point from 1254
+31.07 05:46:43 Going to coordinates X=-13.681, Y=-39.255
+31.07 05:46:44 Moving is finished
+31.07 05:48:21 Scanning 385 point from 1254
+31.07 05:48:21 Going to coordinates X=-13.631, Y=-39.255
+31.07 05:48:21 Moving is finished
+31.07 05:49:59 Scanning 386 point from 1254
+31.07 05:49:59 Going to coordinates X=-13.581, Y=-39.255
+31.07 05:49:59 Moving is finished
+31.07 05:51:37 Scanning 387 point from 1254
+31.07 05:51:37 Going to coordinates X=-13.531, Y=-39.255
+31.07 05:51:37 Moving is finished
+31.07 05:53:14 Scanning 388 point from 1254
+31.07 05:53:14 Going to coordinates X=-13.481, Y=-39.255
+31.07 05:53:14 Moving is finished
+31.07 05:54:51 Scanning 389 point from 1254
+31.07 05:54:51 Going to coordinates X=-13.431, Y=-39.255
+31.07 05:54:51 Moving is finished
+31.07 05:56:28 Scanning 390 point from 1254
+31.07 05:56:28 Going to coordinates X=-13.381, Y=-39.255
+31.07 05:56:28 Moving is finished
+31.07 05:58:06 Scanning 391 point from 1254
+31.07 05:58:06 Going to coordinates X=-13.331, Y=-39.255
+31.07 05:58:06 Moving is finished
+31.07 05:59:43 Scanning 392 point from 1254
+31.07 05:59:43 Going to coordinates X=-13.281, Y=-39.255
+31.07 05:59:43 Moving is finished
+31.07 06:01:20 Scanning 393 point from 1254
+31.07 06:01:20 Going to coordinates X=-13.231, Y=-39.255
+31.07 06:01:21 Moving is finished
+31.07 06:02:58 Scanning 394 point from 1254
+31.07 06:02:58 Going to coordinates X=-13.181, Y=-39.255
+31.07 06:02:58 Moving is finished
+31.07 06:04:36 Scanning 395 point from 1254
+31.07 06:04:36 Going to coordinates X=-13.131, Y=-39.255
+31.07 06:04:36 Moving is finished
+31.07 06:06:13 Scanning 396 point from 1254
+31.07 06:06:13 Going to coordinates X=-14.731, Y=-39.205
+31.07 06:06:14 Moving is finished
+31.07 06:07:51 Scanning 397 point from 1254
+31.07 06:07:51 Going to coordinates X=-14.681, Y=-39.205
+31.07 06:07:51 Moving is finished
+31.07 06:09:28 Scanning 398 point from 1254
+31.07 06:09:28 Going to coordinates X=-14.631, Y=-39.205
+31.07 06:09:29 Moving is finished
+31.07 06:11:06 Scanning 399 point from 1254
+31.07 06:11:06 Going to coordinates X=-14.581, Y=-39.205
+31.07 06:11:07 Moving is finished
+31.07 06:12:44 Scanning 400 point from 1254
+31.07 06:12:44 Going to coordinates X=-14.531, Y=-39.205
+31.07 06:12:44 Moving is finished
+31.07 06:14:22 Scanning 401 point from 1254
+31.07 06:14:22 Going to coordinates X=-14.481, Y=-39.205
+31.07 06:14:22 Moving is finished
+31.07 06:15:59 Scanning 402 point from 1254
+31.07 06:15:59 Going to coordinates X=-14.431, Y=-39.205
+31.07 06:15:59 Moving is finished
+31.07 06:17:37 Scanning 403 point from 1254
+31.07 06:17:37 Going to coordinates X=-14.381, Y=-39.205
+31.07 06:17:37 Moving is finished
+31.07 06:19:15 Scanning 404 point from 1254
+31.07 06:19:15 Going to coordinates X=-14.331, Y=-39.205
+31.07 06:19:15 Moving is finished
+31.07 06:20:52 Scanning 405 point from 1254
+31.07 06:20:52 Going to coordinates X=-14.281, Y=-39.205
+31.07 06:20:53 Moving is finished
+31.07 06:22:30 Scanning 406 point from 1254
+31.07 06:22:30 Going to coordinates X=-14.231, Y=-39.205
+31.07 06:22:30 Moving is finished
+31.07 06:24:07 Scanning 407 point from 1254
+31.07 06:24:07 Going to coordinates X=-14.181, Y=-39.205
+31.07 06:24:07 Moving is finished
+31.07 06:25:44 Scanning 408 point from 1254
+31.07 06:25:44 Going to coordinates X=-14.131, Y=-39.205
+31.07 06:25:45 Moving is finished
+31.07 06:27:23 Scanning 409 point from 1254
+31.07 06:27:23 Going to coordinates X=-14.081, Y=-39.205
+31.07 06:27:23 Moving is finished
+31.07 06:29:00 Scanning 410 point from 1254
+31.07 06:29:00 Going to coordinates X=-14.031, Y=-39.205
+31.07 06:29:01 Moving is finished
+31.07 06:30:38 Scanning 411 point from 1254
+31.07 06:30:38 Going to coordinates X=-13.981, Y=-39.205
+31.07 06:30:38 Moving is finished
+31.07 06:32:16 Scanning 412 point from 1254
+31.07 06:32:16 Going to coordinates X=-13.931, Y=-39.205
+31.07 06:32:16 Moving is finished
+31.07 06:33:53 Scanning 413 point from 1254
+31.07 06:33:53 Going to coordinates X=-13.881, Y=-39.205
+31.07 06:33:53 Moving is finished
+31.07 06:35:31 Scanning 414 point from 1254
+31.07 06:35:31 Going to coordinates X=-13.831, Y=-39.205
+31.07 06:35:31 Moving is finished
+31.07 06:37:08 Scanning 415 point from 1254
+31.07 06:37:08 Going to coordinates X=-13.781, Y=-39.205
+31.07 06:37:09 Moving is finished
+31.07 06:38:46 Scanning 416 point from 1254
+31.07 06:38:46 Going to coordinates X=-13.731, Y=-39.205
+31.07 06:38:46 Moving is finished
+31.07 06:40:23 Scanning 417 point from 1254
+31.07 06:40:23 Going to coordinates X=-13.681, Y=-39.205
+31.07 06:40:23 Moving is finished
+31.07 06:42:00 Scanning 418 point from 1254
+31.07 06:42:00 Going to coordinates X=-13.631, Y=-39.205
+31.07 06:42:00 Moving is finished
+31.07 06:43:38 Scanning 419 point from 1254
+31.07 06:43:38 Going to coordinates X=-13.581, Y=-39.205
+31.07 06:43:38 Moving is finished
+31.07 06:45:15 Scanning 420 point from 1254
+31.07 06:45:15 Going to coordinates X=-13.531, Y=-39.205
+31.07 06:45:15 Moving is finished
+31.07 06:46:53 Scanning 421 point from 1254
+31.07 06:46:53 Going to coordinates X=-13.481, Y=-39.205
+31.07 06:46:54 Moving is finished
+31.07 06:48:31 Scanning 422 point from 1254
+31.07 06:48:31 Going to coordinates X=-13.431, Y=-39.205
+31.07 06:48:32 Moving is finished
+31.07 06:50:08 Scanning 423 point from 1254
+31.07 06:50:08 Going to coordinates X=-13.381, Y=-39.205
+31.07 06:50:09 Moving is finished
+31.07 06:51:46 Scanning 424 point from 1254
+31.07 06:51:46 Going to coordinates X=-13.331, Y=-39.205
+31.07 06:51:46 Moving is finished
+31.07 06:53:23 Scanning 425 point from 1254
+31.07 06:53:23 Going to coordinates X=-13.281, Y=-39.205
+31.07 06:53:24 Moving is finished
+31.07 06:55:01 Scanning 426 point from 1254
+31.07 06:55:01 Going to coordinates X=-13.231, Y=-39.205
+31.07 06:55:01 Moving is finished
+31.07 06:56:38 Scanning 427 point from 1254
+31.07 06:56:38 Going to coordinates X=-13.181, Y=-39.205
+31.07 06:56:39 Moving is finished
+31.07 06:58:16 Scanning 428 point from 1254
+31.07 06:58:16 Going to coordinates X=-13.131, Y=-39.205
+31.07 06:58:16 Moving is finished
+31.07 06:59:53 Scanning 429 point from 1254
+31.07 06:59:53 Going to coordinates X=-14.731, Y=-39.155
+31.07 06:59:54 Moving is finished
+31.07 07:01:31 Scanning 430 point from 1254
+31.07 07:01:31 Going to coordinates X=-14.681, Y=-39.155
+31.07 07:01:31 Moving is finished
+31.07 07:03:09 Scanning 431 point from 1254
+31.07 07:03:09 Going to coordinates X=-14.631, Y=-39.155
+31.07 07:03:09 Moving is finished
+31.07 07:04:47 Scanning 432 point from 1254
+31.07 07:04:47 Going to coordinates X=-14.581, Y=-39.155
+31.07 07:04:47 Moving is finished
+31.07 07:06:25 Scanning 433 point from 1254
+31.07 07:06:25 Going to coordinates X=-14.531, Y=-39.155
+31.07 07:06:25 Moving is finished
+31.07 07:08:02 Scanning 434 point from 1254
+31.07 07:08:02 Going to coordinates X=-14.481, Y=-39.155
+31.07 07:08:02 Moving is finished
+31.07 07:09:40 Scanning 435 point from 1254
+31.07 07:09:40 Going to coordinates X=-14.431, Y=-39.155
+31.07 07:09:40 Moving is finished
+31.07 07:11:17 Scanning 436 point from 1254
+31.07 07:11:17 Going to coordinates X=-14.381, Y=-39.155
+31.07 07:11:17 Moving is finished
+31.07 07:12:54 Scanning 437 point from 1254
+31.07 07:12:54 Going to coordinates X=-14.331, Y=-39.155
+31.07 07:12:55 Moving is finished
+31.07 07:14:32 Scanning 438 point from 1254
+31.07 07:14:32 Going to coordinates X=-14.281, Y=-39.155
+31.07 07:14:32 Moving is finished
+31.07 07:16:10 Scanning 439 point from 1254
+31.07 07:16:10 Going to coordinates X=-14.231, Y=-39.155
+31.07 07:16:10 Moving is finished
+31.07 07:17:47 Scanning 440 point from 1254
+31.07 07:17:47 Going to coordinates X=-14.181, Y=-39.155
+31.07 07:17:48 Moving is finished
+31.07 07:19:25 Scanning 441 point from 1254
+31.07 07:19:25 Going to coordinates X=-14.131, Y=-39.155
+31.07 07:19:26 Moving is finished
+31.07 07:21:03 Scanning 442 point from 1254
+31.07 07:21:03 Going to coordinates X=-14.081, Y=-39.155
+31.07 07:21:03 Moving is finished
+31.07 07:22:41 Scanning 443 point from 1254
+31.07 07:22:41 Going to coordinates X=-14.031, Y=-39.155
+31.07 07:22:41 Moving is finished
+31.07 07:24:18 Scanning 444 point from 1254
+31.07 07:24:18 Going to coordinates X=-13.981, Y=-39.155
+31.07 07:24:19 Moving is finished
+31.07 07:25:56 Scanning 445 point from 1254
+31.07 07:25:56 Going to coordinates X=-13.931, Y=-39.155
+31.07 07:25:56 Moving is finished
+31.07 07:27:33 Scanning 446 point from 1254
+31.07 07:27:33 Going to coordinates X=-13.881, Y=-39.155
+31.07 07:27:33 Moving is finished
+31.07 07:29:11 Scanning 447 point from 1254
+31.07 07:29:11 Going to coordinates X=-13.831, Y=-39.155
+31.07 07:29:11 Moving is finished
+31.07 07:30:48 Scanning 448 point from 1254
+31.07 07:30:48 Going to coordinates X=-13.781, Y=-39.155
+31.07 07:30:48 Moving is finished
+31.07 07:32:25 Scanning 449 point from 1254
+31.07 07:32:25 Going to coordinates X=-13.731, Y=-39.155
+31.07 07:32:26 Moving is finished
+31.07 07:34:03 Scanning 450 point from 1254
+31.07 07:34:03 Going to coordinates X=-13.681, Y=-39.155
+31.07 07:34:03 Moving is finished
+31.07 07:35:41 Scanning 451 point from 1254
+31.07 07:35:41 Going to coordinates X=-13.631, Y=-39.155
+31.07 07:35:41 Moving is finished
+31.07 07:37:18 Scanning 452 point from 1254
+31.07 07:37:18 Going to coordinates X=-13.581, Y=-39.155
+31.07 07:37:19 Moving is finished
+31.07 07:38:56 Scanning 453 point from 1254
+31.07 07:38:56 Going to coordinates X=-13.531, Y=-39.155
+31.07 07:38:56 Moving is finished
+31.07 07:40:33 Scanning 454 point from 1254
+31.07 07:40:33 Going to coordinates X=-13.481, Y=-39.155
+31.07 07:40:33 Moving is finished
+31.07 07:42:12 Scanning 455 point from 1254
+31.07 07:42:12 Going to coordinates X=-13.431, Y=-39.155
+31.07 07:42:12 Moving is finished
+31.07 07:43:50 Scanning 456 point from 1254
+31.07 07:43:50 Going to coordinates X=-13.381, Y=-39.155
+31.07 07:43:50 Moving is finished
+31.07 07:45:27 Scanning 457 point from 1254
+31.07 07:45:27 Going to coordinates X=-13.331, Y=-39.155
+31.07 07:45:27 Moving is finished
+31.07 07:47:05 Scanning 458 point from 1254
+31.07 07:47:05 Going to coordinates X=-13.281, Y=-39.155
+31.07 07:47:05 Moving is finished
+31.07 07:48:42 Scanning 459 point from 1254
+31.07 07:48:42 Going to coordinates X=-13.231, Y=-39.155
+31.07 07:48:42 Moving is finished
+31.07 07:50:20 Scanning 460 point from 1254
+31.07 07:50:20 Going to coordinates X=-13.181, Y=-39.155
+31.07 07:50:20 Moving is finished
+31.07 07:51:57 Scanning 461 point from 1254
+31.07 07:51:57 Going to coordinates X=-13.131, Y=-39.155
+31.07 07:51:58 Moving is finished
+31.07 07:53:35 Scanning 462 point from 1254
+31.07 07:53:35 Going to coordinates X=-14.731, Y=-39.105
+31.07 07:53:36 Moving is finished
+31.07 07:55:13 Scanning 463 point from 1254
+31.07 07:55:13 Going to coordinates X=-14.681, Y=-39.105
+31.07 07:55:13 Moving is finished
+31.07 07:56:51 Scanning 464 point from 1254
+31.07 07:56:51 Going to coordinates X=-14.631, Y=-39.105
+31.07 07:56:51 Moving is finished
+31.07 07:58:28 Scanning 465 point from 1254
+31.07 07:58:28 Going to coordinates X=-14.581, Y=-39.105
+31.07 07:58:28 Moving is finished
+31.07 08:00:06 Scanning 466 point from 1254
+31.07 08:00:06 Going to coordinates X=-14.531, Y=-39.105
+31.07 08:00:06 Moving is finished
+31.07 08:01:43 Scanning 467 point from 1254
+31.07 08:01:43 Going to coordinates X=-14.481, Y=-39.105
+31.07 08:01:43 Moving is finished
+31.07 08:03:21 Scanning 468 point from 1254
+31.07 08:03:21 Going to coordinates X=-14.431, Y=-39.105
+31.07 08:03:21 Moving is finished
+31.07 08:04:58 Scanning 469 point from 1254
+31.07 08:04:58 Going to coordinates X=-14.381, Y=-39.105
+31.07 08:04:58 Moving is finished
+31.07 08:06:35 Scanning 470 point from 1254
+31.07 08:06:35 Going to coordinates X=-14.331, Y=-39.105
+31.07 08:06:35 Moving is finished
+31.07 08:08:12 Scanning 471 point from 1254
+31.07 08:08:12 Going to coordinates X=-14.281, Y=-39.105
+31.07 08:08:12 Moving is finished
+31.07 08:09:50 Scanning 472 point from 1254
+31.07 08:09:50 Going to coordinates X=-14.231, Y=-39.105
+31.07 08:09:50 Moving is finished
+31.07 08:11:27 Scanning 473 point from 1254
+31.07 08:11:27 Going to coordinates X=-14.181, Y=-39.105
+31.07 08:11:28 Moving is finished
+31.07 08:13:05 Scanning 474 point from 1254
+31.07 08:13:05 Going to coordinates X=-14.131, Y=-39.105
+31.07 08:13:05 Moving is finished
+31.07 08:14:42 Scanning 475 point from 1254
+31.07 08:14:42 Going to coordinates X=-14.081, Y=-39.105
+31.07 08:14:42 Moving is finished
+31.07 08:16:19 Scanning 476 point from 1254
+31.07 08:16:19 Going to coordinates X=-14.031, Y=-39.105
+31.07 08:16:19 Moving is finished
+31.07 08:17:57 Scanning 477 point from 1254
+31.07 08:17:57 Going to coordinates X=-13.981, Y=-39.105
+31.07 08:17:57 Moving is finished
+31.07 08:19:35 Scanning 478 point from 1254
+31.07 08:19:35 Going to coordinates X=-13.931, Y=-39.105
+31.07 08:19:35 Moving is finished
+31.07 08:21:12 Scanning 479 point from 1254
+31.07 08:21:12 Going to coordinates X=-13.881, Y=-39.105
+31.07 08:21:12 Moving is finished
+31.07 08:22:49 Scanning 480 point from 1254
+31.07 08:22:49 Going to coordinates X=-13.831, Y=-39.105
+31.07 08:22:49 Moving is finished
+31.07 08:24:27 Scanning 481 point from 1254
+31.07 08:24:27 Going to coordinates X=-13.781, Y=-39.105
+31.07 08:24:27 Moving is finished
+31.07 08:26:04 Scanning 482 point from 1254
+31.07 08:26:04 Going to coordinates X=-13.731, Y=-39.105
+31.07 08:26:04 Moving is finished
+31.07 08:27:42 Scanning 483 point from 1254
+31.07 08:27:42 Going to coordinates X=-13.681, Y=-39.105
+31.07 08:27:42 Moving is finished
+31.07 08:29:19 Scanning 484 point from 1254
+31.07 08:29:19 Going to coordinates X=-13.631, Y=-39.105
+31.07 08:29:20 Moving is finished
+31.07 08:30:56 Scanning 485 point from 1254
+31.07 08:30:56 Going to coordinates X=-13.581, Y=-39.105
+31.07 08:30:57 Moving is finished
+31.07 08:32:34 Scanning 486 point from 1254
+31.07 08:32:34 Going to coordinates X=-13.531, Y=-39.105
+31.07 08:32:34 Moving is finished
+31.07 08:34:11 Scanning 487 point from 1254
+31.07 08:34:11 Going to coordinates X=-13.481, Y=-39.105
+31.07 08:34:11 Moving is finished
+31.07 08:35:48 Scanning 488 point from 1254
+31.07 08:35:48 Going to coordinates X=-13.431, Y=-39.105
+31.07 08:35:49 Moving is finished
+31.07 08:37:26 Scanning 489 point from 1254
+31.07 08:37:26 Going to coordinates X=-13.381, Y=-39.105
+31.07 08:37:26 Moving is finished
+31.07 08:39:03 Scanning 490 point from 1254
+31.07 08:39:03 Going to coordinates X=-13.331, Y=-39.105
+31.07 08:39:03 Moving is finished
+31.07 08:40:40 Scanning 491 point from 1254
+31.07 08:40:40 Going to coordinates X=-13.281, Y=-39.105
+31.07 08:40:41 Moving is finished
+31.07 08:42:18 Scanning 492 point from 1254
+31.07 08:42:18 Going to coordinates X=-13.231, Y=-39.105
+31.07 08:42:18 Moving is finished
+31.07 08:43:55 Scanning 493 point from 1254
+31.07 08:43:55 Going to coordinates X=-13.181, Y=-39.105
+31.07 08:43:56 Moving is finished
+31.07 08:45:32 Scanning 494 point from 1254
+31.07 08:45:32 Going to coordinates X=-13.131, Y=-39.105
+31.07 08:45:33 Moving is finished
+31.07 08:47:10 Scanning 495 point from 1254
+31.07 08:47:10 Going to coordinates X=-14.731, Y=-39.055
+31.07 08:47:10 Moving is finished
+31.07 08:48:48 Scanning 496 point from 1254
+31.07 08:48:48 Going to coordinates X=-14.681, Y=-39.055
+31.07 08:48:48 Moving is finished
+31.07 08:50:25 Scanning 497 point from 1254
+31.07 08:50:25 Going to coordinates X=-14.631, Y=-39.055
+31.07 08:50:25 Moving is finished
+31.07 08:52:02 Scanning 498 point from 1254
+31.07 08:52:02 Going to coordinates X=-14.581, Y=-39.055
+31.07 08:52:02 Moving is finished
+31.07 08:53:39 Scanning 499 point from 1254
+31.07 08:53:39 Going to coordinates X=-14.531, Y=-39.055
+31.07 08:53:40 Moving is finished
+31.07 08:55:17 Scanning 500 point from 1254
+31.07 08:55:17 Going to coordinates X=-14.481, Y=-39.055
+31.07 08:55:17 Moving is finished
+31.07 08:56:54 Scanning 501 point from 1254
+31.07 08:56:54 Going to coordinates X=-14.431, Y=-39.055
+31.07 08:56:54 Moving is finished
+31.07 08:58:32 Scanning 502 point from 1254
+31.07 08:58:32 Going to coordinates X=-14.381, Y=-39.055
+31.07 08:58:32 Moving is finished
+31.07 09:00:09 Scanning 503 point from 1254
+31.07 09:00:09 Going to coordinates X=-14.331, Y=-39.055
+31.07 09:00:09 Moving is finished
+31.07 09:01:46 Scanning 504 point from 1254
+31.07 09:01:46 Going to coordinates X=-14.281, Y=-39.055
+31.07 09:01:46 Moving is finished
+31.07 09:03:24 Scanning 505 point from 1254
+31.07 09:03:24 Going to coordinates X=-14.231, Y=-39.055
+31.07 09:03:24 Moving is finished
+31.07 09:05:01 Scanning 506 point from 1254
+31.07 09:05:01 Going to coordinates X=-14.181, Y=-39.055
+31.07 09:05:01 Moving is finished
+31.07 09:06:39 Scanning 507 point from 1254
+31.07 09:06:39 Going to coordinates X=-14.131, Y=-39.055
+31.07 09:06:40 Moving is finished
+31.07 09:08:16 Scanning 508 point from 1254
+31.07 09:08:16 Going to coordinates X=-14.081, Y=-39.055
+31.07 09:08:17 Moving is finished
+31.07 09:09:54 Scanning 509 point from 1254
+31.07 09:09:54 Going to coordinates X=-14.031, Y=-39.055
+31.07 09:09:54 Moving is finished
+31.07 09:11:31 Scanning 510 point from 1254
+31.07 09:11:31 Going to coordinates X=-13.981, Y=-39.055
+31.07 09:11:31 Moving is finished
+31.07 09:13:09 Scanning 511 point from 1254
+31.07 09:13:09 Going to coordinates X=-13.931, Y=-39.055
+31.07 09:13:09 Moving is finished
+31.07 09:14:47 Scanning 512 point from 1254
+31.07 09:14:47 Going to coordinates X=-13.881, Y=-39.055
+31.07 09:14:47 Moving is finished
+31.07 09:16:24 Scanning 513 point from 1254
+31.07 09:16:24 Going to coordinates X=-13.831, Y=-39.055
+31.07 09:16:25 Moving is finished
+31.07 09:18:02 Scanning 514 point from 1254
+31.07 09:18:02 Going to coordinates X=-13.781, Y=-39.055
+31.07 09:18:02 Moving is finished
+31.07 09:19:39 Scanning 515 point from 1254
+31.07 09:19:39 Going to coordinates X=-13.731, Y=-39.055
+31.07 09:19:39 Moving is finished
+31.07 09:21:17 Scanning 516 point from 1254
+31.07 09:21:17 Going to coordinates X=-13.681, Y=-39.055
+31.07 09:21:17 Moving is finished
+31.07 09:22:54 Scanning 517 point from 1254
+31.07 09:22:54 Going to coordinates X=-13.631, Y=-39.055
+31.07 09:22:54 Moving is finished
+31.07 09:24:32 Scanning 518 point from 1254
+31.07 09:24:32 Going to coordinates X=-13.581, Y=-39.055
+31.07 09:24:32 Moving is finished
+31.07 09:26:09 Scanning 519 point from 1254
+31.07 09:26:09 Going to coordinates X=-13.531, Y=-39.055
+31.07 09:26:09 Moving is finished
+31.07 09:27:46 Scanning 520 point from 1254
+31.07 09:27:46 Going to coordinates X=-13.481, Y=-39.055
+31.07 09:27:47 Moving is finished
+31.07 09:29:24 Scanning 521 point from 1254
+31.07 09:29:24 Going to coordinates X=-13.431, Y=-39.055
+31.07 09:29:24 Moving is finished
+31.07 09:31:01 Scanning 522 point from 1254
+31.07 09:31:01 Going to coordinates X=-13.381, Y=-39.055
+31.07 09:31:01 Moving is finished
+31.07 09:32:39 Scanning 523 point from 1254
+31.07 09:32:39 Going to coordinates X=-13.331, Y=-39.055
+31.07 09:32:39 Moving is finished
+31.07 09:34:16 Scanning 524 point from 1254
+31.07 09:34:16 Going to coordinates X=-13.281, Y=-39.055
+31.07 09:34:17 Moving is finished
+31.07 09:35:54 Scanning 525 point from 1254
+31.07 09:35:54 Going to coordinates X=-13.231, Y=-39.055
+31.07 09:35:54 Moving is finished
+31.07 09:37:31 Scanning 526 point from 1254
+31.07 09:37:31 Going to coordinates X=-13.181, Y=-39.055
+31.07 09:37:31 Moving is finished
+31.07 09:39:08 Scanning 527 point from 1254
+31.07 09:39:08 Going to coordinates X=-13.131, Y=-39.055
+31.07 09:39:09 Moving is finished
+31.07 09:40:46 Scanning 528 point from 1254
+31.07 09:40:46 Going to coordinates X=-14.731, Y=-39.005
+31.07 09:40:47 Moving is finished
+31.07 09:42:24 Scanning 529 point from 1254
+31.07 09:42:24 Going to coordinates X=-14.681, Y=-39.005
+31.07 09:42:24 Moving is finished
+31.07 09:44:02 Scanning 530 point from 1254
+31.07 09:44:02 Going to coordinates X=-14.631, Y=-39.005
+31.07 09:44:02 Moving is finished
+31.07 09:45:39 Scanning 531 point from 1254
+31.07 09:45:39 Going to coordinates X=-14.581, Y=-39.005
+31.07 09:45:39 Moving is finished
+31.07 09:47:17 Scanning 532 point from 1254
+31.07 09:47:17 Going to coordinates X=-14.531, Y=-39.005
+31.07 09:47:17 Moving is finished
+31.07 09:48:55 Scanning 533 point from 1254
+31.07 09:48:55 Going to coordinates X=-14.481, Y=-39.005
+31.07 09:48:55 Moving is finished
+31.07 09:50:32 Scanning 534 point from 1254
+31.07 09:50:32 Going to coordinates X=-14.431, Y=-39.005
+31.07 09:50:33 Moving is finished
+31.07 09:52:10 Scanning 535 point from 1254
+31.07 09:52:10 Going to coordinates X=-14.381, Y=-39.005
+31.07 09:52:10 Moving is finished
+31.07 09:53:47 Scanning 536 point from 1254
+31.07 09:53:47 Going to coordinates X=-14.331, Y=-39.005
+31.07 09:53:48 Moving is finished
+31.07 09:55:25 Scanning 537 point from 1254
+31.07 09:55:25 Going to coordinates X=-14.281, Y=-39.005
+31.07 09:55:25 Moving is finished
+31.07 09:57:03 Scanning 538 point from 1254
+31.07 09:57:03 Going to coordinates X=-14.231, Y=-39.005
+31.07 09:57:03 Moving is finished
+31.07 09:58:40 Scanning 539 point from 1254
+31.07 09:58:40 Going to coordinates X=-14.181, Y=-39.005
+31.07 09:58:41 Moving is finished
+31.07 10:00:18 Scanning 540 point from 1254
+31.07 10:00:18 Going to coordinates X=-14.131, Y=-39.005
+31.07 10:00:18 Moving is finished
+31.07 10:01:56 Scanning 541 point from 1254
+31.07 10:01:56 Going to coordinates X=-14.081, Y=-39.005
+31.07 10:01:56 Moving is finished
+31.07 10:03:33 Scanning 542 point from 1254
+31.07 10:03:33 Going to coordinates X=-14.031, Y=-39.005
+31.07 10:03:33 Moving is finished
+31.07 10:05:10 Scanning 543 point from 1254
+31.07 10:05:10 Going to coordinates X=-13.981, Y=-39.005
+31.07 10:05:10 Moving is finished
+31.07 10:06:48 Scanning 544 point from 1254
+31.07 10:06:48 Going to coordinates X=-13.931, Y=-39.005
+31.07 10:06:48 Moving is finished
+31.07 10:08:26 Scanning 545 point from 1254
+31.07 10:08:26 Going to coordinates X=-13.881, Y=-39.005
+31.07 10:08:26 Moving is finished
+31.07 10:10:03 Scanning 546 point from 1254
+31.07 10:10:03 Going to coordinates X=-13.831, Y=-39.005
+31.07 10:10:03 Moving is finished
+31.07 10:11:40 Scanning 547 point from 1254
+31.07 10:11:40 Going to coordinates X=-13.781, Y=-39.005
+31.07 10:11:40 Moving is finished
+31.07 10:13:17 Scanning 548 point from 1254
+31.07 10:13:17 Going to coordinates X=-13.731, Y=-39.005
+31.07 10:13:17 Moving is finished
+31.07 10:14:55 Scanning 549 point from 1254
+31.07 10:14:55 Going to coordinates X=-13.681, Y=-39.005
+31.07 10:14:55 Moving is finished
+31.07 10:16:32 Scanning 550 point from 1254
+31.07 10:16:32 Going to coordinates X=-13.631, Y=-39.005
+31.07 10:16:32 Moving is finished
+31.07 10:18:09 Scanning 551 point from 1254
+31.07 10:18:09 Going to coordinates X=-13.581, Y=-39.005
+31.07 10:18:09 Moving is finished
+31.07 10:19:46 Scanning 552 point from 1254
+31.07 10:19:46 Going to coordinates X=-13.531, Y=-39.005
+31.07 10:19:47 Moving is finished
+31.07 10:21:24 Scanning 553 point from 1254
+31.07 10:21:24 Going to coordinates X=-13.481, Y=-39.005
+31.07 10:21:24 Moving is finished
+31.07 10:23:01 Scanning 554 point from 1254
+31.07 10:23:01 Going to coordinates X=-13.431, Y=-39.005
+31.07 10:23:02 Moving is finished
+31.07 10:24:39 Scanning 555 point from 1254
+31.07 10:24:39 Going to coordinates X=-13.381, Y=-39.005
+31.07 10:24:39 Moving is finished
+31.07 10:26:17 Scanning 556 point from 1254
+31.07 10:26:17 Going to coordinates X=-13.331, Y=-39.005
+31.07 10:26:17 Moving is finished
+31.07 10:27:15 Stopped!
+31.07 12:44:48 Can't send the command to GRBL
+31.07 12:44:48 Write timeout31.07 12:44:48 Write timeout
+
+31.07 14:08:07 Write timeout

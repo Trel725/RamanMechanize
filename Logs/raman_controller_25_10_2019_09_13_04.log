@@ -1,0 +1,36 @@
+25.10 09:13:32 Initializing grbl...
+25.10 09:13:32 Got the response: b''
+25.10 09:20:35 Can't send the command to GRBL
+25.10 09:20:35 Write timeout25.10 09:20:35 Write timeout
+
+25.10 09:30:38 Row 0: 25.10 09:30:38 Map: x1: -16.87, y1: -39.436, x2: -17.433, y2: -38.749, xres: 0.050, yres: 0.040, fname: M2-A1
+25.10 09:30:38 Scanning 0 point from 247
+25.10 09:30:38 Going to coordinates X=-17.433, Y=-39.436
+25.10 09:30:39 Moving is finished
+25.10 09:34:03 Scanning 1 point from 247
+25.10 09:34:03 Going to coordinates X=-17.383, Y=-39.436
+25.10 09:34:04 Moving is finished
+25.10 09:37:29 Scanning 2 point from 247
+25.10 09:37:29 Going to coordinates X=-17.333, Y=-39.436
+25.10 09:37:29 Moving is finished
+25.10 09:40:54 Scanning 3 point from 247
+25.10 09:40:54 Going to coordinates X=-17.283, Y=-39.436
+25.10 09:40:54 Moving is finished
+25.10 09:44:19 Scanning 4 point from 247
+25.10 09:44:19 Going to coordinates X=-17.233, Y=-39.436
+25.10 09:44:19 Moving is finished
+25.10 09:47:44 Scanning 5 point from 247
+25.10 09:47:44 Going to coordinates X=-17.183, Y=-39.436
+25.10 09:47:44 Moving is finished
+25.10 09:51:10 Scanning 6 point from 247
+25.10 09:51:10 Going to coordinates X=-17.133, Y=-39.436
+25.10 09:51:10 Moving is finished
+25.10 09:54:35 Scanning 7 point from 247
+25.10 09:54:35 Going to coordinates X=-17.083, Y=-39.436
+25.10 09:54:35 Moving is finished
+25.10 09:56:50 Stopped!
+25.10 10:30:22 Can't send the command to GRBL
+25.10 10:30:22 Write timeout25.10 10:30:22 Write timeout
+
+25.10 10:30:28 Can't send the command to GRBL
+25.10 10:30:28 Write timeout

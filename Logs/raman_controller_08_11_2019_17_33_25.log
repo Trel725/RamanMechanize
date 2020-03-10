@@ -1,0 +1,1529 @@
+08.11 17:33:26 Initializing grbl...
+08.11 17:33:27 Got the response: b''
+08.11 17:36:18 Can't send the command to GRBL
+08.11 17:36:18 Write timeout08.11 17:36:18 Write timeout
+
+08.11 18:42:52 Row 0: 08.11 18:42:52 Map: x1: -16.697, y1: -39.764, x2: -15.625, y2: -40.779, xres: 0.050, yres: 0.050, fname: MartSol1B
+08.11 18:42:52 Scanning 0 point from 506
+08.11 18:42:52 Going to coordinates X=-16.697, Y=-40.779
+08.11 18:42:52 Moving is finished
+08.11 18:45:01 Scanning 1 point from 506
+08.11 18:45:01 Going to coordinates X=-16.647, Y=-40.779
+08.11 18:45:01 Moving is finished
+08.11 18:47:09 Scanning 2 point from 506
+08.11 18:47:09 Going to coordinates X=-16.597, Y=-40.779
+08.11 18:47:10 Moving is finished
+08.11 18:49:19 Scanning 3 point from 506
+08.11 18:49:19 Going to coordinates X=-16.547, Y=-40.779
+08.11 18:49:19 Moving is finished
+08.11 18:51:27 Scanning 4 point from 506
+08.11 18:51:27 Going to coordinates X=-16.497, Y=-40.779
+08.11 18:51:27 Moving is finished
+08.11 18:53:36 Scanning 5 point from 506
+08.11 18:53:36 Going to coordinates X=-16.447, Y=-40.779
+08.11 18:53:36 Moving is finished
+08.11 18:55:45 Scanning 6 point from 506
+08.11 18:55:45 Going to coordinates X=-16.397, Y=-40.779
+08.11 18:55:45 Moving is finished
+08.11 18:57:54 Scanning 7 point from 506
+08.11 18:57:54 Going to coordinates X=-16.347, Y=-40.779
+08.11 18:57:54 Moving is finished
+08.11 19:00:02 Scanning 8 point from 506
+08.11 19:00:02 Going to coordinates X=-16.297, Y=-40.779
+08.11 19:00:03 Moving is finished
+08.11 19:02:11 Scanning 9 point from 506
+08.11 19:02:11 Going to coordinates X=-16.247, Y=-40.779
+08.11 19:02:11 Moving is finished
+08.11 19:04:19 Scanning 10 point from 506
+08.11 19:04:19 Going to coordinates X=-16.197, Y=-40.779
+08.11 19:04:19 Moving is finished
+08.11 19:06:27 Scanning 11 point from 506
+08.11 19:06:27 Going to coordinates X=-16.147, Y=-40.779
+08.11 19:06:27 Moving is finished
+08.11 19:08:36 Scanning 12 point from 506
+08.11 19:08:36 Going to coordinates X=-16.097, Y=-40.779
+08.11 19:08:36 Moving is finished
+08.11 19:10:45 Scanning 13 point from 506
+08.11 19:10:45 Going to coordinates X=-16.047, Y=-40.779
+08.11 19:10:45 Moving is finished
+08.11 19:12:53 Scanning 14 point from 506
+08.11 19:12:53 Going to coordinates X=-15.997, Y=-40.779
+08.11 19:12:53 Moving is finished
+08.11 19:15:01 Scanning 15 point from 506
+08.11 19:15:01 Going to coordinates X=-15.947, Y=-40.779
+08.11 19:15:02 Moving is finished
+08.11 19:17:10 Scanning 16 point from 506
+08.11 19:17:10 Going to coordinates X=-15.897, Y=-40.779
+08.11 19:17:10 Moving is finished
+08.11 19:19:18 Scanning 17 point from 506
+08.11 19:19:18 Going to coordinates X=-15.847, Y=-40.779
+08.11 19:19:18 Moving is finished
+08.11 19:21:26 Scanning 18 point from 506
+08.11 19:21:26 Going to coordinates X=-15.797, Y=-40.779
+08.11 19:21:26 Moving is finished
+08.11 19:23:35 Scanning 19 point from 506
+08.11 19:23:35 Going to coordinates X=-15.747, Y=-40.779
+08.11 19:23:35 Moving is finished
+08.11 19:25:44 Scanning 20 point from 506
+08.11 19:25:44 Going to coordinates X=-15.697, Y=-40.779
+08.11 19:25:44 Moving is finished
+08.11 19:27:52 Scanning 21 point from 506
+08.11 19:27:52 Going to coordinates X=-15.647, Y=-40.779
+08.11 19:27:53 Moving is finished
+08.11 19:30:01 Scanning 22 point from 506
+08.11 19:30:01 Going to coordinates X=-15.597, Y=-40.779
+08.11 19:30:02 Moving is finished
+08.11 19:32:09 Scanning 23 point from 506
+08.11 19:32:09 Going to coordinates X=-16.697, Y=-40.729
+08.11 19:32:10 Moving is finished
+08.11 19:34:18 Scanning 24 point from 506
+08.11 19:34:18 Going to coordinates X=-16.647, Y=-40.729
+08.11 19:34:19 Moving is finished
+08.11 19:36:27 Scanning 25 point from 506
+08.11 19:36:27 Going to coordinates X=-16.597, Y=-40.729
+08.11 19:36:27 Moving is finished
+08.11 19:38:36 Scanning 26 point from 506
+08.11 19:38:36 Going to coordinates X=-16.547, Y=-40.729
+08.11 19:38:36 Moving is finished
+08.11 19:40:44 Scanning 27 point from 506
+08.11 19:40:44 Going to coordinates X=-16.497, Y=-40.729
+08.11 19:40:45 Moving is finished
+08.11 19:42:53 Scanning 28 point from 506
+08.11 19:42:53 Going to coordinates X=-16.447, Y=-40.729
+08.11 19:42:53 Moving is finished
+08.11 19:45:02 Scanning 29 point from 506
+08.11 19:45:02 Going to coordinates X=-16.397, Y=-40.729
+08.11 19:45:02 Moving is finished
+08.11 19:47:10 Scanning 30 point from 506
+08.11 19:47:10 Going to coordinates X=-16.347, Y=-40.729
+08.11 19:47:11 Moving is finished
+08.11 19:49:19 Scanning 31 point from 506
+08.11 19:49:19 Going to coordinates X=-16.297, Y=-40.729
+08.11 19:49:19 Moving is finished
+08.11 19:51:27 Scanning 32 point from 506
+08.11 19:51:27 Going to coordinates X=-16.247, Y=-40.729
+08.11 19:51:27 Moving is finished
+08.11 19:53:35 Scanning 33 point from 506
+08.11 19:53:35 Going to coordinates X=-16.197, Y=-40.729
+08.11 19:53:36 Moving is finished
+08.11 19:55:43 Scanning 34 point from 506
+08.11 19:55:43 Going to coordinates X=-16.147, Y=-40.729
+08.11 19:55:44 Moving is finished
+08.11 19:57:52 Scanning 35 point from 506
+08.11 19:57:52 Going to coordinates X=-16.097, Y=-40.729
+08.11 19:57:52 Moving is finished
+08.11 20:00:00 Scanning 36 point from 506
+08.11 20:00:00 Going to coordinates X=-16.047, Y=-40.729
+08.11 20:00:01 Moving is finished
+08.11 20:02:09 Scanning 37 point from 506
+08.11 20:02:09 Going to coordinates X=-15.997, Y=-40.729
+08.11 20:02:09 Moving is finished
+08.11 20:04:17 Scanning 38 point from 506
+08.11 20:04:17 Going to coordinates X=-15.947, Y=-40.729
+08.11 20:04:17 Moving is finished
+08.11 20:06:25 Scanning 39 point from 506
+08.11 20:06:25 Going to coordinates X=-15.897, Y=-40.729
+08.11 20:06:25 Moving is finished
+08.11 20:08:33 Scanning 40 point from 506
+08.11 20:08:33 Going to coordinates X=-15.847, Y=-40.729
+08.11 20:08:34 Moving is finished
+08.11 20:10:42 Scanning 41 point from 506
+08.11 20:10:42 Going to coordinates X=-15.797, Y=-40.729
+08.11 20:10:42 Moving is finished
+08.11 20:12:50 Scanning 42 point from 506
+08.11 20:12:50 Going to coordinates X=-15.747, Y=-40.729
+08.11 20:12:50 Moving is finished
+08.11 20:14:59 Scanning 43 point from 506
+08.11 20:14:59 Going to coordinates X=-15.697, Y=-40.729
+08.11 20:14:59 Moving is finished
+08.11 20:17:07 Scanning 44 point from 506
+08.11 20:17:07 Going to coordinates X=-15.647, Y=-40.729
+08.11 20:17:07 Moving is finished
+08.11 20:19:15 Scanning 45 point from 506
+08.11 20:19:15 Going to coordinates X=-15.597, Y=-40.729
+08.11 20:19:15 Moving is finished
+08.11 20:21:23 Scanning 46 point from 506
+08.11 20:21:23 Going to coordinates X=-16.697, Y=-40.679
+08.11 20:21:24 Moving is finished
+08.11 20:23:32 Scanning 47 point from 506
+08.11 20:23:32 Going to coordinates X=-16.647, Y=-40.679
+08.11 20:23:32 Moving is finished
+08.11 20:25:41 Scanning 48 point from 506
+08.11 20:25:41 Going to coordinates X=-16.597, Y=-40.679
+08.11 20:25:41 Moving is finished
+08.11 20:27:49 Scanning 49 point from 506
+08.11 20:27:49 Going to coordinates X=-16.547, Y=-40.679
+08.11 20:27:49 Moving is finished
+08.11 20:29:58 Scanning 50 point from 506
+08.11 20:29:58 Going to coordinates X=-16.497, Y=-40.679
+08.11 20:29:58 Moving is finished
+08.11 20:32:06 Scanning 51 point from 506
+08.11 20:32:06 Going to coordinates X=-16.447, Y=-40.679
+08.11 20:32:06 Moving is finished
+08.11 20:34:15 Scanning 52 point from 506
+08.11 20:34:15 Going to coordinates X=-16.397, Y=-40.679
+08.11 20:34:15 Moving is finished
+08.11 20:36:24 Scanning 53 point from 506
+08.11 20:36:24 Going to coordinates X=-16.347, Y=-40.679
+08.11 20:36:24 Moving is finished
+08.11 20:38:32 Scanning 54 point from 506
+08.11 20:38:32 Going to coordinates X=-16.297, Y=-40.679
+08.11 20:38:32 Moving is finished
+08.11 20:40:40 Scanning 55 point from 506
+08.11 20:40:40 Going to coordinates X=-16.247, Y=-40.679
+08.11 20:40:40 Moving is finished
+08.11 20:42:49 Scanning 56 point from 506
+08.11 20:42:49 Going to coordinates X=-16.197, Y=-40.679
+08.11 20:42:49 Moving is finished
+08.11 20:44:57 Scanning 57 point from 506
+08.11 20:44:57 Going to coordinates X=-16.147, Y=-40.679
+08.11 20:44:58 Moving is finished
+08.11 20:47:06 Scanning 58 point from 506
+08.11 20:47:06 Going to coordinates X=-16.097, Y=-40.679
+08.11 20:47:06 Moving is finished
+08.11 20:49:14 Scanning 59 point from 506
+08.11 20:49:14 Going to coordinates X=-16.047, Y=-40.679
+08.11 20:49:14 Moving is finished
+08.11 20:51:22 Scanning 60 point from 506
+08.11 20:51:22 Going to coordinates X=-15.997, Y=-40.679
+08.11 20:51:23 Moving is finished
+08.11 20:53:31 Scanning 61 point from 506
+08.11 20:53:31 Going to coordinates X=-15.947, Y=-40.679
+08.11 20:53:31 Moving is finished
+08.11 20:55:39 Scanning 62 point from 506
+08.11 20:55:39 Going to coordinates X=-15.897, Y=-40.679
+08.11 20:55:39 Moving is finished
+08.11 20:57:47 Scanning 63 point from 506
+08.11 20:57:47 Going to coordinates X=-15.847, Y=-40.679
+08.11 20:57:48 Moving is finished
+08.11 20:59:56 Scanning 64 point from 506
+08.11 20:59:56 Going to coordinates X=-15.797, Y=-40.679
+08.11 20:59:56 Moving is finished
+08.11 21:02:05 Scanning 65 point from 506
+08.11 21:02:05 Going to coordinates X=-15.747, Y=-40.679
+08.11 21:02:05 Moving is finished
+08.11 21:04:13 Scanning 66 point from 506
+08.11 21:04:13 Going to coordinates X=-15.697, Y=-40.679
+08.11 21:04:13 Moving is finished
+08.11 21:06:22 Scanning 67 point from 506
+08.11 21:06:22 Going to coordinates X=-15.647, Y=-40.679
+08.11 21:06:22 Moving is finished
+08.11 21:08:30 Scanning 68 point from 506
+08.11 21:08:30 Going to coordinates X=-15.597, Y=-40.679
+08.11 21:08:30 Moving is finished
+08.11 21:10:38 Scanning 69 point from 506
+08.11 21:10:38 Going to coordinates X=-16.697, Y=-40.629
+08.11 21:10:39 Moving is finished
+08.11 21:12:48 Scanning 70 point from 506
+08.11 21:12:48 Going to coordinates X=-16.647, Y=-40.629
+08.11 21:12:48 Moving is finished
+08.11 21:14:56 Scanning 71 point from 506
+08.11 21:14:56 Going to coordinates X=-16.597, Y=-40.629
+08.11 21:14:57 Moving is finished
+08.11 21:17:05 Scanning 72 point from 506
+08.11 21:17:05 Going to coordinates X=-16.547, Y=-40.629
+08.11 21:17:05 Moving is finished
+08.11 21:19:14 Scanning 73 point from 506
+08.11 21:19:14 Going to coordinates X=-16.497, Y=-40.629
+08.11 21:19:14 Moving is finished
+08.11 21:21:23 Scanning 74 point from 506
+08.11 21:21:23 Going to coordinates X=-16.447, Y=-40.629
+08.11 21:21:23 Moving is finished
+08.11 21:23:31 Scanning 75 point from 506
+08.11 21:23:31 Going to coordinates X=-16.397, Y=-40.629
+08.11 21:23:31 Moving is finished
+08.11 21:25:39 Scanning 76 point from 506
+08.11 21:25:39 Going to coordinates X=-16.347, Y=-40.629
+08.11 21:25:39 Moving is finished
+08.11 21:27:47 Scanning 77 point from 506
+08.11 21:27:47 Going to coordinates X=-16.297, Y=-40.629
+08.11 21:27:48 Moving is finished
+08.11 21:29:56 Scanning 78 point from 506
+08.11 21:29:56 Going to coordinates X=-16.247, Y=-40.629
+08.11 21:29:56 Moving is finished
+08.11 21:32:04 Scanning 79 point from 506
+08.11 21:32:04 Going to coordinates X=-16.197, Y=-40.629
+08.11 21:32:05 Moving is finished
+08.11 21:34:13 Scanning 80 point from 506
+08.11 21:34:13 Going to coordinates X=-16.147, Y=-40.629
+08.11 21:34:13 Moving is finished
+08.11 21:36:21 Scanning 81 point from 506
+08.11 21:36:21 Going to coordinates X=-16.097, Y=-40.629
+08.11 21:36:22 Moving is finished
+08.11 21:38:30 Scanning 82 point from 506
+08.11 21:38:30 Going to coordinates X=-16.047, Y=-40.629
+08.11 21:38:30 Moving is finished
+08.11 21:40:39 Scanning 83 point from 506
+08.11 21:40:39 Going to coordinates X=-15.997, Y=-40.629
+08.11 21:40:39 Moving is finished
+08.11 21:42:48 Scanning 84 point from 506
+08.11 21:42:48 Going to coordinates X=-15.947, Y=-40.629
+08.11 21:42:48 Moving is finished
+08.11 21:44:56 Scanning 85 point from 506
+08.11 21:44:56 Going to coordinates X=-15.897, Y=-40.629
+08.11 21:44:56 Moving is finished
+08.11 21:47:05 Scanning 86 point from 506
+08.11 21:47:05 Going to coordinates X=-15.847, Y=-40.629
+08.11 21:47:05 Moving is finished
+08.11 21:49:14 Scanning 87 point from 506
+08.11 21:49:14 Going to coordinates X=-15.797, Y=-40.629
+08.11 21:49:14 Moving is finished
+08.11 21:51:22 Scanning 88 point from 506
+08.11 21:51:22 Going to coordinates X=-15.747, Y=-40.629
+08.11 21:51:22 Moving is finished
+08.11 21:53:30 Scanning 89 point from 506
+08.11 21:53:30 Going to coordinates X=-15.697, Y=-40.629
+08.11 21:53:30 Moving is finished
+08.11 21:55:39 Scanning 90 point from 506
+08.11 21:55:39 Going to coordinates X=-15.647, Y=-40.629
+08.11 21:55:39 Moving is finished
+08.11 21:57:47 Scanning 91 point from 506
+08.11 21:57:47 Going to coordinates X=-15.597, Y=-40.629
+08.11 21:57:47 Moving is finished
+08.11 21:59:56 Scanning 92 point from 506
+08.11 21:59:56 Going to coordinates X=-16.697, Y=-40.579
+08.11 21:59:57 Moving is finished
+08.11 22:02:04 Scanning 93 point from 506
+08.11 22:02:04 Going to coordinates X=-16.647, Y=-40.579
+08.11 22:02:05 Moving is finished
+08.11 22:04:13 Scanning 94 point from 506
+08.11 22:04:13 Going to coordinates X=-16.597, Y=-40.579
+08.11 22:04:13 Moving is finished
+08.11 22:06:21 Scanning 95 point from 506
+08.11 22:06:21 Going to coordinates X=-16.547, Y=-40.579
+08.11 22:06:21 Moving is finished
+08.11 22:08:30 Scanning 96 point from 506
+08.11 22:08:30 Going to coordinates X=-16.497, Y=-40.579
+08.11 22:08:30 Moving is finished
+08.11 22:10:38 Scanning 97 point from 506
+08.11 22:10:38 Going to coordinates X=-16.447, Y=-40.579
+08.11 22:10:39 Moving is finished
+08.11 22:12:47 Scanning 98 point from 506
+08.11 22:12:47 Going to coordinates X=-16.397, Y=-40.579
+08.11 22:12:48 Moving is finished
+08.11 22:14:56 Scanning 99 point from 506
+08.11 22:14:56 Going to coordinates X=-16.347, Y=-40.579
+08.11 22:14:56 Moving is finished
+08.11 22:17:04 Scanning 100 point from 506
+08.11 22:17:04 Going to coordinates X=-16.297, Y=-40.579
+08.11 22:17:04 Moving is finished
+08.11 22:19:13 Scanning 101 point from 506
+08.11 22:19:13 Going to coordinates X=-16.247, Y=-40.579
+08.11 22:19:13 Moving is finished
+08.11 22:21:21 Scanning 102 point from 506
+08.11 22:21:21 Going to coordinates X=-16.197, Y=-40.579
+08.11 22:21:21 Moving is finished
+08.11 22:23:30 Scanning 103 point from 506
+08.11 22:23:30 Going to coordinates X=-16.147, Y=-40.579
+08.11 22:23:30 Moving is finished
+08.11 22:25:39 Scanning 104 point from 506
+08.11 22:25:39 Going to coordinates X=-16.097, Y=-40.579
+08.11 22:25:39 Moving is finished
+08.11 22:27:48 Scanning 105 point from 506
+08.11 22:27:48 Going to coordinates X=-16.047, Y=-40.579
+08.11 22:27:48 Moving is finished
+08.11 22:29:56 Scanning 106 point from 506
+08.11 22:29:56 Going to coordinates X=-15.997, Y=-40.579
+08.11 22:29:56 Moving is finished
+08.11 22:32:04 Scanning 107 point from 506
+08.11 22:32:04 Going to coordinates X=-15.947, Y=-40.579
+08.11 22:32:05 Moving is finished
+08.11 22:34:13 Scanning 108 point from 506
+08.11 22:34:13 Going to coordinates X=-15.897, Y=-40.579
+08.11 22:34:13 Moving is finished
+08.11 22:36:21 Scanning 109 point from 506
+08.11 22:36:21 Going to coordinates X=-15.847, Y=-40.579
+08.11 22:36:21 Moving is finished
+08.11 22:38:30 Scanning 110 point from 506
+08.11 22:38:30 Going to coordinates X=-15.797, Y=-40.579
+08.11 22:38:30 Moving is finished
+08.11 22:40:38 Scanning 111 point from 506
+08.11 22:40:38 Going to coordinates X=-15.747, Y=-40.579
+08.11 22:40:38 Moving is finished
+08.11 22:42:46 Scanning 112 point from 506
+08.11 22:42:46 Going to coordinates X=-15.697, Y=-40.579
+08.11 22:42:46 Moving is finished
+08.11 22:44:54 Scanning 113 point from 506
+08.11 22:44:54 Going to coordinates X=-15.647, Y=-40.579
+08.11 22:44:55 Moving is finished
+08.11 22:47:02 Scanning 114 point from 506
+08.11 22:47:02 Going to coordinates X=-15.597, Y=-40.579
+08.11 22:47:03 Moving is finished
+08.11 22:49:11 Scanning 115 point from 506
+08.11 22:49:11 Going to coordinates X=-16.697, Y=-40.529
+08.11 22:49:12 Moving is finished
+08.11 22:51:20 Scanning 116 point from 506
+08.11 22:51:20 Going to coordinates X=-16.647, Y=-40.529
+08.11 22:51:21 Moving is finished
+08.11 22:53:28 Scanning 117 point from 506
+08.11 22:53:28 Going to coordinates X=-16.597, Y=-40.529
+08.11 22:53:29 Moving is finished
+08.11 22:55:37 Scanning 118 point from 506
+08.11 22:55:37 Going to coordinates X=-16.547, Y=-40.529
+08.11 22:55:37 Moving is finished
+08.11 22:57:46 Scanning 119 point from 506
+08.11 22:57:46 Going to coordinates X=-16.497, Y=-40.529
+08.11 22:57:46 Moving is finished
+08.11 22:59:54 Scanning 120 point from 506
+08.11 22:59:54 Going to coordinates X=-16.447, Y=-40.529
+08.11 22:59:54 Moving is finished
+08.11 23:02:02 Scanning 121 point from 506
+08.11 23:02:02 Going to coordinates X=-16.397, Y=-40.529
+08.11 23:02:02 Moving is finished
+08.11 23:04:11 Scanning 122 point from 506
+08.11 23:04:11 Going to coordinates X=-16.347, Y=-40.529
+08.11 23:04:11 Moving is finished
+08.11 23:06:19 Scanning 123 point from 506
+08.11 23:06:19 Going to coordinates X=-16.297, Y=-40.529
+08.11 23:06:20 Moving is finished
+08.11 23:08:28 Scanning 124 point from 506
+08.11 23:08:28 Going to coordinates X=-16.247, Y=-40.529
+08.11 23:08:28 Moving is finished
+08.11 23:10:37 Scanning 125 point from 506
+08.11 23:10:37 Going to coordinates X=-16.197, Y=-40.529
+08.11 23:10:37 Moving is finished
+08.11 23:12:45 Scanning 126 point from 506
+08.11 23:12:45 Going to coordinates X=-16.147, Y=-40.529
+08.11 23:12:45 Moving is finished
+08.11 23:14:53 Scanning 127 point from 506
+08.11 23:14:53 Going to coordinates X=-16.097, Y=-40.529
+08.11 23:14:54 Moving is finished
+08.11 23:17:01 Scanning 128 point from 506
+08.11 23:17:01 Going to coordinates X=-16.047, Y=-40.529
+08.11 23:17:02 Moving is finished
+08.11 23:19:10 Scanning 129 point from 506
+08.11 23:19:10 Going to coordinates X=-15.997, Y=-40.529
+08.11 23:19:10 Moving is finished
+08.11 23:21:18 Scanning 130 point from 506
+08.11 23:21:18 Going to coordinates X=-15.947, Y=-40.529
+08.11 23:21:18 Moving is finished
+08.11 23:23:26 Scanning 131 point from 506
+08.11 23:23:26 Going to coordinates X=-15.897, Y=-40.529
+08.11 23:23:27 Moving is finished
+08.11 23:25:35 Scanning 132 point from 506
+08.11 23:25:35 Going to coordinates X=-15.847, Y=-40.529
+08.11 23:25:35 Moving is finished
+08.11 23:27:43 Scanning 133 point from 506
+08.11 23:27:43 Going to coordinates X=-15.797, Y=-40.529
+08.11 23:27:43 Moving is finished
+08.11 23:29:51 Scanning 134 point from 506
+08.11 23:29:51 Going to coordinates X=-15.747, Y=-40.529
+08.11 23:29:51 Moving is finished
+08.11 23:32:00 Scanning 135 point from 506
+08.11 23:32:00 Going to coordinates X=-15.697, Y=-40.529
+08.11 23:32:00 Moving is finished
+08.11 23:34:08 Scanning 136 point from 506
+08.11 23:34:08 Going to coordinates X=-15.647, Y=-40.529
+08.11 23:34:08 Moving is finished
+08.11 23:36:16 Scanning 137 point from 506
+08.11 23:36:16 Going to coordinates X=-15.597, Y=-40.529
+08.11 23:36:16 Moving is finished
+08.11 23:38:24 Scanning 138 point from 506
+08.11 23:38:24 Going to coordinates X=-16.697, Y=-40.479
+08.11 23:38:25 Moving is finished
+08.11 23:40:34 Scanning 139 point from 506
+08.11 23:40:34 Going to coordinates X=-16.647, Y=-40.479
+08.11 23:40:34 Moving is finished
+08.11 23:42:42 Scanning 140 point from 506
+08.11 23:42:42 Going to coordinates X=-16.597, Y=-40.479
+08.11 23:42:42 Moving is finished
+08.11 23:44:50 Scanning 141 point from 506
+08.11 23:44:50 Going to coordinates X=-16.547, Y=-40.479
+08.11 23:44:51 Moving is finished
+08.11 23:46:59 Scanning 142 point from 506
+08.11 23:46:59 Going to coordinates X=-16.497, Y=-40.479
+08.11 23:46:59 Moving is finished
+08.11 23:49:07 Scanning 143 point from 506
+08.11 23:49:07 Going to coordinates X=-16.447, Y=-40.479
+08.11 23:49:08 Moving is finished
+08.11 23:51:16 Scanning 144 point from 506
+08.11 23:51:16 Going to coordinates X=-16.397, Y=-40.479
+08.11 23:51:17 Moving is finished
+08.11 23:53:25 Scanning 145 point from 506
+08.11 23:53:25 Going to coordinates X=-16.347, Y=-40.479
+08.11 23:53:25 Moving is finished
+08.11 23:55:33 Scanning 146 point from 506
+08.11 23:55:33 Going to coordinates X=-16.297, Y=-40.479
+08.11 23:55:33 Moving is finished
+08.11 23:57:42 Scanning 147 point from 506
+08.11 23:57:42 Going to coordinates X=-16.247, Y=-40.479
+08.11 23:57:42 Moving is finished
+08.11 23:59:51 Scanning 148 point from 506
+08.11 23:59:51 Going to coordinates X=-16.197, Y=-40.479
+08.11 23:59:51 Moving is finished
+09.11 00:01:59 Scanning 149 point from 506
+09.11 00:01:59 Going to coordinates X=-16.147, Y=-40.479
+09.11 00:01:59 Moving is finished
+09.11 00:04:07 Scanning 150 point from 506
+09.11 00:04:07 Going to coordinates X=-16.097, Y=-40.479
+09.11 00:04:08 Moving is finished
+09.11 00:06:16 Scanning 151 point from 506
+09.11 00:06:16 Going to coordinates X=-16.047, Y=-40.479
+09.11 00:06:16 Moving is finished
+09.11 00:08:24 Scanning 152 point from 506
+09.11 00:08:24 Going to coordinates X=-15.997, Y=-40.479
+09.11 00:08:24 Moving is finished
+09.11 00:10:32 Scanning 153 point from 506
+09.11 00:10:32 Going to coordinates X=-15.947, Y=-40.479
+09.11 00:10:32 Moving is finished
+09.11 00:12:40 Scanning 154 point from 506
+09.11 00:12:40 Going to coordinates X=-15.897, Y=-40.479
+09.11 00:12:41 Moving is finished
+09.11 00:14:49 Scanning 155 point from 506
+09.11 00:14:49 Going to coordinates X=-15.847, Y=-40.479
+09.11 00:14:49 Moving is finished
+09.11 00:16:57 Scanning 156 point from 506
+09.11 00:16:57 Going to coordinates X=-15.797, Y=-40.479
+09.11 00:16:58 Moving is finished
+09.11 00:19:06 Scanning 157 point from 506
+09.11 00:19:06 Going to coordinates X=-15.747, Y=-40.479
+09.11 00:19:06 Moving is finished
+09.11 00:21:15 Scanning 158 point from 506
+09.11 00:21:15 Going to coordinates X=-15.697, Y=-40.479
+09.11 00:21:15 Moving is finished
+09.11 00:23:23 Scanning 159 point from 506
+09.11 00:23:23 Going to coordinates X=-15.647, Y=-40.479
+09.11 00:23:23 Moving is finished
+09.11 00:25:32 Scanning 160 point from 506
+09.11 00:25:32 Going to coordinates X=-15.597, Y=-40.479
+09.11 00:25:32 Moving is finished
+09.11 00:27:40 Scanning 161 point from 506
+09.11 00:27:40 Going to coordinates X=-16.697, Y=-40.429
+09.11 00:27:41 Moving is finished
+09.11 00:29:49 Scanning 162 point from 506
+09.11 00:29:49 Going to coordinates X=-16.647, Y=-40.429
+09.11 00:29:49 Moving is finished
+09.11 00:31:57 Scanning 163 point from 506
+09.11 00:31:57 Going to coordinates X=-16.597, Y=-40.429
+09.11 00:31:57 Moving is finished
+09.11 00:34:06 Scanning 164 point from 506
+09.11 00:34:06 Going to coordinates X=-16.547, Y=-40.429
+09.11 00:34:06 Moving is finished
+09.11 00:36:14 Scanning 165 point from 506
+09.11 00:36:14 Going to coordinates X=-16.497, Y=-40.429
+09.11 00:36:14 Moving is finished
+09.11 00:38:22 Scanning 166 point from 506
+09.11 00:38:22 Going to coordinates X=-16.447, Y=-40.429
+09.11 00:38:23 Moving is finished
+09.11 00:40:31 Scanning 167 point from 506
+09.11 00:40:31 Going to coordinates X=-16.397, Y=-40.429
+09.11 00:40:31 Moving is finished
+09.11 00:42:40 Scanning 168 point from 506
+09.11 00:42:40 Going to coordinates X=-16.347, Y=-40.429
+09.11 00:42:40 Moving is finished
+09.11 00:44:48 Scanning 169 point from 506
+09.11 00:44:48 Going to coordinates X=-16.297, Y=-40.429
+09.11 00:44:48 Moving is finished
+09.11 00:46:57 Scanning 170 point from 506
+09.11 00:46:57 Going to coordinates X=-16.247, Y=-40.429
+09.11 00:46:57 Moving is finished
+09.11 00:49:05 Scanning 171 point from 506
+09.11 00:49:05 Going to coordinates X=-16.197, Y=-40.429
+09.11 00:49:05 Moving is finished
+09.11 00:51:14 Scanning 172 point from 506
+09.11 00:51:14 Going to coordinates X=-16.147, Y=-40.429
+09.11 00:51:14 Moving is finished
+09.11 00:53:22 Scanning 173 point from 506
+09.11 00:53:22 Going to coordinates X=-16.097, Y=-40.429
+09.11 00:53:23 Moving is finished
+09.11 00:55:31 Scanning 174 point from 506
+09.11 00:55:31 Going to coordinates X=-16.047, Y=-40.429
+09.11 00:55:31 Moving is finished
+09.11 00:57:40 Scanning 175 point from 506
+09.11 00:57:40 Going to coordinates X=-15.997, Y=-40.429
+09.11 00:57:40 Moving is finished
+09.11 00:59:48 Scanning 176 point from 506
+09.11 00:59:48 Going to coordinates X=-15.947, Y=-40.429
+09.11 00:59:49 Moving is finished
+09.11 01:01:57 Scanning 177 point from 506
+09.11 01:01:57 Going to coordinates X=-15.897, Y=-40.429
+09.11 01:01:57 Moving is finished
+09.11 01:04:05 Scanning 178 point from 506
+09.11 01:04:05 Going to coordinates X=-15.847, Y=-40.429
+09.11 01:04:06 Moving is finished
+09.11 01:06:14 Scanning 179 point from 506
+09.11 01:06:14 Going to coordinates X=-15.797, Y=-40.429
+09.11 01:06:14 Moving is finished
+09.11 01:08:23 Scanning 180 point from 506
+09.11 01:08:23 Going to coordinates X=-15.747, Y=-40.429
+09.11 01:08:23 Moving is finished
+09.11 01:10:31 Scanning 181 point from 506
+09.11 01:10:31 Going to coordinates X=-15.697, Y=-40.429
+09.11 01:10:31 Moving is finished
+09.11 01:12:40 Scanning 182 point from 506
+09.11 01:12:40 Going to coordinates X=-15.647, Y=-40.429
+09.11 01:12:40 Moving is finished
+09.11 01:14:48 Scanning 183 point from 506
+09.11 01:14:48 Going to coordinates X=-15.597, Y=-40.429
+09.11 01:14:49 Moving is finished
+09.11 01:16:57 Scanning 184 point from 506
+09.11 01:16:57 Going to coordinates X=-16.697, Y=-40.379
+09.11 01:16:58 Moving is finished
+09.11 01:19:06 Scanning 185 point from 506
+09.11 01:19:06 Going to coordinates X=-16.647, Y=-40.379
+09.11 01:19:06 Moving is finished
+09.11 01:21:14 Scanning 186 point from 506
+09.11 01:21:14 Going to coordinates X=-16.597, Y=-40.379
+09.11 01:21:15 Moving is finished
+09.11 01:23:23 Scanning 187 point from 506
+09.11 01:23:23 Going to coordinates X=-16.547, Y=-40.379
+09.11 01:23:23 Moving is finished
+09.11 01:25:31 Scanning 188 point from 506
+09.11 01:25:31 Going to coordinates X=-16.497, Y=-40.379
+09.11 01:25:32 Moving is finished
+09.11 01:27:40 Scanning 189 point from 506
+09.11 01:27:40 Going to coordinates X=-16.447, Y=-40.379
+09.11 01:27:40 Moving is finished
+09.11 01:29:48 Scanning 190 point from 506
+09.11 01:29:48 Going to coordinates X=-16.397, Y=-40.379
+09.11 01:29:49 Moving is finished
+09.11 01:31:57 Scanning 191 point from 506
+09.11 01:31:57 Going to coordinates X=-16.347, Y=-40.379
+09.11 01:31:57 Moving is finished
+09.11 01:34:05 Scanning 192 point from 506
+09.11 01:34:05 Going to coordinates X=-16.297, Y=-40.379
+09.11 01:34:06 Moving is finished
+09.11 01:36:14 Scanning 193 point from 506
+09.11 01:36:14 Going to coordinates X=-16.247, Y=-40.379
+09.11 01:36:14 Moving is finished
+09.11 01:38:22 Scanning 194 point from 506
+09.11 01:38:22 Going to coordinates X=-16.197, Y=-40.379
+09.11 01:38:22 Moving is finished
+09.11 01:40:31 Scanning 195 point from 506
+09.11 01:40:31 Going to coordinates X=-16.147, Y=-40.379
+09.11 01:40:31 Moving is finished
+09.11 01:42:39 Scanning 196 point from 506
+09.11 01:42:39 Going to coordinates X=-16.097, Y=-40.379
+09.11 01:42:39 Moving is finished
+09.11 01:44:47 Scanning 197 point from 506
+09.11 01:44:47 Going to coordinates X=-16.047, Y=-40.379
+09.11 01:44:48 Moving is finished
+09.11 01:46:56 Scanning 198 point from 506
+09.11 01:46:56 Going to coordinates X=-15.997, Y=-40.379
+09.11 01:46:56 Moving is finished
+09.11 01:49:04 Scanning 199 point from 506
+09.11 01:49:04 Going to coordinates X=-15.947, Y=-40.379
+09.11 01:49:05 Moving is finished
+09.11 01:51:13 Scanning 200 point from 506
+09.11 01:51:13 Going to coordinates X=-15.897, Y=-40.379
+09.11 01:51:13 Moving is finished
+09.11 01:53:21 Scanning 201 point from 506
+09.11 01:53:21 Going to coordinates X=-15.847, Y=-40.379
+09.11 01:53:21 Moving is finished
+09.11 01:55:29 Scanning 202 point from 506
+09.11 01:55:29 Going to coordinates X=-15.797, Y=-40.379
+09.11 01:55:29 Moving is finished
+09.11 01:57:37 Scanning 203 point from 506
+09.11 01:57:37 Going to coordinates X=-15.747, Y=-40.379
+09.11 01:57:38 Moving is finished
+09.11 01:59:46 Scanning 204 point from 506
+09.11 01:59:46 Going to coordinates X=-15.697, Y=-40.379
+09.11 01:59:46 Moving is finished
+09.11 02:01:55 Scanning 205 point from 506
+09.11 02:01:55 Going to coordinates X=-15.647, Y=-40.379
+09.11 02:01:55 Moving is finished
+09.11 02:04:03 Scanning 206 point from 506
+09.11 02:04:03 Going to coordinates X=-15.597, Y=-40.379
+09.11 02:04:03 Moving is finished
+09.11 02:06:11 Scanning 207 point from 506
+09.11 02:06:11 Going to coordinates X=-16.697, Y=-40.329
+09.11 02:06:12 Moving is finished
+09.11 02:08:21 Scanning 208 point from 506
+09.11 02:08:21 Going to coordinates X=-16.647, Y=-40.329
+09.11 02:08:21 Moving is finished
+09.11 02:10:30 Scanning 209 point from 506
+09.11 02:10:30 Going to coordinates X=-16.597, Y=-40.329
+09.11 02:10:30 Moving is finished
+09.11 02:12:39 Scanning 210 point from 506
+09.11 02:12:39 Going to coordinates X=-16.547, Y=-40.329
+09.11 02:12:39 Moving is finished
+09.11 02:14:47 Scanning 211 point from 506
+09.11 02:14:47 Going to coordinates X=-16.497, Y=-40.329
+09.11 02:14:47 Moving is finished
+09.11 02:16:56 Scanning 212 point from 506
+09.11 02:16:56 Going to coordinates X=-16.447, Y=-40.329
+09.11 02:16:56 Moving is finished
+09.11 02:19:04 Scanning 213 point from 506
+09.11 02:19:04 Going to coordinates X=-16.397, Y=-40.329
+09.11 02:19:05 Moving is finished
+09.11 02:21:13 Scanning 214 point from 506
+09.11 02:21:13 Going to coordinates X=-16.347, Y=-40.329
+09.11 02:21:13 Moving is finished
+09.11 02:23:21 Scanning 215 point from 506
+09.11 02:23:21 Going to coordinates X=-16.297, Y=-40.329
+09.11 02:23:21 Moving is finished
+09.11 02:25:30 Scanning 216 point from 506
+09.11 02:25:30 Going to coordinates X=-16.247, Y=-40.329
+09.11 02:25:30 Moving is finished
+09.11 02:27:38 Scanning 217 point from 506
+09.11 02:27:38 Going to coordinates X=-16.197, Y=-40.329
+09.11 02:27:38 Moving is finished
+09.11 02:29:47 Scanning 218 point from 506
+09.11 02:29:47 Going to coordinates X=-16.147, Y=-40.329
+09.11 02:29:47 Moving is finished
+09.11 02:31:55 Scanning 219 point from 506
+09.11 02:31:55 Going to coordinates X=-16.097, Y=-40.329
+09.11 02:31:55 Moving is finished
+09.11 02:34:03 Scanning 220 point from 506
+09.11 02:34:03 Going to coordinates X=-16.047, Y=-40.329
+09.11 02:34:03 Moving is finished
+09.11 02:36:12 Scanning 221 point from 506
+09.11 02:36:12 Going to coordinates X=-15.997, Y=-40.329
+09.11 02:36:12 Moving is finished
+09.11 02:38:20 Scanning 222 point from 506
+09.11 02:38:20 Going to coordinates X=-15.947, Y=-40.329
+09.11 02:38:20 Moving is finished
+09.11 02:40:29 Scanning 223 point from 506
+09.11 02:40:29 Going to coordinates X=-15.897, Y=-40.329
+09.11 02:40:29 Moving is finished
+09.11 02:42:37 Scanning 224 point from 506
+09.11 02:42:37 Going to coordinates X=-15.847, Y=-40.329
+09.11 02:42:37 Moving is finished
+09.11 02:44:45 Scanning 225 point from 506
+09.11 02:44:45 Going to coordinates X=-15.797, Y=-40.329
+09.11 02:44:45 Moving is finished
+09.11 02:46:54 Scanning 226 point from 506
+09.11 02:46:54 Going to coordinates X=-15.747, Y=-40.329
+09.11 02:46:54 Moving is finished
+09.11 02:49:02 Scanning 227 point from 506
+09.11 02:49:02 Going to coordinates X=-15.697, Y=-40.329
+09.11 02:49:02 Moving is finished
+09.11 02:51:10 Scanning 228 point from 506
+09.11 02:51:10 Going to coordinates X=-15.647, Y=-40.329
+09.11 02:51:11 Moving is finished
+09.11 02:53:19 Scanning 229 point from 506
+09.11 02:53:19 Going to coordinates X=-15.597, Y=-40.329
+09.11 02:53:19 Moving is finished
+09.11 02:55:27 Scanning 230 point from 506
+09.11 02:55:27 Going to coordinates X=-16.697, Y=-40.279
+09.11 02:55:28 Moving is finished
+09.11 02:57:36 Scanning 231 point from 506
+09.11 02:57:36 Going to coordinates X=-16.647, Y=-40.279
+09.11 02:57:37 Moving is finished
+09.11 02:59:45 Scanning 232 point from 506
+09.11 02:59:45 Going to coordinates X=-16.597, Y=-40.279
+09.11 02:59:45 Moving is finished
+09.11 03:01:53 Scanning 233 point from 506
+09.11 03:01:53 Going to coordinates X=-16.547, Y=-40.279
+09.11 03:01:53 Moving is finished
+09.11 03:04:02 Scanning 234 point from 506
+09.11 03:04:02 Going to coordinates X=-16.497, Y=-40.279
+09.11 03:04:02 Moving is finished
+09.11 03:06:10 Scanning 235 point from 506
+09.11 03:06:10 Going to coordinates X=-16.447, Y=-40.279
+09.11 03:06:10 Moving is finished
+09.11 03:08:19 Scanning 236 point from 506
+09.11 03:08:19 Going to coordinates X=-16.397, Y=-40.279
+09.11 03:08:19 Moving is finished
+09.11 03:10:27 Scanning 237 point from 506
+09.11 03:10:27 Going to coordinates X=-16.347, Y=-40.279
+09.11 03:10:27 Moving is finished
+09.11 03:12:35 Scanning 238 point from 506
+09.11 03:12:35 Going to coordinates X=-16.297, Y=-40.279
+09.11 03:12:35 Moving is finished
+09.11 03:14:43 Scanning 239 point from 506
+09.11 03:14:43 Going to coordinates X=-16.247, Y=-40.279
+09.11 03:14:44 Moving is finished
+09.11 03:16:52 Scanning 240 point from 506
+09.11 03:16:52 Going to coordinates X=-16.197, Y=-40.279
+09.11 03:16:52 Moving is finished
+09.11 03:19:00 Scanning 241 point from 506
+09.11 03:19:00 Going to coordinates X=-16.147, Y=-40.279
+09.11 03:19:00 Moving is finished
+09.11 03:21:08 Scanning 242 point from 506
+09.11 03:21:08 Going to coordinates X=-16.097, Y=-40.279
+09.11 03:21:09 Moving is finished
+09.11 03:23:17 Scanning 243 point from 506
+09.11 03:23:17 Going to coordinates X=-16.047, Y=-40.279
+09.11 03:23:17 Moving is finished
+09.11 03:25:25 Scanning 244 point from 506
+09.11 03:25:25 Going to coordinates X=-15.997, Y=-40.279
+09.11 03:25:26 Moving is finished
+09.11 03:27:34 Scanning 245 point from 506
+09.11 03:27:34 Going to coordinates X=-15.947, Y=-40.279
+09.11 03:27:34 Moving is finished
+09.11 03:29:42 Scanning 246 point from 506
+09.11 03:29:42 Going to coordinates X=-15.897, Y=-40.279
+09.11 03:29:42 Moving is finished
+09.11 03:31:50 Scanning 247 point from 506
+09.11 03:31:50 Going to coordinates X=-15.847, Y=-40.279
+09.11 03:31:51 Moving is finished
+09.11 03:33:59 Scanning 248 point from 506
+09.11 03:33:59 Going to coordinates X=-15.797, Y=-40.279
+09.11 03:33:59 Moving is finished
+09.11 03:36:07 Scanning 249 point from 506
+09.11 03:36:07 Going to coordinates X=-15.747, Y=-40.279
+09.11 03:36:07 Moving is finished
+09.11 03:38:16 Scanning 250 point from 506
+09.11 03:38:16 Going to coordinates X=-15.697, Y=-40.279
+09.11 03:38:16 Moving is finished
+09.11 03:40:24 Scanning 251 point from 506
+09.11 03:40:24 Going to coordinates X=-15.647, Y=-40.279
+09.11 03:40:24 Moving is finished
+09.11 03:42:33 Scanning 252 point from 506
+09.11 03:42:33 Going to coordinates X=-15.597, Y=-40.279
+09.11 03:42:33 Moving is finished
+09.11 03:44:42 Scanning 253 point from 506
+09.11 03:44:42 Going to coordinates X=-16.697, Y=-40.229
+09.11 03:44:42 Moving is finished
+09.11 03:46:50 Scanning 254 point from 506
+09.11 03:46:50 Going to coordinates X=-16.647, Y=-40.229
+09.11 03:46:50 Moving is finished
+09.11 03:48:59 Scanning 255 point from 506
+09.11 03:48:59 Going to coordinates X=-16.597, Y=-40.229
+09.11 03:48:59 Moving is finished
+09.11 03:51:07 Scanning 256 point from 506
+09.11 03:51:07 Going to coordinates X=-16.547, Y=-40.229
+09.11 03:51:07 Moving is finished
+09.11 03:53:15 Scanning 257 point from 506
+09.11 03:53:15 Going to coordinates X=-16.497, Y=-40.229
+09.11 03:53:16 Moving is finished
+09.11 03:55:24 Scanning 258 point from 506
+09.11 03:55:24 Going to coordinates X=-16.447, Y=-40.229
+09.11 03:55:24 Moving is finished
+09.11 03:57:33 Scanning 259 point from 506
+09.11 03:57:33 Going to coordinates X=-16.397, Y=-40.229
+09.11 03:57:33 Moving is finished
+09.11 03:59:41 Scanning 260 point from 506
+09.11 03:59:41 Going to coordinates X=-16.347, Y=-40.229
+09.11 03:59:41 Moving is finished
+09.11 04:01:49 Scanning 261 point from 506
+09.11 04:01:49 Going to coordinates X=-16.297, Y=-40.229
+09.11 04:01:49 Moving is finished
+09.11 04:03:58 Scanning 262 point from 506
+09.11 04:03:58 Going to coordinates X=-16.247, Y=-40.229
+09.11 04:03:58 Moving is finished
+09.11 04:06:07 Scanning 263 point from 506
+09.11 04:06:07 Going to coordinates X=-16.197, Y=-40.229
+09.11 04:06:07 Moving is finished
+09.11 04:08:15 Scanning 264 point from 506
+09.11 04:08:15 Going to coordinates X=-16.147, Y=-40.229
+09.11 04:08:15 Moving is finished
+09.11 04:10:24 Scanning 265 point from 506
+09.11 04:10:24 Going to coordinates X=-16.097, Y=-40.229
+09.11 04:10:24 Moving is finished
+09.11 04:12:32 Scanning 266 point from 506
+09.11 04:12:32 Going to coordinates X=-16.047, Y=-40.229
+09.11 04:12:33 Moving is finished
+09.11 04:14:41 Scanning 267 point from 506
+09.11 04:14:41 Going to coordinates X=-15.997, Y=-40.229
+09.11 04:14:41 Moving is finished
+09.11 04:16:49 Scanning 268 point from 506
+09.11 04:16:49 Going to coordinates X=-15.947, Y=-40.229
+09.11 04:16:49 Moving is finished
+09.11 04:18:58 Scanning 269 point from 506
+09.11 04:18:58 Going to coordinates X=-15.897, Y=-40.229
+09.11 04:18:58 Moving is finished
+09.11 04:21:06 Scanning 270 point from 506
+09.11 04:21:06 Going to coordinates X=-15.847, Y=-40.229
+09.11 04:21:07 Moving is finished
+09.11 04:23:15 Scanning 271 point from 506
+09.11 04:23:15 Going to coordinates X=-15.797, Y=-40.229
+09.11 04:23:15 Moving is finished
+09.11 04:25:24 Scanning 272 point from 506
+09.11 04:25:24 Going to coordinates X=-15.747, Y=-40.229
+09.11 04:25:24 Moving is finished
+09.11 04:27:32 Scanning 273 point from 506
+09.11 04:27:32 Going to coordinates X=-15.697, Y=-40.229
+09.11 04:27:32 Moving is finished
+09.11 04:29:41 Scanning 274 point from 506
+09.11 04:29:41 Going to coordinates X=-15.647, Y=-40.229
+09.11 04:29:41 Moving is finished
+09.11 04:31:49 Scanning 275 point from 506
+09.11 04:31:49 Going to coordinates X=-15.597, Y=-40.229
+09.11 04:31:49 Moving is finished
+09.11 04:33:57 Scanning 276 point from 506
+09.11 04:33:57 Going to coordinates X=-16.697, Y=-40.179
+09.11 04:33:58 Moving is finished
+09.11 04:36:06 Scanning 277 point from 506
+09.11 04:36:06 Going to coordinates X=-16.647, Y=-40.179
+09.11 04:36:06 Moving is finished
+09.11 04:38:15 Scanning 278 point from 506
+09.11 04:38:15 Going to coordinates X=-16.597, Y=-40.179
+09.11 04:38:15 Moving is finished
+09.11 04:40:23 Scanning 279 point from 506
+09.11 04:40:23 Going to coordinates X=-16.547, Y=-40.179
+09.11 04:40:23 Moving is finished
+09.11 04:42:31 Scanning 280 point from 506
+09.11 04:42:31 Going to coordinates X=-16.497, Y=-40.179
+09.11 04:42:31 Moving is finished
+09.11 04:44:40 Scanning 281 point from 506
+09.11 04:44:40 Going to coordinates X=-16.447, Y=-40.179
+09.11 04:44:40 Moving is finished
+09.11 04:46:49 Scanning 282 point from 506
+09.11 04:46:49 Going to coordinates X=-16.397, Y=-40.179
+09.11 04:46:49 Moving is finished
+09.11 04:48:57 Scanning 283 point from 506
+09.11 04:48:57 Going to coordinates X=-16.347, Y=-40.179
+09.11 04:48:57 Moving is finished
+09.11 04:51:05 Scanning 284 point from 506
+09.11 04:51:05 Going to coordinates X=-16.297, Y=-40.179
+09.11 04:51:05 Moving is finished
+09.11 04:53:14 Scanning 285 point from 506
+09.11 04:53:14 Going to coordinates X=-16.247, Y=-40.179
+09.11 04:53:14 Moving is finished
+09.11 04:55:22 Scanning 286 point from 506
+09.11 04:55:22 Going to coordinates X=-16.197, Y=-40.179
+09.11 04:55:22 Moving is finished
+09.11 04:57:31 Scanning 287 point from 506
+09.11 04:57:31 Going to coordinates X=-16.147, Y=-40.179
+09.11 04:57:31 Moving is finished
+09.11 04:59:39 Scanning 288 point from 506
+09.11 04:59:39 Going to coordinates X=-16.097, Y=-40.179
+09.11 04:59:39 Moving is finished
+09.11 05:01:48 Scanning 289 point from 506
+09.11 05:01:48 Going to coordinates X=-16.047, Y=-40.179
+09.11 05:01:48 Moving is finished
+09.11 05:03:56 Scanning 290 point from 506
+09.11 05:03:56 Going to coordinates X=-15.997, Y=-40.179
+09.11 05:03:56 Moving is finished
+09.11 05:06:04 Scanning 291 point from 506
+09.11 05:06:04 Going to coordinates X=-15.947, Y=-40.179
+09.11 05:06:04 Moving is finished
+09.11 05:08:12 Scanning 292 point from 506
+09.11 05:08:12 Going to coordinates X=-15.897, Y=-40.179
+09.11 05:08:13 Moving is finished
+09.11 05:10:21 Scanning 293 point from 506
+09.11 05:10:21 Going to coordinates X=-15.847, Y=-40.179
+09.11 05:10:21 Moving is finished
+09.11 05:12:29 Scanning 294 point from 506
+09.11 05:12:29 Going to coordinates X=-15.797, Y=-40.179
+09.11 05:12:29 Moving is finished
+09.11 05:14:37 Scanning 295 point from 506
+09.11 05:14:37 Going to coordinates X=-15.747, Y=-40.179
+09.11 05:14:37 Moving is finished
+09.11 05:16:46 Scanning 296 point from 506
+09.11 05:16:46 Going to coordinates X=-15.697, Y=-40.179
+09.11 05:16:46 Moving is finished
+09.11 05:18:54 Scanning 297 point from 506
+09.11 05:18:54 Going to coordinates X=-15.647, Y=-40.179
+09.11 05:18:54 Moving is finished
+09.11 05:21:03 Scanning 298 point from 506
+09.11 05:21:03 Going to coordinates X=-15.597, Y=-40.179
+09.11 05:21:03 Moving is finished
+09.11 05:23:12 Scanning 299 point from 506
+09.11 05:23:12 Going to coordinates X=-16.697, Y=-40.129
+09.11 05:23:12 Moving is finished
+09.11 05:25:20 Scanning 300 point from 506
+09.11 05:25:20 Going to coordinates X=-16.647, Y=-40.129
+09.11 05:25:21 Moving is finished
+09.11 05:27:29 Scanning 301 point from 506
+09.11 05:27:29 Going to coordinates X=-16.597, Y=-40.129
+09.11 05:27:29 Moving is finished
+09.11 05:29:37 Scanning 302 point from 506
+09.11 05:29:37 Going to coordinates X=-16.547, Y=-40.129
+09.11 05:29:37 Moving is finished
+09.11 05:31:46 Scanning 303 point from 506
+09.11 05:31:46 Going to coordinates X=-16.497, Y=-40.129
+09.11 05:31:46 Moving is finished
+09.11 05:33:54 Scanning 304 point from 506
+09.11 05:33:54 Going to coordinates X=-16.447, Y=-40.129
+09.11 05:33:54 Moving is finished
+09.11 05:36:02 Scanning 305 point from 506
+09.11 05:36:02 Going to coordinates X=-16.397, Y=-40.129
+09.11 05:36:03 Moving is finished
+09.11 05:38:11 Scanning 306 point from 506
+09.11 05:38:11 Going to coordinates X=-16.347, Y=-40.129
+09.11 05:38:11 Moving is finished
+09.11 05:40:19 Scanning 307 point from 506
+09.11 05:40:19 Going to coordinates X=-16.297, Y=-40.129
+09.11 05:40:19 Moving is finished
+09.11 05:42:27 Scanning 308 point from 506
+09.11 05:42:27 Going to coordinates X=-16.247, Y=-40.129
+09.11 05:42:27 Moving is finished
+09.11 05:44:35 Scanning 309 point from 506
+09.11 05:44:35 Going to coordinates X=-16.197, Y=-40.129
+09.11 05:44:36 Moving is finished
+09.11 05:46:44 Scanning 310 point from 506
+09.11 05:46:44 Going to coordinates X=-16.147, Y=-40.129
+09.11 05:46:44 Moving is finished
+09.11 05:48:53 Scanning 311 point from 506
+09.11 05:48:53 Going to coordinates X=-16.097, Y=-40.129
+09.11 05:48:53 Moving is finished
+09.11 05:51:01 Scanning 312 point from 506
+09.11 05:51:01 Going to coordinates X=-16.047, Y=-40.129
+09.11 05:51:02 Moving is finished
+09.11 05:53:10 Scanning 313 point from 506
+09.11 05:53:10 Going to coordinates X=-15.997, Y=-40.129
+09.11 05:53:10 Moving is finished
+09.11 05:55:19 Scanning 314 point from 506
+09.11 05:55:19 Going to coordinates X=-15.947, Y=-40.129
+09.11 05:55:19 Moving is finished
+09.11 05:57:27 Scanning 315 point from 506
+09.11 05:57:27 Going to coordinates X=-15.897, Y=-40.129
+09.11 05:57:27 Moving is finished
+09.11 05:59:36 Scanning 316 point from 506
+09.11 05:59:36 Going to coordinates X=-15.847, Y=-40.129
+09.11 05:59:36 Moving is finished
+09.11 06:01:44 Scanning 317 point from 506
+09.11 06:01:44 Going to coordinates X=-15.797, Y=-40.129
+09.11 06:01:44 Moving is finished
+09.11 06:03:52 Scanning 318 point from 506
+09.11 06:03:52 Going to coordinates X=-15.747, Y=-40.129
+09.11 06:03:52 Moving is finished
+09.11 06:06:00 Scanning 319 point from 506
+09.11 06:06:00 Going to coordinates X=-15.697, Y=-40.129
+09.11 06:06:01 Moving is finished
+09.11 06:08:09 Scanning 320 point from 506
+09.11 06:08:09 Going to coordinates X=-15.647, Y=-40.129
+09.11 06:08:09 Moving is finished
+09.11 06:10:18 Scanning 321 point from 506
+09.11 06:10:18 Going to coordinates X=-15.597, Y=-40.129
+09.11 06:10:18 Moving is finished
+09.11 06:12:26 Scanning 322 point from 506
+09.11 06:12:26 Going to coordinates X=-16.697, Y=-40.079
+09.11 06:12:27 Moving is finished
+09.11 06:14:35 Scanning 323 point from 506
+09.11 06:14:35 Going to coordinates X=-16.647, Y=-40.079
+09.11 06:14:35 Moving is finished
+09.11 06:16:43 Scanning 324 point from 506
+09.11 06:16:43 Going to coordinates X=-16.597, Y=-40.079
+09.11 06:16:44 Moving is finished
+09.11 06:18:52 Scanning 325 point from 506
+09.11 06:18:52 Going to coordinates X=-16.547, Y=-40.079
+09.11 06:18:52 Moving is finished
+09.11 06:21:00 Scanning 326 point from 506
+09.11 06:21:00 Going to coordinates X=-16.497, Y=-40.079
+09.11 06:21:00 Moving is finished
+09.11 06:23:09 Scanning 327 point from 506
+09.11 06:23:09 Going to coordinates X=-16.447, Y=-40.079
+09.11 06:23:09 Moving is finished
+09.11 06:25:18 Scanning 328 point from 506
+09.11 06:25:18 Going to coordinates X=-16.397, Y=-40.079
+09.11 06:25:18 Moving is finished
+09.11 06:27:26 Scanning 329 point from 506
+09.11 06:27:26 Going to coordinates X=-16.347, Y=-40.079
+09.11 06:27:26 Moving is finished
+09.11 06:29:34 Scanning 330 point from 506
+09.11 06:29:34 Going to coordinates X=-16.297, Y=-40.079
+09.11 06:29:34 Moving is finished
+09.11 06:31:42 Scanning 331 point from 506
+09.11 06:31:42 Going to coordinates X=-16.247, Y=-40.079
+09.11 06:31:43 Moving is finished
+09.11 06:33:51 Scanning 332 point from 506
+09.11 06:33:51 Going to coordinates X=-16.197, Y=-40.079
+09.11 06:33:51 Moving is finished
+09.11 06:35:59 Scanning 333 point from 506
+09.11 06:35:59 Going to coordinates X=-16.147, Y=-40.079
+09.11 06:35:59 Moving is finished
+09.11 06:38:07 Scanning 334 point from 506
+09.11 06:38:07 Going to coordinates X=-16.097, Y=-40.079
+09.11 06:38:07 Moving is finished
+09.11 06:40:16 Scanning 335 point from 506
+09.11 06:40:16 Going to coordinates X=-16.047, Y=-40.079
+09.11 06:40:16 Moving is finished
+09.11 06:42:24 Scanning 336 point from 506
+09.11 06:42:24 Going to coordinates X=-15.997, Y=-40.079
+09.11 06:42:24 Moving is finished
+09.11 06:44:33 Scanning 337 point from 506
+09.11 06:44:33 Going to coordinates X=-15.947, Y=-40.079
+09.11 06:44:33 Moving is finished
+09.11 06:46:41 Scanning 338 point from 506
+09.11 06:46:41 Going to coordinates X=-15.897, Y=-40.079
+09.11 06:46:41 Moving is finished
+09.11 06:48:49 Scanning 339 point from 506
+09.11 06:48:49 Going to coordinates X=-15.847, Y=-40.079
+09.11 06:48:49 Moving is finished
+09.11 06:50:57 Scanning 340 point from 506
+09.11 06:50:57 Going to coordinates X=-15.797, Y=-40.079
+09.11 06:50:58 Moving is finished
+09.11 06:53:06 Scanning 341 point from 506
+09.11 06:53:06 Going to coordinates X=-15.747, Y=-40.079
+09.11 06:53:07 Moving is finished
+09.11 06:55:14 Scanning 342 point from 506
+09.11 06:55:14 Going to coordinates X=-15.697, Y=-40.079
+09.11 06:55:15 Moving is finished
+09.11 06:57:23 Scanning 343 point from 506
+09.11 06:57:23 Going to coordinates X=-15.647, Y=-40.079
+09.11 06:57:23 Moving is finished
+09.11 06:59:31 Scanning 344 point from 506
+09.11 06:59:31 Going to coordinates X=-15.597, Y=-40.079
+09.11 06:59:31 Moving is finished
+09.11 07:01:39 Scanning 345 point from 506
+09.11 07:01:39 Going to coordinates X=-16.697, Y=-40.029
+09.11 07:01:40 Moving is finished
+09.11 07:03:49 Scanning 346 point from 506
+09.11 07:03:49 Going to coordinates X=-16.647, Y=-40.029
+09.11 07:03:49 Moving is finished
+09.11 07:05:57 Scanning 347 point from 506
+09.11 07:05:57 Going to coordinates X=-16.597, Y=-40.029
+09.11 07:05:57 Moving is finished
+09.11 07:08:06 Scanning 348 point from 506
+09.11 07:08:06 Going to coordinates X=-16.547, Y=-40.029
+09.11 07:08:06 Moving is finished
+09.11 07:10:14 Scanning 349 point from 506
+09.11 07:10:14 Going to coordinates X=-16.497, Y=-40.029
+09.11 07:10:14 Moving is finished
+09.11 07:12:23 Scanning 350 point from 506
+09.11 07:12:23 Going to coordinates X=-16.447, Y=-40.029
+09.11 07:12:23 Moving is finished
+09.11 07:14:31 Scanning 351 point from 506
+09.11 07:14:31 Going to coordinates X=-16.397, Y=-40.029
+09.11 07:14:31 Moving is finished
+09.11 07:16:40 Scanning 352 point from 506
+09.11 07:16:40 Going to coordinates X=-16.347, Y=-40.029
+09.11 07:16:40 Moving is finished
+09.11 07:18:48 Scanning 353 point from 506
+09.11 07:18:48 Going to coordinates X=-16.297, Y=-40.029
+09.11 07:18:48 Moving is finished
+09.11 07:20:57 Scanning 354 point from 506
+09.11 07:20:57 Going to coordinates X=-16.247, Y=-40.029
+09.11 07:20:57 Moving is finished
+09.11 07:23:05 Scanning 355 point from 506
+09.11 07:23:05 Going to coordinates X=-16.197, Y=-40.029
+09.11 07:23:05 Moving is finished
+09.11 07:25:13 Scanning 356 point from 506
+09.11 07:25:13 Going to coordinates X=-16.147, Y=-40.029
+09.11 07:25:13 Moving is finished
+09.11 07:27:22 Scanning 357 point from 506
+09.11 07:27:22 Going to coordinates X=-16.097, Y=-40.029
+09.11 07:27:22 Moving is finished
+09.11 07:29:31 Scanning 358 point from 506
+09.11 07:29:31 Going to coordinates X=-16.047, Y=-40.029
+09.11 07:29:31 Moving is finished
+09.11 07:31:40 Scanning 359 point from 506
+09.11 07:31:40 Going to coordinates X=-15.997, Y=-40.029
+09.11 07:31:40 Moving is finished
+09.11 07:33:49 Scanning 360 point from 506
+09.11 07:33:49 Going to coordinates X=-15.947, Y=-40.029
+09.11 07:33:49 Moving is finished
+09.11 07:35:57 Scanning 361 point from 506
+09.11 07:35:57 Going to coordinates X=-15.897, Y=-40.029
+09.11 07:35:57 Moving is finished
+09.11 07:38:05 Scanning 362 point from 506
+09.11 07:38:05 Going to coordinates X=-15.847, Y=-40.029
+09.11 07:38:05 Moving is finished
+09.11 07:40:14 Scanning 363 point from 506
+09.11 07:40:14 Going to coordinates X=-15.797, Y=-40.029
+09.11 07:40:14 Moving is finished
+09.11 07:42:22 Scanning 364 point from 506
+09.11 07:42:22 Going to coordinates X=-15.747, Y=-40.029
+09.11 07:42:22 Moving is finished
+09.11 07:44:31 Scanning 365 point from 506
+09.11 07:44:31 Going to coordinates X=-15.697, Y=-40.029
+09.11 07:44:31 Moving is finished
+09.11 07:46:39 Scanning 366 point from 506
+09.11 07:46:39 Going to coordinates X=-15.647, Y=-40.029
+09.11 07:46:40 Moving is finished
+09.11 07:48:48 Scanning 367 point from 506
+09.11 07:48:48 Going to coordinates X=-15.597, Y=-40.029
+09.11 07:48:48 Moving is finished
+09.11 07:50:56 Scanning 368 point from 506
+09.11 07:50:56 Going to coordinates X=-16.697, Y=-39.979
+09.11 07:50:57 Moving is finished
+09.11 07:53:05 Scanning 369 point from 506
+09.11 07:53:05 Going to coordinates X=-16.647, Y=-39.979
+09.11 07:53:05 Moving is finished
+09.11 07:55:13 Scanning 370 point from 506
+09.11 07:55:13 Going to coordinates X=-16.597, Y=-39.979
+09.11 07:55:14 Moving is finished
+09.11 07:57:22 Scanning 371 point from 506
+09.11 07:57:22 Going to coordinates X=-16.547, Y=-39.979
+09.11 07:57:22 Moving is finished
+09.11 07:59:30 Scanning 372 point from 506
+09.11 07:59:30 Going to coordinates X=-16.497, Y=-39.979
+09.11 07:59:30 Moving is finished
+09.11 08:01:38 Scanning 373 point from 506
+09.11 08:01:38 Going to coordinates X=-16.447, Y=-39.979
+09.11 08:01:39 Moving is finished
+09.11 08:03:47 Scanning 374 point from 506
+09.11 08:03:47 Going to coordinates X=-16.397, Y=-39.979
+09.11 08:03:47 Moving is finished
+09.11 08:05:55 Scanning 375 point from 506
+09.11 08:05:55 Going to coordinates X=-16.347, Y=-39.979
+09.11 08:05:55 Moving is finished
+09.11 08:08:04 Scanning 376 point from 506
+09.11 08:08:04 Going to coordinates X=-16.297, Y=-39.979
+09.11 08:08:04 Moving is finished
+09.11 08:10:12 Scanning 377 point from 506
+09.11 08:10:12 Going to coordinates X=-16.247, Y=-39.979
+09.11 08:10:12 Moving is finished
+09.11 08:12:21 Scanning 378 point from 506
+09.11 08:12:21 Going to coordinates X=-16.197, Y=-39.979
+09.11 08:12:21 Moving is finished
+09.11 08:14:29 Scanning 379 point from 506
+09.11 08:14:29 Going to coordinates X=-16.147, Y=-39.979
+09.11 08:14:29 Moving is finished
+09.11 08:16:37 Scanning 380 point from 506
+09.11 08:16:37 Going to coordinates X=-16.097, Y=-39.979
+09.11 08:16:37 Moving is finished
+09.11 08:18:46 Scanning 381 point from 506
+09.11 08:18:46 Going to coordinates X=-16.047, Y=-39.979
+09.11 08:18:46 Moving is finished
+09.11 08:20:54 Scanning 382 point from 506
+09.11 08:20:54 Going to coordinates X=-15.997, Y=-39.979
+09.11 08:20:54 Moving is finished
+09.11 08:23:03 Scanning 383 point from 506
+09.11 08:23:03 Going to coordinates X=-15.947, Y=-39.979
+09.11 08:23:03 Moving is finished
+09.11 08:25:11 Scanning 384 point from 506
+09.11 08:25:11 Going to coordinates X=-15.897, Y=-39.979
+09.11 08:25:12 Moving is finished
+09.11 08:27:19 Scanning 385 point from 506
+09.11 08:27:19 Going to coordinates X=-15.847, Y=-39.979
+09.11 08:27:20 Moving is finished
+09.11 08:29:28 Scanning 386 point from 506
+09.11 08:29:28 Going to coordinates X=-15.797, Y=-39.979
+09.11 08:29:28 Moving is finished
+09.11 08:31:36 Scanning 387 point from 506
+09.11 08:31:36 Going to coordinates X=-15.747, Y=-39.979
+09.11 08:31:36 Moving is finished
+09.11 08:33:44 Scanning 388 point from 506
+09.11 08:33:44 Going to coordinates X=-15.697, Y=-39.979
+09.11 08:33:44 Moving is finished
+09.11 08:35:52 Scanning 389 point from 506
+09.11 08:35:52 Going to coordinates X=-15.647, Y=-39.979
+09.11 08:35:53 Moving is finished
+09.11 08:38:01 Scanning 390 point from 506
+09.11 08:38:01 Going to coordinates X=-15.597, Y=-39.979
+09.11 08:38:01 Moving is finished
+09.11 08:40:09 Scanning 391 point from 506
+09.11 08:40:09 Going to coordinates X=-16.697, Y=-39.929
+09.11 08:40:10 Moving is finished
+09.11 08:42:18 Scanning 392 point from 506
+09.11 08:42:18 Going to coordinates X=-16.647, Y=-39.929
+09.11 08:42:18 Moving is finished
+09.11 08:44:26 Scanning 393 point from 506
+09.11 08:44:26 Going to coordinates X=-16.597, Y=-39.929
+09.11 08:44:27 Moving is finished
+09.11 08:46:35 Scanning 394 point from 506
+09.11 08:46:35 Going to coordinates X=-16.547, Y=-39.929
+09.11 08:46:35 Moving is finished
+09.11 08:48:44 Scanning 395 point from 506
+09.11 08:48:44 Going to coordinates X=-16.497, Y=-39.929
+09.11 08:48:44 Moving is finished
+09.11 08:50:52 Scanning 396 point from 506
+09.11 08:50:52 Going to coordinates X=-16.447, Y=-39.929
+09.11 08:50:52 Moving is finished
+09.11 08:53:00 Scanning 397 point from 506
+09.11 08:53:00 Going to coordinates X=-16.397, Y=-39.929
+09.11 08:53:00 Moving is finished
+09.11 08:55:09 Scanning 398 point from 506
+09.11 08:55:09 Going to coordinates X=-16.347, Y=-39.929
+09.11 08:55:09 Moving is finished
+09.11 08:57:18 Scanning 399 point from 506
+09.11 08:57:18 Going to coordinates X=-16.297, Y=-39.929
+09.11 08:57:18 Moving is finished
+09.11 08:59:26 Scanning 400 point from 506
+09.11 08:59:26 Going to coordinates X=-16.247, Y=-39.929
+09.11 08:59:27 Moving is finished
+09.11 09:01:35 Scanning 401 point from 506
+09.11 09:01:35 Going to coordinates X=-16.197, Y=-39.929
+09.11 09:01:36 Moving is finished
+09.11 09:03:44 Scanning 402 point from 506
+09.11 09:03:44 Going to coordinates X=-16.147, Y=-39.929
+09.11 09:03:44 Moving is finished
+09.11 09:05:52 Scanning 403 point from 506
+09.11 09:05:52 Going to coordinates X=-16.097, Y=-39.929
+09.11 09:05:52 Moving is finished
+09.11 09:08:00 Scanning 404 point from 506
+09.11 09:08:00 Going to coordinates X=-16.047, Y=-39.929
+09.11 09:08:00 Moving is finished
+09.11 09:10:08 Scanning 405 point from 506
+09.11 09:10:08 Going to coordinates X=-15.997, Y=-39.929
+09.11 09:10:09 Moving is finished
+09.11 09:12:17 Scanning 406 point from 506
+09.11 09:12:17 Going to coordinates X=-15.947, Y=-39.929
+09.11 09:12:17 Moving is finished
+09.11 09:14:25 Scanning 407 point from 506
+09.11 09:14:25 Going to coordinates X=-15.897, Y=-39.929
+09.11 09:14:25 Moving is finished
+09.11 09:16:33 Scanning 408 point from 506
+09.11 09:16:33 Going to coordinates X=-15.847, Y=-39.929
+09.11 09:16:33 Moving is finished
+09.11 09:18:42 Scanning 409 point from 506
+09.11 09:18:42 Going to coordinates X=-15.797, Y=-39.929
+09.11 09:18:42 Moving is finished
+09.11 09:20:50 Scanning 410 point from 506
+09.11 09:20:50 Going to coordinates X=-15.747, Y=-39.929
+09.11 09:20:50 Moving is finished
+09.11 09:22:59 Scanning 411 point from 506
+09.11 09:22:59 Going to coordinates X=-15.697, Y=-39.929
+09.11 09:22:59 Moving is finished
+09.11 09:25:07 Scanning 412 point from 506
+09.11 09:25:07 Going to coordinates X=-15.647, Y=-39.929
+09.11 09:25:07 Moving is finished
+09.11 09:27:15 Scanning 413 point from 506
+09.11 09:27:15 Going to coordinates X=-15.597, Y=-39.929
+09.11 09:27:16 Moving is finished
+09.11 09:29:24 Scanning 414 point from 506
+09.11 09:29:24 Going to coordinates X=-16.697, Y=-39.879
+09.11 09:29:24 Moving is finished
+09.11 09:31:32 Scanning 415 point from 506
+09.11 09:31:32 Going to coordinates X=-16.647, Y=-39.879
+09.11 09:31:33 Moving is finished
+09.11 09:33:41 Scanning 416 point from 506
+09.11 09:33:41 Going to coordinates X=-16.597, Y=-39.879
+09.11 09:33:42 Moving is finished
+09.11 09:35:49 Scanning 417 point from 506
+09.11 09:35:49 Going to coordinates X=-16.547, Y=-39.879
+09.11 09:35:50 Moving is finished
+09.11 09:37:58 Scanning 418 point from 506
+09.11 09:37:58 Going to coordinates X=-16.497, Y=-39.879
+09.11 09:37:58 Moving is finished
+09.11 09:40:06 Scanning 419 point from 506
+09.11 09:40:06 Going to coordinates X=-16.447, Y=-39.879
+09.11 09:40:07 Moving is finished
+09.11 09:42:14 Scanning 420 point from 506
+09.11 09:42:14 Going to coordinates X=-16.397, Y=-39.879
+09.11 09:42:15 Moving is finished
+09.11 09:44:23 Scanning 421 point from 506
+09.11 09:44:23 Going to coordinates X=-16.347, Y=-39.879
+09.11 09:44:23 Moving is finished
+09.11 09:46:31 Scanning 422 point from 506
+09.11 09:46:31 Going to coordinates X=-16.297, Y=-39.879
+09.11 09:46:31 Moving is finished
+09.11 09:48:39 Scanning 423 point from 506
+09.11 09:48:39 Going to coordinates X=-16.247, Y=-39.879
+09.11 09:48:40 Moving is finished
+09.11 09:50:48 Scanning 424 point from 506
+09.11 09:50:48 Going to coordinates X=-16.197, Y=-39.879
+09.11 09:50:48 Moving is finished
+09.11 09:52:57 Scanning 425 point from 506
+09.11 09:52:57 Going to coordinates X=-16.147, Y=-39.879
+09.11 09:52:57 Moving is finished
+09.11 09:55:05 Scanning 426 point from 506
+09.11 09:55:05 Going to coordinates X=-16.097, Y=-39.879
+09.11 09:55:05 Moving is finished
+09.11 09:57:13 Scanning 427 point from 506
+09.11 09:57:13 Going to coordinates X=-16.047, Y=-39.879
+09.11 09:57:14 Moving is finished
+09.11 09:59:22 Scanning 428 point from 506
+09.11 09:59:22 Going to coordinates X=-15.997, Y=-39.879
+09.11 09:59:22 Moving is finished
+09.11 10:01:30 Scanning 429 point from 506
+09.11 10:01:30 Going to coordinates X=-15.947, Y=-39.879
+09.11 10:01:30 Moving is finished
+09.11 10:03:38 Scanning 430 point from 506
+09.11 10:03:38 Going to coordinates X=-15.897, Y=-39.879
+09.11 10:03:39 Moving is finished
+09.11 10:05:47 Scanning 431 point from 506
+09.11 10:05:47 Going to coordinates X=-15.847, Y=-39.879
+09.11 10:05:47 Moving is finished
+09.11 10:07:55 Scanning 432 point from 506
+09.11 10:07:55 Going to coordinates X=-15.797, Y=-39.879
+09.11 10:07:55 Moving is finished
+09.11 10:10:04 Scanning 433 point from 506
+09.11 10:10:04 Going to coordinates X=-15.747, Y=-39.879
+09.11 10:10:04 Moving is finished
+09.11 10:12:12 Scanning 434 point from 506
+09.11 10:12:12 Going to coordinates X=-15.697, Y=-39.879
+09.11 10:12:12 Moving is finished
+09.11 10:14:21 Scanning 435 point from 506
+09.11 10:14:21 Going to coordinates X=-15.647, Y=-39.879
+09.11 10:14:21 Moving is finished
+09.11 10:16:29 Scanning 436 point from 506
+09.11 10:16:29 Going to coordinates X=-15.597, Y=-39.879
+09.11 10:16:29 Moving is finished
+09.11 10:18:38 Scanning 437 point from 506
+09.11 10:18:38 Going to coordinates X=-16.697, Y=-39.829
+09.11 10:18:39 Moving is finished
+09.11 10:20:47 Scanning 438 point from 506
+09.11 10:20:47 Going to coordinates X=-16.647, Y=-39.829
+09.11 10:20:48 Moving is finished
+09.11 10:22:55 Scanning 439 point from 506
+09.11 10:22:55 Going to coordinates X=-16.597, Y=-39.829
+09.11 10:22:56 Moving is finished
+09.11 10:25:04 Scanning 440 point from 506
+09.11 10:25:04 Going to coordinates X=-16.547, Y=-39.829
+09.11 10:25:04 Moving is finished
+09.11 10:27:12 Scanning 441 point from 506
+09.11 10:27:12 Going to coordinates X=-16.497, Y=-39.829
+09.11 10:27:12 Moving is finished
+09.11 10:29:20 Scanning 442 point from 506
+09.11 10:29:20 Going to coordinates X=-16.447, Y=-39.829
+09.11 10:29:20 Moving is finished
+09.11 10:31:28 Scanning 443 point from 506
+09.11 10:31:28 Going to coordinates X=-16.397, Y=-39.829
+09.11 10:31:29 Moving is finished
+09.11 10:33:37 Scanning 444 point from 506
+09.11 10:33:37 Going to coordinates X=-16.347, Y=-39.829
+09.11 10:33:37 Moving is finished
+09.11 10:35:45 Scanning 445 point from 506
+09.11 10:35:45 Going to coordinates X=-16.297, Y=-39.829
+09.11 10:35:45 Moving is finished
+09.11 10:37:53 Scanning 446 point from 506
+09.11 10:37:53 Going to coordinates X=-16.247, Y=-39.829
+09.11 10:37:54 Moving is finished
+09.11 10:40:01 Scanning 447 point from 506
+09.11 10:40:01 Going to coordinates X=-16.197, Y=-39.829
+09.11 10:40:02 Moving is finished
+09.11 10:42:10 Scanning 448 point from 506
+09.11 10:42:10 Going to coordinates X=-16.147, Y=-39.829
+09.11 10:42:10 Moving is finished
+09.11 10:44:19 Scanning 449 point from 506
+09.11 10:44:19 Going to coordinates X=-16.097, Y=-39.829
+09.11 10:44:19 Moving is finished
+09.11 10:46:27 Scanning 450 point from 506
+09.11 10:46:27 Going to coordinates X=-16.047, Y=-39.829
+09.11 10:46:27 Moving is finished
+09.11 10:48:35 Scanning 451 point from 506
+09.11 10:48:35 Going to coordinates X=-15.997, Y=-39.829
+09.11 10:48:35 Moving is finished
+09.11 10:50:43 Scanning 452 point from 506
+09.11 10:50:43 Going to coordinates X=-15.947, Y=-39.829
+09.11 10:50:44 Moving is finished
+09.11 10:52:52 Scanning 453 point from 506
+09.11 10:52:52 Going to coordinates X=-15.897, Y=-39.829
+09.11 10:52:52 Moving is finished
+09.11 10:55:01 Scanning 454 point from 506
+09.11 10:55:01 Going to coordinates X=-15.847, Y=-39.829
+09.11 10:55:01 Moving is finished
+09.11 10:57:09 Scanning 455 point from 506
+09.11 10:57:09 Going to coordinates X=-15.797, Y=-39.829
+09.11 10:57:09 Moving is finished
+09.11 10:59:17 Scanning 456 point from 506
+09.11 10:59:17 Going to coordinates X=-15.747, Y=-39.829
+09.11 10:59:17 Moving is finished
+09.11 11:01:26 Scanning 457 point from 506
+09.11 11:01:26 Going to coordinates X=-15.697, Y=-39.829
+09.11 11:01:26 Moving is finished
+09.11 11:03:35 Scanning 458 point from 506
+09.11 11:03:35 Going to coordinates X=-15.647, Y=-39.829
+09.11 11:03:35 Moving is finished
+09.11 11:05:43 Scanning 459 point from 506
+09.11 11:05:43 Going to coordinates X=-15.597, Y=-39.829
+09.11 11:05:43 Moving is finished
+09.11 11:07:51 Scanning 460 point from 506
+09.11 11:07:51 Going to coordinates X=-16.697, Y=-39.779
+09.11 11:07:52 Moving is finished
+09.11 11:10:00 Scanning 461 point from 506
+09.11 11:10:00 Going to coordinates X=-16.647, Y=-39.779
+09.11 11:10:00 Moving is finished
+09.11 11:12:08 Scanning 462 point from 506
+09.11 11:12:08 Going to coordinates X=-16.597, Y=-39.779
+09.11 11:12:08 Moving is finished
+09.11 11:14:17 Scanning 463 point from 506
+09.11 11:14:17 Going to coordinates X=-16.547, Y=-39.779
+09.11 11:14:17 Moving is finished
+09.11 11:16:25 Scanning 464 point from 506
+09.11 11:16:25 Going to coordinates X=-16.497, Y=-39.779
+09.11 11:16:26 Moving is finished
+09.11 11:18:34 Scanning 465 point from 506
+09.11 11:18:34 Going to coordinates X=-16.447, Y=-39.779
+09.11 11:18:34 Moving is finished
+09.11 11:20:42 Scanning 466 point from 506
+09.11 11:20:42 Going to coordinates X=-16.397, Y=-39.779
+09.11 11:20:42 Moving is finished
+09.11 11:22:50 Scanning 467 point from 506
+09.11 11:22:50 Going to coordinates X=-16.347, Y=-39.779
+09.11 11:22:50 Moving is finished
+09.11 11:24:59 Scanning 468 point from 506
+09.11 11:24:59 Going to coordinates X=-16.297, Y=-39.779
+09.11 11:24:59 Moving is finished
+09.11 11:27:07 Scanning 469 point from 506
+09.11 11:27:07 Going to coordinates X=-16.247, Y=-39.779
+09.11 11:27:07 Moving is finished
+09.11 11:29:16 Scanning 470 point from 506
+09.11 11:29:16 Going to coordinates X=-16.197, Y=-39.779
+09.11 11:29:16 Moving is finished
+09.11 11:31:24 Scanning 471 point from 506
+09.11 11:31:24 Going to coordinates X=-16.147, Y=-39.779
+09.11 11:31:25 Moving is finished
+09.11 11:33:33 Scanning 472 point from 506
+09.11 11:33:33 Going to coordinates X=-16.097, Y=-39.779
+09.11 11:33:33 Moving is finished
+09.11 11:35:41 Scanning 473 point from 506
+09.11 11:35:41 Going to coordinates X=-16.047, Y=-39.779
+09.11 11:35:41 Moving is finished
+09.11 11:37:49 Scanning 474 point from 506
+09.11 11:37:49 Going to coordinates X=-15.997, Y=-39.779
+09.11 11:37:49 Moving is finished
+09.11 11:39:58 Scanning 475 point from 506
+09.11 11:39:58 Going to coordinates X=-15.947, Y=-39.779
+09.11 11:39:58 Moving is finished
+09.11 11:42:07 Scanning 476 point from 506
+09.11 11:42:07 Going to coordinates X=-15.897, Y=-39.779
+09.11 11:42:07 Moving is finished
+09.11 11:44:15 Scanning 477 point from 506
+09.11 11:44:15 Going to coordinates X=-15.847, Y=-39.779
+09.11 11:44:15 Moving is finished
+09.11 11:46:24 Scanning 478 point from 506
+09.11 11:46:24 Going to coordinates X=-15.797, Y=-39.779
+09.11 11:46:24 Moving is finished
+09.11 11:48:32 Scanning 479 point from 506
+09.11 11:48:32 Going to coordinates X=-15.747, Y=-39.779
+09.11 11:48:32 Moving is finished
+09.11 11:50:40 Scanning 480 point from 506
+09.11 11:50:40 Going to coordinates X=-15.697, Y=-39.779
+09.11 11:50:40 Moving is finished
+09.11 11:52:48 Scanning 481 point from 506
+09.11 11:52:48 Going to coordinates X=-15.647, Y=-39.779
+09.11 11:52:49 Moving is finished
+09.11 11:54:57 Scanning 482 point from 506
+09.11 11:54:57 Going to coordinates X=-15.597, Y=-39.779
+09.11 11:54:57 Moving is finished
+09.11 11:57:05 Scanning 483 point from 506
+09.11 11:57:05 Going to coordinates X=-16.697, Y=-39.729
+09.11 11:57:06 Moving is finished
+09.11 11:59:14 Scanning 484 point from 506
+09.11 11:59:14 Going to coordinates X=-16.647, Y=-39.729
+09.11 11:59:14 Moving is finished
+09.11 12:01:22 Scanning 485 point from 506
+09.11 12:01:22 Going to coordinates X=-16.597, Y=-39.729
+09.11 12:01:23 Moving is finished
+09.11 12:03:31 Scanning 486 point from 506
+09.11 12:03:31 Going to coordinates X=-16.547, Y=-39.729
+09.11 12:03:32 Moving is finished
+09.11 12:05:39 Scanning 487 point from 506
+09.11 12:05:39 Going to coordinates X=-16.497, Y=-39.729
+09.11 12:05:40 Moving is finished
+09.11 12:07:48 Scanning 488 point from 506
+09.11 12:07:48 Going to coordinates X=-16.447, Y=-39.729
+09.11 12:07:48 Moving is finished
+09.11 12:09:56 Scanning 489 point from 506
+09.11 12:09:56 Going to coordinates X=-16.397, Y=-39.729
+09.11 12:09:57 Moving is finished
+09.11 12:12:05 Scanning 490 point from 506
+09.11 12:12:05 Going to coordinates X=-16.347, Y=-39.729
+09.11 12:12:05 Moving is finished
+09.11 12:14:14 Scanning 491 point from 506
+09.11 12:14:14 Going to coordinates X=-16.297, Y=-39.729
+09.11 12:14:14 Moving is finished
+09.11 12:16:22 Scanning 492 point from 506
+09.11 12:16:22 Going to coordinates X=-16.247, Y=-39.729
+09.11 12:16:23 Moving is finished
+09.11 12:18:30 Scanning 493 point from 506
+09.11 12:18:30 Going to coordinates X=-16.197, Y=-39.729
+09.11 12:18:31 Moving is finished
+09.11 12:20:39 Scanning 494 point from 506
+09.11 12:20:39 Going to coordinates X=-16.147, Y=-39.729
+09.11 12:20:39 Moving is finished
+09.11 12:22:47 Scanning 495 point from 506
+09.11 12:22:47 Going to coordinates X=-16.097, Y=-39.729
+09.11 12:22:47 Moving is finished
+09.11 12:24:55 Scanning 496 point from 506
+09.11 12:24:55 Going to coordinates X=-16.047, Y=-39.729
+09.11 12:24:56 Moving is finished
+09.11 12:27:04 Scanning 497 point from 506
+09.11 12:27:04 Going to coordinates X=-15.997, Y=-39.729
+09.11 12:27:05 Moving is finished
+09.11 12:29:13 Scanning 498 point from 506
+09.11 12:29:13 Going to coordinates X=-15.947, Y=-39.729
+09.11 12:29:13 Moving is finished
+09.11 12:31:21 Scanning 499 point from 506
+09.11 12:31:21 Going to coordinates X=-15.897, Y=-39.729
+09.11 12:31:21 Moving is finished
+09.11 12:33:29 Scanning 500 point from 506
+09.11 12:33:29 Going to coordinates X=-15.847, Y=-39.729
+09.11 12:33:30 Moving is finished
+09.11 12:35:38 Scanning 501 point from 506
+09.11 12:35:38 Going to coordinates X=-15.797, Y=-39.729
+09.11 12:35:38 Moving is finished
+09.11 12:37:46 Scanning 502 point from 506
+09.11 12:37:46 Going to coordinates X=-15.747, Y=-39.729
+09.11 12:37:46 Moving is finished
+09.11 12:39:54 Scanning 503 point from 506
+09.11 12:39:54 Going to coordinates X=-15.697, Y=-39.729
+09.11 12:39:54 Moving is finished
+09.11 12:42:02 Scanning 504 point from 506
+09.11 12:42:02 Going to coordinates X=-15.647, Y=-39.729
+09.11 12:42:02 Moving is finished
+09.11 12:44:10 Scanning 505 point from 506
+09.11 12:44:10 Going to coordinates X=-15.597, Y=-39.729
+09.11 12:44:10 Moving is finished
+09.11 13:32:49 Row 0: 09.11 13:32:49 Map: x1: -16.697, y1: -39.764, x2: -15.625, y2: -40.779, xres: 0.050, yres: 0.050, fname: MartSol1B
+09.11 13:32:49 Scanning 0 point from 506
+09.11 13:32:49 Going to coordinates X=-16.697, Y=-40.779
+09.11 13:32:50 Moving is finished
+09.11 13:33:09 Stopped!

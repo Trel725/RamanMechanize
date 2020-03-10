@@ -1,0 +1,262 @@
+16.07 17:22:22 Initializing grbl...
+16.07 17:22:23 Got the response: b''
+16.07 17:31:47 Row 0: 16.07 17:31:47 Map: x1: -11.481, y1: -36.81, x2: -11.385, y2: -36.81, xres: 0.010, yres: 0.010, fname: test1
+16.07 17:31:47 Scanning 0 point from 11
+16.07 17:31:47 Going to coordinates X=-11.481, Y=-36.810
+16.07 17:31:47 Moving is finished
+16.07 17:31:55 Scanning 1 point from 11
+16.07 17:31:55 Going to coordinates X=-11.471, Y=-36.810
+16.07 17:31:55 Moving is finished
+16.07 17:32:03 Scanning 2 point from 11
+16.07 17:32:03 Going to coordinates X=-11.461, Y=-36.810
+16.07 17:32:03 Moving is finished
+16.07 17:32:11 Scanning 3 point from 11
+16.07 17:32:11 Going to coordinates X=-11.451, Y=-36.810
+16.07 17:32:11 Moving is finished
+16.07 17:32:18 Scanning 4 point from 11
+16.07 17:32:18 Going to coordinates X=-11.441, Y=-36.810
+16.07 17:32:19 Moving is finished
+16.07 17:32:26 Scanning 5 point from 11
+16.07 17:32:26 Going to coordinates X=-11.431, Y=-36.810
+16.07 17:32:26 Moving is finished
+16.07 17:32:34 Scanning 6 point from 11
+16.07 17:32:34 Going to coordinates X=-11.421, Y=-36.810
+16.07 17:32:34 Moving is finished
+16.07 17:32:41 Scanning 7 point from 11
+16.07 17:32:41 Going to coordinates X=-11.411, Y=-36.810
+16.07 17:32:42 Moving is finished
+16.07 17:32:49 Scanning 8 point from 11
+16.07 17:32:49 Going to coordinates X=-11.401, Y=-36.810
+16.07 17:32:49 Moving is finished
+16.07 17:32:57 Scanning 9 point from 11
+16.07 17:32:57 Going to coordinates X=-11.391, Y=-36.810
+16.07 17:32:58 Moving is finished
+16.07 17:33:03 Stopped!
+16.07 17:33:54 Row 0: 16.07 17:33:54 Map: x1: -11.481, y1: -36.81, x2: -11.385, y2: -36.81, xres: 0.010, yres: 0.001, fname: test1
+16.07 17:33:54 Scanning 0 point from 11
+16.07 17:33:54 Going to coordinates X=-11.481, Y=-36.810
+16.07 17:33:54 Moving is finished
+16.07 17:34:01 Scanning 1 point from 11
+16.07 17:34:01 Going to coordinates X=-11.471, Y=-36.810
+16.07 17:34:01 Moving is finished
+16.07 17:34:09 Scanning 2 point from 11
+16.07 17:34:09 Going to coordinates X=-11.461, Y=-36.810
+16.07 17:34:09 Moving is finished
+16.07 17:34:13 Stopped!
+16.07 17:34:29 Row 0: 16.07 17:34:29 Map: x1: -11.481, y1: -36.81, x2: -11.385, y2: -36.81, xres: 0.001, yres: 0.001, fname: test1
+16.07 17:34:29 Scanning 0 point from 97
+16.07 17:34:29 Going to coordinates X=-11.481, Y=-36.810
+16.07 17:34:29 Moving is finished
+16.07 17:34:37 Scanning 1 point from 97
+16.07 17:34:37 Going to coordinates X=-11.480, Y=-36.810
+16.07 17:34:37 Moving is finished
+16.07 17:34:44 Scanning 2 point from 97
+16.07 17:34:44 Going to coordinates X=-11.479, Y=-36.810
+16.07 17:34:44 Moving is finished
+16.07 17:34:52 Scanning 3 point from 97
+16.07 17:34:52 Going to coordinates X=-11.478, Y=-36.810
+16.07 17:34:52 Moving is finished
+16.07 17:35:00 Scanning 4 point from 97
+16.07 17:35:00 Going to coordinates X=-11.477, Y=-36.810
+16.07 17:35:00 Moving is finished
+16.07 17:35:08 Scanning 5 point from 97
+16.07 17:35:08 Going to coordinates X=-11.476, Y=-36.810
+16.07 17:35:08 Moving is finished
+16.07 17:35:17 Scanning 6 point from 97
+16.07 17:35:17 Going to coordinates X=-11.475, Y=-36.810
+16.07 17:35:17 Moving is finished
+16.07 17:35:24 Scanning 7 point from 97
+16.07 17:35:24 Going to coordinates X=-11.474, Y=-36.810
+16.07 17:35:24 Moving is finished
+16.07 17:35:32 Scanning 8 point from 97
+16.07 17:35:32 Going to coordinates X=-11.473, Y=-36.810
+16.07 17:35:32 Moving is finished
+16.07 17:35:40 Scanning 9 point from 97
+16.07 17:35:40 Going to coordinates X=-11.472, Y=-36.810
+16.07 17:35:40 Moving is finished
+16.07 17:35:48 Scanning 10 point from 97
+16.07 17:35:48 Going to coordinates X=-11.471, Y=-36.810
+16.07 17:35:48 Moving is finished
+16.07 17:35:55 Scanning 11 point from 97
+16.07 17:35:55 Going to coordinates X=-11.470, Y=-36.810
+16.07 17:35:55 Moving is finished
+16.07 17:36:02 Scanning 12 point from 97
+16.07 17:36:02 Going to coordinates X=-11.469, Y=-36.810
+16.07 17:36:03 Status responce is malformed
+16.07 17:36:03 list index out of range
+16.07 17:37:03 Moving is finished
+16.07 17:37:10 Scanning 13 point from 97
+16.07 17:37:10 Going to coordinates X=-11.468, Y=-36.810
+16.07 17:37:10 Moving is finished
+16.07 17:37:18 Scanning 14 point from 97
+16.07 17:37:18 Going to coordinates X=-11.467, Y=-36.810
+16.07 17:37:18 Status responce is malformed
+16.07 17:37:18 list index out of range
+16.07 17:38:18 Moving is finished
+16.07 17:38:26 Scanning 15 point from 97
+16.07 17:38:26 Going to coordinates X=-11.466, Y=-36.810
+16.07 17:38:26 Moving is finished
+16.07 17:38:34 Scanning 16 point from 97
+16.07 17:38:34 Going to coordinates X=-11.465, Y=-36.810
+16.07 17:38:34 Moving is finished
+16.07 17:38:42 Scanning 17 point from 97
+16.07 17:38:42 Going to coordinates X=-11.464, Y=-36.810
+16.07 17:38:42 Moving is finished
+16.07 17:38:50 Scanning 18 point from 97
+16.07 17:38:50 Going to coordinates X=-11.463, Y=-36.810
+16.07 17:38:51 Moving is finished
+16.07 17:38:59 Scanning 19 point from 97
+16.07 17:38:59 Going to coordinates X=-11.462, Y=-36.810
+16.07 17:38:59 Moving is finished
+16.07 17:39:07 Scanning 20 point from 97
+16.07 17:39:07 Going to coordinates X=-11.461, Y=-36.810
+16.07 17:39:07 Status responce is malformed
+16.07 17:39:07 list index out of range
+16.07 17:40:07 Moving is finished
+16.07 17:40:15 Scanning 21 point from 97
+16.07 17:40:15 Going to coordinates X=-11.460, Y=-36.810
+16.07 17:40:15 Moving is finished
+16.07 17:40:23 Scanning 22 point from 97
+16.07 17:40:23 Going to coordinates X=-11.459, Y=-36.810
+16.07 17:40:23 Moving is finished
+16.07 17:40:30 Scanning 23 point from 97
+16.07 17:40:30 Going to coordinates X=-11.458, Y=-36.810
+16.07 17:40:30 Moving is finished
+16.07 17:40:38 Scanning 24 point from 97
+16.07 17:40:38 Going to coordinates X=-11.457, Y=-36.810
+16.07 17:40:38 Moving is finished
+16.07 17:40:46 Scanning 25 point from 97
+16.07 17:40:46 Going to coordinates X=-11.456, Y=-36.810
+16.07 17:40:46 Moving is finished
+16.07 17:40:54 Scanning 26 point from 97
+16.07 17:40:54 Going to coordinates X=-11.455, Y=-36.810
+16.07 17:40:54 Moving is finished
+16.07 17:41:02 Scanning 27 point from 97
+16.07 17:41:02 Going to coordinates X=-11.454, Y=-36.810
+16.07 17:41:02 Moving is finished
+16.07 17:41:10 Scanning 28 point from 97
+16.07 17:41:10 Going to coordinates X=-11.453, Y=-36.810
+16.07 17:41:10 Moving is finished
+16.07 17:41:17 Scanning 29 point from 97
+16.07 17:41:17 Going to coordinates X=-11.452, Y=-36.810
+16.07 17:41:18 Moving is finished
+16.07 17:41:25 Scanning 30 point from 97
+16.07 17:41:25 Going to coordinates X=-11.451, Y=-36.810
+16.07 17:41:25 Moving is finished
+16.07 17:41:33 Scanning 31 point from 97
+16.07 17:41:33 Going to coordinates X=-11.450, Y=-36.810
+16.07 17:41:33 Moving is finished
+16.07 17:41:41 Scanning 32 point from 97
+16.07 17:41:41 Going to coordinates X=-11.449, Y=-36.810
+16.07 17:41:41 Moving is finished
+16.07 17:41:48 Scanning 33 point from 97
+16.07 17:41:48 Going to coordinates X=-11.448, Y=-36.810
+16.07 17:41:48 Moving is finished
+16.07 17:41:56 Scanning 34 point from 97
+16.07 17:41:56 Going to coordinates X=-11.447, Y=-36.810
+16.07 17:41:56 Moving is finished
+16.07 17:42:04 Scanning 35 point from 97
+16.07 17:42:04 Going to coordinates X=-11.446, Y=-36.810
+16.07 17:42:05 Moving is finished
+16.07 17:42:12 Scanning 36 point from 97
+16.07 17:42:12 Going to coordinates X=-11.445, Y=-36.810
+16.07 17:42:12 Moving is finished
+16.07 17:42:20 Scanning 37 point from 97
+16.07 17:42:20 Going to coordinates X=-11.444, Y=-36.810
+16.07 17:42:20 Moving is finished
+16.07 17:42:27 Scanning 38 point from 97
+16.07 17:42:27 Going to coordinates X=-11.443, Y=-36.810
+16.07 17:42:27 Moving is finished
+16.07 17:42:35 Scanning 39 point from 97
+16.07 17:42:35 Going to coordinates X=-11.442, Y=-36.810
+16.07 17:42:36 Moving is finished
+16.07 17:42:43 Scanning 40 point from 97
+16.07 17:42:43 Going to coordinates X=-11.441, Y=-36.810
+16.07 17:42:44 Moving is finished
+16.07 17:42:51 Scanning 41 point from 97
+16.07 17:42:51 Going to coordinates X=-11.440, Y=-36.810
+16.07 17:42:51 Moving is finished
+16.07 17:42:59 Scanning 42 point from 97
+16.07 17:42:59 Going to coordinates X=-11.439, Y=-36.810
+16.07 17:42:59 Moving is finished
+16.07 17:43:07 Scanning 43 point from 97
+16.07 17:43:07 Going to coordinates X=-11.438, Y=-36.810
+16.07 17:43:07 Moving is finished
+16.07 17:43:14 Scanning 44 point from 97
+16.07 17:43:14 Going to coordinates X=-11.437, Y=-36.810
+16.07 17:43:15 Moving is finished
+16.07 17:43:22 Scanning 45 point from 97
+16.07 17:43:22 Going to coordinates X=-11.436, Y=-36.810
+16.07 17:43:22 Moving is finished
+16.07 17:43:30 Scanning 46 point from 97
+16.07 17:43:30 Going to coordinates X=-11.435, Y=-36.810
+16.07 17:43:30 Moving is finished
+16.07 17:43:37 Scanning 47 point from 97
+16.07 17:43:37 Going to coordinates X=-11.434, Y=-36.810
+16.07 17:43:37 Moving is finished
+16.07 17:43:45 Scanning 48 point from 97
+16.07 17:43:45 Going to coordinates X=-11.433, Y=-36.810
+16.07 17:43:45 Moving is finished
+16.07 17:43:52 Scanning 49 point from 97
+16.07 17:43:52 Going to coordinates X=-11.432, Y=-36.810
+16.07 17:43:52 Moving is finished
+16.07 17:44:00 Scanning 50 point from 97
+16.07 17:44:00 Going to coordinates X=-11.431, Y=-36.810
+16.07 17:44:00 Moving is finished
+16.07 17:44:08 Scanning 51 point from 97
+16.07 17:44:08 Going to coordinates X=-11.430, Y=-36.810
+16.07 17:44:08 Moving is finished
+16.07 17:44:15 Scanning 52 point from 97
+16.07 17:44:15 Going to coordinates X=-11.429, Y=-36.810
+16.07 17:44:15 Moving is finished
+16.07 17:44:23 Scanning 53 point from 97
+16.07 17:44:23 Going to coordinates X=-11.428, Y=-36.810
+16.07 17:44:23 Moving is finished
+16.07 17:44:31 Scanning 54 point from 97
+16.07 17:44:31 Going to coordinates X=-11.427, Y=-36.810
+16.07 17:44:31 Status responce is malformed
+16.07 17:44:31 list index out of range
+16.07 17:45:31 Moving is finished
+16.07 17:45:38 Scanning 55 point from 97
+16.07 17:45:38 Going to coordinates X=-11.426, Y=-36.810
+16.07 17:45:38 Moving is finished
+16.07 17:45:46 Scanning 56 point from 97
+16.07 17:45:46 Going to coordinates X=-11.425, Y=-36.810
+16.07 17:45:46 Moving is finished
+16.07 17:45:54 Scanning 57 point from 97
+16.07 17:45:54 Going to coordinates X=-11.424, Y=-36.810
+16.07 17:45:54 Moving is finished
+16.07 17:46:02 Scanning 58 point from 97
+16.07 17:46:02 Going to coordinates X=-11.423, Y=-36.810
+16.07 17:46:02 Moving is finished
+16.07 17:46:10 Scanning 59 point from 97
+16.07 17:46:10 Going to coordinates X=-11.422, Y=-36.810
+16.07 17:46:10 Moving is finished
+16.07 17:46:18 Scanning 60 point from 97
+16.07 17:46:18 Going to coordinates X=-11.421, Y=-36.810
+16.07 17:46:18 Moving is finished
+16.07 17:46:25 Scanning 61 point from 97
+16.07 17:46:25 Going to coordinates X=-11.420, Y=-36.810
+16.07 17:46:25 Moving is finished
+16.07 17:46:33 Scanning 62 point from 97
+16.07 17:46:33 Going to coordinates X=-11.419, Y=-36.810
+16.07 17:46:33 Moving is finished
+16.07 17:46:40 Scanning 63 point from 97
+16.07 17:46:40 Going to coordinates X=-11.418, Y=-36.810
+16.07 17:46:41 Moving is finished
+16.07 17:47:31 Status responce is malformed
+16.07 17:47:31 list index out of range
+16.07 17:47:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+16.07 17:47:34 Stopped!
+16.07 17:47:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+16.07 17:50:43 Can't send the command to GRBL
+16.07 17:50:43 Write timeout16.07 17:50:43 Write timeout
+
+16.07 17:51:22 Can't send the command to GRBL
+16.07 17:51:22 Write timeout16.07 17:51:22 Write timeout
+
+16.07 17:51:38 Can't send the command to GRBL
+16.07 17:51:38 Write timeout16.07 17:51:38 Write timeout
+
+16.07 17:51:51 Can't send the command to GRBL
+16.07 17:51:51 Write timeout

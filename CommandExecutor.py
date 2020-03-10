@@ -2,6 +2,8 @@ import time
 from PyQt5.QtCore import QThread, pyqtSignal, pyqtSlot
 from RamanController import RamanController
 import numpy as np
+from func_timeout import func_timeout, FunctionTimedOut
+from AutoFocuser import AutoFocuser
 
 
 class CommandExecutor(QThread):
@@ -14,9 +16,16 @@ class CommandExecutor(QThread):
         self.sc = None
         self.ramanc = RamanController()
         self.paused = False
+        self.map_timeout = 300
+        self.af = AutoFocuser(self.sc)
+        self.mapaf = False
 
     def __del__(self):
         self.wait()
+
+    def focus(self):
+        res = self.af.focus()
+        return res
 
     def decodeString(self, datastr):
         mydict = {}
@@ -57,14 +66,36 @@ class CommandExecutor(QThread):
         num_of_points = len(coords)
         for i, c in enumerate(coords):
             print("Scanning {0} point from {1}".format(i, num_of_points))
+            if self.mapaf:
+                if i % self.mapaf == 0:
+                    self.af.focus()
             if self.paused:
                 print("Paused")
                 while(self.paused):
                     time.sleep(0.1)
-            self.goToPos(c[0], c[1])
-            self.ramanc.makeScan()
-            self.ramanc.saveMapping(fname, "x{0:4.3f}_y{1:4.3f}.spc".format(c[0], c[1]))
-            time.sleep(0.1)
+            try:
+                self.goToPos(c[0], c[1])
+                func_timeout(self.map_timeout, self.performScanSave, args=(
+                    fname, "x{0:4.3f}_y{1:4.3f}.spc".format(c[0], c[1])))
+
+            except FunctionTimedOut:
+                print("Timeout of {} seconds is reached, stopping current point...".format(
+                    self.map_timeout))
+                self.ramanc.resetApp()
+                time.sleep(1)
+                pass
+
+            except Exception as e:
+                print(
+                    "Something went wrong during map collection, trying to contionue...")
+                print(str(e))
+                pass
+            self.ramanc.escapeApp()
+
+    def performScanSave(self, fname, command):
+        self.ramanc.makeScan()
+        self.ramanc.saveMapping(fname, command)
+        time.sleep(0.1)
 
     def scanCircle(self, x, y, radius, n, filename):
         steps = []
@@ -89,7 +120,8 @@ class CommandExecutor(QThread):
     def goToPos(self, x, y):
         x = float(x)
         y = float(y)
-        resp = self.sc.sendCommand("G0X{0:4.3f}Y{1:4.3f}".format(x, y), read_resp=True)
+        resp = self.sc.sendCommand(
+            "G0X{0:4.3f}Y{1:4.3f}".format(x, y), read_resp=True)
         print("Going to coordinates X={0:4.3f}, Y={1:4.3f}".format(x, y))
         resp = self.sc.sendCommand("G4P0.01", wait_for_ok=True, block=True)
         print("Moving is finished")
@@ -114,7 +146,8 @@ class CommandExecutor(QThread):
             elif data[0:7] == "Circle:":
                 param = self.decodeString(data[7:])
                 # try:
-                self.scanCircle(param['x'], param['y'], param['rad'], param['n'], param["fname"])
+                self.scanCircle(param['x'], param['y'],
+                                param['rad'], param['n'], param["fname"])
                 # except:
                 #    print("Can't parse the string, skipping...")
 
@@ -124,6 +157,7 @@ class CommandExecutor(QThread):
 
             elif data[0:4] == "Map:":
                 param = self.decodeString(data[4:])
-                self.Mapping(param['x1'], param['y1'], param['x2'], param['y2'], param['xres'], param['yres'], param['fname'])
+                self.Mapping(param['x1'], param['y1'], param['x2'],
+                             param['y2'], param['xres'], param['yres'], param['fname'])
             else:
                 print("Unknown command, skipping...")

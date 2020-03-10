@@ -1,0 +1,1615 @@
+02.07 19:29:44 Initializing grbl...
+02.07 19:29:45 Got the response: b''
+02.07 19:32:28 Row 0: 02.07 19:32:28 Map: x1: -26.79, y1: -37.639, x2: -26.195, y2: -38.289, xres: 0.010, yres: 0.010, fname: hfp2cooh2
+02.07 19:32:28 Scanning 0 point from 4026
+02.07 19:32:28 Going to coordinates X=-26.790, Y=-38.289
+02.07 19:32:28 Moving is finished
+02.07 19:34:05 Scanning 1 point from 4026
+02.07 19:34:05 Going to coordinates X=-26.780, Y=-38.289
+02.07 19:34:05 Moving is finished
+02.07 19:35:42 Scanning 2 point from 4026
+02.07 19:35:42 Going to coordinates X=-26.770, Y=-38.289
+02.07 19:35:42 Moving is finished
+02.07 19:37:19 Scanning 3 point from 4026
+02.07 19:37:19 Going to coordinates X=-26.760, Y=-38.289
+02.07 19:37:19 Moving is finished
+02.07 19:38:56 Scanning 4 point from 4026
+02.07 19:38:56 Going to coordinates X=-26.750, Y=-38.289
+02.07 19:38:56 Moving is finished
+02.07 19:40:33 Scanning 5 point from 4026
+02.07 19:40:33 Going to coordinates X=-26.740, Y=-38.289
+02.07 19:40:33 Moving is finished
+02.07 19:42:10 Scanning 6 point from 4026
+02.07 19:42:10 Going to coordinates X=-26.730, Y=-38.289
+02.07 19:42:10 Moving is finished
+02.07 19:43:47 Scanning 7 point from 4026
+02.07 19:43:47 Going to coordinates X=-26.720, Y=-38.289
+02.07 19:43:47 Moving is finished
+02.07 19:45:24 Scanning 8 point from 4026
+02.07 19:45:24 Going to coordinates X=-26.710, Y=-38.289
+02.07 19:45:24 Moving is finished
+02.07 19:47:02 Scanning 9 point from 4026
+02.07 19:47:02 Going to coordinates X=-26.700, Y=-38.289
+02.07 19:47:02 Moving is finished
+02.07 19:48:38 Scanning 10 point from 4026
+02.07 19:48:38 Going to coordinates X=-26.690, Y=-38.289
+02.07 19:48:39 Moving is finished
+02.07 19:50:15 Scanning 11 point from 4026
+02.07 19:50:15 Going to coordinates X=-26.680, Y=-38.289
+02.07 19:50:15 Moving is finished
+02.07 19:51:52 Scanning 12 point from 4026
+02.07 19:51:52 Going to coordinates X=-26.670, Y=-38.289
+02.07 19:51:52 Moving is finished
+02.07 19:53:29 Scanning 13 point from 4026
+02.07 19:53:29 Going to coordinates X=-26.660, Y=-38.289
+02.07 19:53:29 Moving is finished
+02.07 19:55:06 Scanning 14 point from 4026
+02.07 19:55:06 Going to coordinates X=-26.650, Y=-38.289
+02.07 19:55:06 Moving is finished
+02.07 19:56:43 Scanning 15 point from 4026
+02.07 19:56:43 Going to coordinates X=-26.640, Y=-38.289
+02.07 19:56:43 Moving is finished
+02.07 19:58:20 Scanning 16 point from 4026
+02.07 19:58:20 Going to coordinates X=-26.630, Y=-38.289
+02.07 19:58:20 Moving is finished
+02.07 19:59:57 Scanning 17 point from 4026
+02.07 19:59:57 Going to coordinates X=-26.620, Y=-38.289
+02.07 19:59:58 Moving is finished
+02.07 20:01:34 Scanning 18 point from 4026
+02.07 20:01:34 Going to coordinates X=-26.610, Y=-38.289
+02.07 20:01:34 Moving is finished
+02.07 20:03:12 Scanning 19 point from 4026
+02.07 20:03:12 Going to coordinates X=-26.600, Y=-38.289
+02.07 20:03:12 Moving is finished
+02.07 20:04:49 Scanning 20 point from 4026
+02.07 20:04:49 Going to coordinates X=-26.590, Y=-38.289
+02.07 20:04:49 Moving is finished
+02.07 20:06:26 Scanning 21 point from 4026
+02.07 20:06:26 Going to coordinates X=-26.580, Y=-38.289
+02.07 20:06:26 Moving is finished
+02.07 20:08:03 Scanning 22 point from 4026
+02.07 20:08:03 Going to coordinates X=-26.570, Y=-38.289
+02.07 20:08:03 Moving is finished
+02.07 20:09:40 Scanning 23 point from 4026
+02.07 20:09:40 Going to coordinates X=-26.560, Y=-38.289
+02.07 20:09:40 Moving is finished
+02.07 20:11:17 Scanning 24 point from 4026
+02.07 20:11:17 Going to coordinates X=-26.550, Y=-38.289
+02.07 20:11:17 Moving is finished
+02.07 20:12:54 Scanning 25 point from 4026
+02.07 20:12:54 Going to coordinates X=-26.540, Y=-38.289
+02.07 20:12:55 Moving is finished
+02.07 20:14:31 Scanning 26 point from 4026
+02.07 20:14:31 Going to coordinates X=-26.530, Y=-38.289
+02.07 20:14:32 Moving is finished
+02.07 20:16:09 Scanning 27 point from 4026
+02.07 20:16:09 Going to coordinates X=-26.520, Y=-38.289
+02.07 20:16:09 Moving is finished
+02.07 20:17:45 Scanning 28 point from 4026
+02.07 20:17:45 Going to coordinates X=-26.510, Y=-38.289
+02.07 20:17:46 Moving is finished
+02.07 20:19:23 Scanning 29 point from 4026
+02.07 20:19:23 Going to coordinates X=-26.500, Y=-38.289
+02.07 20:19:23 Moving is finished
+02.07 20:21:00 Scanning 30 point from 4026
+02.07 20:21:00 Going to coordinates X=-26.490, Y=-38.289
+02.07 20:21:00 Moving is finished
+02.07 20:22:36 Scanning 31 point from 4026
+02.07 20:22:36 Going to coordinates X=-26.480, Y=-38.289
+02.07 20:22:36 Moving is finished
+02.07 20:24:13 Scanning 32 point from 4026
+02.07 20:24:13 Going to coordinates X=-26.470, Y=-38.289
+02.07 20:24:13 Moving is finished
+02.07 20:25:49 Scanning 33 point from 4026
+02.07 20:25:49 Going to coordinates X=-26.460, Y=-38.289
+02.07 20:25:50 Moving is finished
+02.07 20:27:27 Scanning 34 point from 4026
+02.07 20:27:27 Going to coordinates X=-26.450, Y=-38.289
+02.07 20:27:27 Moving is finished
+02.07 20:29:03 Scanning 35 point from 4026
+02.07 20:29:03 Going to coordinates X=-26.440, Y=-38.289
+02.07 20:29:03 Moving is finished
+02.07 20:30:40 Scanning 36 point from 4026
+02.07 20:30:40 Going to coordinates X=-26.430, Y=-38.289
+02.07 20:30:40 Moving is finished
+02.07 20:32:17 Scanning 37 point from 4026
+02.07 20:32:17 Going to coordinates X=-26.420, Y=-38.289
+02.07 20:32:18 Moving is finished
+02.07 20:33:55 Scanning 38 point from 4026
+02.07 20:33:55 Going to coordinates X=-26.410, Y=-38.289
+02.07 20:33:55 Moving is finished
+02.07 20:35:32 Scanning 39 point from 4026
+02.07 20:35:32 Going to coordinates X=-26.400, Y=-38.289
+02.07 20:35:32 Moving is finished
+02.07 20:37:09 Scanning 40 point from 4026
+02.07 20:37:09 Going to coordinates X=-26.390, Y=-38.289
+02.07 20:37:09 Moving is finished
+02.07 20:38:46 Scanning 41 point from 4026
+02.07 20:38:46 Going to coordinates X=-26.380, Y=-38.289
+02.07 20:38:46 Moving is finished
+02.07 20:40:23 Scanning 42 point from 4026
+02.07 20:40:23 Going to coordinates X=-26.370, Y=-38.289
+02.07 20:40:23 Moving is finished
+02.07 20:42:01 Scanning 43 point from 4026
+02.07 20:42:01 Going to coordinates X=-26.360, Y=-38.289
+02.07 20:42:01 Moving is finished
+02.07 20:43:38 Scanning 44 point from 4026
+02.07 20:43:38 Going to coordinates X=-26.350, Y=-38.289
+02.07 20:43:38 Moving is finished
+02.07 20:45:15 Scanning 45 point from 4026
+02.07 20:45:15 Going to coordinates X=-26.340, Y=-38.289
+02.07 20:45:15 Moving is finished
+02.07 20:46:52 Scanning 46 point from 4026
+02.07 20:46:52 Going to coordinates X=-26.330, Y=-38.289
+02.07 20:46:52 Moving is finished
+02.07 20:48:29 Scanning 47 point from 4026
+02.07 20:48:29 Going to coordinates X=-26.320, Y=-38.289
+02.07 20:48:29 Moving is finished
+02.07 20:50:07 Scanning 48 point from 4026
+02.07 20:50:07 Going to coordinates X=-26.310, Y=-38.289
+02.07 20:50:07 Moving is finished
+02.07 20:51:44 Scanning 49 point from 4026
+02.07 20:51:44 Going to coordinates X=-26.300, Y=-38.289
+02.07 20:51:44 Moving is finished
+02.07 20:53:21 Scanning 50 point from 4026
+02.07 20:53:21 Going to coordinates X=-26.290, Y=-38.289
+02.07 20:53:21 Moving is finished
+02.07 20:54:59 Scanning 51 point from 4026
+02.07 20:54:59 Going to coordinates X=-26.280, Y=-38.289
+02.07 20:54:59 Moving is finished
+02.07 20:56:36 Scanning 52 point from 4026
+02.07 20:56:36 Going to coordinates X=-26.270, Y=-38.289
+02.07 20:56:36 Moving is finished
+02.07 20:58:13 Scanning 53 point from 4026
+02.07 20:58:13 Going to coordinates X=-26.260, Y=-38.289
+02.07 20:58:13 Moving is finished
+02.07 20:59:50 Scanning 54 point from 4026
+02.07 20:59:50 Going to coordinates X=-26.250, Y=-38.289
+02.07 20:59:50 Moving is finished
+02.07 21:01:27 Scanning 55 point from 4026
+02.07 21:01:27 Going to coordinates X=-26.240, Y=-38.289
+02.07 21:01:27 Moving is finished
+02.07 21:03:05 Scanning 56 point from 4026
+02.07 21:03:05 Going to coordinates X=-26.230, Y=-38.289
+02.07 21:03:05 Moving is finished
+02.07 21:04:42 Scanning 57 point from 4026
+02.07 21:04:42 Going to coordinates X=-26.220, Y=-38.289
+02.07 21:04:42 Moving is finished
+02.07 21:06:19 Scanning 58 point from 4026
+02.07 21:06:19 Going to coordinates X=-26.210, Y=-38.289
+02.07 21:06:19 Moving is finished
+02.07 21:07:56 Scanning 59 point from 4026
+02.07 21:07:56 Going to coordinates X=-26.200, Y=-38.289
+02.07 21:07:56 Moving is finished
+02.07 21:09:33 Scanning 60 point from 4026
+02.07 21:09:33 Going to coordinates X=-26.190, Y=-38.289
+02.07 21:09:33 Moving is finished
+02.07 21:11:10 Scanning 61 point from 4026
+02.07 21:11:10 Going to coordinates X=-26.790, Y=-38.279
+02.07 21:11:11 Moving is finished
+02.07 21:12:48 Scanning 62 point from 4026
+02.07 21:12:48 Going to coordinates X=-26.780, Y=-38.279
+02.07 21:12:48 Moving is finished
+02.07 21:14:25 Scanning 63 point from 4026
+02.07 21:14:25 Going to coordinates X=-26.770, Y=-38.279
+02.07 21:14:25 Moving is finished
+02.07 21:16:02 Scanning 64 point from 4026
+02.07 21:16:02 Going to coordinates X=-26.760, Y=-38.279
+02.07 21:16:02 Moving is finished
+02.07 21:17:39 Scanning 65 point from 4026
+02.07 21:17:39 Going to coordinates X=-26.750, Y=-38.279
+02.07 21:17:39 Moving is finished
+02.07 21:19:16 Scanning 66 point from 4026
+02.07 21:19:16 Going to coordinates X=-26.740, Y=-38.279
+02.07 21:19:16 Moving is finished
+02.07 21:20:53 Scanning 67 point from 4026
+02.07 21:20:53 Going to coordinates X=-26.730, Y=-38.279
+02.07 21:20:53 Moving is finished
+02.07 21:22:30 Scanning 68 point from 4026
+02.07 21:22:30 Going to coordinates X=-26.720, Y=-38.279
+02.07 21:22:31 Moving is finished
+02.07 21:24:08 Scanning 69 point from 4026
+02.07 21:24:08 Going to coordinates X=-26.710, Y=-38.279
+02.07 21:24:08 Moving is finished
+02.07 21:25:44 Scanning 70 point from 4026
+02.07 21:25:44 Going to coordinates X=-26.700, Y=-38.279
+02.07 21:25:44 Moving is finished
+02.07 21:27:21 Scanning 71 point from 4026
+02.07 21:27:21 Going to coordinates X=-26.690, Y=-38.279
+02.07 21:27:22 Moving is finished
+02.07 21:28:58 Scanning 72 point from 4026
+02.07 21:28:58 Going to coordinates X=-26.680, Y=-38.279
+02.07 21:28:58 Moving is finished
+02.07 21:30:35 Scanning 73 point from 4026
+02.07 21:30:35 Going to coordinates X=-26.670, Y=-38.279
+02.07 21:30:35 Moving is finished
+02.07 21:32:12 Scanning 74 point from 4026
+02.07 21:32:12 Going to coordinates X=-26.660, Y=-38.279
+02.07 21:32:12 Moving is finished
+02.07 21:33:49 Scanning 75 point from 4026
+02.07 21:33:49 Going to coordinates X=-26.650, Y=-38.279
+02.07 21:33:49 Moving is finished
+02.07 21:35:26 Scanning 76 point from 4026
+02.07 21:35:26 Going to coordinates X=-26.640, Y=-38.279
+02.07 21:35:26 Moving is finished
+02.07 21:37:03 Scanning 77 point from 4026
+02.07 21:37:03 Going to coordinates X=-26.630, Y=-38.279
+02.07 21:37:03 Moving is finished
+02.07 21:38:40 Scanning 78 point from 4026
+02.07 21:38:40 Going to coordinates X=-26.620, Y=-38.279
+02.07 21:38:40 Moving is finished
+02.07 21:40:18 Scanning 79 point from 4026
+02.07 21:40:18 Going to coordinates X=-26.610, Y=-38.279
+02.07 21:40:18 Moving is finished
+02.07 21:41:55 Scanning 80 point from 4026
+02.07 21:41:55 Going to coordinates X=-26.600, Y=-38.279
+02.07 21:41:55 Moving is finished
+02.07 21:43:33 Scanning 81 point from 4026
+02.07 21:43:33 Going to coordinates X=-26.590, Y=-38.279
+02.07 21:43:33 Moving is finished
+02.07 21:45:10 Scanning 82 point from 4026
+02.07 21:45:10 Going to coordinates X=-26.580, Y=-38.279
+02.07 21:45:10 Moving is finished
+02.07 21:46:47 Scanning 83 point from 4026
+02.07 21:46:47 Going to coordinates X=-26.570, Y=-38.279
+02.07 21:46:47 Moving is finished
+02.07 21:48:24 Scanning 84 point from 4026
+02.07 21:48:24 Going to coordinates X=-26.560, Y=-38.279
+02.07 21:48:25 Moving is finished
+02.07 21:50:01 Scanning 85 point from 4026
+02.07 21:50:01 Going to coordinates X=-26.550, Y=-38.279
+02.07 21:50:01 Moving is finished
+02.07 21:51:39 Scanning 86 point from 4026
+02.07 21:51:39 Going to coordinates X=-26.540, Y=-38.279
+02.07 21:51:39 Moving is finished
+02.07 21:53:16 Scanning 87 point from 4026
+02.07 21:53:16 Going to coordinates X=-26.530, Y=-38.279
+02.07 21:53:16 Moving is finished
+02.07 21:54:53 Scanning 88 point from 4026
+02.07 21:54:53 Going to coordinates X=-26.520, Y=-38.279
+02.07 21:54:54 Moving is finished
+02.07 21:56:30 Scanning 89 point from 4026
+02.07 21:56:30 Going to coordinates X=-26.510, Y=-38.279
+02.07 21:56:31 Moving is finished
+02.07 21:58:07 Scanning 90 point from 4026
+02.07 21:58:07 Going to coordinates X=-26.500, Y=-38.279
+02.07 21:58:08 Moving is finished
+02.07 21:59:45 Scanning 91 point from 4026
+02.07 21:59:45 Going to coordinates X=-26.490, Y=-38.279
+02.07 21:59:45 Moving is finished
+02.07 22:01:21 Scanning 92 point from 4026
+02.07 22:01:21 Going to coordinates X=-26.480, Y=-38.279
+02.07 22:01:21 Moving is finished
+02.07 22:02:59 Scanning 93 point from 4026
+02.07 22:02:59 Going to coordinates X=-26.470, Y=-38.279
+02.07 22:02:59 Moving is finished
+02.07 22:04:36 Scanning 94 point from 4026
+02.07 22:04:36 Going to coordinates X=-26.460, Y=-38.279
+02.07 22:04:36 Moving is finished
+02.07 22:06:14 Scanning 95 point from 4026
+02.07 22:06:14 Going to coordinates X=-26.450, Y=-38.279
+02.07 22:06:14 Moving is finished
+02.07 22:07:50 Scanning 96 point from 4026
+02.07 22:07:50 Going to coordinates X=-26.440, Y=-38.279
+02.07 22:07:51 Moving is finished
+02.07 22:09:28 Scanning 97 point from 4026
+02.07 22:09:28 Going to coordinates X=-26.430, Y=-38.279
+02.07 22:09:28 Moving is finished
+02.07 22:11:05 Scanning 98 point from 4026
+02.07 22:11:05 Going to coordinates X=-26.420, Y=-38.279
+02.07 22:11:05 Moving is finished
+02.07 22:12:42 Scanning 99 point from 4026
+02.07 22:12:42 Going to coordinates X=-26.410, Y=-38.279
+02.07 22:12:42 Moving is finished
+02.07 22:14:19 Scanning 100 point from 4026
+02.07 22:14:19 Going to coordinates X=-26.400, Y=-38.279
+02.07 22:14:20 Moving is finished
+02.07 22:15:57 Scanning 101 point from 4026
+02.07 22:15:57 Going to coordinates X=-26.390, Y=-38.279
+02.07 22:15:57 Moving is finished
+02.07 22:17:34 Scanning 102 point from 4026
+02.07 22:17:34 Going to coordinates X=-26.380, Y=-38.279
+02.07 22:17:34 Moving is finished
+02.07 22:19:12 Scanning 103 point from 4026
+02.07 22:19:12 Going to coordinates X=-26.370, Y=-38.279
+02.07 22:19:12 Moving is finished
+02.07 22:20:49 Scanning 104 point from 4026
+02.07 22:20:49 Going to coordinates X=-26.360, Y=-38.279
+02.07 22:20:49 Moving is finished
+02.07 22:22:26 Scanning 105 point from 4026
+02.07 22:22:26 Going to coordinates X=-26.350, Y=-38.279
+02.07 22:22:26 Moving is finished
+02.07 22:24:03 Scanning 106 point from 4026
+02.07 22:24:03 Going to coordinates X=-26.340, Y=-38.279
+02.07 22:24:03 Moving is finished
+02.07 22:25:40 Scanning 107 point from 4026
+02.07 22:25:40 Going to coordinates X=-26.330, Y=-38.279
+02.07 22:25:40 Moving is finished
+02.07 22:27:17 Scanning 108 point from 4026
+02.07 22:27:17 Going to coordinates X=-26.320, Y=-38.279
+02.07 22:27:17 Moving is finished
+02.07 22:28:54 Scanning 109 point from 4026
+02.07 22:28:54 Going to coordinates X=-26.310, Y=-38.279
+02.07 22:28:54 Moving is finished
+02.07 22:30:30 Scanning 110 point from 4026
+02.07 22:30:30 Going to coordinates X=-26.300, Y=-38.279
+02.07 22:30:31 Moving is finished
+02.07 22:32:07 Scanning 111 point from 4026
+02.07 22:32:07 Going to coordinates X=-26.290, Y=-38.279
+02.07 22:32:07 Moving is finished
+02.07 22:33:44 Scanning 112 point from 4026
+02.07 22:33:44 Going to coordinates X=-26.280, Y=-38.279
+02.07 22:33:44 Moving is finished
+02.07 22:35:21 Scanning 113 point from 4026
+02.07 22:35:21 Going to coordinates X=-26.270, Y=-38.279
+02.07 22:35:21 Moving is finished
+02.07 22:36:58 Scanning 114 point from 4026
+02.07 22:36:58 Going to coordinates X=-26.260, Y=-38.279
+02.07 22:36:58 Moving is finished
+02.07 22:38:36 Scanning 115 point from 4026
+02.07 22:38:36 Going to coordinates X=-26.250, Y=-38.279
+02.07 22:38:36 Moving is finished
+02.07 22:40:13 Scanning 116 point from 4026
+02.07 22:40:13 Going to coordinates X=-26.240, Y=-38.279
+02.07 22:40:13 Moving is finished
+02.07 22:41:50 Scanning 117 point from 4026
+02.07 22:41:50 Going to coordinates X=-26.230, Y=-38.279
+02.07 22:41:50 Moving is finished
+02.07 22:43:27 Scanning 118 point from 4026
+02.07 22:43:27 Going to coordinates X=-26.220, Y=-38.279
+02.07 22:43:27 Moving is finished
+02.07 22:45:04 Scanning 119 point from 4026
+02.07 22:45:04 Going to coordinates X=-26.210, Y=-38.279
+02.07 22:45:04 Moving is finished
+02.07 22:46:41 Scanning 120 point from 4026
+02.07 22:46:41 Going to coordinates X=-26.200, Y=-38.279
+02.07 22:46:41 Moving is finished
+02.07 22:48:18 Scanning 121 point from 4026
+02.07 22:48:18 Going to coordinates X=-26.190, Y=-38.279
+02.07 22:48:18 Moving is finished
+02.07 22:49:55 Scanning 122 point from 4026
+02.07 22:49:55 Going to coordinates X=-26.790, Y=-38.269
+02.07 22:49:55 Moving is finished
+02.07 22:51:32 Scanning 123 point from 4026
+02.07 22:51:32 Going to coordinates X=-26.780, Y=-38.269
+02.07 22:51:32 Moving is finished
+02.07 22:53:09 Scanning 124 point from 4026
+02.07 22:53:09 Going to coordinates X=-26.770, Y=-38.269
+02.07 22:53:09 Moving is finished
+02.07 22:54:46 Scanning 125 point from 4026
+02.07 22:54:46 Going to coordinates X=-26.760, Y=-38.269
+02.07 22:54:46 Moving is finished
+02.07 22:56:24 Scanning 126 point from 4026
+02.07 22:56:24 Going to coordinates X=-26.750, Y=-38.269
+02.07 22:56:24 Moving is finished
+02.07 22:58:01 Scanning 127 point from 4026
+02.07 22:58:01 Going to coordinates X=-26.740, Y=-38.269
+02.07 22:58:01 Moving is finished
+02.07 22:59:38 Scanning 128 point from 4026
+02.07 22:59:38 Going to coordinates X=-26.730, Y=-38.269
+02.07 22:59:38 Moving is finished
+02.07 23:01:14 Scanning 129 point from 4026
+02.07 23:01:14 Going to coordinates X=-26.720, Y=-38.269
+02.07 23:01:14 Moving is finished
+02.07 23:02:51 Scanning 130 point from 4026
+02.07 23:02:51 Going to coordinates X=-26.710, Y=-38.269
+02.07 23:02:52 Moving is finished
+02.07 23:04:28 Scanning 131 point from 4026
+02.07 23:04:28 Going to coordinates X=-26.700, Y=-38.269
+02.07 23:04:29 Moving is finished
+02.07 23:06:05 Scanning 132 point from 4026
+02.07 23:06:05 Going to coordinates X=-26.690, Y=-38.269
+02.07 23:06:05 Moving is finished
+02.07 23:07:42 Scanning 133 point from 4026
+02.07 23:07:42 Going to coordinates X=-26.680, Y=-38.269
+02.07 23:07:42 Moving is finished
+02.07 23:09:19 Scanning 134 point from 4026
+02.07 23:09:19 Going to coordinates X=-26.670, Y=-38.269
+02.07 23:09:19 Moving is finished
+02.07 23:10:56 Scanning 135 point from 4026
+02.07 23:10:56 Going to coordinates X=-26.660, Y=-38.269
+02.07 23:10:56 Moving is finished
+02.07 23:12:32 Scanning 136 point from 4026
+02.07 23:12:32 Going to coordinates X=-26.650, Y=-38.269
+02.07 23:12:32 Moving is finished
+02.07 23:14:09 Scanning 137 point from 4026
+02.07 23:14:09 Going to coordinates X=-26.640, Y=-38.269
+02.07 23:14:09 Moving is finished
+02.07 23:15:46 Scanning 138 point from 4026
+02.07 23:15:46 Going to coordinates X=-26.630, Y=-38.269
+02.07 23:15:46 Moving is finished
+02.07 23:17:23 Scanning 139 point from 4026
+02.07 23:17:23 Going to coordinates X=-26.620, Y=-38.269
+02.07 23:17:23 Moving is finished
+02.07 23:18:59 Scanning 140 point from 4026
+02.07 23:18:59 Going to coordinates X=-26.610, Y=-38.269
+02.07 23:19:00 Moving is finished
+02.07 23:20:36 Scanning 141 point from 4026
+02.07 23:20:36 Going to coordinates X=-26.600, Y=-38.269
+02.07 23:20:36 Moving is finished
+02.07 23:22:13 Scanning 142 point from 4026
+02.07 23:22:13 Going to coordinates X=-26.590, Y=-38.269
+02.07 23:22:14 Moving is finished
+02.07 23:23:51 Scanning 143 point from 4026
+02.07 23:23:51 Going to coordinates X=-26.580, Y=-38.269
+02.07 23:23:51 Moving is finished
+02.07 23:25:28 Scanning 144 point from 4026
+02.07 23:25:28 Going to coordinates X=-26.570, Y=-38.269
+02.07 23:25:28 Moving is finished
+02.07 23:27:05 Scanning 145 point from 4026
+02.07 23:27:05 Going to coordinates X=-26.560, Y=-38.269
+02.07 23:27:05 Moving is finished
+02.07 23:28:43 Scanning 146 point from 4026
+02.07 23:28:43 Going to coordinates X=-26.550, Y=-38.269
+02.07 23:28:43 Moving is finished
+02.07 23:30:20 Scanning 147 point from 4026
+02.07 23:30:20 Going to coordinates X=-26.540, Y=-38.269
+02.07 23:30:20 Moving is finished
+02.07 23:31:57 Scanning 148 point from 4026
+02.07 23:31:57 Going to coordinates X=-26.530, Y=-38.269
+02.07 23:31:57 Moving is finished
+02.07 23:33:34 Scanning 149 point from 4026
+02.07 23:33:34 Going to coordinates X=-26.520, Y=-38.269
+02.07 23:33:34 Moving is finished
+02.07 23:35:10 Scanning 150 point from 4026
+02.07 23:35:10 Going to coordinates X=-26.510, Y=-38.269
+02.07 23:35:11 Moving is finished
+02.07 23:36:48 Scanning 151 point from 4026
+02.07 23:36:48 Going to coordinates X=-26.500, Y=-38.269
+02.07 23:36:48 Moving is finished
+02.07 23:38:25 Scanning 152 point from 4026
+02.07 23:38:25 Going to coordinates X=-26.490, Y=-38.269
+02.07 23:38:25 Moving is finished
+02.07 23:40:02 Scanning 153 point from 4026
+02.07 23:40:02 Going to coordinates X=-26.480, Y=-38.269
+02.07 23:40:02 Moving is finished
+02.07 23:41:38 Scanning 154 point from 4026
+02.07 23:41:38 Going to coordinates X=-26.470, Y=-38.269
+02.07 23:41:39 Moving is finished
+02.07 23:43:16 Scanning 155 point from 4026
+02.07 23:43:16 Going to coordinates X=-26.460, Y=-38.269
+02.07 23:43:16 Moving is finished
+02.07 23:44:53 Scanning 156 point from 4026
+02.07 23:44:53 Going to coordinates X=-26.450, Y=-38.269
+02.07 23:44:53 Moving is finished
+02.07 23:46:31 Scanning 157 point from 4026
+02.07 23:46:31 Going to coordinates X=-26.440, Y=-38.269
+02.07 23:46:31 Moving is finished
+02.07 23:48:08 Scanning 158 point from 4026
+02.07 23:48:08 Going to coordinates X=-26.430, Y=-38.269
+02.07 23:48:08 Moving is finished
+02.07 23:49:44 Scanning 159 point from 4026
+02.07 23:49:44 Going to coordinates X=-26.420, Y=-38.269
+02.07 23:49:44 Moving is finished
+02.07 23:51:22 Scanning 160 point from 4026
+02.07 23:51:22 Going to coordinates X=-26.410, Y=-38.269
+02.07 23:51:22 Moving is finished
+02.07 23:52:59 Scanning 161 point from 4026
+02.07 23:52:59 Going to coordinates X=-26.400, Y=-38.269
+02.07 23:52:59 Moving is finished
+02.07 23:54:35 Scanning 162 point from 4026
+02.07 23:54:35 Going to coordinates X=-26.390, Y=-38.269
+02.07 23:54:36 Moving is finished
+02.07 23:56:12 Scanning 163 point from 4026
+02.07 23:56:12 Going to coordinates X=-26.380, Y=-38.269
+02.07 23:56:12 Moving is finished
+02.07 23:57:49 Scanning 164 point from 4026
+02.07 23:57:49 Going to coordinates X=-26.370, Y=-38.269
+02.07 23:57:49 Moving is finished
+02.07 23:59:26 Scanning 165 point from 4026
+02.07 23:59:26 Going to coordinates X=-26.360, Y=-38.269
+02.07 23:59:26 Moving is finished
+03.07 00:01:03 Scanning 166 point from 4026
+03.07 00:01:03 Going to coordinates X=-26.350, Y=-38.269
+03.07 00:01:03 Moving is finished
+03.07 00:02:39 Scanning 167 point from 4026
+03.07 00:02:39 Going to coordinates X=-26.340, Y=-38.269
+03.07 00:02:40 Moving is finished
+03.07 00:04:16 Scanning 168 point from 4026
+03.07 00:04:16 Going to coordinates X=-26.330, Y=-38.269
+03.07 00:04:16 Moving is finished
+03.07 00:05:53 Scanning 169 point from 4026
+03.07 00:05:53 Going to coordinates X=-26.320, Y=-38.269
+03.07 00:05:53 Moving is finished
+03.07 00:07:30 Scanning 170 point from 4026
+03.07 00:07:30 Going to coordinates X=-26.310, Y=-38.269
+03.07 00:07:30 Moving is finished
+03.07 00:09:07 Scanning 171 point from 4026
+03.07 00:09:07 Going to coordinates X=-26.300, Y=-38.269
+03.07 00:09:07 Moving is finished
+03.07 00:10:44 Scanning 172 point from 4026
+03.07 00:10:44 Going to coordinates X=-26.290, Y=-38.269
+03.07 00:10:44 Moving is finished
+03.07 00:12:21 Scanning 173 point from 4026
+03.07 00:12:21 Going to coordinates X=-26.280, Y=-38.269
+03.07 00:12:21 Moving is finished
+03.07 00:13:58 Scanning 174 point from 4026
+03.07 00:13:58 Going to coordinates X=-26.270, Y=-38.269
+03.07 00:13:58 Moving is finished
+03.07 00:15:35 Scanning 175 point from 4026
+03.07 00:15:35 Going to coordinates X=-26.260, Y=-38.269
+03.07 00:15:35 Moving is finished
+03.07 00:17:12 Scanning 176 point from 4026
+03.07 00:17:12 Going to coordinates X=-26.250, Y=-38.269
+03.07 00:17:12 Moving is finished
+03.07 00:18:49 Scanning 177 point from 4026
+03.07 00:18:49 Going to coordinates X=-26.240, Y=-38.269
+03.07 00:18:49 Moving is finished
+03.07 00:20:26 Scanning 178 point from 4026
+03.07 00:20:26 Going to coordinates X=-26.230, Y=-38.269
+03.07 00:20:26 Moving is finished
+03.07 00:22:03 Scanning 179 point from 4026
+03.07 00:22:03 Going to coordinates X=-26.220, Y=-38.269
+03.07 00:22:03 Moving is finished
+03.07 00:23:40 Scanning 180 point from 4026
+03.07 00:23:40 Going to coordinates X=-26.210, Y=-38.269
+03.07 00:23:40 Moving is finished
+03.07 00:25:17 Scanning 181 point from 4026
+03.07 00:25:17 Going to coordinates X=-26.200, Y=-38.269
+03.07 00:25:17 Moving is finished
+03.07 00:26:54 Scanning 182 point from 4026
+03.07 00:26:54 Going to coordinates X=-26.190, Y=-38.269
+03.07 00:26:55 Moving is finished
+03.07 00:28:32 Scanning 183 point from 4026
+03.07 00:28:32 Going to coordinates X=-26.790, Y=-38.259
+03.07 00:28:32 Moving is finished
+03.07 00:30:09 Scanning 184 point from 4026
+03.07 00:30:09 Going to coordinates X=-26.780, Y=-38.259
+03.07 00:30:09 Moving is finished
+03.07 00:31:47 Scanning 185 point from 4026
+03.07 00:31:47 Going to coordinates X=-26.770, Y=-38.259
+03.07 00:31:47 Moving is finished
+03.07 00:33:23 Scanning 186 point from 4026
+03.07 00:33:23 Going to coordinates X=-26.760, Y=-38.259
+03.07 00:33:23 Moving is finished
+03.07 00:35:01 Scanning 187 point from 4026
+03.07 00:35:01 Going to coordinates X=-26.750, Y=-38.259
+03.07 00:35:01 Moving is finished
+03.07 00:36:38 Scanning 188 point from 4026
+03.07 00:36:38 Going to coordinates X=-26.740, Y=-38.259
+03.07 00:36:38 Moving is finished
+03.07 00:38:16 Scanning 189 point from 4026
+03.07 00:38:16 Going to coordinates X=-26.730, Y=-38.259
+03.07 00:38:16 Moving is finished
+03.07 00:39:53 Scanning 190 point from 4026
+03.07 00:39:53 Going to coordinates X=-26.720, Y=-38.259
+03.07 00:39:53 Moving is finished
+03.07 00:41:29 Scanning 191 point from 4026
+03.07 00:41:29 Going to coordinates X=-26.710, Y=-38.259
+03.07 00:41:29 Moving is finished
+03.07 00:43:06 Scanning 192 point from 4026
+03.07 00:43:06 Going to coordinates X=-26.700, Y=-38.259
+03.07 00:43:07 Moving is finished
+03.07 00:44:44 Scanning 193 point from 4026
+03.07 00:44:44 Going to coordinates X=-26.690, Y=-38.259
+03.07 00:44:44 Moving is finished
+03.07 00:46:21 Scanning 194 point from 4026
+03.07 00:46:21 Going to coordinates X=-26.680, Y=-38.259
+03.07 00:46:21 Moving is finished
+03.07 00:47:58 Scanning 195 point from 4026
+03.07 00:47:58 Going to coordinates X=-26.670, Y=-38.259
+03.07 00:47:58 Moving is finished
+03.07 00:49:36 Scanning 196 point from 4026
+03.07 00:49:36 Going to coordinates X=-26.660, Y=-38.259
+03.07 00:49:36 Moving is finished
+03.07 00:51:13 Scanning 197 point from 4026
+03.07 00:51:13 Going to coordinates X=-26.650, Y=-38.259
+03.07 00:51:13 Moving is finished
+03.07 00:52:49 Scanning 198 point from 4026
+03.07 00:52:49 Going to coordinates X=-26.640, Y=-38.259
+03.07 00:52:50 Moving is finished
+03.07 00:54:27 Scanning 199 point from 4026
+03.07 00:54:27 Going to coordinates X=-26.630, Y=-38.259
+03.07 00:54:27 Moving is finished
+03.07 00:56:04 Scanning 200 point from 4026
+03.07 00:56:04 Going to coordinates X=-26.620, Y=-38.259
+03.07 00:56:05 Moving is finished
+03.07 00:57:41 Scanning 201 point from 4026
+03.07 00:57:41 Going to coordinates X=-26.610, Y=-38.259
+03.07 00:57:42 Moving is finished
+03.07 00:59:19 Scanning 202 point from 4026
+03.07 00:59:19 Going to coordinates X=-26.600, Y=-38.259
+03.07 00:59:19 Moving is finished
+03.07 01:00:56 Scanning 203 point from 4026
+03.07 01:00:56 Going to coordinates X=-26.590, Y=-38.259
+03.07 01:00:56 Moving is finished
+03.07 01:02:34 Scanning 204 point from 4026
+03.07 01:02:34 Going to coordinates X=-26.580, Y=-38.259
+03.07 01:02:34 Moving is finished
+03.07 01:04:11 Scanning 205 point from 4026
+03.07 01:04:11 Going to coordinates X=-26.570, Y=-38.259
+03.07 01:04:11 Moving is finished
+03.07 01:05:48 Scanning 206 point from 4026
+03.07 01:05:48 Going to coordinates X=-26.560, Y=-38.259
+03.07 01:05:49 Moving is finished
+03.07 01:07:26 Scanning 207 point from 4026
+03.07 01:07:26 Going to coordinates X=-26.550, Y=-38.259
+03.07 01:07:26 Moving is finished
+03.07 01:09:03 Scanning 208 point from 4026
+03.07 01:09:03 Going to coordinates X=-26.540, Y=-38.259
+03.07 01:09:03 Moving is finished
+03.07 01:10:40 Scanning 209 point from 4026
+03.07 01:10:40 Going to coordinates X=-26.530, Y=-38.259
+03.07 01:10:40 Moving is finished
+03.07 01:12:17 Scanning 210 point from 4026
+03.07 01:12:17 Going to coordinates X=-26.520, Y=-38.259
+03.07 01:12:17 Moving is finished
+03.07 01:13:54 Scanning 211 point from 4026
+03.07 01:13:54 Going to coordinates X=-26.510, Y=-38.259
+03.07 01:13:54 Moving is finished
+03.07 01:15:31 Scanning 212 point from 4026
+03.07 01:15:31 Going to coordinates X=-26.500, Y=-38.259
+03.07 01:15:31 Moving is finished
+03.07 01:17:07 Scanning 213 point from 4026
+03.07 01:17:07 Going to coordinates X=-26.490, Y=-38.259
+03.07 01:17:07 Moving is finished
+03.07 01:18:45 Scanning 214 point from 4026
+03.07 01:18:45 Going to coordinates X=-26.480, Y=-38.259
+03.07 01:18:45 Moving is finished
+03.07 01:20:22 Scanning 215 point from 4026
+03.07 01:20:22 Going to coordinates X=-26.470, Y=-38.259
+03.07 01:20:22 Moving is finished
+03.07 01:21:59 Scanning 216 point from 4026
+03.07 01:21:59 Going to coordinates X=-26.460, Y=-38.259
+03.07 01:21:59 Moving is finished
+03.07 01:23:36 Scanning 217 point from 4026
+03.07 01:23:36 Going to coordinates X=-26.450, Y=-38.259
+03.07 01:23:37 Moving is finished
+03.07 01:25:14 Scanning 218 point from 4026
+03.07 01:25:14 Going to coordinates X=-26.440, Y=-38.259
+03.07 01:25:14 Moving is finished
+03.07 01:26:51 Scanning 219 point from 4026
+03.07 01:26:51 Going to coordinates X=-26.430, Y=-38.259
+03.07 01:26:51 Moving is finished
+03.07 01:28:28 Scanning 220 point from 4026
+03.07 01:28:28 Going to coordinates X=-26.420, Y=-38.259
+03.07 01:28:28 Moving is finished
+03.07 01:30:05 Scanning 221 point from 4026
+03.07 01:30:05 Going to coordinates X=-26.410, Y=-38.259
+03.07 01:30:05 Moving is finished
+03.07 01:31:41 Scanning 222 point from 4026
+03.07 01:31:41 Going to coordinates X=-26.400, Y=-38.259
+03.07 01:31:41 Moving is finished
+03.07 01:33:18 Scanning 223 point from 4026
+03.07 01:33:18 Going to coordinates X=-26.390, Y=-38.259
+03.07 01:33:19 Moving is finished
+03.07 01:34:55 Scanning 224 point from 4026
+03.07 01:34:55 Going to coordinates X=-26.380, Y=-38.259
+03.07 01:34:55 Moving is finished
+03.07 01:36:32 Scanning 225 point from 4026
+03.07 01:36:32 Going to coordinates X=-26.370, Y=-38.259
+03.07 01:36:32 Moving is finished
+03.07 01:38:10 Scanning 226 point from 4026
+03.07 01:38:10 Going to coordinates X=-26.360, Y=-38.259
+03.07 01:38:10 Moving is finished
+03.07 01:39:47 Scanning 227 point from 4026
+03.07 01:39:47 Going to coordinates X=-26.350, Y=-38.259
+03.07 01:39:47 Moving is finished
+03.07 01:41:24 Scanning 228 point from 4026
+03.07 01:41:24 Going to coordinates X=-26.340, Y=-38.259
+03.07 01:41:24 Moving is finished
+03.07 01:43:00 Scanning 229 point from 4026
+03.07 01:43:00 Going to coordinates X=-26.330, Y=-38.259
+03.07 01:43:00 Moving is finished
+03.07 01:44:37 Scanning 230 point from 4026
+03.07 01:44:37 Going to coordinates X=-26.320, Y=-38.259
+03.07 01:44:37 Moving is finished
+03.07 01:46:14 Scanning 231 point from 4026
+03.07 01:46:14 Going to coordinates X=-26.310, Y=-38.259
+03.07 01:46:14 Moving is finished
+03.07 01:47:51 Scanning 232 point from 4026
+03.07 01:47:51 Going to coordinates X=-26.300, Y=-38.259
+03.07 01:47:51 Moving is finished
+03.07 01:49:28 Scanning 233 point from 4026
+03.07 01:49:28 Going to coordinates X=-26.290, Y=-38.259
+03.07 01:49:28 Moving is finished
+03.07 01:51:05 Scanning 234 point from 4026
+03.07 01:51:05 Going to coordinates X=-26.280, Y=-38.259
+03.07 01:51:05 Moving is finished
+03.07 01:52:42 Scanning 235 point from 4026
+03.07 01:52:42 Going to coordinates X=-26.270, Y=-38.259
+03.07 01:52:42 Moving is finished
+03.07 01:54:19 Scanning 236 point from 4026
+03.07 01:54:19 Going to coordinates X=-26.260, Y=-38.259
+03.07 01:54:19 Moving is finished
+03.07 01:55:56 Scanning 237 point from 4026
+03.07 01:55:56 Going to coordinates X=-26.250, Y=-38.259
+03.07 01:55:56 Moving is finished
+03.07 01:57:34 Scanning 238 point from 4026
+03.07 01:57:34 Going to coordinates X=-26.240, Y=-38.259
+03.07 01:57:34 Moving is finished
+03.07 01:59:11 Scanning 239 point from 4026
+03.07 01:59:11 Going to coordinates X=-26.230, Y=-38.259
+03.07 01:59:11 Moving is finished
+03.07 02:00:48 Scanning 240 point from 4026
+03.07 02:00:48 Going to coordinates X=-26.220, Y=-38.259
+03.07 02:00:48 Moving is finished
+03.07 02:02:25 Scanning 241 point from 4026
+03.07 02:02:25 Going to coordinates X=-26.210, Y=-38.259
+03.07 02:02:26 Moving is finished
+03.07 02:04:02 Scanning 242 point from 4026
+03.07 02:04:02 Going to coordinates X=-26.200, Y=-38.259
+03.07 02:04:03 Moving is finished
+03.07 02:05:40 Scanning 243 point from 4026
+03.07 02:05:40 Going to coordinates X=-26.190, Y=-38.259
+03.07 02:05:40 Moving is finished
+03.07 02:07:16 Scanning 244 point from 4026
+03.07 02:07:16 Going to coordinates X=-26.790, Y=-38.249
+03.07 02:07:17 Moving is finished
+03.07 02:08:54 Scanning 245 point from 4026
+03.07 02:08:54 Going to coordinates X=-26.780, Y=-38.249
+03.07 02:08:54 Moving is finished
+03.07 02:10:31 Scanning 246 point from 4026
+03.07 02:10:31 Going to coordinates X=-26.770, Y=-38.249
+03.07 02:10:31 Moving is finished
+03.07 02:12:08 Scanning 247 point from 4026
+03.07 02:12:08 Going to coordinates X=-26.760, Y=-38.249
+03.07 02:12:08 Moving is finished
+03.07 02:13:45 Scanning 248 point from 4026
+03.07 02:13:45 Going to coordinates X=-26.750, Y=-38.249
+03.07 02:13:45 Moving is finished
+03.07 02:15:21 Scanning 249 point from 4026
+03.07 02:15:21 Going to coordinates X=-26.740, Y=-38.249
+03.07 02:15:22 Moving is finished
+03.07 02:16:58 Scanning 250 point from 4026
+03.07 02:16:58 Going to coordinates X=-26.730, Y=-38.249
+03.07 02:16:58 Moving is finished
+03.07 02:18:35 Scanning 251 point from 4026
+03.07 02:18:35 Going to coordinates X=-26.720, Y=-38.249
+03.07 02:18:35 Moving is finished
+03.07 02:20:12 Scanning 252 point from 4026
+03.07 02:20:12 Going to coordinates X=-26.710, Y=-38.249
+03.07 02:20:12 Moving is finished
+03.07 02:21:49 Scanning 253 point from 4026
+03.07 02:21:49 Going to coordinates X=-26.700, Y=-38.249
+03.07 02:21:49 Moving is finished
+03.07 02:23:26 Scanning 254 point from 4026
+03.07 02:23:26 Going to coordinates X=-26.690, Y=-38.249
+03.07 02:23:26 Moving is finished
+03.07 02:25:03 Scanning 255 point from 4026
+03.07 02:25:03 Going to coordinates X=-26.680, Y=-38.249
+03.07 02:25:03 Moving is finished
+03.07 02:26:40 Scanning 256 point from 4026
+03.07 02:26:40 Going to coordinates X=-26.670, Y=-38.249
+03.07 02:26:40 Moving is finished
+03.07 02:28:17 Scanning 257 point from 4026
+03.07 02:28:17 Going to coordinates X=-26.660, Y=-38.249
+03.07 02:28:17 Moving is finished
+03.07 02:29:54 Scanning 258 point from 4026
+03.07 02:29:54 Going to coordinates X=-26.650, Y=-38.249
+03.07 02:29:54 Moving is finished
+03.07 02:31:30 Scanning 259 point from 4026
+03.07 02:31:30 Going to coordinates X=-26.640, Y=-38.249
+03.07 02:31:30 Moving is finished
+03.07 02:33:07 Scanning 260 point from 4026
+03.07 02:33:07 Going to coordinates X=-26.630, Y=-38.249
+03.07 02:33:07 Moving is finished
+03.07 02:34:43 Scanning 261 point from 4026
+03.07 02:34:43 Going to coordinates X=-26.620, Y=-38.249
+03.07 02:34:43 Moving is finished
+03.07 02:36:20 Scanning 262 point from 4026
+03.07 02:36:20 Going to coordinates X=-26.610, Y=-38.249
+03.07 02:36:20 Moving is finished
+03.07 02:37:57 Scanning 263 point from 4026
+03.07 02:37:57 Going to coordinates X=-26.600, Y=-38.249
+03.07 02:37:57 Moving is finished
+03.07 02:39:34 Scanning 264 point from 4026
+03.07 02:39:34 Going to coordinates X=-26.590, Y=-38.249
+03.07 02:39:35 Moving is finished
+03.07 02:41:12 Scanning 265 point from 4026
+03.07 02:41:12 Going to coordinates X=-26.580, Y=-38.249
+03.07 02:41:12 Moving is finished
+03.07 02:42:49 Scanning 266 point from 4026
+03.07 02:42:49 Going to coordinates X=-26.570, Y=-38.249
+03.07 02:42:50 Moving is finished
+03.07 02:44:26 Scanning 267 point from 4026
+03.07 02:44:26 Going to coordinates X=-26.560, Y=-38.249
+03.07 02:44:26 Moving is finished
+03.07 02:46:04 Scanning 268 point from 4026
+03.07 02:46:04 Going to coordinates X=-26.550, Y=-38.249
+03.07 02:46:04 Moving is finished
+03.07 02:47:41 Scanning 269 point from 4026
+03.07 02:47:41 Going to coordinates X=-26.540, Y=-38.249
+03.07 02:47:41 Moving is finished
+03.07 02:49:19 Scanning 270 point from 4026
+03.07 02:49:19 Going to coordinates X=-26.530, Y=-38.249
+03.07 02:49:19 Moving is finished
+03.07 02:50:56 Scanning 271 point from 4026
+03.07 02:50:56 Going to coordinates X=-26.520, Y=-38.249
+03.07 02:50:56 Moving is finished
+03.07 02:52:33 Scanning 272 point from 4026
+03.07 02:52:33 Going to coordinates X=-26.510, Y=-38.249
+03.07 02:52:34 Moving is finished
+03.07 02:54:10 Scanning 273 point from 4026
+03.07 02:54:10 Going to coordinates X=-26.500, Y=-38.249
+03.07 02:54:10 Moving is finished
+03.07 02:55:48 Scanning 274 point from 4026
+03.07 02:55:48 Going to coordinates X=-26.490, Y=-38.249
+03.07 02:55:48 Moving is finished
+03.07 02:57:24 Scanning 275 point from 4026
+03.07 02:57:24 Going to coordinates X=-26.480, Y=-38.249
+03.07 02:57:24 Moving is finished
+03.07 02:59:02 Scanning 276 point from 4026
+03.07 02:59:02 Going to coordinates X=-26.470, Y=-38.249
+03.07 02:59:02 Moving is finished
+03.07 03:00:39 Scanning 277 point from 4026
+03.07 03:00:39 Going to coordinates X=-26.460, Y=-38.249
+03.07 03:00:39 Moving is finished
+03.07 03:02:15 Scanning 278 point from 4026
+03.07 03:02:15 Going to coordinates X=-26.450, Y=-38.249
+03.07 03:02:16 Moving is finished
+03.07 03:03:53 Scanning 279 point from 4026
+03.07 03:03:53 Going to coordinates X=-26.440, Y=-38.249
+03.07 03:03:53 Moving is finished
+03.07 03:05:30 Scanning 280 point from 4026
+03.07 03:05:30 Going to coordinates X=-26.430, Y=-38.249
+03.07 03:05:30 Moving is finished
+03.07 03:07:07 Scanning 281 point from 4026
+03.07 03:07:07 Going to coordinates X=-26.420, Y=-38.249
+03.07 03:07:07 Moving is finished
+03.07 03:08:44 Scanning 282 point from 4026
+03.07 03:08:44 Going to coordinates X=-26.410, Y=-38.249
+03.07 03:08:44 Moving is finished
+03.07 03:10:21 Scanning 283 point from 4026
+03.07 03:10:21 Going to coordinates X=-26.400, Y=-38.249
+03.07 03:10:21 Moving is finished
+03.07 03:11:59 Scanning 284 point from 4026
+03.07 03:11:59 Going to coordinates X=-26.390, Y=-38.249
+03.07 03:11:59 Moving is finished
+03.07 03:13:36 Scanning 285 point from 4026
+03.07 03:13:36 Going to coordinates X=-26.380, Y=-38.249
+03.07 03:13:36 Moving is finished
+03.07 03:15:12 Scanning 286 point from 4026
+03.07 03:15:12 Going to coordinates X=-26.370, Y=-38.249
+03.07 03:15:12 Moving is finished
+03.07 03:16:49 Scanning 287 point from 4026
+03.07 03:16:49 Going to coordinates X=-26.360, Y=-38.249
+03.07 03:16:49 Moving is finished
+03.07 03:18:27 Scanning 288 point from 4026
+03.07 03:18:27 Going to coordinates X=-26.350, Y=-38.249
+03.07 03:18:27 Moving is finished
+03.07 03:20:04 Scanning 289 point from 4026
+03.07 03:20:04 Going to coordinates X=-26.340, Y=-38.249
+03.07 03:20:04 Moving is finished
+03.07 03:21:41 Scanning 290 point from 4026
+03.07 03:21:41 Going to coordinates X=-26.330, Y=-38.249
+03.07 03:21:42 Moving is finished
+03.07 03:23:18 Scanning 291 point from 4026
+03.07 03:23:18 Going to coordinates X=-26.320, Y=-38.249
+03.07 03:23:18 Moving is finished
+03.07 03:24:56 Scanning 292 point from 4026
+03.07 03:24:56 Going to coordinates X=-26.310, Y=-38.249
+03.07 03:24:56 Moving is finished
+03.07 03:26:33 Scanning 293 point from 4026
+03.07 03:26:33 Going to coordinates X=-26.300, Y=-38.249
+03.07 03:26:33 Moving is finished
+03.07 03:28:09 Scanning 294 point from 4026
+03.07 03:28:09 Going to coordinates X=-26.290, Y=-38.249
+03.07 03:28:10 Moving is finished
+03.07 03:29:46 Scanning 295 point from 4026
+03.07 03:29:46 Going to coordinates X=-26.280, Y=-38.249
+03.07 03:29:46 Moving is finished
+03.07 03:31:24 Scanning 296 point from 4026
+03.07 03:31:24 Going to coordinates X=-26.270, Y=-38.249
+03.07 03:31:24 Moving is finished
+03.07 03:33:01 Scanning 297 point from 4026
+03.07 03:33:01 Going to coordinates X=-26.260, Y=-38.249
+03.07 03:33:01 Moving is finished
+03.07 03:34:38 Scanning 298 point from 4026
+03.07 03:34:38 Going to coordinates X=-26.250, Y=-38.249
+03.07 03:34:38 Moving is finished
+03.07 03:36:14 Scanning 299 point from 4026
+03.07 03:36:14 Going to coordinates X=-26.240, Y=-38.249
+03.07 03:36:15 Moving is finished
+03.07 03:37:52 Scanning 300 point from 4026
+03.07 03:37:52 Going to coordinates X=-26.230, Y=-38.249
+03.07 03:37:52 Moving is finished
+03.07 03:39:28 Scanning 301 point from 4026
+03.07 03:39:28 Going to coordinates X=-26.220, Y=-38.249
+03.07 03:39:29 Moving is finished
+03.07 03:41:05 Scanning 302 point from 4026
+03.07 03:41:05 Going to coordinates X=-26.210, Y=-38.249
+03.07 03:41:05 Moving is finished
+03.07 03:42:42 Scanning 303 point from 4026
+03.07 03:42:42 Going to coordinates X=-26.200, Y=-38.249
+03.07 03:42:42 Moving is finished
+03.07 03:44:19 Scanning 304 point from 4026
+03.07 03:44:19 Going to coordinates X=-26.190, Y=-38.249
+03.07 03:44:19 Moving is finished
+03.07 03:45:55 Scanning 305 point from 4026
+03.07 03:45:55 Going to coordinates X=-26.790, Y=-38.239
+03.07 03:45:56 Moving is finished
+03.07 03:47:33 Scanning 306 point from 4026
+03.07 03:47:33 Going to coordinates X=-26.780, Y=-38.239
+03.07 03:47:33 Moving is finished
+03.07 03:49:10 Scanning 307 point from 4026
+03.07 03:49:10 Going to coordinates X=-26.770, Y=-38.239
+03.07 03:49:10 Moving is finished
+03.07 03:50:47 Scanning 308 point from 4026
+03.07 03:50:47 Going to coordinates X=-26.760, Y=-38.239
+03.07 03:50:47 Moving is finished
+03.07 03:52:24 Scanning 309 point from 4026
+03.07 03:52:24 Going to coordinates X=-26.750, Y=-38.239
+03.07 03:52:24 Moving is finished
+03.07 03:54:01 Scanning 310 point from 4026
+03.07 03:54:01 Going to coordinates X=-26.740, Y=-38.239
+03.07 03:54:01 Moving is finished
+03.07 03:55:39 Scanning 311 point from 4026
+03.07 03:55:39 Going to coordinates X=-26.730, Y=-38.239
+03.07 03:55:39 Moving is finished
+03.07 03:57:15 Scanning 312 point from 4026
+03.07 03:57:15 Going to coordinates X=-26.720, Y=-38.239
+03.07 03:57:15 Moving is finished
+03.07 03:58:52 Scanning 313 point from 4026
+03.07 03:58:52 Going to coordinates X=-26.710, Y=-38.239
+03.07 03:58:52 Moving is finished
+03.07 04:00:29 Scanning 314 point from 4026
+03.07 04:00:29 Going to coordinates X=-26.700, Y=-38.239
+03.07 04:00:29 Moving is finished
+03.07 04:02:06 Scanning 315 point from 4026
+03.07 04:02:06 Going to coordinates X=-26.690, Y=-38.239
+03.07 04:02:06 Moving is finished
+03.07 04:03:43 Scanning 316 point from 4026
+03.07 04:03:43 Going to coordinates X=-26.680, Y=-38.239
+03.07 04:03:43 Moving is finished
+03.07 04:05:20 Scanning 317 point from 4026
+03.07 04:05:20 Going to coordinates X=-26.670, Y=-38.239
+03.07 04:05:21 Moving is finished
+03.07 04:06:58 Scanning 318 point from 4026
+03.07 04:06:58 Going to coordinates X=-26.660, Y=-38.239
+03.07 04:06:58 Moving is finished
+03.07 04:08:35 Scanning 319 point from 4026
+03.07 04:08:35 Going to coordinates X=-26.650, Y=-38.239
+03.07 04:08:35 Moving is finished
+03.07 04:10:11 Scanning 320 point from 4026
+03.07 04:10:11 Going to coordinates X=-26.640, Y=-38.239
+03.07 04:10:11 Moving is finished
+03.07 04:11:48 Scanning 321 point from 4026
+03.07 04:11:48 Going to coordinates X=-26.630, Y=-38.239
+03.07 04:11:48 Moving is finished
+03.07 04:13:26 Scanning 322 point from 4026
+03.07 04:13:26 Going to coordinates X=-26.620, Y=-38.239
+03.07 04:13:26 Moving is finished
+03.07 04:15:02 Scanning 323 point from 4026
+03.07 04:15:02 Going to coordinates X=-26.610, Y=-38.239
+03.07 04:15:02 Moving is finished
+03.07 04:16:39 Scanning 324 point from 4026
+03.07 04:16:39 Going to coordinates X=-26.600, Y=-38.239
+03.07 04:16:39 Moving is finished
+03.07 04:18:16 Scanning 325 point from 4026
+03.07 04:18:16 Going to coordinates X=-26.590, Y=-38.239
+03.07 04:18:16 Moving is finished
+03.07 04:19:54 Scanning 326 point from 4026
+03.07 04:19:54 Going to coordinates X=-26.580, Y=-38.239
+03.07 04:19:54 Moving is finished
+03.07 04:21:31 Scanning 327 point from 4026
+03.07 04:21:31 Going to coordinates X=-26.570, Y=-38.239
+03.07 04:21:31 Moving is finished
+03.07 04:23:09 Scanning 328 point from 4026
+03.07 04:23:09 Going to coordinates X=-26.560, Y=-38.239
+03.07 04:23:09 Moving is finished
+03.07 04:24:46 Scanning 329 point from 4026
+03.07 04:24:46 Going to coordinates X=-26.550, Y=-38.239
+03.07 04:24:46 Moving is finished
+03.07 04:26:23 Scanning 330 point from 4026
+03.07 04:26:23 Going to coordinates X=-26.540, Y=-38.239
+03.07 04:26:23 Moving is finished
+03.07 04:28:01 Scanning 331 point from 4026
+03.07 04:28:01 Going to coordinates X=-26.530, Y=-38.239
+03.07 04:28:01 Moving is finished
+03.07 04:29:38 Scanning 332 point from 4026
+03.07 04:29:38 Going to coordinates X=-26.520, Y=-38.239
+03.07 04:29:38 Moving is finished
+03.07 04:31:14 Scanning 333 point from 4026
+03.07 04:31:14 Going to coordinates X=-26.510, Y=-38.239
+03.07 04:31:14 Moving is finished
+03.07 04:32:51 Scanning 334 point from 4026
+03.07 04:32:51 Going to coordinates X=-26.500, Y=-38.239
+03.07 04:32:52 Moving is finished
+03.07 04:34:29 Scanning 335 point from 4026
+03.07 04:34:29 Going to coordinates X=-26.490, Y=-38.239
+03.07 04:34:29 Moving is finished
+03.07 04:36:05 Scanning 336 point from 4026
+03.07 04:36:05 Going to coordinates X=-26.480, Y=-38.239
+03.07 04:36:05 Moving is finished
+03.07 04:37:42 Scanning 337 point from 4026
+03.07 04:37:42 Going to coordinates X=-26.470, Y=-38.239
+03.07 04:37:42 Moving is finished
+03.07 04:39:18 Scanning 338 point from 4026
+03.07 04:39:18 Going to coordinates X=-26.460, Y=-38.239
+03.07 04:39:18 Moving is finished
+03.07 04:40:55 Scanning 339 point from 4026
+03.07 04:40:55 Going to coordinates X=-26.450, Y=-38.239
+03.07 04:40:56 Moving is finished
+03.07 04:42:32 Scanning 340 point from 4026
+03.07 04:42:32 Going to coordinates X=-26.440, Y=-38.239
+03.07 04:42:33 Moving is finished
+03.07 04:44:10 Scanning 341 point from 4026
+03.07 04:44:10 Going to coordinates X=-26.430, Y=-38.239
+03.07 04:44:10 Moving is finished
+03.07 04:45:47 Scanning 342 point from 4026
+03.07 04:45:47 Going to coordinates X=-26.420, Y=-38.239
+03.07 04:45:47 Moving is finished
+03.07 04:47:23 Scanning 343 point from 4026
+03.07 04:47:23 Going to coordinates X=-26.410, Y=-38.239
+03.07 04:47:23 Moving is finished
+03.07 04:49:01 Scanning 344 point from 4026
+03.07 04:49:01 Going to coordinates X=-26.400, Y=-38.239
+03.07 04:49:01 Moving is finished
+03.07 04:50:38 Scanning 345 point from 4026
+03.07 04:50:38 Going to coordinates X=-26.390, Y=-38.239
+03.07 04:50:38 Moving is finished
+03.07 04:52:15 Scanning 346 point from 4026
+03.07 04:52:15 Going to coordinates X=-26.380, Y=-38.239
+03.07 04:52:15 Moving is finished
+03.07 04:53:52 Scanning 347 point from 4026
+03.07 04:53:52 Going to coordinates X=-26.370, Y=-38.239
+03.07 04:53:52 Moving is finished
+03.07 04:55:29 Scanning 348 point from 4026
+03.07 04:55:29 Going to coordinates X=-26.360, Y=-38.239
+03.07 04:55:29 Moving is finished
+03.07 04:57:05 Scanning 349 point from 4026
+03.07 04:57:05 Going to coordinates X=-26.350, Y=-38.239
+03.07 04:57:06 Moving is finished
+03.07 04:58:43 Scanning 350 point from 4026
+03.07 04:58:43 Going to coordinates X=-26.340, Y=-38.239
+03.07 04:58:43 Moving is finished
+03.07 05:00:19 Scanning 351 point from 4026
+03.07 05:00:19 Going to coordinates X=-26.330, Y=-38.239
+03.07 05:00:20 Moving is finished
+03.07 05:01:57 Scanning 352 point from 4026
+03.07 05:01:57 Going to coordinates X=-26.320, Y=-38.239
+03.07 05:01:57 Moving is finished
+03.07 05:03:34 Scanning 353 point from 4026
+03.07 05:03:34 Going to coordinates X=-26.310, Y=-38.239
+03.07 05:03:34 Moving is finished
+03.07 05:05:11 Scanning 354 point from 4026
+03.07 05:05:11 Going to coordinates X=-26.300, Y=-38.239
+03.07 05:05:11 Moving is finished
+03.07 05:06:48 Scanning 355 point from 4026
+03.07 05:06:48 Going to coordinates X=-26.290, Y=-38.239
+03.07 05:06:48 Moving is finished
+03.07 05:08:26 Scanning 356 point from 4026
+03.07 05:08:26 Going to coordinates X=-26.280, Y=-38.239
+03.07 05:08:26 Moving is finished
+03.07 05:10:03 Scanning 357 point from 4026
+03.07 05:10:03 Going to coordinates X=-26.270, Y=-38.239
+03.07 05:10:03 Moving is finished
+03.07 05:11:39 Scanning 358 point from 4026
+03.07 05:11:39 Going to coordinates X=-26.260, Y=-38.239
+03.07 05:11:39 Moving is finished
+03.07 05:13:16 Scanning 359 point from 4026
+03.07 05:13:16 Going to coordinates X=-26.250, Y=-38.239
+03.07 05:13:16 Moving is finished
+03.07 05:14:53 Scanning 360 point from 4026
+03.07 05:14:53 Going to coordinates X=-26.240, Y=-38.239
+03.07 05:14:53 Moving is finished
+03.07 05:16:29 Scanning 361 point from 4026
+03.07 05:16:29 Going to coordinates X=-26.230, Y=-38.239
+03.07 05:16:30 Moving is finished
+03.07 05:18:06 Scanning 362 point from 4026
+03.07 05:18:06 Going to coordinates X=-26.220, Y=-38.239
+03.07 05:18:06 Moving is finished
+03.07 05:19:43 Scanning 363 point from 4026
+03.07 05:19:43 Going to coordinates X=-26.210, Y=-38.239
+03.07 05:19:44 Moving is finished
+03.07 05:21:20 Scanning 364 point from 4026
+03.07 05:21:20 Going to coordinates X=-26.200, Y=-38.239
+03.07 05:21:20 Moving is finished
+03.07 05:22:57 Scanning 365 point from 4026
+03.07 05:22:57 Going to coordinates X=-26.190, Y=-38.239
+03.07 05:22:57 Moving is finished
+03.07 05:24:34 Scanning 366 point from 4026
+03.07 05:24:34 Going to coordinates X=-26.790, Y=-38.229
+03.07 05:24:34 Moving is finished
+03.07 05:26:11 Scanning 367 point from 4026
+03.07 05:26:11 Going to coordinates X=-26.780, Y=-38.229
+03.07 05:26:11 Moving is finished
+03.07 05:27:48 Scanning 368 point from 4026
+03.07 05:27:48 Going to coordinates X=-26.770, Y=-38.229
+03.07 05:27:48 Moving is finished
+03.07 05:29:24 Scanning 369 point from 4026
+03.07 05:29:24 Going to coordinates X=-26.760, Y=-38.229
+03.07 05:29:24 Moving is finished
+03.07 05:31:01 Scanning 370 point from 4026
+03.07 05:31:01 Going to coordinates X=-26.750, Y=-38.229
+03.07 05:31:02 Moving is finished
+03.07 05:32:38 Scanning 371 point from 4026
+03.07 05:32:38 Going to coordinates X=-26.740, Y=-38.229
+03.07 05:32:38 Moving is finished
+03.07 05:34:15 Scanning 372 point from 4026
+03.07 05:34:15 Going to coordinates X=-26.730, Y=-38.229
+03.07 05:34:15 Moving is finished
+03.07 05:35:52 Scanning 373 point from 4026
+03.07 05:35:52 Going to coordinates X=-26.720, Y=-38.229
+03.07 05:35:52 Moving is finished
+03.07 05:37:29 Scanning 374 point from 4026
+03.07 05:37:29 Going to coordinates X=-26.710, Y=-38.229
+03.07 05:37:29 Moving is finished
+03.07 05:39:06 Scanning 375 point from 4026
+03.07 05:39:06 Going to coordinates X=-26.700, Y=-38.229
+03.07 05:39:06 Moving is finished
+03.07 05:40:44 Scanning 376 point from 4026
+03.07 05:40:44 Going to coordinates X=-26.690, Y=-38.229
+03.07 05:40:44 Moving is finished
+03.07 05:42:22 Scanning 377 point from 4026
+03.07 05:42:22 Going to coordinates X=-26.680, Y=-38.229
+03.07 05:42:22 Moving is finished
+03.07 05:43:58 Scanning 378 point from 4026
+03.07 05:43:58 Going to coordinates X=-26.670, Y=-38.229
+03.07 05:43:58 Moving is finished
+03.07 05:45:35 Scanning 379 point from 4026
+03.07 05:45:35 Going to coordinates X=-26.660, Y=-38.229
+03.07 05:45:35 Moving is finished
+03.07 05:47:12 Scanning 380 point from 4026
+03.07 05:47:12 Going to coordinates X=-26.650, Y=-38.229
+03.07 05:47:12 Moving is finished
+03.07 05:48:49 Scanning 381 point from 4026
+03.07 05:48:49 Going to coordinates X=-26.640, Y=-38.229
+03.07 05:48:49 Moving is finished
+03.07 05:50:26 Scanning 382 point from 4026
+03.07 05:50:26 Going to coordinates X=-26.630, Y=-38.229
+03.07 05:50:26 Moving is finished
+03.07 05:52:03 Scanning 383 point from 4026
+03.07 05:52:03 Going to coordinates X=-26.620, Y=-38.229
+03.07 05:52:03 Moving is finished
+03.07 05:53:40 Scanning 384 point from 4026
+03.07 05:53:40 Going to coordinates X=-26.610, Y=-38.229
+03.07 05:53:41 Moving is finished
+03.07 05:55:18 Scanning 385 point from 4026
+03.07 05:55:18 Going to coordinates X=-26.600, Y=-38.229
+03.07 05:55:18 Moving is finished
+03.07 05:56:55 Scanning 386 point from 4026
+03.07 05:56:55 Going to coordinates X=-26.590, Y=-38.229
+03.07 05:56:55 Moving is finished
+03.07 05:58:32 Scanning 387 point from 4026
+03.07 05:58:32 Going to coordinates X=-26.580, Y=-38.229
+03.07 05:58:32 Moving is finished
+03.07 06:00:10 Scanning 388 point from 4026
+03.07 06:00:10 Going to coordinates X=-26.570, Y=-38.229
+03.07 06:00:10 Moving is finished
+03.07 06:01:47 Scanning 389 point from 4026
+03.07 06:01:47 Going to coordinates X=-26.560, Y=-38.229
+03.07 06:01:47 Moving is finished
+03.07 06:03:24 Scanning 390 point from 4026
+03.07 06:03:24 Going to coordinates X=-26.550, Y=-38.229
+03.07 06:03:24 Moving is finished
+03.07 06:05:01 Scanning 391 point from 4026
+03.07 06:05:01 Going to coordinates X=-26.540, Y=-38.229
+03.07 06:05:01 Moving is finished
+03.07 06:06:39 Scanning 392 point from 4026
+03.07 06:06:39 Going to coordinates X=-26.530, Y=-38.229
+03.07 06:06:39 Moving is finished
+03.07 06:08:16 Scanning 393 point from 4026
+03.07 06:08:16 Going to coordinates X=-26.520, Y=-38.229
+03.07 06:08:16 Moving is finished
+03.07 06:09:53 Scanning 394 point from 4026
+03.07 06:09:53 Going to coordinates X=-26.510, Y=-38.229
+03.07 06:09:54 Moving is finished
+03.07 06:11:31 Scanning 395 point from 4026
+03.07 06:11:31 Going to coordinates X=-26.500, Y=-38.229
+03.07 06:11:31 Moving is finished
+03.07 06:13:08 Scanning 396 point from 4026
+03.07 06:13:08 Going to coordinates X=-26.490, Y=-38.229
+03.07 06:13:09 Moving is finished
+03.07 06:14:45 Scanning 397 point from 4026
+03.07 06:14:45 Going to coordinates X=-26.480, Y=-38.229
+03.07 06:14:45 Moving is finished
+03.07 06:16:22 Scanning 398 point from 4026
+03.07 06:16:22 Going to coordinates X=-26.470, Y=-38.229
+03.07 06:16:22 Moving is finished
+03.07 06:18:00 Scanning 399 point from 4026
+03.07 06:18:00 Going to coordinates X=-26.460, Y=-38.229
+03.07 06:18:00 Moving is finished
+03.07 06:19:37 Scanning 400 point from 4026
+03.07 06:19:37 Going to coordinates X=-26.450, Y=-38.229
+03.07 06:19:37 Moving is finished
+03.07 06:21:14 Scanning 401 point from 4026
+03.07 06:21:14 Going to coordinates X=-26.440, Y=-38.229
+03.07 06:21:14 Moving is finished
+03.07 06:22:51 Scanning 402 point from 4026
+03.07 06:22:51 Going to coordinates X=-26.430, Y=-38.229
+03.07 06:22:51 Moving is finished
+03.07 06:24:28 Scanning 403 point from 4026
+03.07 06:24:28 Going to coordinates X=-26.420, Y=-38.229
+03.07 06:24:28 Moving is finished
+03.07 06:26:05 Scanning 404 point from 4026
+03.07 06:26:05 Going to coordinates X=-26.410, Y=-38.229
+03.07 06:26:05 Moving is finished
+03.07 06:27:42 Scanning 405 point from 4026
+03.07 06:27:42 Going to coordinates X=-26.400, Y=-38.229
+03.07 06:27:42 Moving is finished
+03.07 06:29:19 Scanning 406 point from 4026
+03.07 06:29:19 Going to coordinates X=-26.390, Y=-38.229
+03.07 06:29:20 Moving is finished
+03.07 06:30:57 Scanning 407 point from 4026
+03.07 06:30:57 Going to coordinates X=-26.380, Y=-38.229
+03.07 06:30:58 Moving is finished
+03.07 06:32:34 Scanning 408 point from 4026
+03.07 06:32:34 Going to coordinates X=-26.370, Y=-38.229
+03.07 06:32:35 Moving is finished
+03.07 06:34:12 Scanning 409 point from 4026
+03.07 06:34:12 Going to coordinates X=-26.360, Y=-38.229
+03.07 06:34:12 Moving is finished
+03.07 06:35:49 Scanning 410 point from 4026
+03.07 06:35:49 Going to coordinates X=-26.350, Y=-38.229
+03.07 06:35:49 Moving is finished
+03.07 06:37:26 Scanning 411 point from 4026
+03.07 06:37:26 Going to coordinates X=-26.340, Y=-38.229
+03.07 06:37:26 Moving is finished
+03.07 06:39:03 Scanning 412 point from 4026
+03.07 06:39:03 Going to coordinates X=-26.330, Y=-38.229
+03.07 06:39:03 Moving is finished
+03.07 06:40:40 Scanning 413 point from 4026
+03.07 06:40:40 Going to coordinates X=-26.320, Y=-38.229
+03.07 06:40:40 Moving is finished
+03.07 06:42:17 Scanning 414 point from 4026
+03.07 06:42:17 Going to coordinates X=-26.310, Y=-38.229
+03.07 06:42:17 Moving is finished
+03.07 06:43:54 Scanning 415 point from 4026
+03.07 06:43:54 Going to coordinates X=-26.300, Y=-38.229
+03.07 06:43:54 Moving is finished
+03.07 06:45:30 Scanning 416 point from 4026
+03.07 06:45:30 Going to coordinates X=-26.290, Y=-38.229
+03.07 06:45:31 Moving is finished
+03.07 06:47:07 Scanning 417 point from 4026
+03.07 06:47:07 Going to coordinates X=-26.280, Y=-38.229
+03.07 06:47:07 Moving is finished
+03.07 06:48:45 Scanning 418 point from 4026
+03.07 06:48:45 Going to coordinates X=-26.270, Y=-38.229
+03.07 06:48:45 Moving is finished
+03.07 06:50:22 Scanning 419 point from 4026
+03.07 06:50:22 Going to coordinates X=-26.260, Y=-38.229
+03.07 06:50:22 Moving is finished
+03.07 06:52:00 Scanning 420 point from 4026
+03.07 06:52:00 Going to coordinates X=-26.250, Y=-38.229
+03.07 06:52:00 Moving is finished
+03.07 06:53:37 Scanning 421 point from 4026
+03.07 06:53:37 Going to coordinates X=-26.240, Y=-38.229
+03.07 06:53:37 Moving is finished
+03.07 06:55:14 Scanning 422 point from 4026
+03.07 06:55:14 Going to coordinates X=-26.230, Y=-38.229
+03.07 06:55:14 Moving is finished
+03.07 06:56:51 Scanning 423 point from 4026
+03.07 06:56:51 Going to coordinates X=-26.220, Y=-38.229
+03.07 06:56:51 Moving is finished
+03.07 06:58:28 Scanning 424 point from 4026
+03.07 06:58:28 Going to coordinates X=-26.210, Y=-38.229
+03.07 06:58:28 Moving is finished
+03.07 07:00:05 Scanning 425 point from 4026
+03.07 07:00:05 Going to coordinates X=-26.200, Y=-38.229
+03.07 07:00:05 Moving is finished
+03.07 07:01:42 Scanning 426 point from 4026
+03.07 07:01:42 Going to coordinates X=-26.190, Y=-38.229
+03.07 07:01:42 Moving is finished
+03.07 07:03:19 Scanning 427 point from 4026
+03.07 07:03:19 Going to coordinates X=-26.790, Y=-38.219
+03.07 07:03:19 Moving is finished
+03.07 07:04:56 Scanning 428 point from 4026
+03.07 07:04:56 Going to coordinates X=-26.780, Y=-38.219
+03.07 07:04:56 Moving is finished
+03.07 07:06:33 Scanning 429 point from 4026
+03.07 07:06:33 Going to coordinates X=-26.770, Y=-38.219
+03.07 07:06:34 Moving is finished
+03.07 07:08:11 Scanning 430 point from 4026
+03.07 07:08:11 Going to coordinates X=-26.760, Y=-38.219
+03.07 07:08:11 Moving is finished
+03.07 07:09:48 Scanning 431 point from 4026
+03.07 07:09:48 Going to coordinates X=-26.750, Y=-38.219
+03.07 07:09:48 Moving is finished
+03.07 07:11:24 Scanning 432 point from 4026
+03.07 07:11:24 Going to coordinates X=-26.740, Y=-38.219
+03.07 07:11:25 Moving is finished
+03.07 07:13:02 Scanning 433 point from 4026
+03.07 07:13:02 Going to coordinates X=-26.730, Y=-38.219
+03.07 07:13:02 Moving is finished
+03.07 07:14:39 Scanning 434 point from 4026
+03.07 07:14:39 Going to coordinates X=-26.720, Y=-38.219
+03.07 07:14:39 Moving is finished
+03.07 07:16:16 Scanning 435 point from 4026
+03.07 07:16:16 Going to coordinates X=-26.710, Y=-38.219
+03.07 07:16:16 Moving is finished
+03.07 07:17:53 Scanning 436 point from 4026
+03.07 07:17:53 Going to coordinates X=-26.700, Y=-38.219
+03.07 07:17:53 Moving is finished
+03.07 07:19:30 Scanning 437 point from 4026
+03.07 07:19:30 Going to coordinates X=-26.690, Y=-38.219
+03.07 07:19:30 Moving is finished
+03.07 07:21:07 Scanning 438 point from 4026
+03.07 07:21:07 Going to coordinates X=-26.680, Y=-38.219
+03.07 07:21:07 Moving is finished
+03.07 07:22:45 Scanning 439 point from 4026
+03.07 07:22:45 Going to coordinates X=-26.670, Y=-38.219
+03.07 07:22:45 Moving is finished
+03.07 07:24:22 Scanning 440 point from 4026
+03.07 07:24:22 Going to coordinates X=-26.660, Y=-38.219
+03.07 07:24:22 Moving is finished
+03.07 07:25:58 Scanning 441 point from 4026
+03.07 07:25:58 Going to coordinates X=-26.650, Y=-38.219
+03.07 07:25:58 Moving is finished
+03.07 07:27:36 Scanning 442 point from 4026
+03.07 07:27:36 Going to coordinates X=-26.640, Y=-38.219
+03.07 07:27:36 Moving is finished
+03.07 07:29:12 Scanning 443 point from 4026
+03.07 07:29:12 Going to coordinates X=-26.630, Y=-38.219
+03.07 07:29:12 Moving is finished
+03.07 07:30:49 Scanning 444 point from 4026
+03.07 07:30:49 Going to coordinates X=-26.620, Y=-38.219
+03.07 07:30:50 Moving is finished
+03.07 07:32:27 Scanning 445 point from 4026
+03.07 07:32:27 Going to coordinates X=-26.610, Y=-38.219
+03.07 07:32:27 Moving is finished
+03.07 07:34:04 Scanning 446 point from 4026
+03.07 07:34:04 Going to coordinates X=-26.600, Y=-38.219
+03.07 07:34:04 Moving is finished
+03.07 07:35:42 Scanning 447 point from 4026
+03.07 07:35:42 Going to coordinates X=-26.590, Y=-38.219
+03.07 07:35:42 Moving is finished
+03.07 07:37:19 Scanning 448 point from 4026
+03.07 07:37:19 Going to coordinates X=-26.580, Y=-38.219
+03.07 07:37:19 Moving is finished
+03.07 07:38:56 Scanning 449 point from 4026
+03.07 07:38:56 Going to coordinates X=-26.570, Y=-38.219
+03.07 07:38:56 Moving is finished
+03.07 07:40:33 Scanning 450 point from 4026
+03.07 07:40:33 Going to coordinates X=-26.560, Y=-38.219
+03.07 07:40:33 Moving is finished
+03.07 07:42:10 Scanning 451 point from 4026
+03.07 07:42:10 Going to coordinates X=-26.550, Y=-38.219
+03.07 07:42:10 Moving is finished
+03.07 07:43:47 Scanning 452 point from 4026
+03.07 07:43:47 Going to coordinates X=-26.540, Y=-38.219
+03.07 07:43:47 Moving is finished
+03.07 07:45:24 Scanning 453 point from 4026
+03.07 07:45:24 Going to coordinates X=-26.530, Y=-38.219
+03.07 07:45:24 Moving is finished
+03.07 07:47:01 Scanning 454 point from 4026
+03.07 07:47:01 Going to coordinates X=-26.520, Y=-38.219
+03.07 07:47:01 Moving is finished
+03.07 07:48:37 Scanning 455 point from 4026
+03.07 07:48:37 Going to coordinates X=-26.510, Y=-38.219
+03.07 07:48:38 Moving is finished
+03.07 07:50:15 Scanning 456 point from 4026
+03.07 07:50:15 Going to coordinates X=-26.500, Y=-38.219
+03.07 07:50:15 Moving is finished
+03.07 07:51:52 Scanning 457 point from 4026
+03.07 07:51:52 Going to coordinates X=-26.490, Y=-38.219
+03.07 07:51:52 Moving is finished
+03.07 07:53:29 Scanning 458 point from 4026
+03.07 07:53:29 Going to coordinates X=-26.480, Y=-38.219
+03.07 07:53:29 Moving is finished
+03.07 07:55:06 Scanning 459 point from 4026
+03.07 07:55:06 Going to coordinates X=-26.470, Y=-38.219
+03.07 07:55:07 Moving is finished
+03.07 07:56:43 Scanning 460 point from 4026
+03.07 07:56:43 Going to coordinates X=-26.460, Y=-38.219
+03.07 07:56:43 Moving is finished
+03.07 07:58:20 Scanning 461 point from 4026
+03.07 07:58:20 Going to coordinates X=-26.450, Y=-38.219
+03.07 07:58:20 Moving is finished
+03.07 07:59:57 Scanning 462 point from 4026
+03.07 07:59:57 Going to coordinates X=-26.440, Y=-38.219
+03.07 07:59:57 Moving is finished
+03.07 08:01:34 Scanning 463 point from 4026
+03.07 08:01:34 Going to coordinates X=-26.430, Y=-38.219
+03.07 08:01:34 Moving is finished
+03.07 08:03:11 Scanning 464 point from 4026
+03.07 08:03:11 Going to coordinates X=-26.420, Y=-38.219
+03.07 08:03:11 Moving is finished
+03.07 08:04:49 Scanning 465 point from 4026
+03.07 08:04:49 Going to coordinates X=-26.410, Y=-38.219
+03.07 08:04:49 Moving is finished
+03.07 08:06:26 Scanning 466 point from 4026
+03.07 08:06:26 Going to coordinates X=-26.400, Y=-38.219
+03.07 08:06:26 Moving is finished
+03.07 08:08:03 Scanning 467 point from 4026
+03.07 08:08:03 Going to coordinates X=-26.390, Y=-38.219
+03.07 08:08:04 Moving is finished
+03.07 08:09:41 Scanning 468 point from 4026
+03.07 08:09:41 Going to coordinates X=-26.380, Y=-38.219
+03.07 08:09:41 Moving is finished
+03.07 08:11:17 Scanning 469 point from 4026
+03.07 08:11:17 Going to coordinates X=-26.370, Y=-38.219
+03.07 08:11:17 Moving is finished
+03.07 08:12:55 Scanning 470 point from 4026
+03.07 08:12:55 Going to coordinates X=-26.360, Y=-38.219
+03.07 08:12:55 Moving is finished
+03.07 08:14:31 Scanning 471 point from 4026
+03.07 08:14:31 Going to coordinates X=-26.350, Y=-38.219
+03.07 08:14:31 Moving is finished
+03.07 08:16:09 Scanning 472 point from 4026
+03.07 08:16:09 Going to coordinates X=-26.340, Y=-38.219
+03.07 08:16:09 Moving is finished
+03.07 08:17:46 Scanning 473 point from 4026
+03.07 08:17:46 Going to coordinates X=-26.330, Y=-38.219
+03.07 08:17:46 Moving is finished
+03.07 08:19:23 Scanning 474 point from 4026
+03.07 08:19:23 Going to coordinates X=-26.320, Y=-38.219
+03.07 08:19:23 Moving is finished
+03.07 08:21:00 Scanning 475 point from 4026
+03.07 08:21:00 Going to coordinates X=-26.310, Y=-38.219
+03.07 08:21:00 Moving is finished
+03.07 08:22:37 Scanning 476 point from 4026
+03.07 08:22:37 Going to coordinates X=-26.300, Y=-38.219
+03.07 08:22:37 Moving is finished
+03.07 08:24:14 Scanning 477 point from 4026
+03.07 08:24:14 Going to coordinates X=-26.290, Y=-38.219
+03.07 08:24:14 Moving is finished
+03.07 08:25:51 Scanning 478 point from 4026
+03.07 08:25:51 Going to coordinates X=-26.280, Y=-38.219
+03.07 08:25:51 Moving is finished
+03.07 08:27:28 Scanning 479 point from 4026
+03.07 08:27:28 Going to coordinates X=-26.270, Y=-38.219
+03.07 08:27:28 Moving is finished
+03.07 08:29:06 Scanning 480 point from 4026
+03.07 08:29:06 Going to coordinates X=-26.260, Y=-38.219
+03.07 08:29:06 Moving is finished
+03.07 08:30:43 Scanning 481 point from 4026
+03.07 08:30:43 Going to coordinates X=-26.250, Y=-38.219
+03.07 08:30:43 Moving is finished
+03.07 08:32:20 Scanning 482 point from 4026
+03.07 08:32:20 Going to coordinates X=-26.240, Y=-38.219
+03.07 08:32:20 Moving is finished
+03.07 08:33:57 Scanning 483 point from 4026
+03.07 08:33:57 Going to coordinates X=-26.230, Y=-38.219
+03.07 08:33:57 Moving is finished
+03.07 08:35:34 Scanning 484 point from 4026
+03.07 08:35:34 Going to coordinates X=-26.220, Y=-38.219
+03.07 08:35:34 Moving is finished
+03.07 08:37:12 Scanning 485 point from 4026
+03.07 08:37:12 Going to coordinates X=-26.210, Y=-38.219
+03.07 08:37:12 Moving is finished
+03.07 08:38:48 Scanning 486 point from 4026
+03.07 08:38:48 Going to coordinates X=-26.200, Y=-38.219
+03.07 08:38:48 Moving is finished
+03.07 08:40:26 Scanning 487 point from 4026
+03.07 08:40:26 Going to coordinates X=-26.190, Y=-38.219
+03.07 08:40:26 Moving is finished
+03.07 08:42:03 Scanning 488 point from 4026
+03.07 08:42:03 Going to coordinates X=-26.790, Y=-38.209
+03.07 08:42:04 Moving is finished
+03.07 08:43:40 Scanning 489 point from 4026
+03.07 08:43:40 Going to coordinates X=-26.780, Y=-38.209
+03.07 08:43:41 Moving is finished
+03.07 08:45:17 Scanning 490 point from 4026
+03.07 08:45:17 Going to coordinates X=-26.770, Y=-38.209
+03.07 08:45:17 Moving is finished
+03.07 08:46:54 Scanning 491 point from 4026
+03.07 08:46:54 Going to coordinates X=-26.760, Y=-38.209
+03.07 08:46:54 Moving is finished
+03.07 08:48:31 Scanning 492 point from 4026
+03.07 08:48:31 Going to coordinates X=-26.750, Y=-38.209
+03.07 08:48:31 Moving is finished
+03.07 08:50:08 Scanning 493 point from 4026
+03.07 08:50:08 Going to coordinates X=-26.740, Y=-38.209
+03.07 08:50:08 Moving is finished
+03.07 08:51:45 Scanning 494 point from 4026
+03.07 08:51:45 Going to coordinates X=-26.730, Y=-38.209
+03.07 08:51:45 Moving is finished
+03.07 08:53:22 Scanning 495 point from 4026
+03.07 08:53:22 Going to coordinates X=-26.720, Y=-38.209
+03.07 08:53:23 Moving is finished
+03.07 08:55:00 Scanning 496 point from 4026
+03.07 08:55:00 Going to coordinates X=-26.710, Y=-38.209
+03.07 08:55:00 Moving is finished
+03.07 08:56:36 Scanning 497 point from 4026
+03.07 08:56:36 Going to coordinates X=-26.700, Y=-38.209
+03.07 08:56:36 Moving is finished
+03.07 08:58:14 Scanning 498 point from 4026
+03.07 08:58:14 Going to coordinates X=-26.690, Y=-38.209
+03.07 08:58:14 Moving is finished
+03.07 08:59:51 Scanning 499 point from 4026
+03.07 08:59:51 Going to coordinates X=-26.680, Y=-38.209
+03.07 08:59:51 Moving is finished
+03.07 09:01:28 Scanning 500 point from 4026
+03.07 09:01:28 Going to coordinates X=-26.670, Y=-38.209
+03.07 09:01:28 Moving is finished
+03.07 09:03:05 Scanning 501 point from 4026
+03.07 09:03:05 Going to coordinates X=-26.660, Y=-38.209
+03.07 09:03:05 Moving is finished
+03.07 09:04:42 Scanning 502 point from 4026
+03.07 09:04:42 Going to coordinates X=-26.650, Y=-38.209
+03.07 09:04:42 Moving is finished
+03.07 09:06:20 Scanning 503 point from 4026
+03.07 09:06:20 Going to coordinates X=-26.640, Y=-38.209
+03.07 09:06:20 Moving is finished
+03.07 09:07:57 Scanning 504 point from 4026
+03.07 09:07:57 Going to coordinates X=-26.630, Y=-38.209
+03.07 09:07:57 Moving is finished
+03.07 09:09:34 Scanning 505 point from 4026
+03.07 09:09:34 Going to coordinates X=-26.620, Y=-38.209
+03.07 09:09:34 Moving is finished
+03.07 09:11:11 Scanning 506 point from 4026
+03.07 09:11:11 Going to coordinates X=-26.610, Y=-38.209
+03.07 09:11:11 Moving is finished
+03.07 09:12:48 Scanning 507 point from 4026
+03.07 09:12:48 Going to coordinates X=-26.600, Y=-38.209
+03.07 09:12:48 Moving is finished
+03.07 09:14:25 Scanning 508 point from 4026
+03.07 09:14:25 Going to coordinates X=-26.590, Y=-38.209
+03.07 09:14:25 Moving is finished
+03.07 09:16:02 Scanning 509 point from 4026
+03.07 09:16:02 Going to coordinates X=-26.580, Y=-38.209
+03.07 09:16:02 Moving is finished
+03.07 09:17:39 Scanning 510 point from 4026
+03.07 09:17:39 Going to coordinates X=-26.570, Y=-38.209
+03.07 09:17:39 Moving is finished
+03.07 09:19:16 Scanning 511 point from 4026
+03.07 09:19:16 Going to coordinates X=-26.560, Y=-38.209
+03.07 09:19:16 Moving is finished
+03.07 09:20:53 Scanning 512 point from 4026
+03.07 09:20:53 Going to coordinates X=-26.550, Y=-38.209
+03.07 09:20:53 Moving is finished
+03.07 09:22:30 Scanning 513 point from 4026
+03.07 09:22:30 Going to coordinates X=-26.540, Y=-38.209
+03.07 09:22:30 Moving is finished
+03.07 09:24:06 Scanning 514 point from 4026
+03.07 09:24:06 Going to coordinates X=-26.530, Y=-38.209
+03.07 09:24:06 Moving is finished
+03.07 09:25:43 Scanning 515 point from 4026
+03.07 09:25:43 Going to coordinates X=-26.520, Y=-38.209
+03.07 09:25:43 Moving is finished
+03.07 09:27:20 Scanning 516 point from 4026
+03.07 09:27:20 Going to coordinates X=-26.510, Y=-38.209
+03.07 09:27:20 Moving is finished
+03.07 09:28:56 Scanning 517 point from 4026
+03.07 09:28:56 Going to coordinates X=-26.500, Y=-38.209
+03.07 09:28:57 Moving is finished
+03.07 09:30:34 Scanning 518 point from 4026
+03.07 09:30:34 Going to coordinates X=-26.490, Y=-38.209
+03.07 09:30:34 Moving is finished
+03.07 09:32:11 Scanning 519 point from 4026
+03.07 09:32:11 Going to coordinates X=-26.480, Y=-38.209
+03.07 09:32:11 Moving is finished
+03.07 09:33:48 Scanning 520 point from 4026
+03.07 09:33:48 Going to coordinates X=-26.470, Y=-38.209
+03.07 09:33:48 Moving is finished
+03.07 09:35:25 Scanning 521 point from 4026
+03.07 09:35:25 Going to coordinates X=-26.460, Y=-38.209
+03.07 09:35:25 Moving is finished
+03.07 09:37:02 Scanning 522 point from 4026
+03.07 09:37:02 Going to coordinates X=-26.450, Y=-38.209
+03.07 09:37:02 Moving is finished
+03.07 09:38:39 Scanning 523 point from 4026
+03.07 09:38:39 Going to coordinates X=-26.440, Y=-38.209
+03.07 09:38:39 Moving is finished
+03.07 09:40:16 Scanning 524 point from 4026
+03.07 09:40:16 Going to coordinates X=-26.430, Y=-38.209
+03.07 09:40:17 Moving is finished
+03.07 09:41:54 Scanning 525 point from 4026
+03.07 09:41:54 Going to coordinates X=-26.420, Y=-38.209
+03.07 09:41:54 Moving is finished
+03.07 09:43:31 Scanning 526 point from 4026
+03.07 09:43:31 Going to coordinates X=-26.410, Y=-38.209
+03.07 09:43:31 Moving is finished
+03.07 09:45:08 Scanning 527 point from 4026
+03.07 09:45:08 Going to coordinates X=-26.400, Y=-38.209
+03.07 09:45:08 Moving is finished
+03.07 09:46:45 Scanning 528 point from 4026
+03.07 09:46:45 Going to coordinates X=-26.390, Y=-38.209
+03.07 09:46:45 Moving is finished
+03.07 09:48:21 Scanning 529 point from 4026
+03.07 09:48:21 Going to coordinates X=-26.380, Y=-38.209
+03.07 09:48:22 Moving is finished
+03.07 09:49:58 Scanning 530 point from 4026
+03.07 09:49:58 Going to coordinates X=-26.370, Y=-38.209
+03.07 09:49:58 Moving is finished
+03.07 09:51:35 Scanning 531 point from 4026
+03.07 09:51:35 Going to coordinates X=-26.360, Y=-38.209
+03.07 09:51:35 Moving is finished
+03.07 09:53:12 Scanning 532 point from 4026
+03.07 09:53:12 Going to coordinates X=-26.350, Y=-38.209
+03.07 09:53:12 Moving is finished
+03.07 09:54:49 Scanning 533 point from 4026
+03.07 09:54:49 Going to coordinates X=-26.340, Y=-38.209
+03.07 09:54:49 Moving is finished
+03.07 09:56:26 Scanning 534 point from 4026
+03.07 09:56:26 Going to coordinates X=-26.330, Y=-38.209
+03.07 09:56:26 Moving is finished
+03.07 09:58:03 Scanning 535 point from 4026
+03.07 09:58:03 Going to coordinates X=-26.320, Y=-38.209
+03.07 09:58:03 Moving is finished
+03.07 09:59:40 Scanning 536 point from 4026
+03.07 09:59:40 Going to coordinates X=-26.310, Y=-38.209
+03.07 09:59:40 Moving is finished
+03.07 10:00:21 Stopped!

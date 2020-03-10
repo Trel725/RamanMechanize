@@ -1,0 +1,42 @@
+09.07 13:59:32 Initializing grbl...
+09.07 13:59:33 Got the response: b''
+09.07 14:00:55 Can't send the command to GRBL
+09.07 14:00:55 Write timeout09.07 14:00:55 Write timeout
+
+09.07 14:02:24 Write timeout09.07 14:02:24 Can't send the command to GRBL
+
+09.07 14:02:44 Row 0: 09.07 14:02:44 Map: x1: -16.433, y1: -37.969, x2: -16.245, y2: -38.215, xres: 0.100, yres: 0.100, fname: coohBLMsera
+09.07 14:02:44 Scanning 0 point from 12
+09.07 14:02:44 Going to coordinates X=-16.433, Y=-38.215
+09.07 14:02:44 Moving is finished
+09.07 14:04:22 Scanning 1 point from 12
+09.07 14:04:22 Going to coordinates X=-16.333, Y=-38.215
+09.07 14:04:22 Moving is finished
+09.07 14:05:59 Scanning 2 point from 12
+09.07 14:05:59 Going to coordinates X=-16.233, Y=-38.215
+09.07 14:05:59 Moving is finished
+09.07 14:07:36 Scanning 3 point from 12
+09.07 14:07:36 Going to coordinates X=-16.433, Y=-38.115
+09.07 14:07:36 Moving is finished
+09.07 14:09:13 Scanning 4 point from 12
+09.07 14:09:13 Going to coordinates X=-16.333, Y=-38.115
+09.07 14:09:14 Moving is finished
+09.07 14:10:50 Scanning 5 point from 12
+09.07 14:10:50 Going to coordinates X=-16.233, Y=-38.115
+09.07 14:10:51 Moving is finished
+09.07 14:12:27 Scanning 6 point from 12
+09.07 14:12:27 Going to coordinates X=-16.433, Y=-38.015
+09.07 14:12:27 Moving is finished
+09.07 14:14:04 Scanning 7 point from 12
+09.07 14:14:04 Going to coordinates X=-16.333, Y=-38.015
+09.07 14:14:04 Moving is finished
+09.07 14:15:41 Scanning 8 point from 12
+09.07 14:15:41 Going to coordinates X=-16.233, Y=-38.015
+09.07 14:15:42 Moving is finished
+09.07 14:17:19 Scanning 9 point from 12
+09.07 14:17:19 Going to coordinates X=-16.433, Y=-37.915
+09.07 14:17:19 Moving is finished
+09.07 14:18:45 Stopped!
+09.07 14:20:26 Can't send the command to GRBL
+09.07 14:20:26 Write timeout09.07 14:20:26 Write timeout
+

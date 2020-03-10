@@ -1,0 +1,1141 @@
+13.11 18:47:40 Initializing grbl...
+13.11 18:47:40 Got the response: b''
+13.11 19:05:27 Row 0: 13.11 19:05:27 Map: x1: -12.192, y1: -36.308, x2: -14.389, y2: -34.749, xres: 0.100, yres: 0.100, fname: Mart Sol 2-C
+13.11 19:05:27 Scanning 0 point from 391
+13.11 19:05:27 Going to coordinates X=-14.389, Y=-36.308
+13.11 19:05:27 Status responce is malformed
+13.11 19:05:27 list index out of range
+13.11 19:05:28 Moving is finished
+13.11 19:05:34 Scanning 1 point from 391
+13.11 19:05:34 Going to coordinates X=-14.289, Y=-36.308
+13.11 19:05:34 Moving is finished
+13.11 19:05:40 Scanning 2 point from 391
+13.11 19:05:40 Paused
+13.11 19:05:52 Going to coordinates X=-14.189, Y=-36.308
+13.11 19:05:52 Moving is finished
+13.11 19:08:00 Scanning 3 point from 391
+13.11 19:08:00 Going to coordinates X=-14.089, Y=-36.308
+13.11 19:08:01 Moving is finished
+13.11 19:10:09 Scanning 4 point from 391
+13.11 19:10:09 Going to coordinates X=-13.989, Y=-36.308
+13.11 19:10:10 Moving is finished
+13.11 19:12:18 Scanning 5 point from 391
+13.11 19:12:18 Going to coordinates X=-13.889, Y=-36.308
+13.11 19:12:18 Moving is finished
+13.11 19:14:27 Scanning 6 point from 391
+13.11 19:14:27 Going to coordinates X=-13.789, Y=-36.308
+13.11 19:14:27 Moving is finished
+13.11 19:16:38 timed out
+13.11 19:16:39 Scanning 7 point from 391
+13.11 19:16:39 Going to coordinates X=-13.689, Y=-36.308
+13.11 19:16:39 Moving is finished
+13.11 19:18:50 timed out
+13.11 19:18:51 Scanning 8 point from 391
+13.11 19:18:51 Going to coordinates X=-13.589, Y=-36.308
+13.11 19:18:51 Moving is finished
+13.11 19:19:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:10 Scanning 9 point from 391
+13.11 19:19:10 Going to coordinates X=-13.489, Y=-36.308
+13.11 19:19:10 Moving is finished
+13.11 19:19:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:23 Scanning 10 point from 391
+13.11 19:19:23 Going to coordinates X=-13.389, Y=-36.308
+13.11 19:19:23 Moving is finished
+13.11 19:19:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:40 Scanning 11 point from 391
+13.11 19:19:40 Going to coordinates X=-13.289, Y=-36.308
+13.11 19:19:41 Moving is finished
+13.11 19:19:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:19:54 Scanning 12 point from 391
+13.11 19:19:54 Going to coordinates X=-13.189, Y=-36.308
+13.11 19:19:54 Moving is finished
+13.11 19:20:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:07 Scanning 13 point from 391
+13.11 19:20:07 Going to coordinates X=-13.089, Y=-36.308
+13.11 19:20:07 Moving is finished
+13.11 19:20:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:19 Scanning 14 point from 391
+13.11 19:20:19 Going to coordinates X=-12.989, Y=-36.308
+13.11 19:20:20 Moving is finished
+13.11 19:20:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:33 Scanning 15 point from 391
+13.11 19:20:33 Going to coordinates X=-12.889, Y=-36.308
+13.11 19:20:33 Moving is finished
+13.11 19:20:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:45 Scanning 16 point from 391
+13.11 19:20:45 Going to coordinates X=-12.789, Y=-36.308
+13.11 19:20:46 Moving is finished
+13.11 19:20:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:20:58 Scanning 17 point from 391
+13.11 19:20:58 Going to coordinates X=-12.689, Y=-36.308
+13.11 19:20:58 Moving is finished
+13.11 19:21:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:10 Scanning 18 point from 391
+13.11 19:21:10 Going to coordinates X=-12.589, Y=-36.308
+13.11 19:21:10 Moving is finished
+13.11 19:21:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:22 Scanning 19 point from 391
+13.11 19:21:22 Going to coordinates X=-12.489, Y=-36.308
+13.11 19:21:22 Moving is finished
+13.11 19:21:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:34 Scanning 20 point from 391
+13.11 19:21:34 Going to coordinates X=-12.389, Y=-36.308
+13.11 19:21:34 Moving is finished
+13.11 19:21:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:46 Scanning 21 point from 391
+13.11 19:21:46 Going to coordinates X=-12.289, Y=-36.308
+13.11 19:21:47 Moving is finished
+13.11 19:21:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:21:58 Scanning 22 point from 391
+13.11 19:21:58 Going to coordinates X=-12.189, Y=-36.308
+13.11 19:21:59 Moving is finished
+13.11 19:22:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:11 Scanning 23 point from 391
+13.11 19:22:11 Going to coordinates X=-14.389, Y=-36.208
+13.11 19:22:12 Moving is finished
+13.11 19:22:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:23 Scanning 24 point from 391
+13.11 19:22:23 Going to coordinates X=-14.289, Y=-36.208
+13.11 19:22:24 Moving is finished
+13.11 19:22:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:36 Scanning 25 point from 391
+13.11 19:22:36 Going to coordinates X=-14.189, Y=-36.208
+13.11 19:22:36 Moving is finished
+13.11 19:22:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:48 Scanning 26 point from 391
+13.11 19:22:48 Going to coordinates X=-14.089, Y=-36.208
+13.11 19:22:48 Moving is finished
+13.11 19:22:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:22:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:00 Scanning 27 point from 391
+13.11 19:23:00 Going to coordinates X=-13.989, Y=-36.208
+13.11 19:23:00 Moving is finished
+13.11 19:23:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:12 Scanning 28 point from 391
+13.11 19:23:12 Going to coordinates X=-13.889, Y=-36.208
+13.11 19:23:12 Moving is finished
+13.11 19:23:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:24 Scanning 29 point from 391
+13.11 19:23:24 Going to coordinates X=-13.789, Y=-36.208
+13.11 19:23:25 Moving is finished
+13.11 19:23:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:36 Scanning 30 point from 391
+13.11 19:23:36 Going to coordinates X=-13.689, Y=-36.208
+13.11 19:23:37 Moving is finished
+13.11 19:23:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:23:49 Scanning 31 point from 391
+13.11 19:23:49 Going to coordinates X=-13.589, Y=-36.208
+13.11 19:23:49 Moving is finished
+13.11 19:23:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:01 Scanning 32 point from 391
+13.11 19:24:01 Going to coordinates X=-13.489, Y=-36.208
+13.11 19:24:01 Moving is finished
+13.11 19:24:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:13 Scanning 33 point from 391
+13.11 19:24:13 Going to coordinates X=-13.389, Y=-36.208
+13.11 19:24:13 Moving is finished
+13.11 19:24:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:25 Scanning 34 point from 391
+13.11 19:24:25 Going to coordinates X=-13.289, Y=-36.208
+13.11 19:24:25 Moving is finished
+13.11 19:24:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:37 Scanning 35 point from 391
+13.11 19:24:37 Going to coordinates X=-13.189, Y=-36.208
+13.11 19:24:37 Moving is finished
+13.11 19:24:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:24:49 Scanning 36 point from 391
+13.11 19:24:49 Going to coordinates X=-13.089, Y=-36.208
+13.11 19:24:49 Moving is finished
+13.11 19:24:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:01 Scanning 37 point from 391
+13.11 19:25:01 Going to coordinates X=-12.989, Y=-36.208
+13.11 19:25:02 Moving is finished
+13.11 19:25:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:13 Scanning 38 point from 391
+13.11 19:25:13 Going to coordinates X=-12.889, Y=-36.208
+13.11 19:25:14 Moving is finished
+13.11 19:25:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:26 Scanning 39 point from 391
+13.11 19:25:26 Going to coordinates X=-12.789, Y=-36.208
+13.11 19:25:26 Moving is finished
+13.11 19:25:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:38 Scanning 40 point from 391
+13.11 19:25:38 Going to coordinates X=-12.689, Y=-36.208
+13.11 19:25:38 Moving is finished
+13.11 19:25:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:25:50 Scanning 41 point from 391
+13.11 19:25:50 Going to coordinates X=-12.589, Y=-36.208
+13.11 19:25:50 Moving is finished
+13.11 19:25:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:02 Scanning 42 point from 391
+13.11 19:26:02 Going to coordinates X=-12.489, Y=-36.208
+13.11 19:26:02 Moving is finished
+13.11 19:26:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:14 Scanning 43 point from 391
+13.11 19:26:14 Going to coordinates X=-12.389, Y=-36.208
+13.11 19:26:14 Moving is finished
+13.11 19:26:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:26 Scanning 44 point from 391
+13.11 19:26:26 Going to coordinates X=-12.289, Y=-36.208
+13.11 19:26:26 Moving is finished
+13.11 19:26:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:38 Scanning 45 point from 391
+13.11 19:26:38 Going to coordinates X=-12.189, Y=-36.208
+13.11 19:26:39 Moving is finished
+13.11 19:26:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:26:51 Scanning 46 point from 391
+13.11 19:26:51 Going to coordinates X=-14.389, Y=-36.108
+13.11 19:26:52 Moving is finished
+13.11 19:26:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:03 Scanning 47 point from 391
+13.11 19:27:03 Going to coordinates X=-14.289, Y=-36.108
+13.11 19:27:04 Moving is finished
+13.11 19:27:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:16 Scanning 48 point from 391
+13.11 19:27:16 Going to coordinates X=-14.189, Y=-36.108
+13.11 19:27:16 Moving is finished
+13.11 19:27:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:28 Scanning 49 point from 391
+13.11 19:27:28 Going to coordinates X=-14.089, Y=-36.108
+13.11 19:27:28 Moving is finished
+13.11 19:27:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:40 Scanning 50 point from 391
+13.11 19:27:40 Going to coordinates X=-13.989, Y=-36.108
+13.11 19:27:40 Moving is finished
+13.11 19:27:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:27:52 Scanning 51 point from 391
+13.11 19:27:52 Going to coordinates X=-13.889, Y=-36.108
+13.11 19:27:52 Moving is finished
+13.11 19:27:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:04 Scanning 52 point from 391
+13.11 19:28:04 Going to coordinates X=-13.789, Y=-36.108
+13.11 19:28:04 Moving is finished
+13.11 19:28:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:16 Scanning 53 point from 391
+13.11 19:28:16 Going to coordinates X=-13.689, Y=-36.108
+13.11 19:28:16 Moving is finished
+13.11 19:28:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:28 Scanning 54 point from 391
+13.11 19:28:28 Going to coordinates X=-13.589, Y=-36.108
+13.11 19:28:28 Moving is finished
+13.11 19:28:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:40 Scanning 55 point from 391
+13.11 19:28:40 Going to coordinates X=-13.489, Y=-36.108
+13.11 19:28:41 Moving is finished
+13.11 19:28:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:28:52 Scanning 56 point from 391
+13.11 19:28:52 Going to coordinates X=-13.389, Y=-36.108
+13.11 19:28:53 Moving is finished
+13.11 19:28:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:05 Scanning 57 point from 391
+13.11 19:29:05 Going to coordinates X=-13.289, Y=-36.108
+13.11 19:29:05 Moving is finished
+13.11 19:29:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:17 Scanning 58 point from 391
+13.11 19:29:17 Going to coordinates X=-13.189, Y=-36.108
+13.11 19:29:17 Moving is finished
+13.11 19:29:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:29 Scanning 59 point from 391
+13.11 19:29:29 Going to coordinates X=-13.089, Y=-36.108
+13.11 19:29:29 Moving is finished
+13.11 19:29:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:41 Scanning 60 point from 391
+13.11 19:29:41 Going to coordinates X=-12.989, Y=-36.108
+13.11 19:29:41 Moving is finished
+13.11 19:29:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:29:53 Scanning 61 point from 391
+13.11 19:29:53 Going to coordinates X=-12.889, Y=-36.108
+13.11 19:29:54 Moving is finished
+13.11 19:30:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:06 Scanning 62 point from 391
+13.11 19:30:06 Going to coordinates X=-12.789, Y=-36.108
+13.11 19:30:06 Moving is finished
+13.11 19:30:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:18 Scanning 63 point from 391
+13.11 19:30:18 Going to coordinates X=-12.689, Y=-36.108
+13.11 19:30:18 Moving is finished
+13.11 19:30:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:30 Scanning 64 point from 391
+13.11 19:30:30 Going to coordinates X=-12.589, Y=-36.108
+13.11 19:30:30 Moving is finished
+13.11 19:30:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:42 Scanning 65 point from 391
+13.11 19:30:42 Going to coordinates X=-12.489, Y=-36.108
+13.11 19:30:42 Moving is finished
+13.11 19:30:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:30:54 Scanning 66 point from 391
+13.11 19:30:54 Going to coordinates X=-12.389, Y=-36.108
+13.11 19:30:54 Moving is finished
+13.11 19:31:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:06 Scanning 67 point from 391
+13.11 19:31:06 Going to coordinates X=-12.289, Y=-36.108
+13.11 19:31:07 Moving is finished
+13.11 19:31:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:19 Scanning 68 point from 391
+13.11 19:31:19 Going to coordinates X=-12.189, Y=-36.108
+13.11 19:31:19 Moving is finished
+13.11 19:31:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:31 Scanning 69 point from 391
+13.11 19:31:31 Going to coordinates X=-14.389, Y=-36.008
+13.11 19:31:32 Moving is finished
+13.11 19:31:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:44 Scanning 70 point from 391
+13.11 19:31:44 Going to coordinates X=-14.289, Y=-36.008
+13.11 19:31:44 Moving is finished
+13.11 19:31:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:31:56 Scanning 71 point from 391
+13.11 19:31:56 Going to coordinates X=-14.189, Y=-36.008
+13.11 19:31:56 Moving is finished
+13.11 19:32:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:08 Scanning 72 point from 391
+13.11 19:32:08 Going to coordinates X=-14.089, Y=-36.008
+13.11 19:32:08 Moving is finished
+13.11 19:32:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:20 Scanning 73 point from 391
+13.11 19:32:20 Going to coordinates X=-13.989, Y=-36.008
+13.11 19:32:20 Moving is finished
+13.11 19:32:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:32 Scanning 74 point from 391
+13.11 19:32:32 Going to coordinates X=-13.889, Y=-36.008
+13.11 19:32:32 Moving is finished
+13.11 19:32:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:44 Scanning 75 point from 391
+13.11 19:32:44 Going to coordinates X=-13.789, Y=-36.008
+13.11 19:32:45 Moving is finished
+13.11 19:32:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:32:57 Scanning 76 point from 391
+13.11 19:32:57 Going to coordinates X=-13.689, Y=-36.008
+13.11 19:32:57 Moving is finished
+13.11 19:33:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:09 Scanning 77 point from 391
+13.11 19:33:09 Going to coordinates X=-13.589, Y=-36.008
+13.11 19:33:09 Moving is finished
+13.11 19:33:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:21 Scanning 78 point from 391
+13.11 19:33:21 Going to coordinates X=-13.489, Y=-36.008
+13.11 19:33:21 Moving is finished
+13.11 19:33:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:33 Scanning 79 point from 391
+13.11 19:33:33 Going to coordinates X=-13.389, Y=-36.008
+13.11 19:33:33 Moving is finished
+13.11 19:33:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:45 Scanning 80 point from 391
+13.11 19:33:45 Going to coordinates X=-13.289, Y=-36.008
+13.11 19:33:45 Moving is finished
+13.11 19:33:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:33:57 Scanning 81 point from 391
+13.11 19:33:57 Going to coordinates X=-13.189, Y=-36.008
+13.11 19:33:58 Moving is finished
+13.11 19:34:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:09 Scanning 82 point from 391
+13.11 19:34:09 Going to coordinates X=-13.089, Y=-36.008
+13.11 19:34:10 Moving is finished
+13.11 19:34:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:22 Scanning 83 point from 391
+13.11 19:34:22 Going to coordinates X=-12.989, Y=-36.008
+13.11 19:34:22 Moving is finished
+13.11 19:34:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:34 Scanning 84 point from 391
+13.11 19:34:34 Going to coordinates X=-12.889, Y=-36.008
+13.11 19:34:34 Moving is finished
+13.11 19:34:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:46 Scanning 85 point from 391
+13.11 19:34:46 Going to coordinates X=-12.789, Y=-36.008
+13.11 19:34:46 Moving is finished
+13.11 19:34:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:34:58 Scanning 86 point from 391
+13.11 19:34:58 Going to coordinates X=-12.689, Y=-36.008
+13.11 19:34:58 Moving is finished
+13.11 19:35:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:10 Scanning 87 point from 391
+13.11 19:35:10 Going to coordinates X=-12.589, Y=-36.008
+13.11 19:35:11 Moving is finished
+13.11 19:35:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:22 Scanning 88 point from 391
+13.11 19:35:22 Going to coordinates X=-12.489, Y=-36.008
+13.11 19:35:23 Moving is finished
+13.11 19:35:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:35 Scanning 89 point from 391
+13.11 19:35:35 Going to coordinates X=-12.389, Y=-36.008
+13.11 19:35:35 Moving is finished
+13.11 19:35:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:47 Scanning 90 point from 391
+13.11 19:35:47 Going to coordinates X=-12.289, Y=-36.008
+13.11 19:35:47 Moving is finished
+13.11 19:35:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:35:59 Scanning 91 point from 391
+13.11 19:35:59 Going to coordinates X=-12.189, Y=-36.008
+13.11 19:35:59 Moving is finished
+13.11 19:36:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:11 Scanning 92 point from 391
+13.11 19:36:11 Going to coordinates X=-14.389, Y=-35.908
+13.11 19:36:12 Moving is finished
+13.11 19:36:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:24 Scanning 93 point from 391
+13.11 19:36:24 Going to coordinates X=-14.289, Y=-35.908
+13.11 19:36:24 Moving is finished
+13.11 19:36:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:36 Scanning 94 point from 391
+13.11 19:36:36 Going to coordinates X=-14.189, Y=-35.908
+13.11 19:36:36 Moving is finished
+13.11 19:36:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:36:48 Scanning 95 point from 391
+13.11 19:36:48 Going to coordinates X=-14.089, Y=-35.908
+13.11 19:36:48 Moving is finished
+13.11 19:36:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:00 Scanning 96 point from 391
+13.11 19:37:00 Going to coordinates X=-13.989, Y=-35.908
+13.11 19:37:00 Moving is finished
+13.11 19:37:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:12 Scanning 97 point from 391
+13.11 19:37:12 Going to coordinates X=-13.889, Y=-35.908
+13.11 19:37:13 Moving is finished
+13.11 19:37:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:24 Scanning 98 point from 391
+13.11 19:37:24 Going to coordinates X=-13.789, Y=-35.908
+13.11 19:37:25 Moving is finished
+13.11 19:37:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:37 Scanning 99 point from 391
+13.11 19:37:37 Going to coordinates X=-13.689, Y=-35.908
+13.11 19:37:37 Moving is finished
+13.11 19:37:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+13.11 19:37:49 Scanning 100 point from 391
+13.11 19:37:49 Going to coordinates X=-13.589, Y=-35.908
+13.11 19:37:49 Moving is finished
+13.11 19:40:02 Scanning 101 point from 391
+13.11 19:40:02 Going to coordinates X=-13.489, Y=-35.908
+13.11 19:40:02 Moving is finished
+13.11 19:42:10 Scanning 102 point from 391
+13.11 19:42:10 Going to coordinates X=-13.389, Y=-35.908
+13.11 19:42:11 Moving is finished
+13.11 19:44:19 Scanning 103 point from 391
+13.11 19:44:19 Going to coordinates X=-13.289, Y=-35.908
+13.11 19:44:20 Moving is finished
+13.11 19:46:28 Scanning 104 point from 391
+13.11 19:46:28 Going to coordinates X=-13.189, Y=-35.908
+13.11 19:46:28 Moving is finished
+13.11 19:48:36 Scanning 105 point from 391
+13.11 19:48:36 Going to coordinates X=-13.089, Y=-35.908
+13.11 19:48:36 Moving is finished
+13.11 19:50:44 Scanning 106 point from 391
+13.11 19:50:44 Going to coordinates X=-12.989, Y=-35.908
+13.11 19:50:44 Moving is finished
+13.11 19:52:53 Scanning 107 point from 391
+13.11 19:52:53 Going to coordinates X=-12.889, Y=-35.908
+13.11 19:52:53 Moving is finished
+13.11 19:55:02 Scanning 108 point from 391
+13.11 19:55:02 Going to coordinates X=-12.789, Y=-35.908
+13.11 19:55:02 Moving is finished
+13.11 19:57:10 Scanning 109 point from 391
+13.11 19:57:10 Going to coordinates X=-12.689, Y=-35.908
+13.11 19:57:10 Moving is finished
+13.11 19:59:19 Scanning 110 point from 391
+13.11 19:59:19 Going to coordinates X=-12.589, Y=-35.908
+13.11 19:59:19 Moving is finished
+13.11 20:01:28 Scanning 111 point from 391
+13.11 20:01:28 Going to coordinates X=-12.489, Y=-35.908
+13.11 20:01:28 Moving is finished
+13.11 20:03:36 Scanning 112 point from 391
+13.11 20:03:36 Going to coordinates X=-12.389, Y=-35.908
+13.11 20:03:36 Moving is finished
+13.11 20:05:44 Scanning 113 point from 391
+13.11 20:05:44 Going to coordinates X=-12.289, Y=-35.908
+13.11 20:05:45 Moving is finished
+13.11 20:07:53 Scanning 114 point from 391
+13.11 20:07:53 Going to coordinates X=-12.189, Y=-35.908
+13.11 20:07:53 Moving is finished
+13.11 20:10:02 Scanning 115 point from 391
+13.11 20:10:02 Going to coordinates X=-14.389, Y=-35.808
+13.11 20:10:03 Moving is finished
+13.11 20:12:12 Scanning 116 point from 391
+13.11 20:12:12 Going to coordinates X=-14.289, Y=-35.808
+13.11 20:12:12 Moving is finished
+13.11 20:14:20 Scanning 117 point from 391
+13.11 20:14:20 Going to coordinates X=-14.189, Y=-35.808
+13.11 20:14:20 Moving is finished
+13.11 20:16:28 Scanning 118 point from 391
+13.11 20:16:28 Going to coordinates X=-14.089, Y=-35.808
+13.11 20:16:28 Moving is finished
+13.11 20:18:37 Scanning 119 point from 391
+13.11 20:18:37 Going to coordinates X=-13.989, Y=-35.808
+13.11 20:18:37 Moving is finished
+13.11 20:20:45 Scanning 120 point from 391
+13.11 20:20:45 Going to coordinates X=-13.889, Y=-35.808
+13.11 20:20:45 Moving is finished
+13.11 20:22:53 Scanning 121 point from 391
+13.11 20:22:53 Going to coordinates X=-13.789, Y=-35.808
+13.11 20:22:54 Moving is finished
+13.11 20:25:02 Scanning 122 point from 391
+13.11 20:25:02 Going to coordinates X=-13.689, Y=-35.808
+13.11 20:25:02 Moving is finished
+13.11 20:27:10 Scanning 123 point from 391
+13.11 20:27:10 Going to coordinates X=-13.589, Y=-35.808
+13.11 20:27:10 Moving is finished
+13.11 20:29:19 Scanning 124 point from 391
+13.11 20:29:19 Going to coordinates X=-13.489, Y=-35.808
+13.11 20:29:19 Moving is finished
+13.11 20:31:27 Scanning 125 point from 391
+13.11 20:31:27 Going to coordinates X=-13.389, Y=-35.808
+13.11 20:31:28 Moving is finished
+13.11 20:33:35 Scanning 126 point from 391
+13.11 20:33:35 Going to coordinates X=-13.289, Y=-35.808
+13.11 20:33:36 Moving is finished
+13.11 20:35:44 Scanning 127 point from 391
+13.11 20:35:44 Going to coordinates X=-13.189, Y=-35.808
+13.11 20:35:44 Moving is finished
+13.11 20:37:52 Scanning 128 point from 391
+13.11 20:37:52 Going to coordinates X=-13.089, Y=-35.808
+13.11 20:37:52 Moving is finished
+13.11 20:40:00 Scanning 129 point from 391
+13.11 20:40:00 Going to coordinates X=-12.989, Y=-35.808
+13.11 20:40:00 Moving is finished
+13.11 20:42:08 Scanning 130 point from 391
+13.11 20:42:08 Going to coordinates X=-12.889, Y=-35.808
+13.11 20:42:09 Moving is finished
+13.11 20:44:17 Scanning 131 point from 391
+13.11 20:44:17 Going to coordinates X=-12.789, Y=-35.808
+13.11 20:44:17 Moving is finished
+13.11 20:46:25 Scanning 132 point from 391
+13.11 20:46:25 Going to coordinates X=-12.689, Y=-35.808
+13.11 20:46:25 Moving is finished
+13.11 20:48:34 Scanning 133 point from 391
+13.11 20:48:34 Going to coordinates X=-12.589, Y=-35.808
+13.11 20:48:34 Moving is finished
+13.11 20:50:42 Scanning 134 point from 391
+13.11 20:50:42 Going to coordinates X=-12.489, Y=-35.808
+13.11 20:50:43 Moving is finished
+13.11 20:52:51 Scanning 135 point from 391
+13.11 20:52:51 Going to coordinates X=-12.389, Y=-35.808
+13.11 20:52:52 Moving is finished
+13.11 20:55:00 Scanning 136 point from 391
+13.11 20:55:00 Going to coordinates X=-12.289, Y=-35.808
+13.11 20:55:00 Moving is finished
+13.11 20:57:08 Scanning 137 point from 391
+13.11 20:57:08 Going to coordinates X=-12.189, Y=-35.808
+13.11 20:57:08 Moving is finished
+13.11 20:59:17 Scanning 138 point from 391
+13.11 20:59:17 Going to coordinates X=-14.389, Y=-35.708
+13.11 20:59:18 Moving is finished
+13.11 21:01:26 Scanning 139 point from 391
+13.11 21:01:26 Going to coordinates X=-14.289, Y=-35.708
+13.11 21:01:26 Moving is finished
+13.11 21:03:34 Scanning 140 point from 391
+13.11 21:03:34 Going to coordinates X=-14.189, Y=-35.708
+13.11 21:03:34 Moving is finished
+13.11 21:05:42 Scanning 141 point from 391
+13.11 21:05:42 Going to coordinates X=-14.089, Y=-35.708
+13.11 21:05:42 Moving is finished
+13.11 21:07:50 Scanning 142 point from 391
+13.11 21:07:50 Going to coordinates X=-13.989, Y=-35.708
+13.11 21:07:51 Moving is finished
+13.11 21:09:59 Scanning 143 point from 391
+13.11 21:09:59 Going to coordinates X=-13.889, Y=-35.708
+13.11 21:09:59 Moving is finished
+13.11 21:12:08 Scanning 144 point from 391
+13.11 21:12:08 Going to coordinates X=-13.789, Y=-35.708
+13.11 21:12:08 Moving is finished
+13.11 21:14:16 Scanning 145 point from 391
+13.11 21:14:16 Going to coordinates X=-13.689, Y=-35.708
+13.11 21:14:16 Moving is finished
+13.11 21:16:24 Scanning 146 point from 391
+13.11 21:16:24 Going to coordinates X=-13.589, Y=-35.708
+13.11 21:16:24 Moving is finished
+13.11 21:18:33 Scanning 147 point from 391
+13.11 21:18:33 Going to coordinates X=-13.489, Y=-35.708
+13.11 21:18:33 Moving is finished
+13.11 21:20:41 Scanning 148 point from 391
+13.11 21:20:41 Going to coordinates X=-13.389, Y=-35.708
+13.11 21:20:42 Moving is finished
+13.11 21:22:50 Scanning 149 point from 391
+13.11 21:22:50 Going to coordinates X=-13.289, Y=-35.708
+13.11 21:22:50 Moving is finished
+13.11 21:24:59 Scanning 150 point from 391
+13.11 21:24:59 Going to coordinates X=-13.189, Y=-35.708
+13.11 21:24:59 Moving is finished
+13.11 21:27:07 Scanning 151 point from 391
+13.11 21:27:07 Going to coordinates X=-13.089, Y=-35.708
+13.11 21:27:07 Moving is finished
+13.11 21:29:15 Scanning 152 point from 391
+13.11 21:29:15 Going to coordinates X=-12.989, Y=-35.708
+13.11 21:29:15 Moving is finished
+13.11 21:31:23 Scanning 153 point from 391
+13.11 21:31:23 Going to coordinates X=-12.889, Y=-35.708
+13.11 21:31:24 Moving is finished
+13.11 21:33:32 Scanning 154 point from 391
+13.11 21:33:32 Going to coordinates X=-12.789, Y=-35.708
+13.11 21:33:32 Moving is finished
+13.11 21:35:40 Scanning 155 point from 391
+13.11 21:35:40 Going to coordinates X=-12.689, Y=-35.708
+13.11 21:35:41 Moving is finished
+13.11 21:37:48 Scanning 156 point from 391
+13.11 21:37:48 Going to coordinates X=-12.589, Y=-35.708
+13.11 21:37:49 Moving is finished
+13.11 21:39:57 Scanning 157 point from 391
+13.11 21:39:57 Going to coordinates X=-12.489, Y=-35.708
+13.11 21:39:57 Moving is finished
+13.11 21:42:05 Scanning 158 point from 391
+13.11 21:42:05 Going to coordinates X=-12.389, Y=-35.708
+13.11 21:42:05 Moving is finished
+13.11 21:44:14 Scanning 159 point from 391
+13.11 21:44:14 Going to coordinates X=-12.289, Y=-35.708
+13.11 21:44:14 Moving is finished
+13.11 21:46:22 Scanning 160 point from 391
+13.11 21:46:22 Going to coordinates X=-12.189, Y=-35.708
+13.11 21:46:22 Moving is finished
+13.11 21:48:31 Scanning 161 point from 391
+13.11 21:48:31 Going to coordinates X=-14.389, Y=-35.608
+13.11 21:48:32 Moving is finished
+13.11 21:50:39 Scanning 162 point from 391
+13.11 21:50:39 Going to coordinates X=-14.289, Y=-35.608
+13.11 21:50:40 Moving is finished
+13.11 21:52:48 Scanning 163 point from 391
+13.11 21:52:48 Going to coordinates X=-14.189, Y=-35.608
+13.11 21:52:49 Moving is finished
+13.11 21:54:57 Scanning 164 point from 391
+13.11 21:54:57 Going to coordinates X=-14.089, Y=-35.608
+13.11 21:54:57 Moving is finished
+13.11 21:57:06 Scanning 165 point from 391
+13.11 21:57:06 Going to coordinates X=-13.989, Y=-35.608
+13.11 21:57:06 Moving is finished
+13.11 21:59:14 Scanning 166 point from 391
+13.11 21:59:14 Going to coordinates X=-13.889, Y=-35.608
+13.11 21:59:15 Moving is finished
+13.11 22:01:23 Scanning 167 point from 391
+13.11 22:01:23 Going to coordinates X=-13.789, Y=-35.608
+13.11 22:01:23 Moving is finished
+13.11 22:03:31 Scanning 168 point from 391
+13.11 22:03:31 Going to coordinates X=-13.689, Y=-35.608
+13.11 22:03:31 Moving is finished
+13.11 22:05:39 Scanning 169 point from 391
+13.11 22:05:39 Going to coordinates X=-13.589, Y=-35.608
+13.11 22:05:40 Moving is finished
+13.11 22:07:47 Scanning 170 point from 391
+13.11 22:07:47 Going to coordinates X=-13.489, Y=-35.608
+13.11 22:07:48 Moving is finished
+13.11 22:09:56 Scanning 171 point from 391
+13.11 22:09:56 Going to coordinates X=-13.389, Y=-35.608
+13.11 22:09:56 Moving is finished
+13.11 22:12:04 Scanning 172 point from 391
+13.11 22:12:04 Going to coordinates X=-13.289, Y=-35.608
+13.11 22:12:05 Moving is finished
+13.11 22:14:13 Scanning 173 point from 391
+13.11 22:14:13 Going to coordinates X=-13.189, Y=-35.608
+13.11 22:14:13 Moving is finished
+13.11 22:16:22 Scanning 174 point from 391
+13.11 22:16:22 Going to coordinates X=-13.089, Y=-35.608
+13.11 22:16:22 Moving is finished
+13.11 22:18:30 Scanning 175 point from 391
+13.11 22:18:30 Going to coordinates X=-12.989, Y=-35.608
+13.11 22:18:31 Moving is finished
+13.11 22:20:39 Scanning 176 point from 391
+13.11 22:20:39 Going to coordinates X=-12.889, Y=-35.608
+13.11 22:20:39 Moving is finished
+13.11 22:22:47 Scanning 177 point from 391
+13.11 22:22:47 Going to coordinates X=-12.789, Y=-35.608
+13.11 22:22:47 Moving is finished
+13.11 22:24:56 Scanning 178 point from 391
+13.11 22:24:56 Going to coordinates X=-12.689, Y=-35.608
+13.11 22:24:56 Moving is finished
+13.11 22:27:04 Scanning 179 point from 391
+13.11 22:27:04 Going to coordinates X=-12.589, Y=-35.608
+13.11 22:27:04 Moving is finished
+13.11 22:29:12 Scanning 180 point from 391
+13.11 22:29:12 Going to coordinates X=-12.489, Y=-35.608
+13.11 22:29:13 Moving is finished
+13.11 22:31:21 Scanning 181 point from 391
+13.11 22:31:21 Going to coordinates X=-12.389, Y=-35.608
+13.11 22:31:21 Moving is finished
+13.11 22:33:29 Scanning 182 point from 391
+13.11 22:33:29 Going to coordinates X=-12.289, Y=-35.608
+13.11 22:33:29 Moving is finished
+13.11 22:35:37 Scanning 183 point from 391
+13.11 22:35:37 Going to coordinates X=-12.189, Y=-35.608
+13.11 22:35:38 Moving is finished
+13.11 22:37:46 Scanning 184 point from 391
+13.11 22:37:46 Going to coordinates X=-14.389, Y=-35.508
+13.11 22:37:47 Moving is finished
+13.11 22:39:56 Scanning 185 point from 391
+13.11 22:39:56 Going to coordinates X=-14.289, Y=-35.508
+13.11 22:39:56 Moving is finished
+13.11 22:42:04 Scanning 186 point from 391
+13.11 22:42:04 Going to coordinates X=-14.189, Y=-35.508
+13.11 22:42:05 Moving is finished
+13.11 22:44:13 Scanning 187 point from 391
+13.11 22:44:13 Going to coordinates X=-14.089, Y=-35.508
+13.11 22:44:13 Moving is finished
+13.11 22:46:21 Scanning 188 point from 391
+13.11 22:46:21 Going to coordinates X=-13.989, Y=-35.508
+13.11 22:46:22 Moving is finished
+13.11 22:48:30 Scanning 189 point from 391
+13.11 22:48:30 Going to coordinates X=-13.889, Y=-35.508
+13.11 22:48:31 Moving is finished
+13.11 22:50:39 Scanning 190 point from 391
+13.11 22:50:39 Going to coordinates X=-13.789, Y=-35.508
+13.11 22:50:39 Moving is finished
+13.11 22:52:47 Scanning 191 point from 391
+13.11 22:52:47 Going to coordinates X=-13.689, Y=-35.508
+13.11 22:52:47 Moving is finished
+13.11 22:54:56 Scanning 192 point from 391
+13.11 22:54:56 Going to coordinates X=-13.589, Y=-35.508
+13.11 22:54:56 Moving is finished
+13.11 22:57:04 Scanning 193 point from 391
+13.11 22:57:04 Going to coordinates X=-13.489, Y=-35.508
+13.11 22:57:05 Moving is finished
+13.11 22:59:13 Scanning 194 point from 391
+13.11 22:59:13 Going to coordinates X=-13.389, Y=-35.508
+13.11 22:59:13 Moving is finished
+13.11 23:01:22 Scanning 195 point from 391
+13.11 23:01:22 Going to coordinates X=-13.289, Y=-35.508
+13.11 23:01:22 Moving is finished
+13.11 23:03:31 Scanning 196 point from 391
+13.11 23:03:31 Going to coordinates X=-13.189, Y=-35.508
+13.11 23:03:31 Moving is finished
+13.11 23:05:39 Scanning 197 point from 391
+13.11 23:05:39 Going to coordinates X=-13.089, Y=-35.508
+13.11 23:05:39 Moving is finished
+13.11 23:07:47 Scanning 198 point from 391
+13.11 23:07:47 Going to coordinates X=-12.989, Y=-35.508
+13.11 23:07:47 Moving is finished
+13.11 23:09:55 Scanning 199 point from 391
+13.11 23:09:55 Going to coordinates X=-12.889, Y=-35.508
+13.11 23:09:56 Moving is finished
+13.11 23:12:03 Scanning 200 point from 391
+13.11 23:12:03 Going to coordinates X=-12.789, Y=-35.508
+13.11 23:12:04 Moving is finished
+13.11 23:14:12 Scanning 201 point from 391
+13.11 23:14:12 Going to coordinates X=-12.689, Y=-35.508
+13.11 23:14:12 Moving is finished
+13.11 23:16:21 Scanning 202 point from 391
+13.11 23:16:21 Going to coordinates X=-12.589, Y=-35.508
+13.11 23:16:21 Moving is finished
+13.11 23:18:30 Scanning 203 point from 391
+13.11 23:18:30 Going to coordinates X=-12.489, Y=-35.508
+13.11 23:18:30 Moving is finished
+13.11 23:20:38 Scanning 204 point from 391
+13.11 23:20:38 Going to coordinates X=-12.389, Y=-35.508
+13.11 23:20:39 Moving is finished
+13.11 23:22:47 Scanning 205 point from 391
+13.11 23:22:47 Going to coordinates X=-12.289, Y=-35.508
+13.11 23:22:47 Moving is finished
+13.11 23:24:55 Scanning 206 point from 391
+13.11 23:24:55 Going to coordinates X=-12.189, Y=-35.508
+13.11 23:24:55 Moving is finished
+13.11 23:27:04 Scanning 207 point from 391
+13.11 23:27:04 Going to coordinates X=-14.389, Y=-35.408
+13.11 23:27:05 Moving is finished
+13.11 23:29:12 Scanning 208 point from 391
+13.11 23:29:12 Going to coordinates X=-14.289, Y=-35.408
+13.11 23:29:13 Moving is finished
+13.11 23:31:21 Scanning 209 point from 391
+13.11 23:31:21 Going to coordinates X=-14.189, Y=-35.408
+13.11 23:31:21 Moving is finished
+13.11 23:33:30 Scanning 210 point from 391
+13.11 23:33:30 Going to coordinates X=-14.089, Y=-35.408
+13.11 23:33:30 Moving is finished
+13.11 23:35:38 Scanning 211 point from 391
+13.11 23:35:38 Going to coordinates X=-13.989, Y=-35.408
+13.11 23:35:38 Moving is finished
+13.11 23:37:47 Scanning 212 point from 391
+13.11 23:37:47 Going to coordinates X=-13.889, Y=-35.408
+13.11 23:37:47 Moving is finished
+13.11 23:39:55 Scanning 213 point from 391
+13.11 23:39:55 Going to coordinates X=-13.789, Y=-35.408
+13.11 23:39:56 Moving is finished
+13.11 23:42:04 Scanning 214 point from 391
+13.11 23:42:04 Going to coordinates X=-13.689, Y=-35.408
+13.11 23:42:05 Moving is finished
+13.11 23:44:13 Scanning 215 point from 391
+13.11 23:44:13 Going to coordinates X=-13.589, Y=-35.408
+13.11 23:44:13 Moving is finished
+13.11 23:46:22 Scanning 216 point from 391
+13.11 23:46:22 Going to coordinates X=-13.489, Y=-35.408
+13.11 23:46:22 Moving is finished
+13.11 23:48:30 Scanning 217 point from 391
+13.11 23:48:30 Going to coordinates X=-13.389, Y=-35.408
+13.11 23:48:30 Moving is finished
+13.11 23:50:38 Scanning 218 point from 391
+13.11 23:50:38 Going to coordinates X=-13.289, Y=-35.408
+13.11 23:50:39 Moving is finished
+13.11 23:52:46 Scanning 219 point from 391
+13.11 23:52:46 Going to coordinates X=-13.189, Y=-35.408
+13.11 23:52:47 Moving is finished
+13.11 23:54:55 Scanning 220 point from 391
+13.11 23:54:55 Going to coordinates X=-13.089, Y=-35.408
+13.11 23:54:55 Moving is finished
+13.11 23:57:04 Scanning 221 point from 391
+13.11 23:57:04 Going to coordinates X=-12.989, Y=-35.408
+13.11 23:57:04 Moving is finished
+13.11 23:59:12 Scanning 222 point from 391
+13.11 23:59:12 Going to coordinates X=-12.889, Y=-35.408
+13.11 23:59:12 Moving is finished
+14.11 00:01:20 Scanning 223 point from 391
+14.11 00:01:20 Going to coordinates X=-12.789, Y=-35.408
+14.11 00:01:21 Moving is finished
+14.11 00:03:29 Scanning 224 point from 391
+14.11 00:03:29 Going to coordinates X=-12.689, Y=-35.408
+14.11 00:03:29 Moving is finished
+14.11 00:05:37 Scanning 225 point from 391
+14.11 00:05:37 Going to coordinates X=-12.589, Y=-35.408
+14.11 00:05:37 Moving is finished
+14.11 00:07:46 Scanning 226 point from 391
+14.11 00:07:46 Going to coordinates X=-12.489, Y=-35.408
+14.11 00:07:46 Moving is finished
+14.11 00:09:54 Scanning 227 point from 391
+14.11 00:09:54 Going to coordinates X=-12.389, Y=-35.408
+14.11 00:09:55 Moving is finished
+14.11 00:12:03 Scanning 228 point from 391
+14.11 00:12:03 Going to coordinates X=-12.289, Y=-35.408
+14.11 00:12:03 Moving is finished
+14.11 00:14:12 Scanning 229 point from 391
+14.11 00:14:12 Going to coordinates X=-12.189, Y=-35.408
+14.11 00:14:12 Moving is finished
+14.11 00:16:21 Scanning 230 point from 391
+14.11 00:16:21 Going to coordinates X=-14.389, Y=-35.308
+14.11 00:16:22 Moving is finished
+14.11 00:18:31 Scanning 231 point from 391
+14.11 00:18:31 Going to coordinates X=-14.289, Y=-35.308
+14.11 00:18:31 Moving is finished
+14.11 00:20:39 Scanning 232 point from 391
+14.11 00:20:39 Going to coordinates X=-14.189, Y=-35.308
+14.11 00:20:39 Moving is finished
+14.11 00:22:48 Scanning 233 point from 391
+14.11 00:22:48 Going to coordinates X=-14.089, Y=-35.308
+14.11 00:22:48 Moving is finished
+14.11 00:24:57 Scanning 234 point from 391
+14.11 00:24:57 Going to coordinates X=-13.989, Y=-35.308
+14.11 00:24:57 Moving is finished
+14.11 00:27:05 Scanning 235 point from 391
+14.11 00:27:05 Going to coordinates X=-13.889, Y=-35.308
+14.11 00:27:06 Moving is finished
+14.11 00:29:14 Scanning 236 point from 391
+14.11 00:29:14 Going to coordinates X=-13.789, Y=-35.308
+14.11 00:29:14 Moving is finished
+14.11 00:31:23 Scanning 237 point from 391
+14.11 00:31:23 Going to coordinates X=-13.689, Y=-35.308
+14.11 00:31:23 Moving is finished
+14.11 00:33:31 Scanning 238 point from 391
+14.11 00:33:31 Going to coordinates X=-13.589, Y=-35.308
+14.11 00:33:31 Moving is finished
+14.11 00:35:39 Scanning 239 point from 391
+14.11 00:35:39 Going to coordinates X=-13.489, Y=-35.308
+14.11 00:35:40 Moving is finished
+14.11 00:37:48 Scanning 240 point from 391
+14.11 00:37:48 Going to coordinates X=-13.389, Y=-35.308
+14.11 00:37:48 Moving is finished
+14.11 00:39:56 Scanning 241 point from 391
+14.11 00:39:56 Going to coordinates X=-13.289, Y=-35.308
+14.11 00:39:57 Moving is finished
+14.11 00:42:05 Scanning 242 point from 391
+14.11 00:42:05 Going to coordinates X=-13.189, Y=-35.308
+14.11 00:42:05 Moving is finished
+14.11 00:44:13 Scanning 243 point from 391
+14.11 00:44:13 Going to coordinates X=-13.089, Y=-35.308
+14.11 00:44:13 Moving is finished
+14.11 00:46:21 Scanning 244 point from 391
+14.11 00:46:21 Going to coordinates X=-12.989, Y=-35.308
+14.11 00:46:21 Moving is finished
+14.11 00:48:30 Scanning 245 point from 391
+14.11 00:48:30 Going to coordinates X=-12.889, Y=-35.308
+14.11 00:48:30 Moving is finished
+14.11 00:50:38 Scanning 246 point from 391
+14.11 00:50:38 Going to coordinates X=-12.789, Y=-35.308
+14.11 00:50:39 Moving is finished
+14.11 00:52:47 Scanning 247 point from 391
+14.11 00:52:47 Going to coordinates X=-12.689, Y=-35.308
+14.11 00:52:47 Moving is finished
+14.11 00:54:55 Scanning 248 point from 391
+14.11 00:54:55 Going to coordinates X=-12.589, Y=-35.308
+14.11 00:54:55 Moving is finished
+14.11 00:57:03 Scanning 249 point from 391
+14.11 00:57:03 Going to coordinates X=-12.489, Y=-35.308
+14.11 00:57:04 Moving is finished
+14.11 00:59:12 Scanning 250 point from 391
+14.11 00:59:12 Going to coordinates X=-12.389, Y=-35.308
+14.11 00:59:12 Moving is finished
+14.11 01:01:21 Scanning 251 point from 391
+14.11 01:01:21 Going to coordinates X=-12.289, Y=-35.308
+14.11 01:01:22 Moving is finished
+14.11 01:03:30 Scanning 252 point from 391
+14.11 01:03:30 Going to coordinates X=-12.189, Y=-35.308
+14.11 01:03:30 Moving is finished
+14.11 01:05:39 Scanning 253 point from 391
+14.11 01:05:39 Going to coordinates X=-14.389, Y=-35.208
+14.11 01:05:40 Moving is finished
+14.11 01:07:49 Scanning 254 point from 391
+14.11 01:07:49 Going to coordinates X=-14.289, Y=-35.208
+14.11 01:07:49 Moving is finished
+14.11 01:09:57 Scanning 255 point from 391
+14.11 01:09:57 Going to coordinates X=-14.189, Y=-35.208
+14.11 01:09:57 Moving is finished
+14.11 01:12:05 Scanning 256 point from 391
+14.11 01:12:05 Going to coordinates X=-14.089, Y=-35.208
+14.11 01:12:06 Moving is finished
+14.11 01:14:15 Scanning 257 point from 391
+14.11 01:14:15 Going to coordinates X=-13.989, Y=-35.208
+14.11 01:14:15 Moving is finished
+14.11 01:16:23 Scanning 258 point from 391
+14.11 01:16:23 Going to coordinates X=-13.889, Y=-35.208
+14.11 01:16:24 Moving is finished
+14.11 01:18:32 Scanning 259 point from 391
+14.11 01:18:32 Going to coordinates X=-13.789, Y=-35.208
+14.11 01:18:32 Moving is finished
+14.11 01:20:40 Scanning 260 point from 391
+14.11 01:20:40 Going to coordinates X=-13.689, Y=-35.208
+14.11 01:20:40 Moving is finished
+14.11 01:22:48 Scanning 261 point from 391
+14.11 01:22:48 Going to coordinates X=-13.589, Y=-35.208
+14.11 01:22:49 Moving is finished
+14.11 01:24:56 Scanning 262 point from 391
+14.11 01:24:56 Going to coordinates X=-13.489, Y=-35.208
+14.11 01:24:57 Moving is finished
+14.11 01:27:05 Scanning 263 point from 391
+14.11 01:27:05 Going to coordinates X=-13.389, Y=-35.208
+14.11 01:27:05 Moving is finished
+14.11 01:29:13 Scanning 264 point from 391
+14.11 01:29:13 Going to coordinates X=-13.289, Y=-35.208
+14.11 01:29:14 Moving is finished
+14.11 01:31:22 Scanning 265 point from 391
+14.11 01:31:22 Going to coordinates X=-13.189, Y=-35.208
+14.11 01:31:22 Moving is finished
+14.11 01:33:31 Scanning 266 point from 391
+14.11 01:33:31 Going to coordinates X=-13.089, Y=-35.208
+14.11 01:33:31 Moving is finished
+14.11 01:35:39 Scanning 267 point from 391
+14.11 01:35:39 Going to coordinates X=-12.989, Y=-35.208
+14.11 01:35:39 Moving is finished
+14.11 01:37:47 Scanning 268 point from 391
+14.11 01:37:47 Going to coordinates X=-12.889, Y=-35.208
+14.11 01:37:47 Moving is finished
+14.11 01:39:55 Scanning 269 point from 391
+14.11 01:39:55 Going to coordinates X=-12.789, Y=-35.208
+14.11 01:39:56 Moving is finished
+14.11 01:42:04 Scanning 270 point from 391
+14.11 01:42:04 Going to coordinates X=-12.689, Y=-35.208
+14.11 01:42:04 Moving is finished
+14.11 01:44:13 Scanning 271 point from 391
+14.11 01:44:13 Going to coordinates X=-12.589, Y=-35.208
+14.11 01:44:13 Moving is finished
+14.11 01:46:21 Scanning 272 point from 391
+14.11 01:46:21 Going to coordinates X=-12.489, Y=-35.208
+14.11 01:46:22 Moving is finished
+14.11 01:48:30 Scanning 273 point from 391
+14.11 01:48:30 Going to coordinates X=-12.389, Y=-35.208
+14.11 01:48:30 Moving is finished
+14.11 01:50:38 Scanning 274 point from 391
+14.11 01:50:38 Going to coordinates X=-12.289, Y=-35.208
+14.11 01:50:39 Moving is finished
+14.11 01:52:47 Scanning 275 point from 391
+14.11 01:52:47 Going to coordinates X=-12.189, Y=-35.208
+14.11 01:52:47 Moving is finished
+14.11 01:54:55 Scanning 276 point from 391
+14.11 01:54:55 Going to coordinates X=-14.389, Y=-35.108
+14.11 01:54:56 Moving is finished
+14.11 01:57:04 Scanning 277 point from 391
+14.11 01:57:04 Going to coordinates X=-14.289, Y=-35.108
+14.11 01:57:04 Moving is finished
+14.11 01:59:13 Scanning 278 point from 391
+14.11 01:59:13 Going to coordinates X=-14.189, Y=-35.108
+14.11 01:59:13 Moving is finished
+14.11 02:01:21 Scanning 279 point from 391
+14.11 02:01:21 Going to coordinates X=-14.089, Y=-35.108
+14.11 02:01:21 Moving is finished
+14.11 02:03:29 Scanning 280 point from 391
+14.11 02:03:29 Going to coordinates X=-13.989, Y=-35.108
+14.11 02:03:30 Moving is finished
+14.11 02:05:38 Scanning 281 point from 391
+14.11 02:05:38 Going to coordinates X=-13.889, Y=-35.108
+14.11 02:05:38 Moving is finished
+14.11 02:07:47 Scanning 282 point from 391
+14.11 02:07:47 Going to coordinates X=-13.789, Y=-35.108
+14.11 02:07:47 Moving is finished
+14.11 02:09:55 Scanning 283 point from 391
+14.11 02:09:55 Going to coordinates X=-13.689, Y=-35.108
+14.11 02:09:56 Moving is finished
+14.11 02:12:03 Scanning 284 point from 391
+14.11 02:12:03 Going to coordinates X=-13.589, Y=-35.108
+14.11 02:12:04 Moving is finished
+14.11 02:14:12 Scanning 285 point from 391
+14.11 02:14:12 Going to coordinates X=-13.489, Y=-35.108
+14.11 02:14:12 Moving is finished
+14.11 02:16:20 Scanning 286 point from 391
+14.11 02:16:20 Going to coordinates X=-13.389, Y=-35.108
+14.11 02:16:21 Moving is finished
+14.11 02:18:29 Scanning 287 point from 391
+14.11 02:18:29 Going to coordinates X=-13.289, Y=-35.108
+14.11 02:18:30 Moving is finished
+14.11 02:20:38 Scanning 288 point from 391
+14.11 02:20:38 Going to coordinates X=-13.189, Y=-35.108
+14.11 02:20:38 Moving is finished
+14.11 02:22:46 Scanning 289 point from 391
+14.11 02:22:46 Going to coordinates X=-13.089, Y=-35.108
+14.11 02:22:46 Moving is finished
+14.11 02:24:55 Scanning 290 point from 391
+14.11 02:24:55 Going to coordinates X=-12.989, Y=-35.108
+14.11 02:24:55 Moving is finished
+14.11 02:27:03 Scanning 291 point from 391
+14.11 02:27:03 Going to coordinates X=-12.889, Y=-35.108
+14.11 02:27:03 Moving is finished
+14.11 02:29:11 Scanning 292 point from 391
+14.11 02:29:11 Going to coordinates X=-12.789, Y=-35.108
+14.11 02:29:12 Moving is finished
+14.11 02:31:20 Scanning 293 point from 391
+14.11 02:31:20 Going to coordinates X=-12.689, Y=-35.108
+14.11 02:31:20 Moving is finished
+14.11 02:33:29 Scanning 294 point from 391
+14.11 02:33:29 Going to coordinates X=-12.589, Y=-35.108
+14.11 02:33:29 Moving is finished
+14.11 02:35:38 Scanning 295 point from 391
+14.11 02:35:38 Going to coordinates X=-12.489, Y=-35.108
+14.11 02:35:38 Moving is finished
+14.11 02:37:46 Scanning 296 point from 391
+14.11 02:37:46 Going to coordinates X=-12.389, Y=-35.108
+14.11 02:37:47 Moving is finished
+14.11 02:39:55 Scanning 297 point from 391
+14.11 02:39:55 Going to coordinates X=-12.289, Y=-35.108
+14.11 02:39:55 Moving is finished
+14.11 02:42:04 Scanning 298 point from 391
+14.11 02:42:04 Going to coordinates X=-12.189, Y=-35.108
+14.11 02:42:04 Moving is finished
+14.11 02:44:12 Scanning 299 point from 391
+14.11 02:44:12 Going to coordinates X=-14.389, Y=-35.008
+14.11 02:44:13 Moving is finished
+14.11 02:46:21 Scanning 300 point from 391
+14.11 02:46:21 Going to coordinates X=-14.289, Y=-35.008
+14.11 02:46:22 Moving is finished
+14.11 02:48:30 Scanning 301 point from 391
+14.11 02:48:30 Going to coordinates X=-14.189, Y=-35.008
+14.11 02:48:30 Moving is finished
+14.11 02:50:39 Scanning 302 point from 391
+14.11 02:50:39 Going to coordinates X=-14.089, Y=-35.008
+14.11 02:50:39 Moving is finished
+14.11 02:52:47 Scanning 303 point from 391
+14.11 02:52:47 Going to coordinates X=-13.989, Y=-35.008
+14.11 02:52:47 Moving is finished
+14.11 02:54:55 Scanning 304 point from 391
+14.11 02:54:55 Going to coordinates X=-13.889, Y=-35.008
+14.11 02:54:56 Moving is finished
+14.11 02:57:04 Scanning 305 point from 391
+14.11 02:57:04 Going to coordinates X=-13.789, Y=-35.008
+14.11 02:57:04 Moving is finished
+14.11 02:59:12 Scanning 306 point from 391
+14.11 02:59:12 Going to coordinates X=-13.689, Y=-35.008
+14.11 02:59:12 Moving is finished
+14.11 03:01:20 Scanning 307 point from 391
+14.11 03:01:20 Going to coordinates X=-13.589, Y=-35.008
+14.11 03:01:20 Moving is finished
+14.11 03:03:28 Scanning 308 point from 391
+14.11 03:03:28 Going to coordinates X=-13.489, Y=-35.008
+14.11 03:03:28 Moving is finished
+14.11 03:05:35 Scanning 309 point from 391
+14.11 03:05:35 Going to coordinates X=-13.389, Y=-35.008
+14.11 03:05:36 Moving is finished
+14.11 03:07:43 Scanning 310 point from 391
+14.11 03:07:43 Going to coordinates X=-13.289, Y=-35.008
+14.11 03:07:43 Moving is finished
+14.11 03:09:51 Scanning 311 point from 391
+14.11 03:09:51 Going to coordinates X=-13.189, Y=-35.008
+14.11 03:09:51 Moving is finished
+14.11 03:11:58 Scanning 312 point from 391
+14.11 03:11:58 Going to coordinates X=-13.089, Y=-35.008
+14.11 03:11:58 Moving is finished
+14.11 03:14:06 Scanning 313 point from 391
+14.11 03:14:06 Going to coordinates X=-12.989, Y=-35.008
+14.11 03:14:06 Moving is finished
+14.11 03:16:15 Scanning 314 point from 391
+14.11 03:16:15 Going to coordinates X=-12.889, Y=-35.008
+14.11 03:16:15 Moving is finished
+14.11 03:16:57 {'best_match': 'ProgressBar', 'top_level_only': False, 'parent': <uia_element_info.UIAElementInfo - '', , None>, 'backend': 'uia'}
+
+14.11 03:16:59 Scanning 315 point from 391
+14.11 03:16:59 Going to coordinates X=-12.789, Y=-35.008

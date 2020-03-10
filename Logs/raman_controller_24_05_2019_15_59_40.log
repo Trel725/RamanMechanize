@@ -1,0 +1,31 @@
+24.05 15:59:48 Initializing grbl...
+24.05 15:59:49 Got the response: b''
+24.05 16:01:00 Can't send the command to GRBL
+24.05 16:01:00 Write timeout24.05 16:01:00 Write timeout
+
+24.05 16:06:09 Row 0: 24.05 16:06:09 Circle: x: -28.620, y: -39.309, rad: 0.010, n: 5, fname: h2o2
+24.05 16:06:09 Scanning point 1 of circle
+24.05 16:06:09 Going to coordinates X=-28.610, Y=-39.309
+24.05 16:06:10 Moving is finished
+24.05 16:06:11 Starting signal collection to the file h2o2_circle_1
+24.05 16:08:21 Data is collected!
+24.05 16:08:21 Scanning point 2 of circle
+24.05 16:08:21 Going to coordinates X=-28.617, Y=-39.299
+24.05 16:08:21 Moving is finished
+24.05 16:08:22 Starting signal collection to the file h2o2_circle_2
+24.05 16:10:32 Data is collected!
+24.05 16:10:32 Scanning point 3 of circle
+24.05 16:10:32 Going to coordinates X=-28.628, Y=-39.303
+24.05 16:10:32 Moving is finished
+24.05 16:10:33 Starting signal collection to the file h2o2_circle_3
+24.05 16:12:43 Data is collected!
+24.05 16:12:43 Scanning point 4 of circle
+24.05 16:12:43 Going to coordinates X=-28.628, Y=-39.315
+24.05 16:12:43 Moving is finished
+24.05 16:12:44 Starting signal collection to the file h2o2_circle_4
+24.05 16:14:54 Data is collected!
+24.05 16:14:54 Scanning point 5 of circle
+24.05 16:14:54 Going to coordinates X=-28.617, Y=-39.319
+24.05 16:14:54 Moving is finished
+24.05 16:14:55 Starting signal collection to the file h2o2_circle_5
+24.05 16:17:05 Data is collected!

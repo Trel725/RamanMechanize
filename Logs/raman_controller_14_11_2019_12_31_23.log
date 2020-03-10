@@ -1,0 +1,401 @@
+14.11 12:31:26 Initializing grbl...
+14.11 12:31:26 Got the response: b''
+14.11 12:35:51 Row 0: 14.11 12:35:51 Map: x1: -14.976, y1: -37.774, x2: -15.918, y2: -36.728, xres: 0.100, yres: 0.100, fname: Mart Sol2 D
+14.11 12:35:51 Scanning 0 point from 132
+14.11 12:35:51 Going to coordinates X=-15.918, Y=-37.774
+14.11 12:35:52 Moving is finished
+14.11 12:36:03 Scanning 1 point from 132
+14.11 12:36:03 Going to coordinates X=-15.818, Y=-37.774
+14.11 12:36:04 Moving is finished
+14.11 12:36:09 Scanning 2 point from 132
+14.11 12:36:09 Going to coordinates X=-15.718, Y=-37.774
+14.11 12:36:09 Moving is finished
+14.11 12:36:15 Scanning 3 point from 132
+14.11 12:36:15 Going to coordinates X=-15.618, Y=-37.774
+14.11 12:36:15 Moving is finished
+14.11 12:36:21 Scanning 4 point from 132
+14.11 12:36:21 Going to coordinates X=-15.518, Y=-37.774
+14.11 12:36:21 Moving is finished
+14.11 12:36:27 Scanning 5 point from 132
+14.11 12:36:27 Going to coordinates X=-15.418, Y=-37.774
+14.11 12:36:27 Moving is finished
+14.11 12:36:33 Scanning 6 point from 132
+14.11 12:36:33 Going to coordinates X=-15.318, Y=-37.774
+14.11 12:36:33 Moving is finished
+14.11 12:36:39 Scanning 7 point from 132
+14.11 12:36:39 Going to coordinates X=-15.218, Y=-37.774
+14.11 12:36:39 Moving is finished
+14.11 12:36:45 Scanning 8 point from 132
+14.11 12:36:45 Going to coordinates X=-15.118, Y=-37.774
+14.11 12:36:45 Moving is finished
+14.11 12:36:50 Scanning 9 point from 132
+14.11 12:36:50 Going to coordinates X=-15.018, Y=-37.774
+14.11 12:36:51 Moving is finished
+14.11 12:36:56 Scanning 10 point from 132
+14.11 12:36:56 Going to coordinates X=-14.918, Y=-37.774
+14.11 12:36:57 Moving is finished
+14.11 12:37:02 Scanning 11 point from 132
+14.11 12:37:02 Going to coordinates X=-15.918, Y=-37.674
+14.11 12:37:03 Moving is finished
+14.11 12:37:09 Scanning 12 point from 132
+14.11 12:37:09 Going to coordinates X=-15.818, Y=-37.674
+14.11 12:37:09 Moving is finished
+14.11 12:37:15 Scanning 13 point from 132
+14.11 12:37:15 Going to coordinates X=-15.718, Y=-37.674
+14.11 12:37:15 Moving is finished
+14.11 12:37:20 Scanning 14 point from 132
+14.11 12:37:20 Going to coordinates X=-15.618, Y=-37.674
+14.11 12:37:21 Moving is finished
+14.11 12:37:26 Scanning 15 point from 132
+14.11 12:37:26 Going to coordinates X=-15.518, Y=-37.674
+14.11 12:37:27 Moving is finished
+14.11 12:37:32 Scanning 16 point from 132
+14.11 12:37:32 Going to coordinates X=-15.418, Y=-37.674
+14.11 12:37:33 Moving is finished
+14.11 12:37:38 Scanning 17 point from 132
+14.11 12:37:38 Going to coordinates X=-15.318, Y=-37.674
+14.11 12:37:39 Moving is finished
+14.11 12:37:44 Scanning 18 point from 132
+14.11 12:37:44 Going to coordinates X=-15.218, Y=-37.674
+14.11 12:37:45 Moving is finished
+14.11 12:37:50 Scanning 19 point from 132
+14.11 12:37:50 Going to coordinates X=-15.118, Y=-37.674
+14.11 12:37:50 Moving is finished
+14.11 12:37:56 Scanning 20 point from 132
+14.11 12:37:56 Going to coordinates X=-15.018, Y=-37.674
+14.11 12:37:56 Moving is finished
+14.11 12:38:02 Scanning 21 point from 132
+14.11 12:38:02 Going to coordinates X=-14.918, Y=-37.674
+14.11 12:38:02 Moving is finished
+14.11 12:38:08 Scanning 22 point from 132
+14.11 12:38:08 Going to coordinates X=-15.918, Y=-37.574
+14.11 12:38:09 Moving is finished
+14.11 12:38:14 Scanning 23 point from 132
+14.11 12:38:14 Going to coordinates X=-15.818, Y=-37.574
+14.11 12:38:15 Moving is finished
+14.11 12:38:20 Scanning 24 point from 132
+14.11 12:38:20 Going to coordinates X=-15.718, Y=-37.574
+14.11 12:38:21 Moving is finished
+14.11 12:38:27 Scanning 25 point from 132
+14.11 12:38:27 Going to coordinates X=-15.618, Y=-37.574
+14.11 12:38:27 Moving is finished
+14.11 12:38:33 Scanning 26 point from 132
+14.11 12:38:33 Going to coordinates X=-15.518, Y=-37.574
+14.11 12:38:33 Moving is finished
+14.11 12:38:39 Scanning 27 point from 132
+14.11 12:38:39 Going to coordinates X=-15.418, Y=-37.574
+14.11 12:38:39 Moving is finished
+14.11 12:38:45 Scanning 28 point from 132
+14.11 12:38:45 Going to coordinates X=-15.318, Y=-37.574
+14.11 12:38:45 Moving is finished
+14.11 12:38:51 Scanning 29 point from 132
+14.11 12:38:51 Going to coordinates X=-15.218, Y=-37.574
+14.11 12:38:52 Moving is finished
+14.11 12:38:58 Scanning 30 point from 132
+14.11 12:38:58 Going to coordinates X=-15.118, Y=-37.574
+14.11 12:38:58 Moving is finished
+14.11 12:39:04 Scanning 31 point from 132
+14.11 12:39:04 Going to coordinates X=-15.018, Y=-37.574
+14.11 12:39:04 Moving is finished
+14.11 12:39:10 Scanning 32 point from 132
+14.11 12:39:10 Going to coordinates X=-14.918, Y=-37.574
+14.11 12:39:10 Moving is finished
+14.11 12:39:16 Scanning 33 point from 132
+14.11 12:39:16 Going to coordinates X=-15.918, Y=-37.474
+14.11 12:39:17 Moving is finished
+14.11 12:39:22 Scanning 34 point from 132
+14.11 12:39:22 Going to coordinates X=-15.818, Y=-37.474
+14.11 12:39:23 Moving is finished
+14.11 12:39:29 Scanning 35 point from 132
+14.11 12:39:29 Going to coordinates X=-15.718, Y=-37.474
+14.11 12:39:29 Moving is finished
+14.11 12:39:35 Scanning 36 point from 132
+14.11 12:39:35 Going to coordinates X=-15.618, Y=-37.474
+14.11 12:39:35 Moving is finished
+14.11 12:39:41 Scanning 37 point from 132
+14.11 12:39:41 Going to coordinates X=-15.518, Y=-37.474
+14.11 12:39:41 Moving is finished
+14.11 12:39:47 Scanning 38 point from 132
+14.11 12:39:47 Going to coordinates X=-15.418, Y=-37.474
+14.11 12:39:47 Moving is finished
+14.11 12:39:53 Scanning 39 point from 132
+14.11 12:39:53 Going to coordinates X=-15.318, Y=-37.474
+14.11 12:39:53 Status responce is malformed
+14.11 12:39:53 list index out of range
+14.11 12:39:53 Moving is finished
+14.11 12:39:59 Scanning 40 point from 132
+14.11 12:39:59 Going to coordinates X=-15.218, Y=-37.474
+14.11 12:39:59 Moving is finished
+14.11 12:40:05 Scanning 41 point from 132
+14.11 12:40:05 Going to coordinates X=-15.118, Y=-37.474
+14.11 12:40:06 Moving is finished
+14.11 12:40:11 Scanning 42 point from 132
+14.11 12:40:11 Going to coordinates X=-15.018, Y=-37.474
+14.11 12:40:12 Moving is finished
+14.11 12:40:17 Scanning 43 point from 132
+14.11 12:40:17 Going to coordinates X=-14.918, Y=-37.474
+14.11 12:40:18 Moving is finished
+14.11 12:40:24 Scanning 44 point from 132
+14.11 12:40:24 Going to coordinates X=-15.918, Y=-37.374
+14.11 12:40:24 Moving is finished
+14.11 12:40:30 Scanning 45 point from 132
+14.11 12:40:30 Going to coordinates X=-15.818, Y=-37.374
+14.11 12:40:30 Moving is finished
+14.11 12:40:36 Scanning 46 point from 132
+14.11 12:40:36 Going to coordinates X=-15.718, Y=-37.374
+14.11 12:40:36 Moving is finished
+14.11 12:40:42 Scanning 47 point from 132
+14.11 12:40:42 Going to coordinates X=-15.618, Y=-37.374
+14.11 12:40:42 Moving is finished
+14.11 12:40:48 Scanning 48 point from 132
+14.11 12:40:48 Going to coordinates X=-15.518, Y=-37.374
+14.11 12:40:48 Moving is finished
+14.11 12:40:54 Scanning 49 point from 132
+14.11 12:40:54 Going to coordinates X=-15.418, Y=-37.374
+14.11 12:40:54 Moving is finished
+14.11 12:41:00 Scanning 50 point from 132
+14.11 12:41:00 Going to coordinates X=-15.318, Y=-37.374
+14.11 12:41:00 Moving is finished
+14.11 12:41:06 Scanning 51 point from 132
+14.11 12:41:06 Going to coordinates X=-15.218, Y=-37.374
+14.11 12:41:06 Moving is finished
+14.11 12:41:11 Scanning 52 point from 132
+14.11 12:41:11 Going to coordinates X=-15.118, Y=-37.374
+14.11 12:41:12 Moving is finished
+14.11 12:41:17 Scanning 53 point from 132
+14.11 12:41:17 Going to coordinates X=-15.018, Y=-37.374
+14.11 12:41:18 Moving is finished
+14.11 12:41:23 Scanning 54 point from 132
+14.11 12:41:23 Going to coordinates X=-14.918, Y=-37.374
+14.11 12:41:23 Moving is finished
+14.11 12:41:29 Scanning 55 point from 132
+14.11 12:41:29 Going to coordinates X=-15.918, Y=-37.274
+14.11 12:41:30 Moving is finished
+14.11 12:41:35 Scanning 56 point from 132
+14.11 12:41:35 Going to coordinates X=-15.818, Y=-37.274
+14.11 12:41:36 Moving is finished
+14.11 12:41:41 Scanning 57 point from 132
+14.11 12:41:41 Going to coordinates X=-15.718, Y=-37.274
+14.11 12:41:42 Moving is finished
+14.11 12:41:47 Scanning 58 point from 132
+14.11 12:41:47 Going to coordinates X=-15.618, Y=-37.274
+14.11 12:41:47 Moving is finished
+14.11 12:41:53 Scanning 59 point from 132
+14.11 12:41:53 Going to coordinates X=-15.518, Y=-37.274
+14.11 12:41:53 Moving is finished
+14.11 12:41:59 Scanning 60 point from 132
+14.11 12:41:59 Going to coordinates X=-15.418, Y=-37.274
+14.11 12:41:59 Moving is finished
+14.11 12:42:05 Scanning 61 point from 132
+14.11 12:42:05 Going to coordinates X=-15.318, Y=-37.274
+14.11 12:42:05 Moving is finished
+14.11 12:42:11 Scanning 62 point from 132
+14.11 12:42:11 Going to coordinates X=-15.218, Y=-37.274
+14.11 12:42:11 Moving is finished
+14.11 12:42:17 Scanning 63 point from 132
+14.11 12:42:17 Going to coordinates X=-15.118, Y=-37.274
+14.11 12:42:17 Moving is finished
+14.11 12:42:22 Scanning 64 point from 132
+14.11 12:42:22 Going to coordinates X=-15.018, Y=-37.274
+14.11 12:42:23 Moving is finished
+14.11 12:42:28 Scanning 65 point from 132
+14.11 12:42:28 Going to coordinates X=-14.918, Y=-37.274
+14.11 12:42:29 Moving is finished
+14.11 12:42:34 Scanning 66 point from 132
+14.11 12:42:34 Going to coordinates X=-15.918, Y=-37.174
+14.11 12:42:35 Moving is finished
+14.11 12:42:41 Scanning 67 point from 132
+14.11 12:42:41 Going to coordinates X=-15.818, Y=-37.174
+14.11 12:42:41 Moving is finished
+14.11 12:42:47 Scanning 68 point from 132
+14.11 12:42:47 Going to coordinates X=-15.718, Y=-37.174
+14.11 12:42:47 Moving is finished
+14.11 12:42:52 Scanning 69 point from 132
+14.11 12:42:52 Going to coordinates X=-15.618, Y=-37.174
+14.11 12:42:53 Moving is finished
+14.11 12:42:58 Scanning 70 point from 132
+14.11 12:42:58 Going to coordinates X=-15.518, Y=-37.174
+14.11 12:42:59 Moving is finished
+14.11 12:43:04 Scanning 71 point from 132
+14.11 12:43:04 Going to coordinates X=-15.418, Y=-37.174
+14.11 12:43:05 Moving is finished
+14.11 12:43:10 Scanning 72 point from 132
+14.11 12:43:10 Going to coordinates X=-15.318, Y=-37.174
+14.11 12:43:11 Moving is finished
+14.11 12:43:16 Scanning 73 point from 132
+14.11 12:43:16 Going to coordinates X=-15.218, Y=-37.174
+14.11 12:43:16 Moving is finished
+14.11 12:43:22 Scanning 74 point from 132
+14.11 12:43:22 Going to coordinates X=-15.118, Y=-37.174
+14.11 12:43:22 Moving is finished
+14.11 12:43:28 Scanning 75 point from 132
+14.11 12:43:28 Going to coordinates X=-15.018, Y=-37.174
+14.11 12:43:28 Moving is finished
+14.11 12:43:34 Scanning 76 point from 132
+14.11 12:43:34 Going to coordinates X=-14.918, Y=-37.174
+14.11 12:43:34 Moving is finished
+14.11 12:43:40 Scanning 77 point from 132
+14.11 12:43:40 Going to coordinates X=-15.918, Y=-37.074
+14.11 12:43:41 Moving is finished
+14.11 12:43:46 Scanning 78 point from 132
+14.11 12:43:46 Going to coordinates X=-15.818, Y=-37.074
+14.11 12:43:46 Moving is finished
+14.11 12:43:52 Scanning 79 point from 132
+14.11 12:43:52 Going to coordinates X=-15.718, Y=-37.074
+14.11 12:43:52 Moving is finished
+14.11 12:43:58 Scanning 80 point from 132
+14.11 12:43:58 Going to coordinates X=-15.618, Y=-37.074
+14.11 12:43:58 Moving is finished
+14.11 12:44:04 Scanning 81 point from 132
+14.11 12:44:04 Going to coordinates X=-15.518, Y=-37.074
+14.11 12:44:04 Moving is finished
+14.11 12:44:10 Scanning 82 point from 132
+14.11 12:44:10 Going to coordinates X=-15.418, Y=-37.074
+14.11 12:44:10 Moving is finished
+14.11 12:44:16 Scanning 83 point from 132
+14.11 12:44:16 Going to coordinates X=-15.318, Y=-37.074
+14.11 12:44:16 Moving is finished
+14.11 12:44:22 Scanning 84 point from 132
+14.11 12:44:22 Going to coordinates X=-15.218, Y=-37.074
+14.11 12:44:22 Moving is finished
+14.11 12:44:28 Scanning 85 point from 132
+14.11 12:44:28 Going to coordinates X=-15.118, Y=-37.074
+14.11 12:44:28 Moving is finished
+14.11 12:44:34 Scanning 86 point from 132
+14.11 12:44:34 Going to coordinates X=-15.018, Y=-37.074
+14.11 12:44:34 Moving is finished
+14.11 12:44:39 Scanning 87 point from 132
+14.11 12:44:39 Going to coordinates X=-14.918, Y=-37.074
+14.11 12:44:40 Moving is finished
+14.11 12:44:45 Scanning 88 point from 132
+14.11 12:44:45 Going to coordinates X=-15.918, Y=-36.974
+14.11 12:44:46 Moving is finished
+14.11 12:44:52 Scanning 89 point from 132
+14.11 12:44:52 Going to coordinates X=-15.818, Y=-36.974
+14.11 12:44:52 Moving is finished
+14.11 12:44:58 Scanning 90 point from 132
+14.11 12:44:58 Going to coordinates X=-15.718, Y=-36.974
+14.11 12:44:58 Moving is finished
+14.11 12:45:03 Scanning 91 point from 132
+14.11 12:45:03 Going to coordinates X=-15.618, Y=-36.974
+14.11 12:45:04 Moving is finished
+14.11 12:45:09 Scanning 92 point from 132
+14.11 12:45:09 Going to coordinates X=-15.518, Y=-36.974
+14.11 12:45:10 Moving is finished
+14.11 12:45:15 Scanning 93 point from 132
+14.11 12:45:15 Going to coordinates X=-15.418, Y=-36.974
+14.11 12:45:16 Moving is finished
+14.11 12:45:21 Scanning 94 point from 132
+14.11 12:45:21 Going to coordinates X=-15.318, Y=-36.974
+14.11 12:45:22 Moving is finished
+14.11 12:45:27 Scanning 95 point from 132
+14.11 12:45:27 Going to coordinates X=-15.218, Y=-36.974
+14.11 12:45:27 Moving is finished
+14.11 12:45:33 Scanning 96 point from 132
+14.11 12:45:33 Going to coordinates X=-15.118, Y=-36.974
+14.11 12:45:33 Moving is finished
+14.11 12:45:39 Scanning 97 point from 132
+14.11 12:45:39 Going to coordinates X=-15.018, Y=-36.974
+14.11 12:45:39 Moving is finished
+14.11 12:45:45 Scanning 98 point from 132
+14.11 12:45:45 Going to coordinates X=-14.918, Y=-36.974
+14.11 12:45:45 Moving is finished
+14.11 12:45:51 Scanning 99 point from 132
+14.11 12:45:51 Going to coordinates X=-15.918, Y=-36.874
+14.11 12:45:52 Moving is finished
+14.11 12:45:58 Scanning 100 point from 132
+14.11 12:45:58 Going to coordinates X=-15.818, Y=-36.874
+14.11 12:45:58 Moving is finished
+14.11 12:46:03 Scanning 101 point from 132
+14.11 12:46:03 Going to coordinates X=-15.718, Y=-36.874
+14.11 12:46:04 Moving is finished
+14.11 12:46:09 Scanning 102 point from 132
+14.11 12:46:09 Going to coordinates X=-15.618, Y=-36.874
+14.11 12:46:10 Moving is finished
+14.11 12:46:15 Scanning 103 point from 132
+14.11 12:46:15 Going to coordinates X=-15.518, Y=-36.874
+14.11 12:46:16 Moving is finished
+14.11 12:46:21 Scanning 104 point from 132
+14.11 12:46:21 Going to coordinates X=-15.418, Y=-36.874
+14.11 12:46:22 Moving is finished
+14.11 12:46:27 Scanning 105 point from 132
+14.11 12:46:27 Going to coordinates X=-15.318, Y=-36.874
+14.11 12:46:27 Moving is finished
+14.11 12:46:33 Scanning 106 point from 132
+14.11 12:46:33 Going to coordinates X=-15.218, Y=-36.874
+14.11 12:46:33 Moving is finished
+14.11 12:46:39 Scanning 107 point from 132
+14.11 12:46:39 Going to coordinates X=-15.118, Y=-36.874
+14.11 12:46:39 Moving is finished
+14.11 12:46:45 Scanning 108 point from 132
+14.11 12:46:45 Going to coordinates X=-15.018, Y=-36.874
+14.11 12:46:45 Moving is finished
+14.11 12:46:51 Scanning 109 point from 132
+14.11 12:46:51 Going to coordinates X=-14.918, Y=-36.874
+14.11 12:46:51 Moving is finished
+14.11 12:46:57 Scanning 110 point from 132
+14.11 12:46:57 Going to coordinates X=-15.918, Y=-36.774
+14.11 12:46:57 Moving is finished
+14.11 12:47:03 Scanning 111 point from 132
+14.11 12:47:03 Going to coordinates X=-15.818, Y=-36.774
+14.11 12:47:03 Moving is finished
+14.11 12:47:09 Scanning 112 point from 132
+14.11 12:47:09 Going to coordinates X=-15.718, Y=-36.774
+14.11 12:47:09 Moving is finished
+14.11 12:47:15 Scanning 113 point from 132
+14.11 12:47:15 Going to coordinates X=-15.618, Y=-36.774
+14.11 12:47:15 Moving is finished
+14.11 12:47:21 Scanning 114 point from 132
+14.11 12:47:21 Going to coordinates X=-15.518, Y=-36.774
+14.11 12:47:21 Moving is finished
+14.11 12:47:27 Scanning 115 point from 132
+14.11 12:47:27 Going to coordinates X=-15.418, Y=-36.774
+14.11 12:47:27 Moving is finished
+14.11 12:47:33 Scanning 116 point from 132
+14.11 12:47:33 Going to coordinates X=-15.318, Y=-36.774
+14.11 12:47:33 Moving is finished
+14.11 12:47:38 Scanning 117 point from 132
+14.11 12:47:38 Going to coordinates X=-15.218, Y=-36.774
+14.11 12:47:39 Moving is finished
+14.11 12:47:44 Scanning 118 point from 132
+14.11 12:47:44 Going to coordinates X=-15.118, Y=-36.774
+14.11 12:47:45 Moving is finished
+14.11 12:47:50 Scanning 119 point from 132
+14.11 12:47:50 Going to coordinates X=-15.018, Y=-36.774
+14.11 12:47:51 Moving is finished
+14.11 12:47:56 Scanning 120 point from 132
+14.11 12:47:56 Going to coordinates X=-14.918, Y=-36.774
+14.11 12:47:57 Moving is finished
+14.11 12:48:02 Scanning 121 point from 132
+14.11 12:48:02 Going to coordinates X=-15.918, Y=-36.674
+14.11 12:48:03 Moving is finished
+14.11 12:48:08 Scanning 122 point from 132
+14.11 12:48:08 Going to coordinates X=-15.818, Y=-36.674
+14.11 12:48:09 Moving is finished
+14.11 12:48:14 Scanning 123 point from 132
+14.11 12:48:14 Going to coordinates X=-15.718, Y=-36.674
+14.11 12:48:15 Moving is finished
+14.11 12:48:20 Scanning 124 point from 132
+14.11 12:48:20 Going to coordinates X=-15.618, Y=-36.674
+14.11 12:48:21 Moving is finished
+14.11 12:48:26 Scanning 125 point from 132
+14.11 12:48:26 Going to coordinates X=-15.518, Y=-36.674
+14.11 12:48:27 Moving is finished
+14.11 12:48:32 Scanning 126 point from 132
+14.11 12:48:32 Going to coordinates X=-15.418, Y=-36.674
+14.11 12:48:32 Moving is finished
+14.11 12:48:38 Scanning 127 point from 132
+14.11 12:48:38 Going to coordinates X=-15.318, Y=-36.674
+14.11 12:48:38 Moving is finished
+14.11 12:48:44 Scanning 128 point from 132
+14.11 12:48:44 Going to coordinates X=-15.218, Y=-36.674
+14.11 12:48:44 Moving is finished
+14.11 12:48:50 Scanning 129 point from 132
+14.11 12:48:50 Going to coordinates X=-15.118, Y=-36.674
+14.11 12:48:50 Moving is finished
+14.11 12:48:56 Scanning 130 point from 132
+14.11 12:48:56 Going to coordinates X=-15.018, Y=-36.674
+14.11 12:48:56 Moving is finished
+14.11 12:49:02 Scanning 131 point from 132
+14.11 12:49:02 Going to coordinates X=-14.918, Y=-36.674
+14.11 12:49:02 Moving is finished

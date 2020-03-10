@@ -1,0 +1,127 @@
+25.02 07:44:08 Initializing grbl...
+25.02 07:44:08 Got the response: b''
+25.02 07:45:55 Row 0: 25.02 07:45:55 Map: x1: -9.885, y1: -39.795, x2: -11.029, y2: -38.338, xres: 0.100, yres: 0.100, fname: gluc-0.007-2
+25.02 07:45:55 Scanning 0 point from 208
+25.02 07:45:55 Going to coordinates X=-11.029, Y=-39.795
+25.02 07:45:55 Moving is finished
+25.02 07:48:04 Scanning 1 point from 208
+25.02 07:48:04 Going to coordinates X=-10.929, Y=-39.795
+25.02 07:48:05 Moving is finished
+25.02 07:50:13 Scanning 2 point from 208
+25.02 07:50:13 Going to coordinates X=-10.829, Y=-39.795
+25.02 07:50:13 Moving is finished
+25.02 07:52:21 Scanning 3 point from 208
+25.02 07:52:21 Going to coordinates X=-10.729, Y=-39.795
+25.02 07:52:22 Moving is finished
+25.02 07:54:30 Scanning 4 point from 208
+25.02 07:54:30 Going to coordinates X=-10.629, Y=-39.795
+25.02 07:54:30 Moving is finished
+25.02 07:56:38 Scanning 5 point from 208
+25.02 07:56:38 Going to coordinates X=-10.529, Y=-39.795
+25.02 07:56:38 Moving is finished
+25.02 07:58:47 Scanning 6 point from 208
+25.02 07:58:47 Going to coordinates X=-10.429, Y=-39.795
+25.02 07:58:47 Moving is finished
+25.02 08:00:55 Scanning 7 point from 208
+25.02 08:00:55 Going to coordinates X=-10.329, Y=-39.795
+25.02 08:00:55 Moving is finished
+25.02 08:03:03 Scanning 8 point from 208
+25.02 08:03:03 Going to coordinates X=-10.229, Y=-39.795
+25.02 08:03:03 Moving is finished
+25.02 08:05:12 Scanning 9 point from 208
+25.02 08:05:12 Going to coordinates X=-10.129, Y=-39.795
+25.02 08:05:12 Moving is finished
+25.02 08:07:20 Scanning 10 point from 208
+25.02 08:07:20 Going to coordinates X=-10.029, Y=-39.795
+25.02 08:07:21 Moving is finished
+25.02 08:09:29 Scanning 11 point from 208
+25.02 08:09:29 Going to coordinates X=-9.929, Y=-39.795
+25.02 08:09:29 Moving is finished
+25.02 08:11:37 Scanning 12 point from 208
+25.02 08:11:37 Going to coordinates X=-9.829, Y=-39.795
+25.02 08:11:37 Moving is finished
+25.02 08:13:45 Scanning 13 point from 208
+25.02 08:13:45 Going to coordinates X=-11.029, Y=-39.695
+25.02 08:13:46 Moving is finished
+25.02 08:15:54 Scanning 14 point from 208
+25.02 08:15:54 Going to coordinates X=-10.929, Y=-39.695
+25.02 08:15:54 Moving is finished
+25.02 08:18:02 Scanning 15 point from 208
+25.02 08:18:02 Going to coordinates X=-10.829, Y=-39.695
+25.02 08:18:02 Moving is finished
+25.02 08:20:11 Scanning 16 point from 208
+25.02 08:20:11 Going to coordinates X=-10.729, Y=-39.695
+25.02 08:20:11 Moving is finished
+25.02 08:22:19 Scanning 17 point from 208
+25.02 08:22:19 Going to coordinates X=-10.629, Y=-39.695
+25.02 08:22:19 Moving is finished
+25.02 08:24:28 Scanning 18 point from 208
+25.02 08:24:28 Going to coordinates X=-10.529, Y=-39.695
+25.02 08:24:28 Moving is finished
+25.02 08:26:36 Scanning 19 point from 208
+25.02 08:26:36 Going to coordinates X=-10.429, Y=-39.695
+25.02 08:26:36 Moving is finished
+25.02 08:28:44 Scanning 20 point from 208
+25.02 08:28:44 Going to coordinates X=-10.329, Y=-39.695
+25.02 08:28:45 Moving is finished
+25.02 08:30:53 Scanning 21 point from 208
+25.02 08:30:53 Going to coordinates X=-10.229, Y=-39.695
+25.02 08:30:54 Moving is finished
+25.02 08:33:02 Scanning 22 point from 208
+25.02 08:33:02 Going to coordinates X=-10.129, Y=-39.695
+25.02 08:33:02 Moving is finished
+25.02 08:35:10 Scanning 23 point from 208
+25.02 08:35:10 Going to coordinates X=-10.029, Y=-39.695
+25.02 08:35:11 Moving is finished
+25.02 08:37:19 Scanning 24 point from 208
+25.02 08:37:19 Going to coordinates X=-9.929, Y=-39.695
+25.02 08:37:19 Moving is finished
+25.02 08:39:28 Scanning 25 point from 208
+25.02 08:39:28 Going to coordinates X=-9.829, Y=-39.695
+25.02 08:39:28 Moving is finished
+25.02 08:41:37 Scanning 26 point from 208
+25.02 08:41:37 Going to coordinates X=-11.029, Y=-39.595
+25.02 08:41:37 Moving is finished
+25.02 08:43:46 Scanning 27 point from 208
+25.02 08:43:46 Going to coordinates X=-10.929, Y=-39.595
+25.02 08:43:46 Moving is finished
+25.02 08:45:55 Scanning 28 point from 208
+25.02 08:45:55 Going to coordinates X=-10.829, Y=-39.595
+25.02 08:45:55 Moving is finished
+25.02 08:48:03 Scanning 29 point from 208
+25.02 08:48:03 Going to coordinates X=-10.729, Y=-39.595
+25.02 08:48:03 Moving is finished
+25.02 08:50:11 Scanning 30 point from 208
+25.02 08:50:11 Going to coordinates X=-10.629, Y=-39.595
+25.02 08:50:12 Moving is finished
+25.02 08:52:20 Scanning 31 point from 208
+25.02 08:52:20 Going to coordinates X=-10.529, Y=-39.595
+25.02 08:52:20 Moving is finished
+25.02 08:54:28 Scanning 32 point from 208
+25.02 08:54:28 Going to coordinates X=-10.429, Y=-39.595
+25.02 08:54:28 Moving is finished
+25.02 08:56:36 Scanning 33 point from 208
+25.02 08:56:36 Going to coordinates X=-10.329, Y=-39.595
+25.02 08:56:36 Moving is finished
+25.02 08:58:44 Scanning 34 point from 208
+25.02 08:58:44 Going to coordinates X=-10.229, Y=-39.595
+25.02 08:58:45 Moving is finished
+25.02 09:00:53 Scanning 35 point from 208
+25.02 09:00:53 Going to coordinates X=-10.129, Y=-39.595
+25.02 09:00:53 Moving is finished
+25.02 09:03:01 Scanning 36 point from 208
+25.02 09:03:01 Going to coordinates X=-10.029, Y=-39.595
+25.02 09:03:01 Moving is finished
+25.02 09:05:09 Scanning 37 point from 208
+25.02 09:05:09 Going to coordinates X=-9.929, Y=-39.595
+25.02 09:05:09 Moving is finished
+25.02 09:07:18 Scanning 38 point from 208
+25.02 09:07:18 Going to coordinates X=-9.829, Y=-39.595
+25.02 09:07:18 Moving is finished
+25.02 09:09:26 Scanning 39 point from 208
+25.02 09:09:26 Going to coordinates X=-11.029, Y=-39.495
+25.02 09:09:27 Moving is finished
+25.02 09:11:35 Scanning 40 point from 208
+25.02 09:11:35 Going to coordinates X=-10.929, Y=-39.495
+25.02 09:11:35 Moving is finished
+25.02 09:13:30 Stopped!

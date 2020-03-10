@@ -1,0 +1,32 @@
+23.12 12:15:25 Initializing grbl...
+23.12 12:15:25 Got the response: b''
+23.12 12:15:42      fun: 122
+ message: 'Solution found.'
+    nfev: 13
+  status: 0
+ success: True
+       x: 0.7290115833458076
+23.12 12:15:53      fun: 231
+ message: 'Solution found.'
+    nfev: 12
+  status: 0
+ success: True
+       x: 0.5084971874737118
+23.12 12:16:04      fun: 164
+ message: 'Solution found.'
+    nfev: 14
+  status: 0
+ success: True
+       x: 1.9875775199394328
+23.12 12:16:12      fun: 165
+ message: 'Solution found.'
+    nfev: 14
+  status: 0
+ success: True
+       x: 1.993595716352569
+23.12 12:16:30      fun: 122
+ message: 'Solution found.'
+    nfev: 17
+  status: 0
+ success: True
+       x: 2.442174780411188

@@ -1,0 +1,633 @@
+29.08 17:27:05 Initializing grbl...
+29.08 17:27:05 Got the response: b''
+29.08 17:30:26 Row 0: 29.08 17:30:26 Map: x1: -10.918, y1: -37.046, x2: -11.197, y2: -37.005, xres: 0.010, yres: 0.010, fname: M1-9 newoo
+29.08 17:30:26 Scanning 0 point from 174
+29.08 17:30:26 Going to coordinates X=-11.197, Y=-37.046
+29.08 17:30:26 Moving is finished
+29.08 17:31:30 Scanning 1 point from 174
+29.08 17:31:30 Going to coordinates X=-11.187, Y=-37.046
+29.08 17:31:31 Moving is finished
+
+29.08 17:31:33 Scanning 2 point from 174
+29.08 17:31:33 Going to coordinates X=-11.177, Y=-37.046
+29.08 17:31:33 Moving is finished
+
+29.08 17:31:36 Scanning 3 point from 174
+29.08 17:31:36 Going to coordinates X=-11.167, Y=-37.046
+29.08 17:31:37 Moving is finished
+
+29.08 17:31:39 Scanning 4 point from 174
+29.08 17:31:39 Going to coordinates X=-11.157, Y=-37.046
+29.08 17:31:39 Moving is finished
+
+29.08 17:31:42 Scanning 5 point from 174
+29.08 17:31:42 Going to coordinates X=-11.147, Y=-37.046
+29.08 17:31:42 Moving is finished
+
+29.08 17:31:45 Scanning 6 point from 174
+29.08 17:31:45 Going to coordinates X=-11.137, Y=-37.046
+29.08 17:31:45 Moving is finished
+
+29.08 17:31:47 Scanning 7 point from 174
+29.08 17:31:47 Going to coordinates X=-11.127, Y=-37.046
+29.08 17:31:48 Moving is finished
+
+29.08 17:31:50 Scanning 8 point from 174
+29.08 17:31:50 Going to coordinates X=-11.117, Y=-37.046
+29.08 17:31:50 Moving is finished
+
+29.08 17:31:53 Scanning 9 point from 174
+29.08 17:31:53 Going to coordinates X=-11.107, Y=-37.046
+29.08 17:31:53 Moving is finished
+
+29.08 17:31:55 Scanning 10 point from 174
+29.08 17:31:55 Going to coordinates X=-11.097, Y=-37.046
+29.08 17:31:56 Moving is finished
+
+29.08 17:31:58 Scanning 11 point from 174
+29.08 17:31:58 Going to coordinates X=-11.087, Y=-37.046
+29.08 17:31:59 Moving is finished
+
+29.08 17:32:01 Scanning 12 point from 174
+29.08 17:32:01 Going to coordinates X=-11.077, Y=-37.046
+29.08 17:32:01 Moving is finished
+
+29.08 17:32:03 Scanning 13 point from 174
+29.08 17:32:03 Going to coordinates X=-11.067, Y=-37.046
+29.08 17:32:04 Moving is finished
+
+29.08 17:32:06 Scanning 14 point from 174
+29.08 17:32:06 Going to coordinates X=-11.057, Y=-37.046
+29.08 17:32:07 Moving is finished
+
+29.08 17:32:09 Scanning 15 point from 174
+29.08 17:32:09 Going to coordinates X=-11.047, Y=-37.046
+29.08 17:32:09 Moving is finished
+
+29.08 17:32:12 Scanning 16 point from 174
+29.08 17:32:12 Going to coordinates X=-11.037, Y=-37.046
+29.08 17:32:12 Moving is finished
+
+29.08 17:32:15 Scanning 17 point from 174
+29.08 17:32:15 Going to coordinates X=-11.027, Y=-37.046
+29.08 17:32:15 Moving is finished
+
+29.08 17:32:17 Scanning 18 point from 174
+29.08 17:32:17 Going to coordinates X=-11.017, Y=-37.046
+29.08 17:32:17 Moving is finished
+
+29.08 17:32:20 Scanning 19 point from 174
+29.08 17:32:20 Going to coordinates X=-11.007, Y=-37.046
+29.08 17:32:20 Moving is finished
+
+29.08 17:32:23 Scanning 20 point from 174
+29.08 17:32:23 Going to coordinates X=-10.997, Y=-37.046
+29.08 17:32:23 Moving is finished
+
+29.08 17:32:25 Scanning 21 point from 174
+29.08 17:32:25 Going to coordinates X=-10.987, Y=-37.046
+29.08 17:32:25 Moving is finished
+
+29.08 17:32:28 Scanning 22 point from 174
+29.08 17:32:28 Going to coordinates X=-10.977, Y=-37.046
+29.08 17:32:28 Moving is finished
+
+29.08 17:32:31 Scanning 23 point from 174
+29.08 17:32:31 Going to coordinates X=-10.967, Y=-37.046
+29.08 17:32:31 Moving is finished
+
+29.08 17:32:33 Scanning 24 point from 174
+29.08 17:32:33 Going to coordinates X=-10.957, Y=-37.046
+29.08 17:32:33 Moving is finished
+
+29.08 17:32:36 Scanning 25 point from 174
+29.08 17:32:36 Going to coordinates X=-10.947, Y=-37.046
+29.08 17:32:36 Moving is finished
+
+29.08 17:32:39 Scanning 26 point from 174
+29.08 17:32:39 Going to coordinates X=-10.937, Y=-37.046
+29.08 17:32:39 Moving is finished
+
+29.08 17:32:42 Scanning 27 point from 174
+29.08 17:32:42 Going to coordinates X=-10.927, Y=-37.046
+29.08 17:32:42 Moving is finished
+
+29.08 17:32:44 Scanning 28 point from 174
+29.08 17:32:44 Going to coordinates X=-10.917, Y=-37.046
+29.08 17:32:44 Moving is finished
+
+29.08 17:32:47 Scanning 29 point from 174
+29.08 17:32:47 Going to coordinates X=-11.197, Y=-37.036
+29.08 17:32:47 Moving is finished
+
+29.08 17:32:50 Scanning 30 point from 174
+29.08 17:32:50 Going to coordinates X=-11.187, Y=-37.036
+29.08 17:32:50 Moving is finished
+
+29.08 17:32:53 Scanning 31 point from 174
+29.08 17:32:53 Going to coordinates X=-11.177, Y=-37.036
+29.08 17:32:53 Moving is finished
+
+29.08 17:32:55 Scanning 32 point from 174
+29.08 17:32:55 Going to coordinates X=-11.167, Y=-37.036
+29.08 17:32:56 Moving is finished
+
+29.08 17:32:58 Scanning 33 point from 174
+29.08 17:32:58 Going to coordinates X=-11.157, Y=-37.036
+29.08 17:32:58 Moving is finished
+
+29.08 17:33:00 Scanning 34 point from 174
+29.08 17:33:00 Going to coordinates X=-11.147, Y=-37.036
+29.08 17:33:01 Moving is finished
+
+29.08 17:33:03 Scanning 35 point from 174
+29.08 17:33:03 Going to coordinates X=-11.137, Y=-37.036
+29.08 17:33:03 Moving is finished
+
+29.08 17:33:06 Scanning 36 point from 174
+29.08 17:33:06 Going to coordinates X=-11.127, Y=-37.036
+29.08 17:33:06 Moving is finished
+
+29.08 17:33:08 Scanning 37 point from 174
+29.08 17:33:08 Going to coordinates X=-11.117, Y=-37.036
+29.08 17:33:09 Moving is finished
+
+29.08 17:33:11 Scanning 38 point from 174
+29.08 17:33:11 Going to coordinates X=-11.107, Y=-37.036
+29.08 17:33:11 Moving is finished
+
+29.08 17:33:14 Scanning 39 point from 174
+29.08 17:33:14 Going to coordinates X=-11.097, Y=-37.036
+29.08 17:33:14 Moving is finished
+
+29.08 17:33:17 Scanning 40 point from 174
+29.08 17:33:17 Going to coordinates X=-11.087, Y=-37.036
+29.08 17:33:17 Moving is finished
+
+29.08 17:33:20 Scanning 41 point from 174
+29.08 17:33:20 Going to coordinates X=-11.077, Y=-37.036
+29.08 17:33:20 Moving is finished
+
+29.08 17:33:23 Scanning 42 point from 174
+29.08 17:33:23 Going to coordinates X=-11.067, Y=-37.036
+29.08 17:33:23 Moving is finished
+
+29.08 17:33:25 Scanning 43 point from 174
+29.08 17:33:25 Going to coordinates X=-11.057, Y=-37.036
+29.08 17:33:25 Moving is finished
+
+29.08 17:33:28 Scanning 44 point from 174
+29.08 17:33:28 Going to coordinates X=-11.047, Y=-37.036
+29.08 17:33:28 Moving is finished
+
+29.08 17:33:31 Scanning 45 point from 174
+29.08 17:33:31 Going to coordinates X=-11.037, Y=-37.036
+29.08 17:33:31 Moving is finished
+
+29.08 17:33:34 Scanning 46 point from 174
+29.08 17:33:34 Going to coordinates X=-11.027, Y=-37.036
+29.08 17:33:34 Moving is finished
+
+29.08 17:33:37 Scanning 47 point from 174
+29.08 17:33:37 Going to coordinates X=-11.017, Y=-37.036
+29.08 17:33:37 Moving is finished
+
+29.08 17:33:39 Scanning 48 point from 174
+29.08 17:33:39 Going to coordinates X=-11.007, Y=-37.036
+29.08 17:33:40 Moving is finished
+
+29.08 17:33:42 Scanning 49 point from 174
+29.08 17:33:42 Going to coordinates X=-10.997, Y=-37.036
+29.08 17:33:42 Moving is finished
+
+29.08 17:33:45 Scanning 50 point from 174
+29.08 17:33:45 Going to coordinates X=-10.987, Y=-37.036
+29.08 17:33:45 Moving is finished
+
+29.08 17:33:48 Scanning 51 point from 174
+29.08 17:33:48 Going to coordinates X=-10.977, Y=-37.036
+29.08 17:33:48 Moving is finished
+
+29.08 17:33:51 Scanning 52 point from 174
+29.08 17:33:51 Going to coordinates X=-10.967, Y=-37.036
+29.08 17:33:51 Moving is finished
+
+29.08 17:33:53 Scanning 53 point from 174
+29.08 17:33:53 Going to coordinates X=-10.957, Y=-37.036
+29.08 17:33:54 Moving is finished
+
+29.08 17:33:56 Scanning 54 point from 174
+29.08 17:33:56 Going to coordinates X=-10.947, Y=-37.036
+29.08 17:33:56 Moving is finished
+
+29.08 17:33:59 Scanning 55 point from 174
+29.08 17:33:59 Going to coordinates X=-10.937, Y=-37.036
+29.08 17:33:59 Moving is finished
+
+29.08 17:34:02 Scanning 56 point from 174
+29.08 17:34:02 Going to coordinates X=-10.927, Y=-37.036
+29.08 17:34:02 Moving is finished
+
+29.08 17:34:04 Scanning 57 point from 174
+29.08 17:34:04 Going to coordinates X=-10.917, Y=-37.036
+29.08 17:34:04 Moving is finished
+
+29.08 17:34:07 Scanning 58 point from 174
+29.08 17:34:07 Going to coordinates X=-11.197, Y=-37.026
+29.08 17:34:08 Moving is finished
+
+29.08 17:34:10 Scanning 59 point from 174
+29.08 17:34:10 Going to coordinates X=-11.187, Y=-37.026
+29.08 17:34:11 Moving is finished
+
+29.08 17:34:13 Scanning 60 point from 174
+29.08 17:34:13 Going to coordinates X=-11.177, Y=-37.026
+29.08 17:34:13 Moving is finished
+
+29.08 17:34:16 Scanning 61 point from 174
+29.08 17:34:16 Going to coordinates X=-11.167, Y=-37.026
+29.08 17:34:16 Moving is finished
+
+29.08 17:34:19 Scanning 62 point from 174
+29.08 17:34:19 Going to coordinates X=-11.157, Y=-37.026
+29.08 17:34:19 Moving is finished
+
+29.08 17:34:22 Scanning 63 point from 174
+29.08 17:34:22 Going to coordinates X=-11.147, Y=-37.026
+29.08 17:34:22 Moving is finished
+
+29.08 17:34:25 Scanning 64 point from 174
+29.08 17:34:25 Going to coordinates X=-11.137, Y=-37.026
+29.08 17:34:25 Moving is finished
+
+29.08 17:34:28 Scanning 65 point from 174
+29.08 17:34:28 Going to coordinates X=-11.127, Y=-37.026
+29.08 17:34:28 Moving is finished
+
+29.08 17:34:31 Scanning 66 point from 174
+29.08 17:34:31 Going to coordinates X=-11.117, Y=-37.026
+29.08 17:34:31 Moving is finished
+
+29.08 17:34:33 Scanning 67 point from 174
+29.08 17:34:33 Going to coordinates X=-11.107, Y=-37.026
+29.08 17:34:34 Moving is finished
+
+29.08 17:34:36 Scanning 68 point from 174
+29.08 17:34:36 Going to coordinates X=-11.097, Y=-37.026
+29.08 17:34:36 Moving is finished
+
+29.08 17:34:39 Scanning 69 point from 174
+29.08 17:34:39 Going to coordinates X=-11.087, Y=-37.026
+29.08 17:34:39 Moving is finished
+
+29.08 17:34:42 Scanning 70 point from 174
+29.08 17:34:42 Going to coordinates X=-11.077, Y=-37.026
+29.08 17:34:42 Moving is finished
+
+29.08 17:34:45 Scanning 71 point from 174
+29.08 17:34:45 Going to coordinates X=-11.067, Y=-37.026
+29.08 17:34:45 Moving is finished
+29.08 17:35:49 Scanning 72 point from 174
+29.08 17:35:49 Going to coordinates X=-11.057, Y=-37.026
+29.08 17:35:49 Moving is finished
+29.08 17:36:54 Scanning 73 point from 174
+29.08 17:36:54 Going to coordinates X=-11.047, Y=-37.026
+29.08 17:36:54 Moving is finished
+29.08 17:37:58 Scanning 74 point from 174
+29.08 17:37:58 Going to coordinates X=-11.037, Y=-37.026
+29.08 17:37:58 Moving is finished
+29.08 17:39:03 Scanning 75 point from 174
+29.08 17:39:03 Going to coordinates X=-11.027, Y=-37.026
+29.08 17:39:03 Moving is finished
+29.08 17:40:07 Scanning 76 point from 174
+29.08 17:40:07 Going to coordinates X=-11.017, Y=-37.026
+29.08 17:40:07 Moving is finished
+29.08 17:41:12 Scanning 77 point from 174
+29.08 17:41:12 Going to coordinates X=-11.007, Y=-37.026
+29.08 17:41:12 Moving is finished
+29.08 17:42:16 Scanning 78 point from 174
+29.08 17:42:16 Going to coordinates X=-10.997, Y=-37.026
+29.08 17:42:17 Moving is finished
+29.08 17:43:06 Stopped!
+29.08 17:44:26 Can't send the command to GRBL
+29.08 17:44:26 Write timeout29.08 17:44:26 Write timeout
+
+29.08 18:03:09 Can't send the command to GRBL
+29.08 18:03:09 Write timeout29.08 18:03:09 Write timeout
+
+29.08 18:03:29 Can't send the command to GRBL
+29.08 18:03:29 Write timeout29.08 18:03:29 Write timeout
+
+29.08 18:03:58 Can't send the command to GRBL
+29.08 18:03:58 Write timeout29.08 18:03:58 Write timeout
+
+29.08 18:04:15 Write timeout29.08 18:04:15 Can't send the command to GRBL
+
+29.08 18:04:25 Can't send the command to GRBL
+29.08 18:04:25 Write timeout29.08 18:04:25 Write timeout
+
+29.08 18:04:49 Write timeout29.08 18:04:49 Can't send the command to GRBL
+29.08 18:26:49 Row 0: 29.08 18:26:49 Map: x1: -10.918, y1: -37.046, x2: -11.197, y2: -37.005, xres: 0.010, yres: 0.010, fname: M1-9 newoo
+29.08 18:26:49 Scanning 0 point from 174
+29.08 18:26:49 Going to coordinates X=-11.197, Y=-37.046
+29.08 18:26:50 Moving is finished
+29.08 18:27:55 Scanning 1 point from 174
+29.08 18:27:55 Going to coordinates X=-11.187, Y=-37.046
+29.08 18:27:55 Moving is finished
+29.08 18:28:02 Scanning 2 point from 174
+29.08 18:28:02 Paused
+29.08 18:28:25 Going to coordinates X=-11.177, Y=-37.046
+29.08 18:28:25 Moving is finished
+29.08 18:29:29 Scanning 3 point from 174
+29.08 18:29:29 Going to coordinates X=-11.167, Y=-37.046
+29.08 18:29:29 Moving is finished
+29.08 18:30:34 Scanning 4 point from 174
+29.08 18:30:34 Going to coordinates X=-11.157, Y=-37.046
+29.08 18:30:35 Moving is finished
+29.08 18:31:39 Scanning 5 point from 174
+29.08 18:31:39 Going to coordinates X=-11.147, Y=-37.046
+29.08 18:31:39 Moving is finished
+29.08 18:32:44 Scanning 6 point from 174
+29.08 18:32:44 Going to coordinates X=-11.137, Y=-37.046
+29.08 18:32:44 Moving is finished
+29.08 18:33:48 Scanning 7 point from 174
+29.08 18:33:48 Going to coordinates X=-11.127, Y=-37.046
+29.08 18:33:48 Moving is finished
+29.08 18:34:53 Scanning 8 point from 174
+29.08 18:34:53 Going to coordinates X=-11.117, Y=-37.046
+29.08 18:34:53 Moving is finished
+29.08 18:35:57 Scanning 9 point from 174
+29.08 18:35:57 Going to coordinates X=-11.107, Y=-37.046
+29.08 18:35:58 Moving is finished
+29.08 18:37:02 Scanning 10 point from 174
+29.08 18:37:02 Going to coordinates X=-11.097, Y=-37.046
+29.08 18:37:02 Moving is finished
+29.08 18:38:07 Scanning 11 point from 174
+29.08 18:38:07 Going to coordinates X=-11.087, Y=-37.046
+29.08 18:38:07 Moving is finished
+29.08 18:39:12 Scanning 12 point from 174
+29.08 18:39:12 Going to coordinates X=-11.077, Y=-37.046
+29.08 18:39:12 Moving is finished
+29.08 18:40:17 Scanning 13 point from 174
+29.08 18:40:17 Going to coordinates X=-11.067, Y=-37.046
+29.08 18:40:17 Moving is finished
+29.08 18:41:21 Scanning 14 point from 174
+29.08 18:41:21 Going to coordinates X=-11.057, Y=-37.046
+29.08 18:41:21 Moving is finished
+29.08 18:42:26 Scanning 15 point from 174
+29.08 18:42:26 Going to coordinates X=-11.047, Y=-37.046
+29.08 18:42:26 Moving is finished
+29.08 18:43:30 Scanning 16 point from 174
+29.08 18:43:30 Going to coordinates X=-11.037, Y=-37.046
+29.08 18:43:31 Moving is finished
+29.08 18:43:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+29.08 18:44:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+29.08 18:44:04 Scanning 17 point from 174
+29.08 18:44:04 Going to coordinates X=-11.027, Y=-37.046
+29.08 18:44:04 Moving is finished
+29.08 18:44:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+29.08 18:44:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+29.08 18:44:16 Scanning 18 point from 174
+29.08 18:44:16 Going to coordinates X=-11.017, Y=-37.046
+29.08 18:44:16 Moving is finished
+29.08 18:44:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+29.08 18:44:29 Scanning 19 point from 174
+29.08 18:44:29 Going to coordinates X=-11.007, Y=-37.046
+29.08 18:44:30 Moving is finished
+29.08 18:44:35 Scanning 20 point from 174
+29.08 18:44:35 Going to coordinates X=-10.997, Y=-37.046
+29.08 18:44:35 Moving is finished
+
+29.08 18:44:39 Scanning 21 point from 174
+29.08 18:44:39 Going to coordinates X=-10.987, Y=-37.046
+29.08 18:44:39 Moving is finished
+
+29.08 18:44:41 Scanning 22 point from 174
+29.08 18:44:41 Going to coordinates X=-10.977, Y=-37.046
+29.08 18:44:41 Moving is finished
+
+29.08 18:44:44 Scanning 23 point from 174
+29.08 18:44:44 Going to coordinates X=-10.967, Y=-37.046
+29.08 18:44:44 Moving is finished
+
+29.08 18:44:46 Scanning 24 point from 174
+29.08 18:44:46 Paused
+29.08 18:44:51 Going to coordinates X=-10.957, Y=-37.046
+29.08 18:44:51 Moving is finished
+29.08 18:45:56 Scanning 25 point from 174
+29.08 18:45:56 Going to coordinates X=-10.947, Y=-37.046
+29.08 18:45:56 Moving is finished
+29.08 18:47:00 Scanning 26 point from 174
+29.08 18:47:00 Going to coordinates X=-10.937, Y=-37.046
+29.08 18:47:00 Moving is finished
+29.08 18:48:05 Scanning 27 point from 174
+29.08 18:48:05 Going to coordinates X=-10.927, Y=-37.046
+29.08 18:48:05 Moving is finished
+29.08 18:49:10 Scanning 28 point from 174
+29.08 18:49:10 Going to coordinates X=-10.917, Y=-37.046
+29.08 18:49:10 Moving is finished
+29.08 18:50:15 Scanning 29 point from 174
+29.08 18:50:15 Going to coordinates X=-11.197, Y=-37.036
+29.08 18:50:15 Moving is finished
+29.08 18:51:21 Scanning 30 point from 174
+29.08 18:51:21 Going to coordinates X=-11.187, Y=-37.036
+29.08 18:51:21 Moving is finished
+29.08 18:52:26 Scanning 31 point from 174
+29.08 18:52:26 Going to coordinates X=-11.177, Y=-37.036
+29.08 18:52:26 Moving is finished
+29.08 18:53:31 Scanning 32 point from 174
+29.08 18:53:31 Going to coordinates X=-11.167, Y=-37.036
+29.08 18:53:31 Moving is finished
+29.08 18:54:36 Scanning 33 point from 174
+29.08 18:54:36 Going to coordinates X=-11.157, Y=-37.036
+29.08 18:54:36 Moving is finished
+29.08 18:55:41 Scanning 34 point from 174
+29.08 18:55:41 Going to coordinates X=-11.147, Y=-37.036
+29.08 18:55:41 Moving is finished
+29.08 18:56:46 Scanning 35 point from 174
+29.08 18:56:46 Going to coordinates X=-11.137, Y=-37.036
+29.08 18:56:46 Moving is finished
+29.08 18:57:50 Scanning 36 point from 174
+29.08 18:57:50 Going to coordinates X=-11.127, Y=-37.036
+29.08 18:57:51 Moving is finished
+29.08 18:58:55 Scanning 37 point from 174
+29.08 18:58:55 Going to coordinates X=-11.117, Y=-37.036
+29.08 18:58:55 Moving is finished
+29.08 19:00:00 Scanning 38 point from 174
+29.08 19:00:00 Going to coordinates X=-11.107, Y=-37.036
+29.08 19:00:00 Moving is finished
+29.08 19:01:05 Scanning 39 point from 174
+29.08 19:01:05 Going to coordinates X=-11.097, Y=-37.036
+29.08 19:01:05 Moving is finished
+29.08 19:02:09 Scanning 40 point from 174
+29.08 19:02:09 Going to coordinates X=-11.087, Y=-37.036
+29.08 19:02:09 Moving is finished
+29.08 19:03:14 Scanning 41 point from 174
+29.08 19:03:14 Going to coordinates X=-11.077, Y=-37.036
+29.08 19:03:14 Moving is finished
+29.08 19:04:19 Scanning 42 point from 174
+29.08 19:04:19 Going to coordinates X=-11.067, Y=-37.036
+29.08 19:04:19 Moving is finished
+29.08 19:05:24 Scanning 43 point from 174
+29.08 19:05:24 Going to coordinates X=-11.057, Y=-37.036
+29.08 19:05:24 Moving is finished
+29.08 19:06:28 Scanning 44 point from 174
+29.08 19:06:28 Going to coordinates X=-11.047, Y=-37.036
+29.08 19:06:28 Moving is finished
+29.08 19:07:33 Scanning 45 point from 174
+29.08 19:07:33 Going to coordinates X=-11.037, Y=-37.036
+29.08 19:07:33 Moving is finished
+29.08 19:08:37 Scanning 46 point from 174
+29.08 19:08:37 Going to coordinates X=-11.027, Y=-37.036
+29.08 19:08:37 Moving is finished
+29.08 19:09:42 Scanning 47 point from 174
+29.08 19:09:42 Going to coordinates X=-11.017, Y=-37.036
+29.08 19:09:42 Moving is finished
+29.08 19:10:46 Scanning 48 point from 174
+29.08 19:10:46 Going to coordinates X=-11.007, Y=-37.036
+29.08 19:10:47 Moving is finished
+29.08 19:11:51 Scanning 49 point from 174
+29.08 19:11:51 Going to coordinates X=-10.997, Y=-37.036
+29.08 19:11:51 Moving is finished
+29.08 19:12:55 Scanning 50 point from 174
+29.08 19:12:55 Going to coordinates X=-10.987, Y=-37.036
+29.08 19:12:56 Moving is finished
+29.08 19:14:00 Scanning 51 point from 174
+29.08 19:14:00 Going to coordinates X=-10.977, Y=-37.036
+29.08 19:14:01 Moving is finished
+29.08 19:15:05 Scanning 52 point from 174
+29.08 19:15:05 Going to coordinates X=-10.967, Y=-37.036
+29.08 19:15:05 Moving is finished
+29.08 19:16:09 Scanning 53 point from 174
+29.08 19:16:09 Going to coordinates X=-10.957, Y=-37.036
+29.08 19:16:10 Moving is finished
+29.08 19:17:14 Scanning 54 point from 174
+29.08 19:17:14 Going to coordinates X=-10.947, Y=-37.036
+29.08 19:17:14 Moving is finished
+29.08 19:18:18 Scanning 55 point from 174
+29.08 19:18:18 Going to coordinates X=-10.937, Y=-37.036
+29.08 19:18:18 Moving is finished
+29.08 19:19:23 Scanning 56 point from 174
+29.08 19:19:23 Going to coordinates X=-10.927, Y=-37.036
+29.08 19:19:23 Moving is finished
+29.08 19:20:28 Scanning 57 point from 174
+29.08 19:20:28 Going to coordinates X=-10.917, Y=-37.036
+29.08 19:20:28 Moving is finished
+29.08 19:21:33 Scanning 58 point from 174
+29.08 19:21:33 Going to coordinates X=-11.197, Y=-37.026
+29.08 19:21:33 Moving is finished
+29.08 19:22:37 Scanning 59 point from 174
+29.08 19:22:37 Going to coordinates X=-11.187, Y=-37.026
+29.08 19:22:37 Moving is finished
+29.08 19:23:42 Scanning 60 point from 174
+29.08 19:23:42 Going to coordinates X=-11.177, Y=-37.026
+29.08 19:23:42 Moving is finished
+29.08 19:24:47 Scanning 61 point from 174
+29.08 19:24:47 Going to coordinates X=-11.167, Y=-37.026
+29.08 19:24:47 Moving is finished
+29.08 19:25:51 Scanning 62 point from 174
+29.08 19:25:51 Going to coordinates X=-11.157, Y=-37.026
+29.08 19:25:52 Moving is finished
+29.08 19:26:56 Scanning 63 point from 174
+29.08 19:26:56 Going to coordinates X=-11.147, Y=-37.026
+29.08 19:26:56 Moving is finished
+29.08 19:28:00 Scanning 64 point from 174
+29.08 19:28:00 Going to coordinates X=-11.137, Y=-37.026
+29.08 19:28:01 Moving is finished
+29.08 19:29:05 Scanning 65 point from 174
+29.08 19:29:05 Going to coordinates X=-11.127, Y=-37.026
+29.08 19:29:05 Moving is finished
+29.08 19:30:10 Scanning 66 point from 174
+29.08 19:30:10 Going to coordinates X=-11.117, Y=-37.026
+29.08 19:30:10 Moving is finished
+29.08 19:31:15 Scanning 67 point from 174
+29.08 19:31:15 Going to coordinates X=-11.107, Y=-37.026
+29.08 19:31:15 Moving is finished
+29.08 19:32:19 Scanning 68 point from 174
+29.08 19:32:19 Going to coordinates X=-11.097, Y=-37.026
+29.08 19:32:19 Moving is finished
+29.08 19:33:24 Scanning 69 point from 174
+29.08 19:33:24 Going to coordinates X=-11.087, Y=-37.026
+29.08 19:33:24 Moving is finished
+29.08 19:34:29 Scanning 70 point from 174
+29.08 19:34:29 Going to coordinates X=-11.077, Y=-37.026
+29.08 19:34:29 Moving is finished
+29.08 19:35:33 Scanning 71 point from 174
+29.08 19:35:33 Going to coordinates X=-11.067, Y=-37.026
+29.08 19:35:33 Moving is finished
+29.08 19:36:38 Scanning 72 point from 174
+29.08 19:36:38 Going to coordinates X=-11.057, Y=-37.026
+29.08 19:36:38 Moving is finished
+29.08 19:37:43 Scanning 73 point from 174
+29.08 19:37:43 Going to coordinates X=-11.047, Y=-37.026
+29.08 19:37:43 Moving is finished
+29.08 19:38:48 Scanning 74 point from 174
+29.08 19:38:48 Going to coordinates X=-11.037, Y=-37.026
+29.08 19:38:48 Moving is finished
+29.08 19:39:54 Scanning 75 point from 174
+29.08 19:39:54 Going to coordinates X=-11.027, Y=-37.026
+29.08 19:39:54 Moving is finished
+29.08 19:40:59 Scanning 76 point from 174
+29.08 19:40:59 Going to coordinates X=-11.017, Y=-37.026
+29.08 19:40:59 Moving is finished
+29.08 19:42:03 Scanning 77 point from 174
+29.08 19:42:03 Going to coordinates X=-11.007, Y=-37.026
+29.08 19:42:03 Moving is finished
+29.08 19:43:08 Scanning 78 point from 174
+29.08 19:43:08 Going to coordinates X=-10.997, Y=-37.026
+29.08 19:43:08 Moving is finished
+29.08 19:44:13 Scanning 79 point from 174
+29.08 19:44:13 Going to coordinates X=-10.987, Y=-37.026
+29.08 19:44:13 Moving is finished
+29.08 19:45:19 Scanning 80 point from 174
+29.08 19:45:19 Going to coordinates X=-10.977, Y=-37.026
+29.08 19:45:19 Moving is finished
+29.08 19:46:24 Scanning 81 point from 174
+29.08 19:46:24 Going to coordinates X=-10.967, Y=-37.026
+29.08 19:46:24 Moving is finished
+29.08 19:47:28 Scanning 82 point from 174
+29.08 19:47:28 Going to coordinates X=-10.957, Y=-37.026
+29.08 19:47:28 Moving is finished
+29.08 19:48:33 Scanning 83 point from 174
+29.08 19:48:33 Going to coordinates X=-10.947, Y=-37.026
+29.08 19:48:33 Moving is finished
+29.08 19:49:38 Scanning 84 point from 174
+29.08 19:49:38 Going to coordinates X=-10.937, Y=-37.026
+29.08 19:49:38 Moving is finished
+29.08 19:50:42 Scanning 85 point from 174
+29.08 19:50:42 Going to coordinates X=-10.927, Y=-37.026
+29.08 19:50:42 Moving is finished
+29.08 19:51:47 Scanning 86 point from 174
+29.08 19:51:47 Going to coordinates X=-10.917, Y=-37.026
+29.08 19:51:47 Moving is finished
+29.08 19:52:52 Scanning 87 point from 174
+29.08 19:52:52 Going to coordinates X=-11.197, Y=-37.016
+29.08 19:52:52 Moving is finished
+29.08 19:53:56 Scanning 88 point from 174
+29.08 19:53:56 Going to coordinates X=-11.187, Y=-37.016
+29.08 19:53:57 Moving is finished
+29.08 19:55:01 Scanning 89 point from 174
+29.08 19:55:01 Going to coordinates X=-11.177, Y=-37.016
+29.08 19:55:01 Moving is finished
+29.08 19:56:06 Scanning 90 point from 174
+29.08 19:56:06 Going to coordinates X=-11.167, Y=-37.016
+29.08 19:56:06 Moving is finished
+29.08 19:57:11 Scanning 91 point from 174
+29.08 19:57:11 Going to coordinates X=-11.157, Y=-37.016
+29.08 19:57:11 Moving is finished
+29.08 19:58:16 Scanning 92 point from 174
+29.08 19:58:16 Going to coordinates X=-11.147, Y=-37.016
+29.08 19:58:16 Moving is finished
+29.08 19:59:21 Scanning 93 point from 174
+29.08 19:59:21 Going to coordinates X=-11.137, Y=-37.016
+29.08 19:59:21 Moving is finished
+29.08 20:00:26 Scanning 94 point from 174
+29.08 20:00:26 Going to coordinates X=-11.127, Y=-37.016
+29.08 20:00:26 Moving is finished
+29.08 20:01:30 Scanning 95 point from 174
+29.08 20:01:30 Going to coordinates X=-11.117, Y=-37.016
+29.08 20:01:30 Moving is finished
+29.08 20:02:36 Scanning 96 point from 174
+29.08 20:02:36 Going to coordinates X=-11.107, Y=-37.016
+29.08 20:02:36 Moving is finished
+29.08 20:02:55 Stopped!

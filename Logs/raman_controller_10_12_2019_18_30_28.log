@@ -1,0 +1,2085 @@
+10.12 18:30:55 Initializing grbl...
+10.12 18:30:55 Got the response: b''
+10.12 18:37:34 Row 0: 10.12 18:37:34 Map: x1: -14.0, y1: -41.938, x2: -16.284, y2: -39.467, xres: 0.100, yres: 0.100, fname: DVD-Target-2
+10.12 18:37:34 Scanning 0 point from 624
+10.12 18:37:34 Going to coordinates X=-16.284, Y=-41.938
+10.12 18:37:35 Moving is finished
+10.12 18:39:19 Scanning 1 point from 624
+10.12 18:39:19 Going to coordinates X=-16.184, Y=-41.938
+10.12 18:39:20 Moving is finished
+10.12 18:41:04 Scanning 2 point from 624
+10.12 18:41:04 Going to coordinates X=-16.084, Y=-41.938
+10.12 18:41:04 Moving is finished
+10.12 18:42:49 Scanning 3 point from 624
+10.12 18:42:49 Going to coordinates X=-15.984, Y=-41.938
+10.12 18:42:49 Moving is finished
+10.12 18:44:34 Scanning 4 point from 624
+10.12 18:44:34 Going to coordinates X=-15.884, Y=-41.938
+10.12 18:44:35 Moving is finished
+10.12 18:46:19 Scanning 5 point from 624
+10.12 18:46:19 Going to coordinates X=-15.784, Y=-41.938
+10.12 18:46:19 Moving is finished
+10.12 18:48:04 Scanning 6 point from 624
+10.12 18:48:04 Going to coordinates X=-15.684, Y=-41.938
+10.12 18:48:05 Moving is finished
+10.12 18:49:49 Scanning 7 point from 624
+10.12 18:49:49 Going to coordinates X=-15.584, Y=-41.938
+10.12 18:49:50 Moving is finished
+10.12 18:51:35 Scanning 8 point from 624
+10.12 18:51:35 Going to coordinates X=-15.484, Y=-41.938
+10.12 18:51:35 Moving is finished
+10.12 18:53:20 Scanning 9 point from 624
+10.12 18:53:20 Going to coordinates X=-15.384, Y=-41.938
+10.12 18:53:20 Moving is finished
+10.12 18:55:04 Scanning 10 point from 624
+10.12 18:55:04 Going to coordinates X=-15.284, Y=-41.938
+10.12 18:55:05 Moving is finished
+10.12 18:56:49 Scanning 11 point from 624
+10.12 18:56:49 Going to coordinates X=-15.184, Y=-41.938
+10.12 18:56:50 Moving is finished
+10.12 18:58:34 Scanning 12 point from 624
+10.12 18:58:34 Going to coordinates X=-15.084, Y=-41.938
+10.12 18:58:35 Moving is finished
+10.12 19:00:19 Scanning 13 point from 624
+10.12 19:00:19 Going to coordinates X=-14.984, Y=-41.938
+10.12 19:00:19 Moving is finished
+10.12 19:02:04 Scanning 14 point from 624
+10.12 19:02:04 Going to coordinates X=-14.884, Y=-41.938
+10.12 19:02:04 Moving is finished
+10.12 19:03:49 Scanning 15 point from 624
+10.12 19:03:49 Going to coordinates X=-14.784, Y=-41.938
+10.12 19:03:49 Moving is finished
+10.12 19:05:34 Scanning 16 point from 624
+10.12 19:05:34 Going to coordinates X=-14.684, Y=-41.938
+10.12 19:05:34 Moving is finished
+10.12 19:07:19 Scanning 17 point from 624
+10.12 19:07:19 Going to coordinates X=-14.584, Y=-41.938
+10.12 19:07:19 Moving is finished
+10.12 19:09:04 Scanning 18 point from 624
+10.12 19:09:04 Going to coordinates X=-14.484, Y=-41.938
+10.12 19:09:04 Moving is finished
+10.12 19:10:48 Scanning 19 point from 624
+10.12 19:10:48 Going to coordinates X=-14.384, Y=-41.938
+10.12 19:10:49 Moving is finished
+10.12 19:12:34 Scanning 20 point from 624
+10.12 19:12:34 Going to coordinates X=-14.284, Y=-41.938
+10.12 19:12:34 Moving is finished
+10.12 19:14:19 Scanning 21 point from 624
+10.12 19:14:19 Going to coordinates X=-14.184, Y=-41.938
+10.12 19:14:19 Moving is finished
+10.12 19:16:04 Scanning 22 point from 624
+10.12 19:16:04 Going to coordinates X=-14.084, Y=-41.938
+10.12 19:16:04 Moving is finished
+10.12 19:17:48 Scanning 23 point from 624
+10.12 19:17:48 Going to coordinates X=-13.984, Y=-41.938
+10.12 19:17:49 Moving is finished
+10.12 19:19:33 Scanning 24 point from 624
+10.12 19:19:33 Going to coordinates X=-16.284, Y=-41.838
+10.12 19:19:35 Moving is finished
+10.12 19:21:19 Scanning 25 point from 624
+10.12 19:21:19 Going to coordinates X=-16.184, Y=-41.838
+10.12 19:21:19 Moving is finished
+10.12 19:23:04 Scanning 26 point from 624
+10.12 19:23:04 Going to coordinates X=-16.084, Y=-41.838
+10.12 19:23:05 Moving is finished
+10.12 19:24:49 Scanning 27 point from 624
+10.12 19:24:49 Going to coordinates X=-15.984, Y=-41.838
+10.12 19:24:50 Moving is finished
+10.12 19:26:34 Scanning 28 point from 624
+10.12 19:26:34 Going to coordinates X=-15.884, Y=-41.838
+10.12 19:26:35 Moving is finished
+10.12 19:28:19 Scanning 29 point from 624
+10.12 19:28:19 Going to coordinates X=-15.784, Y=-41.838
+10.12 19:28:19 Moving is finished
+10.12 19:30:04 Scanning 30 point from 624
+10.12 19:30:04 Going to coordinates X=-15.684, Y=-41.838
+10.12 19:30:05 Moving is finished
+10.12 19:31:50 Scanning 31 point from 624
+10.12 19:31:50 Going to coordinates X=-15.584, Y=-41.838
+10.12 19:31:50 Moving is finished
+10.12 19:33:35 Scanning 32 point from 624
+10.12 19:33:35 Going to coordinates X=-15.484, Y=-41.838
+10.12 19:33:35 Moving is finished
+10.12 19:35:20 Scanning 33 point from 624
+10.12 19:35:20 Going to coordinates X=-15.384, Y=-41.838
+10.12 19:35:20 Moving is finished
+10.12 19:37:05 Scanning 34 point from 624
+10.12 19:37:05 Going to coordinates X=-15.284, Y=-41.838
+10.12 19:37:06 Moving is finished
+10.12 19:38:50 Scanning 35 point from 624
+10.12 19:38:50 Going to coordinates X=-15.184, Y=-41.838
+10.12 19:38:51 Moving is finished
+10.12 19:40:35 Scanning 36 point from 624
+10.12 19:40:35 Going to coordinates X=-15.084, Y=-41.838
+10.12 19:40:35 Moving is finished
+10.12 19:42:21 Scanning 37 point from 624
+10.12 19:42:21 Going to coordinates X=-14.984, Y=-41.838
+10.12 19:42:21 Moving is finished
+10.12 19:44:06 Scanning 38 point from 624
+10.12 19:44:06 Going to coordinates X=-14.884, Y=-41.838
+10.12 19:44:06 Moving is finished
+10.12 19:45:51 Scanning 39 point from 624
+10.12 19:45:51 Going to coordinates X=-14.784, Y=-41.838
+10.12 19:45:51 Moving is finished
+10.12 19:47:36 Scanning 40 point from 624
+10.12 19:47:36 Going to coordinates X=-14.684, Y=-41.838
+10.12 19:47:37 Moving is finished
+10.12 19:49:22 Scanning 41 point from 624
+10.12 19:49:22 Going to coordinates X=-14.584, Y=-41.838
+10.12 19:49:22 Moving is finished
+10.12 19:51:06 Scanning 42 point from 624
+10.12 19:51:06 Going to coordinates X=-14.484, Y=-41.838
+10.12 19:51:06 Moving is finished
+10.12 19:52:51 Scanning 43 point from 624
+10.12 19:52:51 Going to coordinates X=-14.384, Y=-41.838
+10.12 19:52:52 Moving is finished
+10.12 19:54:37 Scanning 44 point from 624
+10.12 19:54:37 Going to coordinates X=-14.284, Y=-41.838
+10.12 19:54:37 Moving is finished
+10.12 19:56:22 Scanning 45 point from 624
+10.12 19:56:22 Going to coordinates X=-14.184, Y=-41.838
+10.12 19:56:22 Moving is finished
+10.12 19:58:07 Scanning 46 point from 624
+10.12 19:58:07 Going to coordinates X=-14.084, Y=-41.838
+10.12 19:58:07 Moving is finished
+10.12 19:59:52 Scanning 47 point from 624
+10.12 19:59:52 Going to coordinates X=-13.984, Y=-41.838
+10.12 19:59:52 Moving is finished
+10.12 20:01:37 Scanning 48 point from 624
+10.12 20:01:37 Going to coordinates X=-16.284, Y=-41.738
+10.12 20:01:38 Moving is finished
+10.12 20:03:23 Scanning 49 point from 624
+10.12 20:03:23 Going to coordinates X=-16.184, Y=-41.738
+10.12 20:03:23 Moving is finished
+10.12 20:05:08 Scanning 50 point from 624
+10.12 20:05:08 Going to coordinates X=-16.084, Y=-41.738
+10.12 20:05:08 Moving is finished
+10.12 20:06:53 Scanning 51 point from 624
+10.12 20:06:53 Going to coordinates X=-15.984, Y=-41.738
+10.12 20:06:53 Moving is finished
+10.12 20:08:38 Scanning 52 point from 624
+10.12 20:08:38 Going to coordinates X=-15.884, Y=-41.738
+10.12 20:08:38 Moving is finished
+10.12 20:10:22 Scanning 53 point from 624
+10.12 20:10:22 Going to coordinates X=-15.784, Y=-41.738
+10.12 20:10:23 Moving is finished
+10.12 20:12:07 Scanning 54 point from 624
+10.12 20:12:07 Going to coordinates X=-15.684, Y=-41.738
+10.12 20:12:07 Moving is finished
+10.12 20:13:52 Scanning 55 point from 624
+10.12 20:13:52 Going to coordinates X=-15.584, Y=-41.738
+10.12 20:13:52 Moving is finished
+10.12 20:15:37 Scanning 56 point from 624
+10.12 20:15:37 Going to coordinates X=-15.484, Y=-41.738
+10.12 20:15:38 Moving is finished
+10.12 20:17:23 Scanning 57 point from 624
+10.12 20:17:23 Going to coordinates X=-15.384, Y=-41.738
+10.12 20:17:23 Moving is finished
+10.12 20:19:08 Scanning 58 point from 624
+10.12 20:19:08 Going to coordinates X=-15.284, Y=-41.738
+10.12 20:19:08 Moving is finished
+10.12 20:20:53 Scanning 59 point from 624
+10.12 20:20:53 Going to coordinates X=-15.184, Y=-41.738
+10.12 20:20:53 Moving is finished
+10.12 20:22:38 Scanning 60 point from 624
+10.12 20:22:38 Going to coordinates X=-15.084, Y=-41.738
+10.12 20:22:39 Moving is finished
+10.12 20:24:23 Scanning 61 point from 624
+10.12 20:24:23 Going to coordinates X=-14.984, Y=-41.738
+10.12 20:24:23 Moving is finished
+10.12 20:26:08 Scanning 62 point from 624
+10.12 20:26:08 Going to coordinates X=-14.884, Y=-41.738
+10.12 20:26:08 Moving is finished
+10.12 20:27:53 Scanning 63 point from 624
+10.12 20:27:53 Going to coordinates X=-14.784, Y=-41.738
+10.12 20:27:53 Moving is finished
+10.12 20:29:38 Scanning 64 point from 624
+10.12 20:29:38 Going to coordinates X=-14.684, Y=-41.738
+10.12 20:29:38 Moving is finished
+10.12 20:31:23 Scanning 65 point from 624
+10.12 20:31:23 Going to coordinates X=-14.584, Y=-41.738
+10.12 20:31:23 Moving is finished
+10.12 20:33:08 Scanning 66 point from 624
+10.12 20:33:08 Going to coordinates X=-14.484, Y=-41.738
+10.12 20:33:08 Moving is finished
+10.12 20:34:52 Scanning 67 point from 624
+10.12 20:34:52 Going to coordinates X=-14.384, Y=-41.738
+10.12 20:34:53 Moving is finished
+10.12 20:36:37 Scanning 68 point from 624
+10.12 20:36:37 Going to coordinates X=-14.284, Y=-41.738
+10.12 20:36:37 Moving is finished
+10.12 20:38:22 Scanning 69 point from 624
+10.12 20:38:22 Going to coordinates X=-14.184, Y=-41.738
+10.12 20:38:23 Moving is finished
+10.12 20:40:08 Scanning 70 point from 624
+10.12 20:40:08 Going to coordinates X=-14.084, Y=-41.738
+10.12 20:40:08 Moving is finished
+10.12 20:41:53 Scanning 71 point from 624
+10.12 20:41:53 Going to coordinates X=-13.984, Y=-41.738
+10.12 20:41:53 Moving is finished
+10.12 20:43:38 Scanning 72 point from 624
+10.12 20:43:38 Going to coordinates X=-16.284, Y=-41.638
+10.12 20:43:39 Moving is finished
+10.12 20:45:23 Scanning 73 point from 624
+10.12 20:45:23 Going to coordinates X=-16.184, Y=-41.638
+10.12 20:45:24 Moving is finished
+10.12 20:47:08 Scanning 74 point from 624
+10.12 20:47:08 Going to coordinates X=-16.084, Y=-41.638
+10.12 20:47:08 Moving is finished
+10.12 20:48:54 Scanning 75 point from 624
+10.12 20:48:54 Going to coordinates X=-15.984, Y=-41.638
+10.12 20:48:54 Moving is finished
+10.12 20:50:39 Scanning 76 point from 624
+10.12 20:50:39 Going to coordinates X=-15.884, Y=-41.638
+10.12 20:50:39 Moving is finished
+10.12 20:52:23 Scanning 77 point from 624
+10.12 20:52:23 Going to coordinates X=-15.784, Y=-41.638
+10.12 20:52:24 Moving is finished
+10.12 20:54:08 Scanning 78 point from 624
+10.12 20:54:08 Going to coordinates X=-15.684, Y=-41.638
+10.12 20:54:09 Moving is finished
+10.12 20:55:53 Scanning 79 point from 624
+10.12 20:55:53 Going to coordinates X=-15.584, Y=-41.638
+10.12 20:55:54 Moving is finished
+10.12 20:57:38 Scanning 80 point from 624
+10.12 20:57:38 Going to coordinates X=-15.484, Y=-41.638
+10.12 20:57:38 Moving is finished
+10.12 20:59:23 Scanning 81 point from 624
+10.12 20:59:23 Going to coordinates X=-15.384, Y=-41.638
+10.12 20:59:23 Moving is finished
+10.12 21:01:07 Scanning 82 point from 624
+10.12 21:01:07 Going to coordinates X=-15.284, Y=-41.638
+10.12 21:01:08 Moving is finished
+10.12 21:02:52 Scanning 83 point from 624
+10.12 21:02:52 Going to coordinates X=-15.184, Y=-41.638
+10.12 21:02:53 Moving is finished
+10.12 21:04:37 Scanning 84 point from 624
+10.12 21:04:37 Going to coordinates X=-15.084, Y=-41.638
+10.12 21:04:37 Moving is finished
+10.12 21:06:22 Scanning 85 point from 624
+10.12 21:06:22 Going to coordinates X=-14.984, Y=-41.638
+10.12 21:06:22 Moving is finished
+10.12 21:08:08 Scanning 86 point from 624
+10.12 21:08:08 Going to coordinates X=-14.884, Y=-41.638
+10.12 21:08:08 Moving is finished
+10.12 21:09:53 Scanning 87 point from 624
+10.12 21:09:53 Going to coordinates X=-14.784, Y=-41.638
+10.12 21:09:54 Moving is finished
+10.12 21:11:39 Scanning 88 point from 624
+10.12 21:11:39 Going to coordinates X=-14.684, Y=-41.638
+10.12 21:11:39 Moving is finished
+10.12 21:13:23 Scanning 89 point from 624
+10.12 21:13:23 Going to coordinates X=-14.584, Y=-41.638
+10.12 21:13:24 Moving is finished
+10.12 21:15:08 Scanning 90 point from 624
+10.12 21:15:08 Going to coordinates X=-14.484, Y=-41.638
+10.12 21:15:09 Moving is finished
+10.12 21:16:54 Scanning 91 point from 624
+10.12 21:16:54 Going to coordinates X=-14.384, Y=-41.638
+10.12 21:16:54 Moving is finished
+10.12 21:18:39 Scanning 92 point from 624
+10.12 21:18:39 Going to coordinates X=-14.284, Y=-41.638
+10.12 21:18:39 Moving is finished
+10.12 21:20:24 Scanning 93 point from 624
+10.12 21:20:24 Going to coordinates X=-14.184, Y=-41.638
+10.12 21:20:24 Moving is finished
+10.12 21:22:09 Scanning 94 point from 624
+10.12 21:22:09 Going to coordinates X=-14.084, Y=-41.638
+10.12 21:22:09 Moving is finished
+10.12 21:23:54 Scanning 95 point from 624
+10.12 21:23:54 Going to coordinates X=-13.984, Y=-41.638
+10.12 21:23:54 Moving is finished
+10.12 21:25:39 Scanning 96 point from 624
+10.12 21:25:39 Going to coordinates X=-16.284, Y=-41.538
+10.12 21:25:40 Moving is finished
+10.12 21:27:25 Scanning 97 point from 624
+10.12 21:27:25 Going to coordinates X=-16.184, Y=-41.538
+10.12 21:27:26 Moving is finished
+10.12 21:29:11 Scanning 98 point from 624
+10.12 21:29:11 Going to coordinates X=-16.084, Y=-41.538
+10.12 21:29:11 Moving is finished
+10.12 21:30:56 Scanning 99 point from 624
+10.12 21:30:56 Going to coordinates X=-15.984, Y=-41.538
+10.12 21:30:56 Moving is finished
+10.12 21:32:41 Scanning 100 point from 624
+10.12 21:32:41 Going to coordinates X=-15.884, Y=-41.538
+10.12 21:32:41 Moving is finished
+10.12 21:34:26 Scanning 101 point from 624
+10.12 21:34:26 Going to coordinates X=-15.784, Y=-41.538
+10.12 21:34:26 Moving is finished
+10.12 21:36:11 Scanning 102 point from 624
+10.12 21:36:11 Going to coordinates X=-15.684, Y=-41.538
+10.12 21:36:11 Moving is finished
+10.12 21:37:56 Scanning 103 point from 624
+10.12 21:37:56 Going to coordinates X=-15.584, Y=-41.538
+10.12 21:37:57 Moving is finished
+10.12 21:39:42 Scanning 104 point from 624
+10.12 21:39:42 Going to coordinates X=-15.484, Y=-41.538
+10.12 21:39:42 Moving is finished
+10.12 21:41:27 Scanning 105 point from 624
+10.12 21:41:27 Going to coordinates X=-15.384, Y=-41.538
+10.12 21:41:27 Moving is finished
+10.12 21:43:12 Scanning 106 point from 624
+10.12 21:43:12 Going to coordinates X=-15.284, Y=-41.538
+10.12 21:43:12 Moving is finished
+10.12 21:44:57 Scanning 107 point from 624
+10.12 21:44:57 Going to coordinates X=-15.184, Y=-41.538
+10.12 21:44:57 Moving is finished
+10.12 21:46:42 Scanning 108 point from 624
+10.12 21:46:42 Going to coordinates X=-15.084, Y=-41.538
+10.12 21:46:43 Moving is finished
+10.12 21:48:28 Scanning 109 point from 624
+10.12 21:48:28 Going to coordinates X=-14.984, Y=-41.538
+10.12 21:48:28 Moving is finished
+10.12 21:50:12 Scanning 110 point from 624
+10.12 21:50:12 Going to coordinates X=-14.884, Y=-41.538
+10.12 21:50:13 Moving is finished
+10.12 21:51:58 Scanning 111 point from 624
+10.12 21:51:58 Going to coordinates X=-14.784, Y=-41.538
+10.12 21:51:58 Moving is finished
+10.12 21:53:43 Scanning 112 point from 624
+10.12 21:53:43 Going to coordinates X=-14.684, Y=-41.538
+10.12 21:53:43 Moving is finished
+10.12 21:55:28 Scanning 113 point from 624
+10.12 21:55:28 Going to coordinates X=-14.584, Y=-41.538
+10.12 21:55:28 Moving is finished
+10.12 21:57:13 Scanning 114 point from 624
+10.12 21:57:13 Going to coordinates X=-14.484, Y=-41.538
+10.12 21:57:14 Moving is finished
+10.12 21:58:59 Scanning 115 point from 624
+10.12 21:58:59 Going to coordinates X=-14.384, Y=-41.538
+10.12 21:58:59 Moving is finished
+10.12 22:00:44 Scanning 116 point from 624
+10.12 22:00:44 Going to coordinates X=-14.284, Y=-41.538
+10.12 22:00:44 Moving is finished
+10.12 22:02:29 Scanning 117 point from 624
+10.12 22:02:29 Going to coordinates X=-14.184, Y=-41.538
+10.12 22:02:29 Moving is finished
+10.12 22:04:14 Scanning 118 point from 624
+10.12 22:04:14 Going to coordinates X=-14.084, Y=-41.538
+10.12 22:04:14 Moving is finished
+10.12 22:05:58 Scanning 119 point from 624
+10.12 22:05:58 Going to coordinates X=-13.984, Y=-41.538
+10.12 22:05:59 Moving is finished
+10.12 22:07:43 Scanning 120 point from 624
+10.12 22:07:43 Going to coordinates X=-16.284, Y=-41.438
+10.12 22:07:44 Moving is finished
+10.12 22:09:30 Scanning 121 point from 624
+10.12 22:09:30 Going to coordinates X=-16.184, Y=-41.438
+10.12 22:09:30 Moving is finished
+10.12 22:11:15 Scanning 122 point from 624
+10.12 22:11:15 Going to coordinates X=-16.084, Y=-41.438
+10.12 22:11:16 Moving is finished
+10.12 22:13:01 Scanning 123 point from 624
+10.12 22:13:01 Going to coordinates X=-15.984, Y=-41.438
+10.12 22:13:01 Moving is finished
+10.12 22:14:46 Scanning 124 point from 624
+10.12 22:14:46 Going to coordinates X=-15.884, Y=-41.438
+10.12 22:14:46 Moving is finished
+10.12 22:16:31 Scanning 125 point from 624
+10.12 22:16:31 Going to coordinates X=-15.784, Y=-41.438
+10.12 22:16:31 Moving is finished
+10.12 22:18:16 Scanning 126 point from 624
+10.12 22:18:16 Going to coordinates X=-15.684, Y=-41.438
+10.12 22:18:16 Moving is finished
+10.12 22:20:01 Scanning 127 point from 624
+10.12 22:20:01 Going to coordinates X=-15.584, Y=-41.438
+10.12 22:20:01 Moving is finished
+10.12 22:21:46 Scanning 128 point from 624
+10.12 22:21:46 Going to coordinates X=-15.484, Y=-41.438
+10.12 22:21:46 Moving is finished
+10.12 22:23:30 Scanning 129 point from 624
+10.12 22:23:30 Going to coordinates X=-15.384, Y=-41.438
+10.12 22:23:31 Moving is finished
+10.12 22:25:15 Scanning 130 point from 624
+10.12 22:25:15 Going to coordinates X=-15.284, Y=-41.438
+10.12 22:25:15 Moving is finished
+10.12 22:27:00 Scanning 131 point from 624
+10.12 22:27:00 Going to coordinates X=-15.184, Y=-41.438
+10.12 22:27:00 Moving is finished
+10.12 22:28:45 Scanning 132 point from 624
+10.12 22:28:45 Going to coordinates X=-15.084, Y=-41.438
+10.12 22:28:46 Moving is finished
+10.12 22:30:30 Scanning 133 point from 624
+10.12 22:30:30 Going to coordinates X=-14.984, Y=-41.438
+10.12 22:30:30 Moving is finished
+10.12 22:32:15 Scanning 134 point from 624
+10.12 22:32:15 Going to coordinates X=-14.884, Y=-41.438
+10.12 22:32:16 Moving is finished
+10.12 22:34:01 Scanning 135 point from 624
+10.12 22:34:01 Going to coordinates X=-14.784, Y=-41.438
+10.12 22:34:01 Moving is finished
+10.12 22:35:45 Scanning 136 point from 624
+10.12 22:35:45 Going to coordinates X=-14.684, Y=-41.438
+10.12 22:35:46 Moving is finished
+10.12 22:37:31 Scanning 137 point from 624
+10.12 22:37:31 Going to coordinates X=-14.584, Y=-41.438
+10.12 22:37:31 Moving is finished
+10.12 22:39:16 Scanning 138 point from 624
+10.12 22:39:16 Going to coordinates X=-14.484, Y=-41.438
+10.12 22:39:16 Moving is finished
+10.12 22:41:02 Scanning 139 point from 624
+10.12 22:41:02 Going to coordinates X=-14.384, Y=-41.438
+10.12 22:41:02 Moving is finished
+10.12 22:42:46 Scanning 140 point from 624
+10.12 22:42:46 Going to coordinates X=-14.284, Y=-41.438
+10.12 22:42:46 Moving is finished
+10.12 22:44:31 Scanning 141 point from 624
+10.12 22:44:31 Going to coordinates X=-14.184, Y=-41.438
+10.12 22:44:31 Moving is finished
+10.12 22:46:16 Scanning 142 point from 624
+10.12 22:46:16 Going to coordinates X=-14.084, Y=-41.438
+10.12 22:46:16 Moving is finished
+10.12 22:48:00 Scanning 143 point from 624
+10.12 22:48:00 Going to coordinates X=-13.984, Y=-41.438
+10.12 22:48:01 Moving is finished
+10.12 22:49:45 Scanning 144 point from 624
+10.12 22:49:45 Going to coordinates X=-16.284, Y=-41.338
+10.12 22:49:46 Moving is finished
+10.12 22:51:31 Scanning 145 point from 624
+10.12 22:51:31 Going to coordinates X=-16.184, Y=-41.338
+10.12 22:51:31 Moving is finished
+10.12 22:53:16 Scanning 146 point from 624
+10.12 22:53:16 Going to coordinates X=-16.084, Y=-41.338
+10.12 22:53:16 Moving is finished
+10.12 22:55:01 Scanning 147 point from 624
+10.12 22:55:01 Going to coordinates X=-15.984, Y=-41.338
+10.12 22:55:01 Moving is finished
+10.12 22:56:45 Scanning 148 point from 624
+10.12 22:56:45 Going to coordinates X=-15.884, Y=-41.338
+10.12 22:56:46 Moving is finished
+10.12 22:58:31 Scanning 149 point from 624
+10.12 22:58:31 Going to coordinates X=-15.784, Y=-41.338
+10.12 22:58:31 Moving is finished
+10.12 23:00:16 Scanning 150 point from 624
+10.12 23:00:16 Going to coordinates X=-15.684, Y=-41.338
+10.12 23:00:16 Moving is finished
+10.12 23:02:01 Scanning 151 point from 624
+10.12 23:02:01 Going to coordinates X=-15.584, Y=-41.338
+10.12 23:02:01 Moving is finished
+10.12 23:03:46 Scanning 152 point from 624
+10.12 23:03:46 Going to coordinates X=-15.484, Y=-41.338
+10.12 23:03:46 Moving is finished
+10.12 23:05:30 Scanning 153 point from 624
+10.12 23:05:30 Going to coordinates X=-15.384, Y=-41.338
+10.12 23:05:31 Moving is finished
+10.12 23:07:15 Scanning 154 point from 624
+10.12 23:07:15 Going to coordinates X=-15.284, Y=-41.338
+10.12 23:07:16 Moving is finished
+10.12 23:09:00 Scanning 155 point from 624
+10.12 23:09:00 Going to coordinates X=-15.184, Y=-41.338
+10.12 23:09:00 Moving is finished
+10.12 23:10:46 Scanning 156 point from 624
+10.12 23:10:46 Going to coordinates X=-15.084, Y=-41.338
+10.12 23:10:46 Moving is finished
+10.12 23:12:31 Scanning 157 point from 624
+10.12 23:12:31 Going to coordinates X=-14.984, Y=-41.338
+10.12 23:12:31 Moving is finished
+10.12 23:14:16 Scanning 158 point from 624
+10.12 23:14:16 Going to coordinates X=-14.884, Y=-41.338
+10.12 23:14:16 Moving is finished
+10.12 23:16:01 Scanning 159 point from 624
+10.12 23:16:01 Going to coordinates X=-14.784, Y=-41.338
+10.12 23:16:01 Moving is finished
+10.12 23:17:46 Scanning 160 point from 624
+10.12 23:17:46 Going to coordinates X=-14.684, Y=-41.338
+10.12 23:17:46 Moving is finished
+10.12 23:19:30 Scanning 161 point from 624
+10.12 23:19:30 Going to coordinates X=-14.584, Y=-41.338
+10.12 23:19:31 Moving is finished
+10.12 23:21:15 Scanning 162 point from 624
+10.12 23:21:15 Going to coordinates X=-14.484, Y=-41.338
+10.12 23:21:16 Moving is finished
+10.12 23:23:00 Scanning 163 point from 624
+10.12 23:23:00 Going to coordinates X=-14.384, Y=-41.338
+10.12 23:23:01 Moving is finished
+10.12 23:24:46 Scanning 164 point from 624
+10.12 23:24:46 Going to coordinates X=-14.284, Y=-41.338
+10.12 23:24:47 Moving is finished
+10.12 23:26:31 Scanning 165 point from 624
+10.12 23:26:31 Going to coordinates X=-14.184, Y=-41.338
+10.12 23:26:32 Moving is finished
+10.12 23:28:16 Scanning 166 point from 624
+10.12 23:28:16 Going to coordinates X=-14.084, Y=-41.338
+10.12 23:28:16 Moving is finished
+10.12 23:30:01 Scanning 167 point from 624
+10.12 23:30:01 Going to coordinates X=-13.984, Y=-41.338
+10.12 23:30:01 Moving is finished
+10.12 23:31:46 Scanning 168 point from 624
+10.12 23:31:46 Going to coordinates X=-16.284, Y=-41.238
+10.12 23:31:47 Moving is finished
+10.12 23:33:31 Scanning 169 point from 624
+10.12 23:33:31 Going to coordinates X=-16.184, Y=-41.238
+10.12 23:33:31 Moving is finished
+10.12 23:35:16 Scanning 170 point from 624
+10.12 23:35:16 Going to coordinates X=-16.084, Y=-41.238
+10.12 23:35:16 Moving is finished
+10.12 23:37:01 Scanning 171 point from 624
+10.12 23:37:01 Going to coordinates X=-15.984, Y=-41.238
+10.12 23:37:02 Moving is finished
+10.12 23:38:46 Scanning 172 point from 624
+10.12 23:38:46 Going to coordinates X=-15.884, Y=-41.238
+10.12 23:38:47 Moving is finished
+10.12 23:40:31 Scanning 173 point from 624
+10.12 23:40:31 Going to coordinates X=-15.784, Y=-41.238
+10.12 23:40:31 Moving is finished
+10.12 23:42:16 Scanning 174 point from 624
+10.12 23:42:16 Going to coordinates X=-15.684, Y=-41.238
+10.12 23:42:16 Moving is finished
+10.12 23:44:01 Scanning 175 point from 624
+10.12 23:44:01 Going to coordinates X=-15.584, Y=-41.238
+10.12 23:44:01 Moving is finished
+10.12 23:45:45 Scanning 176 point from 624
+10.12 23:45:45 Going to coordinates X=-15.484, Y=-41.238
+10.12 23:45:46 Moving is finished
+10.12 23:47:31 Scanning 177 point from 624
+10.12 23:47:31 Going to coordinates X=-15.384, Y=-41.238
+10.12 23:47:31 Moving is finished
+10.12 23:49:16 Scanning 178 point from 624
+10.12 23:49:16 Going to coordinates X=-15.284, Y=-41.238
+10.12 23:49:16 Moving is finished
+10.12 23:51:01 Scanning 179 point from 624
+10.12 23:51:01 Going to coordinates X=-15.184, Y=-41.238
+10.12 23:51:01 Moving is finished
+10.12 23:52:45 Scanning 180 point from 624
+10.12 23:52:45 Going to coordinates X=-15.084, Y=-41.238
+10.12 23:52:46 Moving is finished
+10.12 23:54:30 Scanning 181 point from 624
+10.12 23:54:30 Going to coordinates X=-14.984, Y=-41.238
+10.12 23:54:31 Moving is finished
+10.12 23:56:15 Scanning 182 point from 624
+10.12 23:56:15 Going to coordinates X=-14.884, Y=-41.238
+10.12 23:56:16 Moving is finished
+10.12 23:58:00 Scanning 183 point from 624
+10.12 23:58:00 Going to coordinates X=-14.784, Y=-41.238
+10.12 23:58:00 Moving is finished
+10.12 23:59:46 Scanning 184 point from 624
+10.12 23:59:46 Going to coordinates X=-14.684, Y=-41.238
+10.12 23:59:46 Moving is finished
+11.12 00:01:30 Scanning 185 point from 624
+11.12 00:01:30 Going to coordinates X=-14.584, Y=-41.238
+11.12 00:01:31 Moving is finished
+11.12 00:03:15 Scanning 186 point from 624
+11.12 00:03:15 Going to coordinates X=-14.484, Y=-41.238
+11.12 00:03:16 Moving is finished
+11.12 00:05:01 Scanning 187 point from 624
+11.12 00:05:01 Going to coordinates X=-14.384, Y=-41.238
+11.12 00:05:01 Moving is finished
+11.12 00:06:46 Scanning 188 point from 624
+11.12 00:06:46 Going to coordinates X=-14.284, Y=-41.238
+11.12 00:06:46 Moving is finished
+11.12 00:08:31 Scanning 189 point from 624
+11.12 00:08:31 Going to coordinates X=-14.184, Y=-41.238
+11.12 00:08:31 Moving is finished
+11.12 00:10:16 Scanning 190 point from 624
+11.12 00:10:16 Going to coordinates X=-14.084, Y=-41.238
+11.12 00:10:16 Moving is finished
+11.12 00:12:01 Scanning 191 point from 624
+11.12 00:12:01 Going to coordinates X=-13.984, Y=-41.238
+11.12 00:12:01 Moving is finished
+11.12 00:13:46 Scanning 192 point from 624
+11.12 00:13:46 Going to coordinates X=-16.284, Y=-41.138
+11.12 00:13:47 Moving is finished
+11.12 00:15:33 Scanning 193 point from 624
+11.12 00:15:33 Going to coordinates X=-16.184, Y=-41.138
+11.12 00:15:33 Moving is finished
+11.12 00:17:17 Scanning 194 point from 624
+11.12 00:17:17 Going to coordinates X=-16.084, Y=-41.138
+11.12 00:17:18 Moving is finished
+11.12 00:19:02 Scanning 195 point from 624
+11.12 00:19:02 Going to coordinates X=-15.984, Y=-41.138
+11.12 00:19:03 Moving is finished
+11.12 00:20:47 Scanning 196 point from 624
+11.12 00:20:47 Going to coordinates X=-15.884, Y=-41.138
+11.12 00:20:47 Moving is finished
+11.12 00:22:32 Scanning 197 point from 624
+11.12 00:22:32 Going to coordinates X=-15.784, Y=-41.138
+11.12 00:22:32 Moving is finished
+11.12 00:24:16 Scanning 198 point from 624
+11.12 00:24:16 Going to coordinates X=-15.684, Y=-41.138
+11.12 00:24:17 Moving is finished
+11.12 00:26:02 Scanning 199 point from 624
+11.12 00:26:02 Going to coordinates X=-15.584, Y=-41.138
+11.12 00:26:02 Moving is finished
+11.12 00:27:47 Scanning 200 point from 624
+11.12 00:27:47 Going to coordinates X=-15.484, Y=-41.138
+11.12 00:27:47 Moving is finished
+11.12 00:29:32 Scanning 201 point from 624
+11.12 00:29:32 Going to coordinates X=-15.384, Y=-41.138
+11.12 00:29:32 Moving is finished
+11.12 00:31:17 Scanning 202 point from 624
+11.12 00:31:17 Going to coordinates X=-15.284, Y=-41.138
+11.12 00:31:17 Moving is finished
+11.12 00:33:02 Scanning 203 point from 624
+11.12 00:33:02 Going to coordinates X=-15.184, Y=-41.138
+11.12 00:33:02 Moving is finished
+11.12 00:34:46 Scanning 204 point from 624
+11.12 00:34:46 Going to coordinates X=-15.084, Y=-41.138
+11.12 00:34:47 Moving is finished
+11.12 00:36:31 Scanning 205 point from 624
+11.12 00:36:31 Going to coordinates X=-14.984, Y=-41.138
+11.12 00:36:32 Moving is finished
+11.12 00:38:16 Scanning 206 point from 624
+11.12 00:38:16 Going to coordinates X=-14.884, Y=-41.138
+11.12 00:38:17 Moving is finished
+11.12 00:40:01 Scanning 207 point from 624
+11.12 00:40:01 Going to coordinates X=-14.784, Y=-41.138
+11.12 00:40:02 Moving is finished
+11.12 00:41:46 Scanning 208 point from 624
+11.12 00:41:46 Going to coordinates X=-14.684, Y=-41.138
+11.12 00:41:47 Moving is finished
+11.12 00:43:31 Scanning 209 point from 624
+11.12 00:43:31 Going to coordinates X=-14.584, Y=-41.138
+11.12 00:43:32 Moving is finished
+11.12 00:45:16 Scanning 210 point from 624
+11.12 00:45:16 Going to coordinates X=-14.484, Y=-41.138
+11.12 00:45:16 Moving is finished
+11.12 00:47:01 Scanning 211 point from 624
+11.12 00:47:01 Going to coordinates X=-14.384, Y=-41.138
+11.12 00:47:01 Moving is finished
+11.12 00:48:46 Scanning 212 point from 624
+11.12 00:48:46 Going to coordinates X=-14.284, Y=-41.138
+11.12 00:48:47 Moving is finished
+11.12 00:50:31 Scanning 213 point from 624
+11.12 00:50:31 Going to coordinates X=-14.184, Y=-41.138
+11.12 00:50:32 Moving is finished
+11.12 00:52:16 Scanning 214 point from 624
+11.12 00:52:16 Going to coordinates X=-14.084, Y=-41.138
+11.12 00:52:17 Moving is finished
+11.12 00:54:02 Scanning 215 point from 624
+11.12 00:54:02 Going to coordinates X=-13.984, Y=-41.138
+11.12 00:54:02 Moving is finished
+11.12 00:55:47 Scanning 216 point from 624
+11.12 00:55:47 Going to coordinates X=-16.284, Y=-41.038
+11.12 00:55:48 Moving is finished
+11.12 00:57:33 Scanning 217 point from 624
+11.12 00:57:33 Going to coordinates X=-16.184, Y=-41.038
+11.12 00:57:33 Moving is finished
+11.12 00:59:17 Scanning 218 point from 624
+11.12 00:59:17 Going to coordinates X=-16.084, Y=-41.038
+11.12 00:59:18 Moving is finished
+11.12 01:01:02 Scanning 219 point from 624
+11.12 01:01:02 Going to coordinates X=-15.984, Y=-41.038
+11.12 01:01:03 Moving is finished
+11.12 01:02:48 Scanning 220 point from 624
+11.12 01:02:48 Going to coordinates X=-15.884, Y=-41.038
+11.12 01:02:48 Moving is finished
+11.12 01:04:33 Scanning 221 point from 624
+11.12 01:04:33 Going to coordinates X=-15.784, Y=-41.038
+11.12 01:04:33 Moving is finished
+11.12 01:06:17 Scanning 222 point from 624
+11.12 01:06:17 Going to coordinates X=-15.684, Y=-41.038
+11.12 01:06:18 Moving is finished
+11.12 01:08:02 Scanning 223 point from 624
+11.12 01:08:02 Going to coordinates X=-15.584, Y=-41.038
+11.12 01:08:03 Moving is finished
+11.12 01:09:48 Scanning 224 point from 624
+11.12 01:09:48 Going to coordinates X=-15.484, Y=-41.038
+11.12 01:09:48 Moving is finished
+11.12 01:11:32 Scanning 225 point from 624
+11.12 01:11:32 Going to coordinates X=-15.384, Y=-41.038
+11.12 01:11:33 Moving is finished
+11.12 01:13:17 Scanning 226 point from 624
+11.12 01:13:17 Going to coordinates X=-15.284, Y=-41.038
+11.12 01:13:18 Moving is finished
+11.12 01:15:02 Scanning 227 point from 624
+11.12 01:15:02 Going to coordinates X=-15.184, Y=-41.038
+11.12 01:15:02 Moving is finished
+11.12 01:16:46 Scanning 228 point from 624
+11.12 01:16:46 Going to coordinates X=-15.084, Y=-41.038
+11.12 01:16:47 Moving is finished
+11.12 01:18:31 Scanning 229 point from 624
+11.12 01:18:31 Going to coordinates X=-14.984, Y=-41.038
+11.12 01:18:32 Moving is finished
+11.12 01:20:17 Scanning 230 point from 624
+11.12 01:20:17 Going to coordinates X=-14.884, Y=-41.038
+11.12 01:20:17 Moving is finished
+11.12 01:22:02 Scanning 231 point from 624
+11.12 01:22:02 Going to coordinates X=-14.784, Y=-41.038
+11.12 01:22:02 Moving is finished
+11.12 01:23:47 Scanning 232 point from 624
+11.12 01:23:47 Going to coordinates X=-14.684, Y=-41.038
+11.12 01:23:47 Moving is finished
+11.12 01:25:32 Scanning 233 point from 624
+11.12 01:25:32 Going to coordinates X=-14.584, Y=-41.038
+11.12 01:25:32 Moving is finished
+11.12 01:27:17 Scanning 234 point from 624
+11.12 01:27:17 Going to coordinates X=-14.484, Y=-41.038
+11.12 01:27:17 Moving is finished
+11.12 01:29:02 Scanning 235 point from 624
+11.12 01:29:02 Going to coordinates X=-14.384, Y=-41.038
+11.12 01:29:02 Moving is finished
+11.12 01:30:48 Scanning 236 point from 624
+11.12 01:30:48 Going to coordinates X=-14.284, Y=-41.038
+11.12 01:30:48 Moving is finished
+11.12 01:32:33 Scanning 237 point from 624
+11.12 01:32:33 Going to coordinates X=-14.184, Y=-41.038
+11.12 01:32:33 Moving is finished
+11.12 01:34:17 Scanning 238 point from 624
+11.12 01:34:17 Going to coordinates X=-14.084, Y=-41.038
+11.12 01:34:18 Moving is finished
+11.12 01:36:02 Scanning 239 point from 624
+11.12 01:36:02 Going to coordinates X=-13.984, Y=-41.038
+11.12 01:36:02 Moving is finished
+11.12 01:37:47 Scanning 240 point from 624
+11.12 01:37:47 Going to coordinates X=-16.284, Y=-40.938
+11.12 01:37:48 Moving is finished
+11.12 01:39:33 Scanning 241 point from 624
+11.12 01:39:33 Going to coordinates X=-16.184, Y=-40.938
+11.12 01:39:33 Moving is finished
+11.12 01:41:18 Scanning 242 point from 624
+11.12 01:41:18 Going to coordinates X=-16.084, Y=-40.938
+11.12 01:41:18 Moving is finished
+11.12 01:43:03 Scanning 243 point from 624
+11.12 01:43:03 Going to coordinates X=-15.984, Y=-40.938
+11.12 01:43:03 Moving is finished
+11.12 01:44:48 Scanning 244 point from 624
+11.12 01:44:48 Going to coordinates X=-15.884, Y=-40.938
+11.12 01:44:48 Moving is finished
+11.12 01:46:32 Scanning 245 point from 624
+11.12 01:46:32 Going to coordinates X=-15.784, Y=-40.938
+11.12 01:46:33 Moving is finished
+11.12 01:48:17 Scanning 246 point from 624
+11.12 01:48:17 Going to coordinates X=-15.684, Y=-40.938
+11.12 01:48:18 Moving is finished
+11.12 01:50:03 Scanning 247 point from 624
+11.12 01:50:03 Going to coordinates X=-15.584, Y=-40.938
+11.12 01:50:03 Moving is finished
+11.12 01:51:48 Scanning 248 point from 624
+11.12 01:51:48 Going to coordinates X=-15.484, Y=-40.938
+11.12 01:51:49 Moving is finished
+11.12 01:53:33 Scanning 249 point from 624
+11.12 01:53:33 Going to coordinates X=-15.384, Y=-40.938
+11.12 01:53:33 Moving is finished
+11.12 01:55:18 Scanning 250 point from 624
+11.12 01:55:18 Going to coordinates X=-15.284, Y=-40.938
+11.12 01:55:19 Moving is finished
+11.12 01:57:03 Scanning 251 point from 624
+11.12 01:57:03 Going to coordinates X=-15.184, Y=-40.938
+11.12 01:57:03 Moving is finished
+11.12 01:58:48 Scanning 252 point from 624
+11.12 01:58:48 Going to coordinates X=-15.084, Y=-40.938
+11.12 01:58:48 Moving is finished
+11.12 02:00:33 Scanning 253 point from 624
+11.12 02:00:33 Going to coordinates X=-14.984, Y=-40.938
+11.12 02:00:33 Moving is finished
+11.12 02:02:18 Scanning 254 point from 624
+11.12 02:02:18 Going to coordinates X=-14.884, Y=-40.938
+11.12 02:02:18 Moving is finished
+11.12 02:04:03 Scanning 255 point from 624
+11.12 02:04:03 Going to coordinates X=-14.784, Y=-40.938
+11.12 02:04:03 Moving is finished
+11.12 02:05:49 Scanning 256 point from 624
+11.12 02:05:49 Going to coordinates X=-14.684, Y=-40.938
+11.12 02:05:49 Moving is finished
+11.12 02:07:34 Scanning 257 point from 624
+11.12 02:07:34 Going to coordinates X=-14.584, Y=-40.938
+11.12 02:07:34 Moving is finished
+11.12 02:09:19 Scanning 258 point from 624
+11.12 02:09:19 Going to coordinates X=-14.484, Y=-40.938
+11.12 02:09:19 Moving is finished
+11.12 02:11:04 Scanning 259 point from 624
+11.12 02:11:04 Going to coordinates X=-14.384, Y=-40.938
+11.12 02:11:04 Moving is finished
+11.12 02:12:49 Scanning 260 point from 624
+11.12 02:12:49 Going to coordinates X=-14.284, Y=-40.938
+11.12 02:12:49 Moving is finished
+11.12 02:14:34 Scanning 261 point from 624
+11.12 02:14:34 Going to coordinates X=-14.184, Y=-40.938
+11.12 02:14:34 Moving is finished
+11.12 02:16:19 Scanning 262 point from 624
+11.12 02:16:19 Going to coordinates X=-14.084, Y=-40.938
+11.12 02:16:19 Moving is finished
+11.12 02:18:04 Scanning 263 point from 624
+11.12 02:18:04 Going to coordinates X=-13.984, Y=-40.938
+11.12 02:18:05 Moving is finished
+11.12 02:19:50 Scanning 264 point from 624
+11.12 02:19:50 Going to coordinates X=-16.284, Y=-40.838
+11.12 02:19:51 Moving is finished
+11.12 02:21:35 Scanning 265 point from 624
+11.12 02:21:35 Going to coordinates X=-16.184, Y=-40.838
+11.12 02:21:35 Moving is finished
+11.12 02:23:20 Scanning 266 point from 624
+11.12 02:23:20 Going to coordinates X=-16.084, Y=-40.838
+11.12 02:23:20 Moving is finished
+11.12 02:25:05 Scanning 267 point from 624
+11.12 02:25:05 Going to coordinates X=-15.984, Y=-40.838
+11.12 02:25:05 Moving is finished
+11.12 02:26:50 Scanning 268 point from 624
+11.12 02:26:50 Going to coordinates X=-15.884, Y=-40.838
+11.12 02:26:50 Moving is finished
+11.12 02:28:35 Scanning 269 point from 624
+11.12 02:28:35 Going to coordinates X=-15.784, Y=-40.838
+11.12 02:28:36 Moving is finished
+11.12 02:30:20 Scanning 270 point from 624
+11.12 02:30:20 Going to coordinates X=-15.684, Y=-40.838
+11.12 02:30:21 Moving is finished
+11.12 02:32:05 Scanning 271 point from 624
+11.12 02:32:05 Going to coordinates X=-15.584, Y=-40.838
+11.12 02:32:06 Moving is finished
+11.12 02:33:51 Scanning 272 point from 624
+11.12 02:33:51 Going to coordinates X=-15.484, Y=-40.838
+11.12 02:33:51 Moving is finished
+11.12 02:35:36 Scanning 273 point from 624
+11.12 02:35:36 Going to coordinates X=-15.384, Y=-40.838
+11.12 02:35:37 Moving is finished
+11.12 02:37:22 Scanning 274 point from 624
+11.12 02:37:22 Going to coordinates X=-15.284, Y=-40.838
+11.12 02:37:22 Moving is finished
+11.12 02:39:07 Scanning 275 point from 624
+11.12 02:39:07 Going to coordinates X=-15.184, Y=-40.838
+11.12 02:39:08 Moving is finished
+11.12 02:40:52 Scanning 276 point from 624
+11.12 02:40:52 Going to coordinates X=-15.084, Y=-40.838
+11.12 02:40:53 Moving is finished
+11.12 02:42:37 Scanning 277 point from 624
+11.12 02:42:37 Going to coordinates X=-14.984, Y=-40.838
+11.12 02:42:37 Moving is finished
+11.12 02:44:22 Scanning 278 point from 624
+11.12 02:44:22 Going to coordinates X=-14.884, Y=-40.838
+11.12 02:44:22 Moving is finished
+11.12 02:46:07 Scanning 279 point from 624
+11.12 02:46:07 Going to coordinates X=-14.784, Y=-40.838
+11.12 02:46:07 Moving is finished
+11.12 02:47:51 Scanning 280 point from 624
+11.12 02:47:51 Going to coordinates X=-14.684, Y=-40.838
+11.12 02:47:52 Moving is finished
+11.12 02:49:37 Scanning 281 point from 624
+11.12 02:49:37 Going to coordinates X=-14.584, Y=-40.838
+11.12 02:49:37 Moving is finished
+11.12 02:51:21 Scanning 282 point from 624
+11.12 02:51:21 Going to coordinates X=-14.484, Y=-40.838
+11.12 02:51:22 Moving is finished
+11.12 02:53:07 Scanning 283 point from 624
+11.12 02:53:07 Going to coordinates X=-14.384, Y=-40.838
+11.12 02:53:07 Moving is finished
+11.12 02:54:52 Scanning 284 point from 624
+11.12 02:54:52 Going to coordinates X=-14.284, Y=-40.838
+11.12 02:54:52 Moving is finished
+11.12 02:56:37 Scanning 285 point from 624
+11.12 02:56:37 Going to coordinates X=-14.184, Y=-40.838
+11.12 02:56:37 Moving is finished
+11.12 02:58:22 Scanning 286 point from 624
+11.12 02:58:22 Going to coordinates X=-14.084, Y=-40.838
+11.12 02:58:22 Moving is finished
+11.12 03:00:07 Scanning 287 point from 624
+11.12 03:00:07 Going to coordinates X=-13.984, Y=-40.838
+11.12 03:00:07 Moving is finished
+11.12 03:01:52 Scanning 288 point from 624
+11.12 03:01:52 Going to coordinates X=-16.284, Y=-40.738
+11.12 03:01:53 Moving is finished
+11.12 03:03:37 Scanning 289 point from 624
+11.12 03:03:37 Going to coordinates X=-16.184, Y=-40.738
+11.12 03:03:37 Moving is finished
+11.12 03:05:22 Scanning 290 point from 624
+11.12 03:05:22 Going to coordinates X=-16.084, Y=-40.738
+11.12 03:05:23 Moving is finished
+11.12 03:07:08 Scanning 291 point from 624
+11.12 03:07:08 Going to coordinates X=-15.984, Y=-40.738
+11.12 03:07:08 Moving is finished
+11.12 03:08:53 Scanning 292 point from 624
+11.12 03:08:53 Going to coordinates X=-15.884, Y=-40.738
+11.12 03:08:53 Moving is finished
+11.12 03:10:37 Scanning 293 point from 624
+11.12 03:10:37 Going to coordinates X=-15.784, Y=-40.738
+11.12 03:10:38 Moving is finished
+11.12 03:12:23 Scanning 294 point from 624
+11.12 03:12:23 Going to coordinates X=-15.684, Y=-40.738
+11.12 03:12:23 Moving is finished
+11.12 03:14:08 Scanning 295 point from 624
+11.12 03:14:08 Going to coordinates X=-15.584, Y=-40.738
+11.12 03:14:08 Moving is finished
+11.12 03:15:53 Scanning 296 point from 624
+11.12 03:15:53 Going to coordinates X=-15.484, Y=-40.738
+11.12 03:15:53 Moving is finished
+11.12 03:17:38 Scanning 297 point from 624
+11.12 03:17:38 Going to coordinates X=-15.384, Y=-40.738
+11.12 03:17:38 Moving is finished
+11.12 03:19:23 Scanning 298 point from 624
+11.12 03:19:23 Going to coordinates X=-15.284, Y=-40.738
+11.12 03:19:23 Moving is finished
+11.12 03:21:08 Scanning 299 point from 624
+11.12 03:21:08 Going to coordinates X=-15.184, Y=-40.738
+11.12 03:21:08 Moving is finished
+11.12 03:22:53 Scanning 300 point from 624
+11.12 03:22:53 Going to coordinates X=-15.084, Y=-40.738
+11.12 03:22:54 Moving is finished
+11.12 03:24:38 Scanning 301 point from 624
+11.12 03:24:38 Going to coordinates X=-14.984, Y=-40.738
+11.12 03:24:38 Moving is finished
+11.12 03:26:23 Scanning 302 point from 624
+11.12 03:26:23 Going to coordinates X=-14.884, Y=-40.738
+11.12 03:26:23 Moving is finished
+11.12 03:28:08 Scanning 303 point from 624
+11.12 03:28:08 Going to coordinates X=-14.784, Y=-40.738
+11.12 03:28:08 Moving is finished
+11.12 03:29:52 Scanning 304 point from 624
+11.12 03:29:52 Going to coordinates X=-14.684, Y=-40.738
+11.12 03:29:53 Moving is finished
+11.12 03:31:37 Scanning 305 point from 624
+11.12 03:31:37 Going to coordinates X=-14.584, Y=-40.738
+11.12 03:31:37 Moving is finished
+11.12 03:33:22 Scanning 306 point from 624
+11.12 03:33:22 Going to coordinates X=-14.484, Y=-40.738
+11.12 03:33:22 Moving is finished
+11.12 03:35:07 Scanning 307 point from 624
+11.12 03:35:07 Going to coordinates X=-14.384, Y=-40.738
+11.12 03:35:07 Moving is finished
+11.12 03:36:53 Scanning 308 point from 624
+11.12 03:36:53 Going to coordinates X=-14.284, Y=-40.738
+11.12 03:36:53 Moving is finished
+11.12 03:38:38 Scanning 309 point from 624
+11.12 03:38:38 Going to coordinates X=-14.184, Y=-40.738
+11.12 03:38:38 Moving is finished
+11.12 03:40:23 Scanning 310 point from 624
+11.12 03:40:23 Going to coordinates X=-14.084, Y=-40.738
+11.12 03:40:23 Moving is finished
+11.12 03:42:08 Scanning 311 point from 624
+11.12 03:42:08 Going to coordinates X=-13.984, Y=-40.738
+11.12 03:42:08 Moving is finished
+11.12 03:43:53 Scanning 312 point from 624
+11.12 03:43:53 Going to coordinates X=-16.284, Y=-40.638
+11.12 03:43:54 Moving is finished
+11.12 03:45:38 Scanning 313 point from 624
+11.12 03:45:38 Going to coordinates X=-16.184, Y=-40.638
+11.12 03:45:39 Moving is finished
+11.12 03:47:23 Scanning 314 point from 624
+11.12 03:47:23 Going to coordinates X=-16.084, Y=-40.638
+11.12 03:47:24 Moving is finished
+11.12 03:49:08 Scanning 315 point from 624
+11.12 03:49:08 Going to coordinates X=-15.984, Y=-40.638
+11.12 03:49:09 Moving is finished
+11.12 03:50:53 Scanning 316 point from 624
+11.12 03:50:53 Going to coordinates X=-15.884, Y=-40.638
+11.12 03:50:53 Moving is finished
+11.12 03:52:38 Scanning 317 point from 624
+11.12 03:52:38 Going to coordinates X=-15.784, Y=-40.638
+11.12 03:52:38 Moving is finished
+11.12 03:54:23 Scanning 318 point from 624
+11.12 03:54:23 Going to coordinates X=-15.684, Y=-40.638
+11.12 03:54:24 Moving is finished
+11.12 03:56:08 Scanning 319 point from 624
+11.12 03:56:08 Going to coordinates X=-15.584, Y=-40.638
+11.12 03:56:08 Moving is finished
+11.12 03:57:54 Scanning 320 point from 624
+11.12 03:57:54 Going to coordinates X=-15.484, Y=-40.638
+11.12 03:57:54 Moving is finished
+11.12 03:59:39 Scanning 321 point from 624
+11.12 03:59:39 Going to coordinates X=-15.384, Y=-40.638
+11.12 03:59:39 Moving is finished
+11.12 04:01:24 Scanning 322 point from 624
+11.12 04:01:24 Going to coordinates X=-15.284, Y=-40.638
+11.12 04:01:24 Moving is finished
+11.12 04:03:09 Scanning 323 point from 624
+11.12 04:03:09 Going to coordinates X=-15.184, Y=-40.638
+11.12 04:03:09 Moving is finished
+11.12 04:04:55 Scanning 324 point from 624
+11.12 04:04:55 Going to coordinates X=-15.084, Y=-40.638
+11.12 04:04:55 Moving is finished
+11.12 04:06:39 Scanning 325 point from 624
+11.12 04:06:39 Going to coordinates X=-14.984, Y=-40.638
+11.12 04:06:40 Moving is finished
+11.12 04:08:24 Scanning 326 point from 624
+11.12 04:08:24 Going to coordinates X=-14.884, Y=-40.638
+11.12 04:08:25 Moving is finished
+11.12 04:10:10 Scanning 327 point from 624
+11.12 04:10:10 Going to coordinates X=-14.784, Y=-40.638
+11.12 04:10:10 Moving is finished
+11.12 04:11:55 Scanning 328 point from 624
+11.12 04:11:55 Going to coordinates X=-14.684, Y=-40.638
+11.12 04:11:55 Moving is finished
+11.12 04:13:40 Scanning 329 point from 624
+11.12 04:13:40 Going to coordinates X=-14.584, Y=-40.638
+11.12 04:13:40 Moving is finished
+11.12 04:15:25 Scanning 330 point from 624
+11.12 04:15:25 Going to coordinates X=-14.484, Y=-40.638
+11.12 04:15:25 Moving is finished
+11.12 04:17:10 Scanning 331 point from 624
+11.12 04:17:10 Going to coordinates X=-14.384, Y=-40.638
+11.12 04:17:10 Moving is finished
+11.12 04:18:55 Scanning 332 point from 624
+11.12 04:18:55 Going to coordinates X=-14.284, Y=-40.638
+11.12 04:18:55 Moving is finished
+11.12 04:20:40 Scanning 333 point from 624
+11.12 04:20:40 Going to coordinates X=-14.184, Y=-40.638
+11.12 04:20:41 Moving is finished
+11.12 04:22:26 Scanning 334 point from 624
+11.12 04:22:26 Going to coordinates X=-14.084, Y=-40.638
+11.12 04:22:26 Moving is finished
+11.12 04:24:11 Scanning 335 point from 624
+11.12 04:24:11 Going to coordinates X=-13.984, Y=-40.638
+11.12 04:24:11 Moving is finished
+11.12 04:25:56 Scanning 336 point from 624
+11.12 04:25:56 Going to coordinates X=-16.284, Y=-40.538
+11.12 04:25:57 Moving is finished
+11.12 04:27:42 Scanning 337 point from 624
+11.12 04:27:42 Going to coordinates X=-16.184, Y=-40.538
+11.12 04:27:42 Moving is finished
+11.12 04:29:27 Scanning 338 point from 624
+11.12 04:29:27 Going to coordinates X=-16.084, Y=-40.538
+11.12 04:29:27 Moving is finished
+11.12 04:31:11 Scanning 339 point from 624
+11.12 04:31:11 Going to coordinates X=-15.984, Y=-40.538
+11.12 04:31:12 Moving is finished
+11.12 04:32:56 Scanning 340 point from 624
+11.12 04:32:56 Going to coordinates X=-15.884, Y=-40.538
+11.12 04:32:56 Moving is finished
+11.12 04:34:41 Scanning 341 point from 624
+11.12 04:34:41 Going to coordinates X=-15.784, Y=-40.538
+11.12 04:34:42 Moving is finished
+11.12 04:36:26 Scanning 342 point from 624
+11.12 04:36:26 Going to coordinates X=-15.684, Y=-40.538
+11.12 04:36:27 Moving is finished
+11.12 04:38:12 Scanning 343 point from 624
+11.12 04:38:12 Going to coordinates X=-15.584, Y=-40.538
+11.12 04:38:12 Moving is finished
+11.12 04:39:58 Scanning 344 point from 624
+11.12 04:39:58 Going to coordinates X=-15.484, Y=-40.538
+11.12 04:39:58 Moving is finished
+11.12 04:41:42 Scanning 345 point from 624
+11.12 04:41:42 Going to coordinates X=-15.384, Y=-40.538
+11.12 04:41:42 Moving is finished
+11.12 04:43:27 Scanning 346 point from 624
+11.12 04:43:27 Going to coordinates X=-15.284, Y=-40.538
+11.12 04:43:28 Moving is finished
+11.12 04:45:13 Scanning 347 point from 624
+11.12 04:45:13 Going to coordinates X=-15.184, Y=-40.538
+11.12 04:45:13 Moving is finished
+11.12 04:46:58 Scanning 348 point from 624
+11.12 04:46:58 Going to coordinates X=-15.084, Y=-40.538
+11.12 04:46:58 Moving is finished
+11.12 04:48:43 Scanning 349 point from 624
+11.12 04:48:43 Going to coordinates X=-14.984, Y=-40.538
+11.12 04:48:43 Moving is finished
+11.12 04:50:28 Scanning 350 point from 624
+11.12 04:50:28 Going to coordinates X=-14.884, Y=-40.538
+11.12 04:50:28 Moving is finished
+11.12 04:52:13 Scanning 351 point from 624
+11.12 04:52:13 Going to coordinates X=-14.784, Y=-40.538
+11.12 04:52:13 Moving is finished
+11.12 04:53:58 Scanning 352 point from 624
+11.12 04:53:58 Going to coordinates X=-14.684, Y=-40.538
+11.12 04:53:59 Moving is finished
+11.12 04:55:43 Scanning 353 point from 624
+11.12 04:55:43 Going to coordinates X=-14.584, Y=-40.538
+11.12 04:55:43 Moving is finished
+11.12 04:57:28 Scanning 354 point from 624
+11.12 04:57:28 Going to coordinates X=-14.484, Y=-40.538
+11.12 04:57:28 Moving is finished
+11.12 04:59:13 Scanning 355 point from 624
+11.12 04:59:13 Going to coordinates X=-14.384, Y=-40.538
+11.12 04:59:14 Moving is finished
+11.12 05:00:59 Scanning 356 point from 624
+11.12 05:00:59 Going to coordinates X=-14.284, Y=-40.538
+11.12 05:00:59 Moving is finished
+11.12 05:02:44 Scanning 357 point from 624
+11.12 05:02:44 Going to coordinates X=-14.184, Y=-40.538
+11.12 05:02:44 Moving is finished
+11.12 05:04:29 Scanning 358 point from 624
+11.12 05:04:29 Going to coordinates X=-14.084, Y=-40.538
+11.12 05:04:29 Moving is finished
+11.12 05:06:14 Scanning 359 point from 624
+11.12 05:06:14 Going to coordinates X=-13.984, Y=-40.538
+11.12 05:06:14 Moving is finished
+11.12 05:07:59 Scanning 360 point from 624
+11.12 05:07:59 Going to coordinates X=-16.284, Y=-40.438
+11.12 05:08:00 Moving is finished
+11.12 05:09:45 Scanning 361 point from 624
+11.12 05:09:45 Going to coordinates X=-16.184, Y=-40.438
+11.12 05:09:45 Moving is finished
+11.12 05:11:29 Scanning 362 point from 624
+11.12 05:11:29 Going to coordinates X=-16.084, Y=-40.438
+11.12 05:11:30 Moving is finished
+11.12 05:13:15 Scanning 363 point from 624
+11.12 05:13:15 Going to coordinates X=-15.984, Y=-40.438
+11.12 05:13:15 Moving is finished
+11.12 05:15:00 Scanning 364 point from 624
+11.12 05:15:00 Going to coordinates X=-15.884, Y=-40.438
+11.12 05:15:00 Moving is finished
+11.12 05:16:45 Scanning 365 point from 624
+11.12 05:16:45 Going to coordinates X=-15.784, Y=-40.438
+11.12 05:16:45 Moving is finished
+11.12 05:18:30 Scanning 366 point from 624
+11.12 05:18:30 Going to coordinates X=-15.684, Y=-40.438
+11.12 05:18:30 Moving is finished
+11.12 05:20:15 Scanning 367 point from 624
+11.12 05:20:15 Going to coordinates X=-15.584, Y=-40.438
+11.12 05:20:15 Moving is finished
+11.12 05:22:00 Scanning 368 point from 624
+11.12 05:22:00 Going to coordinates X=-15.484, Y=-40.438
+11.12 05:22:00 Moving is finished
+11.12 05:23:45 Scanning 369 point from 624
+11.12 05:23:45 Going to coordinates X=-15.384, Y=-40.438
+11.12 05:23:46 Moving is finished
+11.12 05:25:30 Scanning 370 point from 624
+11.12 05:25:30 Going to coordinates X=-15.284, Y=-40.438
+11.12 05:25:31 Moving is finished
+11.12 05:27:15 Scanning 371 point from 624
+11.12 05:27:15 Going to coordinates X=-15.184, Y=-40.438
+11.12 05:27:15 Moving is finished
+11.12 05:29:00 Scanning 372 point from 624
+11.12 05:29:00 Going to coordinates X=-15.084, Y=-40.438
+11.12 05:29:01 Moving is finished
+11.12 05:30:46 Scanning 373 point from 624
+11.12 05:30:46 Going to coordinates X=-14.984, Y=-40.438
+11.12 05:30:46 Moving is finished
+11.12 05:32:31 Scanning 374 point from 624
+11.12 05:32:31 Going to coordinates X=-14.884, Y=-40.438
+11.12 05:32:31 Moving is finished
+11.12 05:34:15 Scanning 375 point from 624
+11.12 05:34:15 Going to coordinates X=-14.784, Y=-40.438
+11.12 05:34:16 Moving is finished
+11.12 05:36:00 Scanning 376 point from 624
+11.12 05:36:00 Going to coordinates X=-14.684, Y=-40.438
+11.12 05:36:00 Moving is finished
+11.12 05:37:46 Scanning 377 point from 624
+11.12 05:37:46 Going to coordinates X=-14.584, Y=-40.438
+11.12 05:37:46 Moving is finished
+11.12 05:39:31 Scanning 378 point from 624
+11.12 05:39:31 Going to coordinates X=-14.484, Y=-40.438
+11.12 05:39:31 Moving is finished
+11.12 05:41:16 Scanning 379 point from 624
+11.12 05:41:16 Going to coordinates X=-14.384, Y=-40.438
+11.12 05:41:16 Moving is finished
+11.12 05:43:00 Scanning 380 point from 624
+11.12 05:43:00 Going to coordinates X=-14.284, Y=-40.438
+11.12 05:43:01 Moving is finished
+11.12 05:44:45 Scanning 381 point from 624
+11.12 05:44:45 Going to coordinates X=-14.184, Y=-40.438
+11.12 05:44:46 Moving is finished
+11.12 05:46:30 Scanning 382 point from 624
+11.12 05:46:30 Going to coordinates X=-14.084, Y=-40.438
+11.12 05:46:30 Moving is finished
+11.12 05:48:16 Scanning 383 point from 624
+11.12 05:48:16 Going to coordinates X=-13.984, Y=-40.438
+11.12 05:48:16 Moving is finished
+11.12 05:50:00 Scanning 384 point from 624
+11.12 05:50:00 Going to coordinates X=-16.284, Y=-40.338
+11.12 05:50:01 Moving is finished
+11.12 05:51:46 Scanning 385 point from 624
+11.12 05:51:46 Going to coordinates X=-16.184, Y=-40.338
+11.12 05:51:46 Moving is finished
+11.12 05:53:31 Scanning 386 point from 624
+11.12 05:53:31 Going to coordinates X=-16.084, Y=-40.338
+11.12 05:53:31 Moving is finished
+11.12 05:55:16 Scanning 387 point from 624
+11.12 05:55:16 Going to coordinates X=-15.984, Y=-40.338
+11.12 05:55:16 Moving is finished
+11.12 05:57:02 Scanning 388 point from 624
+11.12 05:57:02 Going to coordinates X=-15.884, Y=-40.338
+11.12 05:57:02 Moving is finished
+11.12 05:58:46 Scanning 389 point from 624
+11.12 05:58:46 Going to coordinates X=-15.784, Y=-40.338
+11.12 05:58:47 Moving is finished
+11.12 06:00:31 Scanning 390 point from 624
+11.12 06:00:31 Going to coordinates X=-15.684, Y=-40.338
+11.12 06:00:31 Moving is finished
+11.12 06:02:17 Scanning 391 point from 624
+11.12 06:02:17 Going to coordinates X=-15.584, Y=-40.338
+11.12 06:02:17 Moving is finished
+11.12 06:04:02 Scanning 392 point from 624
+11.12 06:04:02 Going to coordinates X=-15.484, Y=-40.338
+11.12 06:04:02 Moving is finished
+11.12 06:05:47 Scanning 393 point from 624
+11.12 06:05:47 Going to coordinates X=-15.384, Y=-40.338
+11.12 06:05:47 Moving is finished
+11.12 06:07:32 Scanning 394 point from 624
+11.12 06:07:32 Going to coordinates X=-15.284, Y=-40.338
+11.12 06:07:32 Moving is finished
+11.12 06:09:17 Scanning 395 point from 624
+11.12 06:09:17 Going to coordinates X=-15.184, Y=-40.338
+11.12 06:09:17 Moving is finished
+11.12 06:11:02 Scanning 396 point from 624
+11.12 06:11:02 Going to coordinates X=-15.084, Y=-40.338
+11.12 06:11:02 Moving is finished
+11.12 06:12:47 Scanning 397 point from 624
+11.12 06:12:47 Going to coordinates X=-14.984, Y=-40.338
+11.12 06:12:47 Moving is finished
+11.12 06:14:32 Scanning 398 point from 624
+11.12 06:14:32 Going to coordinates X=-14.884, Y=-40.338
+11.12 06:14:32 Moving is finished
+11.12 06:16:17 Scanning 399 point from 624
+11.12 06:16:17 Going to coordinates X=-14.784, Y=-40.338
+11.12 06:16:17 Moving is finished
+11.12 06:18:03 Scanning 400 point from 624
+11.12 06:18:03 Going to coordinates X=-14.684, Y=-40.338
+11.12 06:18:03 Moving is finished
+11.12 06:19:48 Scanning 401 point from 624
+11.12 06:19:48 Going to coordinates X=-14.584, Y=-40.338
+11.12 06:19:48 Moving is finished
+11.12 06:21:32 Scanning 402 point from 624
+11.12 06:21:32 Going to coordinates X=-14.484, Y=-40.338
+11.12 06:21:33 Moving is finished
+11.12 06:23:18 Scanning 403 point from 624
+11.12 06:23:18 Going to coordinates X=-14.384, Y=-40.338
+11.12 06:23:18 Moving is finished
+11.12 06:25:03 Scanning 404 point from 624
+11.12 06:25:03 Going to coordinates X=-14.284, Y=-40.338
+11.12 06:25:03 Moving is finished
+11.12 06:26:47 Scanning 405 point from 624
+11.12 06:26:47 Going to coordinates X=-14.184, Y=-40.338
+11.12 06:26:48 Moving is finished
+11.12 06:28:32 Scanning 406 point from 624
+11.12 06:28:32 Going to coordinates X=-14.084, Y=-40.338
+11.12 06:28:32 Moving is finished
+11.12 06:30:17 Scanning 407 point from 624
+11.12 06:30:17 Going to coordinates X=-13.984, Y=-40.338
+11.12 06:30:17 Moving is finished
+11.12 06:32:01 Scanning 408 point from 624
+11.12 06:32:01 Going to coordinates X=-16.284, Y=-40.238
+11.12 06:32:02 Moving is finished
+11.12 06:33:47 Scanning 409 point from 624
+11.12 06:33:47 Going to coordinates X=-16.184, Y=-40.238
+11.12 06:33:48 Moving is finished
+11.12 06:35:33 Scanning 410 point from 624
+11.12 06:35:33 Going to coordinates X=-16.084, Y=-40.238
+11.12 06:35:33 Moving is finished
+11.12 06:37:18 Scanning 411 point from 624
+11.12 06:37:18 Going to coordinates X=-15.984, Y=-40.238
+11.12 06:37:18 Moving is finished
+11.12 06:39:03 Scanning 412 point from 624
+11.12 06:39:03 Going to coordinates X=-15.884, Y=-40.238
+11.12 06:39:03 Moving is finished
+11.12 06:40:48 Scanning 413 point from 624
+11.12 06:40:48 Going to coordinates X=-15.784, Y=-40.238
+11.12 06:40:48 Moving is finished
+11.12 06:42:32 Scanning 414 point from 624
+11.12 06:42:32 Going to coordinates X=-15.684, Y=-40.238
+11.12 06:42:33 Moving is finished
+11.12 06:44:18 Scanning 415 point from 624
+11.12 06:44:18 Going to coordinates X=-15.584, Y=-40.238
+11.12 06:44:18 Moving is finished
+11.12 06:46:02 Scanning 416 point from 624
+11.12 06:46:02 Going to coordinates X=-15.484, Y=-40.238
+11.12 06:46:02 Moving is finished
+11.12 06:47:47 Scanning 417 point from 624
+11.12 06:47:47 Going to coordinates X=-15.384, Y=-40.238
+11.12 06:47:48 Moving is finished
+11.12 06:49:33 Scanning 418 point from 624
+11.12 06:49:33 Going to coordinates X=-15.284, Y=-40.238
+11.12 06:49:33 Moving is finished
+11.12 06:51:18 Scanning 419 point from 624
+11.12 06:51:18 Going to coordinates X=-15.184, Y=-40.238
+11.12 06:51:18 Moving is finished
+11.12 06:53:03 Scanning 420 point from 624
+11.12 06:53:03 Going to coordinates X=-15.084, Y=-40.238
+11.12 06:53:03 Moving is finished
+11.12 06:54:47 Scanning 421 point from 624
+11.12 06:54:47 Going to coordinates X=-14.984, Y=-40.238
+11.12 06:54:48 Moving is finished
+11.12 06:56:32 Scanning 422 point from 624
+11.12 06:56:32 Going to coordinates X=-14.884, Y=-40.238
+11.12 06:56:32 Moving is finished
+11.12 06:58:17 Scanning 423 point from 624
+11.12 06:58:17 Going to coordinates X=-14.784, Y=-40.238
+11.12 06:58:18 Moving is finished
+11.12 07:00:02 Scanning 424 point from 624
+11.12 07:00:02 Going to coordinates X=-14.684, Y=-40.238
+11.12 07:00:03 Moving is finished
+11.12 07:01:47 Scanning 425 point from 624
+11.12 07:01:47 Going to coordinates X=-14.584, Y=-40.238
+11.12 07:01:47 Moving is finished
+11.12 07:03:32 Scanning 426 point from 624
+11.12 07:03:32 Going to coordinates X=-14.484, Y=-40.238
+11.12 07:03:32 Moving is finished
+11.12 07:05:17 Scanning 427 point from 624
+11.12 07:05:17 Going to coordinates X=-14.384, Y=-40.238
+11.12 07:05:17 Moving is finished
+11.12 07:07:02 Scanning 428 point from 624
+11.12 07:07:02 Going to coordinates X=-14.284, Y=-40.238
+11.12 07:07:02 Moving is finished
+11.12 07:08:47 Scanning 429 point from 624
+11.12 07:08:47 Going to coordinates X=-14.184, Y=-40.238
+11.12 07:08:48 Moving is finished
+11.12 07:10:32 Scanning 430 point from 624
+11.12 07:10:32 Going to coordinates X=-14.084, Y=-40.238
+11.12 07:10:33 Moving is finished
+11.12 07:12:18 Scanning 431 point from 624
+11.12 07:12:18 Going to coordinates X=-13.984, Y=-40.238
+11.12 07:12:18 Moving is finished
+11.12 07:14:02 Scanning 432 point from 624
+11.12 07:14:02 Going to coordinates X=-16.284, Y=-40.138
+11.12 07:14:03 Moving is finished
+11.12 07:15:48 Scanning 433 point from 624
+11.12 07:15:48 Going to coordinates X=-16.184, Y=-40.138
+11.12 07:15:49 Moving is finished
+11.12 07:17:34 Scanning 434 point from 624
+11.12 07:17:34 Going to coordinates X=-16.084, Y=-40.138
+11.12 07:17:34 Moving is finished
+11.12 07:19:19 Scanning 435 point from 624
+11.12 07:19:19 Going to coordinates X=-15.984, Y=-40.138
+11.12 07:19:19 Moving is finished
+11.12 07:21:04 Scanning 436 point from 624
+11.12 07:21:04 Going to coordinates X=-15.884, Y=-40.138
+11.12 07:21:04 Moving is finished
+11.12 07:22:49 Scanning 437 point from 624
+11.12 07:22:49 Going to coordinates X=-15.784, Y=-40.138
+11.12 07:22:50 Moving is finished
+11.12 07:24:35 Scanning 438 point from 624
+11.12 07:24:35 Going to coordinates X=-15.684, Y=-40.138
+11.12 07:24:35 Moving is finished
+11.12 07:26:20 Scanning 439 point from 624
+11.12 07:26:20 Going to coordinates X=-15.584, Y=-40.138
+11.12 07:26:20 Moving is finished
+11.12 07:28:04 Scanning 440 point from 624
+11.12 07:28:04 Going to coordinates X=-15.484, Y=-40.138
+11.12 07:28:05 Moving is finished
+11.12 07:29:50 Scanning 441 point from 624
+11.12 07:29:50 Going to coordinates X=-15.384, Y=-40.138
+11.12 07:29:50 Moving is finished
+11.12 07:31:35 Scanning 442 point from 624
+11.12 07:31:35 Going to coordinates X=-15.284, Y=-40.138
+11.12 07:31:35 Moving is finished
+11.12 07:33:20 Scanning 443 point from 624
+11.12 07:33:20 Going to coordinates X=-15.184, Y=-40.138
+11.12 07:33:21 Moving is finished
+11.12 07:35:05 Scanning 444 point from 624
+11.12 07:35:05 Going to coordinates X=-15.084, Y=-40.138
+11.12 07:35:06 Moving is finished
+11.12 07:36:50 Scanning 445 point from 624
+11.12 07:36:50 Going to coordinates X=-14.984, Y=-40.138
+11.12 07:36:50 Moving is finished
+11.12 07:38:35 Scanning 446 point from 624
+11.12 07:38:35 Going to coordinates X=-14.884, Y=-40.138
+11.12 07:38:35 Moving is finished
+11.12 07:40:20 Scanning 447 point from 624
+11.12 07:40:20 Going to coordinates X=-14.784, Y=-40.138
+11.12 07:40:20 Moving is finished
+11.12 07:42:04 Scanning 448 point from 624
+11.12 07:42:04 Going to coordinates X=-14.684, Y=-40.138
+11.12 07:42:04 Moving is finished
+11.12 07:43:49 Scanning 449 point from 624
+11.12 07:43:49 Going to coordinates X=-14.584, Y=-40.138
+11.12 07:43:49 Moving is finished
+11.12 07:45:34 Scanning 450 point from 624
+11.12 07:45:34 Going to coordinates X=-14.484, Y=-40.138
+11.12 07:45:34 Moving is finished
+11.12 07:47:18 Scanning 451 point from 624
+11.12 07:47:18 Going to coordinates X=-14.384, Y=-40.138
+11.12 07:47:19 Moving is finished
+11.12 07:49:03 Scanning 452 point from 624
+11.12 07:49:03 Going to coordinates X=-14.284, Y=-40.138
+11.12 07:49:04 Moving is finished
+11.12 07:50:48 Scanning 453 point from 624
+11.12 07:50:48 Going to coordinates X=-14.184, Y=-40.138
+11.12 07:50:49 Moving is finished
+11.12 07:52:33 Scanning 454 point from 624
+11.12 07:52:33 Going to coordinates X=-14.084, Y=-40.138
+11.12 07:52:33 Moving is finished
+11.12 07:54:18 Scanning 455 point from 624
+11.12 07:54:18 Going to coordinates X=-13.984, Y=-40.138
+11.12 07:54:18 Moving is finished
+11.12 07:56:03 Scanning 456 point from 624
+11.12 07:56:03 Going to coordinates X=-16.284, Y=-40.038
+11.12 07:56:04 Moving is finished
+11.12 07:57:49 Scanning 457 point from 624
+11.12 07:57:49 Going to coordinates X=-16.184, Y=-40.038
+11.12 07:57:49 Moving is finished
+11.12 07:59:33 Scanning 458 point from 624
+11.12 07:59:33 Going to coordinates X=-16.084, Y=-40.038
+11.12 07:59:34 Moving is finished
+11.12 08:01:18 Scanning 459 point from 624
+11.12 08:01:18 Going to coordinates X=-15.984, Y=-40.038
+11.12 08:01:18 Moving is finished
+11.12 08:03:03 Scanning 460 point from 624
+11.12 08:03:03 Going to coordinates X=-15.884, Y=-40.038
+11.12 08:03:03 Moving is finished
+11.12 08:04:48 Scanning 461 point from 624
+11.12 08:04:48 Going to coordinates X=-15.784, Y=-40.038
+11.12 08:04:48 Moving is finished
+11.12 08:06:33 Scanning 462 point from 624
+11.12 08:06:33 Going to coordinates X=-15.684, Y=-40.038
+11.12 08:06:33 Moving is finished
+11.12 08:08:18 Scanning 463 point from 624
+11.12 08:08:18 Going to coordinates X=-15.584, Y=-40.038
+11.12 08:08:19 Moving is finished
+11.12 08:10:03 Scanning 464 point from 624
+11.12 08:10:03 Going to coordinates X=-15.484, Y=-40.038
+11.12 08:10:04 Moving is finished
+11.12 08:11:48 Scanning 465 point from 624
+11.12 08:11:48 Going to coordinates X=-15.384, Y=-40.038
+11.12 08:11:49 Moving is finished
+11.12 08:13:34 Scanning 466 point from 624
+11.12 08:13:34 Going to coordinates X=-15.284, Y=-40.038
+11.12 08:13:34 Moving is finished
+11.12 08:15:20 Scanning 467 point from 624
+11.12 08:15:20 Going to coordinates X=-15.184, Y=-40.038
+11.12 08:15:20 Moving is finished
+11.12 08:17:05 Scanning 468 point from 624
+11.12 08:17:05 Going to coordinates X=-15.084, Y=-40.038
+11.12 08:17:05 Moving is finished
+11.12 08:18:50 Scanning 469 point from 624
+11.12 08:18:50 Going to coordinates X=-14.984, Y=-40.038
+11.12 08:18:50 Moving is finished
+11.12 08:20:34 Scanning 470 point from 624
+11.12 08:20:34 Going to coordinates X=-14.884, Y=-40.038
+11.12 08:20:35 Moving is finished
+11.12 08:22:20 Scanning 471 point from 624
+11.12 08:22:20 Going to coordinates X=-14.784, Y=-40.038
+11.12 08:22:20 Moving is finished
+11.12 08:24:05 Scanning 472 point from 624
+11.12 08:24:05 Going to coordinates X=-14.684, Y=-40.038
+11.12 08:24:05 Moving is finished
+11.12 08:25:50 Scanning 473 point from 624
+11.12 08:25:50 Going to coordinates X=-14.584, Y=-40.038
+11.12 08:25:50 Moving is finished
+11.12 08:27:35 Scanning 474 point from 624
+11.12 08:27:35 Going to coordinates X=-14.484, Y=-40.038
+11.12 08:27:35 Moving is finished
+11.12 08:29:20 Scanning 475 point from 624
+11.12 08:29:20 Going to coordinates X=-14.384, Y=-40.038
+11.12 08:29:21 Moving is finished
+11.12 08:31:05 Scanning 476 point from 624
+11.12 08:31:05 Going to coordinates X=-14.284, Y=-40.038
+11.12 08:31:06 Moving is finished
+11.12 08:32:50 Scanning 477 point from 624
+11.12 08:32:50 Going to coordinates X=-14.184, Y=-40.038
+11.12 08:32:50 Moving is finished
+11.12 08:34:35 Scanning 478 point from 624
+11.12 08:34:35 Going to coordinates X=-14.084, Y=-40.038
+11.12 08:34:36 Moving is finished
+11.12 08:36:21 Scanning 479 point from 624
+11.12 08:36:21 Going to coordinates X=-13.984, Y=-40.038
+11.12 08:36:21 Moving is finished
+11.12 08:38:05 Scanning 480 point from 624
+11.12 08:38:05 Going to coordinates X=-16.284, Y=-39.938
+11.12 08:38:06 Moving is finished
+11.12 08:39:52 Scanning 481 point from 624
+11.12 08:39:52 Going to coordinates X=-16.184, Y=-39.938
+11.12 08:39:52 Moving is finished
+11.12 08:41:37 Scanning 482 point from 624
+11.12 08:41:37 Going to coordinates X=-16.084, Y=-39.938
+11.12 08:41:37 Moving is finished
+11.12 08:43:22 Scanning 483 point from 624
+11.12 08:43:22 Going to coordinates X=-15.984, Y=-39.938
+11.12 08:43:22 Moving is finished
+11.12 08:45:08 Scanning 484 point from 624
+11.12 08:45:08 Going to coordinates X=-15.884, Y=-39.938
+11.12 08:45:08 Moving is finished
+11.12 08:46:53 Scanning 485 point from 624
+11.12 08:46:53 Going to coordinates X=-15.784, Y=-39.938
+11.12 08:46:53 Moving is finished
+11.12 08:48:39 Scanning 486 point from 624
+11.12 08:48:39 Going to coordinates X=-15.684, Y=-39.938
+11.12 08:48:39 Moving is finished
+11.12 08:50:25 Scanning 487 point from 624
+11.12 08:50:25 Going to coordinates X=-15.584, Y=-39.938
+11.12 08:50:25 Moving is finished
+11.12 08:52:09 Scanning 488 point from 624
+11.12 08:52:09 Going to coordinates X=-15.484, Y=-39.938
+11.12 08:52:10 Moving is finished
+11.12 08:53:54 Scanning 489 point from 624
+11.12 08:53:54 Going to coordinates X=-15.384, Y=-39.938
+11.12 08:53:55 Moving is finished
+11.12 08:55:40 Scanning 490 point from 624
+11.12 08:55:40 Going to coordinates X=-15.284, Y=-39.938
+11.12 08:55:41 Moving is finished
+11.12 08:57:25 Scanning 491 point from 624
+11.12 08:57:25 Going to coordinates X=-15.184, Y=-39.938
+11.12 08:57:25 Moving is finished
+11.12 08:59:10 Scanning 492 point from 624
+11.12 08:59:10 Going to coordinates X=-15.084, Y=-39.938
+11.12 08:59:10 Moving is finished
+11.12 09:00:55 Scanning 493 point from 624
+11.12 09:00:55 Going to coordinates X=-14.984, Y=-39.938
+11.12 09:00:55 Moving is finished
+11.12 09:02:40 Scanning 494 point from 624
+11.12 09:02:40 Going to coordinates X=-14.884, Y=-39.938
+11.12 09:02:40 Moving is finished
+11.12 09:04:25 Scanning 495 point from 624
+11.12 09:04:25 Going to coordinates X=-14.784, Y=-39.938
+11.12 09:04:25 Moving is finished
+11.12 09:06:10 Scanning 496 point from 624
+11.12 09:06:10 Going to coordinates X=-14.684, Y=-39.938
+11.12 09:06:10 Moving is finished
+11.12 09:07:55 Scanning 497 point from 624
+11.12 09:07:55 Going to coordinates X=-14.584, Y=-39.938
+11.12 09:07:55 Moving is finished
+11.12 09:09:40 Scanning 498 point from 624
+11.12 09:09:40 Going to coordinates X=-14.484, Y=-39.938
+11.12 09:09:40 Moving is finished
+11.12 09:11:26 Scanning 499 point from 624
+11.12 09:11:26 Going to coordinates X=-14.384, Y=-39.938
+11.12 09:11:26 Moving is finished
+11.12 09:13:11 Scanning 500 point from 624
+11.12 09:13:11 Going to coordinates X=-14.284, Y=-39.938
+11.12 09:13:11 Moving is finished
+11.12 09:14:56 Scanning 501 point from 624
+11.12 09:14:56 Going to coordinates X=-14.184, Y=-39.938
+11.12 09:14:56 Moving is finished
+11.12 09:16:41 Scanning 502 point from 624
+11.12 09:16:41 Going to coordinates X=-14.084, Y=-39.938
+11.12 09:16:41 Moving is finished
+11.12 09:18:27 Scanning 503 point from 624
+11.12 09:18:27 Going to coordinates X=-13.984, Y=-39.938
+11.12 09:18:27 Moving is finished
+11.12 09:20:12 Scanning 504 point from 624
+11.12 09:20:12 Going to coordinates X=-16.284, Y=-39.838
+11.12 09:20:13 Moving is finished
+11.12 09:21:58 Scanning 505 point from 624
+11.12 09:21:58 Going to coordinates X=-16.184, Y=-39.838
+11.12 09:21:59 Moving is finished
+11.12 09:23:44 Scanning 506 point from 624
+11.12 09:23:44 Going to coordinates X=-16.084, Y=-39.838
+11.12 09:23:44 Moving is finished
+11.12 09:25:29 Scanning 507 point from 624
+11.12 09:25:29 Going to coordinates X=-15.984, Y=-39.838
+11.12 09:25:29 Moving is finished
+11.12 09:27:14 Scanning 508 point from 624
+11.12 09:27:14 Going to coordinates X=-15.884, Y=-39.838
+11.12 09:27:14 Moving is finished
+11.12 09:28:59 Scanning 509 point from 624
+11.12 09:28:59 Going to coordinates X=-15.784, Y=-39.838
+11.12 09:28:59 Moving is finished
+11.12 09:30:44 Scanning 510 point from 624
+11.12 09:30:44 Going to coordinates X=-15.684, Y=-39.838
+11.12 09:30:45 Moving is finished
+11.12 09:32:29 Scanning 511 point from 624
+11.12 09:32:29 Going to coordinates X=-15.584, Y=-39.838
+11.12 09:32:29 Moving is finished
+11.12 09:34:14 Scanning 512 point from 624
+11.12 09:34:14 Going to coordinates X=-15.484, Y=-39.838
+11.12 09:34:14 Moving is finished
+11.12 09:35:59 Scanning 513 point from 624
+11.12 09:35:59 Going to coordinates X=-15.384, Y=-39.838
+11.12 09:35:59 Moving is finished
+11.12 09:37:44 Scanning 514 point from 624
+11.12 09:37:44 Going to coordinates X=-15.284, Y=-39.838
+11.12 09:37:44 Moving is finished
+11.12 09:39:29 Scanning 515 point from 624
+11.12 09:39:29 Going to coordinates X=-15.184, Y=-39.838
+11.12 09:39:29 Moving is finished
+11.12 09:41:14 Scanning 516 point from 624
+11.12 09:41:14 Going to coordinates X=-15.084, Y=-39.838
+11.12 09:41:14 Moving is finished
+11.12 09:42:59 Scanning 517 point from 624
+11.12 09:42:59 Going to coordinates X=-14.984, Y=-39.838
+11.12 09:42:59 Moving is finished
+11.12 09:44:44 Scanning 518 point from 624
+11.12 09:44:44 Going to coordinates X=-14.884, Y=-39.838
+11.12 09:44:44 Moving is finished
+11.12 09:46:30 Scanning 519 point from 624
+11.12 09:46:30 Going to coordinates X=-14.784, Y=-39.838
+11.12 09:46:30 Moving is finished
+11.12 09:46:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:46:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:46:51 Scanning 520 point from 624
+11.12 09:46:51 Going to coordinates X=-14.684, Y=-39.838
+11.12 09:46:51 Moving is finished
+11.12 09:46:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:04 Scanning 521 point from 624
+11.12 09:47:04 Going to coordinates X=-14.584, Y=-39.838
+11.12 09:47:04 Moving is finished
+11.12 09:47:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:16 Scanning 522 point from 624
+11.12 09:47:16 Going to coordinates X=-14.484, Y=-39.838
+11.12 09:47:17 Moving is finished
+11.12 09:47:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:29 Scanning 523 point from 624
+11.12 09:47:29 Going to coordinates X=-14.384, Y=-39.838
+11.12 09:47:30 Moving is finished
+11.12 09:47:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:43 Scanning 524 point from 624
+11.12 09:47:43 Going to coordinates X=-14.284, Y=-39.838
+11.12 09:47:43 Moving is finished
+11.12 09:47:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:47:55 Scanning 525 point from 624
+11.12 09:47:55 Going to coordinates X=-14.184, Y=-39.838
+11.12 09:47:55 Moving is finished
+11.12 09:48:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:08 Scanning 526 point from 624
+11.12 09:48:08 Going to coordinates X=-14.084, Y=-39.838
+11.12 09:48:08 Moving is finished
+11.12 09:48:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:20 Scanning 527 point from 624
+11.12 09:48:20 Going to coordinates X=-13.984, Y=-39.838
+11.12 09:48:20 Moving is finished
+11.12 09:48:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:32 Scanning 528 point from 624
+11.12 09:48:32 Going to coordinates X=-16.284, Y=-39.738
+11.12 09:48:33 Moving is finished
+11.12 09:48:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:45 Scanning 529 point from 624
+11.12 09:48:45 Going to coordinates X=-16.184, Y=-39.738
+11.12 09:48:45 Moving is finished
+11.12 09:48:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:48:57 Scanning 530 point from 624
+11.12 09:48:57 Going to coordinates X=-16.084, Y=-39.738
+11.12 09:48:57 Moving is finished
+11.12 09:49:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:09 Scanning 531 point from 624
+11.12 09:49:09 Going to coordinates X=-15.984, Y=-39.738
+11.12 09:49:09 Moving is finished
+11.12 09:49:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:21 Scanning 532 point from 624
+11.12 09:49:21 Going to coordinates X=-15.884, Y=-39.738
+11.12 09:49:21 Moving is finished
+11.12 09:49:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:33 Scanning 533 point from 624
+11.12 09:49:33 Going to coordinates X=-15.784, Y=-39.738
+11.12 09:49:34 Moving is finished
+11.12 09:49:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:45 Scanning 534 point from 624
+11.12 09:49:45 Going to coordinates X=-15.684, Y=-39.738
+11.12 09:49:46 Moving is finished
+11.12 09:49:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:49:57 Scanning 535 point from 624
+11.12 09:49:57 Going to coordinates X=-15.584, Y=-39.738
+11.12 09:49:58 Moving is finished
+11.12 09:50:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:10 Scanning 536 point from 624
+11.12 09:50:10 Going to coordinates X=-15.484, Y=-39.738
+11.12 09:50:10 Moving is finished
+11.12 09:50:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:22 Scanning 537 point from 624
+11.12 09:50:22 Going to coordinates X=-15.384, Y=-39.738
+11.12 09:50:22 Moving is finished
+11.12 09:50:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:34 Scanning 538 point from 624
+11.12 09:50:34 Going to coordinates X=-15.284, Y=-39.738
+11.12 09:50:34 Moving is finished
+11.12 09:50:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:46 Scanning 539 point from 624
+11.12 09:50:46 Going to coordinates X=-15.184, Y=-39.738
+11.12 09:50:46 Moving is finished
+11.12 09:50:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:50:58 Scanning 540 point from 624
+11.12 09:50:58 Going to coordinates X=-15.084, Y=-39.738
+11.12 09:50:58 Moving is finished
+11.12 09:51:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:10 Scanning 541 point from 624
+11.12 09:51:10 Going to coordinates X=-14.984, Y=-39.738
+11.12 09:51:10 Moving is finished
+11.12 09:51:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:22 Scanning 542 point from 624
+11.12 09:51:22 Going to coordinates X=-14.884, Y=-39.738
+11.12 09:51:23 Moving is finished
+11.12 09:51:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:34 Scanning 543 point from 624
+11.12 09:51:34 Going to coordinates X=-14.784, Y=-39.738
+11.12 09:51:35 Moving is finished
+11.12 09:51:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:47 Scanning 544 point from 624
+11.12 09:51:47 Going to coordinates X=-14.684, Y=-39.738
+11.12 09:51:47 Moving is finished
+11.12 09:51:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:51:59 Scanning 545 point from 624
+11.12 09:51:59 Going to coordinates X=-14.584, Y=-39.738
+11.12 09:51:59 Moving is finished
+11.12 09:52:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:11 Scanning 546 point from 624
+11.12 09:52:11 Going to coordinates X=-14.484, Y=-39.738
+11.12 09:52:11 Moving is finished
+11.12 09:52:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:23 Scanning 547 point from 624
+11.12 09:52:23 Going to coordinates X=-14.384, Y=-39.738
+11.12 09:52:23 Moving is finished
+11.12 09:52:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:35 Scanning 548 point from 624
+11.12 09:52:35 Going to coordinates X=-14.284, Y=-39.738
+11.12 09:52:35 Moving is finished
+11.12 09:52:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:47 Scanning 549 point from 624
+11.12 09:52:47 Going to coordinates X=-14.184, Y=-39.738
+11.12 09:52:47 Moving is finished
+11.12 09:52:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:52:59 Scanning 550 point from 624
+11.12 09:52:59 Going to coordinates X=-14.084, Y=-39.738
+11.12 09:53:00 Moving is finished
+11.12 09:53:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:11 Scanning 551 point from 624
+11.12 09:53:11 Going to coordinates X=-13.984, Y=-39.738
+11.12 09:53:12 Moving is finished
+11.12 09:53:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:24 Scanning 552 point from 624
+11.12 09:53:24 Going to coordinates X=-16.284, Y=-39.638
+11.12 09:53:25 Moving is finished
+11.12 09:53:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:36 Scanning 553 point from 624
+11.12 09:53:36 Going to coordinates X=-16.184, Y=-39.638
+11.12 09:53:37 Moving is finished
+11.12 09:53:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:53:49 Scanning 554 point from 624
+11.12 09:53:49 Going to coordinates X=-16.084, Y=-39.638
+11.12 09:53:49 Moving is finished
+11.12 09:53:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:01 Scanning 555 point from 624
+11.12 09:54:01 Going to coordinates X=-15.984, Y=-39.638
+11.12 09:54:01 Moving is finished
+11.12 09:54:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:13 Scanning 556 point from 624
+11.12 09:54:13 Going to coordinates X=-15.884, Y=-39.638
+11.12 09:54:13 Moving is finished
+11.12 09:54:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:25 Scanning 557 point from 624
+11.12 09:54:25 Going to coordinates X=-15.784, Y=-39.638
+11.12 09:54:25 Moving is finished
+11.12 09:54:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:37 Scanning 558 point from 624
+11.12 09:54:37 Going to coordinates X=-15.684, Y=-39.638
+11.12 09:54:37 Moving is finished
+11.12 09:54:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:54:49 Scanning 559 point from 624
+11.12 09:54:49 Going to coordinates X=-15.584, Y=-39.638
+11.12 09:54:50 Moving is finished
+11.12 09:54:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:02 Scanning 560 point from 624
+11.12 09:55:02 Going to coordinates X=-15.484, Y=-39.638
+11.12 09:55:02 Moving is finished
+11.12 09:55:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:14 Scanning 561 point from 624
+11.12 09:55:14 Going to coordinates X=-15.384, Y=-39.638
+11.12 09:55:14 Moving is finished
+11.12 09:55:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:26 Scanning 562 point from 624
+11.12 09:55:26 Going to coordinates X=-15.284, Y=-39.638
+11.12 09:55:26 Moving is finished
+11.12 09:55:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:38 Scanning 563 point from 624
+11.12 09:55:38 Going to coordinates X=-15.184, Y=-39.638
+11.12 09:55:38 Moving is finished
+11.12 09:55:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:55:50 Scanning 564 point from 624
+11.12 09:55:50 Going to coordinates X=-15.084, Y=-39.638
+11.12 09:55:50 Moving is finished
+11.12 09:55:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:02 Scanning 565 point from 624
+11.12 09:56:02 Going to coordinates X=-14.984, Y=-39.638
+11.12 09:56:02 Moving is finished
+11.12 09:56:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:14 Scanning 566 point from 624
+11.12 09:56:14 Going to coordinates X=-14.884, Y=-39.638
+11.12 09:56:15 Moving is finished
+11.12 09:56:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:26 Scanning 567 point from 624
+11.12 09:56:26 Going to coordinates X=-14.784, Y=-39.638
+11.12 09:56:27 Moving is finished
+11.12 09:56:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:39 Scanning 568 point from 624
+11.12 09:56:39 Going to coordinates X=-14.684, Y=-39.638
+11.12 09:56:39 Moving is finished
+11.12 09:56:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:56:51 Scanning 569 point from 624
+11.12 09:56:51 Going to coordinates X=-14.584, Y=-39.638
+11.12 09:56:51 Moving is finished
+11.12 09:56:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:03 Scanning 570 point from 624
+11.12 09:57:03 Going to coordinates X=-14.484, Y=-39.638
+11.12 09:57:03 Moving is finished
+11.12 09:57:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:15 Scanning 571 point from 624
+11.12 09:57:15 Going to coordinates X=-14.384, Y=-39.638
+11.12 09:57:15 Moving is finished
+11.12 09:57:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:27 Scanning 572 point from 624
+11.12 09:57:27 Going to coordinates X=-14.284, Y=-39.638
+11.12 09:57:28 Moving is finished
+11.12 09:57:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:39 Scanning 573 point from 624
+11.12 09:57:39 Going to coordinates X=-14.184, Y=-39.638
+11.12 09:57:40 Moving is finished
+11.12 09:57:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:57:51 Scanning 574 point from 624
+11.12 09:57:51 Going to coordinates X=-14.084, Y=-39.638
+11.12 09:57:52 Moving is finished
+11.12 09:57:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:03 Scanning 575 point from 624
+11.12 09:58:03 Going to coordinates X=-13.984, Y=-39.638
+11.12 09:58:04 Moving is finished
+11.12 09:58:10 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:15 Scanning 576 point from 624
+11.12 09:58:15 Going to coordinates X=-16.284, Y=-39.538
+11.12 09:58:16 Moving is finished
+11.12 09:58:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:28 Scanning 577 point from 624
+11.12 09:58:28 Going to coordinates X=-16.184, Y=-39.538
+11.12 09:58:29 Moving is finished
+11.12 09:58:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:41 Scanning 578 point from 624
+11.12 09:58:41 Going to coordinates X=-16.084, Y=-39.538
+11.12 09:58:41 Moving is finished
+11.12 09:58:47 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:58:53 Scanning 579 point from 624
+11.12 09:58:53 Going to coordinates X=-15.984, Y=-39.538
+11.12 09:58:53 Moving is finished
+11.12 09:58:59 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:05 Scanning 580 point from 624
+11.12 09:59:05 Going to coordinates X=-15.884, Y=-39.538
+11.12 09:59:05 Moving is finished
+11.12 09:59:11 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:17 Scanning 581 point from 624
+11.12 09:59:17 Going to coordinates X=-15.784, Y=-39.538
+11.12 09:59:17 Moving is finished
+11.12 09:59:23 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:29 Scanning 582 point from 624
+11.12 09:59:29 Going to coordinates X=-15.684, Y=-39.538
+11.12 09:59:29 Moving is finished
+11.12 09:59:35 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:41 Scanning 583 point from 624
+11.12 09:59:41 Going to coordinates X=-15.584, Y=-39.538
+11.12 09:59:41 Moving is finished
+11.12 09:59:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 09:59:53 Scanning 584 point from 624
+11.12 09:59:53 Going to coordinates X=-15.484, Y=-39.538
+11.12 09:59:54 Moving is finished
+11.12 10:00:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:05 Scanning 585 point from 624
+11.12 10:00:05 Going to coordinates X=-15.384, Y=-39.538
+11.12 10:00:06 Moving is finished
+11.12 10:00:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:18 Scanning 586 point from 624
+11.12 10:00:18 Going to coordinates X=-15.284, Y=-39.538
+11.12 10:00:18 Moving is finished
+11.12 10:00:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:30 Scanning 587 point from 624
+11.12 10:00:30 Going to coordinates X=-15.184, Y=-39.538
+11.12 10:00:30 Moving is finished
+11.12 10:00:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:42 Scanning 588 point from 624
+11.12 10:00:42 Going to coordinates X=-15.084, Y=-39.538
+11.12 10:00:42 Moving is finished
+11.12 10:00:48 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:00:54 Scanning 589 point from 624
+11.12 10:00:54 Going to coordinates X=-14.984, Y=-39.538
+11.12 10:00:54 Moving is finished
+11.12 10:01:00 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:05 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:06 Scanning 590 point from 624
+11.12 10:01:06 Going to coordinates X=-14.884, Y=-39.538
+11.12 10:01:06 Moving is finished
+11.12 10:01:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:18 Scanning 591 point from 624
+11.12 10:01:18 Going to coordinates X=-14.784, Y=-39.538
+11.12 10:01:18 Moving is finished
+11.12 10:01:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:30 Scanning 592 point from 624
+11.12 10:01:30 Going to coordinates X=-14.684, Y=-39.538
+11.12 10:01:30 Moving is finished
+11.12 10:01:36 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:42 Scanning 593 point from 624
+11.12 10:01:42 Going to coordinates X=-14.584, Y=-39.538
+11.12 10:01:43 Moving is finished
+11.12 10:01:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:01:54 Scanning 594 point from 624
+11.12 10:01:54 Going to coordinates X=-14.484, Y=-39.538
+11.12 10:01:55 Moving is finished
+11.12 10:02:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:07 Scanning 595 point from 624
+11.12 10:02:07 Going to coordinates X=-14.384, Y=-39.538
+11.12 10:02:07 Moving is finished
+11.12 10:02:13 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:18 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:19 Scanning 596 point from 624
+11.12 10:02:19 Going to coordinates X=-14.284, Y=-39.538
+11.12 10:02:19 Moving is finished
+11.12 10:02:25 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:31 Scanning 597 point from 624
+11.12 10:02:31 Going to coordinates X=-14.184, Y=-39.538
+11.12 10:02:31 Moving is finished
+11.12 10:02:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:43 Scanning 598 point from 624
+11.12 10:02:43 Going to coordinates X=-14.084, Y=-39.538
+11.12 10:02:43 Moving is finished
+11.12 10:02:49 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:54 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:02:55 Scanning 599 point from 624
+11.12 10:02:55 Going to coordinates X=-13.984, Y=-39.538
+11.12 10:02:55 Moving is finished
+11.12 10:03:01 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:06 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:07 Scanning 600 point from 624
+11.12 10:03:07 Going to coordinates X=-16.284, Y=-39.438
+11.12 10:03:08 Moving is finished
+11.12 10:03:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:20 Scanning 601 point from 624
+11.12 10:03:20 Going to coordinates X=-16.184, Y=-39.438
+11.12 10:03:20 Moving is finished
+11.12 10:03:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:32 Scanning 602 point from 624
+11.12 10:03:32 Going to coordinates X=-16.084, Y=-39.438
+11.12 10:03:32 Moving is finished
+11.12 10:03:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:44 Scanning 603 point from 624
+11.12 10:03:44 Going to coordinates X=-15.984, Y=-39.438
+11.12 10:03:44 Moving is finished
+11.12 10:03:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:03:56 Scanning 604 point from 624
+11.12 10:03:56 Going to coordinates X=-15.884, Y=-39.438
+11.12 10:03:56 Moving is finished
+11.12 10:04:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:08 Scanning 605 point from 624
+11.12 10:04:08 Going to coordinates X=-15.784, Y=-39.438
+11.12 10:04:08 Moving is finished
+11.12 10:04:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:20 Scanning 606 point from 624
+11.12 10:04:20 Going to coordinates X=-15.684, Y=-39.438
+11.12 10:04:21 Moving is finished
+11.12 10:04:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:32 Scanning 607 point from 624
+11.12 10:04:32 Going to coordinates X=-15.584, Y=-39.438
+11.12 10:04:33 Moving is finished
+11.12 10:04:39 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:44 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:45 Scanning 608 point from 624
+11.12 10:04:45 Going to coordinates X=-15.484, Y=-39.438
+11.12 10:04:45 Moving is finished
+11.12 10:04:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:04:57 Scanning 609 point from 624
+11.12 10:04:57 Going to coordinates X=-15.384, Y=-39.438
+11.12 10:04:57 Moving is finished
+11.12 10:05:03 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:08 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:09 Scanning 610 point from 624
+11.12 10:05:09 Going to coordinates X=-15.284, Y=-39.438
+11.12 10:05:09 Moving is finished
+11.12 10:05:15 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:20 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:21 Scanning 611 point from 624
+11.12 10:05:21 Going to coordinates X=-15.184, Y=-39.438
+11.12 10:05:21 Moving is finished
+11.12 10:05:27 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:32 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:33 Scanning 612 point from 624
+11.12 10:05:33 Going to coordinates X=-15.084, Y=-39.438
+11.12 10:05:33 Moving is finished
+11.12 10:05:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:45 Scanning 613 point from 624
+11.12 10:05:45 Going to coordinates X=-14.984, Y=-39.438
+11.12 10:05:46 Moving is finished
+11.12 10:05:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:05:57 Scanning 614 point from 624
+11.12 10:05:57 Going to coordinates X=-14.884, Y=-39.438
+11.12 10:05:58 Moving is finished
+11.12 10:06:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:10 Scanning 615 point from 624
+11.12 10:06:10 Going to coordinates X=-14.784, Y=-39.438
+11.12 10:06:10 Moving is finished
+11.12 10:06:16 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:21 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:22 Scanning 616 point from 624
+11.12 10:06:22 Going to coordinates X=-14.684, Y=-39.438
+11.12 10:06:22 Moving is finished
+11.12 10:06:28 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:33 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:34 Scanning 617 point from 624
+11.12 10:06:34 Going to coordinates X=-14.584, Y=-39.438
+11.12 10:06:34 Moving is finished
+11.12 10:06:40 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:45 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:46 Scanning 618 point from 624
+11.12 10:06:46 Going to coordinates X=-14.484, Y=-39.438
+11.12 10:06:46 Moving is finished
+11.12 10:06:52 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:57 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:06:58 Scanning 619 point from 624
+11.12 10:06:58 Going to coordinates X=-14.384, Y=-39.438
+11.12 10:06:58 Moving is finished
+11.12 10:07:04 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:09 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:10 Scanning 620 point from 624
+11.12 10:07:10 Going to coordinates X=-14.284, Y=-39.438
+11.12 10:07:10 Moving is finished
+11.12 10:07:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:22 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:22 Scanning 621 point from 624
+11.12 10:07:22 Going to coordinates X=-14.184, Y=-39.438
+11.12 10:07:23 Moving is finished
+11.12 10:07:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:34 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:34 Scanning 622 point from 624
+11.12 10:07:34 Going to coordinates X=-14.084, Y=-39.438
+11.12 10:07:35 Moving is finished
+11.12 10:07:41 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:46 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:47 Scanning 623 point from 624
+11.12 10:07:47 Going to coordinates X=-13.984, Y=-39.438
+11.12 10:07:47 Moving is finished
+11.12 10:07:53 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+11.12 10:07:58 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'

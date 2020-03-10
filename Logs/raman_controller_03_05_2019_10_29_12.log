@@ -1,0 +1,299 @@
+03.05 10:29:13 Initializing grbl...
+03.05 10:29:14 Got the response: b''
+03.05 10:31:54 Can't send the command to GRBL
+03.05 10:31:54 Write timeout03.05 10:31:54 Write timeout
+03.05 10:33:06 Can't send the command to GRBL
+03.05 10:33:06 Write timeout03.05 10:33:06 Write timeout
+
+03.05 10:33:43 Row 0: 03.05 10:33:43 Goto: -29.507; -39.629; 0.000
+03.05 10:33:43 Going to coordinates X=-29.507, Y=-39.629
+03.05 10:33:44 Moving is finished
+03.05 10:33:45 Row 1: 03.05 10:33:45 Raman: hfp3beznh2
+03.05 10:33:45 Starting signal collection to the file hfp3beznh2
+03.05 10:35:54 Data is collected!
+03.05 10:35:54 Row 2: 03.05 10:35:54 Circle: x: -29.507, y: -39.629, rad: 0.010, n: 5, fname: hfp3beznh2
+03.05 10:35:54 Scanning point 1 of circle
+03.05 10:35:54 Going to coordinates X=-29.497, Y=-39.629
+03.05 10:35:54 Moving is finished
+03.05 10:35:55 Starting signal collection to the file hfp3beznh2_circle_1
+03.05 10:38:05 Data is collected!
+03.05 10:38:05 Scanning point 2 of circle
+03.05 10:38:05 Going to coordinates X=-29.504, Y=-39.619
+03.05 10:38:05 Moving is finished
+03.05 10:38:07 Starting signal collection to the file hfp3beznh2_circle_2
+03.05 10:40:16 Data is collected!
+03.05 10:40:16 Scanning point 3 of circle
+03.05 10:40:16 Going to coordinates X=-29.515, Y=-39.623
+03.05 10:40:17 Moving is finished
+03.05 10:40:18 Starting signal collection to the file hfp3beznh2_circle_3
+03.05 10:42:28 Data is collected!
+03.05 10:42:28 Scanning point 4 of circle
+03.05 10:42:28 Going to coordinates X=-29.515, Y=-39.635
+03.05 10:42:28 Moving is finished
+03.05 10:42:29 Starting signal collection to the file hfp3beznh2_circle_4
+03.05 10:44:40 Data is collected!
+03.05 10:44:40 Scanning point 5 of circle
+03.05 10:44:40 Going to coordinates X=-29.504, Y=-39.639
+03.05 10:44:40 Moving is finished
+03.05 10:44:41 Starting signal collection to the file hfp3beznh2_circle_5
+03.05 10:46:51 Data is collected!
+03.05 10:46:51 Row 3: 03.05 10:46:51 Goto: -29.434; -39.691; 0.000
+03.05 10:46:51 Going to coordinates X=-29.434, Y=-39.691
+03.05 10:46:52 Moving is finished
+03.05 10:46:53 Row 4: 03.05 10:46:53 Raman: hfp3beznh2
+03.05 10:46:53 Starting signal collection to the file hfp3beznh2
+03.05 10:49:03 Data is collected!
+03.05 10:49:03 Row 5: 03.05 10:49:03 Goto: -29.434; -39.784; 0.000
+03.05 10:49:03 Going to coordinates X=-29.434, Y=-39.784
+03.05 10:49:03 Moving is finished
+03.05 10:49:04 Row 6: 03.05 10:49:04 Raman: hfp3beznh2
+03.05 10:49:04 Starting signal collection to the file hfp3beznh2
+03.05 10:51:14 Data is collected!
+03.05 10:51:14 Row 7: 03.05 10:51:14 Goto: -29.434; -39.742; 0.000
+03.05 10:51:14 Going to coordinates X=-29.434, Y=-39.742
+03.05 10:51:14 Moving is finished
+03.05 10:51:15 Row 8: 03.05 10:51:15 Raman: hfp3beznh2
+03.05 10:51:15 Starting signal collection to the file hfp3beznh2
+03.05 10:53:25 Data is collected!
+03.05 10:53:25 Row 9: 03.05 10:53:25 Goto: -29.415; -39.866; 0.000
+03.05 10:53:25 Going to coordinates X=-29.415, Y=-39.866
+03.05 10:53:26 Moving is finished
+03.05 10:53:27 Row 10: 03.05 10:53:27 Goto: -29.415; -39.866; 0.000
+03.05 10:53:27 Going to coordinates X=-29.415, Y=-39.866
+03.05 10:53:27 Moving is finished
+03.05 10:53:28 Row 11: 03.05 10:53:28 Raman: hfp3beznh2
+03.05 10:53:28 Starting signal collection to the file hfp3beznh2
+03.05 10:55:38 Data is collected!
+03.05 10:55:38 Row 12: 03.05 10:55:38 Goto: -29.449; -39.928; 0.000
+03.05 10:55:38 Going to coordinates X=-29.449, Y=-39.928
+03.05 10:55:38 Moving is finished
+03.05 10:55:39 Row 13: 03.05 10:55:39 Raman: hfp3beznh2
+03.05 10:55:39 Starting signal collection to the file hfp3beznh2
+03.05 10:57:49 Data is collected!
+03.05 10:57:49 Row 14: 03.05 10:57:49 Goto: -29.468; -40.072; 0.000
+03.05 10:57:49 Going to coordinates X=-29.468, Y=-40.072
+03.05 10:57:50 Moving is finished
+03.05 10:57:51 Row 15: 03.05 10:57:51 Raman: hfp3beznh2
+03.05 10:57:51 Starting signal collection to the file hfp3beznh2
+03.05 11:00:00 Data is collected!
+03.05 11:00:00 Row 16: 03.05 11:00:00 Goto: -29.532; -40.021; 0.000
+03.05 11:00:00 Going to coordinates X=-29.532, Y=-40.021
+03.05 11:00:00 Moving is finished
+03.05 11:00:01 Row 17: 03.05 11:00:01 Raman: hfp3beznh2
+03.05 11:00:01 Starting signal collection to the file hfp3beznh2
+03.05 11:02:11 Data is collected!
+03.05 11:02:11 Row 18: 03.05 11:02:11 Goto: -29.620; -40.062; 0.000
+03.05 11:02:11 Going to coordinates X=-29.620, Y=-40.062
+03.05 11:02:11 Moving is finished
+03.05 11:02:12 Row 19: 03.05 11:02:12 Raman: hfp3beznh2
+03.05 11:02:12 Starting signal collection to the file hfp3beznh2
+03.05 11:04:22 Data is collected!
+03.05 11:04:22 Row 20: 03.05 11:04:22 Goto: -29.620; -40.134; 0.000
+03.05 11:04:22 Going to coordinates X=-29.620, Y=-40.134
+03.05 11:04:22 Moving is finished
+03.05 11:04:23 Row 21: 03.05 11:04:23 Raman: hfp3beznh2
+03.05 11:04:23 Starting signal collection to the file hfp3beznh2
+03.05 11:06:33 Data is collected!
+03.05 11:06:33 Row 22: 03.05 11:06:33 Goto: -29.790; -40.351; 0.000
+03.05 11:06:33 Going to coordinates X=-29.790, Y=-40.351
+03.05 11:06:33 Moving is finished
+03.05 11:06:34 Row 23: 03.05 11:06:34 Raman: hfp3beznh2
+03.05 11:06:34 Starting signal collection to the file hfp3beznh2
+03.05 11:08:44 Data is collected!
+03.05 11:08:44 Row 24: 03.05 11:08:44 Circle: x: -29.790, y: -40.351, rad: 0.010, n: 10, fname: hfp3beznh2
+03.05 11:08:44 Scanning point 1 of circle
+03.05 11:08:44 Going to coordinates X=-29.780, Y=-40.351
+03.05 11:08:44 Moving is finished
+03.05 11:08:45 Starting signal collection to the file hfp3beznh2_circle_1
+03.05 11:10:55 Data is collected!
+03.05 11:10:55 Scanning point 2 of circle
+03.05 11:10:55 Going to coordinates X=-29.782, Y=-40.345
+03.05 11:10:55 Moving is finished
+03.05 11:10:56 Starting signal collection to the file hfp3beznh2_circle_2
+03.05 11:13:06 Data is collected!
+03.05 11:13:06 Scanning point 3 of circle
+03.05 11:13:06 Going to coordinates X=-29.787, Y=-40.341
+03.05 11:13:06 Moving is finished
+03.05 11:13:07 Starting signal collection to the file hfp3beznh2_circle_3
+03.05 11:15:17 Data is collected!
+03.05 11:15:17 Scanning point 4 of circle
+03.05 11:15:17 Going to coordinates X=-29.793, Y=-40.341
+03.05 11:15:18 Moving is finished
+03.05 11:15:19 Starting signal collection to the file hfp3beznh2_circle_4
+03.05 11:17:29 Data is collected!
+03.05 11:17:29 Scanning point 5 of circle
+03.05 11:17:29 Going to coordinates X=-29.798, Y=-40.345
+03.05 11:17:29 Moving is finished
+03.05 11:17:30 Starting signal collection to the file hfp3beznh2_circle_5
+03.05 11:19:40 Data is collected!
+03.05 11:19:40 Scanning point 6 of circle
+03.05 11:19:40 Going to coordinates X=-29.800, Y=-40.351
+03.05 11:19:40 Moving is finished
+03.05 11:19:41 Starting signal collection to the file hfp3beznh2_circle_6
+03.05 11:21:51 Data is collected!
+03.05 11:21:51 Scanning point 7 of circle
+03.05 11:21:51 Going to coordinates X=-29.798, Y=-40.357
+03.05 11:21:51 Moving is finished
+03.05 11:21:52 Starting signal collection to the file hfp3beznh2_circle_7
+03.05 11:24:02 Data is collected!
+03.05 11:24:02 Scanning point 8 of circle
+03.05 11:24:02 Going to coordinates X=-29.793, Y=-40.361
+03.05 11:24:02 Moving is finished
+03.05 11:24:03 Starting signal collection to the file hfp3beznh2_circle_8
+03.05 11:26:13 Data is collected!
+03.05 11:26:13 Scanning point 9 of circle
+03.05 11:26:13 Going to coordinates X=-29.787, Y=-40.361
+03.05 11:26:14 Moving is finished
+03.05 11:26:15 Starting signal collection to the file hfp3beznh2_circle_9
+03.05 11:28:25 Data is collected!
+03.05 11:28:25 Scanning point 10 of circle
+03.05 11:28:25 Going to coordinates X=-29.782, Y=-40.357
+03.05 11:28:25 Moving is finished
+03.05 11:28:26 Starting signal collection to the file hfp3beznh2_circle_10
+03.05 11:30:36 Data is collected!
+03.05 11:30:36 Row 25: 03.05 11:30:36 Goto: -29.863; -40.495; 0.000
+03.05 11:30:36 Going to coordinates X=-29.863, Y=-40.495
+03.05 11:30:37 Moving is finished
+03.05 11:30:38 Row 26: 03.05 11:30:38 Raman: hfp3beznh2
+03.05 11:30:38 Starting signal collection to the file hfp3beznh2
+03.05 11:32:47 Data is collected!
+03.05 11:32:47 Row 27: 03.05 11:32:47 Goto: -29.698; -40.835; 0.000
+03.05 11:32:47 Going to coordinates X=-29.698, Y=-40.835
+03.05 11:32:48 Moving is finished
+03.05 11:32:49 Row 28: 03.05 11:32:49 Raman: hfp3beznh2
+03.05 11:32:49 Starting signal collection to the file hfp3beznh2
+03.05 11:34:59 Data is collected!
+03.05 11:34:59 Row 29: 03.05 11:34:59 Goto: -29.576; -40.835; 0.000
+03.05 11:34:59 Going to coordinates X=-29.576, Y=-40.835
+03.05 11:34:59 Moving is finished
+03.05 11:35:00 Row 30: 03.05 11:35:00 Raman: hfp3beznh2
+03.05 11:35:00 Starting signal collection to the file hfp3beznh2
+03.05 11:37:09 Data is collected!
+03.05 12:19:10 Row 0: 03.05 12:19:10 Map: x1: -30.151, y1: -41.155, x2: -28.527, y2: -39.526, xres: 0.100, yres: 0.100, fname: hfp3beznh2
+03.05 12:19:10 Scanning 0 point from 324
+03.05 12:19:10 Going to coordinates X=-30.151, Y=-41.155
+03.05 12:19:11 Moving is finished
+03.05 12:19:18 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:18 Scanning 1 point from 324
+03.05 12:19:18 Going to coordinates X=-30.051, Y=-41.155
+03.05 12:19:19 Moving is finished
+03.05 12:19:22 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:22 Scanning 2 point from 324
+03.05 12:19:22 Going to coordinates X=-29.951, Y=-41.155
+03.05 12:19:23 Moving is finished
+03.05 12:19:26 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:26 Scanning 3 point from 324
+03.05 12:19:26 Going to coordinates X=-29.851, Y=-41.155
+03.05 12:19:26 Moving is finished
+03.05 12:19:30 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:30 Scanning 4 point from 324
+03.05 12:19:30 Going to coordinates X=-29.751, Y=-41.155
+03.05 12:19:30 Moving is finished
+03.05 12:19:34 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:34 Scanning 5 point from 324
+03.05 12:19:34 Going to coordinates X=-29.651, Y=-41.155
+03.05 12:19:34 Moving is finished
+03.05 12:19:38 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:38 Scanning 6 point from 324
+03.05 12:19:38 Going to coordinates X=-29.551, Y=-41.155
+03.05 12:19:39 Moving is finished
+03.05 12:19:43 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:43 Scanning 7 point from 324
+03.05 12:19:43 Going to coordinates X=-29.451, Y=-41.155
+03.05 12:19:43 Moving is finished
+03.05 12:19:48 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:48 Scanning 8 point from 324
+03.05 12:19:48 Going to coordinates X=-29.351, Y=-41.155
+03.05 12:19:48 Moving is finished
+03.05 12:19:52 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:52 Scanning 9 point from 324
+03.05 12:19:52 Going to coordinates X=-29.251, Y=-41.155
+03.05 12:19:53 Moving is finished
+03.05 12:19:57 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:19:57 Scanning 10 point from 324
+03.05 12:19:57 Going to coordinates X=-29.151, Y=-41.155
+03.05 12:19:57 Moving is finished
+03.05 12:20:01 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:01 Scanning 11 point from 324
+03.05 12:20:01 Going to coordinates X=-29.051, Y=-41.155
+03.05 12:20:02 Moving is finished
+03.05 12:20:06 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:06 Scanning 12 point from 324
+03.05 12:20:06 Going to coordinates X=-28.951, Y=-41.155
+03.05 12:20:06 Moving is finished
+03.05 12:20:10 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:10 Scanning 13 point from 324
+03.05 12:20:10 Going to coordinates X=-28.851, Y=-41.155
+03.05 12:20:10 Moving is finished
+03.05 12:20:13 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:13 Scanning 14 point from 324
+03.05 12:20:13 Going to coordinates X=-28.751, Y=-41.155
+03.05 12:20:14 Moving is finished
+03.05 12:20:16 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:17 Scanning 15 point from 324
+03.05 12:20:17 Going to coordinates X=-28.651, Y=-41.155
+03.05 12:20:17 Moving is finished
+03.05 12:20:20 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:20 Scanning 16 point from 324
+03.05 12:20:20 Going to coordinates X=-28.551, Y=-41.155
+03.05 12:20:20 Moving is finished
+03.05 12:20:23 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:23 Scanning 17 point from 324
+03.05 12:20:23 Going to coordinates X=-28.451, Y=-41.155
+03.05 12:20:23 Moving is finished
+03.05 12:20:26 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+03.05 12:20:26 Scanning 18 point from 324
+03.05 12:20:26 Going to coordinates X=-30.151, Y=-41.055
+03.05 12:20:27 Moving is finished
+03.05 12:20:31 Scanning 19 point from 324
+03.05 12:20:31 Going to coordinates X=-30.051, Y=-41.055
+03.05 12:20:31 Moving is finished
+
+03.05 12:20:33 Scanning 20 point from 324
+03.05 12:20:33 Going to coordinates X=-29.951, Y=-41.055
+03.05 12:20:33 Moving is finished
+
+03.05 12:20:35 Scanning 21 point from 324
+03.05 12:20:35 Going to coordinates X=-29.851, Y=-41.055
+03.05 12:20:35 Moving is finished
+
+03.05 12:20:38 Scanning 22 point from 324
+03.05 12:20:38 Going to coordinates X=-29.751, Y=-41.055
+03.05 12:20:38 Moving is finished
+
+03.05 12:20:40 Scanning 23 point from 324
+03.05 12:20:40 Going to coordinates X=-29.651, Y=-41.055
+03.05 12:20:40 Moving is finished
+
+03.05 12:20:42 Scanning 24 point from 324
+03.05 12:20:42 Going to coordinates X=-29.551, Y=-41.055
+03.05 12:20:43 Moving is finished
+
+03.05 12:20:45 Scanning 25 point from 324
+03.05 12:20:45 Going to coordinates X=-29.451, Y=-41.055
+03.05 12:20:45 Moving is finished
+
+03.05 12:20:47 Scanning 26 point from 324
+03.05 12:20:47 Going to coordinates X=-29.351, Y=-41.055
+03.05 12:20:47 Moving is finished
+
+03.05 12:20:49 Scanning 27 point from 324
+03.05 12:20:49 Paused
+03.05 12:20:55 Going to coordinates X=-29.251, Y=-41.055
+03.05 12:20:56 Moving is finished
+03.05 12:20:59 Scanning 28 point from 324
+03.05 12:20:59 Going to coordinates X=-29.151, Y=-41.055
+03.05 12:21:00 Moving is finished
+03.05 12:21:04 Scanning 29 point from 324
+03.05 12:21:04 Going to coordinates X=-29.051, Y=-41.055
+03.05 12:21:04 Moving is finished
+03.05 12:21:08 Scanning 30 point from 324
+03.05 12:21:08 Going to coordinates X=-28.951, Y=-41.055
+03.05 12:21:08 Moving is finished
+03.05 12:21:08 Stopped!
+03.05 12:21:14 Row 0: 03.05 12:21:14 Map: x1: -30.151, y1: -41.155, x2: -28.527, y2: -39.526, xres: 0.100, yres: 0.100, fname: hfp3beznh2
+03.05 12:21:14 Scanning 0 point from 324
+03.05 12:21:14 Going to coordinates X=-30.151, Y=-41.155
+03.05 12:21:21 Stopped!
+03.05 12:21:21 Row 0: 03.05 12:21:21 Map: x1: -30.151, y1: -41.155, x2: -28.527, y2: -39.526, xres: 0.100, yres: 0.100, fname: hfp3beznh2
+03.05 12:21:21 Scanning 0 point from 324

@@ -1,0 +1,16 @@
+09.12 09:38:17 Initializing grbl...
+09.12 09:38:17 Got the response: b''
+09.12 09:38:54 Can't send the command to GRBL
+09.12 09:38:54 Write timeout09.12 09:38:54 Write timeout
+09.12 09:46:53 Can't send the command to GRBL09.12 09:46:53 Write timeout
+09.12 09:46:53 Write timeout
+
+09.12 09:49:27 Write timeout09.12 09:49:27 Can't send the command to GRBL
+09.12 09:50:54 Can't send the command to GRBL
+09.12 09:50:54 Write timeout09.12 09:50:54 Write timeout
+
+09.12 10:01:53 Can't send the command to GRBL
+09.12 10:01:53 Write timeout09.12 10:01:53 Write timeout
+09.12 10:52:03 Can't send the command to GRBL
+09.12 10:52:03 Write timeout09.12 10:52:03 Write timeout
+

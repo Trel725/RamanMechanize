@@ -1,0 +1,2067 @@
+10.07 18:08:16 Initializing grbl...
+10.07 18:08:17 Got the response: b''
+10.07 18:09:21 Can't send the command to GRBL
+10.07 18:09:21 Write timeout10.07 18:09:21 Write timeout
+
+10.07 18:10:10 Row 0: 10.07 18:10:10 Map: x1: -8.635, y1: -44.174, x2: -6.264, y2: -44.8, xres: 0.050, yres: 0.050, fname: M2 07102019
+10.07 18:10:10 Scanning 0 point from 686
+10.07 18:10:10 Going to coordinates X=-8.635, Y=-44.800
+10.07 18:10:11 Moving is finished
+10.07 18:11:19 timed out
+10.07 18:11:19 Scanning 1 point from 686
+10.07 18:11:19 Going to coordinates X=-8.585, Y=-44.800
+10.07 18:11:19 Moving is finished
+10.07 18:11:27 timed out
+10.07 18:11:27 Scanning 2 point from 686
+10.07 18:11:27 Paused
+10.07 18:11:34 Going to coordinates X=-8.535, Y=-44.800
+10.07 18:11:34 Moving is finished
+10.07 18:12:38 Scanning 3 point from 686
+10.07 18:12:38 Going to coordinates X=-8.485, Y=-44.800
+10.07 18:12:39 Moving is finished
+10.07 18:13:42 Scanning 4 point from 686
+10.07 18:13:42 Going to coordinates X=-8.435, Y=-44.800
+10.07 18:13:43 Moving is finished
+10.07 18:14:47 Scanning 5 point from 686
+10.07 18:14:47 Going to coordinates X=-8.385, Y=-44.800
+10.07 18:14:47 Moving is finished
+10.07 18:15:52 Scanning 6 point from 686
+10.07 18:15:52 Going to coordinates X=-8.335, Y=-44.800
+10.07 18:15:52 Moving is finished
+10.07 18:16:56 Scanning 7 point from 686
+10.07 18:16:56 Going to coordinates X=-8.285, Y=-44.800
+10.07 18:16:56 Moving is finished
+10.07 18:18:00 Scanning 8 point from 686
+10.07 18:18:00 Going to coordinates X=-8.235, Y=-44.800
+10.07 18:18:00 Moving is finished
+10.07 18:19:05 Scanning 9 point from 686
+10.07 18:19:05 Going to coordinates X=-8.185, Y=-44.800
+10.07 18:19:05 Moving is finished
+10.07 18:20:09 Scanning 10 point from 686
+10.07 18:20:09 Going to coordinates X=-8.135, Y=-44.800
+10.07 18:20:09 Moving is finished
+10.07 18:21:13 Scanning 11 point from 686
+10.07 18:21:13 Going to coordinates X=-8.085, Y=-44.800
+10.07 18:21:14 Moving is finished
+10.07 18:22:17 Scanning 12 point from 686
+10.07 18:22:17 Going to coordinates X=-8.035, Y=-44.800
+10.07 18:22:18 Moving is finished
+10.07 18:23:22 Scanning 13 point from 686
+10.07 18:23:22 Going to coordinates X=-7.985, Y=-44.800
+10.07 18:23:22 Moving is finished
+10.07 18:24:26 Scanning 14 point from 686
+10.07 18:24:26 Going to coordinates X=-7.935, Y=-44.800
+10.07 18:24:27 Moving is finished
+10.07 18:25:31 Scanning 15 point from 686
+10.07 18:25:31 Going to coordinates X=-7.885, Y=-44.800
+10.07 18:25:31 Moving is finished
+10.07 18:26:35 Scanning 16 point from 686
+10.07 18:26:35 Going to coordinates X=-7.835, Y=-44.800
+10.07 18:26:35 Moving is finished
+10.07 18:27:39 Scanning 17 point from 686
+10.07 18:27:39 Going to coordinates X=-7.785, Y=-44.800
+10.07 18:27:40 Moving is finished
+10.07 18:28:44 Scanning 18 point from 686
+10.07 18:28:44 Going to coordinates X=-7.735, Y=-44.800
+10.07 18:28:44 Moving is finished
+10.07 18:29:48 Scanning 19 point from 686
+10.07 18:29:48 Going to coordinates X=-7.685, Y=-44.800
+10.07 18:29:49 Moving is finished
+10.07 18:30:53 Scanning 20 point from 686
+10.07 18:30:53 Going to coordinates X=-7.635, Y=-44.800
+10.07 18:30:53 Moving is finished
+10.07 18:31:57 Scanning 21 point from 686
+10.07 18:31:57 Going to coordinates X=-7.585, Y=-44.800
+10.07 18:31:57 Moving is finished
+10.07 18:33:01 Scanning 22 point from 686
+10.07 18:33:01 Going to coordinates X=-7.535, Y=-44.800
+10.07 18:33:01 Moving is finished
+10.07 18:34:05 Scanning 23 point from 686
+10.07 18:34:05 Going to coordinates X=-7.485, Y=-44.800
+10.07 18:34:05 Moving is finished
+10.07 18:35:10 Scanning 24 point from 686
+10.07 18:35:10 Going to coordinates X=-7.435, Y=-44.800
+10.07 18:35:10 Moving is finished
+10.07 18:36:14 Scanning 25 point from 686
+10.07 18:36:14 Going to coordinates X=-7.385, Y=-44.800
+10.07 18:36:15 Moving is finished
+10.07 18:37:19 Scanning 26 point from 686
+10.07 18:37:19 Going to coordinates X=-7.335, Y=-44.800
+10.07 18:37:19 Moving is finished
+10.07 18:38:23 Scanning 27 point from 686
+10.07 18:38:23 Going to coordinates X=-7.285, Y=-44.800
+10.07 18:38:23 Moving is finished
+10.07 18:39:27 Scanning 28 point from 686
+10.07 18:39:27 Going to coordinates X=-7.235, Y=-44.800
+10.07 18:39:27 Moving is finished
+10.07 18:40:32 Scanning 29 point from 686
+10.07 18:40:32 Going to coordinates X=-7.185, Y=-44.800
+10.07 18:40:32 Moving is finished
+10.07 18:41:36 Scanning 30 point from 686
+10.07 18:41:36 Going to coordinates X=-7.135, Y=-44.800
+10.07 18:41:37 Moving is finished
+10.07 18:42:41 Scanning 31 point from 686
+10.07 18:42:41 Going to coordinates X=-7.085, Y=-44.800
+10.07 18:42:41 Moving is finished
+10.07 18:43:45 Scanning 32 point from 686
+10.07 18:43:45 Going to coordinates X=-7.035, Y=-44.800
+10.07 18:43:46 Moving is finished
+10.07 18:44:50 Scanning 33 point from 686
+10.07 18:44:50 Going to coordinates X=-6.985, Y=-44.800
+10.07 18:44:50 Moving is finished
+10.07 18:45:54 Scanning 34 point from 686
+10.07 18:45:54 Going to coordinates X=-6.935, Y=-44.800
+10.07 18:45:55 Moving is finished
+10.07 18:46:58 Scanning 35 point from 686
+10.07 18:46:58 Going to coordinates X=-6.885, Y=-44.800
+10.07 18:46:58 Moving is finished
+10.07 18:48:02 Scanning 36 point from 686
+10.07 18:48:02 Going to coordinates X=-6.835, Y=-44.800
+10.07 18:48:02 Moving is finished
+10.07 18:49:06 Scanning 37 point from 686
+10.07 18:49:06 Going to coordinates X=-6.785, Y=-44.800
+10.07 18:49:06 Moving is finished
+10.07 18:50:10 Scanning 38 point from 686
+10.07 18:50:10 Going to coordinates X=-6.735, Y=-44.800
+10.07 18:50:10 Moving is finished
+10.07 18:51:14 Scanning 39 point from 686
+10.07 18:51:14 Going to coordinates X=-6.685, Y=-44.800
+10.07 18:51:14 Moving is finished
+10.07 18:52:18 Scanning 40 point from 686
+10.07 18:52:18 Going to coordinates X=-6.635, Y=-44.800
+10.07 18:52:18 Moving is finished
+10.07 18:53:23 Scanning 41 point from 686
+10.07 18:53:23 Going to coordinates X=-6.585, Y=-44.800
+10.07 18:53:23 Moving is finished
+10.07 18:54:27 Scanning 42 point from 686
+10.07 18:54:27 Going to coordinates X=-6.535, Y=-44.800
+10.07 18:54:27 Moving is finished
+10.07 18:55:31 Scanning 43 point from 686
+10.07 18:55:31 Going to coordinates X=-6.485, Y=-44.800
+10.07 18:55:32 Moving is finished
+10.07 18:56:36 Scanning 44 point from 686
+10.07 18:56:36 Going to coordinates X=-6.435, Y=-44.800
+10.07 18:56:36 Moving is finished
+10.07 18:57:40 Scanning 45 point from 686
+10.07 18:57:40 Going to coordinates X=-6.385, Y=-44.800
+10.07 18:57:40 Moving is finished
+10.07 18:58:44 Scanning 46 point from 686
+10.07 18:58:44 Going to coordinates X=-6.335, Y=-44.800
+10.07 18:58:44 Moving is finished
+10.07 18:59:48 Scanning 47 point from 686
+10.07 18:59:48 Going to coordinates X=-6.285, Y=-44.800
+10.07 18:59:49 Moving is finished
+10.07 19:00:53 Scanning 48 point from 686
+10.07 19:00:53 Going to coordinates X=-6.235, Y=-44.800
+10.07 19:00:53 Moving is finished
+10.07 19:01:57 Scanning 49 point from 686
+10.07 19:01:57 Going to coordinates X=-8.635, Y=-44.750
+10.07 19:01:58 Moving is finished
+10.07 19:03:02 Scanning 50 point from 686
+10.07 19:03:02 Going to coordinates X=-8.585, Y=-44.750
+10.07 19:03:02 Moving is finished
+10.07 19:04:07 Scanning 51 point from 686
+10.07 19:04:07 Going to coordinates X=-8.535, Y=-44.750
+10.07 19:04:07 Moving is finished
+10.07 19:05:11 Scanning 52 point from 686
+10.07 19:05:11 Going to coordinates X=-8.485, Y=-44.750
+10.07 19:05:11 Moving is finished
+10.07 19:06:15 Scanning 53 point from 686
+10.07 19:06:15 Going to coordinates X=-8.435, Y=-44.750
+10.07 19:06:15 Moving is finished
+10.07 19:07:19 Scanning 54 point from 686
+10.07 19:07:19 Going to coordinates X=-8.385, Y=-44.750
+10.07 19:07:19 Moving is finished
+10.07 19:08:24 Scanning 55 point from 686
+10.07 19:08:24 Going to coordinates X=-8.335, Y=-44.750
+10.07 19:08:24 Moving is finished
+10.07 19:09:28 Scanning 56 point from 686
+10.07 19:09:28 Going to coordinates X=-8.285, Y=-44.750
+10.07 19:09:29 Moving is finished
+10.07 19:10:33 Scanning 57 point from 686
+10.07 19:10:33 Going to coordinates X=-8.235, Y=-44.750
+10.07 19:10:33 Moving is finished
+10.07 19:11:37 Scanning 58 point from 686
+10.07 19:11:37 Going to coordinates X=-8.185, Y=-44.750
+10.07 19:11:38 Moving is finished
+10.07 19:12:41 Scanning 59 point from 686
+10.07 19:12:41 Going to coordinates X=-8.135, Y=-44.750
+10.07 19:12:42 Moving is finished
+10.07 19:13:45 Scanning 60 point from 686
+10.07 19:13:45 Going to coordinates X=-8.085, Y=-44.750
+10.07 19:13:46 Moving is finished
+10.07 19:14:49 Scanning 61 point from 686
+10.07 19:14:49 Going to coordinates X=-8.035, Y=-44.750
+10.07 19:14:49 Moving is finished
+10.07 19:15:53 Scanning 62 point from 686
+10.07 19:15:53 Going to coordinates X=-7.985, Y=-44.750
+10.07 19:15:54 Moving is finished
+10.07 19:16:57 Scanning 63 point from 686
+10.07 19:16:57 Going to coordinates X=-7.935, Y=-44.750
+10.07 19:16:57 Moving is finished
+10.07 19:18:01 Scanning 64 point from 686
+10.07 19:18:01 Going to coordinates X=-7.885, Y=-44.750
+10.07 19:18:01 Moving is finished
+10.07 19:19:05 Scanning 65 point from 686
+10.07 19:19:05 Going to coordinates X=-7.835, Y=-44.750
+10.07 19:19:05 Moving is finished
+10.07 19:20:09 Scanning 66 point from 686
+10.07 19:20:09 Going to coordinates X=-7.785, Y=-44.750
+10.07 19:20:10 Moving is finished
+10.07 19:21:14 Scanning 67 point from 686
+10.07 19:21:14 Going to coordinates X=-7.735, Y=-44.750
+10.07 19:21:14 Moving is finished
+10.07 19:22:18 Scanning 68 point from 686
+10.07 19:22:18 Going to coordinates X=-7.685, Y=-44.750
+10.07 19:22:18 Moving is finished
+10.07 19:23:22 Scanning 69 point from 686
+10.07 19:23:22 Going to coordinates X=-7.635, Y=-44.750
+10.07 19:23:22 Moving is finished
+10.07 19:24:26 Scanning 70 point from 686
+10.07 19:24:26 Going to coordinates X=-7.585, Y=-44.750
+10.07 19:24:26 Moving is finished
+10.07 19:25:30 Scanning 71 point from 686
+10.07 19:25:30 Going to coordinates X=-7.535, Y=-44.750
+10.07 19:25:30 Moving is finished
+10.07 19:26:34 Scanning 72 point from 686
+10.07 19:26:34 Going to coordinates X=-7.485, Y=-44.750
+10.07 19:26:34 Moving is finished
+10.07 19:27:39 Scanning 73 point from 686
+10.07 19:27:39 Going to coordinates X=-7.435, Y=-44.750
+10.07 19:27:39 Moving is finished
+10.07 19:28:43 Scanning 74 point from 686
+10.07 19:28:43 Going to coordinates X=-7.385, Y=-44.750
+10.07 19:28:43 Moving is finished
+10.07 19:29:48 Scanning 75 point from 686
+10.07 19:29:48 Going to coordinates X=-7.335, Y=-44.750
+10.07 19:29:48 Moving is finished
+10.07 19:30:52 Scanning 76 point from 686
+10.07 19:30:52 Going to coordinates X=-7.285, Y=-44.750
+10.07 19:30:52 Moving is finished
+10.07 19:31:56 Scanning 77 point from 686
+10.07 19:31:56 Going to coordinates X=-7.235, Y=-44.750
+10.07 19:31:57 Moving is finished
+10.07 19:33:01 Scanning 78 point from 686
+10.07 19:33:01 Going to coordinates X=-7.185, Y=-44.750
+10.07 19:33:01 Moving is finished
+10.07 19:34:05 Scanning 79 point from 686
+10.07 19:34:05 Going to coordinates X=-7.135, Y=-44.750
+10.07 19:34:06 Moving is finished
+10.07 19:35:10 Scanning 80 point from 686
+10.07 19:35:10 Going to coordinates X=-7.085, Y=-44.750
+10.07 19:35:10 Moving is finished
+10.07 19:36:14 Scanning 81 point from 686
+10.07 19:36:14 Going to coordinates X=-7.035, Y=-44.750
+10.07 19:36:14 Moving is finished
+10.07 19:37:18 Scanning 82 point from 686
+10.07 19:37:18 Going to coordinates X=-6.985, Y=-44.750
+10.07 19:37:18 Moving is finished
+10.07 19:38:22 Scanning 83 point from 686
+10.07 19:38:22 Going to coordinates X=-6.935, Y=-44.750
+10.07 19:38:23 Moving is finished
+10.07 19:39:26 Scanning 84 point from 686
+10.07 19:39:26 Going to coordinates X=-6.885, Y=-44.750
+10.07 19:39:27 Moving is finished
+10.07 19:40:30 Scanning 85 point from 686
+10.07 19:40:30 Going to coordinates X=-6.835, Y=-44.750
+10.07 19:40:31 Moving is finished
+10.07 19:41:35 Scanning 86 point from 686
+10.07 19:41:35 Going to coordinates X=-6.785, Y=-44.750
+10.07 19:41:35 Moving is finished
+10.07 19:42:39 Scanning 87 point from 686
+10.07 19:42:39 Going to coordinates X=-6.735, Y=-44.750
+10.07 19:42:39 Moving is finished
+10.07 19:43:43 Scanning 88 point from 686
+10.07 19:43:43 Going to coordinates X=-6.685, Y=-44.750
+10.07 19:43:43 Moving is finished
+10.07 19:44:48 Scanning 89 point from 686
+10.07 19:44:48 Going to coordinates X=-6.635, Y=-44.750
+10.07 19:44:48 Moving is finished
+10.07 19:45:53 Scanning 90 point from 686
+10.07 19:45:53 Going to coordinates X=-6.585, Y=-44.750
+10.07 19:45:53 Moving is finished
+10.07 19:46:57 Scanning 91 point from 686
+10.07 19:46:57 Going to coordinates X=-6.535, Y=-44.750
+10.07 19:46:57 Moving is finished
+10.07 19:48:01 Scanning 92 point from 686
+10.07 19:48:01 Going to coordinates X=-6.485, Y=-44.750
+10.07 19:48:01 Moving is finished
+10.07 19:49:05 Scanning 93 point from 686
+10.07 19:49:05 Going to coordinates X=-6.435, Y=-44.750
+10.07 19:49:05 Moving is finished
+10.07 19:50:10 Scanning 94 point from 686
+10.07 19:50:10 Going to coordinates X=-6.385, Y=-44.750
+10.07 19:50:10 Moving is finished
+10.07 19:51:14 Scanning 95 point from 686
+10.07 19:51:14 Going to coordinates X=-6.335, Y=-44.750
+10.07 19:51:15 Moving is finished
+10.07 19:52:18 Scanning 96 point from 686
+10.07 19:52:18 Going to coordinates X=-6.285, Y=-44.750
+10.07 19:52:19 Moving is finished
+10.07 19:53:22 Scanning 97 point from 686
+10.07 19:53:22 Going to coordinates X=-6.235, Y=-44.750
+10.07 19:53:22 Moving is finished
+10.07 19:54:26 Scanning 98 point from 686
+10.07 19:54:26 Going to coordinates X=-8.635, Y=-44.700
+10.07 19:54:27 Moving is finished
+10.07 19:55:31 Scanning 99 point from 686
+10.07 19:55:31 Going to coordinates X=-8.585, Y=-44.700
+10.07 19:55:31 Moving is finished
+10.07 19:56:35 Scanning 100 point from 686
+10.07 19:56:35 Going to coordinates X=-8.535, Y=-44.700
+10.07 19:56:36 Moving is finished
+10.07 19:57:39 Scanning 101 point from 686
+10.07 19:57:39 Going to coordinates X=-8.485, Y=-44.700
+10.07 19:57:40 Moving is finished
+10.07 19:58:43 Scanning 102 point from 686
+10.07 19:58:43 Going to coordinates X=-8.435, Y=-44.700
+10.07 19:58:43 Moving is finished
+10.07 19:59:47 Scanning 103 point from 686
+10.07 19:59:47 Going to coordinates X=-8.385, Y=-44.700
+10.07 19:59:47 Moving is finished
+10.07 20:00:51 Scanning 104 point from 686
+10.07 20:00:51 Going to coordinates X=-8.335, Y=-44.700
+10.07 20:00:51 Moving is finished
+10.07 20:01:56 Scanning 105 point from 686
+10.07 20:01:56 Going to coordinates X=-8.285, Y=-44.700
+10.07 20:01:56 Moving is finished
+10.07 20:03:01 Scanning 106 point from 686
+10.07 20:03:01 Going to coordinates X=-8.235, Y=-44.700
+10.07 20:03:01 Moving is finished
+10.07 20:04:06 Scanning 107 point from 686
+10.07 20:04:06 Going to coordinates X=-8.185, Y=-44.700
+10.07 20:04:06 Moving is finished
+10.07 20:05:10 Scanning 108 point from 686
+10.07 20:05:10 Going to coordinates X=-8.135, Y=-44.700
+10.07 20:05:10 Moving is finished
+10.07 20:06:15 Scanning 109 point from 686
+10.07 20:06:15 Going to coordinates X=-8.085, Y=-44.700
+10.07 20:06:15 Moving is finished
+10.07 20:07:19 Scanning 110 point from 686
+10.07 20:07:19 Going to coordinates X=-8.035, Y=-44.700
+10.07 20:07:19 Moving is finished
+10.07 20:08:23 Scanning 111 point from 686
+10.07 20:08:23 Going to coordinates X=-7.985, Y=-44.700
+10.07 20:08:23 Moving is finished
+10.07 20:09:27 Scanning 112 point from 686
+10.07 20:09:27 Going to coordinates X=-7.935, Y=-44.700
+10.07 20:09:28 Moving is finished
+10.07 20:10:32 Scanning 113 point from 686
+10.07 20:10:32 Going to coordinates X=-7.885, Y=-44.700
+10.07 20:10:32 Moving is finished
+10.07 20:11:36 Scanning 114 point from 686
+10.07 20:11:36 Going to coordinates X=-7.835, Y=-44.700
+10.07 20:11:36 Moving is finished
+10.07 20:12:40 Scanning 115 point from 686
+10.07 20:12:40 Going to coordinates X=-7.785, Y=-44.700
+10.07 20:12:41 Moving is finished
+10.07 20:13:45 Scanning 116 point from 686
+10.07 20:13:45 Going to coordinates X=-7.735, Y=-44.700
+10.07 20:13:45 Moving is finished
+10.07 20:14:49 Scanning 117 point from 686
+10.07 20:14:49 Going to coordinates X=-7.685, Y=-44.700
+10.07 20:14:50 Moving is finished
+10.07 20:15:54 Scanning 118 point from 686
+10.07 20:15:54 Going to coordinates X=-7.635, Y=-44.700
+10.07 20:15:54 Moving is finished
+10.07 20:16:58 Scanning 119 point from 686
+10.07 20:16:58 Going to coordinates X=-7.585, Y=-44.700
+10.07 20:16:58 Moving is finished
+10.07 20:18:02 Scanning 120 point from 686
+10.07 20:18:02 Going to coordinates X=-7.535, Y=-44.700
+10.07 20:18:02 Moving is finished
+10.07 20:19:06 Scanning 121 point from 686
+10.07 20:19:06 Going to coordinates X=-7.485, Y=-44.700
+10.07 20:19:07 Moving is finished
+10.07 20:20:11 Scanning 122 point from 686
+10.07 20:20:11 Going to coordinates X=-7.435, Y=-44.700
+10.07 20:20:11 Moving is finished
+10.07 20:21:16 Scanning 123 point from 686
+10.07 20:21:16 Going to coordinates X=-7.385, Y=-44.700
+10.07 20:21:16 Moving is finished
+10.07 20:22:20 Scanning 124 point from 686
+10.07 20:22:20 Going to coordinates X=-7.335, Y=-44.700
+10.07 20:22:20 Moving is finished
+10.07 20:23:24 Scanning 125 point from 686
+10.07 20:23:24 Going to coordinates X=-7.285, Y=-44.700
+10.07 20:23:25 Moving is finished
+10.07 20:24:29 Scanning 126 point from 686
+10.07 20:24:29 Going to coordinates X=-7.235, Y=-44.700
+10.07 20:24:29 Moving is finished
+10.07 20:25:33 Scanning 127 point from 686
+10.07 20:25:33 Going to coordinates X=-7.185, Y=-44.700
+10.07 20:25:33 Moving is finished
+10.07 20:26:37 Scanning 128 point from 686
+10.07 20:26:37 Going to coordinates X=-7.135, Y=-44.700
+10.07 20:26:37 Moving is finished
+10.07 20:27:40 Scanning 129 point from 686
+10.07 20:27:40 Going to coordinates X=-7.085, Y=-44.700
+10.07 20:27:41 Moving is finished
+10.07 20:28:45 Scanning 130 point from 686
+10.07 20:28:45 Going to coordinates X=-7.035, Y=-44.700
+10.07 20:28:45 Moving is finished
+10.07 20:29:49 Scanning 131 point from 686
+10.07 20:29:49 Going to coordinates X=-6.985, Y=-44.700
+10.07 20:29:49 Moving is finished
+10.07 20:30:53 Scanning 132 point from 686
+10.07 20:30:53 Going to coordinates X=-6.935, Y=-44.700
+10.07 20:30:53 Moving is finished
+10.07 20:31:57 Scanning 133 point from 686
+10.07 20:31:57 Going to coordinates X=-6.885, Y=-44.700
+10.07 20:31:57 Moving is finished
+10.07 20:33:01 Scanning 134 point from 686
+10.07 20:33:01 Going to coordinates X=-6.835, Y=-44.700
+10.07 20:33:01 Moving is finished
+10.07 20:34:05 Scanning 135 point from 686
+10.07 20:34:05 Going to coordinates X=-6.785, Y=-44.700
+10.07 20:34:05 Moving is finished
+10.07 20:35:09 Scanning 136 point from 686
+10.07 20:35:09 Going to coordinates X=-6.735, Y=-44.700
+10.07 20:35:09 Moving is finished
+10.07 20:36:13 Scanning 137 point from 686
+10.07 20:36:13 Going to coordinates X=-6.685, Y=-44.700
+10.07 20:36:13 Moving is finished
+10.07 20:37:17 Scanning 138 point from 686
+10.07 20:37:17 Going to coordinates X=-6.635, Y=-44.700
+10.07 20:37:17 Moving is finished
+10.07 20:38:21 Scanning 139 point from 686
+10.07 20:38:21 Going to coordinates X=-6.585, Y=-44.700
+10.07 20:38:21 Moving is finished
+10.07 20:39:25 Scanning 140 point from 686
+10.07 20:39:25 Going to coordinates X=-6.535, Y=-44.700
+10.07 20:39:25 Moving is finished
+10.07 20:40:29 Scanning 141 point from 686
+10.07 20:40:29 Going to coordinates X=-6.485, Y=-44.700
+10.07 20:40:29 Moving is finished
+10.07 20:41:33 Scanning 142 point from 686
+10.07 20:41:33 Going to coordinates X=-6.435, Y=-44.700
+10.07 20:41:33 Moving is finished
+10.07 20:42:37 Scanning 143 point from 686
+10.07 20:42:37 Going to coordinates X=-6.385, Y=-44.700
+10.07 20:42:37 Moving is finished
+10.07 20:43:41 Scanning 144 point from 686
+10.07 20:43:41 Going to coordinates X=-6.335, Y=-44.700
+10.07 20:43:41 Moving is finished
+10.07 20:44:45 Scanning 145 point from 686
+10.07 20:44:45 Going to coordinates X=-6.285, Y=-44.700
+10.07 20:44:45 Moving is finished
+10.07 20:45:49 Scanning 146 point from 686
+10.07 20:45:49 Going to coordinates X=-6.235, Y=-44.700
+10.07 20:45:49 Moving is finished
+10.07 20:46:53 Scanning 147 point from 686
+10.07 20:46:53 Going to coordinates X=-8.635, Y=-44.650
+10.07 20:46:54 Moving is finished
+10.07 20:47:58 Scanning 148 point from 686
+10.07 20:47:58 Going to coordinates X=-8.585, Y=-44.650
+10.07 20:47:58 Moving is finished
+10.07 20:49:02 Scanning 149 point from 686
+10.07 20:49:02 Going to coordinates X=-8.535, Y=-44.650
+10.07 20:49:02 Moving is finished
+10.07 20:50:06 Scanning 150 point from 686
+10.07 20:50:06 Going to coordinates X=-8.485, Y=-44.650
+10.07 20:50:06 Moving is finished
+10.07 20:51:11 Scanning 151 point from 686
+10.07 20:51:11 Going to coordinates X=-8.435, Y=-44.650
+10.07 20:51:11 Moving is finished
+10.07 20:52:15 Scanning 152 point from 686
+10.07 20:52:15 Going to coordinates X=-8.385, Y=-44.650
+10.07 20:52:15 Moving is finished
+10.07 20:53:19 Scanning 153 point from 686
+10.07 20:53:19 Going to coordinates X=-8.335, Y=-44.650
+10.07 20:53:19 Moving is finished
+10.07 20:54:23 Scanning 154 point from 686
+10.07 20:54:23 Going to coordinates X=-8.285, Y=-44.650
+10.07 20:54:24 Moving is finished
+10.07 20:55:28 Scanning 155 point from 686
+10.07 20:55:28 Going to coordinates X=-8.235, Y=-44.650
+10.07 20:55:28 Moving is finished
+10.07 20:56:32 Scanning 156 point from 686
+10.07 20:56:32 Going to coordinates X=-8.185, Y=-44.650
+10.07 20:56:32 Moving is finished
+10.07 20:57:36 Scanning 157 point from 686
+10.07 20:57:36 Going to coordinates X=-8.135, Y=-44.650
+10.07 20:57:37 Moving is finished
+10.07 20:58:41 Scanning 158 point from 686
+10.07 20:58:41 Going to coordinates X=-8.085, Y=-44.650
+10.07 20:58:41 Moving is finished
+10.07 20:59:45 Scanning 159 point from 686
+10.07 20:59:45 Going to coordinates X=-8.035, Y=-44.650
+10.07 20:59:45 Moving is finished
+10.07 21:00:49 Scanning 160 point from 686
+10.07 21:00:49 Going to coordinates X=-7.985, Y=-44.650
+10.07 21:00:49 Moving is finished
+10.07 21:01:54 Scanning 161 point from 686
+10.07 21:01:54 Going to coordinates X=-7.935, Y=-44.650
+10.07 21:01:54 Moving is finished
+10.07 21:02:58 Scanning 162 point from 686
+10.07 21:02:58 Going to coordinates X=-7.885, Y=-44.650
+10.07 21:02:58 Moving is finished
+10.07 21:04:02 Scanning 163 point from 686
+10.07 21:04:02 Going to coordinates X=-7.835, Y=-44.650
+10.07 21:04:02 Moving is finished
+10.07 21:05:06 Scanning 164 point from 686
+10.07 21:05:06 Going to coordinates X=-7.785, Y=-44.650
+10.07 21:05:06 Moving is finished
+10.07 21:06:10 Scanning 165 point from 686
+10.07 21:06:10 Going to coordinates X=-7.735, Y=-44.650
+10.07 21:06:11 Moving is finished
+10.07 21:07:14 Scanning 166 point from 686
+10.07 21:07:14 Going to coordinates X=-7.685, Y=-44.650
+10.07 21:07:15 Moving is finished
+10.07 21:08:19 Scanning 167 point from 686
+10.07 21:08:19 Going to coordinates X=-7.635, Y=-44.650
+10.07 21:08:19 Moving is finished
+10.07 21:09:23 Scanning 168 point from 686
+10.07 21:09:23 Going to coordinates X=-7.585, Y=-44.650
+10.07 21:09:23 Moving is finished
+10.07 21:10:27 Scanning 169 point from 686
+10.07 21:10:27 Going to coordinates X=-7.535, Y=-44.650
+10.07 21:10:28 Moving is finished
+10.07 21:11:31 Scanning 170 point from 686
+10.07 21:11:31 Going to coordinates X=-7.485, Y=-44.650
+10.07 21:11:32 Moving is finished
+10.07 21:12:36 Scanning 171 point from 686
+10.07 21:12:36 Going to coordinates X=-7.435, Y=-44.650
+10.07 21:12:36 Moving is finished
+10.07 21:13:40 Scanning 172 point from 686
+10.07 21:13:40 Going to coordinates X=-7.385, Y=-44.650
+10.07 21:13:40 Moving is finished
+10.07 21:14:44 Scanning 173 point from 686
+10.07 21:14:44 Going to coordinates X=-7.335, Y=-44.650
+10.07 21:14:44 Moving is finished
+10.07 21:15:48 Scanning 174 point from 686
+10.07 21:15:48 Going to coordinates X=-7.285, Y=-44.650
+10.07 21:15:49 Moving is finished
+10.07 21:16:52 Scanning 175 point from 686
+10.07 21:16:52 Going to coordinates X=-7.235, Y=-44.650
+10.07 21:16:52 Moving is finished
+10.07 21:17:57 Scanning 176 point from 686
+10.07 21:17:57 Going to coordinates X=-7.185, Y=-44.650
+10.07 21:17:57 Moving is finished
+10.07 21:19:01 Scanning 177 point from 686
+10.07 21:19:01 Going to coordinates X=-7.135, Y=-44.650
+10.07 21:19:01 Moving is finished
+10.07 21:20:05 Scanning 178 point from 686
+10.07 21:20:05 Going to coordinates X=-7.085, Y=-44.650
+10.07 21:20:05 Moving is finished
+10.07 21:21:09 Scanning 179 point from 686
+10.07 21:21:09 Going to coordinates X=-7.035, Y=-44.650
+10.07 21:21:09 Moving is finished
+10.07 21:22:14 Scanning 180 point from 686
+10.07 21:22:14 Going to coordinates X=-6.985, Y=-44.650
+10.07 21:22:14 Moving is finished
+10.07 21:23:18 Scanning 181 point from 686
+10.07 21:23:18 Going to coordinates X=-6.935, Y=-44.650
+10.07 21:23:18 Moving is finished
+10.07 21:24:23 Scanning 182 point from 686
+10.07 21:24:23 Going to coordinates X=-6.885, Y=-44.650
+10.07 21:24:23 Moving is finished
+10.07 21:25:28 Scanning 183 point from 686
+10.07 21:25:28 Going to coordinates X=-6.835, Y=-44.650
+10.07 21:25:28 Moving is finished
+10.07 21:26:32 Scanning 184 point from 686
+10.07 21:26:32 Going to coordinates X=-6.785, Y=-44.650
+10.07 21:26:32 Moving is finished
+10.07 21:27:37 Scanning 185 point from 686
+10.07 21:27:37 Going to coordinates X=-6.735, Y=-44.650
+10.07 21:27:37 Moving is finished
+10.07 21:28:41 Scanning 186 point from 686
+10.07 21:28:41 Going to coordinates X=-6.685, Y=-44.650
+10.07 21:28:41 Moving is finished
+10.07 21:29:45 Scanning 187 point from 686
+10.07 21:29:45 Going to coordinates X=-6.635, Y=-44.650
+10.07 21:29:45 Moving is finished
+10.07 21:30:49 Scanning 188 point from 686
+10.07 21:30:49 Going to coordinates X=-6.585, Y=-44.650
+10.07 21:30:50 Moving is finished
+10.07 21:31:54 Scanning 189 point from 686
+10.07 21:31:54 Going to coordinates X=-6.535, Y=-44.650
+10.07 21:31:54 Moving is finished
+10.07 21:32:58 Scanning 190 point from 686
+10.07 21:32:58 Going to coordinates X=-6.485, Y=-44.650
+10.07 21:32:59 Moving is finished
+10.07 21:34:03 Scanning 191 point from 686
+10.07 21:34:03 Going to coordinates X=-6.435, Y=-44.650
+10.07 21:34:03 Moving is finished
+10.07 21:35:07 Scanning 192 point from 686
+10.07 21:35:07 Going to coordinates X=-6.385, Y=-44.650
+10.07 21:35:07 Moving is finished
+10.07 21:36:11 Scanning 193 point from 686
+10.07 21:36:11 Going to coordinates X=-6.335, Y=-44.650
+10.07 21:36:11 Moving is finished
+10.07 21:37:15 Scanning 194 point from 686
+10.07 21:37:15 Going to coordinates X=-6.285, Y=-44.650
+10.07 21:37:15 Moving is finished
+10.07 21:38:20 Scanning 195 point from 686
+10.07 21:38:20 Going to coordinates X=-6.235, Y=-44.650
+10.07 21:38:20 Moving is finished
+10.07 21:39:23 Scanning 196 point from 686
+10.07 21:39:23 Going to coordinates X=-8.635, Y=-44.600
+10.07 21:39:25 Moving is finished
+10.07 21:40:29 Scanning 197 point from 686
+10.07 21:40:29 Going to coordinates X=-8.585, Y=-44.600
+10.07 21:40:29 Moving is finished
+10.07 21:41:33 Scanning 198 point from 686
+10.07 21:41:33 Going to coordinates X=-8.535, Y=-44.600
+10.07 21:41:33 Moving is finished
+10.07 21:42:38 Scanning 199 point from 686
+10.07 21:42:38 Going to coordinates X=-8.485, Y=-44.600
+10.07 21:42:38 Moving is finished
+10.07 21:43:42 Scanning 200 point from 686
+10.07 21:43:42 Going to coordinates X=-8.435, Y=-44.600
+10.07 21:43:42 Moving is finished
+10.07 21:44:47 Scanning 201 point from 686
+10.07 21:44:47 Going to coordinates X=-8.385, Y=-44.600
+10.07 21:44:47 Moving is finished
+10.07 21:45:51 Scanning 202 point from 686
+10.07 21:45:51 Going to coordinates X=-8.335, Y=-44.600
+10.07 21:45:51 Moving is finished
+10.07 21:46:55 Scanning 203 point from 686
+10.07 21:46:55 Going to coordinates X=-8.285, Y=-44.600
+10.07 21:46:55 Moving is finished
+10.07 21:47:59 Scanning 204 point from 686
+10.07 21:47:59 Going to coordinates X=-8.235, Y=-44.600
+10.07 21:48:00 Moving is finished
+10.07 21:49:03 Scanning 205 point from 686
+10.07 21:49:03 Going to coordinates X=-8.185, Y=-44.600
+10.07 21:49:04 Moving is finished
+10.07 21:50:08 Scanning 206 point from 686
+10.07 21:50:08 Going to coordinates X=-8.135, Y=-44.600
+10.07 21:50:08 Moving is finished
+10.07 21:51:12 Scanning 207 point from 686
+10.07 21:51:12 Going to coordinates X=-8.085, Y=-44.600
+10.07 21:51:12 Moving is finished
+10.07 21:52:16 Scanning 208 point from 686
+10.07 21:52:16 Going to coordinates X=-8.035, Y=-44.600
+10.07 21:52:16 Moving is finished
+10.07 21:53:20 Scanning 209 point from 686
+10.07 21:53:20 Going to coordinates X=-7.985, Y=-44.600
+10.07 21:53:20 Moving is finished
+10.07 21:54:24 Scanning 210 point from 686
+10.07 21:54:24 Going to coordinates X=-7.935, Y=-44.600
+10.07 21:54:24 Moving is finished
+10.07 21:55:28 Scanning 211 point from 686
+10.07 21:55:28 Going to coordinates X=-7.885, Y=-44.600
+10.07 21:55:28 Moving is finished
+10.07 21:56:32 Scanning 212 point from 686
+10.07 21:56:32 Going to coordinates X=-7.835, Y=-44.600
+10.07 21:56:32 Moving is finished
+10.07 21:57:36 Scanning 213 point from 686
+10.07 21:57:36 Going to coordinates X=-7.785, Y=-44.600
+10.07 21:57:36 Moving is finished
+10.07 21:58:40 Scanning 214 point from 686
+10.07 21:58:40 Going to coordinates X=-7.735, Y=-44.600
+10.07 21:58:40 Moving is finished
+10.07 21:59:43 Scanning 215 point from 686
+10.07 21:59:43 Going to coordinates X=-7.685, Y=-44.600
+10.07 21:59:44 Moving is finished
+10.07 22:00:48 Scanning 216 point from 686
+10.07 22:00:48 Going to coordinates X=-7.635, Y=-44.600
+10.07 22:00:48 Moving is finished
+10.07 22:01:51 Scanning 217 point from 686
+10.07 22:01:51 Going to coordinates X=-7.585, Y=-44.600
+10.07 22:01:52 Moving is finished
+10.07 22:02:56 Scanning 218 point from 686
+10.07 22:02:56 Going to coordinates X=-7.535, Y=-44.600
+10.07 22:02:56 Moving is finished
+10.07 22:04:00 Scanning 219 point from 686
+10.07 22:04:00 Going to coordinates X=-7.485, Y=-44.600
+10.07 22:04:00 Moving is finished
+10.07 22:05:04 Scanning 220 point from 686
+10.07 22:05:04 Going to coordinates X=-7.435, Y=-44.600
+10.07 22:05:04 Moving is finished
+10.07 22:06:08 Scanning 221 point from 686
+10.07 22:06:08 Going to coordinates X=-7.385, Y=-44.600
+10.07 22:06:08 Moving is finished
+10.07 22:07:13 Scanning 222 point from 686
+10.07 22:07:13 Going to coordinates X=-7.335, Y=-44.600
+10.07 22:07:13 Moving is finished
+10.07 22:08:17 Scanning 223 point from 686
+10.07 22:08:17 Going to coordinates X=-7.285, Y=-44.600
+10.07 22:08:17 Moving is finished
+10.07 22:09:21 Scanning 224 point from 686
+10.07 22:09:21 Going to coordinates X=-7.235, Y=-44.600
+10.07 22:09:21 Moving is finished
+10.07 22:10:26 Scanning 225 point from 686
+10.07 22:10:26 Going to coordinates X=-7.185, Y=-44.600
+10.07 22:10:26 Moving is finished
+10.07 22:11:31 Scanning 226 point from 686
+10.07 22:11:31 Going to coordinates X=-7.135, Y=-44.600
+10.07 22:11:31 Moving is finished
+10.07 22:12:35 Scanning 227 point from 686
+10.07 22:12:35 Going to coordinates X=-7.085, Y=-44.600
+10.07 22:12:35 Moving is finished
+10.07 22:13:39 Scanning 228 point from 686
+10.07 22:13:39 Going to coordinates X=-7.035, Y=-44.600
+10.07 22:13:39 Moving is finished
+10.07 22:14:43 Scanning 229 point from 686
+10.07 22:14:43 Going to coordinates X=-6.985, Y=-44.600
+10.07 22:14:43 Moving is finished
+10.07 22:15:47 Scanning 230 point from 686
+10.07 22:15:47 Going to coordinates X=-6.935, Y=-44.600
+10.07 22:15:47 Moving is finished
+10.07 22:16:51 Scanning 231 point from 686
+10.07 22:16:51 Going to coordinates X=-6.885, Y=-44.600
+10.07 22:16:51 Moving is finished
+10.07 22:17:55 Scanning 232 point from 686
+10.07 22:17:55 Going to coordinates X=-6.835, Y=-44.600
+10.07 22:17:55 Moving is finished
+10.07 22:18:59 Scanning 233 point from 686
+10.07 22:18:59 Going to coordinates X=-6.785, Y=-44.600
+10.07 22:18:59 Moving is finished
+10.07 22:20:04 Scanning 234 point from 686
+10.07 22:20:04 Going to coordinates X=-6.735, Y=-44.600
+10.07 22:20:04 Moving is finished
+10.07 22:21:08 Scanning 235 point from 686
+10.07 22:21:08 Going to coordinates X=-6.685, Y=-44.600
+10.07 22:21:09 Moving is finished
+10.07 22:22:13 Scanning 236 point from 686
+10.07 22:22:13 Going to coordinates X=-6.635, Y=-44.600
+10.07 22:22:13 Moving is finished
+10.07 22:23:17 Scanning 237 point from 686
+10.07 22:23:17 Going to coordinates X=-6.585, Y=-44.600
+10.07 22:23:17 Moving is finished
+10.07 22:24:21 Scanning 238 point from 686
+10.07 22:24:21 Going to coordinates X=-6.535, Y=-44.600
+10.07 22:24:22 Moving is finished
+10.07 22:25:26 Scanning 239 point from 686
+10.07 22:25:26 Going to coordinates X=-6.485, Y=-44.600
+10.07 22:25:26 Moving is finished
+10.07 22:26:30 Scanning 240 point from 686
+10.07 22:26:30 Going to coordinates X=-6.435, Y=-44.600
+10.07 22:26:30 Moving is finished
+10.07 22:27:34 Scanning 241 point from 686
+10.07 22:27:34 Going to coordinates X=-6.385, Y=-44.600
+10.07 22:27:35 Moving is finished
+10.07 22:28:39 Scanning 242 point from 686
+10.07 22:28:39 Going to coordinates X=-6.335, Y=-44.600
+10.07 22:28:39 Moving is finished
+10.07 22:29:43 Scanning 243 point from 686
+10.07 22:29:43 Going to coordinates X=-6.285, Y=-44.600
+10.07 22:29:43 Moving is finished
+10.07 22:30:47 Scanning 244 point from 686
+10.07 22:30:47 Going to coordinates X=-6.235, Y=-44.600
+10.07 22:30:47 Moving is finished
+10.07 22:31:51 Scanning 245 point from 686
+10.07 22:31:51 Going to coordinates X=-8.635, Y=-44.550
+10.07 22:31:52 Moving is finished
+10.07 22:32:56 Scanning 246 point from 686
+10.07 22:32:56 Going to coordinates X=-8.585, Y=-44.550
+10.07 22:32:57 Moving is finished
+10.07 22:34:01 Scanning 247 point from 686
+10.07 22:34:01 Going to coordinates X=-8.535, Y=-44.550
+10.07 22:34:01 Moving is finished
+10.07 22:35:06 Scanning 248 point from 686
+10.07 22:35:06 Going to coordinates X=-8.485, Y=-44.550
+10.07 22:35:06 Moving is finished
+10.07 22:36:10 Scanning 249 point from 686
+10.07 22:36:10 Going to coordinates X=-8.435, Y=-44.550
+10.07 22:36:10 Moving is finished
+10.07 22:37:14 Scanning 250 point from 686
+10.07 22:37:14 Going to coordinates X=-8.385, Y=-44.550
+10.07 22:37:14 Moving is finished
+10.07 22:38:18 Scanning 251 point from 686
+10.07 22:38:18 Going to coordinates X=-8.335, Y=-44.550
+10.07 22:38:18 Moving is finished
+10.07 22:39:22 Scanning 252 point from 686
+10.07 22:39:22 Going to coordinates X=-8.285, Y=-44.550
+10.07 22:39:23 Moving is finished
+10.07 22:40:27 Scanning 253 point from 686
+10.07 22:40:27 Going to coordinates X=-8.235, Y=-44.550
+10.07 22:40:27 Moving is finished
+10.07 22:41:31 Scanning 254 point from 686
+10.07 22:41:31 Going to coordinates X=-8.185, Y=-44.550
+10.07 22:41:31 Moving is finished
+10.07 22:42:36 Scanning 255 point from 686
+10.07 22:42:36 Going to coordinates X=-8.135, Y=-44.550
+10.07 22:42:36 Moving is finished
+10.07 22:43:40 Scanning 256 point from 686
+10.07 22:43:40 Going to coordinates X=-8.085, Y=-44.550
+10.07 22:43:40 Moving is finished
+10.07 22:44:45 Scanning 257 point from 686
+10.07 22:44:45 Going to coordinates X=-8.035, Y=-44.550
+10.07 22:44:45 Moving is finished
+10.07 22:45:49 Scanning 258 point from 686
+10.07 22:45:49 Going to coordinates X=-7.985, Y=-44.550
+10.07 22:45:49 Moving is finished
+10.07 22:46:53 Scanning 259 point from 686
+10.07 22:46:53 Going to coordinates X=-7.935, Y=-44.550
+10.07 22:46:53 Moving is finished
+10.07 22:47:57 Scanning 260 point from 686
+10.07 22:47:57 Going to coordinates X=-7.885, Y=-44.550
+10.07 22:47:57 Moving is finished
+10.07 22:49:01 Scanning 261 point from 686
+10.07 22:49:01 Going to coordinates X=-7.835, Y=-44.550
+10.07 22:49:01 Moving is finished
+10.07 22:50:05 Scanning 262 point from 686
+10.07 22:50:05 Going to coordinates X=-7.785, Y=-44.550
+10.07 22:50:05 Moving is finished
+10.07 22:51:09 Scanning 263 point from 686
+10.07 22:51:09 Going to coordinates X=-7.735, Y=-44.550
+10.07 22:51:10 Moving is finished
+10.07 22:52:14 Scanning 264 point from 686
+10.07 22:52:14 Going to coordinates X=-7.685, Y=-44.550
+10.07 22:52:14 Moving is finished
+10.07 22:53:18 Scanning 265 point from 686
+10.07 22:53:18 Going to coordinates X=-7.635, Y=-44.550
+10.07 22:53:18 Moving is finished
+10.07 22:54:22 Scanning 266 point from 686
+10.07 22:54:22 Going to coordinates X=-7.585, Y=-44.550
+10.07 22:54:22 Moving is finished
+10.07 22:55:27 Scanning 267 point from 686
+10.07 22:55:27 Going to coordinates X=-7.535, Y=-44.550
+10.07 22:55:27 Moving is finished
+10.07 22:56:31 Scanning 268 point from 686
+10.07 22:56:31 Going to coordinates X=-7.485, Y=-44.550
+10.07 22:56:31 Moving is finished
+10.07 22:57:36 Scanning 269 point from 686
+10.07 22:57:36 Going to coordinates X=-7.435, Y=-44.550
+10.07 22:57:36 Moving is finished
+10.07 22:58:40 Scanning 270 point from 686
+10.07 22:58:40 Going to coordinates X=-7.385, Y=-44.550
+10.07 22:58:40 Moving is finished
+10.07 22:59:44 Scanning 271 point from 686
+10.07 22:59:44 Going to coordinates X=-7.335, Y=-44.550
+10.07 22:59:44 Moving is finished
+10.07 23:00:48 Scanning 272 point from 686
+10.07 23:00:48 Going to coordinates X=-7.285, Y=-44.550
+10.07 23:00:48 Moving is finished
+10.07 23:01:52 Scanning 273 point from 686
+10.07 23:01:52 Going to coordinates X=-7.235, Y=-44.550
+10.07 23:01:52 Moving is finished
+10.07 23:02:56 Scanning 274 point from 686
+10.07 23:02:56 Going to coordinates X=-7.185, Y=-44.550
+10.07 23:02:56 Moving is finished
+10.07 23:04:00 Scanning 275 point from 686
+10.07 23:04:00 Going to coordinates X=-7.135, Y=-44.550
+10.07 23:04:00 Moving is finished
+10.07 23:05:04 Scanning 276 point from 686
+10.07 23:05:04 Going to coordinates X=-7.085, Y=-44.550
+10.07 23:05:04 Moving is finished
+10.07 23:06:08 Scanning 277 point from 686
+10.07 23:06:08 Going to coordinates X=-7.035, Y=-44.550
+10.07 23:06:08 Moving is finished
+10.07 23:07:13 Scanning 278 point from 686
+10.07 23:07:13 Going to coordinates X=-6.985, Y=-44.550
+10.07 23:07:13 Moving is finished
+10.07 23:08:17 Scanning 279 point from 686
+10.07 23:08:17 Going to coordinates X=-6.935, Y=-44.550
+10.07 23:08:17 Moving is finished
+10.07 23:09:21 Scanning 280 point from 686
+10.07 23:09:21 Going to coordinates X=-6.885, Y=-44.550
+10.07 23:09:21 Moving is finished
+10.07 23:10:25 Scanning 281 point from 686
+10.07 23:10:25 Going to coordinates X=-6.835, Y=-44.550
+10.07 23:10:25 Moving is finished
+10.07 23:11:29 Scanning 282 point from 686
+10.07 23:11:29 Going to coordinates X=-6.785, Y=-44.550
+10.07 23:11:29 Moving is finished
+10.07 23:12:33 Scanning 283 point from 686
+10.07 23:12:33 Going to coordinates X=-6.735, Y=-44.550
+10.07 23:12:33 Moving is finished
+10.07 23:13:38 Scanning 284 point from 686
+10.07 23:13:38 Going to coordinates X=-6.685, Y=-44.550
+10.07 23:13:38 Moving is finished
+10.07 23:14:42 Scanning 285 point from 686
+10.07 23:14:42 Going to coordinates X=-6.635, Y=-44.550
+10.07 23:14:42 Moving is finished
+10.07 23:15:47 Scanning 286 point from 686
+10.07 23:15:47 Going to coordinates X=-6.585, Y=-44.550
+10.07 23:15:47 Moving is finished
+10.07 23:16:51 Scanning 287 point from 686
+10.07 23:16:51 Going to coordinates X=-6.535, Y=-44.550
+10.07 23:16:51 Moving is finished
+10.07 23:17:55 Scanning 288 point from 686
+10.07 23:17:55 Going to coordinates X=-6.485, Y=-44.550
+10.07 23:17:55 Moving is finished
+10.07 23:19:00 Scanning 289 point from 686
+10.07 23:19:00 Going to coordinates X=-6.435, Y=-44.550
+10.07 23:19:00 Moving is finished
+10.07 23:20:04 Scanning 290 point from 686
+10.07 23:20:04 Going to coordinates X=-6.385, Y=-44.550
+10.07 23:20:05 Moving is finished
+10.07 23:21:09 Scanning 291 point from 686
+10.07 23:21:09 Going to coordinates X=-6.335, Y=-44.550
+10.07 23:21:09 Moving is finished
+10.07 23:22:13 Scanning 292 point from 686
+10.07 23:22:13 Going to coordinates X=-6.285, Y=-44.550
+10.07 23:22:14 Moving is finished
+10.07 23:23:18 Scanning 293 point from 686
+10.07 23:23:18 Going to coordinates X=-6.235, Y=-44.550
+10.07 23:23:19 Moving is finished
+10.07 23:24:23 Scanning 294 point from 686
+10.07 23:24:23 Going to coordinates X=-8.635, Y=-44.500
+10.07 23:24:24 Moving is finished
+10.07 23:25:28 Scanning 295 point from 686
+10.07 23:25:28 Going to coordinates X=-8.585, Y=-44.500
+10.07 23:25:29 Moving is finished
+10.07 23:26:33 Scanning 296 point from 686
+10.07 23:26:33 Going to coordinates X=-8.535, Y=-44.500
+10.07 23:26:34 Moving is finished
+10.07 23:27:38 Scanning 297 point from 686
+10.07 23:27:38 Going to coordinates X=-8.485, Y=-44.500
+10.07 23:27:38 Moving is finished
+10.07 23:28:43 Scanning 298 point from 686
+10.07 23:28:43 Going to coordinates X=-8.435, Y=-44.500
+10.07 23:28:43 Moving is finished
+10.07 23:29:47 Scanning 299 point from 686
+10.07 23:29:47 Going to coordinates X=-8.385, Y=-44.500
+10.07 23:29:47 Moving is finished
+10.07 23:30:51 Scanning 300 point from 686
+10.07 23:30:51 Going to coordinates X=-8.335, Y=-44.500
+10.07 23:30:51 Moving is finished
+10.07 23:31:55 Scanning 301 point from 686
+10.07 23:31:55 Going to coordinates X=-8.285, Y=-44.500
+10.07 23:31:56 Moving is finished
+10.07 23:33:00 Scanning 302 point from 686
+10.07 23:33:00 Going to coordinates X=-8.235, Y=-44.500
+10.07 23:33:01 Moving is finished
+10.07 23:34:04 Scanning 303 point from 686
+10.07 23:34:04 Going to coordinates X=-8.185, Y=-44.500
+10.07 23:34:05 Moving is finished
+10.07 23:35:09 Scanning 304 point from 686
+10.07 23:35:09 Going to coordinates X=-8.135, Y=-44.500
+10.07 23:35:09 Moving is finished
+10.07 23:36:12 Scanning 305 point from 686
+10.07 23:36:12 Going to coordinates X=-8.085, Y=-44.500
+10.07 23:36:13 Moving is finished
+10.07 23:37:16 Scanning 306 point from 686
+10.07 23:37:16 Going to coordinates X=-8.035, Y=-44.500
+10.07 23:37:17 Moving is finished
+10.07 23:38:20 Scanning 307 point from 686
+10.07 23:38:20 Going to coordinates X=-7.985, Y=-44.500
+10.07 23:38:21 Moving is finished
+10.07 23:39:24 Scanning 308 point from 686
+10.07 23:39:24 Going to coordinates X=-7.935, Y=-44.500
+10.07 23:39:25 Moving is finished
+10.07 23:40:28 Scanning 309 point from 686
+10.07 23:40:28 Going to coordinates X=-7.885, Y=-44.500
+10.07 23:40:29 Moving is finished
+10.07 23:41:32 Scanning 310 point from 686
+10.07 23:41:32 Going to coordinates X=-7.835, Y=-44.500
+10.07 23:41:33 Moving is finished
+10.07 23:42:37 Scanning 311 point from 686
+10.07 23:42:37 Going to coordinates X=-7.785, Y=-44.500
+10.07 23:42:37 Moving is finished
+10.07 23:43:41 Scanning 312 point from 686
+10.07 23:43:41 Going to coordinates X=-7.735, Y=-44.500
+10.07 23:43:41 Moving is finished
+10.07 23:44:45 Scanning 313 point from 686
+10.07 23:44:45 Going to coordinates X=-7.685, Y=-44.500
+10.07 23:44:45 Moving is finished
+10.07 23:45:49 Scanning 314 point from 686
+10.07 23:45:49 Going to coordinates X=-7.635, Y=-44.500
+10.07 23:45:50 Moving is finished
+10.07 23:46:53 Scanning 315 point from 686
+10.07 23:46:53 Going to coordinates X=-7.585, Y=-44.500
+10.07 23:46:54 Moving is finished
+10.07 23:47:58 Scanning 316 point from 686
+10.07 23:47:58 Going to coordinates X=-7.535, Y=-44.500
+10.07 23:47:58 Moving is finished
+10.07 23:49:01 Scanning 317 point from 686
+10.07 23:49:01 Going to coordinates X=-7.485, Y=-44.500
+10.07 23:49:02 Moving is finished
+10.07 23:50:05 Scanning 318 point from 686
+10.07 23:50:05 Going to coordinates X=-7.435, Y=-44.500
+10.07 23:50:06 Moving is finished
+10.07 23:51:10 Scanning 319 point from 686
+10.07 23:51:10 Going to coordinates X=-7.385, Y=-44.500
+10.07 23:51:10 Moving is finished
+10.07 23:52:14 Scanning 320 point from 686
+10.07 23:52:14 Going to coordinates X=-7.335, Y=-44.500
+10.07 23:52:14 Moving is finished
+10.07 23:53:18 Scanning 321 point from 686
+10.07 23:53:18 Going to coordinates X=-7.285, Y=-44.500
+10.07 23:53:18 Moving is finished
+10.07 23:54:22 Scanning 322 point from 686
+10.07 23:54:22 Going to coordinates X=-7.235, Y=-44.500
+10.07 23:54:22 Moving is finished
+10.07 23:55:26 Scanning 323 point from 686
+10.07 23:55:26 Going to coordinates X=-7.185, Y=-44.500
+10.07 23:55:26 Moving is finished
+10.07 23:56:30 Scanning 324 point from 686
+10.07 23:56:30 Going to coordinates X=-7.135, Y=-44.500
+10.07 23:56:30 Moving is finished
+10.07 23:57:34 Scanning 325 point from 686
+10.07 23:57:34 Going to coordinates X=-7.085, Y=-44.500
+10.07 23:57:34 Moving is finished
+10.07 23:58:38 Scanning 326 point from 686
+10.07 23:58:38 Going to coordinates X=-7.035, Y=-44.500
+10.07 23:58:38 Moving is finished
+10.07 23:59:42 Scanning 327 point from 686
+10.07 23:59:42 Going to coordinates X=-6.985, Y=-44.500
+10.07 23:59:42 Moving is finished
+11.07 00:00:47 Scanning 328 point from 686
+11.07 00:00:47 Going to coordinates X=-6.935, Y=-44.500
+11.07 00:01:47 Moving is finished
+11.07 00:02:51 Scanning 329 point from 686
+11.07 00:02:51 Going to coordinates X=-6.885, Y=-44.500
+11.07 00:02:51 Moving is finished
+11.07 00:03:55 Scanning 330 point from 686
+11.07 00:03:55 Going to coordinates X=-6.835, Y=-44.500
+11.07 00:03:56 Moving is finished
+11.07 00:05:00 Scanning 331 point from 686
+11.07 00:05:00 Going to coordinates X=-6.785, Y=-44.500
+11.07 00:05:00 Moving is finished
+11.07 00:06:05 Scanning 332 point from 686
+11.07 00:06:05 Going to coordinates X=-6.735, Y=-44.500
+11.07 00:06:05 Moving is finished
+11.07 00:07:09 Scanning 333 point from 686
+11.07 00:07:09 Going to coordinates X=-6.685, Y=-44.500
+11.07 00:07:09 Moving is finished
+11.07 00:08:13 Scanning 334 point from 686
+11.07 00:08:13 Going to coordinates X=-6.635, Y=-44.500
+11.07 00:08:14 Moving is finished
+11.07 00:09:17 Scanning 335 point from 686
+11.07 00:09:17 Going to coordinates X=-6.585, Y=-44.500
+11.07 00:09:18 Moving is finished
+11.07 00:10:21 Scanning 336 point from 686
+11.07 00:10:21 Going to coordinates X=-6.535, Y=-44.500
+11.07 00:10:21 Moving is finished
+11.07 00:11:25 Scanning 337 point from 686
+11.07 00:11:25 Going to coordinates X=-6.485, Y=-44.500
+11.07 00:11:26 Moving is finished
+11.07 00:12:29 Scanning 338 point from 686
+11.07 00:12:29 Going to coordinates X=-6.435, Y=-44.500
+11.07 00:12:30 Moving is finished
+11.07 00:13:33 Scanning 339 point from 686
+11.07 00:13:33 Going to coordinates X=-6.385, Y=-44.500
+11.07 00:13:33 Moving is finished
+11.07 00:14:38 Scanning 340 point from 686
+11.07 00:14:38 Going to coordinates X=-6.335, Y=-44.500
+11.07 00:14:38 Moving is finished
+11.07 00:15:42 Scanning 341 point from 686
+11.07 00:15:42 Going to coordinates X=-6.285, Y=-44.500
+11.07 00:15:42 Moving is finished
+11.07 00:16:46 Scanning 342 point from 686
+11.07 00:16:46 Going to coordinates X=-6.235, Y=-44.500
+11.07 00:16:47 Moving is finished
+11.07 00:17:50 Scanning 343 point from 686
+11.07 00:17:50 Going to coordinates X=-8.635, Y=-44.450
+11.07 00:17:52 Moving is finished
+11.07 00:18:56 Scanning 344 point from 686
+11.07 00:18:56 Going to coordinates X=-8.585, Y=-44.450
+11.07 00:18:56 Moving is finished
+11.07 00:20:00 Scanning 345 point from 686
+11.07 00:20:00 Going to coordinates X=-8.535, Y=-44.450
+11.07 00:20:00 Moving is finished
+11.07 00:21:04 Scanning 346 point from 686
+11.07 00:21:04 Going to coordinates X=-8.485, Y=-44.450
+11.07 00:21:04 Moving is finished
+11.07 00:22:09 Scanning 347 point from 686
+11.07 00:22:09 Going to coordinates X=-8.435, Y=-44.450
+11.07 00:22:09 Moving is finished
+11.07 00:23:13 Scanning 348 point from 686
+11.07 00:23:13 Going to coordinates X=-8.385, Y=-44.450
+11.07 00:23:13 Moving is finished
+11.07 00:24:17 Scanning 349 point from 686
+11.07 00:24:17 Going to coordinates X=-8.335, Y=-44.450
+11.07 00:24:17 Moving is finished
+11.07 00:25:21 Scanning 350 point from 686
+11.07 00:25:21 Going to coordinates X=-8.285, Y=-44.450
+11.07 00:25:21 Moving is finished
+11.07 00:26:25 Scanning 351 point from 686
+11.07 00:26:25 Going to coordinates X=-8.235, Y=-44.450
+11.07 00:26:26 Moving is finished
+11.07 00:27:30 Scanning 352 point from 686
+11.07 00:27:30 Going to coordinates X=-8.185, Y=-44.450
+11.07 00:27:30 Moving is finished
+11.07 00:28:34 Scanning 353 point from 686
+11.07 00:28:34 Going to coordinates X=-8.135, Y=-44.450
+11.07 00:28:34 Moving is finished
+11.07 00:29:38 Scanning 354 point from 686
+11.07 00:29:38 Going to coordinates X=-8.085, Y=-44.450
+11.07 00:29:38 Moving is finished
+11.07 00:30:42 Scanning 355 point from 686
+11.07 00:30:42 Going to coordinates X=-8.035, Y=-44.450
+11.07 00:30:42 Moving is finished
+11.07 00:31:46 Scanning 356 point from 686
+11.07 00:31:46 Going to coordinates X=-7.985, Y=-44.450
+11.07 00:31:46 Moving is finished
+11.07 00:32:50 Scanning 357 point from 686
+11.07 00:32:50 Going to coordinates X=-7.935, Y=-44.450
+11.07 00:32:51 Moving is finished
+11.07 00:33:55 Scanning 358 point from 686
+11.07 00:33:55 Going to coordinates X=-7.885, Y=-44.450
+11.07 00:33:56 Moving is finished
+11.07 00:35:00 Scanning 359 point from 686
+11.07 00:35:00 Going to coordinates X=-7.835, Y=-44.450
+11.07 00:35:00 Moving is finished
+11.07 00:36:04 Scanning 360 point from 686
+11.07 00:36:04 Going to coordinates X=-7.785, Y=-44.450
+11.07 00:36:04 Moving is finished
+11.07 00:37:08 Scanning 361 point from 686
+11.07 00:37:08 Going to coordinates X=-7.735, Y=-44.450
+11.07 00:37:08 Moving is finished
+11.07 00:38:12 Scanning 362 point from 686
+11.07 00:38:12 Going to coordinates X=-7.685, Y=-44.450
+11.07 00:38:12 Moving is finished
+11.07 00:39:17 Scanning 363 point from 686
+11.07 00:39:17 Going to coordinates X=-7.635, Y=-44.450
+11.07 00:39:17 Moving is finished
+11.07 00:40:22 Scanning 364 point from 686
+11.07 00:40:22 Going to coordinates X=-7.585, Y=-44.450
+11.07 00:40:22 Moving is finished
+11.07 00:41:26 Scanning 365 point from 686
+11.07 00:41:26 Going to coordinates X=-7.535, Y=-44.450
+11.07 00:41:27 Moving is finished
+11.07 00:42:31 Scanning 366 point from 686
+11.07 00:42:31 Going to coordinates X=-7.485, Y=-44.450
+11.07 00:42:31 Moving is finished
+11.07 00:43:34 Scanning 367 point from 686
+11.07 00:43:34 Going to coordinates X=-7.435, Y=-44.450
+11.07 00:43:35 Moving is finished
+11.07 00:44:38 Scanning 368 point from 686
+11.07 00:44:38 Going to coordinates X=-7.385, Y=-44.450
+11.07 00:44:39 Moving is finished
+11.07 00:45:43 Scanning 369 point from 686
+11.07 00:45:43 Going to coordinates X=-7.335, Y=-44.450
+11.07 00:45:43 Moving is finished
+11.07 00:46:47 Scanning 370 point from 686
+11.07 00:46:47 Going to coordinates X=-7.285, Y=-44.450
+11.07 00:46:48 Moving is finished
+11.07 00:47:51 Scanning 371 point from 686
+11.07 00:47:51 Going to coordinates X=-7.235, Y=-44.450
+11.07 00:47:52 Moving is finished
+11.07 00:48:56 Scanning 372 point from 686
+11.07 00:48:56 Going to coordinates X=-7.185, Y=-44.450
+11.07 00:48:56 Moving is finished
+11.07 00:50:01 Scanning 373 point from 686
+11.07 00:50:01 Going to coordinates X=-7.135, Y=-44.450
+11.07 00:50:01 Moving is finished
+11.07 00:51:05 Scanning 374 point from 686
+11.07 00:51:05 Going to coordinates X=-7.085, Y=-44.450
+11.07 00:51:06 Moving is finished
+11.07 00:52:10 Scanning 375 point from 686
+11.07 00:52:10 Going to coordinates X=-7.035, Y=-44.450
+11.07 00:52:10 Moving is finished
+11.07 00:53:14 Scanning 376 point from 686
+11.07 00:53:14 Going to coordinates X=-6.985, Y=-44.450
+11.07 00:53:15 Moving is finished
+11.07 00:54:19 Scanning 377 point from 686
+11.07 00:54:19 Going to coordinates X=-6.935, Y=-44.450
+11.07 00:54:19 Moving is finished
+11.07 00:55:23 Scanning 378 point from 686
+11.07 00:55:23 Going to coordinates X=-6.885, Y=-44.450
+11.07 00:55:23 Moving is finished
+11.07 00:56:27 Scanning 379 point from 686
+11.07 00:56:27 Going to coordinates X=-6.835, Y=-44.450
+11.07 00:56:28 Moving is finished
+11.07 00:57:32 Scanning 380 point from 686
+11.07 00:57:32 Going to coordinates X=-6.785, Y=-44.450
+11.07 00:57:32 Moving is finished
+11.07 00:58:37 Scanning 381 point from 686
+11.07 00:58:37 Going to coordinates X=-6.735, Y=-44.450
+11.07 00:58:37 Moving is finished
+11.07 00:59:41 Scanning 382 point from 686
+11.07 00:59:41 Going to coordinates X=-6.685, Y=-44.450
+11.07 00:59:41 Moving is finished
+11.07 01:00:45 Scanning 383 point from 686
+11.07 01:00:45 Going to coordinates X=-6.635, Y=-44.450
+11.07 01:00:45 Moving is finished
+11.07 01:01:49 Scanning 384 point from 686
+11.07 01:01:49 Going to coordinates X=-6.585, Y=-44.450
+11.07 01:01:49 Moving is finished
+11.07 01:02:53 Scanning 385 point from 686
+11.07 01:02:53 Going to coordinates X=-6.535, Y=-44.450
+11.07 01:02:53 Moving is finished
+11.07 01:03:57 Scanning 386 point from 686
+11.07 01:03:57 Going to coordinates X=-6.485, Y=-44.450
+11.07 01:03:57 Moving is finished
+11.07 01:05:01 Scanning 387 point from 686
+11.07 01:05:01 Going to coordinates X=-6.435, Y=-44.450
+11.07 01:05:01 Moving is finished
+11.07 01:06:05 Scanning 388 point from 686
+11.07 01:06:05 Going to coordinates X=-6.385, Y=-44.450
+11.07 01:06:06 Moving is finished
+11.07 01:07:09 Scanning 389 point from 686
+11.07 01:07:09 Going to coordinates X=-6.335, Y=-44.450
+11.07 01:07:10 Moving is finished
+11.07 01:08:13 Scanning 390 point from 686
+11.07 01:08:13 Going to coordinates X=-6.285, Y=-44.450
+11.07 01:08:13 Moving is finished
+11.07 01:09:17 Scanning 391 point from 686
+11.07 01:09:17 Going to coordinates X=-6.235, Y=-44.450
+11.07 01:09:18 Moving is finished
+11.07 01:10:22 Scanning 392 point from 686
+11.07 01:10:22 Going to coordinates X=-8.635, Y=-44.400
+11.07 01:10:23 Moving is finished
+11.07 01:11:27 Scanning 393 point from 686
+11.07 01:11:27 Going to coordinates X=-8.585, Y=-44.400
+11.07 01:11:27 Moving is finished
+11.07 01:12:31 Scanning 394 point from 686
+11.07 01:12:31 Going to coordinates X=-8.535, Y=-44.400
+11.07 01:12:31 Moving is finished
+11.07 01:13:35 Scanning 395 point from 686
+11.07 01:13:35 Going to coordinates X=-8.485, Y=-44.400
+11.07 01:13:36 Moving is finished
+11.07 01:14:40 Scanning 396 point from 686
+11.07 01:14:40 Going to coordinates X=-8.435, Y=-44.400
+11.07 01:14:40 Moving is finished
+11.07 01:15:44 Scanning 397 point from 686
+11.07 01:15:44 Going to coordinates X=-8.385, Y=-44.400
+11.07 01:15:44 Moving is finished
+11.07 01:16:48 Scanning 398 point from 686
+11.07 01:16:48 Going to coordinates X=-8.335, Y=-44.400
+11.07 01:16:48 Moving is finished
+11.07 01:17:52 Scanning 399 point from 686
+11.07 01:17:52 Going to coordinates X=-8.285, Y=-44.400
+11.07 01:17:52 Moving is finished
+11.07 01:18:56 Scanning 400 point from 686
+11.07 01:18:56 Going to coordinates X=-8.235, Y=-44.400
+11.07 01:18:56 Moving is finished
+11.07 01:20:00 Scanning 401 point from 686
+11.07 01:20:00 Going to coordinates X=-8.185, Y=-44.400
+11.07 01:20:00 Moving is finished
+11.07 01:21:04 Scanning 402 point from 686
+11.07 01:21:04 Going to coordinates X=-8.135, Y=-44.400
+11.07 01:21:04 Moving is finished
+11.07 01:22:09 Scanning 403 point from 686
+11.07 01:22:09 Going to coordinates X=-8.085, Y=-44.400
+11.07 01:22:09 Moving is finished
+11.07 01:23:13 Scanning 404 point from 686
+11.07 01:23:13 Going to coordinates X=-8.035, Y=-44.400
+11.07 01:23:13 Moving is finished
+11.07 01:24:17 Scanning 405 point from 686
+11.07 01:24:17 Going to coordinates X=-7.985, Y=-44.400
+11.07 01:24:17 Moving is finished
+11.07 01:25:21 Scanning 406 point from 686
+11.07 01:25:21 Going to coordinates X=-7.935, Y=-44.400
+11.07 01:25:22 Moving is finished
+11.07 01:26:26 Scanning 407 point from 686
+11.07 01:26:26 Going to coordinates X=-7.885, Y=-44.400
+11.07 01:26:26 Moving is finished
+11.07 01:27:30 Scanning 408 point from 686
+11.07 01:27:30 Going to coordinates X=-7.835, Y=-44.400
+11.07 01:27:30 Moving is finished
+11.07 01:28:35 Scanning 409 point from 686
+11.07 01:28:35 Going to coordinates X=-7.785, Y=-44.400
+11.07 01:28:35 Moving is finished
+11.07 01:29:38 Scanning 410 point from 686
+11.07 01:29:38 Going to coordinates X=-7.735, Y=-44.400
+11.07 01:29:39 Moving is finished
+11.07 01:30:43 Scanning 411 point from 686
+11.07 01:30:43 Going to coordinates X=-7.685, Y=-44.400
+11.07 01:30:43 Moving is finished
+11.07 01:31:47 Scanning 412 point from 686
+11.07 01:31:47 Going to coordinates X=-7.635, Y=-44.400
+11.07 01:31:47 Moving is finished
+11.07 01:32:51 Scanning 413 point from 686
+11.07 01:32:51 Going to coordinates X=-7.585, Y=-44.400
+11.07 01:32:51 Moving is finished
+11.07 01:33:55 Scanning 414 point from 686
+11.07 01:33:55 Going to coordinates X=-7.535, Y=-44.400
+11.07 01:33:55 Moving is finished
+11.07 01:34:59 Scanning 415 point from 686
+11.07 01:34:59 Going to coordinates X=-7.485, Y=-44.400
+11.07 01:34:59 Moving is finished
+11.07 01:36:02 Scanning 416 point from 686
+11.07 01:36:02 Going to coordinates X=-7.435, Y=-44.400
+11.07 01:36:03 Moving is finished
+11.07 01:37:07 Scanning 417 point from 686
+11.07 01:37:07 Going to coordinates X=-7.385, Y=-44.400
+11.07 01:37:07 Moving is finished
+11.07 01:38:11 Scanning 418 point from 686
+11.07 01:38:11 Going to coordinates X=-7.335, Y=-44.400
+11.07 01:38:11 Moving is finished
+11.07 01:39:15 Scanning 419 point from 686
+11.07 01:39:15 Going to coordinates X=-7.285, Y=-44.400
+11.07 01:39:15 Moving is finished
+11.07 01:40:19 Scanning 420 point from 686
+11.07 01:40:19 Going to coordinates X=-7.235, Y=-44.400
+11.07 01:40:19 Moving is finished
+11.07 01:41:23 Scanning 421 point from 686
+11.07 01:41:23 Going to coordinates X=-7.185, Y=-44.400
+11.07 01:41:23 Moving is finished
+11.07 01:42:27 Scanning 422 point from 686
+11.07 01:42:27 Going to coordinates X=-7.135, Y=-44.400
+11.07 01:42:27 Moving is finished
+11.07 01:43:31 Scanning 423 point from 686
+11.07 01:43:31 Going to coordinates X=-7.085, Y=-44.400
+11.07 01:43:31 Moving is finished
+11.07 01:44:35 Scanning 424 point from 686
+11.07 01:44:35 Going to coordinates X=-7.035, Y=-44.400
+11.07 01:44:35 Moving is finished
+11.07 01:45:39 Scanning 425 point from 686
+11.07 01:45:39 Going to coordinates X=-6.985, Y=-44.400
+11.07 01:45:39 Moving is finished
+11.07 01:46:43 Scanning 426 point from 686
+11.07 01:46:43 Going to coordinates X=-6.935, Y=-44.400
+11.07 01:46:44 Moving is finished
+11.07 01:47:48 Scanning 427 point from 686
+11.07 01:47:48 Going to coordinates X=-6.885, Y=-44.400
+11.07 01:47:48 Moving is finished
+11.07 01:48:52 Scanning 428 point from 686
+11.07 01:48:52 Going to coordinates X=-6.835, Y=-44.400
+11.07 01:48:52 Moving is finished
+11.07 01:49:56 Scanning 429 point from 686
+11.07 01:49:56 Going to coordinates X=-6.785, Y=-44.400
+11.07 01:49:56 Moving is finished
+11.07 01:51:00 Scanning 430 point from 686
+11.07 01:51:00 Going to coordinates X=-6.735, Y=-44.400
+11.07 01:51:00 Moving is finished
+11.07 01:52:04 Scanning 431 point from 686
+11.07 01:52:04 Going to coordinates X=-6.685, Y=-44.400
+11.07 01:52:04 Moving is finished
+11.07 01:53:08 Scanning 432 point from 686
+11.07 01:53:08 Going to coordinates X=-6.635, Y=-44.400
+11.07 01:53:08 Moving is finished
+11.07 01:54:12 Scanning 433 point from 686
+11.07 01:54:12 Going to coordinates X=-6.585, Y=-44.400
+11.07 01:54:13 Moving is finished
+11.07 01:55:16 Scanning 434 point from 686
+11.07 01:55:16 Going to coordinates X=-6.535, Y=-44.400
+11.07 01:55:16 Moving is finished
+11.07 01:56:20 Scanning 435 point from 686
+11.07 01:56:20 Going to coordinates X=-6.485, Y=-44.400
+11.07 01:56:21 Moving is finished
+11.07 01:57:24 Scanning 436 point from 686
+11.07 01:57:24 Going to coordinates X=-6.435, Y=-44.400
+11.07 01:57:24 Moving is finished
+11.07 01:58:28 Scanning 437 point from 686
+11.07 01:58:28 Going to coordinates X=-6.385, Y=-44.400
+11.07 01:58:29 Moving is finished
+11.07 01:59:33 Scanning 438 point from 686
+11.07 01:59:33 Going to coordinates X=-6.335, Y=-44.400
+11.07 01:59:33 Moving is finished
+11.07 02:00:37 Scanning 439 point from 686
+11.07 02:00:37 Going to coordinates X=-6.285, Y=-44.400
+11.07 02:00:37 Moving is finished
+11.07 02:01:41 Scanning 440 point from 686
+11.07 02:01:41 Going to coordinates X=-6.235, Y=-44.400
+11.07 02:01:42 Moving is finished
+11.07 02:02:46 Scanning 441 point from 686
+11.07 02:02:46 Going to coordinates X=-8.635, Y=-44.350
+11.07 02:02:47 Moving is finished
+11.07 02:03:51 Scanning 442 point from 686
+11.07 02:03:51 Going to coordinates X=-8.585, Y=-44.350
+11.07 02:03:51 Moving is finished
+11.07 02:04:56 Scanning 443 point from 686
+11.07 02:04:56 Going to coordinates X=-8.535, Y=-44.350
+11.07 02:04:56 Moving is finished
+11.07 02:06:00 Scanning 444 point from 686
+11.07 02:06:00 Going to coordinates X=-8.485, Y=-44.350
+11.07 02:06:00 Moving is finished
+11.07 02:07:04 Scanning 445 point from 686
+11.07 02:07:04 Going to coordinates X=-8.435, Y=-44.350
+11.07 02:07:04 Moving is finished
+11.07 02:08:09 Scanning 446 point from 686
+11.07 02:08:09 Going to coordinates X=-8.385, Y=-44.350
+11.07 02:08:09 Moving is finished
+11.07 02:09:13 Scanning 447 point from 686
+11.07 02:09:13 Going to coordinates X=-8.335, Y=-44.350
+11.07 02:09:13 Moving is finished
+11.07 02:10:17 Scanning 448 point from 686
+11.07 02:10:17 Going to coordinates X=-8.285, Y=-44.350
+11.07 02:10:17 Moving is finished
+11.07 02:11:21 Scanning 449 point from 686
+11.07 02:11:21 Going to coordinates X=-8.235, Y=-44.350
+11.07 02:11:21 Moving is finished
+11.07 02:12:26 Scanning 450 point from 686
+11.07 02:12:26 Going to coordinates X=-8.185, Y=-44.350
+11.07 02:12:26 Moving is finished
+11.07 02:13:30 Scanning 451 point from 686
+11.07 02:13:30 Going to coordinates X=-8.135, Y=-44.350
+11.07 02:13:30 Moving is finished
+11.07 02:14:34 Scanning 452 point from 686
+11.07 02:14:34 Going to coordinates X=-8.085, Y=-44.350
+11.07 02:14:34 Moving is finished
+11.07 02:15:38 Scanning 453 point from 686
+11.07 02:15:38 Going to coordinates X=-8.035, Y=-44.350
+11.07 02:15:38 Moving is finished
+11.07 02:16:42 Scanning 454 point from 686
+11.07 02:16:42 Going to coordinates X=-7.985, Y=-44.350
+11.07 02:16:42 Moving is finished
+11.07 02:17:46 Scanning 455 point from 686
+11.07 02:17:46 Going to coordinates X=-7.935, Y=-44.350
+11.07 02:17:46 Moving is finished
+11.07 02:18:50 Scanning 456 point from 686
+11.07 02:18:50 Going to coordinates X=-7.885, Y=-44.350
+11.07 02:18:50 Moving is finished
+11.07 02:19:54 Scanning 457 point from 686
+11.07 02:19:54 Going to coordinates X=-7.835, Y=-44.350
+11.07 02:19:54 Moving is finished
+11.07 02:20:59 Scanning 458 point from 686
+11.07 02:20:59 Going to coordinates X=-7.785, Y=-44.350
+11.07 02:20:59 Moving is finished
+11.07 02:22:03 Scanning 459 point from 686
+11.07 02:22:03 Going to coordinates X=-7.735, Y=-44.350
+11.07 02:22:03 Moving is finished
+11.07 02:23:07 Scanning 460 point from 686
+11.07 02:23:07 Going to coordinates X=-7.685, Y=-44.350
+11.07 02:23:07 Moving is finished
+11.07 02:24:11 Scanning 461 point from 686
+11.07 02:24:11 Going to coordinates X=-7.635, Y=-44.350
+11.07 02:24:11 Moving is finished
+11.07 02:25:15 Scanning 462 point from 686
+11.07 02:25:15 Going to coordinates X=-7.585, Y=-44.350
+11.07 02:25:15 Moving is finished
+11.07 02:26:19 Scanning 463 point from 686
+11.07 02:26:19 Going to coordinates X=-7.535, Y=-44.350
+11.07 02:26:19 Moving is finished
+11.07 02:27:23 Scanning 464 point from 686
+11.07 02:27:23 Going to coordinates X=-7.485, Y=-44.350
+11.07 02:27:23 Moving is finished
+11.07 02:28:27 Scanning 465 point from 686
+11.07 02:28:27 Going to coordinates X=-7.435, Y=-44.350
+11.07 02:28:27 Moving is finished
+11.07 02:29:31 Scanning 466 point from 686
+11.07 02:29:31 Going to coordinates X=-7.385, Y=-44.350
+11.07 02:29:31 Moving is finished
+11.07 02:30:35 Scanning 467 point from 686
+11.07 02:30:35 Going to coordinates X=-7.335, Y=-44.350
+11.07 02:30:35 Moving is finished
+11.07 02:31:39 Scanning 468 point from 686
+11.07 02:31:39 Going to coordinates X=-7.285, Y=-44.350
+11.07 02:31:39 Moving is finished
+11.07 02:32:43 Scanning 469 point from 686
+11.07 02:32:43 Going to coordinates X=-7.235, Y=-44.350
+11.07 02:32:43 Moving is finished
+11.07 02:33:47 Scanning 470 point from 686
+11.07 02:33:47 Going to coordinates X=-7.185, Y=-44.350
+11.07 02:33:47 Moving is finished
+11.07 02:34:52 Scanning 471 point from 686
+11.07 02:34:52 Going to coordinates X=-7.135, Y=-44.350
+11.07 02:34:52 Moving is finished
+11.07 02:35:56 Scanning 472 point from 686
+11.07 02:35:56 Going to coordinates X=-7.085, Y=-44.350
+11.07 02:35:56 Moving is finished
+11.07 02:37:01 Scanning 473 point from 686
+11.07 02:37:01 Going to coordinates X=-7.035, Y=-44.350
+11.07 02:37:01 Moving is finished
+11.07 02:38:05 Scanning 474 point from 686
+11.07 02:38:05 Going to coordinates X=-6.985, Y=-44.350
+11.07 02:38:05 Moving is finished
+11.07 02:39:09 Scanning 475 point from 686
+11.07 02:39:09 Going to coordinates X=-6.935, Y=-44.350
+11.07 02:39:09 Moving is finished
+11.07 02:40:13 Scanning 476 point from 686
+11.07 02:40:13 Going to coordinates X=-6.885, Y=-44.350
+11.07 02:40:13 Moving is finished
+11.07 02:41:17 Scanning 477 point from 686
+11.07 02:41:17 Going to coordinates X=-6.835, Y=-44.350
+11.07 02:41:17 Moving is finished
+11.07 02:42:21 Scanning 478 point from 686
+11.07 02:42:21 Going to coordinates X=-6.785, Y=-44.350
+11.07 02:42:21 Moving is finished
+11.07 02:43:25 Scanning 479 point from 686
+11.07 02:43:25 Going to coordinates X=-6.735, Y=-44.350
+11.07 02:43:25 Moving is finished
+11.07 02:44:29 Scanning 480 point from 686
+11.07 02:44:29 Going to coordinates X=-6.685, Y=-44.350
+11.07 02:44:30 Moving is finished
+11.07 02:45:33 Scanning 481 point from 686
+11.07 02:45:33 Going to coordinates X=-6.635, Y=-44.350
+11.07 02:45:33 Moving is finished
+11.07 02:46:38 Scanning 482 point from 686
+11.07 02:46:38 Going to coordinates X=-6.585, Y=-44.350
+11.07 02:46:38 Moving is finished
+11.07 02:47:41 Scanning 483 point from 686
+11.07 02:47:42 Going to coordinates X=-6.535, Y=-44.350
+11.07 02:47:42 Moving is finished
+11.07 02:48:45 Scanning 484 point from 686
+11.07 02:48:45 Going to coordinates X=-6.485, Y=-44.350
+11.07 02:48:46 Moving is finished
+11.07 02:49:50 Scanning 485 point from 686
+11.07 02:49:50 Going to coordinates X=-6.435, Y=-44.350
+11.07 02:49:50 Moving is finished
+11.07 02:50:54 Scanning 486 point from 686
+11.07 02:50:54 Going to coordinates X=-6.385, Y=-44.350
+11.07 02:50:54 Moving is finished
+11.07 02:51:58 Scanning 487 point from 686
+11.07 02:51:58 Going to coordinates X=-6.335, Y=-44.350
+11.07 02:51:58 Moving is finished
+11.07 02:53:02 Scanning 488 point from 686
+11.07 02:53:02 Going to coordinates X=-6.285, Y=-44.350
+11.07 02:53:02 Moving is finished
+11.07 02:54:06 Scanning 489 point from 686
+11.07 02:54:06 Going to coordinates X=-6.235, Y=-44.350
+11.07 02:54:06 Moving is finished
+11.07 02:55:10 Scanning 490 point from 686
+11.07 02:55:10 Going to coordinates X=-8.635, Y=-44.300
+11.07 02:55:11 Moving is finished
+11.07 02:56:15 Scanning 491 point from 686
+11.07 02:56:15 Going to coordinates X=-8.585, Y=-44.300
+11.07 02:56:15 Moving is finished
+11.07 02:57:19 Scanning 492 point from 686
+11.07 02:57:19 Going to coordinates X=-8.535, Y=-44.300
+11.07 02:57:20 Moving is finished
+11.07 02:58:23 Scanning 493 point from 686
+11.07 02:58:23 Going to coordinates X=-8.485, Y=-44.300
+11.07 02:58:24 Moving is finished
+11.07 02:59:27 Scanning 494 point from 686
+11.07 02:59:27 Going to coordinates X=-8.435, Y=-44.300
+11.07 02:59:28 Moving is finished
+11.07 03:00:31 Scanning 495 point from 686
+11.07 03:00:31 Going to coordinates X=-8.385, Y=-44.300
+11.07 03:00:32 Moving is finished
+11.07 03:01:36 Scanning 496 point from 686
+11.07 03:01:36 Going to coordinates X=-8.335, Y=-44.300
+11.07 03:01:36 Moving is finished
+11.07 03:02:40 Scanning 497 point from 686
+11.07 03:02:40 Going to coordinates X=-8.285, Y=-44.300
+11.07 03:02:41 Moving is finished
+11.07 03:03:45 Scanning 498 point from 686
+11.07 03:03:45 Going to coordinates X=-8.235, Y=-44.300
+11.07 03:03:45 Moving is finished
+11.07 03:04:49 Scanning 499 point from 686
+11.07 03:04:49 Going to coordinates X=-8.185, Y=-44.300
+11.07 03:04:50 Moving is finished
+11.07 03:05:54 Scanning 500 point from 686
+11.07 03:05:54 Going to coordinates X=-8.135, Y=-44.300
+11.07 03:05:54 Moving is finished
+11.07 03:06:58 Scanning 501 point from 686
+11.07 03:06:58 Going to coordinates X=-8.085, Y=-44.300
+11.07 03:06:58 Moving is finished
+11.07 03:08:02 Scanning 502 point from 686
+11.07 03:08:02 Going to coordinates X=-8.035, Y=-44.300
+11.07 03:08:02 Moving is finished
+11.07 03:09:06 Scanning 503 point from 686
+11.07 03:09:06 Going to coordinates X=-7.985, Y=-44.300
+11.07 03:09:07 Moving is finished
+11.07 03:10:11 Scanning 504 point from 686
+11.07 03:10:11 Going to coordinates X=-7.935, Y=-44.300
+11.07 03:10:11 Moving is finished
+11.07 03:11:16 Scanning 505 point from 686
+11.07 03:11:16 Going to coordinates X=-7.885, Y=-44.300
+11.07 03:11:16 Moving is finished
+11.07 03:12:21 Scanning 506 point from 686
+11.07 03:12:21 Going to coordinates X=-7.835, Y=-44.300
+11.07 03:12:21 Moving is finished
+11.07 03:13:25 Scanning 507 point from 686
+11.07 03:13:25 Going to coordinates X=-7.785, Y=-44.300
+11.07 03:13:25 Moving is finished
+11.07 03:14:29 Scanning 508 point from 686
+11.07 03:14:29 Going to coordinates X=-7.735, Y=-44.300
+11.07 03:14:29 Moving is finished
+11.07 03:15:34 Scanning 509 point from 686
+11.07 03:15:34 Going to coordinates X=-7.685, Y=-44.300
+11.07 03:15:34 Moving is finished
+11.07 03:16:38 Scanning 510 point from 686
+11.07 03:16:38 Going to coordinates X=-7.635, Y=-44.300
+11.07 03:16:38 Moving is finished
+11.07 03:17:42 Scanning 511 point from 686
+11.07 03:17:42 Going to coordinates X=-7.585, Y=-44.300
+11.07 03:17:43 Moving is finished
+11.07 03:18:46 Scanning 512 point from 686
+11.07 03:18:46 Going to coordinates X=-7.535, Y=-44.300
+11.07 03:18:47 Moving is finished
+11.07 03:19:51 Scanning 513 point from 686
+11.07 03:19:51 Going to coordinates X=-7.485, Y=-44.300
+11.07 03:19:51 Moving is finished
+11.07 03:20:55 Scanning 514 point from 686
+11.07 03:20:55 Going to coordinates X=-7.435, Y=-44.300
+11.07 03:20:56 Moving is finished
+11.07 03:22:00 Scanning 515 point from 686
+11.07 03:22:00 Going to coordinates X=-7.385, Y=-44.300
+11.07 03:22:00 Moving is finished
+11.07 03:23:04 Scanning 516 point from 686
+11.07 03:23:04 Going to coordinates X=-7.335, Y=-44.300
+11.07 03:23:04 Moving is finished
+11.07 03:24:08 Scanning 517 point from 686
+11.07 03:24:08 Going to coordinates X=-7.285, Y=-44.300
+11.07 03:24:08 Moving is finished
+11.07 03:25:12 Scanning 518 point from 686
+11.07 03:25:12 Going to coordinates X=-7.235, Y=-44.300
+11.07 03:25:12 Moving is finished
+11.07 03:26:17 Scanning 519 point from 686
+11.07 03:26:17 Going to coordinates X=-7.185, Y=-44.300
+11.07 03:26:17 Moving is finished
+11.07 03:27:21 Scanning 520 point from 686
+11.07 03:27:21 Going to coordinates X=-7.135, Y=-44.300
+11.07 03:27:21 Moving is finished
+11.07 03:28:25 Scanning 521 point from 686
+11.07 03:28:25 Going to coordinates X=-7.085, Y=-44.300
+11.07 03:28:25 Moving is finished
+11.07 03:29:29 Scanning 522 point from 686
+11.07 03:29:29 Going to coordinates X=-7.035, Y=-44.300
+11.07 03:29:29 Moving is finished
+11.07 03:30:33 Scanning 523 point from 686
+11.07 03:30:33 Going to coordinates X=-6.985, Y=-44.300
+11.07 03:30:34 Moving is finished
+11.07 03:31:38 Scanning 524 point from 686
+11.07 03:31:38 Going to coordinates X=-6.935, Y=-44.300
+11.07 03:31:38 Moving is finished
+11.07 03:32:42 Scanning 525 point from 686
+11.07 03:32:42 Going to coordinates X=-6.885, Y=-44.300
+11.07 03:32:42 Moving is finished
+11.07 03:33:46 Scanning 526 point from 686
+11.07 03:33:46 Going to coordinates X=-6.835, Y=-44.300
+11.07 03:33:46 Moving is finished
+11.07 03:34:50 Scanning 527 point from 686
+11.07 03:34:50 Going to coordinates X=-6.785, Y=-44.300
+11.07 03:34:50 Moving is finished
+11.07 03:35:54 Scanning 528 point from 686
+11.07 03:35:54 Going to coordinates X=-6.735, Y=-44.300
+11.07 03:35:54 Moving is finished
+11.07 03:36:58 Scanning 529 point from 686
+11.07 03:36:58 Going to coordinates X=-6.685, Y=-44.300
+11.07 03:36:58 Moving is finished
+11.07 03:38:02 Scanning 530 point from 686
+11.07 03:38:02 Going to coordinates X=-6.635, Y=-44.300
+11.07 03:38:02 Moving is finished
+11.07 03:39:06 Scanning 531 point from 686
+11.07 03:39:06 Going to coordinates X=-6.585, Y=-44.300
+11.07 03:39:06 Moving is finished
+11.07 03:40:10 Scanning 532 point from 686
+11.07 03:40:10 Going to coordinates X=-6.535, Y=-44.300
+11.07 03:40:10 Moving is finished
+11.07 03:41:14 Scanning 533 point from 686
+11.07 03:41:14 Going to coordinates X=-6.485, Y=-44.300
+11.07 03:41:15 Moving is finished
+11.07 03:42:18 Scanning 534 point from 686
+11.07 03:42:18 Going to coordinates X=-6.435, Y=-44.300
+11.07 03:42:18 Moving is finished
+11.07 03:43:23 Scanning 535 point from 686
+11.07 03:43:23 Going to coordinates X=-6.385, Y=-44.300
+11.07 03:43:23 Moving is finished
+11.07 03:44:27 Scanning 536 point from 686
+11.07 03:44:27 Going to coordinates X=-6.335, Y=-44.300
+11.07 03:44:27 Moving is finished
+11.07 03:45:31 Scanning 537 point from 686
+11.07 03:45:31 Going to coordinates X=-6.285, Y=-44.300
+11.07 03:45:31 Moving is finished
+11.07 03:46:36 Scanning 538 point from 686
+11.07 03:46:36 Going to coordinates X=-6.235, Y=-44.300
+11.07 03:46:36 Moving is finished
+11.07 03:47:41 Scanning 539 point from 686
+11.07 03:47:41 Going to coordinates X=-8.635, Y=-44.250
+11.07 03:47:42 Moving is finished
+11.07 03:48:46 Scanning 540 point from 686
+11.07 03:48:46 Going to coordinates X=-8.585, Y=-44.250
+11.07 03:48:46 Moving is finished
+11.07 03:49:51 Scanning 541 point from 686
+11.07 03:49:51 Going to coordinates X=-8.535, Y=-44.250
+11.07 03:49:51 Moving is finished
+11.07 03:50:55 Scanning 542 point from 686
+11.07 03:50:55 Going to coordinates X=-8.485, Y=-44.250
+11.07 03:50:55 Moving is finished
+11.07 03:52:00 Scanning 543 point from 686
+11.07 03:52:00 Going to coordinates X=-8.435, Y=-44.250
+11.07 03:52:00 Moving is finished
+11.07 03:53:04 Scanning 544 point from 686
+11.07 03:53:04 Going to coordinates X=-8.385, Y=-44.250
+11.07 03:53:05 Moving is finished
+11.07 03:54:09 Scanning 545 point from 686
+11.07 03:54:09 Going to coordinates X=-8.335, Y=-44.250
+11.07 03:54:09 Moving is finished
+11.07 03:55:13 Scanning 546 point from 686
+11.07 03:55:13 Going to coordinates X=-8.285, Y=-44.250
+11.07 03:55:13 Moving is finished
+11.07 03:56:17 Scanning 547 point from 686
+11.07 03:56:17 Going to coordinates X=-8.235, Y=-44.250
+11.07 03:56:17 Moving is finished
+11.07 03:57:21 Scanning 548 point from 686
+11.07 03:57:21 Going to coordinates X=-8.185, Y=-44.250
+11.07 03:57:21 Moving is finished
+11.07 03:58:25 Scanning 549 point from 686
+11.07 03:58:25 Going to coordinates X=-8.135, Y=-44.250
+11.07 03:58:25 Moving is finished
+11.07 03:59:29 Scanning 550 point from 686
+11.07 03:59:29 Going to coordinates X=-8.085, Y=-44.250
+11.07 03:59:29 Moving is finished
+11.07 04:00:33 Scanning 551 point from 686
+11.07 04:00:33 Going to coordinates X=-8.035, Y=-44.250
+11.07 04:00:34 Moving is finished
+11.07 04:01:38 Scanning 552 point from 686
+11.07 04:01:38 Going to coordinates X=-7.985, Y=-44.250
+11.07 04:01:38 Moving is finished
+11.07 04:02:42 Scanning 553 point from 686
+11.07 04:02:42 Going to coordinates X=-7.935, Y=-44.250
+11.07 04:02:42 Moving is finished
+11.07 04:03:46 Scanning 554 point from 686
+11.07 04:03:46 Going to coordinates X=-7.885, Y=-44.250
+11.07 04:03:46 Moving is finished
+11.07 04:04:50 Scanning 555 point from 686
+11.07 04:04:50 Going to coordinates X=-7.835, Y=-44.250
+11.07 04:04:50 Moving is finished
+11.07 04:05:54 Scanning 556 point from 686
+11.07 04:05:54 Going to coordinates X=-7.785, Y=-44.250
+11.07 04:05:54 Moving is finished
+11.07 04:06:58 Scanning 557 point from 686
+11.07 04:06:58 Going to coordinates X=-7.735, Y=-44.250
+11.07 04:06:58 Moving is finished
+11.07 04:08:02 Scanning 558 point from 686
+11.07 04:08:02 Going to coordinates X=-7.685, Y=-44.250
+11.07 04:08:03 Moving is finished
+11.07 04:09:06 Scanning 559 point from 686
+11.07 04:09:06 Going to coordinates X=-7.635, Y=-44.250
+11.07 04:09:07 Moving is finished
+11.07 04:10:10 Scanning 560 point from 686
+11.07 04:10:10 Going to coordinates X=-7.585, Y=-44.250
+11.07 04:10:11 Moving is finished
+11.07 04:11:15 Scanning 561 point from 686
+11.07 04:11:15 Going to coordinates X=-7.535, Y=-44.250
+11.07 04:11:15 Moving is finished
+11.07 04:12:19 Scanning 562 point from 686
+11.07 04:12:19 Going to coordinates X=-7.485, Y=-44.250
+11.07 04:12:19 Moving is finished
+11.07 04:13:24 Scanning 563 point from 686
+11.07 04:13:24 Going to coordinates X=-7.435, Y=-44.250
+11.07 04:13:24 Moving is finished
+11.07 04:14:28 Scanning 564 point from 686
+11.07 04:14:28 Going to coordinates X=-7.385, Y=-44.250
+11.07 04:14:28 Moving is finished
+11.07 04:15:32 Scanning 565 point from 686
+11.07 04:15:32 Going to coordinates X=-7.335, Y=-44.250
+11.07 04:15:32 Moving is finished
+11.07 04:16:36 Scanning 566 point from 686
+11.07 04:16:36 Going to coordinates X=-7.285, Y=-44.250
+11.07 04:16:36 Moving is finished
+11.07 04:17:40 Scanning 567 point from 686
+11.07 04:17:40 Going to coordinates X=-7.235, Y=-44.250
+11.07 04:17:40 Moving is finished
+11.07 04:18:44 Scanning 568 point from 686
+11.07 04:18:44 Going to coordinates X=-7.185, Y=-44.250
+11.07 04:18:44 Moving is finished
+11.07 04:19:49 Scanning 569 point from 686
+11.07 04:19:49 Going to coordinates X=-7.135, Y=-44.250
+11.07 04:19:49 Moving is finished
+11.07 04:20:53 Scanning 570 point from 686
+11.07 04:20:53 Going to coordinates X=-7.085, Y=-44.250
+11.07 04:20:53 Moving is finished
+11.07 04:21:57 Scanning 571 point from 686
+11.07 04:21:57 Going to coordinates X=-7.035, Y=-44.250
+11.07 04:21:57 Moving is finished
+11.07 04:23:01 Scanning 572 point from 686
+11.07 04:23:01 Going to coordinates X=-6.985, Y=-44.250
+11.07 04:23:02 Moving is finished
+11.07 04:24:06 Scanning 573 point from 686
+11.07 04:24:06 Going to coordinates X=-6.935, Y=-44.250
+11.07 04:24:06 Moving is finished
+11.07 04:25:11 Scanning 574 point from 686
+11.07 04:25:11 Going to coordinates X=-6.885, Y=-44.250
+11.07 04:25:11 Moving is finished
+11.07 04:26:15 Scanning 575 point from 686
+11.07 04:26:15 Going to coordinates X=-6.835, Y=-44.250
+11.07 04:26:15 Moving is finished
+11.07 04:27:19 Scanning 576 point from 686
+11.07 04:27:19 Going to coordinates X=-6.785, Y=-44.250
+11.07 04:27:19 Moving is finished
+11.07 04:28:23 Scanning 577 point from 686
+11.07 04:28:23 Going to coordinates X=-6.735, Y=-44.250
+11.07 04:28:24 Moving is finished
+11.07 04:29:28 Scanning 578 point from 686
+11.07 04:29:28 Going to coordinates X=-6.685, Y=-44.250
+11.07 04:29:28 Moving is finished
+11.07 04:30:32 Scanning 579 point from 686
+11.07 04:30:32 Going to coordinates X=-6.635, Y=-44.250
+11.07 04:30:32 Moving is finished
+11.07 04:31:36 Scanning 580 point from 686
+11.07 04:31:36 Going to coordinates X=-6.585, Y=-44.250
+11.07 04:31:36 Moving is finished
+11.07 04:32:40 Scanning 581 point from 686
+11.07 04:32:40 Going to coordinates X=-6.535, Y=-44.250
+11.07 04:32:40 Moving is finished
+11.07 04:33:44 Scanning 582 point from 686
+11.07 04:33:44 Going to coordinates X=-6.485, Y=-44.250
+11.07 04:33:44 Moving is finished
+11.07 04:34:48 Scanning 583 point from 686
+11.07 04:34:48 Going to coordinates X=-6.435, Y=-44.250
+11.07 04:34:49 Moving is finished
+11.07 04:35:53 Scanning 584 point from 686
+11.07 04:35:53 Going to coordinates X=-6.385, Y=-44.250
+11.07 04:35:53 Moving is finished
+11.07 04:36:57 Scanning 585 point from 686
+11.07 04:36:57 Going to coordinates X=-6.335, Y=-44.250
+11.07 04:36:57 Moving is finished
+11.07 04:38:01 Scanning 586 point from 686
+11.07 04:38:01 Going to coordinates X=-6.285, Y=-44.250
+11.07 04:38:01 Moving is finished
+11.07 04:39:05 Scanning 587 point from 686
+11.07 04:39:05 Going to coordinates X=-6.235, Y=-44.250
+11.07 04:39:05 Moving is finished
+11.07 04:40:09 Scanning 588 point from 686
+11.07 04:40:09 Going to coordinates X=-8.635, Y=-44.200
+11.07 04:40:10 Moving is finished
+11.07 04:41:14 Scanning 589 point from 686
+11.07 04:41:14 Going to coordinates X=-8.585, Y=-44.200
+11.07 04:41:14 Moving is finished
+11.07 04:42:18 Scanning 590 point from 686
+11.07 04:42:18 Going to coordinates X=-8.535, Y=-44.200
+11.07 04:42:18 Moving is finished
+11.07 04:43:22 Scanning 591 point from 686
+11.07 04:43:22 Going to coordinates X=-8.485, Y=-44.200
+11.07 04:43:22 Moving is finished
+11.07 04:44:26 Scanning 592 point from 686
+11.07 04:44:26 Going to coordinates X=-8.435, Y=-44.200
+11.07 04:44:26 Moving is finished
+11.07 04:45:30 Scanning 593 point from 686
+11.07 04:45:30 Going to coordinates X=-8.385, Y=-44.200
+11.07 04:45:30 Moving is finished
+11.07 04:46:34 Scanning 594 point from 686
+11.07 04:46:34 Going to coordinates X=-8.335, Y=-44.200
+11.07 04:46:34 Moving is finished
+11.07 04:47:38 Scanning 595 point from 686
+11.07 04:47:38 Going to coordinates X=-8.285, Y=-44.200
+11.07 04:47:38 Moving is finished
+11.07 04:48:42 Scanning 596 point from 686
+11.07 04:48:42 Going to coordinates X=-8.235, Y=-44.200
+11.07 04:48:42 Moving is finished
+11.07 04:49:46 Scanning 597 point from 686
+11.07 04:49:46 Going to coordinates X=-8.185, Y=-44.200
+11.07 04:49:46 Moving is finished
+11.07 04:50:50 Scanning 598 point from 686
+11.07 04:50:50 Going to coordinates X=-8.135, Y=-44.200
+11.07 04:50:51 Moving is finished
+11.07 04:51:54 Scanning 599 point from 686
+11.07 04:51:54 Going to coordinates X=-8.085, Y=-44.200
+11.07 04:51:55 Moving is finished
+11.07 04:52:58 Scanning 600 point from 686
+11.07 04:52:58 Going to coordinates X=-8.035, Y=-44.200
+11.07 04:52:59 Moving is finished
+11.07 04:54:02 Scanning 601 point from 686
+11.07 04:54:02 Going to coordinates X=-7.985, Y=-44.200
+11.07 04:54:03 Moving is finished
+11.07 04:55:06 Scanning 602 point from 686
+11.07 04:55:06 Going to coordinates X=-7.935, Y=-44.200
+11.07 04:55:07 Moving is finished
+11.07 04:56:10 Scanning 603 point from 686
+11.07 04:56:10 Going to coordinates X=-7.885, Y=-44.200
+11.07 04:56:11 Moving is finished
+11.07 04:57:16 Scanning 604 point from 686
+11.07 04:57:16 Going to coordinates X=-7.835, Y=-44.200
+11.07 04:57:16 Moving is finished
+11.07 04:58:20 Scanning 605 point from 686
+11.07 04:58:20 Going to coordinates X=-7.785, Y=-44.200
+11.07 04:58:20 Moving is finished
+11.07 04:59:24 Scanning 606 point from 686
+11.07 04:59:24 Going to coordinates X=-7.735, Y=-44.200
+11.07 04:59:24 Moving is finished
+11.07 05:00:29 Scanning 607 point from 686
+11.07 05:00:29 Going to coordinates X=-7.685, Y=-44.200
+11.07 05:00:29 Moving is finished
+11.07 05:01:33 Scanning 608 point from 686
+11.07 05:01:33 Going to coordinates X=-7.635, Y=-44.200
+11.07 05:01:33 Moving is finished
+11.07 05:02:37 Scanning 609 point from 686
+11.07 05:02:37 Going to coordinates X=-7.585, Y=-44.200
+11.07 05:02:37 Moving is finished
+11.07 05:03:41 Scanning 610 point from 686
+11.07 05:03:41 Going to coordinates X=-7.535, Y=-44.200
+11.07 05:03:41 Moving is finished
+11.07 05:04:46 Scanning 611 point from 686
+11.07 05:04:46 Going to coordinates X=-7.485, Y=-44.200
+11.07 05:04:46 Moving is finished
+11.07 05:05:50 Scanning 612 point from 686
+11.07 05:05:50 Going to coordinates X=-7.435, Y=-44.200
+11.07 05:05:50 Moving is finished
+11.07 05:06:54 Scanning 613 point from 686
+11.07 05:06:54 Going to coordinates X=-7.385, Y=-44.200
+11.07 05:06:54 Moving is finished
+11.07 05:07:58 Scanning 614 point from 686
+11.07 05:07:58 Going to coordinates X=-7.335, Y=-44.200
+11.07 05:07:58 Moving is finished
+11.07 05:09:02 Scanning 615 point from 686
+11.07 05:09:02 Going to coordinates X=-7.285, Y=-44.200
+11.07 05:09:03 Moving is finished
+11.07 05:10:06 Scanning 616 point from 686
+11.07 05:10:06 Going to coordinates X=-7.235, Y=-44.200
+11.07 05:10:07 Moving is finished
+11.07 05:11:11 Scanning 617 point from 686
+11.07 05:11:11 Going to coordinates X=-7.185, Y=-44.200
+11.07 05:11:11 Moving is finished
+11.07 05:12:15 Scanning 618 point from 686
+11.07 05:12:15 Going to coordinates X=-7.135, Y=-44.200
+11.07 05:12:15 Moving is finished
+11.07 05:13:19 Scanning 619 point from 686
+11.07 05:13:19 Going to coordinates X=-7.085, Y=-44.200
+11.07 05:13:20 Moving is finished
+11.07 05:14:24 Scanning 620 point from 686
+11.07 05:14:24 Going to coordinates X=-7.035, Y=-44.200
+11.07 05:14:24 Moving is finished
+11.07 05:15:28 Scanning 621 point from 686
+11.07 05:15:28 Going to coordinates X=-6.985, Y=-44.200
+11.07 05:15:28 Moving is finished
+11.07 05:16:32 Scanning 622 point from 686
+11.07 05:16:32 Going to coordinates X=-6.935, Y=-44.200
+11.07 05:16:32 Moving is finished
+11.07 05:17:37 Scanning 623 point from 686
+11.07 05:17:37 Going to coordinates X=-6.885, Y=-44.200
+11.07 05:17:37 Moving is finished
+11.07 05:18:42 Scanning 624 point from 686
+11.07 05:18:42 Going to coordinates X=-6.835, Y=-44.200
+11.07 05:18:42 Moving is finished
+11.07 05:19:46 Scanning 625 point from 686
+11.07 05:19:46 Going to coordinates X=-6.785, Y=-44.200
+11.07 05:19:46 Moving is finished
+11.07 05:20:50 Scanning 626 point from 686
+11.07 05:20:50 Going to coordinates X=-6.735, Y=-44.200
+11.07 05:20:50 Moving is finished
+11.07 05:21:54 Scanning 627 point from 686
+11.07 05:21:54 Going to coordinates X=-6.685, Y=-44.200
+11.07 05:21:55 Moving is finished
+11.07 05:22:59 Scanning 628 point from 686
+11.07 05:22:59 Going to coordinates X=-6.635, Y=-44.200
+11.07 05:22:59 Moving is finished
+11.07 05:24:04 Scanning 629 point from 686
+11.07 05:24:04 Going to coordinates X=-6.585, Y=-44.200
+11.07 05:24:04 Moving is finished
+11.07 05:25:08 Scanning 630 point from 686
+11.07 05:25:08 Going to coordinates X=-6.535, Y=-44.200
+11.07 05:25:08 Moving is finished
+11.07 05:26:12 Scanning 631 point from 686
+11.07 05:26:12 Going to coordinates X=-6.485, Y=-44.200
+11.07 05:26:12 Moving is finished
+11.07 05:27:16 Scanning 632 point from 686
+11.07 05:27:16 Going to coordinates X=-6.435, Y=-44.200
+11.07 05:27:16 Moving is finished
+11.07 05:28:21 Scanning 633 point from 686
+11.07 05:28:21 Going to coordinates X=-6.385, Y=-44.200
+11.07 05:28:21 Moving is finished
+11.07 05:29:26 Scanning 634 point from 686
+11.07 05:29:26 Going to coordinates X=-6.335, Y=-44.200
+11.07 05:29:26 Moving is finished
+11.07 05:30:30 Scanning 635 point from 686
+11.07 05:30:30 Going to coordinates X=-6.285, Y=-44.200
+11.07 05:30:31 Moving is finished
+11.07 05:31:35 Scanning 636 point from 686
+11.07 05:31:35 Going to coordinates X=-6.235, Y=-44.200
+11.07 05:31:35 Moving is finished
+11.07 05:32:40 Scanning 637 point from 686
+11.07 05:32:40 Going to coordinates X=-8.635, Y=-44.150
+11.07 05:32:41 Moving is finished
+11.07 05:33:44 Scanning 638 point from 686
+11.07 05:33:44 Going to coordinates X=-8.585, Y=-44.150
+11.07 05:33:45 Moving is finished
+11.07 05:34:48 Scanning 639 point from 686
+11.07 05:34:48 Going to coordinates X=-8.535, Y=-44.150
+11.07 05:34:49 Moving is finished
+11.07 05:35:52 Scanning 640 point from 686
+11.07 05:35:52 Going to coordinates X=-8.485, Y=-44.150
+11.07 05:35:53 Moving is finished
+11.07 05:36:56 Scanning 641 point from 686
+11.07 05:36:56 Going to coordinates X=-8.435, Y=-44.150
+11.07 05:36:57 Moving is finished
+11.07 05:38:00 Scanning 642 point from 686
+11.07 05:38:00 Going to coordinates X=-8.385, Y=-44.150
+11.07 05:38:00 Moving is finished
+11.07 05:39:05 Scanning 643 point from 686
+11.07 05:39:05 Going to coordinates X=-8.335, Y=-44.150
+11.07 05:39:05 Moving is finished
+11.07 05:40:09 Scanning 644 point from 686
+11.07 05:40:09 Going to coordinates X=-8.285, Y=-44.150
+11.07 05:40:10 Moving is finished
+11.07 05:41:13 Scanning 645 point from 686
+11.07 05:41:13 Going to coordinates X=-8.235, Y=-44.150
+11.07 05:41:14 Moving is finished
+11.07 05:42:17 Scanning 646 point from 686
+11.07 05:42:17 Going to coordinates X=-8.185, Y=-44.150
+11.07 05:42:18 Moving is finished
+11.07 05:43:21 Scanning 647 point from 686
+11.07 05:43:21 Going to coordinates X=-8.135, Y=-44.150
+11.07 05:43:22 Moving is finished
+11.07 05:44:26 Scanning 648 point from 686
+11.07 05:44:26 Going to coordinates X=-8.085, Y=-44.150
+11.07 05:44:26 Moving is finished
+11.07 05:45:30 Scanning 649 point from 686
+11.07 05:45:30 Going to coordinates X=-8.035, Y=-44.150
+11.07 05:45:30 Moving is finished
+11.07 05:46:34 Scanning 650 point from 686
+11.07 05:46:34 Going to coordinates X=-7.985, Y=-44.150
+11.07 05:46:34 Moving is finished
+11.07 05:47:38 Scanning 651 point from 686
+11.07 05:47:38 Going to coordinates X=-7.935, Y=-44.150
+11.07 05:47:38 Moving is finished
+11.07 05:48:42 Scanning 652 point from 686
+11.07 05:48:42 Going to coordinates X=-7.885, Y=-44.150
+11.07 05:48:42 Moving is finished
+11.07 05:49:46 Scanning 653 point from 686
+11.07 05:49:46 Going to coordinates X=-7.835, Y=-44.150
+11.07 05:49:46 Moving is finished
+11.07 05:50:50 Scanning 654 point from 686
+11.07 05:50:50 Going to coordinates X=-7.785, Y=-44.150
+11.07 05:50:50 Moving is finished
+11.07 05:51:54 Scanning 655 point from 686
+11.07 05:51:54 Going to coordinates X=-7.735, Y=-44.150
+11.07 05:51:54 Moving is finished
+11.07 05:52:58 Scanning 656 point from 686
+11.07 05:52:58 Going to coordinates X=-7.685, Y=-44.150
+11.07 05:52:58 Moving is finished
+11.07 05:54:03 Scanning 657 point from 686
+11.07 05:54:03 Going to coordinates X=-7.635, Y=-44.150
+11.07 05:54:03 Moving is finished
+11.07 05:55:07 Scanning 658 point from 686
+11.07 05:55:07 Going to coordinates X=-7.585, Y=-44.150
+11.07 05:55:07 Moving is finished
+11.07 05:56:11 Scanning 659 point from 686
+11.07 05:56:11 Going to coordinates X=-7.535, Y=-44.150
+11.07 05:56:11 Moving is finished
+11.07 05:57:15 Scanning 660 point from 686
+11.07 05:57:15 Going to coordinates X=-7.485, Y=-44.150
+11.07 05:57:15 Moving is finished
+11.07 05:58:20 Scanning 661 point from 686
+11.07 05:58:20 Going to coordinates X=-7.435, Y=-44.150
+11.07 05:58:20 Moving is finished
+11.07 05:59:24 Scanning 662 point from 686
+11.07 05:59:24 Going to coordinates X=-7.385, Y=-44.150
+11.07 05:59:24 Moving is finished
+11.07 06:00:28 Scanning 663 point from 686
+11.07 06:00:28 Going to coordinates X=-7.335, Y=-44.150
+11.07 06:00:28 Moving is finished
+11.07 06:01:32 Scanning 664 point from 686
+11.07 06:01:32 Going to coordinates X=-7.285, Y=-44.150
+11.07 06:01:32 Moving is finished
+11.07 06:02:36 Scanning 665 point from 686
+11.07 06:02:36 Going to coordinates X=-7.235, Y=-44.150
+11.07 06:02:37 Moving is finished
+11.07 06:03:40 Scanning 666 point from 686
+11.07 06:03:40 Going to coordinates X=-7.185, Y=-44.150
+11.07 06:03:41 Moving is finished
+11.07 06:04:44 Scanning 667 point from 686
+11.07 06:04:44 Going to coordinates X=-7.135, Y=-44.150
+11.07 06:04:45 Moving is finished
+11.07 06:05:48 Scanning 668 point from 686
+11.07 06:05:48 Going to coordinates X=-7.085, Y=-44.150
+11.07 06:05:49 Moving is finished
+11.07 06:06:53 Scanning 669 point from 686
+11.07 06:06:53 Going to coordinates X=-7.035, Y=-44.150
+11.07 06:06:53 Moving is finished
+11.07 06:07:57 Scanning 670 point from 686
+11.07 06:07:57 Going to coordinates X=-6.985, Y=-44.150
+11.07 06:07:57 Moving is finished
+11.07 06:09:01 Scanning 671 point from 686
+11.07 06:09:01 Going to coordinates X=-6.935, Y=-44.150
+11.07 06:09:01 Moving is finished
+11.07 06:10:05 Scanning 672 point from 686
+11.07 06:10:05 Going to coordinates X=-6.885, Y=-44.150
+11.07 06:10:05 Moving is finished
+11.07 06:11:10 Scanning 673 point from 686
+11.07 06:11:10 Going to coordinates X=-6.835, Y=-44.150
+11.07 06:11:10 Moving is finished
+11.07 06:12:14 Scanning 674 point from 686
+11.07 06:12:14 Going to coordinates X=-6.785, Y=-44.150
+11.07 06:12:14 Moving is finished
+11.07 06:13:18 Scanning 675 point from 686
+11.07 06:13:18 Going to coordinates X=-6.735, Y=-44.150
+11.07 06:13:18 Moving is finished
+11.07 06:14:22 Scanning 676 point from 686
+11.07 06:14:22 Going to coordinates X=-6.685, Y=-44.150
+11.07 06:14:22 Moving is finished
+11.07 06:15:26 Scanning 677 point from 686
+11.07 06:15:26 Going to coordinates X=-6.635, Y=-44.150
+11.07 06:15:26 Moving is finished
+11.07 06:16:30 Scanning 678 point from 686
+11.07 06:16:30 Going to coordinates X=-6.585, Y=-44.150
+11.07 06:16:30 Moving is finished
+11.07 06:17:35 Scanning 679 point from 686
+11.07 06:17:35 Going to coordinates X=-6.535, Y=-44.150
+11.07 06:17:35 Moving is finished
+11.07 06:18:39 Scanning 680 point from 686
+11.07 06:18:39 Going to coordinates X=-6.485, Y=-44.150
+11.07 06:18:39 Moving is finished
+11.07 06:19:43 Scanning 681 point from 686
+11.07 06:19:43 Going to coordinates X=-6.435, Y=-44.150
+11.07 06:19:44 Moving is finished
+11.07 06:20:47 Scanning 682 point from 686
+11.07 06:20:47 Going to coordinates X=-6.385, Y=-44.150
+11.07 06:20:48 Moving is finished
+11.07 06:21:52 Scanning 683 point from 686
+11.07 06:21:52 Going to coordinates X=-6.335, Y=-44.150
+11.07 06:21:52 Moving is finished
+11.07 06:22:56 Scanning 684 point from 686
+11.07 06:22:56 Going to coordinates X=-6.285, Y=-44.150
+11.07 06:22:56 Moving is finished
+11.07 06:24:00 Scanning 685 point from 686
+11.07 06:24:00 Going to coordinates X=-6.235, Y=-44.150
+11.07 06:24:00 Moving is finished

@@ -1,0 +1,59 @@
+30.04 17:40:32 Initializing grbl...
+30.04 17:40:33 Got the response: b''
+30.04 18:07:09 Row 0: 30.04 18:07:09 Circle: x: -27.902, y: -37.959, rad: 0.100, n: 10, fname: DNAtarget
+30.04 18:07:09 Scanning point 1 of circle
+30.04 18:07:09 Going to coordinates X=-27.802, Y=-37.959
+30.04 18:07:09 Moving is finished
+30.04 18:07:10 Starting signal collection to the file DNAtarget_circle_1
+30.04 18:07:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+30.04 18:07:30 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+30.04 18:07:31 Data is collected!
+30.04 18:07:31 Scanning point 2 of circle
+30.04 18:07:31 Going to coordinates X=-27.821, Y=-37.900
+30.04 18:07:31 Moving is finished
+30.04 18:07:32 Starting signal collection to the file DNAtarget_circle_2
+30.04 18:07:38 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+30.04 18:07:43 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+30.04 18:07:44 Data is collected!
+30.04 18:07:44 Scanning point 3 of circle
+30.04 18:07:44 Going to coordinates X=-27.871, Y=-37.864
+30.04 18:07:44 Moving is finished
+30.04 18:07:45 Starting signal collection to the file DNAtarget_circle_3
+30.04 18:07:51 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+30.04 18:07:56 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+30.04 18:07:57 Data is collected!
+30.04 18:07:57 Scanning point 4 of circle
+30.04 18:07:57 Going to coordinates X=-27.933, Y=-37.864
+30.04 18:07:58 Moving is finished
+30.04 18:07:59 Starting signal collection to the file DNAtarget_circle_4
+30.04 18:08:19 Data is collected!
+30.04 18:08:19 Scanning point 5 of circle
+30.04 18:08:19 Going to coordinates X=-27.983, Y=-37.900
+30.04 18:08:19 Moving is finished
+30.04 18:08:20 Starting signal collection to the file DNAtarget_circle_5
+30.04 18:09:29 Data is collected!
+30.04 18:09:29 Scanning point 6 of circle
+30.04 18:09:29 Going to coordinates X=-28.002, Y=-37.959
+30.04 18:09:29 Moving is finished
+30.04 18:09:31 Starting signal collection to the file DNAtarget_circle_6
+30.04 18:10:39 Data is collected!
+30.04 18:10:39 Scanning point 7 of circle
+30.04 18:10:39 Going to coordinates X=-27.983, Y=-38.018
+30.04 18:10:40 Moving is finished
+30.04 18:10:41 Starting signal collection to the file DNAtarget_circle_7
+30.04 18:11:49 Data is collected!
+30.04 18:11:49 Scanning point 8 of circle
+30.04 18:11:49 Going to coordinates X=-27.933, Y=-38.054
+30.04 18:11:49 Moving is finished
+30.04 18:11:50 Starting signal collection to the file DNAtarget_circle_8
+30.04 18:12:59 Data is collected!
+30.04 18:12:59 Scanning point 9 of circle
+30.04 18:12:59 Going to coordinates X=-27.871, Y=-38.054
+30.04 18:12:59 Moving is finished
+30.04 18:13:00 Starting signal collection to the file DNAtarget_circle_9
+30.04 18:14:09 Data is collected!
+30.04 18:14:09 Scanning point 10 of circle
+30.04 18:14:09 Going to coordinates X=-27.821, Y=-38.018
+30.04 18:14:09 Moving is finished
+30.04 18:14:10 Starting signal collection to the file DNAtarget_circle_10
+30.04 18:15:20 Data is collected!

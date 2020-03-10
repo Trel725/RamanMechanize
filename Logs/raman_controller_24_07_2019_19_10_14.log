@@ -1,0 +1,2382 @@
+24.07 19:21:09 Initializing grbl...
+24.07 19:21:09 Got the response: b''
+24.07 19:22:58 Row 0: 24.07 19:22:58 Map: x1: -14.0, y1: -39.231, x2: -15.269, y2: -37.467, xres: 0.040, yres: 0.040, fname: M7 target
+24.07 19:22:58 Scanning 0 point from 1518
+24.07 19:22:58 Going to coordinates X=-15.269, Y=-39.231
+24.07 19:22:59 Moving is finished
+24.07 19:24:04 Scanning 1 point from 1518
+24.07 19:24:04 Going to coordinates X=-15.229, Y=-39.231
+24.07 19:24:04 Moving is finished
+24.07 19:25:09 Scanning 2 point from 1518
+24.07 19:25:09 Going to coordinates X=-15.189, Y=-39.231
+24.07 19:25:09 Moving is finished
+24.07 19:26:14 Scanning 3 point from 1518
+24.07 19:26:14 Going to coordinates X=-15.149, Y=-39.231
+24.07 19:26:14 Moving is finished
+24.07 19:27:19 Scanning 4 point from 1518
+24.07 19:27:19 Going to coordinates X=-15.109, Y=-39.231
+24.07 19:27:19 Moving is finished
+24.07 19:28:24 Scanning 5 point from 1518
+24.07 19:28:24 Going to coordinates X=-15.069, Y=-39.231
+24.07 19:28:24 Moving is finished
+24.07 19:29:29 Scanning 6 point from 1518
+24.07 19:29:29 Going to coordinates X=-15.029, Y=-39.231
+24.07 19:29:29 Moving is finished
+24.07 19:30:34 Scanning 7 point from 1518
+24.07 19:30:34 Going to coordinates X=-14.989, Y=-39.231
+24.07 19:30:34 Moving is finished
+24.07 19:31:38 Scanning 8 point from 1518
+24.07 19:31:38 Going to coordinates X=-14.949, Y=-39.231
+24.07 19:31:38 Moving is finished
+24.07 19:32:43 Scanning 9 point from 1518
+24.07 19:32:43 Going to coordinates X=-14.909, Y=-39.231
+24.07 19:32:43 Moving is finished
+24.07 19:33:48 Scanning 10 point from 1518
+24.07 19:33:48 Going to coordinates X=-14.869, Y=-39.231
+24.07 19:33:48 Moving is finished
+24.07 19:34:53 Scanning 11 point from 1518
+24.07 19:34:53 Going to coordinates X=-14.829, Y=-39.231
+24.07 19:34:53 Moving is finished
+24.07 19:35:58 Scanning 12 point from 1518
+24.07 19:35:58 Going to coordinates X=-14.789, Y=-39.231
+24.07 19:35:58 Moving is finished
+24.07 19:37:03 Scanning 13 point from 1518
+24.07 19:37:03 Going to coordinates X=-14.749, Y=-39.231
+24.07 19:37:03 Moving is finished
+24.07 19:38:08 Scanning 14 point from 1518
+24.07 19:38:08 Going to coordinates X=-14.709, Y=-39.231
+24.07 19:38:08 Moving is finished
+24.07 19:39:12 Scanning 15 point from 1518
+24.07 19:39:12 Going to coordinates X=-14.669, Y=-39.231
+24.07 19:39:13 Moving is finished
+24.07 19:40:18 Scanning 16 point from 1518
+24.07 19:40:18 Going to coordinates X=-14.629, Y=-39.231
+24.07 19:40:18 Moving is finished
+24.07 19:41:22 Scanning 17 point from 1518
+24.07 19:41:22 Going to coordinates X=-14.589, Y=-39.231
+24.07 19:41:23 Moving is finished
+24.07 19:42:27 Scanning 18 point from 1518
+24.07 19:42:27 Going to coordinates X=-14.549, Y=-39.231
+24.07 19:42:27 Moving is finished
+24.07 19:43:32 Scanning 19 point from 1518
+24.07 19:43:32 Going to coordinates X=-14.509, Y=-39.231
+24.07 19:43:32 Moving is finished
+24.07 19:44:36 Scanning 20 point from 1518
+24.07 19:44:36 Going to coordinates X=-14.469, Y=-39.231
+24.07 19:44:37 Moving is finished
+24.07 19:45:42 Scanning 21 point from 1518
+24.07 19:45:42 Going to coordinates X=-14.429, Y=-39.231
+24.07 19:45:42 Moving is finished
+24.07 19:46:46 Scanning 22 point from 1518
+24.07 19:46:46 Going to coordinates X=-14.389, Y=-39.231
+24.07 19:46:46 Moving is finished
+24.07 19:47:51 Scanning 23 point from 1518
+24.07 19:47:51 Going to coordinates X=-14.349, Y=-39.231
+24.07 19:47:51 Moving is finished
+24.07 19:48:56 Scanning 24 point from 1518
+24.07 19:48:56 Going to coordinates X=-14.309, Y=-39.231
+24.07 19:48:56 Moving is finished
+24.07 19:50:00 Scanning 25 point from 1518
+24.07 19:50:00 Going to coordinates X=-14.269, Y=-39.231
+24.07 19:50:00 Moving is finished
+24.07 19:51:05 Scanning 26 point from 1518
+24.07 19:51:05 Going to coordinates X=-14.229, Y=-39.231
+24.07 19:51:05 Moving is finished
+24.07 19:52:09 Scanning 27 point from 1518
+24.07 19:52:09 Going to coordinates X=-14.189, Y=-39.231
+24.07 19:52:09 Moving is finished
+24.07 19:53:14 Scanning 28 point from 1518
+24.07 19:53:14 Going to coordinates X=-14.149, Y=-39.231
+24.07 19:53:14 Moving is finished
+24.07 19:54:19 Scanning 29 point from 1518
+24.07 19:54:19 Going to coordinates X=-14.109, Y=-39.231
+24.07 19:54:19 Moving is finished
+24.07 19:55:24 Scanning 30 point from 1518
+24.07 19:55:24 Going to coordinates X=-14.069, Y=-39.231
+24.07 19:55:24 Moving is finished
+24.07 19:56:29 Scanning 31 point from 1518
+24.07 19:56:29 Going to coordinates X=-14.029, Y=-39.231
+24.07 19:56:29 Moving is finished
+24.07 19:57:33 Scanning 32 point from 1518
+24.07 19:57:33 Going to coordinates X=-13.989, Y=-39.231
+24.07 19:57:34 Moving is finished
+24.07 19:58:38 Scanning 33 point from 1518
+24.07 19:58:38 Going to coordinates X=-15.269, Y=-39.191
+24.07 19:58:39 Moving is finished
+24.07 19:59:44 Scanning 34 point from 1518
+24.07 19:59:44 Going to coordinates X=-15.229, Y=-39.191
+24.07 19:59:44 Moving is finished
+24.07 20:00:50 Scanning 35 point from 1518
+24.07 20:00:50 Going to coordinates X=-15.189, Y=-39.191
+24.07 20:00:50 Moving is finished
+24.07 20:01:55 Scanning 36 point from 1518
+24.07 20:01:55 Going to coordinates X=-15.149, Y=-39.191
+24.07 20:01:55 Moving is finished
+24.07 20:02:59 Scanning 37 point from 1518
+24.07 20:02:59 Going to coordinates X=-15.109, Y=-39.191
+24.07 20:02:59 Moving is finished
+24.07 20:04:04 Scanning 38 point from 1518
+24.07 20:04:04 Going to coordinates X=-15.069, Y=-39.191
+24.07 20:04:04 Moving is finished
+24.07 20:05:08 Scanning 39 point from 1518
+24.07 20:05:08 Going to coordinates X=-15.029, Y=-39.191
+24.07 20:05:09 Moving is finished
+24.07 20:06:13 Scanning 40 point from 1518
+24.07 20:06:13 Going to coordinates X=-14.989, Y=-39.191
+24.07 20:06:13 Moving is finished
+24.07 20:07:18 Scanning 41 point from 1518
+24.07 20:07:18 Going to coordinates X=-14.949, Y=-39.191
+24.07 20:07:18 Moving is finished
+24.07 20:08:22 Scanning 42 point from 1518
+24.07 20:08:22 Going to coordinates X=-14.909, Y=-39.191
+24.07 20:08:23 Moving is finished
+24.07 20:09:27 Scanning 43 point from 1518
+24.07 20:09:27 Going to coordinates X=-14.869, Y=-39.191
+24.07 20:09:28 Moving is finished
+24.07 20:10:33 Scanning 44 point from 1518
+24.07 20:10:33 Going to coordinates X=-14.829, Y=-39.191
+24.07 20:10:33 Moving is finished
+24.07 20:11:38 Scanning 45 point from 1518
+24.07 20:11:38 Going to coordinates X=-14.789, Y=-39.191
+24.07 20:11:38 Moving is finished
+24.07 20:12:43 Scanning 46 point from 1518
+24.07 20:12:43 Going to coordinates X=-14.749, Y=-39.191
+24.07 20:12:43 Moving is finished
+24.07 20:13:48 Scanning 47 point from 1518
+24.07 20:13:48 Going to coordinates X=-14.709, Y=-39.191
+24.07 20:13:48 Moving is finished
+24.07 20:14:52 Scanning 48 point from 1518
+24.07 20:14:52 Going to coordinates X=-14.669, Y=-39.191
+24.07 20:14:53 Moving is finished
+24.07 20:15:57 Scanning 49 point from 1518
+24.07 20:15:57 Going to coordinates X=-14.629, Y=-39.191
+24.07 20:15:57 Moving is finished
+24.07 20:17:02 Scanning 50 point from 1518
+24.07 20:17:02 Going to coordinates X=-14.589, Y=-39.191
+24.07 20:17:02 Moving is finished
+24.07 20:18:07 Scanning 51 point from 1518
+24.07 20:18:07 Going to coordinates X=-14.549, Y=-39.191
+24.07 20:18:07 Moving is finished
+24.07 20:19:12 Scanning 52 point from 1518
+24.07 20:19:12 Going to coordinates X=-14.509, Y=-39.191
+24.07 20:19:12 Moving is finished
+24.07 20:20:16 Scanning 53 point from 1518
+24.07 20:20:16 Going to coordinates X=-14.469, Y=-39.191
+24.07 20:20:17 Moving is finished
+24.07 20:21:22 Scanning 54 point from 1518
+24.07 20:21:22 Going to coordinates X=-14.429, Y=-39.191
+24.07 20:21:22 Moving is finished
+24.07 20:22:26 Scanning 55 point from 1518
+24.07 20:22:26 Going to coordinates X=-14.389, Y=-39.191
+24.07 20:22:27 Moving is finished
+24.07 20:23:31 Scanning 56 point from 1518
+24.07 20:23:31 Going to coordinates X=-14.349, Y=-39.191
+24.07 20:23:31 Moving is finished
+24.07 20:24:36 Scanning 57 point from 1518
+24.07 20:24:36 Going to coordinates X=-14.309, Y=-39.191
+24.07 20:24:36 Moving is finished
+24.07 20:25:40 Scanning 58 point from 1518
+24.07 20:25:40 Going to coordinates X=-14.269, Y=-39.191
+24.07 20:25:40 Moving is finished
+24.07 20:26:45 Scanning 59 point from 1518
+24.07 20:26:45 Going to coordinates X=-14.229, Y=-39.191
+24.07 20:26:45 Moving is finished
+24.07 20:27:50 Scanning 60 point from 1518
+24.07 20:27:50 Going to coordinates X=-14.189, Y=-39.191
+24.07 20:27:50 Moving is finished
+24.07 20:28:55 Scanning 61 point from 1518
+24.07 20:28:55 Going to coordinates X=-14.149, Y=-39.191
+24.07 20:28:55 Moving is finished
+24.07 20:29:59 Scanning 62 point from 1518
+24.07 20:29:59 Going to coordinates X=-14.109, Y=-39.191
+24.07 20:29:59 Moving is finished
+24.07 20:31:04 Scanning 63 point from 1518
+24.07 20:31:04 Going to coordinates X=-14.069, Y=-39.191
+24.07 20:31:04 Moving is finished
+24.07 20:32:08 Scanning 64 point from 1518
+24.07 20:32:08 Going to coordinates X=-14.029, Y=-39.191
+24.07 20:32:09 Moving is finished
+24.07 20:33:13 Scanning 65 point from 1518
+24.07 20:33:13 Going to coordinates X=-13.989, Y=-39.191
+24.07 20:33:13 Moving is finished
+24.07 20:34:18 Scanning 66 point from 1518
+24.07 20:34:18 Going to coordinates X=-15.269, Y=-39.151
+24.07 20:34:19 Moving is finished
+24.07 20:35:23 Scanning 67 point from 1518
+24.07 20:35:23 Going to coordinates X=-15.229, Y=-39.151
+24.07 20:35:23 Moving is finished
+24.07 20:36:28 Scanning 68 point from 1518
+24.07 20:36:28 Going to coordinates X=-15.189, Y=-39.151
+24.07 20:36:28 Moving is finished
+24.07 20:37:33 Scanning 69 point from 1518
+24.07 20:37:33 Going to coordinates X=-15.149, Y=-39.151
+24.07 20:37:33 Moving is finished
+24.07 20:38:39 Scanning 70 point from 1518
+24.07 20:38:39 Going to coordinates X=-15.109, Y=-39.151
+24.07 20:38:39 Moving is finished
+24.07 20:39:43 Scanning 71 point from 1518
+24.07 20:39:43 Going to coordinates X=-15.069, Y=-39.151
+24.07 20:39:43 Moving is finished
+24.07 20:40:48 Scanning 72 point from 1518
+24.07 20:40:48 Going to coordinates X=-15.029, Y=-39.151
+24.07 20:40:48 Moving is finished
+24.07 20:41:52 Scanning 73 point from 1518
+24.07 20:41:52 Going to coordinates X=-14.989, Y=-39.151
+24.07 20:41:53 Moving is finished
+24.07 20:42:58 Scanning 74 point from 1518
+24.07 20:42:58 Going to coordinates X=-14.949, Y=-39.151
+24.07 20:42:58 Moving is finished
+24.07 20:44:03 Scanning 75 point from 1518
+24.07 20:44:03 Going to coordinates X=-14.909, Y=-39.151
+24.07 20:44:03 Moving is finished
+24.07 20:45:07 Scanning 76 point from 1518
+24.07 20:45:07 Going to coordinates X=-14.869, Y=-39.151
+24.07 20:45:08 Moving is finished
+24.07 20:46:12 Scanning 77 point from 1518
+24.07 20:46:12 Going to coordinates X=-14.829, Y=-39.151
+24.07 20:46:13 Moving is finished
+24.07 20:47:17 Scanning 78 point from 1518
+24.07 20:47:17 Going to coordinates X=-14.789, Y=-39.151
+24.07 20:47:17 Moving is finished
+24.07 20:48:21 Scanning 79 point from 1518
+24.07 20:48:21 Going to coordinates X=-14.749, Y=-39.151
+24.07 20:48:22 Moving is finished
+24.07 20:49:26 Scanning 80 point from 1518
+24.07 20:49:26 Going to coordinates X=-14.709, Y=-39.151
+24.07 20:49:26 Moving is finished
+24.07 20:50:32 Scanning 81 point from 1518
+24.07 20:50:32 Going to coordinates X=-14.669, Y=-39.151
+24.07 20:50:32 Moving is finished
+24.07 20:51:37 Scanning 82 point from 1518
+24.07 20:51:37 Going to coordinates X=-14.629, Y=-39.151
+24.07 20:51:37 Moving is finished
+24.07 20:52:41 Scanning 83 point from 1518
+24.07 20:52:41 Going to coordinates X=-14.589, Y=-39.151
+24.07 20:52:41 Moving is finished
+24.07 20:53:46 Scanning 84 point from 1518
+24.07 20:53:46 Going to coordinates X=-14.549, Y=-39.151
+24.07 20:53:46 Moving is finished
+24.07 20:54:51 Scanning 85 point from 1518
+24.07 20:54:51 Going to coordinates X=-14.509, Y=-39.151
+24.07 20:54:51 Moving is finished
+24.07 20:55:56 Scanning 86 point from 1518
+24.07 20:55:56 Going to coordinates X=-14.469, Y=-39.151
+24.07 20:55:56 Moving is finished
+24.07 20:57:01 Scanning 87 point from 1518
+24.07 20:57:01 Going to coordinates X=-14.429, Y=-39.151
+24.07 20:57:01 Moving is finished
+24.07 20:58:06 Scanning 88 point from 1518
+24.07 20:58:06 Going to coordinates X=-14.389, Y=-39.151
+24.07 20:58:06 Moving is finished
+24.07 20:59:10 Scanning 89 point from 1518
+24.07 20:59:10 Going to coordinates X=-14.349, Y=-39.151
+24.07 20:59:10 Moving is finished
+24.07 21:00:15 Scanning 90 point from 1518
+24.07 21:00:15 Going to coordinates X=-14.309, Y=-39.151
+24.07 21:00:15 Moving is finished
+24.07 21:01:20 Scanning 91 point from 1518
+24.07 21:01:20 Going to coordinates X=-14.269, Y=-39.151
+24.07 21:01:20 Moving is finished
+24.07 21:02:25 Scanning 92 point from 1518
+24.07 21:02:25 Going to coordinates X=-14.229, Y=-39.151
+24.07 21:02:25 Moving is finished
+24.07 21:03:29 Scanning 93 point from 1518
+24.07 21:03:29 Going to coordinates X=-14.189, Y=-39.151
+24.07 21:03:30 Moving is finished
+24.07 21:04:34 Scanning 94 point from 1518
+24.07 21:04:34 Going to coordinates X=-14.149, Y=-39.151
+24.07 21:04:34 Moving is finished
+24.07 21:05:39 Scanning 95 point from 1518
+24.07 21:05:39 Going to coordinates X=-14.109, Y=-39.151
+24.07 21:05:39 Moving is finished
+24.07 21:06:43 Scanning 96 point from 1518
+24.07 21:06:43 Going to coordinates X=-14.069, Y=-39.151
+24.07 21:06:44 Moving is finished
+24.07 21:07:48 Scanning 97 point from 1518
+24.07 21:07:48 Going to coordinates X=-14.029, Y=-39.151
+24.07 21:07:48 Moving is finished
+24.07 21:08:53 Scanning 98 point from 1518
+24.07 21:08:53 Going to coordinates X=-13.989, Y=-39.151
+24.07 21:08:53 Moving is finished
+24.07 21:09:58 Scanning 99 point from 1518
+24.07 21:09:58 Going to coordinates X=-15.269, Y=-39.111
+24.07 21:09:59 Moving is finished
+24.07 21:11:03 Scanning 100 point from 1518
+24.07 21:11:03 Going to coordinates X=-15.229, Y=-39.111
+24.07 21:11:03 Moving is finished
+24.07 21:12:08 Scanning 101 point from 1518
+24.07 21:12:08 Going to coordinates X=-15.189, Y=-39.111
+24.07 21:12:08 Moving is finished
+24.07 21:13:13 Scanning 102 point from 1518
+24.07 21:13:13 Going to coordinates X=-15.149, Y=-39.111
+24.07 21:13:13 Moving is finished
+24.07 21:14:17 Scanning 103 point from 1518
+24.07 21:14:17 Going to coordinates X=-15.109, Y=-39.111
+24.07 21:14:18 Moving is finished
+24.07 21:15:22 Scanning 104 point from 1518
+24.07 21:15:22 Going to coordinates X=-15.069, Y=-39.111
+24.07 21:15:22 Moving is finished
+24.07 21:16:27 Scanning 105 point from 1518
+24.07 21:16:27 Going to coordinates X=-15.029, Y=-39.111
+24.07 21:16:28 Moving is finished
+24.07 21:17:32 Scanning 106 point from 1518
+24.07 21:17:32 Going to coordinates X=-14.989, Y=-39.111
+24.07 21:17:33 Moving is finished
+24.07 21:18:37 Scanning 107 point from 1518
+24.07 21:18:37 Going to coordinates X=-14.949, Y=-39.111
+24.07 21:18:37 Moving is finished
+24.07 21:19:42 Scanning 108 point from 1518
+24.07 21:19:42 Going to coordinates X=-14.909, Y=-39.111
+24.07 21:19:42 Moving is finished
+24.07 21:20:47 Scanning 109 point from 1518
+24.07 21:20:47 Going to coordinates X=-14.869, Y=-39.111
+24.07 21:20:47 Moving is finished
+24.07 21:21:52 Scanning 110 point from 1518
+24.07 21:21:52 Going to coordinates X=-14.829, Y=-39.111
+24.07 21:21:52 Moving is finished
+24.07 21:22:57 Scanning 111 point from 1518
+24.07 21:22:57 Going to coordinates X=-14.789, Y=-39.111
+24.07 21:22:57 Moving is finished
+24.07 21:24:02 Scanning 112 point from 1518
+24.07 21:24:02 Going to coordinates X=-14.749, Y=-39.111
+24.07 21:24:02 Moving is finished
+24.07 21:25:07 Scanning 113 point from 1518
+24.07 21:25:07 Going to coordinates X=-14.709, Y=-39.111
+24.07 21:25:08 Moving is finished
+24.07 21:26:13 Scanning 114 point from 1518
+24.07 21:26:13 Going to coordinates X=-14.669, Y=-39.111
+24.07 21:26:13 Moving is finished
+24.07 21:27:18 Scanning 115 point from 1518
+24.07 21:27:18 Going to coordinates X=-14.629, Y=-39.111
+24.07 21:27:18 Moving is finished
+24.07 21:28:22 Scanning 116 point from 1518
+24.07 21:28:22 Going to coordinates X=-14.589, Y=-39.111
+24.07 21:28:22 Moving is finished
+24.07 21:29:27 Scanning 117 point from 1518
+24.07 21:29:27 Going to coordinates X=-14.549, Y=-39.111
+24.07 21:29:27 Moving is finished
+24.07 21:30:32 Scanning 118 point from 1518
+24.07 21:30:32 Going to coordinates X=-14.509, Y=-39.111
+24.07 21:30:33 Moving is finished
+24.07 21:31:37 Scanning 119 point from 1518
+24.07 21:31:37 Going to coordinates X=-14.469, Y=-39.111
+24.07 21:31:37 Moving is finished
+24.07 21:32:42 Scanning 120 point from 1518
+24.07 21:32:42 Going to coordinates X=-14.429, Y=-39.111
+24.07 21:32:42 Moving is finished
+24.07 21:33:47 Scanning 121 point from 1518
+24.07 21:33:47 Going to coordinates X=-14.389, Y=-39.111
+24.07 21:33:47 Moving is finished
+24.07 21:34:51 Scanning 122 point from 1518
+24.07 21:34:51 Going to coordinates X=-14.349, Y=-39.111
+24.07 21:34:51 Moving is finished
+24.07 21:35:56 Scanning 123 point from 1518
+24.07 21:35:56 Going to coordinates X=-14.309, Y=-39.111
+24.07 21:35:57 Moving is finished
+24.07 21:37:01 Scanning 124 point from 1518
+24.07 21:37:01 Going to coordinates X=-14.269, Y=-39.111
+24.07 21:37:01 Moving is finished
+24.07 21:38:06 Scanning 125 point from 1518
+24.07 21:38:06 Going to coordinates X=-14.229, Y=-39.111
+24.07 21:38:07 Moving is finished
+24.07 21:39:11 Scanning 126 point from 1518
+24.07 21:39:11 Going to coordinates X=-14.189, Y=-39.111
+24.07 21:39:11 Moving is finished
+24.07 21:40:16 Scanning 127 point from 1518
+24.07 21:40:16 Going to coordinates X=-14.149, Y=-39.111
+24.07 21:40:16 Moving is finished
+24.07 21:41:21 Scanning 128 point from 1518
+24.07 21:41:21 Going to coordinates X=-14.109, Y=-39.111
+24.07 21:41:21 Moving is finished
+24.07 21:42:26 Scanning 129 point from 1518
+24.07 21:42:26 Going to coordinates X=-14.069, Y=-39.111
+24.07 21:42:26 Moving is finished
+24.07 21:43:31 Scanning 130 point from 1518
+24.07 21:43:31 Going to coordinates X=-14.029, Y=-39.111
+24.07 21:43:32 Moving is finished
+24.07 21:44:36 Scanning 131 point from 1518
+24.07 21:44:36 Going to coordinates X=-13.989, Y=-39.111
+24.07 21:44:36 Moving is finished
+24.07 21:45:42 Scanning 132 point from 1518
+24.07 21:45:42 Going to coordinates X=-15.269, Y=-39.071
+24.07 21:45:42 Moving is finished
+24.07 21:46:47 Scanning 133 point from 1518
+24.07 21:46:47 Going to coordinates X=-15.229, Y=-39.071
+24.07 21:46:48 Moving is finished
+24.07 21:47:52 Scanning 134 point from 1518
+24.07 21:47:52 Going to coordinates X=-15.189, Y=-39.071
+24.07 21:47:53 Moving is finished
+24.07 21:48:58 Scanning 135 point from 1518
+24.07 21:48:58 Going to coordinates X=-15.149, Y=-39.071
+24.07 21:48:58 Moving is finished
+24.07 21:50:02 Scanning 136 point from 1518
+24.07 21:50:02 Going to coordinates X=-15.109, Y=-39.071
+24.07 21:50:03 Moving is finished
+24.07 21:51:07 Scanning 137 point from 1518
+24.07 21:51:07 Going to coordinates X=-15.069, Y=-39.071
+24.07 21:51:07 Moving is finished
+24.07 21:52:12 Scanning 138 point from 1518
+24.07 21:52:12 Going to coordinates X=-15.029, Y=-39.071
+24.07 21:52:13 Moving is finished
+24.07 21:53:18 Scanning 139 point from 1518
+24.07 21:53:18 Going to coordinates X=-14.989, Y=-39.071
+24.07 21:53:18 Moving is finished
+24.07 21:54:23 Scanning 140 point from 1518
+24.07 21:54:23 Going to coordinates X=-14.949, Y=-39.071
+24.07 21:54:23 Moving is finished
+24.07 21:55:28 Scanning 141 point from 1518
+24.07 21:55:28 Going to coordinates X=-14.909, Y=-39.071
+24.07 21:55:28 Moving is finished
+24.07 21:56:32 Scanning 142 point from 1518
+24.07 21:56:32 Going to coordinates X=-14.869, Y=-39.071
+24.07 21:56:32 Moving is finished
+24.07 21:57:37 Scanning 143 point from 1518
+24.07 21:57:37 Going to coordinates X=-14.829, Y=-39.071
+24.07 21:57:38 Moving is finished
+24.07 21:58:42 Scanning 144 point from 1518
+24.07 21:58:42 Going to coordinates X=-14.789, Y=-39.071
+24.07 21:58:43 Moving is finished
+24.07 21:59:47 Scanning 145 point from 1518
+24.07 21:59:47 Going to coordinates X=-14.749, Y=-39.071
+24.07 21:59:47 Moving is finished
+24.07 22:00:52 Scanning 146 point from 1518
+24.07 22:00:52 Going to coordinates X=-14.709, Y=-39.071
+24.07 22:00:52 Moving is finished
+24.07 22:01:57 Scanning 147 point from 1518
+24.07 22:01:57 Going to coordinates X=-14.669, Y=-39.071
+24.07 22:01:57 Moving is finished
+24.07 22:03:01 Scanning 148 point from 1518
+24.07 22:03:01 Going to coordinates X=-14.629, Y=-39.071
+24.07 22:03:01 Moving is finished
+24.07 22:04:06 Scanning 149 point from 1518
+24.07 22:04:06 Going to coordinates X=-14.589, Y=-39.071
+24.07 22:04:06 Moving is finished
+24.07 22:05:11 Scanning 150 point from 1518
+24.07 22:05:11 Going to coordinates X=-14.549, Y=-39.071
+24.07 22:05:11 Moving is finished
+24.07 22:06:16 Scanning 151 point from 1518
+24.07 22:06:16 Going to coordinates X=-14.509, Y=-39.071
+24.07 22:06:16 Moving is finished
+24.07 22:07:21 Scanning 152 point from 1518
+24.07 22:07:21 Going to coordinates X=-14.469, Y=-39.071
+24.07 22:07:21 Moving is finished
+24.07 22:08:26 Scanning 153 point from 1518
+24.07 22:08:26 Going to coordinates X=-14.429, Y=-39.071
+24.07 22:08:26 Moving is finished
+24.07 22:09:31 Scanning 154 point from 1518
+24.07 22:09:31 Going to coordinates X=-14.389, Y=-39.071
+24.07 22:09:31 Moving is finished
+24.07 22:10:36 Scanning 155 point from 1518
+24.07 22:10:36 Going to coordinates X=-14.349, Y=-39.071
+24.07 22:10:36 Moving is finished
+24.07 22:11:41 Scanning 156 point from 1518
+24.07 22:11:41 Going to coordinates X=-14.309, Y=-39.071
+24.07 22:11:41 Moving is finished
+24.07 22:12:45 Scanning 157 point from 1518
+24.07 22:12:45 Going to coordinates X=-14.269, Y=-39.071
+24.07 22:12:45 Moving is finished
+24.07 22:13:50 Scanning 158 point from 1518
+24.07 22:13:50 Going to coordinates X=-14.229, Y=-39.071
+24.07 22:13:50 Moving is finished
+24.07 22:14:55 Scanning 159 point from 1518
+24.07 22:14:55 Going to coordinates X=-14.189, Y=-39.071
+24.07 22:14:55 Moving is finished
+24.07 22:15:59 Scanning 160 point from 1518
+24.07 22:15:59 Going to coordinates X=-14.149, Y=-39.071
+24.07 22:15:59 Moving is finished
+24.07 22:17:05 Scanning 161 point from 1518
+24.07 22:17:05 Going to coordinates X=-14.109, Y=-39.071
+24.07 22:17:05 Moving is finished
+24.07 22:18:10 Scanning 162 point from 1518
+24.07 22:18:10 Going to coordinates X=-14.069, Y=-39.071
+24.07 22:18:10 Moving is finished
+24.07 22:19:15 Scanning 163 point from 1518
+24.07 22:19:15 Going to coordinates X=-14.029, Y=-39.071
+24.07 22:19:15 Moving is finished
+24.07 22:20:20 Scanning 164 point from 1518
+24.07 22:20:20 Going to coordinates X=-13.989, Y=-39.071
+24.07 22:20:20 Moving is finished
+24.07 22:21:25 Scanning 165 point from 1518
+24.07 22:21:25 Going to coordinates X=-15.269, Y=-39.031
+24.07 22:21:25 Moving is finished
+24.07 22:22:30 Scanning 166 point from 1518
+24.07 22:22:30 Going to coordinates X=-15.229, Y=-39.031
+24.07 22:22:30 Moving is finished
+24.07 22:23:35 Scanning 167 point from 1518
+24.07 22:23:35 Going to coordinates X=-15.189, Y=-39.031
+24.07 22:23:35 Moving is finished
+24.07 22:24:40 Scanning 168 point from 1518
+24.07 22:24:40 Going to coordinates X=-15.149, Y=-39.031
+24.07 22:24:40 Moving is finished
+24.07 22:25:45 Scanning 169 point from 1518
+24.07 22:25:45 Going to coordinates X=-15.109, Y=-39.031
+24.07 22:25:45 Moving is finished
+24.07 22:26:50 Scanning 170 point from 1518
+24.07 22:26:50 Going to coordinates X=-15.069, Y=-39.031
+24.07 22:26:50 Moving is finished
+24.07 22:27:55 Scanning 171 point from 1518
+24.07 22:27:55 Going to coordinates X=-15.029, Y=-39.031
+24.07 22:27:55 Moving is finished
+24.07 22:28:59 Scanning 172 point from 1518
+24.07 22:28:59 Going to coordinates X=-14.989, Y=-39.031
+24.07 22:29:00 Moving is finished
+24.07 22:30:04 Scanning 173 point from 1518
+24.07 22:30:04 Going to coordinates X=-14.949, Y=-39.031
+24.07 22:30:04 Moving is finished
+24.07 22:31:09 Scanning 174 point from 1518
+24.07 22:31:09 Going to coordinates X=-14.909, Y=-39.031
+24.07 22:31:09 Moving is finished
+24.07 22:32:13 Scanning 175 point from 1518
+24.07 22:32:13 Going to coordinates X=-14.869, Y=-39.031
+24.07 22:32:14 Moving is finished
+24.07 22:33:18 Scanning 176 point from 1518
+24.07 22:33:18 Going to coordinates X=-14.829, Y=-39.031
+24.07 22:33:18 Moving is finished
+24.07 22:34:22 Scanning 177 point from 1518
+24.07 22:34:22 Going to coordinates X=-14.789, Y=-39.031
+24.07 22:34:23 Moving is finished
+24.07 22:35:28 Scanning 178 point from 1518
+24.07 22:35:28 Going to coordinates X=-14.749, Y=-39.031
+24.07 22:35:28 Moving is finished
+24.07 22:36:33 Scanning 179 point from 1518
+24.07 22:36:33 Going to coordinates X=-14.709, Y=-39.031
+24.07 22:36:33 Moving is finished
+24.07 22:37:38 Scanning 180 point from 1518
+24.07 22:37:38 Going to coordinates X=-14.669, Y=-39.031
+24.07 22:37:38 Moving is finished
+24.07 22:38:42 Scanning 181 point from 1518
+24.07 22:38:42 Going to coordinates X=-14.629, Y=-39.031
+24.07 22:38:43 Moving is finished
+24.07 22:39:47 Scanning 182 point from 1518
+24.07 22:39:47 Going to coordinates X=-14.589, Y=-39.031
+24.07 22:39:47 Moving is finished
+24.07 22:40:52 Scanning 183 point from 1518
+24.07 22:40:52 Going to coordinates X=-14.549, Y=-39.031
+24.07 22:40:52 Moving is finished
+24.07 22:41:57 Scanning 184 point from 1518
+24.07 22:41:57 Going to coordinates X=-14.509, Y=-39.031
+24.07 22:41:57 Moving is finished
+24.07 22:43:02 Scanning 185 point from 1518
+24.07 22:43:02 Going to coordinates X=-14.469, Y=-39.031
+24.07 22:43:02 Moving is finished
+24.07 22:44:06 Scanning 186 point from 1518
+24.07 22:44:06 Going to coordinates X=-14.429, Y=-39.031
+24.07 22:44:07 Moving is finished
+24.07 22:45:12 Scanning 187 point from 1518
+24.07 22:45:12 Going to coordinates X=-14.389, Y=-39.031
+24.07 22:45:12 Moving is finished
+24.07 22:46:16 Scanning 188 point from 1518
+24.07 22:46:16 Going to coordinates X=-14.349, Y=-39.031
+24.07 22:46:16 Moving is finished
+24.07 22:47:21 Scanning 189 point from 1518
+24.07 22:47:21 Going to coordinates X=-14.309, Y=-39.031
+24.07 22:47:21 Moving is finished
+24.07 22:48:26 Scanning 190 point from 1518
+24.07 22:48:26 Going to coordinates X=-14.269, Y=-39.031
+24.07 22:48:26 Moving is finished
+24.07 22:49:30 Scanning 191 point from 1518
+24.07 22:49:30 Going to coordinates X=-14.229, Y=-39.031
+24.07 22:49:30 Moving is finished
+24.07 22:50:35 Scanning 192 point from 1518
+24.07 22:50:35 Going to coordinates X=-14.189, Y=-39.031
+24.07 22:50:35 Moving is finished
+24.07 22:51:39 Scanning 193 point from 1518
+24.07 22:51:39 Going to coordinates X=-14.149, Y=-39.031
+24.07 22:51:39 Moving is finished
+24.07 22:52:44 Scanning 194 point from 1518
+24.07 22:52:44 Going to coordinates X=-14.109, Y=-39.031
+24.07 22:52:44 Moving is finished
+24.07 22:53:49 Scanning 195 point from 1518
+24.07 22:53:49 Going to coordinates X=-14.069, Y=-39.031
+24.07 22:53:49 Moving is finished
+24.07 22:54:53 Scanning 196 point from 1518
+24.07 22:54:53 Going to coordinates X=-14.029, Y=-39.031
+24.07 22:54:54 Moving is finished
+24.07 22:55:59 Scanning 197 point from 1518
+24.07 22:55:59 Going to coordinates X=-13.989, Y=-39.031
+24.07 22:55:59 Moving is finished
+24.07 22:57:04 Scanning 198 point from 1518
+24.07 22:57:04 Going to coordinates X=-15.269, Y=-38.991
+24.07 22:57:05 Moving is finished
+24.07 22:58:09 Scanning 199 point from 1518
+24.07 22:58:09 Going to coordinates X=-15.229, Y=-38.991
+24.07 22:58:09 Moving is finished
+24.07 22:59:14 Scanning 200 point from 1518
+24.07 22:59:14 Going to coordinates X=-15.189, Y=-38.991
+24.07 22:59:14 Moving is finished
+24.07 23:00:19 Scanning 201 point from 1518
+24.07 23:00:19 Going to coordinates X=-15.149, Y=-38.991
+24.07 23:00:19 Moving is finished
+24.07 23:01:23 Scanning 202 point from 1518
+24.07 23:01:23 Going to coordinates X=-15.109, Y=-38.991
+24.07 23:01:24 Moving is finished
+24.07 23:02:28 Scanning 203 point from 1518
+24.07 23:02:28 Going to coordinates X=-15.069, Y=-38.991
+24.07 23:02:28 Moving is finished
+24.07 23:03:33 Scanning 204 point from 1518
+24.07 23:03:33 Going to coordinates X=-15.029, Y=-38.991
+24.07 23:03:33 Moving is finished
+24.07 23:04:37 Scanning 205 point from 1518
+24.07 23:04:37 Going to coordinates X=-14.989, Y=-38.991
+24.07 23:04:38 Moving is finished
+24.07 23:05:42 Scanning 206 point from 1518
+24.07 23:05:42 Going to coordinates X=-14.949, Y=-38.991
+24.07 23:05:42 Moving is finished
+24.07 23:06:47 Scanning 207 point from 1518
+24.07 23:06:47 Going to coordinates X=-14.909, Y=-38.991
+24.07 23:06:47 Moving is finished
+24.07 23:07:52 Scanning 208 point from 1518
+24.07 23:07:52 Going to coordinates X=-14.869, Y=-38.991
+24.07 23:07:52 Moving is finished
+24.07 23:08:56 Scanning 209 point from 1518
+24.07 23:08:56 Going to coordinates X=-14.829, Y=-38.991
+24.07 23:08:57 Moving is finished
+24.07 23:10:01 Scanning 210 point from 1518
+24.07 23:10:01 Going to coordinates X=-14.789, Y=-38.991
+24.07 23:10:02 Moving is finished
+24.07 23:11:06 Scanning 211 point from 1518
+24.07 23:11:06 Going to coordinates X=-14.749, Y=-38.991
+24.07 23:11:06 Moving is finished
+24.07 23:12:11 Scanning 212 point from 1518
+24.07 23:12:11 Going to coordinates X=-14.709, Y=-38.991
+24.07 23:12:11 Moving is finished
+24.07 23:13:15 Scanning 213 point from 1518
+24.07 23:13:15 Going to coordinates X=-14.669, Y=-38.991
+24.07 23:13:15 Moving is finished
+24.07 23:14:20 Scanning 214 point from 1518
+24.07 23:14:20 Going to coordinates X=-14.629, Y=-38.991
+24.07 23:14:20 Moving is finished
+24.07 23:15:25 Scanning 215 point from 1518
+24.07 23:15:25 Going to coordinates X=-14.589, Y=-38.991
+24.07 23:15:25 Moving is finished
+24.07 23:16:29 Scanning 216 point from 1518
+24.07 23:16:29 Going to coordinates X=-14.549, Y=-38.991
+24.07 23:16:30 Moving is finished
+24.07 23:17:34 Scanning 217 point from 1518
+24.07 23:17:34 Going to coordinates X=-14.509, Y=-38.991
+24.07 23:17:34 Moving is finished
+24.07 23:18:39 Scanning 218 point from 1518
+24.07 23:18:39 Going to coordinates X=-14.469, Y=-38.991
+24.07 23:18:39 Moving is finished
+24.07 23:19:44 Scanning 219 point from 1518
+24.07 23:19:44 Going to coordinates X=-14.429, Y=-38.991
+24.07 23:19:44 Moving is finished
+24.07 23:20:48 Scanning 220 point from 1518
+24.07 23:20:48 Going to coordinates X=-14.389, Y=-38.991
+24.07 23:20:48 Moving is finished
+24.07 23:21:53 Scanning 221 point from 1518
+24.07 23:21:53 Going to coordinates X=-14.349, Y=-38.991
+24.07 23:21:53 Moving is finished
+24.07 23:22:58 Scanning 222 point from 1518
+24.07 23:22:58 Going to coordinates X=-14.309, Y=-38.991
+24.07 23:22:58 Moving is finished
+24.07 23:24:02 Scanning 223 point from 1518
+24.07 23:24:02 Going to coordinates X=-14.269, Y=-38.991
+24.07 23:24:02 Moving is finished
+24.07 23:25:07 Scanning 224 point from 1518
+24.07 23:25:07 Going to coordinates X=-14.229, Y=-38.991
+24.07 23:25:07 Moving is finished
+24.07 23:26:12 Scanning 225 point from 1518
+24.07 23:26:12 Going to coordinates X=-14.189, Y=-38.991
+24.07 23:26:12 Moving is finished
+24.07 23:27:17 Scanning 226 point from 1518
+24.07 23:27:17 Going to coordinates X=-14.149, Y=-38.991
+24.07 23:27:17 Moving is finished
+24.07 23:28:21 Scanning 227 point from 1518
+24.07 23:28:21 Going to coordinates X=-14.109, Y=-38.991
+24.07 23:28:22 Moving is finished
+24.07 23:29:26 Scanning 228 point from 1518
+24.07 23:29:26 Going to coordinates X=-14.069, Y=-38.991
+24.07 23:29:26 Moving is finished
+24.07 23:30:31 Scanning 229 point from 1518
+24.07 23:30:31 Going to coordinates X=-14.029, Y=-38.991
+24.07 23:30:31 Moving is finished
+24.07 23:31:35 Scanning 230 point from 1518
+24.07 23:31:35 Going to coordinates X=-13.989, Y=-38.991
+24.07 23:31:36 Moving is finished
+24.07 23:32:41 Scanning 231 point from 1518
+24.07 23:32:41 Going to coordinates X=-15.269, Y=-38.951
+24.07 23:32:41 Moving is finished
+24.07 23:33:46 Scanning 232 point from 1518
+24.07 23:33:46 Going to coordinates X=-15.229, Y=-38.951
+24.07 23:33:46 Moving is finished
+24.07 23:34:51 Scanning 233 point from 1518
+24.07 23:34:51 Going to coordinates X=-15.189, Y=-38.951
+24.07 23:34:51 Moving is finished
+24.07 23:35:55 Scanning 234 point from 1518
+24.07 23:35:55 Going to coordinates X=-15.149, Y=-38.951
+24.07 23:35:56 Moving is finished
+24.07 23:37:00 Scanning 235 point from 1518
+24.07 23:37:00 Going to coordinates X=-15.109, Y=-38.951
+24.07 23:37:00 Moving is finished
+24.07 23:38:05 Scanning 236 point from 1518
+24.07 23:38:05 Going to coordinates X=-15.069, Y=-38.951
+24.07 23:38:05 Moving is finished
+24.07 23:39:09 Scanning 237 point from 1518
+24.07 23:39:09 Going to coordinates X=-15.029, Y=-38.951
+24.07 23:39:10 Moving is finished
+24.07 23:40:14 Scanning 238 point from 1518
+24.07 23:40:14 Going to coordinates X=-14.989, Y=-38.951
+24.07 23:40:15 Moving is finished
+24.07 23:41:19 Scanning 239 point from 1518
+24.07 23:41:19 Going to coordinates X=-14.949, Y=-38.951
+24.07 23:41:19 Moving is finished
+24.07 23:42:24 Scanning 240 point from 1518
+24.07 23:42:24 Going to coordinates X=-14.909, Y=-38.951
+24.07 23:42:24 Moving is finished
+24.07 23:43:29 Scanning 241 point from 1518
+24.07 23:43:29 Going to coordinates X=-14.869, Y=-38.951
+24.07 23:43:29 Moving is finished
+24.07 23:44:33 Scanning 242 point from 1518
+24.07 23:44:33 Going to coordinates X=-14.829, Y=-38.951
+24.07 23:44:33 Moving is finished
+24.07 23:45:38 Scanning 243 point from 1518
+24.07 23:45:38 Going to coordinates X=-14.789, Y=-38.951
+24.07 23:45:38 Moving is finished
+24.07 23:46:42 Scanning 244 point from 1518
+24.07 23:46:42 Going to coordinates X=-14.749, Y=-38.951
+24.07 23:46:42 Moving is finished
+24.07 23:47:47 Scanning 245 point from 1518
+24.07 23:47:47 Going to coordinates X=-14.709, Y=-38.951
+24.07 23:47:47 Moving is finished
+24.07 23:48:52 Scanning 246 point from 1518
+24.07 23:48:52 Going to coordinates X=-14.669, Y=-38.951
+24.07 23:48:52 Moving is finished
+24.07 23:49:56 Scanning 247 point from 1518
+24.07 23:49:56 Going to coordinates X=-14.629, Y=-38.951
+24.07 23:49:57 Moving is finished
+24.07 23:51:01 Scanning 248 point from 1518
+24.07 23:51:01 Going to coordinates X=-14.589, Y=-38.951
+24.07 23:51:01 Moving is finished
+24.07 23:52:06 Scanning 249 point from 1518
+24.07 23:52:06 Going to coordinates X=-14.549, Y=-38.951
+24.07 23:52:06 Moving is finished
+24.07 23:53:11 Scanning 250 point from 1518
+24.07 23:53:11 Going to coordinates X=-14.509, Y=-38.951
+24.07 23:53:11 Moving is finished
+24.07 23:54:16 Scanning 251 point from 1518
+24.07 23:54:16 Going to coordinates X=-14.469, Y=-38.951
+24.07 23:54:16 Moving is finished
+24.07 23:55:21 Scanning 252 point from 1518
+24.07 23:55:21 Going to coordinates X=-14.429, Y=-38.951
+24.07 23:55:21 Moving is finished
+24.07 23:56:26 Scanning 253 point from 1518
+24.07 23:56:26 Going to coordinates X=-14.389, Y=-38.951
+24.07 23:56:26 Moving is finished
+24.07 23:57:31 Scanning 254 point from 1518
+24.07 23:57:31 Going to coordinates X=-14.349, Y=-38.951
+24.07 23:57:31 Moving is finished
+24.07 23:58:35 Scanning 255 point from 1518
+24.07 23:58:35 Going to coordinates X=-14.309, Y=-38.951
+24.07 23:58:36 Moving is finished
+24.07 23:59:40 Scanning 256 point from 1518
+24.07 23:59:40 Going to coordinates X=-14.269, Y=-38.951
+24.07 23:59:40 Moving is finished
+25.07 00:00:45 Scanning 257 point from 1518
+25.07 00:00:45 Going to coordinates X=-14.229, Y=-38.951
+25.07 00:00:45 Moving is finished
+25.07 00:01:50 Scanning 258 point from 1518
+25.07 00:01:50 Going to coordinates X=-14.189, Y=-38.951
+25.07 00:01:50 Moving is finished
+25.07 00:02:54 Scanning 259 point from 1518
+25.07 00:02:54 Going to coordinates X=-14.149, Y=-38.951
+25.07 00:02:55 Moving is finished
+25.07 00:03:59 Scanning 260 point from 1518
+25.07 00:03:59 Going to coordinates X=-14.109, Y=-38.951
+25.07 00:04:00 Moving is finished
+25.07 00:05:04 Scanning 261 point from 1518
+25.07 00:05:04 Going to coordinates X=-14.069, Y=-38.951
+25.07 00:05:04 Moving is finished
+25.07 00:06:09 Scanning 262 point from 1518
+25.07 00:06:09 Going to coordinates X=-14.029, Y=-38.951
+25.07 00:06:09 Moving is finished
+25.07 00:07:13 Scanning 263 point from 1518
+25.07 00:07:13 Going to coordinates X=-13.989, Y=-38.951
+25.07 00:07:13 Moving is finished
+25.07 00:08:18 Scanning 264 point from 1518
+25.07 00:08:18 Going to coordinates X=-15.269, Y=-38.911
+25.07 00:08:19 Moving is finished
+25.07 00:09:23 Scanning 265 point from 1518
+25.07 00:09:23 Going to coordinates X=-15.229, Y=-38.911
+25.07 00:09:23 Moving is finished
+25.07 00:10:28 Scanning 266 point from 1518
+25.07 00:10:28 Going to coordinates X=-15.189, Y=-38.911
+25.07 00:10:28 Moving is finished
+25.07 00:11:33 Scanning 267 point from 1518
+25.07 00:11:33 Going to coordinates X=-15.149, Y=-38.911
+25.07 00:11:33 Moving is finished
+25.07 00:12:38 Scanning 268 point from 1518
+25.07 00:12:38 Going to coordinates X=-15.109, Y=-38.911
+25.07 00:12:38 Moving is finished
+25.07 00:13:44 Scanning 269 point from 1518
+25.07 00:13:44 Going to coordinates X=-15.069, Y=-38.911
+25.07 00:13:44 Moving is finished
+25.07 00:14:49 Scanning 270 point from 1518
+25.07 00:14:49 Going to coordinates X=-15.029, Y=-38.911
+25.07 00:14:49 Moving is finished
+25.07 00:15:53 Scanning 271 point from 1518
+25.07 00:15:53 Going to coordinates X=-14.989, Y=-38.911
+25.07 00:15:53 Moving is finished
+25.07 00:16:58 Scanning 272 point from 1518
+25.07 00:16:58 Going to coordinates X=-14.949, Y=-38.911
+25.07 00:16:58 Moving is finished
+25.07 00:18:02 Scanning 273 point from 1518
+25.07 00:18:02 Going to coordinates X=-14.909, Y=-38.911
+25.07 00:18:03 Moving is finished
+25.07 00:19:07 Scanning 274 point from 1518
+25.07 00:19:07 Going to coordinates X=-14.869, Y=-38.911
+25.07 00:19:07 Moving is finished
+25.07 00:20:12 Scanning 275 point from 1518
+25.07 00:20:12 Going to coordinates X=-14.829, Y=-38.911
+25.07 00:20:13 Moving is finished
+25.07 00:21:18 Scanning 276 point from 1518
+25.07 00:21:18 Going to coordinates X=-14.789, Y=-38.911
+25.07 00:21:18 Moving is finished
+25.07 00:22:22 Scanning 277 point from 1518
+25.07 00:22:22 Going to coordinates X=-14.749, Y=-38.911
+25.07 00:22:23 Moving is finished
+25.07 00:23:27 Scanning 278 point from 1518
+25.07 00:23:27 Going to coordinates X=-14.709, Y=-38.911
+25.07 00:23:27 Moving is finished
+25.07 00:24:32 Scanning 279 point from 1518
+25.07 00:24:32 Going to coordinates X=-14.669, Y=-38.911
+25.07 00:24:32 Moving is finished
+25.07 00:25:37 Scanning 280 point from 1518
+25.07 00:25:37 Going to coordinates X=-14.629, Y=-38.911
+25.07 00:25:37 Moving is finished
+25.07 00:26:41 Scanning 281 point from 1518
+25.07 00:26:41 Going to coordinates X=-14.589, Y=-38.911
+25.07 00:26:41 Moving is finished
+25.07 00:27:46 Scanning 282 point from 1518
+25.07 00:27:46 Going to coordinates X=-14.549, Y=-38.911
+25.07 00:27:46 Moving is finished
+25.07 00:28:51 Scanning 283 point from 1518
+25.07 00:28:51 Going to coordinates X=-14.509, Y=-38.911
+25.07 00:28:51 Moving is finished
+25.07 00:29:55 Scanning 284 point from 1518
+25.07 00:29:55 Going to coordinates X=-14.469, Y=-38.911
+25.07 00:29:56 Moving is finished
+25.07 00:31:00 Scanning 285 point from 1518
+25.07 00:31:00 Going to coordinates X=-14.429, Y=-38.911
+25.07 00:31:00 Moving is finished
+25.07 00:32:05 Scanning 286 point from 1518
+25.07 00:32:05 Going to coordinates X=-14.389, Y=-38.911
+25.07 00:32:05 Moving is finished
+25.07 00:33:10 Scanning 287 point from 1518
+25.07 00:33:10 Going to coordinates X=-14.349, Y=-38.911
+25.07 00:33:10 Moving is finished
+25.07 00:34:15 Scanning 288 point from 1518
+25.07 00:34:15 Going to coordinates X=-14.309, Y=-38.911
+25.07 00:34:15 Moving is finished
+25.07 00:35:19 Scanning 289 point from 1518
+25.07 00:35:19 Going to coordinates X=-14.269, Y=-38.911
+25.07 00:35:20 Moving is finished
+25.07 00:36:25 Scanning 290 point from 1518
+25.07 00:36:25 Going to coordinates X=-14.229, Y=-38.911
+25.07 00:36:25 Moving is finished
+25.07 00:37:29 Scanning 291 point from 1518
+25.07 00:37:29 Going to coordinates X=-14.189, Y=-38.911
+25.07 00:37:29 Moving is finished
+25.07 00:38:34 Scanning 292 point from 1518
+25.07 00:38:34 Going to coordinates X=-14.149, Y=-38.911
+25.07 00:38:34 Moving is finished
+25.07 00:39:38 Scanning 293 point from 1518
+25.07 00:39:38 Going to coordinates X=-14.109, Y=-38.911
+25.07 00:39:39 Moving is finished
+25.07 00:40:43 Scanning 294 point from 1518
+25.07 00:40:43 Going to coordinates X=-14.069, Y=-38.911
+25.07 00:40:43 Moving is finished
+25.07 00:41:48 Scanning 295 point from 1518
+25.07 00:41:48 Going to coordinates X=-14.029, Y=-38.911
+25.07 00:41:48 Moving is finished
+25.07 00:42:53 Scanning 296 point from 1518
+25.07 00:42:53 Going to coordinates X=-13.989, Y=-38.911
+25.07 00:42:53 Moving is finished
+25.07 00:43:58 Scanning 297 point from 1518
+25.07 00:43:58 Going to coordinates X=-15.269, Y=-38.871
+25.07 00:43:58 Moving is finished
+25.07 00:45:03 Scanning 298 point from 1518
+25.07 00:45:03 Going to coordinates X=-15.229, Y=-38.871
+25.07 00:45:03 Moving is finished
+25.07 00:46:08 Scanning 299 point from 1518
+25.07 00:46:08 Going to coordinates X=-15.189, Y=-38.871
+25.07 00:46:08 Moving is finished
+25.07 00:47:14 Scanning 300 point from 1518
+25.07 00:47:14 Going to coordinates X=-15.149, Y=-38.871
+25.07 00:47:14 Moving is finished
+25.07 00:48:18 Scanning 301 point from 1518
+25.07 00:48:18 Going to coordinates X=-15.109, Y=-38.871
+25.07 00:48:18 Moving is finished
+25.07 00:49:23 Scanning 302 point from 1518
+25.07 00:49:23 Going to coordinates X=-15.069, Y=-38.871
+25.07 00:49:23 Moving is finished
+25.07 00:50:27 Scanning 303 point from 1518
+25.07 00:50:27 Going to coordinates X=-15.029, Y=-38.871
+25.07 00:50:27 Moving is finished
+25.07 00:51:32 Scanning 304 point from 1518
+25.07 00:51:32 Going to coordinates X=-14.989, Y=-38.871
+25.07 00:51:32 Moving is finished
+25.07 00:52:37 Scanning 305 point from 1518
+25.07 00:52:37 Going to coordinates X=-14.949, Y=-38.871
+25.07 00:52:37 Moving is finished
+25.07 00:53:42 Scanning 306 point from 1518
+25.07 00:53:42 Going to coordinates X=-14.909, Y=-38.871
+25.07 00:53:42 Moving is finished
+25.07 00:54:47 Scanning 307 point from 1518
+25.07 00:54:47 Going to coordinates X=-14.869, Y=-38.871
+25.07 00:54:47 Moving is finished
+25.07 00:55:51 Scanning 308 point from 1518
+25.07 00:55:51 Going to coordinates X=-14.829, Y=-38.871
+25.07 00:55:51 Moving is finished
+25.07 00:56:56 Scanning 309 point from 1518
+25.07 00:56:56 Going to coordinates X=-14.789, Y=-38.871
+25.07 00:56:57 Moving is finished
+25.07 00:58:01 Scanning 310 point from 1518
+25.07 00:58:01 Going to coordinates X=-14.749, Y=-38.871
+25.07 00:58:02 Moving is finished
+25.07 00:59:06 Scanning 311 point from 1518
+25.07 00:59:06 Going to coordinates X=-14.709, Y=-38.871
+25.07 00:59:06 Moving is finished
+25.07 01:00:11 Scanning 312 point from 1518
+25.07 01:00:11 Going to coordinates X=-14.669, Y=-38.871
+25.07 01:00:11 Moving is finished
+25.07 01:01:16 Scanning 313 point from 1518
+25.07 01:01:16 Going to coordinates X=-14.629, Y=-38.871
+25.07 01:01:17 Moving is finished
+25.07 01:02:21 Scanning 314 point from 1518
+25.07 01:02:21 Going to coordinates X=-14.589, Y=-38.871
+25.07 01:02:21 Moving is finished
+25.07 01:03:26 Scanning 315 point from 1518
+25.07 01:03:26 Going to coordinates X=-14.549, Y=-38.871
+25.07 01:03:26 Moving is finished
+25.07 01:04:31 Scanning 316 point from 1518
+25.07 01:04:31 Going to coordinates X=-14.509, Y=-38.871
+25.07 01:04:31 Moving is finished
+25.07 01:05:35 Scanning 317 point from 1518
+25.07 01:05:35 Going to coordinates X=-14.469, Y=-38.871
+25.07 01:05:35 Moving is finished
+25.07 01:06:40 Scanning 318 point from 1518
+25.07 01:06:40 Going to coordinates X=-14.429, Y=-38.871
+25.07 01:06:40 Moving is finished
+25.07 01:07:45 Scanning 319 point from 1518
+25.07 01:07:45 Going to coordinates X=-14.389, Y=-38.871
+25.07 01:07:46 Moving is finished
+25.07 01:08:50 Scanning 320 point from 1518
+25.07 01:08:50 Going to coordinates X=-14.349, Y=-38.871
+25.07 01:08:50 Moving is finished
+25.07 01:09:55 Scanning 321 point from 1518
+25.07 01:09:55 Going to coordinates X=-14.309, Y=-38.871
+25.07 01:09:55 Moving is finished
+25.07 01:11:00 Scanning 322 point from 1518
+25.07 01:11:00 Going to coordinates X=-14.269, Y=-38.871
+25.07 01:11:00 Moving is finished
+25.07 01:12:04 Scanning 323 point from 1518
+25.07 01:12:04 Going to coordinates X=-14.229, Y=-38.871
+25.07 01:12:04 Moving is finished
+25.07 01:13:09 Scanning 324 point from 1518
+25.07 01:13:09 Going to coordinates X=-14.189, Y=-38.871
+25.07 01:13:09 Moving is finished
+25.07 01:14:13 Scanning 325 point from 1518
+25.07 01:14:13 Going to coordinates X=-14.149, Y=-38.871
+25.07 01:14:14 Moving is finished
+25.07 01:15:18 Scanning 326 point from 1518
+25.07 01:15:18 Going to coordinates X=-14.109, Y=-38.871
+25.07 01:15:18 Moving is finished
+25.07 01:16:23 Scanning 327 point from 1518
+25.07 01:16:23 Going to coordinates X=-14.069, Y=-38.871
+25.07 01:16:24 Moving is finished
+25.07 01:17:28 Scanning 328 point from 1518
+25.07 01:17:28 Going to coordinates X=-14.029, Y=-38.871
+25.07 01:17:28 Moving is finished
+25.07 01:18:33 Scanning 329 point from 1518
+25.07 01:18:33 Going to coordinates X=-13.989, Y=-38.871
+25.07 01:18:33 Moving is finished
+25.07 01:19:37 Scanning 330 point from 1518
+25.07 01:19:37 Going to coordinates X=-15.269, Y=-38.831
+25.07 01:19:38 Moving is finished
+25.07 01:20:43 Scanning 331 point from 1518
+25.07 01:20:43 Going to coordinates X=-15.229, Y=-38.831
+25.07 01:20:43 Moving is finished
+25.07 01:21:48 Scanning 332 point from 1518
+25.07 01:21:48 Going to coordinates X=-15.189, Y=-38.831
+25.07 01:21:48 Moving is finished
+25.07 01:22:53 Scanning 333 point from 1518
+25.07 01:22:53 Going to coordinates X=-15.149, Y=-38.831
+25.07 01:22:54 Moving is finished
+25.07 01:23:58 Scanning 334 point from 1518
+25.07 01:23:58 Going to coordinates X=-15.109, Y=-38.831
+25.07 01:23:58 Moving is finished
+25.07 01:25:03 Scanning 335 point from 1518
+25.07 01:25:03 Going to coordinates X=-15.069, Y=-38.831
+25.07 01:25:03 Moving is finished
+25.07 01:26:08 Scanning 336 point from 1518
+25.07 01:26:08 Going to coordinates X=-15.029, Y=-38.831
+25.07 01:26:08 Moving is finished
+25.07 01:27:12 Scanning 337 point from 1518
+25.07 01:27:12 Going to coordinates X=-14.989, Y=-38.831
+25.07 01:27:13 Moving is finished
+25.07 01:28:17 Scanning 338 point from 1518
+25.07 01:28:17 Going to coordinates X=-14.949, Y=-38.831
+25.07 01:28:18 Moving is finished
+25.07 01:29:22 Scanning 339 point from 1518
+25.07 01:29:22 Going to coordinates X=-14.909, Y=-38.831
+25.07 01:29:22 Moving is finished
+25.07 01:30:28 Scanning 340 point from 1518
+25.07 01:30:28 Going to coordinates X=-14.869, Y=-38.831
+25.07 01:30:28 Moving is finished
+25.07 01:31:32 Scanning 341 point from 1518
+25.07 01:31:32 Going to coordinates X=-14.829, Y=-38.831
+25.07 01:31:33 Moving is finished
+25.07 01:32:37 Scanning 342 point from 1518
+25.07 01:32:37 Going to coordinates X=-14.789, Y=-38.831
+25.07 01:32:37 Moving is finished
+25.07 01:33:42 Scanning 343 point from 1518
+25.07 01:33:42 Going to coordinates X=-14.749, Y=-38.831
+25.07 01:33:42 Moving is finished
+25.07 01:34:47 Scanning 344 point from 1518
+25.07 01:34:47 Going to coordinates X=-14.709, Y=-38.831
+25.07 01:34:47 Moving is finished
+25.07 01:35:51 Scanning 345 point from 1518
+25.07 01:35:51 Going to coordinates X=-14.669, Y=-38.831
+25.07 01:35:52 Moving is finished
+25.07 01:36:56 Scanning 346 point from 1518
+25.07 01:36:56 Going to coordinates X=-14.629, Y=-38.831
+25.07 01:36:56 Moving is finished
+25.07 01:38:01 Scanning 347 point from 1518
+25.07 01:38:01 Going to coordinates X=-14.589, Y=-38.831
+25.07 01:38:01 Moving is finished
+25.07 01:39:06 Scanning 348 point from 1518
+25.07 01:39:06 Going to coordinates X=-14.549, Y=-38.831
+25.07 01:39:06 Moving is finished
+25.07 01:40:10 Scanning 349 point from 1518
+25.07 01:40:10 Going to coordinates X=-14.509, Y=-38.831
+25.07 01:40:11 Moving is finished
+25.07 01:41:15 Scanning 350 point from 1518
+25.07 01:41:15 Going to coordinates X=-14.469, Y=-38.831
+25.07 01:41:15 Moving is finished
+25.07 01:42:20 Scanning 351 point from 1518
+25.07 01:42:20 Going to coordinates X=-14.429, Y=-38.831
+25.07 01:42:20 Moving is finished
+25.07 01:43:24 Scanning 352 point from 1518
+25.07 01:43:24 Going to coordinates X=-14.389, Y=-38.831
+25.07 01:43:24 Moving is finished
+25.07 01:44:29 Scanning 353 point from 1518
+25.07 01:44:29 Going to coordinates X=-14.349, Y=-38.831
+25.07 01:44:29 Moving is finished
+25.07 01:45:34 Scanning 354 point from 1518
+25.07 01:45:34 Going to coordinates X=-14.309, Y=-38.831
+25.07 01:45:34 Moving is finished
+25.07 01:46:38 Scanning 355 point from 1518
+25.07 01:46:38 Going to coordinates X=-14.269, Y=-38.831
+25.07 01:46:39 Moving is finished
+25.07 01:47:43 Scanning 356 point from 1518
+25.07 01:47:43 Going to coordinates X=-14.229, Y=-38.831
+25.07 01:47:44 Moving is finished
+25.07 01:48:48 Scanning 357 point from 1518
+25.07 01:48:48 Going to coordinates X=-14.189, Y=-38.831
+25.07 01:48:48 Moving is finished
+25.07 01:49:54 Scanning 358 point from 1518
+25.07 01:49:54 Going to coordinates X=-14.149, Y=-38.831
+25.07 01:49:54 Moving is finished
+25.07 01:50:58 Scanning 359 point from 1518
+25.07 01:50:58 Going to coordinates X=-14.109, Y=-38.831
+25.07 01:50:59 Moving is finished
+25.07 01:52:03 Scanning 360 point from 1518
+25.07 01:52:03 Going to coordinates X=-14.069, Y=-38.831
+25.07 01:52:03 Moving is finished
+25.07 01:53:09 Scanning 361 point from 1518
+25.07 01:53:09 Going to coordinates X=-14.029, Y=-38.831
+25.07 01:53:09 Moving is finished
+25.07 01:54:13 Scanning 362 point from 1518
+25.07 01:54:13 Going to coordinates X=-13.989, Y=-38.831
+25.07 01:54:13 Moving is finished
+25.07 01:55:19 Scanning 363 point from 1518
+25.07 01:55:19 Going to coordinates X=-15.269, Y=-38.791
+25.07 01:55:20 Moving is finished
+25.07 01:56:24 Scanning 364 point from 1518
+25.07 01:56:24 Going to coordinates X=-15.229, Y=-38.791
+25.07 01:56:25 Moving is finished
+25.07 01:57:29 Scanning 365 point from 1518
+25.07 01:57:29 Going to coordinates X=-15.189, Y=-38.791
+25.07 01:57:30 Moving is finished
+25.07 01:58:34 Scanning 366 point from 1518
+25.07 01:58:34 Going to coordinates X=-15.149, Y=-38.791
+25.07 01:58:34 Moving is finished
+25.07 01:59:39 Scanning 367 point from 1518
+25.07 01:59:39 Going to coordinates X=-15.109, Y=-38.791
+25.07 01:59:39 Moving is finished
+25.07 02:00:44 Scanning 368 point from 1518
+25.07 02:00:44 Going to coordinates X=-15.069, Y=-38.791
+25.07 02:00:44 Moving is finished
+25.07 02:01:49 Scanning 369 point from 1518
+25.07 02:01:49 Going to coordinates X=-15.029, Y=-38.791
+25.07 02:01:49 Moving is finished
+25.07 02:02:53 Scanning 370 point from 1518
+25.07 02:02:53 Going to coordinates X=-14.989, Y=-38.791
+25.07 02:02:54 Moving is finished
+25.07 02:03:58 Scanning 371 point from 1518
+25.07 02:03:58 Going to coordinates X=-14.949, Y=-38.791
+25.07 02:03:58 Moving is finished
+25.07 02:05:03 Scanning 372 point from 1518
+25.07 02:05:03 Going to coordinates X=-14.909, Y=-38.791
+25.07 02:05:03 Moving is finished
+25.07 02:06:08 Scanning 373 point from 1518
+25.07 02:06:08 Going to coordinates X=-14.869, Y=-38.791
+25.07 02:06:08 Moving is finished
+25.07 02:07:13 Scanning 374 point from 1518
+25.07 02:07:13 Going to coordinates X=-14.829, Y=-38.791
+25.07 02:07:13 Moving is finished
+25.07 02:08:17 Scanning 375 point from 1518
+25.07 02:08:17 Going to coordinates X=-14.789, Y=-38.791
+25.07 02:08:17 Moving is finished
+25.07 02:09:22 Scanning 376 point from 1518
+25.07 02:09:22 Going to coordinates X=-14.749, Y=-38.791
+25.07 02:09:22 Moving is finished
+25.07 02:10:26 Scanning 377 point from 1518
+25.07 02:10:26 Going to coordinates X=-14.709, Y=-38.791
+25.07 02:10:26 Moving is finished
+25.07 02:11:31 Scanning 378 point from 1518
+25.07 02:11:31 Going to coordinates X=-14.669, Y=-38.791
+25.07 02:11:31 Moving is finished
+25.07 02:12:36 Scanning 379 point from 1518
+25.07 02:12:36 Going to coordinates X=-14.629, Y=-38.791
+25.07 02:12:36 Moving is finished
+25.07 02:13:40 Scanning 380 point from 1518
+25.07 02:13:40 Going to coordinates X=-14.589, Y=-38.791
+25.07 02:13:40 Moving is finished
+25.07 02:14:45 Scanning 381 point from 1518
+25.07 02:14:45 Going to coordinates X=-14.549, Y=-38.791
+25.07 02:14:45 Moving is finished
+25.07 02:15:50 Scanning 382 point from 1518
+25.07 02:15:50 Going to coordinates X=-14.509, Y=-38.791
+25.07 02:15:50 Moving is finished
+25.07 02:16:55 Scanning 383 point from 1518
+25.07 02:16:55 Going to coordinates X=-14.469, Y=-38.791
+25.07 02:16:55 Moving is finished
+25.07 02:17:59 Scanning 384 point from 1518
+25.07 02:17:59 Going to coordinates X=-14.429, Y=-38.791
+25.07 02:18:00 Moving is finished
+25.07 02:19:04 Scanning 385 point from 1518
+25.07 02:19:04 Going to coordinates X=-14.389, Y=-38.791
+25.07 02:19:05 Moving is finished
+25.07 02:20:09 Scanning 386 point from 1518
+25.07 02:20:09 Going to coordinates X=-14.349, Y=-38.791
+25.07 02:20:10 Moving is finished
+25.07 02:21:14 Scanning 387 point from 1518
+25.07 02:21:14 Going to coordinates X=-14.309, Y=-38.791
+25.07 02:21:14 Moving is finished
+25.07 02:22:19 Scanning 388 point from 1518
+25.07 02:22:19 Going to coordinates X=-14.269, Y=-38.791
+25.07 02:22:19 Moving is finished
+25.07 02:23:24 Scanning 389 point from 1518
+25.07 02:23:24 Going to coordinates X=-14.229, Y=-38.791
+25.07 02:23:24 Moving is finished
+25.07 02:24:30 Scanning 390 point from 1518
+25.07 02:24:30 Going to coordinates X=-14.189, Y=-38.791
+25.07 02:24:30 Moving is finished
+25.07 02:25:35 Scanning 391 point from 1518
+25.07 02:25:35 Going to coordinates X=-14.149, Y=-38.791
+25.07 02:25:35 Moving is finished
+25.07 02:26:40 Scanning 392 point from 1518
+25.07 02:26:40 Going to coordinates X=-14.109, Y=-38.791
+25.07 02:26:40 Moving is finished
+25.07 02:27:45 Scanning 393 point from 1518
+25.07 02:27:45 Going to coordinates X=-14.069, Y=-38.791
+25.07 02:27:45 Moving is finished
+25.07 02:28:49 Scanning 394 point from 1518
+25.07 02:28:49 Going to coordinates X=-14.029, Y=-38.791
+25.07 02:28:49 Moving is finished
+25.07 02:29:54 Scanning 395 point from 1518
+25.07 02:29:54 Going to coordinates X=-13.989, Y=-38.791
+25.07 02:29:54 Moving is finished
+25.07 02:30:58 Scanning 396 point from 1518
+25.07 02:30:58 Going to coordinates X=-15.269, Y=-38.751
+25.07 02:30:59 Moving is finished
+25.07 02:32:04 Scanning 397 point from 1518
+25.07 02:32:04 Going to coordinates X=-15.229, Y=-38.751
+25.07 02:32:04 Moving is finished
+25.07 02:33:09 Scanning 398 point from 1518
+25.07 02:33:09 Going to coordinates X=-15.189, Y=-38.751
+25.07 02:33:09 Moving is finished
+25.07 02:34:14 Scanning 399 point from 1518
+25.07 02:34:14 Going to coordinates X=-15.149, Y=-38.751
+25.07 02:34:14 Moving is finished
+25.07 02:35:19 Scanning 400 point from 1518
+25.07 02:35:19 Going to coordinates X=-15.109, Y=-38.751
+25.07 02:35:20 Moving is finished
+25.07 02:36:24 Scanning 401 point from 1518
+25.07 02:36:24 Going to coordinates X=-15.069, Y=-38.751
+25.07 02:36:24 Moving is finished
+25.07 02:37:29 Scanning 402 point from 1518
+25.07 02:37:29 Going to coordinates X=-15.029, Y=-38.751
+25.07 02:37:29 Moving is finished
+25.07 02:38:34 Scanning 403 point from 1518
+25.07 02:38:34 Going to coordinates X=-14.989, Y=-38.751
+25.07 02:38:34 Moving is finished
+25.07 02:39:39 Scanning 404 point from 1518
+25.07 02:39:39 Going to coordinates X=-14.949, Y=-38.751
+25.07 02:39:39 Moving is finished
+25.07 02:40:44 Scanning 405 point from 1518
+25.07 02:40:44 Going to coordinates X=-14.909, Y=-38.751
+25.07 02:40:44 Moving is finished
+25.07 02:41:49 Scanning 406 point from 1518
+25.07 02:41:49 Going to coordinates X=-14.869, Y=-38.751
+25.07 02:41:49 Moving is finished
+25.07 02:42:53 Scanning 407 point from 1518
+25.07 02:42:53 Going to coordinates X=-14.829, Y=-38.751
+25.07 02:42:53 Moving is finished
+25.07 02:43:59 Scanning 408 point from 1518
+25.07 02:43:59 Going to coordinates X=-14.789, Y=-38.751
+25.07 02:43:59 Moving is finished
+25.07 02:45:03 Scanning 409 point from 1518
+25.07 02:45:03 Going to coordinates X=-14.749, Y=-38.751
+25.07 02:45:04 Moving is finished
+25.07 02:46:08 Scanning 410 point from 1518
+25.07 02:46:08 Going to coordinates X=-14.709, Y=-38.751
+25.07 02:46:08 Moving is finished
+25.07 02:47:13 Scanning 411 point from 1518
+25.07 02:47:13 Going to coordinates X=-14.669, Y=-38.751
+25.07 02:47:13 Moving is finished
+25.07 02:48:18 Scanning 412 point from 1518
+25.07 02:48:18 Going to coordinates X=-14.629, Y=-38.751
+25.07 02:48:18 Moving is finished
+25.07 02:49:22 Scanning 413 point from 1518
+25.07 02:49:22 Going to coordinates X=-14.589, Y=-38.751
+25.07 02:49:23 Moving is finished
+25.07 02:50:27 Scanning 414 point from 1518
+25.07 02:50:27 Going to coordinates X=-14.549, Y=-38.751
+25.07 02:50:27 Moving is finished
+25.07 02:51:31 Scanning 415 point from 1518
+25.07 02:51:31 Going to coordinates X=-14.509, Y=-38.751
+25.07 02:51:32 Moving is finished
+25.07 02:52:36 Scanning 416 point from 1518
+25.07 02:52:36 Going to coordinates X=-14.469, Y=-38.751
+25.07 02:52:37 Moving is finished
+25.07 02:53:41 Scanning 417 point from 1518
+25.07 02:53:41 Going to coordinates X=-14.429, Y=-38.751
+25.07 02:53:41 Moving is finished
+25.07 02:54:46 Scanning 418 point from 1518
+25.07 02:54:46 Going to coordinates X=-14.389, Y=-38.751
+25.07 02:54:46 Moving is finished
+25.07 02:55:51 Scanning 419 point from 1518
+25.07 02:55:51 Going to coordinates X=-14.349, Y=-38.751
+25.07 02:55:51 Moving is finished
+25.07 02:56:56 Scanning 420 point from 1518
+25.07 02:56:56 Going to coordinates X=-14.309, Y=-38.751
+25.07 02:56:56 Moving is finished
+25.07 02:58:00 Scanning 421 point from 1518
+25.07 02:58:00 Going to coordinates X=-14.269, Y=-38.751
+25.07 02:58:00 Moving is finished
+25.07 02:59:05 Scanning 422 point from 1518
+25.07 02:59:05 Going to coordinates X=-14.229, Y=-38.751
+25.07 02:59:05 Moving is finished
+25.07 03:00:10 Scanning 423 point from 1518
+25.07 03:00:10 Going to coordinates X=-14.189, Y=-38.751
+25.07 03:00:10 Moving is finished
+25.07 03:01:15 Scanning 424 point from 1518
+25.07 03:01:15 Going to coordinates X=-14.149, Y=-38.751
+25.07 03:01:15 Moving is finished
+25.07 03:02:19 Scanning 425 point from 1518
+25.07 03:02:19 Going to coordinates X=-14.109, Y=-38.751
+25.07 03:02:20 Moving is finished
+25.07 03:03:24 Scanning 426 point from 1518
+25.07 03:03:24 Going to coordinates X=-14.069, Y=-38.751
+25.07 03:03:24 Moving is finished
+25.07 03:04:29 Scanning 427 point from 1518
+25.07 03:04:29 Going to coordinates X=-14.029, Y=-38.751
+25.07 03:04:29 Moving is finished
+25.07 03:05:34 Scanning 428 point from 1518
+25.07 03:05:34 Going to coordinates X=-13.989, Y=-38.751
+25.07 03:05:34 Moving is finished
+25.07 03:06:39 Scanning 429 point from 1518
+25.07 03:06:39 Going to coordinates X=-15.269, Y=-38.711
+25.07 03:06:40 Moving is finished
+25.07 03:07:44 Scanning 430 point from 1518
+25.07 03:07:44 Going to coordinates X=-15.229, Y=-38.711
+25.07 03:07:44 Moving is finished
+25.07 03:08:49 Scanning 431 point from 1518
+25.07 03:08:49 Going to coordinates X=-15.189, Y=-38.711
+25.07 03:08:50 Moving is finished
+25.07 03:09:55 Scanning 432 point from 1518
+25.07 03:09:55 Going to coordinates X=-15.149, Y=-38.711
+25.07 03:09:55 Moving is finished
+25.07 03:10:59 Scanning 433 point from 1518
+25.07 03:10:59 Going to coordinates X=-15.109, Y=-38.711
+25.07 03:10:59 Moving is finished
+25.07 03:12:04 Scanning 434 point from 1518
+25.07 03:12:04 Going to coordinates X=-15.069, Y=-38.711
+25.07 03:12:04 Moving is finished
+25.07 03:13:09 Scanning 435 point from 1518
+25.07 03:13:09 Going to coordinates X=-15.029, Y=-38.711
+25.07 03:13:09 Moving is finished
+25.07 03:14:14 Scanning 436 point from 1518
+25.07 03:14:14 Going to coordinates X=-14.989, Y=-38.711
+25.07 03:14:14 Moving is finished
+25.07 03:15:19 Scanning 437 point from 1518
+25.07 03:15:19 Going to coordinates X=-14.949, Y=-38.711
+25.07 03:15:19 Moving is finished
+25.07 03:16:23 Scanning 438 point from 1518
+25.07 03:16:23 Going to coordinates X=-14.909, Y=-38.711
+25.07 03:16:24 Moving is finished
+25.07 03:17:29 Scanning 439 point from 1518
+25.07 03:17:29 Going to coordinates X=-14.869, Y=-38.711
+25.07 03:17:29 Moving is finished
+25.07 03:18:34 Scanning 440 point from 1518
+25.07 03:18:34 Going to coordinates X=-14.829, Y=-38.711
+25.07 03:18:34 Moving is finished
+25.07 03:19:39 Scanning 441 point from 1518
+25.07 03:19:39 Going to coordinates X=-14.789, Y=-38.711
+25.07 03:19:40 Moving is finished
+25.07 03:20:45 Scanning 442 point from 1518
+25.07 03:20:45 Going to coordinates X=-14.749, Y=-38.711
+25.07 03:20:45 Moving is finished
+25.07 03:21:49 Scanning 443 point from 1518
+25.07 03:21:49 Going to coordinates X=-14.709, Y=-38.711
+25.07 03:21:50 Moving is finished
+25.07 03:22:55 Scanning 444 point from 1518
+25.07 03:22:55 Going to coordinates X=-14.669, Y=-38.711
+25.07 03:22:55 Moving is finished
+25.07 03:23:59 Scanning 445 point from 1518
+25.07 03:23:59 Going to coordinates X=-14.629, Y=-38.711
+25.07 03:24:00 Moving is finished
+25.07 03:25:05 Scanning 446 point from 1518
+25.07 03:25:05 Going to coordinates X=-14.589, Y=-38.711
+25.07 03:25:05 Moving is finished
+25.07 03:26:09 Scanning 447 point from 1518
+25.07 03:26:09 Going to coordinates X=-14.549, Y=-38.711
+25.07 03:26:10 Moving is finished
+25.07 03:27:14 Scanning 448 point from 1518
+25.07 03:27:14 Going to coordinates X=-14.509, Y=-38.711
+25.07 03:27:15 Moving is finished
+25.07 03:28:19 Scanning 449 point from 1518
+25.07 03:28:19 Going to coordinates X=-14.469, Y=-38.711
+25.07 03:28:19 Moving is finished
+25.07 03:29:24 Scanning 450 point from 1518
+25.07 03:29:24 Going to coordinates X=-14.429, Y=-38.711
+25.07 03:29:24 Moving is finished
+25.07 03:30:29 Scanning 451 point from 1518
+25.07 03:30:29 Going to coordinates X=-14.389, Y=-38.711
+25.07 03:30:29 Moving is finished
+25.07 03:31:33 Scanning 452 point from 1518
+25.07 03:31:33 Going to coordinates X=-14.349, Y=-38.711
+25.07 03:31:34 Moving is finished
+25.07 03:32:39 Scanning 453 point from 1518
+25.07 03:32:39 Going to coordinates X=-14.309, Y=-38.711
+25.07 03:32:39 Moving is finished
+25.07 03:33:43 Scanning 454 point from 1518
+25.07 03:33:43 Going to coordinates X=-14.269, Y=-38.711
+25.07 03:33:43 Moving is finished
+25.07 03:34:48 Scanning 455 point from 1518
+25.07 03:34:48 Going to coordinates X=-14.229, Y=-38.711
+25.07 03:34:49 Moving is finished
+25.07 03:35:54 Scanning 456 point from 1518
+25.07 03:35:54 Going to coordinates X=-14.189, Y=-38.711
+25.07 03:35:54 Moving is finished
+25.07 03:36:58 Scanning 457 point from 1518
+25.07 03:36:58 Going to coordinates X=-14.149, Y=-38.711
+25.07 03:36:59 Moving is finished
+25.07 03:38:03 Scanning 458 point from 1518
+25.07 03:38:03 Going to coordinates X=-14.109, Y=-38.711
+25.07 03:38:03 Moving is finished
+25.07 03:39:08 Scanning 459 point from 1518
+25.07 03:39:08 Going to coordinates X=-14.069, Y=-38.711
+25.07 03:39:08 Moving is finished
+25.07 03:40:13 Scanning 460 point from 1518
+25.07 03:40:13 Going to coordinates X=-14.029, Y=-38.711
+25.07 03:40:13 Moving is finished
+25.07 03:41:18 Scanning 461 point from 1518
+25.07 03:41:18 Going to coordinates X=-13.989, Y=-38.711
+25.07 03:41:18 Moving is finished
+25.07 03:42:23 Scanning 462 point from 1518
+25.07 03:42:23 Going to coordinates X=-15.269, Y=-38.671
+25.07 03:42:24 Moving is finished
+25.07 03:43:28 Scanning 463 point from 1518
+25.07 03:43:28 Going to coordinates X=-15.229, Y=-38.671
+25.07 03:43:28 Moving is finished
+25.07 03:44:33 Scanning 464 point from 1518
+25.07 03:44:33 Going to coordinates X=-15.189, Y=-38.671
+25.07 03:44:33 Moving is finished
+25.07 03:45:38 Scanning 465 point from 1518
+25.07 03:45:38 Going to coordinates X=-15.149, Y=-38.671
+25.07 03:45:38 Moving is finished
+25.07 03:46:43 Scanning 466 point from 1518
+25.07 03:46:43 Going to coordinates X=-15.109, Y=-38.671
+25.07 03:46:43 Moving is finished
+25.07 03:47:47 Scanning 467 point from 1518
+25.07 03:47:47 Going to coordinates X=-15.069, Y=-38.671
+25.07 03:47:47 Moving is finished
+25.07 03:48:52 Scanning 468 point from 1518
+25.07 03:48:52 Going to coordinates X=-15.029, Y=-38.671
+25.07 03:48:52 Moving is finished
+25.07 03:49:57 Scanning 469 point from 1518
+25.07 03:49:57 Going to coordinates X=-14.989, Y=-38.671
+25.07 03:49:58 Moving is finished
+25.07 03:51:02 Scanning 470 point from 1518
+25.07 03:51:02 Going to coordinates X=-14.949, Y=-38.671
+25.07 03:51:02 Moving is finished
+25.07 03:52:07 Scanning 471 point from 1518
+25.07 03:52:07 Going to coordinates X=-14.909, Y=-38.671
+25.07 03:52:08 Moving is finished
+25.07 03:53:12 Scanning 472 point from 1518
+25.07 03:53:12 Going to coordinates X=-14.869, Y=-38.671
+25.07 03:53:12 Moving is finished
+25.07 03:54:17 Scanning 473 point from 1518
+25.07 03:54:17 Going to coordinates X=-14.829, Y=-38.671
+25.07 03:54:17 Moving is finished
+25.07 03:55:22 Scanning 474 point from 1518
+25.07 03:55:22 Going to coordinates X=-14.789, Y=-38.671
+25.07 03:55:22 Moving is finished
+25.07 03:56:27 Scanning 475 point from 1518
+25.07 03:56:27 Going to coordinates X=-14.749, Y=-38.671
+25.07 03:56:27 Moving is finished
+25.07 03:57:31 Scanning 476 point from 1518
+25.07 03:57:31 Going to coordinates X=-14.709, Y=-38.671
+25.07 03:57:31 Moving is finished
+25.07 03:58:36 Scanning 477 point from 1518
+25.07 03:58:36 Going to coordinates X=-14.669, Y=-38.671
+25.07 03:58:36 Moving is finished
+25.07 03:59:41 Scanning 478 point from 1518
+25.07 03:59:41 Going to coordinates X=-14.629, Y=-38.671
+25.07 03:59:41 Moving is finished
+25.07 04:00:46 Scanning 479 point from 1518
+25.07 04:00:46 Going to coordinates X=-14.589, Y=-38.671
+25.07 04:00:46 Moving is finished
+25.07 04:01:51 Scanning 480 point from 1518
+25.07 04:01:51 Going to coordinates X=-14.549, Y=-38.671
+25.07 04:01:51 Moving is finished
+25.07 04:02:55 Scanning 481 point from 1518
+25.07 04:02:55 Going to coordinates X=-14.509, Y=-38.671
+25.07 04:02:56 Moving is finished
+25.07 04:04:00 Scanning 482 point from 1518
+25.07 04:04:00 Going to coordinates X=-14.469, Y=-38.671
+25.07 04:04:00 Moving is finished
+25.07 04:05:05 Scanning 483 point from 1518
+25.07 04:05:05 Going to coordinates X=-14.429, Y=-38.671
+25.07 04:05:05 Moving is finished
+25.07 04:06:10 Scanning 484 point from 1518
+25.07 04:06:10 Going to coordinates X=-14.389, Y=-38.671
+25.07 04:06:10 Moving is finished
+25.07 04:07:14 Scanning 485 point from 1518
+25.07 04:07:14 Going to coordinates X=-14.349, Y=-38.671
+25.07 04:07:15 Moving is finished
+25.07 04:08:19 Scanning 486 point from 1518
+25.07 04:08:19 Going to coordinates X=-14.309, Y=-38.671
+25.07 04:08:19 Moving is finished
+25.07 04:09:24 Scanning 487 point from 1518
+25.07 04:09:24 Going to coordinates X=-14.269, Y=-38.671
+25.07 04:09:24 Moving is finished
+25.07 04:10:28 Scanning 488 point from 1518
+25.07 04:10:28 Going to coordinates X=-14.229, Y=-38.671
+25.07 04:10:29 Moving is finished
+25.07 04:11:33 Scanning 489 point from 1518
+25.07 04:11:33 Going to coordinates X=-14.189, Y=-38.671
+25.07 04:11:33 Moving is finished
+25.07 04:12:39 Scanning 490 point from 1518
+25.07 04:12:39 Going to coordinates X=-14.149, Y=-38.671
+25.07 04:12:39 Moving is finished
+25.07 04:13:44 Scanning 491 point from 1518
+25.07 04:13:44 Going to coordinates X=-14.109, Y=-38.671
+25.07 04:13:44 Moving is finished
+25.07 04:14:49 Scanning 492 point from 1518
+25.07 04:14:49 Going to coordinates X=-14.069, Y=-38.671
+25.07 04:14:49 Moving is finished
+25.07 04:15:54 Scanning 493 point from 1518
+25.07 04:15:54 Going to coordinates X=-14.029, Y=-38.671
+25.07 04:15:54 Moving is finished
+25.07 04:16:59 Scanning 494 point from 1518
+25.07 04:16:59 Going to coordinates X=-13.989, Y=-38.671
+25.07 04:16:59 Moving is finished
+25.07 04:18:03 Scanning 495 point from 1518
+25.07 04:18:03 Going to coordinates X=-15.269, Y=-38.631
+25.07 04:18:04 Moving is finished
+25.07 04:19:09 Scanning 496 point from 1518
+25.07 04:19:09 Going to coordinates X=-15.229, Y=-38.631
+25.07 04:19:09 Moving is finished
+25.07 04:20:14 Scanning 497 point from 1518
+25.07 04:20:14 Going to coordinates X=-15.189, Y=-38.631
+25.07 04:20:14 Moving is finished
+25.07 04:21:19 Scanning 498 point from 1518
+25.07 04:21:19 Going to coordinates X=-15.149, Y=-38.631
+25.07 04:21:19 Moving is finished
+25.07 04:22:24 Scanning 499 point from 1518
+25.07 04:22:24 Going to coordinates X=-15.109, Y=-38.631
+25.07 04:22:24 Moving is finished
+25.07 04:23:28 Scanning 500 point from 1518
+25.07 04:23:28 Going to coordinates X=-15.069, Y=-38.631
+25.07 04:23:29 Moving is finished
+25.07 04:24:33 Scanning 501 point from 1518
+25.07 04:24:33 Going to coordinates X=-15.029, Y=-38.631
+25.07 04:24:33 Moving is finished
+25.07 04:25:38 Scanning 502 point from 1518
+25.07 04:25:38 Going to coordinates X=-14.989, Y=-38.631
+25.07 04:25:38 Moving is finished
+25.07 04:26:43 Scanning 503 point from 1518
+25.07 04:26:43 Going to coordinates X=-14.949, Y=-38.631
+25.07 04:26:43 Moving is finished
+25.07 04:27:48 Scanning 504 point from 1518
+25.07 04:27:48 Going to coordinates X=-14.909, Y=-38.631
+25.07 04:27:48 Moving is finished
+25.07 04:28:53 Scanning 505 point from 1518
+25.07 04:28:53 Going to coordinates X=-14.869, Y=-38.631
+25.07 04:28:53 Moving is finished
+25.07 04:29:58 Scanning 506 point from 1518
+25.07 04:29:58 Going to coordinates X=-14.829, Y=-38.631
+25.07 04:29:58 Moving is finished
+25.07 04:31:02 Scanning 507 point from 1518
+25.07 04:31:02 Going to coordinates X=-14.789, Y=-38.631
+25.07 04:31:02 Moving is finished
+25.07 04:32:07 Scanning 508 point from 1518
+25.07 04:32:07 Going to coordinates X=-14.749, Y=-38.631
+25.07 04:32:07 Moving is finished
+25.07 04:33:12 Scanning 509 point from 1518
+25.07 04:33:12 Going to coordinates X=-14.709, Y=-38.631
+25.07 04:33:12 Moving is finished
+25.07 04:34:17 Scanning 510 point from 1518
+25.07 04:34:17 Going to coordinates X=-14.669, Y=-38.631
+25.07 04:34:17 Moving is finished
+25.07 04:35:21 Scanning 511 point from 1518
+25.07 04:35:21 Going to coordinates X=-14.629, Y=-38.631
+25.07 04:35:22 Moving is finished
+25.07 04:36:26 Scanning 512 point from 1518
+25.07 04:36:26 Going to coordinates X=-14.589, Y=-38.631
+25.07 04:36:26 Moving is finished
+25.07 04:37:32 Scanning 513 point from 1518
+25.07 04:37:32 Going to coordinates X=-14.549, Y=-38.631
+25.07 04:37:32 Moving is finished
+25.07 04:38:36 Scanning 514 point from 1518
+25.07 04:38:36 Going to coordinates X=-14.509, Y=-38.631
+25.07 04:38:37 Moving is finished
+25.07 04:39:41 Scanning 515 point from 1518
+25.07 04:39:41 Going to coordinates X=-14.469, Y=-38.631
+25.07 04:39:42 Moving is finished
+25.07 04:40:46 Scanning 516 point from 1518
+25.07 04:40:46 Going to coordinates X=-14.429, Y=-38.631
+25.07 04:40:46 Moving is finished
+25.07 04:41:51 Scanning 517 point from 1518
+25.07 04:41:51 Going to coordinates X=-14.389, Y=-38.631
+25.07 04:41:51 Moving is finished
+25.07 04:42:56 Scanning 518 point from 1518
+25.07 04:42:56 Going to coordinates X=-14.349, Y=-38.631
+25.07 04:42:56 Moving is finished
+25.07 04:44:00 Scanning 519 point from 1518
+25.07 04:44:00 Going to coordinates X=-14.309, Y=-38.631
+25.07 04:44:01 Moving is finished
+25.07 04:45:06 Scanning 520 point from 1518
+25.07 04:45:06 Going to coordinates X=-14.269, Y=-38.631
+25.07 04:45:06 Moving is finished
+25.07 04:46:11 Scanning 521 point from 1518
+25.07 04:46:11 Going to coordinates X=-14.229, Y=-38.631
+25.07 04:46:11 Moving is finished
+25.07 04:47:15 Scanning 522 point from 1518
+25.07 04:47:15 Going to coordinates X=-14.189, Y=-38.631
+25.07 04:47:16 Moving is finished
+25.07 04:48:20 Scanning 523 point from 1518
+25.07 04:48:20 Going to coordinates X=-14.149, Y=-38.631
+25.07 04:48:20 Moving is finished
+25.07 04:49:25 Scanning 524 point from 1518
+25.07 04:49:25 Going to coordinates X=-14.109, Y=-38.631
+25.07 04:49:25 Moving is finished
+25.07 04:50:30 Scanning 525 point from 1518
+25.07 04:50:30 Going to coordinates X=-14.069, Y=-38.631
+25.07 04:50:30 Moving is finished
+25.07 04:51:35 Scanning 526 point from 1518
+25.07 04:51:35 Going to coordinates X=-14.029, Y=-38.631
+25.07 04:51:35 Moving is finished
+25.07 04:52:39 Scanning 527 point from 1518
+25.07 04:52:39 Going to coordinates X=-13.989, Y=-38.631
+25.07 04:52:40 Moving is finished
+25.07 04:53:44 Scanning 528 point from 1518
+25.07 04:53:44 Going to coordinates X=-15.269, Y=-38.591
+25.07 04:53:45 Moving is finished
+25.07 04:54:51 Scanning 529 point from 1518
+25.07 04:54:51 Going to coordinates X=-15.229, Y=-38.591
+25.07 04:54:51 Moving is finished
+25.07 04:55:55 Scanning 530 point from 1518
+25.07 04:55:55 Going to coordinates X=-15.189, Y=-38.591
+25.07 04:55:55 Moving is finished
+25.07 04:57:01 Scanning 531 point from 1518
+25.07 04:57:01 Going to coordinates X=-15.149, Y=-38.591
+25.07 04:57:01 Moving is finished
+25.07 04:58:05 Scanning 532 point from 1518
+25.07 04:58:05 Going to coordinates X=-15.109, Y=-38.591
+25.07 04:58:05 Moving is finished
+25.07 04:59:10 Scanning 533 point from 1518
+25.07 04:59:10 Going to coordinates X=-15.069, Y=-38.591
+25.07 04:59:10 Moving is finished
+25.07 05:00:14 Scanning 534 point from 1518
+25.07 05:00:14 Going to coordinates X=-15.029, Y=-38.591
+25.07 05:00:15 Moving is finished
+25.07 05:01:19 Scanning 535 point from 1518
+25.07 05:01:19 Going to coordinates X=-14.989, Y=-38.591
+25.07 05:01:19 Moving is finished
+25.07 05:02:24 Scanning 536 point from 1518
+25.07 05:02:24 Going to coordinates X=-14.949, Y=-38.591
+25.07 05:02:24 Moving is finished
+25.07 05:03:28 Scanning 537 point from 1518
+25.07 05:03:28 Going to coordinates X=-14.909, Y=-38.591
+25.07 05:03:29 Moving is finished
+25.07 05:04:33 Scanning 538 point from 1518
+25.07 05:04:33 Going to coordinates X=-14.869, Y=-38.591
+25.07 05:04:33 Moving is finished
+25.07 05:05:38 Scanning 539 point from 1518
+25.07 05:05:38 Going to coordinates X=-14.829, Y=-38.591
+25.07 05:05:38 Moving is finished
+25.07 05:06:43 Scanning 540 point from 1518
+25.07 05:06:43 Going to coordinates X=-14.789, Y=-38.591
+25.07 05:06:43 Moving is finished
+25.07 05:07:47 Scanning 541 point from 1518
+25.07 05:07:47 Going to coordinates X=-14.749, Y=-38.591
+25.07 05:07:47 Moving is finished
+25.07 05:08:52 Scanning 542 point from 1518
+25.07 05:08:52 Going to coordinates X=-14.709, Y=-38.591
+25.07 05:08:52 Moving is finished
+25.07 05:09:57 Scanning 543 point from 1518
+25.07 05:09:57 Going to coordinates X=-14.669, Y=-38.591
+25.07 05:09:57 Moving is finished
+25.07 05:11:01 Scanning 544 point from 1518
+25.07 05:11:01 Going to coordinates X=-14.629, Y=-38.591
+25.07 05:11:01 Moving is finished
+25.07 05:12:07 Scanning 545 point from 1518
+25.07 05:12:07 Going to coordinates X=-14.589, Y=-38.591
+25.07 05:12:07 Moving is finished
+25.07 05:13:11 Scanning 546 point from 1518
+25.07 05:13:11 Going to coordinates X=-14.549, Y=-38.591
+25.07 05:13:11 Moving is finished
+25.07 05:14:17 Scanning 547 point from 1518
+25.07 05:14:17 Going to coordinates X=-14.509, Y=-38.591
+25.07 05:14:17 Moving is finished
+25.07 05:15:21 Scanning 548 point from 1518
+25.07 05:15:21 Going to coordinates X=-14.469, Y=-38.591
+25.07 05:15:21 Moving is finished
+25.07 05:16:26 Scanning 549 point from 1518
+25.07 05:16:26 Going to coordinates X=-14.429, Y=-38.591
+25.07 05:16:27 Moving is finished
+25.07 05:17:32 Scanning 550 point from 1518
+25.07 05:17:32 Going to coordinates X=-14.389, Y=-38.591
+25.07 05:17:32 Moving is finished
+25.07 05:18:36 Scanning 551 point from 1518
+25.07 05:18:36 Going to coordinates X=-14.349, Y=-38.591
+25.07 05:18:37 Moving is finished
+25.07 05:19:41 Scanning 552 point from 1518
+25.07 05:19:41 Going to coordinates X=-14.309, Y=-38.591
+25.07 05:19:41 Moving is finished
+25.07 05:20:46 Scanning 553 point from 1518
+25.07 05:20:46 Going to coordinates X=-14.269, Y=-38.591
+25.07 05:20:46 Moving is finished
+25.07 05:21:51 Scanning 554 point from 1518
+25.07 05:21:51 Going to coordinates X=-14.229, Y=-38.591
+25.07 05:21:51 Moving is finished
+25.07 05:22:56 Scanning 555 point from 1518
+25.07 05:22:56 Going to coordinates X=-14.189, Y=-38.591
+25.07 05:22:56 Moving is finished
+25.07 05:24:01 Scanning 556 point from 1518
+25.07 05:24:01 Going to coordinates X=-14.149, Y=-38.591
+25.07 05:24:01 Moving is finished
+25.07 05:25:05 Scanning 557 point from 1518
+25.07 05:25:05 Going to coordinates X=-14.109, Y=-38.591
+25.07 05:25:05 Moving is finished
+25.07 05:26:10 Scanning 558 point from 1518
+25.07 05:26:10 Going to coordinates X=-14.069, Y=-38.591
+25.07 05:26:10 Moving is finished
+25.07 05:27:16 Scanning 559 point from 1518
+25.07 05:27:16 Going to coordinates X=-14.029, Y=-38.591
+25.07 05:27:16 Moving is finished
+25.07 05:28:20 Scanning 560 point from 1518
+25.07 05:28:20 Going to coordinates X=-13.989, Y=-38.591
+25.07 05:28:20 Moving is finished
+25.07 05:29:25 Scanning 561 point from 1518
+25.07 05:29:25 Going to coordinates X=-15.269, Y=-38.551
+25.07 05:29:26 Moving is finished
+25.07 05:30:30 Scanning 562 point from 1518
+25.07 05:30:30 Going to coordinates X=-15.229, Y=-38.551
+25.07 05:30:31 Moving is finished
+25.07 05:31:35 Scanning 563 point from 1518
+25.07 05:31:35 Going to coordinates X=-15.189, Y=-38.551
+25.07 05:31:35 Moving is finished
+25.07 05:32:40 Scanning 564 point from 1518
+25.07 05:32:40 Going to coordinates X=-15.149, Y=-38.551
+25.07 05:32:40 Moving is finished
+25.07 05:33:45 Scanning 565 point from 1518
+25.07 05:33:45 Going to coordinates X=-15.109, Y=-38.551
+25.07 05:33:45 Moving is finished
+25.07 05:34:49 Scanning 566 point from 1518
+25.07 05:34:49 Going to coordinates X=-15.069, Y=-38.551
+25.07 05:34:49 Moving is finished
+25.07 05:35:54 Scanning 567 point from 1518
+25.07 05:35:54 Going to coordinates X=-15.029, Y=-38.551
+25.07 05:35:54 Moving is finished
+25.07 05:36:58 Scanning 568 point from 1518
+25.07 05:36:58 Going to coordinates X=-14.989, Y=-38.551
+25.07 05:36:59 Moving is finished
+25.07 05:38:03 Scanning 569 point from 1518
+25.07 05:38:03 Going to coordinates X=-14.949, Y=-38.551
+25.07 05:38:03 Moving is finished
+25.07 05:39:08 Scanning 570 point from 1518
+25.07 05:39:08 Going to coordinates X=-14.909, Y=-38.551
+25.07 05:39:08 Moving is finished
+25.07 05:40:13 Scanning 571 point from 1518
+25.07 05:40:13 Going to coordinates X=-14.869, Y=-38.551
+25.07 05:40:13 Moving is finished
+25.07 05:41:18 Scanning 572 point from 1518
+25.07 05:41:18 Going to coordinates X=-14.829, Y=-38.551
+25.07 05:41:18 Moving is finished
+25.07 05:42:23 Scanning 573 point from 1518
+25.07 05:42:23 Going to coordinates X=-14.789, Y=-38.551
+25.07 05:42:23 Moving is finished
+25.07 05:43:27 Scanning 574 point from 1518
+25.07 05:43:27 Going to coordinates X=-14.749, Y=-38.551
+25.07 05:43:28 Moving is finished
+25.07 05:44:32 Scanning 575 point from 1518
+25.07 05:44:32 Going to coordinates X=-14.709, Y=-38.551
+25.07 05:44:32 Moving is finished
+25.07 05:45:37 Scanning 576 point from 1518
+25.07 05:45:37 Going to coordinates X=-14.669, Y=-38.551
+25.07 05:45:37 Moving is finished
+25.07 05:46:42 Scanning 577 point from 1518
+25.07 05:46:42 Going to coordinates X=-14.629, Y=-38.551
+25.07 05:46:42 Moving is finished
+25.07 05:47:47 Scanning 578 point from 1518
+25.07 05:47:47 Going to coordinates X=-14.589, Y=-38.551
+25.07 05:47:47 Moving is finished
+25.07 05:48:52 Scanning 579 point from 1518
+25.07 05:48:52 Going to coordinates X=-14.549, Y=-38.551
+25.07 05:48:52 Moving is finished
+25.07 05:49:56 Scanning 580 point from 1518
+25.07 05:49:56 Going to coordinates X=-14.509, Y=-38.551
+25.07 05:49:56 Moving is finished
+25.07 05:51:01 Scanning 581 point from 1518
+25.07 05:51:01 Going to coordinates X=-14.469, Y=-38.551
+25.07 05:51:01 Moving is finished
+25.07 05:52:05 Scanning 582 point from 1518
+25.07 05:52:05 Going to coordinates X=-14.429, Y=-38.551
+25.07 05:52:06 Moving is finished
+25.07 05:53:10 Scanning 583 point from 1518
+25.07 05:53:10 Going to coordinates X=-14.389, Y=-38.551
+25.07 05:53:10 Moving is finished
+25.07 05:54:15 Scanning 584 point from 1518
+25.07 05:54:15 Going to coordinates X=-14.349, Y=-38.551
+25.07 05:54:15 Moving is finished
+25.07 05:55:19 Scanning 585 point from 1518
+25.07 05:55:19 Going to coordinates X=-14.309, Y=-38.551
+25.07 05:55:20 Moving is finished
+25.07 05:56:24 Scanning 586 point from 1518
+25.07 05:56:24 Going to coordinates X=-14.269, Y=-38.551
+25.07 05:56:24 Moving is finished
+25.07 05:57:29 Scanning 587 point from 1518
+25.07 05:57:29 Going to coordinates X=-14.229, Y=-38.551
+25.07 05:57:29 Moving is finished
+25.07 05:58:33 Scanning 588 point from 1518
+25.07 05:58:33 Going to coordinates X=-14.189, Y=-38.551
+25.07 05:58:34 Moving is finished
+25.07 05:59:38 Scanning 589 point from 1518
+25.07 05:59:38 Going to coordinates X=-14.149, Y=-38.551
+25.07 05:59:38 Moving is finished
+25.07 06:00:43 Scanning 590 point from 1518
+25.07 06:00:43 Going to coordinates X=-14.109, Y=-38.551
+25.07 06:00:43 Moving is finished
+25.07 06:01:48 Scanning 591 point from 1518
+25.07 06:01:48 Going to coordinates X=-14.069, Y=-38.551
+25.07 06:01:48 Moving is finished
+25.07 06:02:53 Scanning 592 point from 1518
+25.07 06:02:53 Going to coordinates X=-14.029, Y=-38.551
+25.07 06:02:53 Moving is finished
+25.07 06:03:58 Scanning 593 point from 1518
+25.07 06:03:58 Going to coordinates X=-13.989, Y=-38.551
+25.07 06:03:58 Moving is finished
+25.07 06:05:02 Scanning 594 point from 1518
+25.07 06:05:02 Going to coordinates X=-15.269, Y=-38.511
+25.07 06:05:03 Moving is finished
+25.07 06:06:08 Scanning 595 point from 1518
+25.07 06:06:08 Going to coordinates X=-15.229, Y=-38.511
+25.07 06:06:08 Moving is finished
+25.07 06:07:12 Scanning 596 point from 1518
+25.07 06:07:12 Going to coordinates X=-15.189, Y=-38.511
+25.07 06:07:13 Moving is finished
+25.07 06:08:17 Scanning 597 point from 1518
+25.07 06:08:17 Going to coordinates X=-15.149, Y=-38.511
+25.07 06:08:17 Moving is finished
+25.07 06:09:22 Scanning 598 point from 1518
+25.07 06:09:22 Going to coordinates X=-15.109, Y=-38.511
+25.07 06:09:22 Moving is finished
+25.07 06:10:27 Scanning 599 point from 1518
+25.07 06:10:27 Going to coordinates X=-15.069, Y=-38.511
+25.07 06:10:27 Moving is finished
+25.07 06:11:31 Scanning 600 point from 1518
+25.07 06:11:31 Going to coordinates X=-15.029, Y=-38.511
+25.07 06:11:31 Moving is finished
+25.07 06:12:36 Scanning 601 point from 1518
+25.07 06:12:36 Going to coordinates X=-14.989, Y=-38.511
+25.07 06:12:36 Moving is finished
+25.07 06:13:41 Scanning 602 point from 1518
+25.07 06:13:41 Going to coordinates X=-14.949, Y=-38.511
+25.07 06:13:41 Moving is finished
+25.07 06:14:46 Scanning 603 point from 1518
+25.07 06:14:46 Going to coordinates X=-14.909, Y=-38.511
+25.07 06:14:47 Moving is finished
+25.07 06:15:51 Scanning 604 point from 1518
+25.07 06:15:51 Going to coordinates X=-14.869, Y=-38.511
+25.07 06:15:51 Moving is finished
+25.07 06:16:57 Scanning 605 point from 1518
+25.07 06:16:57 Going to coordinates X=-14.829, Y=-38.511
+25.07 06:16:57 Moving is finished
+25.07 06:18:02 Scanning 606 point from 1518
+25.07 06:18:02 Going to coordinates X=-14.789, Y=-38.511
+25.07 06:18:02 Moving is finished
+25.07 06:19:06 Scanning 607 point from 1518
+25.07 06:19:06 Going to coordinates X=-14.749, Y=-38.511
+25.07 06:19:07 Moving is finished
+25.07 06:20:11 Scanning 608 point from 1518
+25.07 06:20:11 Going to coordinates X=-14.709, Y=-38.511
+25.07 06:20:11 Moving is finished
+25.07 06:21:16 Scanning 609 point from 1518
+25.07 06:21:16 Going to coordinates X=-14.669, Y=-38.511
+25.07 06:21:16 Moving is finished
+25.07 06:22:20 Scanning 610 point from 1518
+25.07 06:22:20 Going to coordinates X=-14.629, Y=-38.511
+25.07 06:22:21 Moving is finished
+25.07 06:23:25 Scanning 611 point from 1518
+25.07 06:23:25 Going to coordinates X=-14.589, Y=-38.511
+25.07 06:23:25 Moving is finished
+25.07 06:24:30 Scanning 612 point from 1518
+25.07 06:24:30 Going to coordinates X=-14.549, Y=-38.511
+25.07 06:24:30 Moving is finished
+25.07 06:25:35 Scanning 613 point from 1518
+25.07 06:25:35 Going to coordinates X=-14.509, Y=-38.511
+25.07 06:25:35 Moving is finished
+25.07 06:26:39 Scanning 614 point from 1518
+25.07 06:26:39 Going to coordinates X=-14.469, Y=-38.511
+25.07 06:26:40 Moving is finished
+25.07 06:27:45 Scanning 615 point from 1518
+25.07 06:27:45 Going to coordinates X=-14.429, Y=-38.511
+25.07 06:27:45 Moving is finished
+25.07 06:28:50 Scanning 616 point from 1518
+25.07 06:28:50 Going to coordinates X=-14.389, Y=-38.511
+25.07 06:28:51 Moving is finished
+25.07 06:29:55 Scanning 617 point from 1518
+25.07 06:29:55 Going to coordinates X=-14.349, Y=-38.511
+25.07 06:29:55 Moving is finished
+25.07 06:31:00 Scanning 618 point from 1518
+25.07 06:31:00 Going to coordinates X=-14.309, Y=-38.511
+25.07 06:31:00 Moving is finished
+25.07 06:32:04 Scanning 619 point from 1518
+25.07 06:32:04 Going to coordinates X=-14.269, Y=-38.511
+25.07 06:32:05 Moving is finished
+25.07 06:33:10 Scanning 620 point from 1518
+25.07 06:33:10 Going to coordinates X=-14.229, Y=-38.511
+25.07 06:33:11 Moving is finished
+25.07 06:34:15 Scanning 621 point from 1518
+25.07 06:34:15 Going to coordinates X=-14.189, Y=-38.511
+25.07 06:34:15 Moving is finished
+25.07 06:35:20 Scanning 622 point from 1518
+25.07 06:35:20 Going to coordinates X=-14.149, Y=-38.511
+25.07 06:35:20 Moving is finished
+25.07 06:36:24 Scanning 623 point from 1518
+25.07 06:36:24 Going to coordinates X=-14.109, Y=-38.511
+25.07 06:36:25 Moving is finished
+25.07 06:37:29 Scanning 624 point from 1518
+25.07 06:37:29 Going to coordinates X=-14.069, Y=-38.511
+25.07 06:37:29 Moving is finished
+25.07 06:38:34 Scanning 625 point from 1518
+25.07 06:38:34 Going to coordinates X=-14.029, Y=-38.511
+25.07 06:38:34 Moving is finished
+25.07 06:39:39 Scanning 626 point from 1518
+25.07 06:39:39 Going to coordinates X=-13.989, Y=-38.511
+25.07 06:39:39 Moving is finished
+25.07 06:40:44 Scanning 627 point from 1518
+25.07 06:40:44 Going to coordinates X=-15.269, Y=-38.471
+25.07 06:40:44 Moving is finished
+25.07 06:41:49 Scanning 628 point from 1518
+25.07 06:41:49 Going to coordinates X=-15.229, Y=-38.471
+25.07 06:41:49 Moving is finished
+25.07 06:42:54 Scanning 629 point from 1518
+25.07 06:42:54 Going to coordinates X=-15.189, Y=-38.471
+25.07 06:42:54 Moving is finished
+25.07 06:43:58 Scanning 630 point from 1518
+25.07 06:43:58 Going to coordinates X=-15.149, Y=-38.471
+25.07 06:43:59 Moving is finished
+25.07 06:45:03 Scanning 631 point from 1518
+25.07 06:45:03 Going to coordinates X=-15.109, Y=-38.471
+25.07 06:45:03 Moving is finished
+25.07 06:46:08 Scanning 632 point from 1518
+25.07 06:46:08 Going to coordinates X=-15.069, Y=-38.471
+25.07 06:46:08 Moving is finished
+25.07 06:47:13 Scanning 633 point from 1518
+25.07 06:47:13 Going to coordinates X=-15.029, Y=-38.471
+25.07 06:47:13 Moving is finished
+25.07 06:48:18 Scanning 634 point from 1518
+25.07 06:48:18 Going to coordinates X=-14.989, Y=-38.471
+25.07 06:48:18 Moving is finished
+25.07 06:49:23 Scanning 635 point from 1518
+25.07 06:49:23 Going to coordinates X=-14.949, Y=-38.471
+25.07 06:49:23 Moving is finished
+25.07 06:50:28 Scanning 636 point from 1518
+25.07 06:50:28 Going to coordinates X=-14.909, Y=-38.471
+25.07 06:50:28 Moving is finished
+25.07 06:51:33 Scanning 637 point from 1518
+25.07 06:51:33 Going to coordinates X=-14.869, Y=-38.471
+25.07 06:51:33 Moving is finished
+25.07 06:52:38 Scanning 638 point from 1518
+25.07 06:52:38 Going to coordinates X=-14.829, Y=-38.471
+25.07 06:52:38 Moving is finished
+25.07 06:53:43 Scanning 639 point from 1518
+25.07 06:53:43 Going to coordinates X=-14.789, Y=-38.471
+25.07 06:53:43 Moving is finished
+25.07 06:54:47 Scanning 640 point from 1518
+25.07 06:54:47 Going to coordinates X=-14.749, Y=-38.471
+25.07 06:54:48 Moving is finished
+25.07 06:55:52 Scanning 641 point from 1518
+25.07 06:55:52 Going to coordinates X=-14.709, Y=-38.471
+25.07 06:55:52 Moving is finished
+25.07 06:56:57 Scanning 642 point from 1518
+25.07 06:56:57 Going to coordinates X=-14.669, Y=-38.471
+25.07 06:56:57 Moving is finished
+25.07 06:58:02 Scanning 643 point from 1518
+25.07 06:58:02 Going to coordinates X=-14.629, Y=-38.471
+25.07 06:58:02 Moving is finished
+25.07 06:59:07 Scanning 644 point from 1518
+25.07 06:59:07 Going to coordinates X=-14.589, Y=-38.471
+25.07 06:59:07 Moving is finished
+25.07 07:00:11 Scanning 645 point from 1518
+25.07 07:00:11 Going to coordinates X=-14.549, Y=-38.471
+25.07 07:00:12 Moving is finished
+25.07 07:01:16 Scanning 646 point from 1518
+25.07 07:01:16 Going to coordinates X=-14.509, Y=-38.471
+25.07 07:01:16 Moving is finished
+25.07 07:02:21 Scanning 647 point from 1518
+25.07 07:02:21 Going to coordinates X=-14.469, Y=-38.471
+25.07 07:02:21 Moving is finished
+25.07 07:03:26 Scanning 648 point from 1518
+25.07 07:03:26 Going to coordinates X=-14.429, Y=-38.471
+25.07 07:03:26 Moving is finished
+25.07 07:04:30 Scanning 649 point from 1518
+25.07 07:04:30 Going to coordinates X=-14.389, Y=-38.471
+25.07 07:04:31 Moving is finished
+25.07 07:05:35 Scanning 650 point from 1518
+25.07 07:05:35 Going to coordinates X=-14.349, Y=-38.471
+25.07 07:05:35 Moving is finished
+25.07 07:06:40 Scanning 651 point from 1518
+25.07 07:06:40 Going to coordinates X=-14.309, Y=-38.471
+25.07 07:06:40 Moving is finished
+25.07 07:07:44 Scanning 652 point from 1518
+25.07 07:07:44 Going to coordinates X=-14.269, Y=-38.471
+25.07 07:07:45 Moving is finished
+25.07 07:08:49 Scanning 653 point from 1518
+25.07 07:08:49 Going to coordinates X=-14.229, Y=-38.471
+25.07 07:08:49 Moving is finished
+25.07 07:09:54 Scanning 654 point from 1518
+25.07 07:09:54 Going to coordinates X=-14.189, Y=-38.471
+25.07 07:09:54 Moving is finished
+25.07 07:10:59 Scanning 655 point from 1518
+25.07 07:10:59 Going to coordinates X=-14.149, Y=-38.471
+25.07 07:10:59 Moving is finished
+25.07 07:12:03 Scanning 656 point from 1518
+25.07 07:12:03 Going to coordinates X=-14.109, Y=-38.471
+25.07 07:12:03 Moving is finished
+25.07 07:13:08 Scanning 657 point from 1518
+25.07 07:13:08 Going to coordinates X=-14.069, Y=-38.471
+25.07 07:13:08 Moving is finished
+25.07 07:14:13 Scanning 658 point from 1518
+25.07 07:14:13 Going to coordinates X=-14.029, Y=-38.471
+25.07 07:14:14 Moving is finished
+25.07 07:15:19 Scanning 659 point from 1518
+25.07 07:15:19 Going to coordinates X=-13.989, Y=-38.471
+25.07 07:15:19 Moving is finished
+25.07 07:16:23 Scanning 660 point from 1518
+25.07 07:16:23 Going to coordinates X=-15.269, Y=-38.431
+25.07 07:16:24 Moving is finished
+25.07 07:17:29 Scanning 661 point from 1518
+25.07 07:17:29 Going to coordinates X=-15.229, Y=-38.431
+25.07 07:17:29 Moving is finished
+25.07 07:18:33 Scanning 662 point from 1518
+25.07 07:18:33 Going to coordinates X=-15.189, Y=-38.431
+25.07 07:18:33 Moving is finished
+25.07 07:19:38 Scanning 663 point from 1518
+25.07 07:19:38 Going to coordinates X=-15.149, Y=-38.431
+25.07 07:19:38 Moving is finished
+25.07 07:20:43 Scanning 664 point from 1518
+25.07 07:20:43 Going to coordinates X=-15.109, Y=-38.431
+25.07 07:20:43 Moving is finished
+25.07 07:21:48 Scanning 665 point from 1518
+25.07 07:21:48 Going to coordinates X=-15.069, Y=-38.431
+25.07 07:21:48 Moving is finished
+25.07 07:22:53 Scanning 666 point from 1518
+25.07 07:22:53 Going to coordinates X=-15.029, Y=-38.431
+25.07 07:22:53 Moving is finished
+25.07 07:23:58 Scanning 667 point from 1518
+25.07 07:23:58 Going to coordinates X=-14.989, Y=-38.431
+25.07 07:23:58 Moving is finished
+25.07 07:25:03 Scanning 668 point from 1518
+25.07 07:25:03 Going to coordinates X=-14.949, Y=-38.431
+25.07 07:25:03 Moving is finished
+25.07 07:26:08 Scanning 669 point from 1518
+25.07 07:26:08 Going to coordinates X=-14.909, Y=-38.431
+25.07 07:26:08 Moving is finished
+25.07 07:27:13 Scanning 670 point from 1518
+25.07 07:27:13 Going to coordinates X=-14.869, Y=-38.431
+25.07 07:27:13 Moving is finished
+25.07 07:28:18 Scanning 671 point from 1518
+25.07 07:28:18 Going to coordinates X=-14.829, Y=-38.431
+25.07 07:28:18 Moving is finished
+25.07 07:29:22 Scanning 672 point from 1518
+25.07 07:29:22 Going to coordinates X=-14.789, Y=-38.431
+25.07 07:29:22 Moving is finished
+25.07 07:30:27 Scanning 673 point from 1518
+25.07 07:30:27 Going to coordinates X=-14.749, Y=-38.431
+25.07 07:30:27 Moving is finished
+25.07 07:31:32 Scanning 674 point from 1518
+25.07 07:31:32 Going to coordinates X=-14.709, Y=-38.431
+25.07 07:31:32 Moving is finished
+25.07 07:32:37 Scanning 675 point from 1518
+25.07 07:32:37 Going to coordinates X=-14.669, Y=-38.431
+25.07 07:32:37 Moving is finished
+25.07 07:33:42 Scanning 676 point from 1518
+25.07 07:33:42 Going to coordinates X=-14.629, Y=-38.431
+25.07 07:33:42 Moving is finished
+25.07 07:34:47 Scanning 677 point from 1518
+25.07 07:34:47 Going to coordinates X=-14.589, Y=-38.431
+25.07 07:34:47 Moving is finished
+25.07 07:35:51 Scanning 678 point from 1518
+25.07 07:35:51 Going to coordinates X=-14.549, Y=-38.431
+25.07 07:35:51 Moving is finished
+25.07 07:36:56 Scanning 679 point from 1518
+25.07 07:36:56 Going to coordinates X=-14.509, Y=-38.431
+25.07 07:36:56 Moving is finished
+25.07 07:38:02 Scanning 680 point from 1518
+25.07 07:38:02 Going to coordinates X=-14.469, Y=-38.431
+25.07 07:38:02 Moving is finished
+25.07 07:39:07 Scanning 681 point from 1518
+25.07 07:39:07 Going to coordinates X=-14.429, Y=-38.431
+25.07 07:39:07 Moving is finished
+25.07 07:40:12 Scanning 682 point from 1518
+25.07 07:40:12 Going to coordinates X=-14.389, Y=-38.431
+25.07 07:40:12 Moving is finished
+25.07 07:41:16 Scanning 683 point from 1518
+25.07 07:41:16 Going to coordinates X=-14.349, Y=-38.431
+25.07 07:41:17 Moving is finished
+25.07 07:42:22 Scanning 684 point from 1518
+25.07 07:42:22 Going to coordinates X=-14.309, Y=-38.431
+25.07 07:42:22 Moving is finished
+25.07 07:43:26 Scanning 685 point from 1518
+25.07 07:43:26 Going to coordinates X=-14.269, Y=-38.431
+25.07 07:43:27 Moving is finished
+25.07 07:44:31 Scanning 686 point from 1518
+25.07 07:44:31 Going to coordinates X=-14.229, Y=-38.431
+25.07 07:44:31 Moving is finished
+25.07 07:45:36 Scanning 687 point from 1518
+25.07 07:45:36 Going to coordinates X=-14.189, Y=-38.431
+25.07 07:45:36 Moving is finished
+25.07 07:46:40 Scanning 688 point from 1518
+25.07 07:46:40 Going to coordinates X=-14.149, Y=-38.431
+25.07 07:46:40 Moving is finished
+25.07 07:47:45 Scanning 689 point from 1518
+25.07 07:47:45 Going to coordinates X=-14.109, Y=-38.431
+25.07 07:47:45 Moving is finished
+25.07 07:48:50 Scanning 690 point from 1518
+25.07 07:48:50 Going to coordinates X=-14.069, Y=-38.431
+25.07 07:48:50 Moving is finished
+25.07 07:49:54 Scanning 691 point from 1518
+25.07 07:49:54 Going to coordinates X=-14.029, Y=-38.431
+25.07 07:49:55 Moving is finished
+25.07 07:50:59 Scanning 692 point from 1518
+25.07 07:50:59 Going to coordinates X=-13.989, Y=-38.431
+25.07 07:50:59 Moving is finished
+25.07 07:52:04 Scanning 693 point from 1518
+25.07 07:52:04 Going to coordinates X=-15.269, Y=-38.391
+25.07 07:52:05 Moving is finished
+25.07 07:53:09 Scanning 694 point from 1518
+25.07 07:53:09 Going to coordinates X=-15.229, Y=-38.391
+25.07 07:53:09 Moving is finished
+25.07 07:54:14 Scanning 695 point from 1518
+25.07 07:54:14 Going to coordinates X=-15.189, Y=-38.391
+25.07 07:54:14 Moving is finished
+25.07 07:55:18 Scanning 696 point from 1518
+25.07 07:55:18 Going to coordinates X=-15.149, Y=-38.391
+25.07 07:55:19 Moving is finished
+25.07 07:56:23 Scanning 697 point from 1518
+25.07 07:56:23 Going to coordinates X=-15.109, Y=-38.391
+25.07 07:56:23 Moving is finished
+25.07 07:57:28 Scanning 698 point from 1518
+25.07 07:57:28 Going to coordinates X=-15.069, Y=-38.391
+25.07 07:57:28 Moving is finished
+25.07 07:58:32 Scanning 699 point from 1518
+25.07 07:58:32 Going to coordinates X=-15.029, Y=-38.391
+25.07 07:58:33 Moving is finished
+25.07 07:59:37 Scanning 700 point from 1518
+25.07 07:59:37 Going to coordinates X=-14.989, Y=-38.391
+25.07 07:59:37 Moving is finished
+25.07 08:00:42 Scanning 701 point from 1518
+25.07 08:00:42 Going to coordinates X=-14.949, Y=-38.391
+25.07 08:00:42 Moving is finished
+25.07 08:01:47 Scanning 702 point from 1518
+25.07 08:01:47 Going to coordinates X=-14.909, Y=-38.391
+25.07 08:01:47 Moving is finished
+25.07 08:02:52 Scanning 703 point from 1518
+25.07 08:02:52 Going to coordinates X=-14.869, Y=-38.391
+25.07 08:02:52 Moving is finished
+25.07 08:03:57 Scanning 704 point from 1518
+25.07 08:03:57 Going to coordinates X=-14.829, Y=-38.391
+25.07 08:03:58 Moving is finished
+25.07 08:05:02 Scanning 705 point from 1518
+25.07 08:05:02 Going to coordinates X=-14.789, Y=-38.391
+25.07 08:05:03 Moving is finished
+25.07 08:06:08 Scanning 706 point from 1518
+25.07 08:06:08 Going to coordinates X=-14.749, Y=-38.391
+25.07 08:06:08 Moving is finished
+25.07 08:07:13 Scanning 707 point from 1518
+25.07 08:07:13 Going to coordinates X=-14.709, Y=-38.391
+25.07 08:07:13 Moving is finished
+25.07 08:08:17 Scanning 708 point from 1518
+25.07 08:08:17 Going to coordinates X=-14.669, Y=-38.391
+25.07 08:08:17 Moving is finished
+25.07 08:09:22 Scanning 709 point from 1518
+25.07 08:09:22 Going to coordinates X=-14.629, Y=-38.391
+25.07 08:09:22 Moving is finished
+25.07 08:10:26 Scanning 710 point from 1518
+25.07 08:10:26 Going to coordinates X=-14.589, Y=-38.391
+25.07 08:10:27 Moving is finished
+25.07 08:11:31 Scanning 711 point from 1518
+25.07 08:11:31 Going to coordinates X=-14.549, Y=-38.391
+25.07 08:11:32 Moving is finished
+25.07 08:12:36 Scanning 712 point from 1518
+25.07 08:12:36 Going to coordinates X=-14.509, Y=-38.391
+25.07 08:12:36 Moving is finished
+25.07 08:13:41 Scanning 713 point from 1518
+25.07 08:13:41 Going to coordinates X=-14.469, Y=-38.391
+25.07 08:13:41 Moving is finished
+25.07 08:14:46 Scanning 714 point from 1518
+25.07 08:14:46 Going to coordinates X=-14.429, Y=-38.391
+25.07 08:14:46 Moving is finished
+25.07 08:15:51 Scanning 715 point from 1518
+25.07 08:15:51 Going to coordinates X=-14.389, Y=-38.391
+25.07 08:15:51 Moving is finished
+25.07 08:16:55 Scanning 716 point from 1518
+25.07 08:16:55 Going to coordinates X=-14.349, Y=-38.391
+25.07 08:16:55 Moving is finished
+25.07 08:18:00 Scanning 717 point from 1518
+25.07 08:18:00 Going to coordinates X=-14.309, Y=-38.391
+25.07 08:18:00 Moving is finished
+25.07 08:19:05 Scanning 718 point from 1518
+25.07 08:19:05 Going to coordinates X=-14.269, Y=-38.391
+25.07 08:19:05 Moving is finished
+25.07 08:20:11 Scanning 719 point from 1518
+25.07 08:20:11 Going to coordinates X=-14.229, Y=-38.391
+25.07 08:20:11 Moving is finished
+25.07 08:21:16 Scanning 720 point from 1518
+25.07 08:21:16 Going to coordinates X=-14.189, Y=-38.391
+25.07 08:21:16 Moving is finished
+25.07 08:22:21 Scanning 721 point from 1518
+25.07 08:22:21 Going to coordinates X=-14.149, Y=-38.391
+25.07 08:22:21 Moving is finished
+25.07 08:23:26 Scanning 722 point from 1518
+25.07 08:23:26 Going to coordinates X=-14.109, Y=-38.391
+25.07 08:23:26 Moving is finished
+25.07 08:24:30 Scanning 723 point from 1518
+25.07 08:24:30 Going to coordinates X=-14.069, Y=-38.391
+25.07 08:24:31 Moving is finished
+25.07 08:25:36 Scanning 724 point from 1518
+25.07 08:25:36 Going to coordinates X=-14.029, Y=-38.391
+25.07 08:25:36 Moving is finished
+25.07 08:26:41 Scanning 725 point from 1518
+25.07 08:26:41 Going to coordinates X=-13.989, Y=-38.391
+25.07 08:26:41 Moving is finished
+25.07 08:27:45 Scanning 726 point from 1518
+25.07 08:27:45 Going to coordinates X=-15.269, Y=-38.351
+25.07 08:27:46 Moving is finished
+25.07 08:28:51 Scanning 727 point from 1518
+25.07 08:28:51 Going to coordinates X=-15.229, Y=-38.351
+25.07 08:28:51 Moving is finished
+25.07 08:29:56 Scanning 728 point from 1518
+25.07 08:29:56 Going to coordinates X=-15.189, Y=-38.351
+25.07 08:29:56 Moving is finished
+25.07 08:31:01 Scanning 729 point from 1518
+25.07 08:31:01 Going to coordinates X=-15.149, Y=-38.351
+25.07 08:31:01 Moving is finished
+25.07 08:32:05 Scanning 730 point from 1518
+25.07 08:32:05 Going to coordinates X=-15.109, Y=-38.351
+25.07 08:32:06 Moving is finished
+25.07 08:33:10 Scanning 731 point from 1518
+25.07 08:33:10 Going to coordinates X=-15.069, Y=-38.351
+25.07 08:33:10 Moving is finished
+25.07 08:34:15 Scanning 732 point from 1518
+25.07 08:34:15 Going to coordinates X=-15.029, Y=-38.351
+25.07 08:34:15 Moving is finished
+25.07 08:35:19 Scanning 733 point from 1518
+25.07 08:35:19 Going to coordinates X=-14.989, Y=-38.351
+25.07 08:35:20 Moving is finished
+25.07 08:36:25 Scanning 734 point from 1518
+25.07 08:36:25 Going to coordinates X=-14.949, Y=-38.351
+25.07 08:36:25 Moving is finished
+25.07 08:37:29 Scanning 735 point from 1518
+25.07 08:37:29 Going to coordinates X=-14.909, Y=-38.351
+25.07 08:37:30 Moving is finished
+25.07 08:38:34 Scanning 736 point from 1518
+25.07 08:38:34 Going to coordinates X=-14.869, Y=-38.351
+25.07 08:38:34 Moving is finished
+25.07 08:39:39 Scanning 737 point from 1518
+25.07 08:39:39 Going to coordinates X=-14.829, Y=-38.351
+25.07 08:39:40 Moving is finished
+25.07 08:40:44 Scanning 738 point from 1518
+25.07 08:40:44 Going to coordinates X=-14.789, Y=-38.351
+25.07 08:40:44 Moving is finished
+25.07 08:41:50 Scanning 739 point from 1518
+25.07 08:41:50 Going to coordinates X=-14.749, Y=-38.351
+25.07 08:41:50 Moving is finished
+25.07 08:42:54 Scanning 740 point from 1518
+25.07 08:42:54 Going to coordinates X=-14.709, Y=-38.351
+25.07 08:42:54 Moving is finished
+25.07 08:43:59 Scanning 741 point from 1518
+25.07 08:43:59 Going to coordinates X=-14.669, Y=-38.351
+25.07 08:43:59 Moving is finished
+25.07 08:45:04 Scanning 742 point from 1518
+25.07 08:45:04 Going to coordinates X=-14.629, Y=-38.351
+25.07 08:45:04 Moving is finished
+25.07 08:46:08 Scanning 743 point from 1518
+25.07 08:46:08 Going to coordinates X=-14.589, Y=-38.351
+25.07 08:46:09 Moving is finished
+25.07 08:47:13 Scanning 744 point from 1518
+25.07 08:47:13 Going to coordinates X=-14.549, Y=-38.351
+25.07 08:47:13 Moving is finished
+25.07 08:48:18 Scanning 745 point from 1518
+25.07 08:48:18 Going to coordinates X=-14.509, Y=-38.351
+25.07 08:48:18 Moving is finished
+25.07 08:49:23 Scanning 746 point from 1518
+25.07 08:49:23 Going to coordinates X=-14.469, Y=-38.351
+25.07 08:49:23 Moving is finished
+25.07 08:50:28 Scanning 747 point from 1518
+25.07 08:50:28 Going to coordinates X=-14.429, Y=-38.351
+25.07 08:50:28 Moving is finished
+25.07 08:51:33 Scanning 748 point from 1518
+25.07 08:51:33 Going to coordinates X=-14.389, Y=-38.351
+25.07 08:51:33 Moving is finished
+25.07 08:52:37 Scanning 749 point from 1518
+25.07 08:52:37 Going to coordinates X=-14.349, Y=-38.351
+25.07 08:52:38 Moving is finished
+25.07 08:53:42 Scanning 750 point from 1518
+25.07 08:53:42 Going to coordinates X=-14.309, Y=-38.351
+25.07 08:53:42 Moving is finished
+25.07 08:54:47 Scanning 751 point from 1518
+25.07 08:54:47 Going to coordinates X=-14.269, Y=-38.351
+25.07 08:54:47 Moving is finished
+25.07 08:55:52 Scanning 752 point from 1518
+25.07 08:55:52 Going to coordinates X=-14.229, Y=-38.351
+25.07 08:55:52 Moving is finished
+25.07 08:56:57 Scanning 753 point from 1518
+25.07 08:56:57 Going to coordinates X=-14.189, Y=-38.351
+25.07 08:56:57 Moving is finished
+25.07 08:58:02 Scanning 754 point from 1518
+25.07 08:58:02 Going to coordinates X=-14.149, Y=-38.351
+25.07 08:58:02 Moving is finished
+25.07 08:59:06 Scanning 755 point from 1518
+25.07 08:59:06 Going to coordinates X=-14.109, Y=-38.351
+25.07 08:59:07 Moving is finished
+25.07 09:00:12 Scanning 756 point from 1518
+25.07 09:00:12 Going to coordinates X=-14.069, Y=-38.351
+25.07 09:00:12 Moving is finished
+25.07 09:01:16 Scanning 757 point from 1518
+25.07 09:01:16 Going to coordinates X=-14.029, Y=-38.351
+25.07 09:01:16 Moving is finished
+25.07 09:02:21 Scanning 758 point from 1518
+25.07 09:02:21 Going to coordinates X=-13.989, Y=-38.351
+25.07 09:02:21 Moving is finished
+25.07 09:03:25 Scanning 759 point from 1518
+25.07 09:03:25 Going to coordinates X=-15.269, Y=-38.311
+25.07 09:03:26 Moving is finished
+25.07 09:04:31 Scanning 760 point from 1518
+25.07 09:04:31 Going to coordinates X=-15.229, Y=-38.311
+25.07 09:04:31 Moving is finished
+25.07 09:05:36 Scanning 761 point from 1518
+25.07 09:05:36 Going to coordinates X=-15.189, Y=-38.311
+25.07 09:05:36 Moving is finished
+25.07 09:06:40 Scanning 762 point from 1518
+25.07 09:06:40 Going to coordinates X=-15.149, Y=-38.311
+25.07 09:06:40 Moving is finished
+25.07 09:07:45 Scanning 763 point from 1518
+25.07 09:07:45 Going to coordinates X=-15.109, Y=-38.311
+25.07 09:07:45 Moving is finished
+25.07 09:08:50 Scanning 764 point from 1518
+25.07 09:08:50 Going to coordinates X=-15.069, Y=-38.311
+25.07 09:08:50 Moving is finished
+25.07 09:09:54 Scanning 765 point from 1518
+25.07 09:09:54 Going to coordinates X=-15.029, Y=-38.311
+25.07 09:09:54 Moving is finished
+25.07 09:10:59 Scanning 766 point from 1518
+25.07 09:10:59 Going to coordinates X=-14.989, Y=-38.311
+25.07 09:10:59 Moving is finished
+25.07 09:12:04 Scanning 767 point from 1518
+25.07 09:12:04 Going to coordinates X=-14.949, Y=-38.311
+25.07 09:12:04 Moving is finished
+25.07 09:13:08 Scanning 768 point from 1518
+25.07 09:13:08 Going to coordinates X=-14.909, Y=-38.311
+25.07 09:13:09 Moving is finished
+25.07 09:14:13 Scanning 769 point from 1518
+25.07 09:14:13 Going to coordinates X=-14.869, Y=-38.311
+25.07 09:14:14 Moving is finished
+25.07 09:15:18 Scanning 770 point from 1518
+25.07 09:15:18 Going to coordinates X=-14.829, Y=-38.311
+25.07 09:15:18 Moving is finished
+25.07 09:16:23 Scanning 771 point from 1518
+25.07 09:16:23 Going to coordinates X=-14.789, Y=-38.311
+25.07 09:16:23 Moving is finished
+25.07 09:17:27 Scanning 772 point from 1518
+25.07 09:17:27 Going to coordinates X=-14.749, Y=-38.311
+25.07 09:17:27 Moving is finished
+25.07 09:18:32 Scanning 773 point from 1518
+25.07 09:18:32 Going to coordinates X=-14.709, Y=-38.311
+25.07 09:18:32 Moving is finished
+25.07 09:19:37 Scanning 774 point from 1518
+25.07 09:19:37 Going to coordinates X=-14.669, Y=-38.311
+25.07 09:19:37 Moving is finished
+25.07 09:20:41 Scanning 775 point from 1518
+25.07 09:20:41 Going to coordinates X=-14.629, Y=-38.311
+25.07 09:20:41 Moving is finished
+25.07 09:21:46 Scanning 776 point from 1518
+25.07 09:21:46 Going to coordinates X=-14.589, Y=-38.311
+25.07 09:21:46 Moving is finished
+25.07 09:22:51 Scanning 777 point from 1518
+25.07 09:22:51 Going to coordinates X=-14.549, Y=-38.311
+25.07 09:22:51 Moving is finished
+25.07 09:23:55 Scanning 778 point from 1518
+25.07 09:23:55 Going to coordinates X=-14.509, Y=-38.311
+25.07 09:23:55 Moving is finished
+25.07 09:25:00 Scanning 779 point from 1518
+25.07 09:25:00 Going to coordinates X=-14.469, Y=-38.311
+25.07 09:25:00 Moving is finished
+25.07 09:26:05 Scanning 780 point from 1518
+25.07 09:26:05 Going to coordinates X=-14.429, Y=-38.311
+25.07 09:26:05 Moving is finished
+25.07 09:27:10 Scanning 781 point from 1518
+25.07 09:27:10 Going to coordinates X=-14.389, Y=-38.311
+25.07 09:27:10 Moving is finished
+25.07 09:28:14 Scanning 782 point from 1518
+25.07 09:28:14 Going to coordinates X=-14.349, Y=-38.311
+25.07 09:28:14 Moving is finished
+25.07 09:29:19 Scanning 783 point from 1518
+25.07 09:29:19 Going to coordinates X=-14.309, Y=-38.311
+25.07 09:29:19 Moving is finished
+25.07 09:30:24 Scanning 784 point from 1518
+25.07 09:30:24 Going to coordinates X=-14.269, Y=-38.311
+25.07 09:30:24 Moving is finished
+25.07 09:31:28 Scanning 785 point from 1518
+25.07 09:31:28 Going to coordinates X=-14.229, Y=-38.311
+25.07 09:31:28 Moving is finished
+25.07 09:32:33 Scanning 786 point from 1518
+25.07 09:32:33 Going to coordinates X=-14.189, Y=-38.311
+25.07 09:32:33 Moving is finished
+25.07 09:33:38 Scanning 787 point from 1518
+25.07 09:33:38 Going to coordinates X=-14.149, Y=-38.311
+25.07 09:33:38 Moving is finished
+25.07 09:34:43 Scanning 788 point from 1518
+25.07 09:34:43 Going to coordinates X=-14.109, Y=-38.311
+25.07 09:34:43 Moving is finished
+25.07 09:35:48 Scanning 789 point from 1518
+25.07 09:35:48 Going to coordinates X=-14.069, Y=-38.311
+25.07 09:35:48 Moving is finished
+25.07 09:36:53 Scanning 790 point from 1518
+25.07 09:36:53 Going to coordinates X=-14.029, Y=-38.311
+25.07 09:36:53 Moving is finished
+25.07 09:36:55 Stopped!
+25.07 13:36:26 Can't send the command to GRBL
+25.07 13:36:26 Write timeout25.07 13:36:26 Write timeout
+
+25.07 14:01:10 Can't send the command to GRBL
+25.07 14:01:10 Write timeout25.07 14:01:10 Write timeout

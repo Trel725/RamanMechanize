@@ -1,0 +1,641 @@
+15.08 13:58:10 Initializing grbl...
+15.08 13:58:10 Got the response: b''
+15.08 13:58:29 Error 8
+
+15.08 13:59:57 Row 0: 15.08 13:59:57 Map: x1: -5.889, y1: -38.01, x2: -6.673, y2: -37.805, xres: 0.010, yres: 0.010, fname: M1-2 new1
+15.08 13:59:57 Scanning 0 point from 1760
+15.08 13:59:57 Going to coordinates X=-6.673, Y=-38.010
+15.08 13:59:58 Moving is finished
+15.08 14:00:04 Scanning 1 point from 1760
+15.08 14:00:04 Going to coordinates X=-6.663, Y=-38.010
+15.08 14:00:04 Moving is finished
+15.08 14:00:10 Scanning 2 point from 1760
+15.08 14:00:10 Paused
+15.08 14:00:17 Going to coordinates X=-6.653, Y=-38.010
+15.08 14:00:17 Moving is finished
+15.08 14:01:22 Scanning 3 point from 1760
+15.08 14:01:22 Going to coordinates X=-6.643, Y=-38.010
+15.08 14:01:22 Moving is finished
+15.08 14:02:27 Scanning 4 point from 1760
+15.08 14:02:27 Going to coordinates X=-6.633, Y=-38.010
+15.08 14:02:27 Moving is finished
+15.08 14:02:36 Stopped!
+15.08 14:04:15 Can't send the command to GRBL
+15.08 14:04:15 Write timeout15.08 14:04:15 Write timeout
+
+15.08 14:09:27 Can't send the command to GRBL
+15.08 14:09:27 Write timeout15.08 14:09:27 Write timeout
+
+15.08 14:22:01 Row 0: 15.08 14:22:01 Map: x1: -5.889, y1: -38.01, x2: -6.673, y2: -37.805, xres: 0.010, yres: 0.010, fname: M1-2 new1
+15.08 14:22:01 Scanning 0 point from 1760
+15.08 14:22:01 Going to coordinates X=-6.673, Y=-38.010
+15.08 14:22:02 Moving is finished
+15.08 14:22:04 Stopped!
+15.08 14:22:10 (-2147467259, 'Nespecifikovaná chyba', (None, None, None, 0, None))
+15.08 14:22:14 Row 0: 15.08 14:22:14 Map: x1: -10.087, y1: -41.169, x2: -10.413, y2: -41.908, xres: 0.010, yres: 0.050, fname: M1-2 new1
+15.08 14:22:14 Scanning 0 point from 544
+15.08 14:22:14 Going to coordinates X=-10.413, Y=-41.908
+15.08 14:22:15 Moving is finished
+15.08 14:23:20 Scanning 1 point from 544
+15.08 14:23:20 Going to coordinates X=-10.403, Y=-41.908
+15.08 14:23:20 Moving is finished
+15.08 14:24:24 Scanning 2 point from 544
+15.08 14:24:24 Going to coordinates X=-10.393, Y=-41.908
+15.08 14:24:25 Moving is finished
+15.08 14:25:29 Scanning 3 point from 544
+15.08 14:25:29 Going to coordinates X=-10.383, Y=-41.908
+15.08 14:25:29 Moving is finished
+15.08 14:26:34 Scanning 4 point from 544
+15.08 14:26:34 Going to coordinates X=-10.373, Y=-41.908
+15.08 14:26:35 Moving is finished
+15.08 14:27:39 Scanning 5 point from 544
+15.08 14:27:39 Going to coordinates X=-10.363, Y=-41.908
+15.08 14:27:39 Moving is finished
+15.08 14:28:44 Scanning 6 point from 544
+15.08 14:28:44 Going to coordinates X=-10.353, Y=-41.908
+15.08 14:28:44 Moving is finished
+15.08 14:29:49 Scanning 7 point from 544
+15.08 14:29:49 Going to coordinates X=-10.343, Y=-41.908
+15.08 14:29:49 Moving is finished
+15.08 14:30:53 Scanning 8 point from 544
+15.08 14:30:53 Going to coordinates X=-10.333, Y=-41.908
+15.08 14:30:53 Moving is finished
+15.08 14:31:58 Scanning 9 point from 544
+15.08 14:31:58 Going to coordinates X=-10.323, Y=-41.908
+15.08 14:31:58 Moving is finished
+15.08 14:33:02 Scanning 10 point from 544
+15.08 14:33:02 Going to coordinates X=-10.313, Y=-41.908
+15.08 14:33:03 Moving is finished
+15.08 14:34:07 Scanning 11 point from 544
+15.08 14:34:07 Going to coordinates X=-10.303, Y=-41.908
+15.08 14:34:07 Moving is finished
+15.08 14:35:11 Scanning 12 point from 544
+15.08 14:35:11 Going to coordinates X=-10.293, Y=-41.908
+15.08 14:35:11 Moving is finished
+15.08 14:36:16 Scanning 13 point from 544
+15.08 14:36:16 Going to coordinates X=-10.283, Y=-41.908
+15.08 14:36:16 Moving is finished
+15.08 14:37:20 Scanning 14 point from 544
+15.08 14:37:20 Going to coordinates X=-10.273, Y=-41.908
+15.08 14:37:20 Moving is finished
+15.08 14:38:25 Scanning 15 point from 544
+15.08 14:38:25 Going to coordinates X=-10.263, Y=-41.908
+15.08 14:38:25 Moving is finished
+15.08 14:39:29 Scanning 16 point from 544
+15.08 14:39:29 Going to coordinates X=-10.253, Y=-41.908
+15.08 14:39:29 Moving is finished
+15.08 14:40:34 Scanning 17 point from 544
+15.08 14:40:34 Going to coordinates X=-10.243, Y=-41.908
+15.08 14:40:34 Moving is finished
+15.08 14:41:39 Scanning 18 point from 544
+15.08 14:41:39 Going to coordinates X=-10.233, Y=-41.908
+15.08 14:41:39 Moving is finished
+15.08 14:42:43 Scanning 19 point from 544
+15.08 14:42:43 Going to coordinates X=-10.223, Y=-41.908
+15.08 14:42:43 Moving is finished
+15.08 14:43:48 Scanning 20 point from 544
+15.08 14:43:48 Going to coordinates X=-10.213, Y=-41.908
+15.08 14:43:48 Moving is finished
+15.08 14:44:52 Scanning 21 point from 544
+15.08 14:44:52 Going to coordinates X=-10.203, Y=-41.908
+15.08 14:44:52 Moving is finished
+15.08 14:45:57 Scanning 22 point from 544
+15.08 14:45:57 Going to coordinates X=-10.193, Y=-41.908
+15.08 14:45:57 Moving is finished
+15.08 14:47:01 Scanning 23 point from 544
+15.08 14:47:01 Going to coordinates X=-10.183, Y=-41.908
+15.08 14:47:01 Moving is finished
+15.08 14:48:06 Scanning 24 point from 544
+15.08 14:48:06 Going to coordinates X=-10.173, Y=-41.908
+15.08 14:48:06 Moving is finished
+15.08 14:49:10 Scanning 25 point from 544
+15.08 14:49:10 Going to coordinates X=-10.163, Y=-41.908
+15.08 14:49:11 Moving is finished
+15.08 14:50:15 Scanning 26 point from 544
+15.08 14:50:15 Going to coordinates X=-10.153, Y=-41.908
+15.08 14:50:15 Moving is finished
+15.08 14:51:20 Scanning 27 point from 544
+15.08 14:51:20 Going to coordinates X=-10.143, Y=-41.908
+15.08 14:51:20 Moving is finished
+15.08 14:52:25 Scanning 28 point from 544
+15.08 14:52:25 Going to coordinates X=-10.133, Y=-41.908
+15.08 14:52:25 Moving is finished
+15.08 14:53:30 Scanning 29 point from 544
+15.08 14:53:30 Going to coordinates X=-10.123, Y=-41.908
+15.08 14:53:30 Moving is finished
+15.08 14:54:34 Scanning 30 point from 544
+15.08 14:54:34 Going to coordinates X=-10.113, Y=-41.908
+15.08 14:54:34 Moving is finished
+15.08 14:55:39 Scanning 31 point from 544
+15.08 14:55:39 Going to coordinates X=-10.103, Y=-41.908
+15.08 14:55:39 Moving is finished
+15.08 14:56:43 Scanning 32 point from 544
+15.08 14:56:43 Going to coordinates X=-10.093, Y=-41.908
+15.08 14:56:44 Moving is finished
+15.08 14:57:48 Scanning 33 point from 544
+15.08 14:57:48 Going to coordinates X=-10.083, Y=-41.908
+15.08 14:57:48 Moving is finished
+15.08 14:58:53 Scanning 34 point from 544
+15.08 14:58:53 Going to coordinates X=-10.413, Y=-41.858
+15.08 14:58:53 Moving is finished
+15.08 14:59:57 Scanning 35 point from 544
+15.08 14:59:57 Going to coordinates X=-10.403, Y=-41.858
+15.08 14:59:58 Moving is finished
+15.08 15:01:02 Scanning 36 point from 544
+15.08 15:01:02 Going to coordinates X=-10.393, Y=-41.858
+15.08 15:01:02 Moving is finished
+15.08 15:02:07 Scanning 37 point from 544
+15.08 15:02:07 Going to coordinates X=-10.383, Y=-41.858
+15.08 15:02:07 Moving is finished
+15.08 15:03:12 Scanning 38 point from 544
+15.08 15:03:12 Going to coordinates X=-10.373, Y=-41.858
+15.08 15:03:12 Moving is finished
+15.08 15:04:17 Scanning 39 point from 544
+15.08 15:04:17 Going to coordinates X=-10.363, Y=-41.858
+15.08 15:04:17 Moving is finished
+15.08 15:05:21 Scanning 40 point from 544
+15.08 15:05:21 Going to coordinates X=-10.353, Y=-41.858
+15.08 15:05:21 Moving is finished
+15.08 15:06:26 Scanning 41 point from 544
+15.08 15:06:26 Going to coordinates X=-10.343, Y=-41.858
+15.08 15:06:26 Moving is finished
+15.08 15:07:31 Scanning 42 point from 544
+15.08 15:07:31 Going to coordinates X=-10.333, Y=-41.858
+15.08 15:07:31 Moving is finished
+15.08 15:08:35 Scanning 43 point from 544
+15.08 15:08:35 Going to coordinates X=-10.323, Y=-41.858
+15.08 15:08:36 Moving is finished
+15.08 15:09:40 Scanning 44 point from 544
+15.08 15:09:40 Going to coordinates X=-10.313, Y=-41.858
+15.08 15:09:40 Moving is finished
+15.08 15:10:44 Scanning 45 point from 544
+15.08 15:10:44 Going to coordinates X=-10.303, Y=-41.858
+15.08 15:10:44 Moving is finished
+15.08 15:11:49 Scanning 46 point from 544
+15.08 15:11:49 Going to coordinates X=-10.293, Y=-41.858
+15.08 15:11:49 Moving is finished
+15.08 15:12:54 Scanning 47 point from 544
+15.08 15:12:54 Going to coordinates X=-10.283, Y=-41.858
+15.08 15:12:54 Moving is finished
+15.08 15:13:59 Scanning 48 point from 544
+15.08 15:13:59 Going to coordinates X=-10.273, Y=-41.858
+15.08 15:14:00 Moving is finished
+15.08 15:15:04 Scanning 49 point from 544
+15.08 15:15:04 Going to coordinates X=-10.263, Y=-41.858
+15.08 15:15:04 Moving is finished
+15.08 15:16:09 Scanning 50 point from 544
+15.08 15:16:09 Going to coordinates X=-10.253, Y=-41.858
+15.08 15:16:09 Moving is finished
+15.08 15:17:14 Scanning 51 point from 544
+15.08 15:17:14 Going to coordinates X=-10.243, Y=-41.858
+15.08 15:17:14 Moving is finished
+15.08 15:18:18 Scanning 52 point from 544
+15.08 15:18:18 Going to coordinates X=-10.233, Y=-41.858
+15.08 15:18:18 Moving is finished
+15.08 15:19:23 Scanning 53 point from 544
+15.08 15:19:23 Going to coordinates X=-10.223, Y=-41.858
+15.08 15:19:23 Moving is finished
+15.08 15:20:27 Scanning 54 point from 544
+15.08 15:20:27 Going to coordinates X=-10.213, Y=-41.858
+15.08 15:20:27 Moving is finished
+15.08 15:21:32 Scanning 55 point from 544
+15.08 15:21:32 Going to coordinates X=-10.203, Y=-41.858
+15.08 15:21:32 Moving is finished
+15.08 15:22:37 Scanning 56 point from 544
+15.08 15:22:37 Going to coordinates X=-10.193, Y=-41.858
+15.08 15:22:37 Moving is finished
+15.08 15:23:41 Scanning 57 point from 544
+15.08 15:23:41 Going to coordinates X=-10.183, Y=-41.858
+15.08 15:23:42 Moving is finished
+15.08 15:24:46 Scanning 58 point from 544
+15.08 15:24:46 Going to coordinates X=-10.173, Y=-41.858
+15.08 15:24:46 Moving is finished
+15.08 15:25:51 Scanning 59 point from 544
+15.08 15:25:51 Going to coordinates X=-10.163, Y=-41.858
+15.08 15:25:51 Moving is finished
+15.08 15:26:55 Scanning 60 point from 544
+15.08 15:26:55 Going to coordinates X=-10.153, Y=-41.858
+15.08 15:26:55 Moving is finished
+15.08 15:28:00 Scanning 61 point from 544
+15.08 15:28:00 Going to coordinates X=-10.143, Y=-41.858
+15.08 15:28:00 Moving is finished
+15.08 15:29:04 Scanning 62 point from 544
+15.08 15:29:04 Going to coordinates X=-10.133, Y=-41.858
+15.08 15:29:04 Moving is finished
+15.08 15:30:09 Scanning 63 point from 544
+15.08 15:30:09 Going to coordinates X=-10.123, Y=-41.858
+15.08 15:30:09 Moving is finished
+15.08 15:31:14 Scanning 64 point from 544
+15.08 15:31:14 Going to coordinates X=-10.113, Y=-41.858
+15.08 15:31:14 Moving is finished
+15.08 15:32:18 Scanning 65 point from 544
+15.08 15:32:18 Going to coordinates X=-10.103, Y=-41.858
+15.08 15:32:18 Moving is finished
+15.08 15:33:23 Scanning 66 point from 544
+15.08 15:33:23 Going to coordinates X=-10.093, Y=-41.858
+15.08 15:33:23 Moving is finished
+15.08 15:34:27 Scanning 67 point from 544
+15.08 15:34:27 Going to coordinates X=-10.083, Y=-41.858
+15.08 15:34:28 Moving is finished
+15.08 15:35:32 Scanning 68 point from 544
+15.08 15:35:32 Going to coordinates X=-10.413, Y=-41.808
+15.08 15:35:33 Moving is finished
+15.08 15:36:37 Scanning 69 point from 544
+15.08 15:36:37 Going to coordinates X=-10.403, Y=-41.808
+15.08 15:36:38 Moving is finished
+15.08 15:37:42 Scanning 70 point from 544
+15.08 15:37:42 Going to coordinates X=-10.393, Y=-41.808
+15.08 15:37:42 Moving is finished
+15.08 15:38:47 Scanning 71 point from 544
+15.08 15:38:47 Going to coordinates X=-10.383, Y=-41.808
+15.08 15:38:47 Moving is finished
+15.08 15:39:51 Scanning 72 point from 544
+15.08 15:39:51 Going to coordinates X=-10.373, Y=-41.808
+15.08 15:39:51 Moving is finished
+15.08 15:40:56 Scanning 73 point from 544
+15.08 15:40:56 Going to coordinates X=-10.363, Y=-41.808
+15.08 15:40:56 Moving is finished
+15.08 15:42:01 Scanning 74 point from 544
+15.08 15:42:01 Going to coordinates X=-10.353, Y=-41.808
+15.08 15:42:01 Moving is finished
+15.08 15:43:06 Scanning 75 point from 544
+15.08 15:43:06 Going to coordinates X=-10.343, Y=-41.808
+15.08 15:43:06 Moving is finished
+15.08 15:44:10 Scanning 76 point from 544
+15.08 15:44:10 Going to coordinates X=-10.333, Y=-41.808
+15.08 15:44:10 Moving is finished
+15.08 15:45:15 Scanning 77 point from 544
+15.08 15:45:15 Going to coordinates X=-10.323, Y=-41.808
+15.08 15:45:15 Moving is finished
+15.08 15:46:19 Scanning 78 point from 544
+15.08 15:46:19 Going to coordinates X=-10.313, Y=-41.808
+15.08 15:46:20 Moving is finished
+15.08 15:47:24 Scanning 79 point from 544
+15.08 15:47:24 Going to coordinates X=-10.303, Y=-41.808
+15.08 15:47:24 Moving is finished
+15.08 15:48:29 Scanning 80 point from 544
+15.08 15:48:29 Going to coordinates X=-10.293, Y=-41.808
+15.08 15:48:29 Moving is finished
+15.08 15:49:33 Scanning 81 point from 544
+15.08 15:49:33 Going to coordinates X=-10.283, Y=-41.808
+15.08 15:49:33 Moving is finished
+15.08 15:50:37 Scanning 82 point from 544
+15.08 15:50:37 Going to coordinates X=-10.273, Y=-41.808
+15.08 15:50:38 Moving is finished
+15.08 15:51:42 Scanning 83 point from 544
+15.08 15:51:42 Going to coordinates X=-10.263, Y=-41.808
+15.08 15:51:42 Moving is finished
+15.08 15:52:47 Scanning 84 point from 544
+15.08 15:52:47 Going to coordinates X=-10.253, Y=-41.808
+15.08 15:52:47 Moving is finished
+15.08 15:53:51 Scanning 85 point from 544
+15.08 15:53:51 Going to coordinates X=-10.243, Y=-41.808
+15.08 15:53:51 Moving is finished
+15.08 15:54:56 Scanning 86 point from 544
+15.08 15:54:56 Going to coordinates X=-10.233, Y=-41.808
+15.08 15:54:56 Moving is finished
+15.08 15:56:00 Scanning 87 point from 544
+15.08 15:56:00 Going to coordinates X=-10.223, Y=-41.808
+15.08 15:56:00 Moving is finished
+15.08 15:57:05 Scanning 88 point from 544
+15.08 15:57:05 Going to coordinates X=-10.213, Y=-41.808
+15.08 15:57:05 Moving is finished
+15.08 15:58:09 Scanning 89 point from 544
+15.08 15:58:09 Going to coordinates X=-10.203, Y=-41.808
+15.08 15:58:09 Moving is finished
+15.08 15:59:14 Scanning 90 point from 544
+15.08 15:59:14 Going to coordinates X=-10.193, Y=-41.808
+15.08 15:59:14 Moving is finished
+15.08 16:00:19 Scanning 91 point from 544
+15.08 16:00:19 Going to coordinates X=-10.183, Y=-41.808
+15.08 16:00:19 Moving is finished
+15.08 16:01:23 Scanning 92 point from 544
+15.08 16:01:23 Going to coordinates X=-10.173, Y=-41.808
+15.08 16:01:24 Moving is finished
+15.08 16:02:28 Scanning 93 point from 544
+15.08 16:02:28 Going to coordinates X=-10.163, Y=-41.808
+15.08 16:02:28 Moving is finished
+15.08 16:03:33 Scanning 94 point from 544
+15.08 16:03:33 Going to coordinates X=-10.153, Y=-41.808
+15.08 16:03:33 Moving is finished
+15.08 16:04:37 Scanning 95 point from 544
+15.08 16:04:37 Going to coordinates X=-10.143, Y=-41.808
+15.08 16:04:38 Moving is finished
+15.08 16:05:42 Scanning 96 point from 544
+15.08 16:05:42 Going to coordinates X=-10.133, Y=-41.808
+15.08 16:05:42 Moving is finished
+15.08 16:06:46 Scanning 97 point from 544
+15.08 16:06:46 Going to coordinates X=-10.123, Y=-41.808
+15.08 16:06:46 Moving is finished
+15.08 16:07:51 Scanning 98 point from 544
+15.08 16:07:51 Going to coordinates X=-10.113, Y=-41.808
+15.08 16:07:51 Moving is finished
+15.08 16:08:56 Scanning 99 point from 544
+15.08 16:08:56 Going to coordinates X=-10.103, Y=-41.808
+15.08 16:08:56 Moving is finished
+15.08 16:10:00 Scanning 100 point from 544
+15.08 16:10:00 Going to coordinates X=-10.093, Y=-41.808
+15.08 16:10:00 Moving is finished
+15.08 16:11:05 Scanning 101 point from 544
+15.08 16:11:05 Going to coordinates X=-10.083, Y=-41.808
+15.08 16:11:05 Moving is finished
+15.08 16:12:09 Scanning 102 point from 544
+15.08 16:12:09 Going to coordinates X=-10.413, Y=-41.758
+15.08 16:12:10 Moving is finished
+15.08 16:13:15 Scanning 103 point from 544
+15.08 16:13:15 Going to coordinates X=-10.403, Y=-41.758
+15.08 16:13:15 Moving is finished
+15.08 16:14:19 Scanning 104 point from 544
+15.08 16:14:19 Going to coordinates X=-10.393, Y=-41.758
+15.08 16:14:19 Moving is finished
+15.08 16:15:23 Scanning 105 point from 544
+15.08 16:15:23 Going to coordinates X=-10.383, Y=-41.758
+15.08 16:15:24 Moving is finished
+15.08 16:16:29 Scanning 106 point from 544
+15.08 16:16:29 Going to coordinates X=-10.373, Y=-41.758
+15.08 16:16:29 Moving is finished
+15.08 16:17:33 Scanning 107 point from 544
+15.08 16:17:33 Going to coordinates X=-10.363, Y=-41.758
+15.08 16:17:33 Moving is finished
+15.08 16:18:38 Scanning 108 point from 544
+15.08 16:18:38 Going to coordinates X=-10.353, Y=-41.758
+15.08 16:18:38 Moving is finished
+15.08 16:19:43 Scanning 109 point from 544
+15.08 16:19:43 Going to coordinates X=-10.343, Y=-41.758
+15.08 16:19:43 Moving is finished
+15.08 16:20:48 Scanning 110 point from 544
+15.08 16:20:48 Going to coordinates X=-10.333, Y=-41.758
+15.08 16:20:48 Moving is finished
+15.08 16:21:52 Scanning 111 point from 544
+15.08 16:21:52 Going to coordinates X=-10.323, Y=-41.758
+15.08 16:21:52 Moving is finished
+15.08 16:22:57 Scanning 112 point from 544
+15.08 16:22:57 Going to coordinates X=-10.313, Y=-41.758
+15.08 16:22:57 Moving is finished
+15.08 16:24:01 Scanning 113 point from 544
+15.08 16:24:01 Going to coordinates X=-10.303, Y=-41.758
+15.08 16:24:01 Moving is finished
+15.08 16:25:06 Scanning 114 point from 544
+15.08 16:25:06 Going to coordinates X=-10.293, Y=-41.758
+15.08 16:25:06 Moving is finished
+15.08 16:26:10 Scanning 115 point from 544
+15.08 16:26:10 Going to coordinates X=-10.283, Y=-41.758
+15.08 16:26:11 Moving is finished
+15.08 16:27:15 Scanning 116 point from 544
+15.08 16:27:15 Going to coordinates X=-10.273, Y=-41.758
+15.08 16:27:15 Moving is finished
+15.08 16:28:19 Scanning 117 point from 544
+15.08 16:28:19 Going to coordinates X=-10.263, Y=-41.758
+15.08 16:28:19 Moving is finished
+15.08 16:29:24 Scanning 118 point from 544
+15.08 16:29:24 Going to coordinates X=-10.253, Y=-41.758
+15.08 16:29:24 Moving is finished
+15.08 16:30:29 Scanning 119 point from 544
+15.08 16:30:29 Going to coordinates X=-10.243, Y=-41.758
+15.08 16:30:30 Moving is finished
+15.08 16:31:34 Scanning 120 point from 544
+15.08 16:31:34 Going to coordinates X=-10.233, Y=-41.758
+15.08 16:31:34 Moving is finished
+15.08 16:32:39 Scanning 121 point from 544
+15.08 16:32:39 Going to coordinates X=-10.223, Y=-41.758
+15.08 16:32:39 Moving is finished
+15.08 16:33:43 Scanning 122 point from 544
+15.08 16:33:43 Going to coordinates X=-10.213, Y=-41.758
+15.08 16:33:43 Moving is finished
+15.08 16:34:48 Scanning 123 point from 544
+15.08 16:34:48 Going to coordinates X=-10.203, Y=-41.758
+15.08 16:34:48 Moving is finished
+15.08 16:35:52 Scanning 124 point from 544
+15.08 16:35:52 Going to coordinates X=-10.193, Y=-41.758
+15.08 16:35:52 Moving is finished
+15.08 16:36:57 Scanning 125 point from 544
+15.08 16:36:57 Going to coordinates X=-10.183, Y=-41.758
+15.08 16:36:57 Moving is finished
+15.08 16:38:01 Scanning 126 point from 544
+15.08 16:38:01 Going to coordinates X=-10.173, Y=-41.758
+15.08 16:38:01 Moving is finished
+15.08 16:39:06 Scanning 127 point from 544
+15.08 16:39:06 Going to coordinates X=-10.163, Y=-41.758
+15.08 16:39:06 Moving is finished
+15.08 16:40:10 Scanning 128 point from 544
+15.08 16:40:10 Going to coordinates X=-10.153, Y=-41.758
+15.08 16:40:10 Moving is finished
+15.08 16:41:15 Scanning 129 point from 544
+15.08 16:41:15 Going to coordinates X=-10.143, Y=-41.758
+15.08 16:41:15 Moving is finished
+15.08 16:42:19 Scanning 130 point from 544
+15.08 16:42:19 Going to coordinates X=-10.133, Y=-41.758
+15.08 16:42:19 Moving is finished
+15.08 16:43:24 Scanning 131 point from 544
+15.08 16:43:24 Going to coordinates X=-10.123, Y=-41.758
+15.08 16:43:24 Moving is finished
+15.08 16:44:28 Scanning 132 point from 544
+15.08 16:44:28 Going to coordinates X=-10.113, Y=-41.758
+15.08 16:44:28 Moving is finished
+15.08 16:45:33 Scanning 133 point from 544
+15.08 16:45:33 Going to coordinates X=-10.103, Y=-41.758
+15.08 16:45:33 Moving is finished
+15.08 16:46:37 Scanning 134 point from 544
+15.08 16:46:37 Going to coordinates X=-10.093, Y=-41.758
+15.08 16:46:37 Moving is finished
+15.08 16:47:42 Scanning 135 point from 544
+15.08 16:47:42 Going to coordinates X=-10.083, Y=-41.758
+15.08 16:47:43 Moving is finished
+15.08 16:48:47 Scanning 136 point from 544
+15.08 16:48:47 Going to coordinates X=-10.413, Y=-41.708
+15.08 16:48:47 Moving is finished
+15.08 16:49:52 Scanning 137 point from 544
+15.08 16:49:52 Going to coordinates X=-10.403, Y=-41.708
+15.08 16:49:52 Moving is finished
+15.08 16:50:56 Scanning 138 point from 544
+15.08 16:50:56 Going to coordinates X=-10.393, Y=-41.708
+15.08 16:50:57 Moving is finished
+15.08 16:52:01 Scanning 139 point from 544
+15.08 16:52:01 Going to coordinates X=-10.383, Y=-41.708
+15.08 16:52:02 Moving is finished
+15.08 16:53:07 Scanning 140 point from 544
+15.08 16:53:07 Going to coordinates X=-10.373, Y=-41.708
+15.08 16:53:07 Moving is finished
+15.08 16:54:11 Scanning 141 point from 544
+15.08 16:54:11 Going to coordinates X=-10.363, Y=-41.708
+15.08 16:54:11 Moving is finished
+15.08 16:55:16 Scanning 142 point from 544
+15.08 16:55:16 Going to coordinates X=-10.353, Y=-41.708
+15.08 16:55:16 Moving is finished
+15.08 16:56:21 Scanning 143 point from 544
+15.08 16:56:21 Going to coordinates X=-10.343, Y=-41.708
+15.08 16:56:21 Moving is finished
+15.08 16:57:26 Scanning 144 point from 544
+15.08 16:57:26 Going to coordinates X=-10.333, Y=-41.708
+15.08 16:57:26 Moving is finished
+15.08 16:58:30 Scanning 145 point from 544
+15.08 16:58:30 Going to coordinates X=-10.323, Y=-41.708
+15.08 16:58:30 Moving is finished
+15.08 16:59:35 Scanning 146 point from 544
+15.08 16:59:35 Going to coordinates X=-10.313, Y=-41.708
+15.08 16:59:35 Moving is finished
+15.08 17:00:40 Scanning 147 point from 544
+15.08 17:00:40 Going to coordinates X=-10.303, Y=-41.708
+15.08 17:00:40 Moving is finished
+15.08 17:01:44 Scanning 148 point from 544
+15.08 17:01:44 Going to coordinates X=-10.293, Y=-41.708
+15.08 17:01:45 Moving is finished
+15.08 17:02:49 Scanning 149 point from 544
+15.08 17:02:49 Going to coordinates X=-10.283, Y=-41.708
+15.08 17:02:49 Moving is finished
+15.08 17:03:54 Scanning 150 point from 544
+15.08 17:03:54 Going to coordinates X=-10.273, Y=-41.708
+15.08 17:03:54 Moving is finished
+15.08 17:04:58 Scanning 151 point from 544
+15.08 17:04:58 Going to coordinates X=-10.263, Y=-41.708
+15.08 17:04:59 Moving is finished
+15.08 17:06:03 Scanning 152 point from 544
+15.08 17:06:03 Going to coordinates X=-10.253, Y=-41.708
+15.08 17:06:04 Moving is finished
+15.08 17:07:09 Scanning 153 point from 544
+15.08 17:07:09 Going to coordinates X=-10.243, Y=-41.708
+15.08 17:07:09 Moving is finished
+15.08 17:08:14 Scanning 154 point from 544
+15.08 17:08:14 Going to coordinates X=-10.233, Y=-41.708
+15.08 17:08:14 Moving is finished
+15.08 17:09:18 Scanning 155 point from 544
+15.08 17:09:18 Going to coordinates X=-10.223, Y=-41.708
+15.08 17:09:19 Moving is finished
+15.08 17:10:23 Scanning 156 point from 544
+15.08 17:10:23 Going to coordinates X=-10.213, Y=-41.708
+15.08 17:10:24 Moving is finished
+15.08 17:11:28 Scanning 157 point from 544
+15.08 17:11:28 Going to coordinates X=-10.203, Y=-41.708
+15.08 17:11:28 Moving is finished
+15.08 17:12:33 Scanning 158 point from 544
+15.08 17:12:33 Going to coordinates X=-10.193, Y=-41.708
+15.08 17:12:33 Moving is finished
+15.08 17:13:37 Scanning 159 point from 544
+15.08 17:13:37 Going to coordinates X=-10.183, Y=-41.708
+15.08 17:13:37 Moving is finished
+15.08 17:14:42 Scanning 160 point from 544
+15.08 17:14:42 Going to coordinates X=-10.173, Y=-41.708
+15.08 17:14:42 Moving is finished
+15.08 17:15:46 Scanning 161 point from 544
+15.08 17:15:46 Going to coordinates X=-10.163, Y=-41.708
+15.08 17:15:46 Moving is finished
+15.08 17:16:51 Scanning 162 point from 544
+15.08 17:16:51 Going to coordinates X=-10.153, Y=-41.708
+15.08 17:16:51 Moving is finished
+15.08 17:17:55 Scanning 163 point from 544
+15.08 17:17:55 Going to coordinates X=-10.143, Y=-41.708
+15.08 17:17:55 Moving is finished
+15.08 17:19:00 Scanning 164 point from 544
+15.08 17:19:00 Going to coordinates X=-10.133, Y=-41.708
+15.08 17:19:00 Moving is finished
+15.08 17:20:04 Scanning 165 point from 544
+15.08 17:20:04 Going to coordinates X=-10.123, Y=-41.708
+15.08 17:20:04 Moving is finished
+15.08 17:21:09 Scanning 166 point from 544
+15.08 17:21:09 Going to coordinates X=-10.113, Y=-41.708
+15.08 17:21:09 Moving is finished
+15.08 17:22:14 Scanning 167 point from 544
+15.08 17:22:14 Going to coordinates X=-10.103, Y=-41.708
+15.08 17:22:14 Moving is finished
+15.08 17:23:18 Scanning 168 point from 544
+15.08 17:23:18 Going to coordinates X=-10.093, Y=-41.708
+15.08 17:23:18 Moving is finished
+15.08 17:24:23 Scanning 169 point from 544
+15.08 17:24:23 Going to coordinates X=-10.083, Y=-41.708
+15.08 17:24:23 Moving is finished
+15.08 17:25:28 Scanning 170 point from 544
+15.08 17:25:28 Going to coordinates X=-10.413, Y=-41.658
+15.08 17:25:28 Moving is finished
+15.08 17:26:32 Scanning 171 point from 544
+15.08 17:26:32 Going to coordinates X=-10.403, Y=-41.658
+15.08 17:26:33 Moving is finished
+15.08 17:27:37 Scanning 172 point from 544
+15.08 17:27:37 Going to coordinates X=-10.393, Y=-41.658
+15.08 17:27:37 Moving is finished
+15.08 17:28:41 Scanning 173 point from 544
+15.08 17:28:41 Going to coordinates X=-10.383, Y=-41.658
+15.08 17:28:41 Moving is finished
+15.08 17:29:46 Scanning 174 point from 544
+15.08 17:29:46 Going to coordinates X=-10.373, Y=-41.658
+15.08 17:29:46 Moving is finished
+15.08 17:30:50 Scanning 175 point from 544
+15.08 17:30:50 Going to coordinates X=-10.363, Y=-41.658
+15.08 17:30:50 Moving is finished
+15.08 17:31:54 Scanning 176 point from 544
+15.08 17:31:54 Going to coordinates X=-10.353, Y=-41.658
+15.08 17:31:55 Moving is finished
+15.08 17:32:59 Scanning 177 point from 544
+15.08 17:32:59 Going to coordinates X=-10.343, Y=-41.658
+15.08 17:32:59 Moving is finished
+15.08 17:34:03 Scanning 178 point from 544
+15.08 17:34:03 Going to coordinates X=-10.333, Y=-41.658
+15.08 17:34:04 Moving is finished
+15.08 17:35:08 Scanning 179 point from 544
+15.08 17:35:08 Going to coordinates X=-10.323, Y=-41.658
+15.08 17:35:08 Moving is finished
+15.08 17:36:12 Scanning 180 point from 544
+15.08 17:36:12 Going to coordinates X=-10.313, Y=-41.658
+15.08 17:36:13 Moving is finished
+15.08 17:37:17 Scanning 181 point from 544
+15.08 17:37:17 Going to coordinates X=-10.303, Y=-41.658
+15.08 17:37:17 Moving is finished
+15.08 17:38:21 Scanning 182 point from 544
+15.08 17:38:21 Going to coordinates X=-10.293, Y=-41.658
+15.08 17:38:22 Moving is finished
+15.08 17:39:26 Scanning 183 point from 544
+15.08 17:39:26 Going to coordinates X=-10.283, Y=-41.658
+15.08 17:39:26 Moving is finished
+15.08 17:40:30 Scanning 184 point from 544
+15.08 17:40:30 Going to coordinates X=-10.273, Y=-41.658
+15.08 17:40:31 Moving is finished
+15.08 17:41:35 Scanning 185 point from 544
+15.08 17:41:35 Going to coordinates X=-10.263, Y=-41.658
+15.08 17:41:35 Moving is finished
+15.08 17:42:40 Scanning 186 point from 544
+15.08 17:42:40 Going to coordinates X=-10.253, Y=-41.658
+15.08 17:42:40 Moving is finished
+15.08 17:43:44 Scanning 187 point from 544
+15.08 17:43:44 Going to coordinates X=-10.243, Y=-41.658
+15.08 17:43:44 Moving is finished
+15.08 17:44:49 Scanning 188 point from 544
+15.08 17:44:49 Going to coordinates X=-10.233, Y=-41.658
+15.08 17:44:49 Moving is finished
+15.08 17:45:56 timed out
+15.08 17:45:57 Scanning 189 point from 544
+15.08 17:45:57 Going to coordinates X=-10.223, Y=-41.658
+15.08 17:45:57 Moving is finished
+15.08 17:46:12 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:17 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:18 Scanning 190 point from 544
+15.08 17:46:18 Going to coordinates X=-10.213, Y=-41.658
+15.08 17:46:18 Moving is finished
+15.08 17:46:24 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:29 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:30 Scanning 191 point from 544
+15.08 17:46:30 Going to coordinates X=-10.203, Y=-41.658
+15.08 17:46:30 Moving is finished
+15.08 17:46:37 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:42 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:43 Scanning 192 point from 544
+15.08 17:46:43 Going to coordinates X=-10.193, Y=-41.658
+15.08 17:46:43 Moving is finished
+15.08 17:46:50 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:55 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:46:56 Scanning 193 point from 544
+15.08 17:46:56 Going to coordinates X=-10.183, Y=-41.658
+15.08 17:46:56 Moving is finished
+15.08 17:47:02 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:47:07 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:47:08 Scanning 194 point from 544
+15.08 17:47:08 Going to coordinates X=-10.173, Y=-41.658
+15.08 17:47:08 Moving is finished
+15.08 17:47:14 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:47:19 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:47:20 Scanning 195 point from 544
+15.08 17:47:20 Going to coordinates X=-10.163, Y=-41.658
+15.08 17:47:20 Moving is finished
+15.08 17:47:26 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:47:31 Could not find 'EZRaman Reader  V8.2.0 MV' in 'dict_keys([])'
+15.08 17:47:32 Scanning 196 point from 544
+15.08 17:48:22 Going to coordinates X=-10.153, Y=-41.658
+15.08 17:49:12 Stopped!

@@ -1,0 +1,1345 @@
+13.02 08:41:03 Initializing grbl...
+13.02 08:41:04 Got the response: b''
+13.02 08:42:02 Focused at  1
+13.02 08:42:14 Focused at  1
+13.02 08:42:20 Focused at  111
+13.02 08:42:41 Row 0: 13.02 08:42:41 Map: x1: -16.332, y1: -40.359, x2: -14.649, y2: -41.744, xres: 0.100, yres: 0.100, fname: M3-6
+13.02 08:42:41 Scanning 0 point from 270
+13.02 08:42:41 Going to coordinates X=-16.332, Y=-41.744
+13.02 08:42:42 Moving is finished
+13.02 08:44:27 Scanning 1 point from 270
+13.02 08:44:27 Going to coordinates X=-16.232, Y=-41.744
+13.02 08:44:27 Moving is finished
+13.02 08:46:14 timed out
+13.02 08:46:15 Scanning 2 point from 270
+13.02 08:46:15 Going to coordinates X=-16.132, Y=-41.744
+13.02 08:46:15 Moving is finished
+13.02 08:46:23 timed out
+13.02 08:46:23 Scanning 3 point from 270
+13.02 08:46:23 Going to coordinates X=-16.032, Y=-41.744
+13.02 08:46:23 Moving is finished
+13.02 08:46:32 timed out
+13.02 08:46:33 Scanning 4 point from 270
+13.02 08:46:33 Going to coordinates X=-15.932, Y=-41.744
+13.02 08:46:33 Moving is finished
+13.02 08:46:40 timed out
+13.02 08:46:41 Scanning 5 point from 270
+13.02 08:46:41 Going to coordinates X=-15.832, Y=-41.744
+13.02 08:46:41 Moving is finished
+13.02 08:46:49 timed out
+13.02 08:46:50 Scanning 6 point from 270
+13.02 08:46:50 Going to coordinates X=-15.732, Y=-41.744
+13.02 08:46:50 Moving is finished
+13.02 08:46:57 timed out
+13.02 08:46:58 Scanning 7 point from 270
+13.02 08:46:58 Going to coordinates X=-15.632, Y=-41.744
+13.02 08:46:58 Moving is finished
+13.02 08:47:06 timed out
+13.02 08:47:07 Scanning 8 point from 270
+13.02 08:47:07 Going to coordinates X=-15.532, Y=-41.744
+13.02 08:47:07 Moving is finished
+13.02 08:47:14 timed out
+13.02 08:47:15 Scanning 9 point from 270
+13.02 08:47:15 Going to coordinates X=-15.432, Y=-41.744
+13.02 08:47:15 Moving is finished
+13.02 08:47:23 timed out
+13.02 08:47:24 Scanning 10 point from 270
+13.02 08:47:24 Going to coordinates X=-15.332, Y=-41.744
+13.02 08:47:24 Moving is finished
+13.02 08:47:32 timed out
+13.02 08:47:32 Scanning 11 point from 270
+13.02 08:47:32 Going to coordinates X=-15.232, Y=-41.744
+13.02 08:47:33 Moving is finished
+13.02 08:47:40 timed out
+13.02 08:47:41 Scanning 12 point from 270
+13.02 08:47:41 Going to coordinates X=-15.132, Y=-41.744
+13.02 08:47:41 Moving is finished
+13.02 08:47:49 timed out
+13.02 08:47:50 Scanning 13 point from 270
+13.02 08:47:50 Going to coordinates X=-15.032, Y=-41.744
+13.02 08:47:50 Moving is finished
+13.02 08:47:59 timed out
+13.02 08:47:59 Scanning 14 point from 270
+13.02 08:47:59 Going to coordinates X=-14.932, Y=-41.744
+13.02 08:48:00 Moving is finished
+13.02 08:48:07 timed out
+13.02 08:48:08 Scanning 15 point from 270
+13.02 08:48:08 Going to coordinates X=-14.832, Y=-41.744
+13.02 08:48:08 Moving is finished
+13.02 08:48:16 timed out
+13.02 08:48:17 Scanning 16 point from 270
+13.02 08:48:17 Going to coordinates X=-14.732, Y=-41.744
+13.02 08:48:17 Moving is finished
+13.02 08:48:24 timed out
+13.02 08:48:25 Scanning 17 point from 270
+13.02 08:48:25 Going to coordinates X=-14.632, Y=-41.744
+13.02 08:48:25 Moving is finished
+13.02 08:48:33 timed out
+13.02 08:48:33 Scanning 18 point from 270
+13.02 08:48:33 Going to coordinates X=-16.332, Y=-41.644
+13.02 08:48:34 Moving is finished
+13.02 08:48:42 timed out
+13.02 08:48:42 Scanning 19 point from 270
+13.02 08:48:42 Going to coordinates X=-16.232, Y=-41.644
+13.02 08:48:43 Moving is finished
+13.02 08:48:51 timed out
+13.02 08:48:51 Scanning 20 point from 270
+13.02 08:48:51 Going to coordinates X=-16.132, Y=-41.644
+13.02 08:48:52 Moving is finished
+13.02 08:48:59 timed out
+13.02 08:48:59 Scanning 21 point from 270
+13.02 08:48:59 Going to coordinates X=-16.032, Y=-41.644
+13.02 08:49:00 Moving is finished
+13.02 08:49:07 timed out
+13.02 08:49:08 Scanning 22 point from 270
+13.02 08:49:08 Going to coordinates X=-15.932, Y=-41.644
+13.02 08:49:08 Moving is finished
+13.02 08:49:15 timed out
+13.02 08:49:16 Scanning 23 point from 270
+13.02 08:49:16 Going to coordinates X=-15.832, Y=-41.644
+13.02 08:49:16 Moving is finished
+13.02 08:49:23 timed out
+13.02 08:49:24 Scanning 24 point from 270
+13.02 08:49:24 Going to coordinates X=-15.732, Y=-41.644
+13.02 08:49:24 Moving is finished
+13.02 08:49:32 timed out
+13.02 08:49:32 Scanning 25 point from 270
+13.02 08:49:32 Going to coordinates X=-15.632, Y=-41.644
+13.02 08:49:32 Moving is finished
+13.02 08:49:40 timed out
+13.02 08:49:41 Scanning 26 point from 270
+13.02 08:49:41 Going to coordinates X=-15.532, Y=-41.644
+13.02 08:49:41 Moving is finished
+13.02 08:49:48 timed out
+13.02 08:49:49 Scanning 27 point from 270
+13.02 08:49:49 Going to coordinates X=-15.432, Y=-41.644
+13.02 08:49:49 Moving is finished
+13.02 08:49:57 timed out
+13.02 08:49:58 Scanning 28 point from 270
+13.02 08:49:58 Going to coordinates X=-15.332, Y=-41.644
+13.02 08:49:58 Moving is finished
+13.02 08:50:05 timed out
+13.02 08:50:06 Scanning 29 point from 270
+13.02 08:50:06 Going to coordinates X=-15.232, Y=-41.644
+13.02 08:50:06 Moving is finished
+13.02 08:50:15 timed out
+13.02 08:50:15 Scanning 30 point from 270
+13.02 08:50:15 Going to coordinates X=-15.132, Y=-41.644
+13.02 08:50:16 Moving is finished
+13.02 08:50:23 timed out
+13.02 08:50:24 Scanning 31 point from 270
+13.02 08:50:24 Going to coordinates X=-15.032, Y=-41.644
+13.02 08:50:24 Moving is finished
+13.02 08:50:32 timed out
+13.02 08:50:32 Scanning 32 point from 270
+13.02 08:50:32 Going to coordinates X=-14.932, Y=-41.644
+13.02 08:50:33 Moving is finished
+13.02 08:50:41 timed out
+13.02 08:50:41 Scanning 33 point from 270
+13.02 08:50:41 Going to coordinates X=-14.832, Y=-41.644
+13.02 08:50:41 Moving is finished
+13.02 08:50:49 timed out
+13.02 08:50:50 Scanning 34 point from 270
+13.02 08:50:50 Going to coordinates X=-14.732, Y=-41.644
+13.02 08:50:50 Moving is finished
+13.02 08:50:58 timed out
+13.02 08:50:59 Scanning 35 point from 270
+13.02 08:50:59 Going to coordinates X=-14.632, Y=-41.644
+13.02 08:50:59 Moving is finished
+13.02 08:51:07 timed out
+13.02 08:51:07 Scanning 36 point from 270
+13.02 08:51:07 Going to coordinates X=-16.332, Y=-41.544
+13.02 08:51:08 Moving is finished
+13.02 08:51:16 timed out
+13.02 08:51:16 Scanning 37 point from 270
+13.02 08:51:16 Going to coordinates X=-16.232, Y=-41.544
+13.02 08:51:17 Moving is finished
+13.02 08:51:25 timed out
+13.02 08:51:26 Scanning 38 point from 270
+13.02 08:51:26 Going to coordinates X=-16.132, Y=-41.544
+13.02 08:51:26 Moving is finished
+13.02 08:51:34 timed out
+13.02 08:51:34 Scanning 39 point from 270
+13.02 08:51:34 Going to coordinates X=-16.032, Y=-41.544
+13.02 08:51:35 Moving is finished
+13.02 08:51:42 timed out
+13.02 08:51:43 Scanning 40 point from 270
+13.02 08:51:43 Going to coordinates X=-15.932, Y=-41.544
+13.02 08:51:43 Moving is finished
+13.02 08:51:51 timed out
+13.02 08:51:52 Scanning 41 point from 270
+13.02 08:51:52 Going to coordinates X=-15.832, Y=-41.544
+13.02 08:51:52 Moving is finished
+13.02 08:51:59 timed out
+13.02 08:52:00 Scanning 42 point from 270
+13.02 08:52:00 Going to coordinates X=-15.732, Y=-41.544
+13.02 08:52:00 Moving is finished
+13.02 08:52:07 timed out
+13.02 08:52:08 Scanning 43 point from 270
+13.02 08:52:08 Going to coordinates X=-15.632, Y=-41.544
+13.02 08:52:08 Moving is finished
+13.02 08:52:16 timed out
+13.02 08:52:16 Scanning 44 point from 270
+13.02 08:52:16 Going to coordinates X=-15.532, Y=-41.544
+13.02 08:52:17 Moving is finished
+13.02 08:52:24 timed out
+13.02 08:52:25 Scanning 45 point from 270
+13.02 08:52:25 Going to coordinates X=-15.432, Y=-41.544
+13.02 08:52:25 Moving is finished
+13.02 08:52:32 timed out
+13.02 08:52:33 Scanning 46 point from 270
+13.02 08:52:33 Going to coordinates X=-15.332, Y=-41.544
+13.02 08:52:33 Moving is finished
+13.02 08:52:40 timed out
+13.02 08:52:41 Scanning 47 point from 270
+13.02 08:52:41 Going to coordinates X=-15.232, Y=-41.544
+13.02 08:52:41 Moving is finished
+13.02 08:52:49 timed out
+13.02 08:52:49 Scanning 48 point from 270
+13.02 08:52:49 Going to coordinates X=-15.132, Y=-41.544
+13.02 08:52:50 Moving is finished
+13.02 08:52:57 timed out
+13.02 08:52:57 Scanning 49 point from 270
+13.02 08:52:57 Going to coordinates X=-15.032, Y=-41.544
+13.02 08:52:58 Moving is finished
+13.02 08:53:05 timed out
+13.02 08:53:06 Scanning 50 point from 270
+13.02 08:53:06 Going to coordinates X=-14.932, Y=-41.544
+13.02 08:53:06 Moving is finished
+13.02 08:53:13 timed out
+13.02 08:53:14 Scanning 51 point from 270
+13.02 08:53:14 Going to coordinates X=-14.832, Y=-41.544
+13.02 08:53:14 Moving is finished
+13.02 08:53:22 timed out
+13.02 08:53:23 Scanning 52 point from 270
+13.02 08:53:23 Going to coordinates X=-14.732, Y=-41.544
+13.02 08:53:23 Moving is finished
+13.02 08:53:31 timed out
+13.02 08:53:32 Scanning 53 point from 270
+13.02 08:53:32 Going to coordinates X=-14.632, Y=-41.544
+13.02 08:53:32 Moving is finished
+13.02 08:53:39 timed out
+13.02 08:53:40 Scanning 54 point from 270
+13.02 08:53:40 Going to coordinates X=-16.332, Y=-41.444
+13.02 08:53:41 Moving is finished
+13.02 08:53:48 timed out
+13.02 08:53:49 Scanning 55 point from 270
+13.02 08:53:49 Going to coordinates X=-16.232, Y=-41.444
+13.02 08:53:49 Moving is finished
+13.02 08:53:56 timed out
+13.02 08:53:57 Scanning 56 point from 270
+13.02 08:53:57 Going to coordinates X=-16.132, Y=-41.444
+13.02 08:53:57 Moving is finished
+13.02 08:54:05 timed out
+13.02 08:54:06 Scanning 57 point from 270
+13.02 08:54:06 Going to coordinates X=-16.032, Y=-41.444
+13.02 08:54:06 Moving is finished
+13.02 08:54:13 timed out
+13.02 08:54:14 Scanning 58 point from 270
+13.02 08:54:14 Going to coordinates X=-15.932, Y=-41.444
+13.02 08:54:14 Moving is finished
+13.02 08:54:22 timed out
+13.02 08:54:23 Scanning 59 point from 270
+13.02 08:54:23 Going to coordinates X=-15.832, Y=-41.444
+13.02 08:54:23 Moving is finished
+13.02 08:54:30 timed out
+13.02 08:54:31 Scanning 60 point from 270
+13.02 08:54:31 Going to coordinates X=-15.732, Y=-41.444
+13.02 08:54:31 Moving is finished
+13.02 08:54:39 timed out
+13.02 08:54:40 Scanning 61 point from 270
+13.02 08:54:40 Going to coordinates X=-15.632, Y=-41.444
+13.02 08:54:40 Moving is finished
+13.02 08:54:48 timed out
+13.02 08:54:48 Scanning 62 point from 270
+13.02 08:54:48 Going to coordinates X=-15.532, Y=-41.444
+13.02 08:54:49 Moving is finished
+13.02 08:54:56 timed out
+13.02 08:54:57 Scanning 63 point from 270
+13.02 08:54:57 Going to coordinates X=-15.432, Y=-41.444
+13.02 08:54:57 Moving is finished
+13.02 08:55:05 timed out
+13.02 08:55:05 Scanning 64 point from 270
+13.02 08:55:05 Going to coordinates X=-15.332, Y=-41.444
+13.02 08:55:06 Moving is finished
+13.02 08:55:13 timed out
+13.02 08:55:14 Scanning 65 point from 270
+13.02 08:55:14 Going to coordinates X=-15.232, Y=-41.444
+13.02 08:55:14 Moving is finished
+13.02 08:55:22 timed out
+13.02 08:55:23 Scanning 66 point from 270
+13.02 08:55:23 Going to coordinates X=-15.132, Y=-41.444
+13.02 08:55:23 Moving is finished
+13.02 08:55:31 timed out
+13.02 08:55:32 Scanning 67 point from 270
+13.02 08:55:32 Going to coordinates X=-15.032, Y=-41.444
+13.02 08:55:32 Moving is finished
+13.02 08:55:40 timed out
+13.02 08:55:41 Scanning 68 point from 270
+13.02 08:55:41 Going to coordinates X=-14.932, Y=-41.444
+13.02 08:55:41 Moving is finished
+13.02 08:55:49 timed out
+13.02 08:55:49 Scanning 69 point from 270
+13.02 08:55:49 Going to coordinates X=-14.832, Y=-41.444
+13.02 08:55:50 Moving is finished
+13.02 08:55:58 timed out
+13.02 08:55:58 Scanning 70 point from 270
+13.02 08:55:58 Going to coordinates X=-14.732, Y=-41.444
+13.02 08:55:59 Moving is finished
+13.02 08:56:06 timed out
+13.02 08:56:07 Scanning 71 point from 270
+13.02 08:56:07 Going to coordinates X=-14.632, Y=-41.444
+13.02 08:56:07 Moving is finished
+13.02 08:56:15 timed out
+13.02 08:56:16 Scanning 72 point from 270
+13.02 08:56:16 Going to coordinates X=-16.332, Y=-41.344
+13.02 08:56:17 Moving is finished
+13.02 08:56:25 timed out
+13.02 08:56:26 Scanning 73 point from 270
+13.02 08:56:26 Going to coordinates X=-16.232, Y=-41.344
+13.02 08:56:26 Moving is finished
+13.02 08:56:34 timed out
+13.02 08:56:35 Scanning 74 point from 270
+13.02 08:56:35 Going to coordinates X=-16.132, Y=-41.344
+13.02 08:56:35 Moving is finished
+13.02 08:56:42 timed out
+13.02 08:56:43 Scanning 75 point from 270
+13.02 08:56:43 Going to coordinates X=-16.032, Y=-41.344
+13.02 08:56:43 Moving is finished
+13.02 08:56:51 timed out
+13.02 08:56:52 Scanning 76 point from 270
+13.02 08:56:52 Going to coordinates X=-15.932, Y=-41.344
+13.02 08:56:52 Moving is finished
+13.02 08:56:59 timed out
+13.02 08:57:00 Scanning 77 point from 270
+13.02 08:57:00 Going to coordinates X=-15.832, Y=-41.344
+13.02 08:57:00 Moving is finished
+13.02 08:57:08 timed out
+13.02 08:57:08 Scanning 78 point from 270
+13.02 08:57:08 Going to coordinates X=-15.732, Y=-41.344
+13.02 08:57:09 Moving is finished
+13.02 08:57:17 timed out
+13.02 08:57:18 Scanning 79 point from 270
+13.02 08:57:18 Going to coordinates X=-15.632, Y=-41.344
+13.02 08:57:18 Moving is finished
+13.02 08:57:26 timed out
+13.02 08:57:26 Scanning 80 point from 270
+13.02 08:57:26 Going to coordinates X=-15.532, Y=-41.344
+13.02 08:57:27 Moving is finished
+13.02 08:57:34 timed out
+13.02 08:57:35 Scanning 81 point from 270
+13.02 08:57:35 Going to coordinates X=-15.432, Y=-41.344
+13.02 08:57:35 Moving is finished
+13.02 08:57:44 timed out
+13.02 08:57:45 Scanning 82 point from 270
+13.02 08:57:45 Going to coordinates X=-15.332, Y=-41.344
+13.02 08:57:45 Moving is finished
+13.02 08:57:52 timed out
+13.02 08:57:53 Scanning 83 point from 270
+13.02 08:57:53 Going to coordinates X=-15.232, Y=-41.344
+13.02 08:57:53 Moving is finished
+13.02 08:58:01 timed out
+13.02 08:58:01 Scanning 84 point from 270
+13.02 08:58:01 Going to coordinates X=-15.132, Y=-41.344
+13.02 08:58:02 Moving is finished
+13.02 08:58:09 timed out
+13.02 08:58:10 Scanning 85 point from 270
+13.02 08:58:10 Going to coordinates X=-15.032, Y=-41.344
+13.02 08:58:10 Moving is finished
+13.02 08:58:18 timed out
+13.02 08:58:19 Scanning 86 point from 270
+13.02 08:58:19 Going to coordinates X=-14.932, Y=-41.344
+13.02 08:58:19 Moving is finished
+13.02 08:58:27 timed out
+13.02 08:58:28 Scanning 87 point from 270
+13.02 08:58:28 Going to coordinates X=-14.832, Y=-41.344
+13.02 08:58:28 Moving is finished
+13.02 08:58:36 timed out
+13.02 08:58:36 Scanning 88 point from 270
+13.02 08:58:36 Going to coordinates X=-14.732, Y=-41.344
+13.02 08:58:37 Moving is finished
+13.02 08:58:44 timed out
+13.02 08:58:45 Scanning 89 point from 270
+13.02 08:58:45 Going to coordinates X=-14.632, Y=-41.344
+13.02 08:58:45 Moving is finished
+13.02 08:58:53 timed out
+13.02 08:58:54 Scanning 90 point from 270
+13.02 08:58:54 Going to coordinates X=-16.332, Y=-41.244
+13.02 08:58:54 Moving is finished
+13.02 08:59:02 timed out
+13.02 08:59:02 Scanning 91 point from 270
+13.02 08:59:02 Going to coordinates X=-16.232, Y=-41.244
+13.02 08:59:03 Moving is finished
+13.02 08:59:10 timed out
+13.02 08:59:11 Scanning 92 point from 270
+13.02 08:59:11 Going to coordinates X=-16.132, Y=-41.244
+13.02 08:59:11 Moving is finished
+13.02 08:59:19 timed out
+13.02 08:59:19 Scanning 93 point from 270
+13.02 08:59:19 Going to coordinates X=-16.032, Y=-41.244
+13.02 08:59:19 Moving is finished
+13.02 08:59:27 timed out
+13.02 08:59:28 Scanning 94 point from 270
+13.02 08:59:28 Going to coordinates X=-15.932, Y=-41.244
+13.02 08:59:28 Moving is finished
+13.02 08:59:35 timed out
+13.02 08:59:36 Scanning 95 point from 270
+13.02 08:59:36 Going to coordinates X=-15.832, Y=-41.244
+13.02 08:59:36 Moving is finished
+13.02 08:59:44 timed out
+13.02 08:59:44 Scanning 96 point from 270
+13.02 08:59:44 Going to coordinates X=-15.732, Y=-41.244
+13.02 08:59:45 Moving is finished
+13.02 08:59:52 timed out
+13.02 08:59:53 Scanning 97 point from 270
+13.02 08:59:53 Going to coordinates X=-15.632, Y=-41.244
+13.02 08:59:53 Moving is finished
+13.02 09:00:02 timed out
+13.02 09:00:03 Scanning 98 point from 270
+13.02 09:00:03 Going to coordinates X=-15.532, Y=-41.244
+13.02 09:00:03 Moving is finished
+13.02 09:00:10 timed out
+13.02 09:00:11 Scanning 99 point from 270
+13.02 09:00:11 Going to coordinates X=-15.432, Y=-41.244
+13.02 09:00:11 Moving is finished
+13.02 09:00:18 timed out
+13.02 09:00:19 Scanning 100 point from 270
+13.02 09:00:19 Going to coordinates X=-15.332, Y=-41.244
+13.02 09:00:19 Moving is finished
+13.02 09:00:27 timed out
+13.02 09:00:27 Scanning 101 point from 270
+13.02 09:00:27 Going to coordinates X=-15.232, Y=-41.244
+13.02 09:00:28 Moving is finished
+13.02 09:00:35 timed out
+13.02 09:00:36 Scanning 102 point from 270
+13.02 09:00:36 Going to coordinates X=-15.132, Y=-41.244
+13.02 09:00:36 Moving is finished
+13.02 09:00:44 timed out
+13.02 09:00:45 Scanning 103 point from 270
+13.02 09:00:45 Going to coordinates X=-15.032, Y=-41.244
+13.02 09:00:45 Moving is finished
+13.02 09:00:53 timed out
+13.02 09:00:54 Scanning 104 point from 270
+13.02 09:00:54 Going to coordinates X=-14.932, Y=-41.244
+13.02 09:00:54 Moving is finished
+13.02 09:01:01 timed out
+13.02 09:01:02 Scanning 105 point from 270
+13.02 09:01:02 Going to coordinates X=-14.832, Y=-41.244
+13.02 09:01:02 Moving is finished
+13.02 09:01:10 timed out
+13.02 09:01:11 Scanning 106 point from 270
+13.02 09:01:11 Going to coordinates X=-14.732, Y=-41.244
+13.02 09:01:11 Moving is finished
+13.02 09:01:19 timed out
+13.02 09:01:20 Scanning 107 point from 270
+13.02 09:01:20 Going to coordinates X=-14.632, Y=-41.244
+13.02 09:01:20 Moving is finished
+13.02 09:01:28 timed out
+13.02 09:01:28 Scanning 108 point from 270
+13.02 09:01:28 Going to coordinates X=-16.332, Y=-41.144
+13.02 09:01:29 Moving is finished
+13.02 09:01:37 timed out
+13.02 09:01:38 Scanning 109 point from 270
+13.02 09:01:38 Going to coordinates X=-16.232, Y=-41.144
+13.02 09:01:38 Moving is finished
+13.02 09:01:46 timed out
+13.02 09:01:46 Scanning 110 point from 270
+13.02 09:01:46 Going to coordinates X=-16.132, Y=-41.144
+13.02 09:01:47 Moving is finished
+13.02 09:01:55 timed out
+13.02 09:01:56 Scanning 111 point from 270
+13.02 09:01:56 Going to coordinates X=-16.032, Y=-41.144
+13.02 09:01:56 Moving is finished
+13.02 09:02:05 timed out
+13.02 09:02:05 Scanning 112 point from 270
+13.02 09:02:05 Going to coordinates X=-15.932, Y=-41.144
+13.02 09:02:06 Moving is finished
+13.02 09:02:13 timed out
+13.02 09:02:14 Scanning 113 point from 270
+13.02 09:02:14 Going to coordinates X=-15.832, Y=-41.144
+13.02 09:02:14 Moving is finished
+13.02 09:02:22 timed out
+13.02 09:02:23 Scanning 114 point from 270
+13.02 09:02:23 Going to coordinates X=-15.732, Y=-41.144
+13.02 09:02:23 Moving is finished
+13.02 09:02:30 timed out
+13.02 09:02:31 Scanning 115 point from 270
+13.02 09:02:31 Going to coordinates X=-15.632, Y=-41.144
+13.02 09:02:31 Moving is finished
+13.02 09:02:39 timed out
+13.02 09:02:40 Scanning 116 point from 270
+13.02 09:02:40 Going to coordinates X=-15.532, Y=-41.144
+13.02 09:02:40 Moving is finished
+13.02 09:02:49 timed out
+13.02 09:02:50 Scanning 117 point from 270
+13.02 09:02:50 Going to coordinates X=-15.432, Y=-41.144
+13.02 09:02:50 Moving is finished
+13.02 09:02:57 timed out
+13.02 09:02:58 Scanning 118 point from 270
+13.02 09:02:58 Going to coordinates X=-15.332, Y=-41.144
+13.02 09:02:58 Moving is finished
+13.02 09:03:06 timed out
+13.02 09:03:07 Scanning 119 point from 270
+13.02 09:03:07 Going to coordinates X=-15.232, Y=-41.144
+13.02 09:03:07 Moving is finished
+13.02 09:03:15 timed out
+13.02 09:03:16 Scanning 120 point from 270
+13.02 09:03:16 Going to coordinates X=-15.132, Y=-41.144
+13.02 09:03:16 Moving is finished
+13.02 09:03:24 timed out
+13.02 09:03:24 Scanning 121 point from 270
+13.02 09:03:24 Going to coordinates X=-15.032, Y=-41.144
+13.02 09:03:25 Moving is finished
+13.02 09:03:33 timed out
+13.02 09:03:33 Scanning 122 point from 270
+13.02 09:03:33 Going to coordinates X=-14.932, Y=-41.144
+13.02 09:03:34 Moving is finished
+13.02 09:03:42 timed out
+13.02 09:03:43 Scanning 123 point from 270
+13.02 09:03:43 Going to coordinates X=-14.832, Y=-41.144
+13.02 09:03:43 Moving is finished
+13.02 09:03:50 timed out
+13.02 09:03:51 Scanning 124 point from 270
+13.02 09:03:51 Going to coordinates X=-14.732, Y=-41.144
+13.02 09:03:51 Moving is finished
+13.02 09:03:59 timed out
+13.02 09:04:00 Scanning 125 point from 270
+13.02 09:04:00 Going to coordinates X=-14.632, Y=-41.144
+13.02 09:04:00 Moving is finished
+13.02 09:04:08 timed out
+13.02 09:04:08 Scanning 126 point from 270
+13.02 09:04:08 Going to coordinates X=-16.332, Y=-41.044
+13.02 09:04:09 Moving is finished
+13.02 09:04:17 timed out
+13.02 09:04:18 Scanning 127 point from 270
+13.02 09:04:18 Going to coordinates X=-16.232, Y=-41.044
+13.02 09:04:18 Moving is finished
+13.02 09:04:26 timed out
+13.02 09:04:26 Scanning 128 point from 270
+13.02 09:04:26 Going to coordinates X=-16.132, Y=-41.044
+13.02 09:04:26 Moving is finished
+13.02 09:04:34 timed out
+13.02 09:04:34 Scanning 129 point from 270
+13.02 09:04:34 Going to coordinates X=-16.032, Y=-41.044
+13.02 09:04:35 Moving is finished
+13.02 09:04:42 timed out
+13.02 09:04:43 Scanning 130 point from 270
+13.02 09:04:43 Going to coordinates X=-15.932, Y=-41.044
+13.02 09:04:43 Moving is finished
+13.02 09:04:50 timed out
+13.02 09:04:51 Scanning 131 point from 270
+13.02 09:04:51 Going to coordinates X=-15.832, Y=-41.044
+13.02 09:04:51 Moving is finished
+13.02 09:04:58 timed out
+13.02 09:04:59 Scanning 132 point from 270
+13.02 09:04:59 Going to coordinates X=-15.732, Y=-41.044
+13.02 09:04:59 Moving is finished
+13.02 09:05:07 timed out
+13.02 09:05:07 Scanning 133 point from 270
+13.02 09:05:07 Going to coordinates X=-15.632, Y=-41.044
+13.02 09:05:08 Moving is finished
+13.02 09:05:16 timed out
+13.02 09:05:17 Scanning 134 point from 270
+13.02 09:05:17 Going to coordinates X=-15.532, Y=-41.044
+13.02 09:05:17 Moving is finished
+13.02 09:05:24 timed out
+13.02 09:05:25 Scanning 135 point from 270
+13.02 09:05:25 Going to coordinates X=-15.432, Y=-41.044
+13.02 09:05:25 Moving is finished
+13.02 09:05:34 timed out
+13.02 09:05:34 Scanning 136 point from 270
+13.02 09:05:34 Going to coordinates X=-15.332, Y=-41.044
+13.02 09:05:35 Moving is finished
+13.02 09:05:43 timed out
+13.02 09:05:43 Scanning 137 point from 270
+13.02 09:05:43 Going to coordinates X=-15.232, Y=-41.044
+13.02 09:05:44 Moving is finished
+13.02 09:05:51 timed out
+13.02 09:05:52 Scanning 138 point from 270
+13.02 09:05:52 Going to coordinates X=-15.132, Y=-41.044
+13.02 09:05:52 Moving is finished
+13.02 09:06:00 timed out
+13.02 09:06:00 Scanning 139 point from 270
+13.02 09:06:00 Going to coordinates X=-15.032, Y=-41.044
+13.02 09:06:01 Moving is finished
+13.02 09:06:08 timed out
+13.02 09:06:09 Scanning 140 point from 270
+13.02 09:06:09 Going to coordinates X=-14.932, Y=-41.044
+13.02 09:06:09 Moving is finished
+13.02 09:06:17 timed out
+13.02 09:06:18 Scanning 141 point from 270
+13.02 09:06:18 Going to coordinates X=-14.832, Y=-41.044
+13.02 09:06:18 Moving is finished
+13.02 09:06:26 timed out
+13.02 09:06:26 Scanning 142 point from 270
+13.02 09:06:26 Going to coordinates X=-14.732, Y=-41.044
+13.02 09:06:27 Moving is finished
+13.02 09:06:34 timed out
+13.02 09:06:35 Scanning 143 point from 270
+13.02 09:06:35 Going to coordinates X=-14.632, Y=-41.044
+13.02 09:06:35 Moving is finished
+13.02 09:06:42 timed out
+13.02 09:06:43 Scanning 144 point from 270
+13.02 09:06:43 Going to coordinates X=-16.332, Y=-40.944
+13.02 09:06:44 Moving is finished
+13.02 09:06:51 timed out
+13.02 09:06:51 Scanning 145 point from 270
+13.02 09:06:51 Going to coordinates X=-16.232, Y=-40.944
+13.02 09:06:52 Moving is finished
+13.02 09:06:59 timed out
+13.02 09:07:00 Scanning 146 point from 270
+13.02 09:07:00 Going to coordinates X=-16.132, Y=-40.944
+13.02 09:07:00 Moving is finished
+13.02 09:07:07 timed out
+13.02 09:07:08 Scanning 147 point from 270
+13.02 09:07:08 Going to coordinates X=-16.032, Y=-40.944
+13.02 09:07:08 Moving is finished
+13.02 09:07:15 timed out
+13.02 09:07:16 Scanning 148 point from 270
+13.02 09:07:16 Going to coordinates X=-15.932, Y=-40.944
+13.02 09:07:16 Moving is finished
+13.02 09:07:24 timed out
+13.02 09:07:24 Scanning 149 point from 270
+13.02 09:07:24 Going to coordinates X=-15.832, Y=-40.944
+13.02 09:07:25 Moving is finished
+13.02 09:07:32 timed out
+13.02 09:07:32 Scanning 150 point from 270
+13.02 09:07:32 Going to coordinates X=-15.732, Y=-40.944
+13.02 09:07:33 Moving is finished
+13.02 09:07:40 timed out
+13.02 09:07:40 Scanning 151 point from 270
+13.02 09:07:40 Going to coordinates X=-15.632, Y=-40.944
+13.02 09:07:41 Moving is finished
+13.02 09:07:48 timed out
+13.02 09:07:49 Scanning 152 point from 270
+13.02 09:07:49 Going to coordinates X=-15.532, Y=-40.944
+13.02 09:07:49 Moving is finished
+13.02 09:07:56 timed out
+13.02 09:07:57 Scanning 153 point from 270
+13.02 09:07:57 Going to coordinates X=-15.432, Y=-40.944
+13.02 09:07:57 Moving is finished
+13.02 09:08:05 timed out
+13.02 09:08:05 Scanning 154 point from 270
+13.02 09:08:05 Going to coordinates X=-15.332, Y=-40.944
+13.02 09:08:06 Moving is finished
+13.02 09:08:13 timed out
+13.02 09:08:14 Scanning 155 point from 270
+13.02 09:08:14 Going to coordinates X=-15.232, Y=-40.944
+13.02 09:08:14 Moving is finished
+13.02 09:08:22 timed out
+13.02 09:08:22 Scanning 156 point from 270
+13.02 09:08:22 Going to coordinates X=-15.132, Y=-40.944
+13.02 09:08:23 Moving is finished
+13.02 09:08:30 timed out
+13.02 09:08:31 Scanning 157 point from 270
+13.02 09:08:31 Going to coordinates X=-15.032, Y=-40.944
+13.02 09:08:31 Moving is finished
+13.02 09:08:40 timed out
+13.02 09:08:40 Scanning 158 point from 270
+13.02 09:08:40 Going to coordinates X=-14.932, Y=-40.944
+13.02 09:08:41 Moving is finished
+13.02 09:08:49 timed out
+13.02 09:08:49 Scanning 159 point from 270
+13.02 09:08:49 Going to coordinates X=-14.832, Y=-40.944
+13.02 09:08:50 Moving is finished
+13.02 09:08:58 timed out
+13.02 09:08:58 Scanning 160 point from 270
+13.02 09:08:58 Going to coordinates X=-14.732, Y=-40.944
+13.02 09:08:58 Moving is finished
+13.02 09:09:05 timed out
+13.02 09:09:06 Scanning 161 point from 270
+13.02 09:09:06 Going to coordinates X=-14.632, Y=-40.944
+13.02 09:09:06 Moving is finished
+13.02 09:09:14 timed out
+13.02 09:09:15 Scanning 162 point from 270
+13.02 09:09:15 Going to coordinates X=-16.332, Y=-40.844
+13.02 09:09:16 Moving is finished
+13.02 09:09:25 timed out
+13.02 09:09:25 Scanning 163 point from 270
+13.02 09:09:25 Going to coordinates X=-16.232, Y=-40.844
+13.02 09:09:26 Moving is finished
+13.02 09:09:33 timed out
+13.02 09:09:34 Scanning 164 point from 270
+13.02 09:09:34 Going to coordinates X=-16.132, Y=-40.844
+13.02 09:09:34 Moving is finished
+13.02 09:09:41 timed out
+13.02 09:09:42 Scanning 165 point from 270
+13.02 09:09:42 Going to coordinates X=-16.032, Y=-40.844
+13.02 09:09:42 Moving is finished
+13.02 09:09:49 timed out
+13.02 09:09:50 Scanning 166 point from 270
+13.02 09:09:50 Going to coordinates X=-15.932, Y=-40.844
+13.02 09:09:50 Moving is finished
+13.02 09:09:58 timed out
+13.02 09:09:59 Scanning 167 point from 270
+13.02 09:09:59 Going to coordinates X=-15.832, Y=-40.844
+13.02 09:09:59 Moving is finished
+13.02 09:10:08 timed out
+13.02 09:10:08 Scanning 168 point from 270
+13.02 09:10:08 Going to coordinates X=-15.732, Y=-40.844
+13.02 09:10:09 Moving is finished
+13.02 09:10:16 timed out
+13.02 09:10:16 Scanning 169 point from 270
+13.02 09:10:16 Going to coordinates X=-15.632, Y=-40.844
+13.02 09:10:17 Moving is finished
+13.02 09:10:24 timed out
+13.02 09:10:25 Scanning 170 point from 270
+13.02 09:10:25 Going to coordinates X=-15.532, Y=-40.844
+13.02 09:10:25 Moving is finished
+13.02 09:10:32 timed out
+13.02 09:10:33 Scanning 171 point from 270
+13.02 09:10:33 Going to coordinates X=-15.432, Y=-40.844
+13.02 09:10:33 Moving is finished
+13.02 09:10:41 timed out
+13.02 09:10:42 Scanning 172 point from 270
+13.02 09:10:42 Going to coordinates X=-15.332, Y=-40.844
+13.02 09:10:42 Moving is finished
+13.02 09:10:50 timed out
+13.02 09:10:50 Scanning 173 point from 270
+13.02 09:10:50 Going to coordinates X=-15.232, Y=-40.844
+13.02 09:10:51 Moving is finished
+13.02 09:10:59 timed out
+13.02 09:10:59 Scanning 174 point from 270
+13.02 09:10:59 Going to coordinates X=-15.132, Y=-40.844
+13.02 09:11:00 Moving is finished
+13.02 09:11:07 timed out
+13.02 09:11:08 Scanning 175 point from 270
+13.02 09:11:08 Going to coordinates X=-15.032, Y=-40.844
+13.02 09:11:08 Moving is finished
+13.02 09:11:15 timed out
+13.02 09:11:16 Scanning 176 point from 270
+13.02 09:11:16 Going to coordinates X=-14.932, Y=-40.844
+13.02 09:11:16 Moving is finished
+13.02 09:11:23 timed out
+13.02 09:11:24 Scanning 177 point from 270
+13.02 09:11:24 Going to coordinates X=-14.832, Y=-40.844
+13.02 09:11:24 Moving is finished
+13.02 09:11:33 timed out
+13.02 09:11:33 Scanning 178 point from 270
+13.02 09:11:33 Going to coordinates X=-14.732, Y=-40.844
+13.02 09:11:34 Moving is finished
+13.02 09:11:42 timed out
+13.02 09:11:43 Scanning 179 point from 270
+13.02 09:11:43 Going to coordinates X=-14.632, Y=-40.844
+13.02 09:11:43 Moving is finished
+13.02 09:11:51 timed out
+13.02 09:11:52 Scanning 180 point from 270
+13.02 09:11:52 Going to coordinates X=-16.332, Y=-40.744
+13.02 09:11:53 Moving is finished
+13.02 09:12:01 timed out
+13.02 09:12:01 Scanning 181 point from 270
+13.02 09:12:01 Going to coordinates X=-16.232, Y=-40.744
+13.02 09:12:02 Moving is finished
+13.02 09:12:09 timed out
+13.02 09:12:10 Scanning 182 point from 270
+13.02 09:12:10 Going to coordinates X=-16.132, Y=-40.744
+13.02 09:12:10 Moving is finished
+13.02 09:12:17 timed out
+13.02 09:12:18 Scanning 183 point from 270
+13.02 09:12:18 Going to coordinates X=-16.032, Y=-40.744
+13.02 09:12:18 Moving is finished
+13.02 09:12:25 timed out
+13.02 09:12:26 Scanning 184 point from 270
+13.02 09:12:26 Going to coordinates X=-15.932, Y=-40.744
+13.02 09:12:26 Moving is finished
+13.02 09:12:33 timed out
+13.02 09:12:34 Scanning 185 point from 270
+13.02 09:12:34 Going to coordinates X=-15.832, Y=-40.744
+13.02 09:12:34 Moving is finished
+13.02 09:12:42 timed out
+13.02 09:12:43 Scanning 186 point from 270
+13.02 09:12:43 Going to coordinates X=-15.732, Y=-40.744
+13.02 09:12:43 Moving is finished
+13.02 09:12:51 timed out
+13.02 09:12:52 Scanning 187 point from 270
+13.02 09:12:52 Going to coordinates X=-15.632, Y=-40.744
+13.02 09:12:52 Moving is finished
+13.02 09:13:00 timed out
+13.02 09:13:01 Scanning 188 point from 270
+13.02 09:13:01 Going to coordinates X=-15.532, Y=-40.744
+13.02 09:13:01 Moving is finished
+13.02 09:13:09 timed out
+13.02 09:13:09 Scanning 189 point from 270
+13.02 09:13:09 Going to coordinates X=-15.432, Y=-40.744
+13.02 09:13:10 Moving is finished
+13.02 09:13:17 timed out
+13.02 09:13:17 Scanning 190 point from 270
+13.02 09:13:17 Going to coordinates X=-15.332, Y=-40.744
+13.02 09:13:18 Moving is finished
+13.02 09:13:25 timed out
+13.02 09:13:26 Scanning 191 point from 270
+13.02 09:13:26 Going to coordinates X=-15.232, Y=-40.744
+13.02 09:13:26 Moving is finished
+13.02 09:13:34 timed out
+13.02 09:13:34 Scanning 192 point from 270
+13.02 09:13:34 Going to coordinates X=-15.132, Y=-40.744
+13.02 09:13:35 Moving is finished
+13.02 09:13:43 timed out
+13.02 09:13:43 Scanning 193 point from 270
+13.02 09:13:43 Going to coordinates X=-15.032, Y=-40.744
+13.02 09:13:43 Moving is finished
+13.02 09:13:52 timed out
+13.02 09:13:52 Scanning 194 point from 270
+13.02 09:13:52 Going to coordinates X=-14.932, Y=-40.744
+13.02 09:13:53 Moving is finished
+13.02 09:14:00 timed out
+13.02 09:14:01 Scanning 195 point from 270
+13.02 09:14:01 Going to coordinates X=-14.832, Y=-40.744
+13.02 09:14:01 Moving is finished
+13.02 09:14:08 timed out
+13.02 09:14:09 Scanning 196 point from 270
+13.02 09:14:09 Going to coordinates X=-14.732, Y=-40.744
+13.02 09:14:09 Moving is finished
+13.02 09:14:17 timed out
+13.02 09:14:18 Scanning 197 point from 270
+13.02 09:14:18 Going to coordinates X=-14.632, Y=-40.744
+13.02 09:14:18 Moving is finished
+13.02 09:14:26 timed out
+13.02 09:14:26 Scanning 198 point from 270
+13.02 09:14:26 Going to coordinates X=-16.332, Y=-40.644
+13.02 09:14:27 Moving is finished
+13.02 09:14:35 timed out
+13.02 09:14:36 Scanning 199 point from 270
+13.02 09:14:36 Going to coordinates X=-16.232, Y=-40.644
+13.02 09:14:36 Moving is finished
+13.02 09:14:44 timed out
+13.02 09:14:45 Scanning 200 point from 270
+13.02 09:14:45 Going to coordinates X=-16.132, Y=-40.644
+13.02 09:14:45 Moving is finished
+13.02 09:14:52 timed out
+13.02 09:14:53 Scanning 201 point from 270
+13.02 09:14:53 Going to coordinates X=-16.032, Y=-40.644
+13.02 09:14:53 Moving is finished
+13.02 09:15:01 timed out
+13.02 09:15:01 Scanning 202 point from 270
+13.02 09:15:01 Going to coordinates X=-15.932, Y=-40.644
+13.02 09:15:02 Moving is finished
+13.02 09:15:09 timed out
+13.02 09:15:10 Scanning 203 point from 270
+13.02 09:15:10 Going to coordinates X=-15.832, Y=-40.644
+13.02 09:15:10 Moving is finished
+13.02 09:15:17 timed out
+13.02 09:15:18 Scanning 204 point from 270
+13.02 09:15:18 Going to coordinates X=-15.732, Y=-40.644
+13.02 09:15:18 Moving is finished
+13.02 09:15:26 timed out
+13.02 09:15:27 Scanning 205 point from 270
+13.02 09:15:27 Going to coordinates X=-15.632, Y=-40.644
+13.02 09:15:27 Moving is finished
+13.02 09:15:35 timed out
+13.02 09:15:35 Scanning 206 point from 270
+13.02 09:15:35 Going to coordinates X=-15.532, Y=-40.644
+13.02 09:15:36 Moving is finished
+13.02 09:15:43 timed out
+13.02 09:15:44 Scanning 207 point from 270
+13.02 09:15:44 Going to coordinates X=-15.432, Y=-40.644
+13.02 09:15:44 Moving is finished
+13.02 09:15:52 timed out
+13.02 09:15:53 Scanning 208 point from 270
+13.02 09:15:53 Going to coordinates X=-15.332, Y=-40.644
+13.02 09:15:53 Moving is finished
+13.02 09:16:01 timed out
+13.02 09:16:01 Scanning 209 point from 270
+13.02 09:16:01 Going to coordinates X=-15.232, Y=-40.644
+13.02 09:16:02 Moving is finished
+13.02 09:16:09 timed out
+13.02 09:16:10 Scanning 210 point from 270
+13.02 09:16:10 Going to coordinates X=-15.132, Y=-40.644
+13.02 09:16:10 Moving is finished
+13.02 09:16:18 timed out
+13.02 09:16:18 Scanning 211 point from 270
+13.02 09:16:18 Going to coordinates X=-15.032, Y=-40.644
+13.02 09:16:19 Moving is finished
+13.02 09:16:26 timed out
+13.02 09:16:27 Scanning 212 point from 270
+13.02 09:16:27 Going to coordinates X=-14.932, Y=-40.644
+13.02 09:16:27 Moving is finished
+13.02 09:16:34 timed out
+13.02 09:16:35 Scanning 213 point from 270
+13.02 09:16:35 Going to coordinates X=-14.832, Y=-40.644
+13.02 09:16:35 Moving is finished
+13.02 09:16:43 timed out
+13.02 09:16:44 Scanning 214 point from 270
+13.02 09:16:44 Going to coordinates X=-14.732, Y=-40.644
+13.02 09:16:44 Moving is finished
+13.02 09:16:52 timed out
+13.02 09:16:53 Scanning 215 point from 270
+13.02 09:16:53 Going to coordinates X=-14.632, Y=-40.644
+13.02 09:16:53 Moving is finished
+13.02 09:17:01 timed out
+13.02 09:17:01 Scanning 216 point from 270
+13.02 09:17:01 Going to coordinates X=-16.332, Y=-40.544
+13.02 09:17:02 Moving is finished
+13.02 09:17:11 timed out
+13.02 09:17:12 Scanning 217 point from 270
+13.02 09:17:12 Going to coordinates X=-16.232, Y=-40.544
+13.02 09:17:12 Moving is finished
+13.02 09:17:20 timed out
+13.02 09:17:21 Scanning 218 point from 270
+13.02 09:17:21 Going to coordinates X=-16.132, Y=-40.544
+13.02 09:17:21 Moving is finished
+13.02 09:17:28 timed out
+13.02 09:17:29 Scanning 219 point from 270
+13.02 09:17:29 Going to coordinates X=-16.032, Y=-40.544
+13.02 09:17:29 Moving is finished
+13.02 09:17:37 timed out
+13.02 09:17:37 Scanning 220 point from 270
+13.02 09:17:37 Going to coordinates X=-15.932, Y=-40.544
+13.02 09:17:38 Moving is finished
+13.02 09:17:46 timed out
+13.02 09:17:47 Scanning 221 point from 270
+13.02 09:17:47 Going to coordinates X=-15.832, Y=-40.544
+13.02 09:17:47 Moving is finished
+13.02 09:17:55 timed out
+13.02 09:17:55 Scanning 222 point from 270
+13.02 09:17:55 Going to coordinates X=-15.732, Y=-40.544
+13.02 09:17:56 Moving is finished
+13.02 09:18:03 timed out
+13.02 09:18:04 Scanning 223 point from 270
+13.02 09:18:04 Going to coordinates X=-15.632, Y=-40.544
+13.02 09:18:04 Moving is finished
+13.02 09:18:12 timed out
+13.02 09:18:13 Scanning 224 point from 270
+13.02 09:18:13 Going to coordinates X=-15.532, Y=-40.544
+13.02 09:18:13 Moving is finished
+13.02 09:18:21 timed out
+13.02 09:18:22 Scanning 225 point from 270
+13.02 09:18:22 Going to coordinates X=-15.432, Y=-40.544
+13.02 09:18:22 Moving is finished
+13.02 09:18:31 timed out
+13.02 09:18:31 Scanning 226 point from 270
+13.02 09:18:31 Going to coordinates X=-15.332, Y=-40.544
+13.02 09:18:32 Moving is finished
+13.02 09:18:40 timed out
+13.02 09:18:41 Scanning 227 point from 270
+13.02 09:18:41 Going to coordinates X=-15.232, Y=-40.544
+13.02 09:18:41 Moving is finished
+13.02 09:18:49 timed out
+13.02 09:18:49 Scanning 228 point from 270
+13.02 09:18:49 Going to coordinates X=-15.132, Y=-40.544
+13.02 09:18:50 Moving is finished
+13.02 09:18:58 timed out
+13.02 09:18:58 Scanning 229 point from 270
+13.02 09:18:58 Going to coordinates X=-15.032, Y=-40.544
+13.02 09:18:59 Moving is finished
+13.02 09:19:06 timed out
+13.02 09:19:07 Scanning 230 point from 270
+13.02 09:19:07 Going to coordinates X=-14.932, Y=-40.544
+13.02 09:19:07 Moving is finished
+13.02 09:19:15 timed out
+13.02 09:19:16 Scanning 231 point from 270
+13.02 09:19:16 Going to coordinates X=-14.832, Y=-40.544
+13.02 09:19:16 Moving is finished
+13.02 09:19:23 timed out
+13.02 09:19:24 Scanning 232 point from 270
+13.02 09:19:24 Going to coordinates X=-14.732, Y=-40.544
+13.02 09:19:24 Moving is finished
+13.02 09:19:32 timed out
+13.02 09:19:32 Scanning 233 point from 270
+13.02 09:19:32 Going to coordinates X=-14.632, Y=-40.544
+13.02 09:19:33 Moving is finished
+13.02 09:19:40 timed out
+13.02 09:19:41 Scanning 234 point from 270
+13.02 09:19:41 Going to coordinates X=-16.332, Y=-40.444
+13.02 09:19:42 Moving is finished
+13.02 09:19:49 timed out
+13.02 09:19:50 Scanning 235 point from 270
+13.02 09:19:50 Going to coordinates X=-16.232, Y=-40.444
+13.02 09:19:50 Moving is finished
+13.02 09:19:58 timed out
+13.02 09:19:59 Scanning 236 point from 270
+13.02 09:19:59 Going to coordinates X=-16.132, Y=-40.444
+13.02 09:19:59 Moving is finished
+13.02 09:20:07 timed out
+13.02 09:20:08 Scanning 237 point from 270
+13.02 09:20:08 Going to coordinates X=-16.032, Y=-40.444
+13.02 09:20:08 Moving is finished
+13.02 09:20:16 timed out
+13.02 09:20:16 Scanning 238 point from 270
+13.02 09:20:16 Going to coordinates X=-15.932, Y=-40.444
+13.02 09:20:16 Moving is finished
+13.02 09:20:24 timed out
+13.02 09:20:25 Scanning 239 point from 270
+13.02 09:20:25 Going to coordinates X=-15.832, Y=-40.444
+13.02 09:20:25 Moving is finished
+13.02 09:20:33 timed out
+13.02 09:20:34 Scanning 240 point from 270
+13.02 09:20:34 Going to coordinates X=-15.732, Y=-40.444
+13.02 09:20:34 Moving is finished
+13.02 09:20:42 timed out
+13.02 09:20:42 Scanning 241 point from 270
+13.02 09:20:42 Going to coordinates X=-15.632, Y=-40.444
+13.02 09:20:43 Moving is finished
+13.02 09:20:51 timed out
+13.02 09:20:51 Scanning 242 point from 270
+13.02 09:20:51 Going to coordinates X=-15.532, Y=-40.444
+13.02 09:20:52 Moving is finished
+13.02 09:21:00 timed out
+13.02 09:21:01 Scanning 243 point from 270
+13.02 09:21:01 Going to coordinates X=-15.432, Y=-40.444
+13.02 09:21:01 Moving is finished
+13.02 09:21:08 timed out
+13.02 09:21:09 Scanning 244 point from 270
+13.02 09:21:09 Going to coordinates X=-15.332, Y=-40.444
+13.02 09:21:09 Moving is finished
+13.02 09:21:17 timed out
+13.02 09:21:18 Scanning 245 point from 270
+13.02 09:21:18 Going to coordinates X=-15.232, Y=-40.444
+13.02 09:21:18 Moving is finished
+13.02 09:21:25 timed out
+13.02 09:21:26 Scanning 246 point from 270
+13.02 09:21:26 Going to coordinates X=-15.132, Y=-40.444
+13.02 09:21:26 Moving is finished
+13.02 09:21:35 timed out
+13.02 09:21:36 Scanning 247 point from 270
+13.02 09:21:36 Going to coordinates X=-15.032, Y=-40.444
+13.02 09:21:36 Moving is finished
+13.02 09:21:44 timed out
+13.02 09:21:45 Scanning 248 point from 270
+13.02 09:21:45 Going to coordinates X=-14.932, Y=-40.444
+13.02 09:21:45 Moving is finished
+13.02 09:21:53 timed out
+13.02 09:21:54 Scanning 249 point from 270
+13.02 09:21:54 Going to coordinates X=-14.832, Y=-40.444
+13.02 09:21:54 Moving is finished
+13.02 09:22:03 timed out
+13.02 09:22:03 Scanning 250 point from 270
+13.02 09:22:03 Going to coordinates X=-14.732, Y=-40.444
+13.02 09:22:04 Moving is finished
+13.02 09:22:11 timed out
+13.02 09:22:12 Scanning 251 point from 270
+13.02 09:22:12 Going to coordinates X=-14.632, Y=-40.444
+13.02 09:22:12 Moving is finished
+13.02 09:22:20 timed out
+13.02 09:22:20 Scanning 252 point from 270
+13.02 09:22:20 Going to coordinates X=-16.332, Y=-40.344
+13.02 09:22:21 Moving is finished
+13.02 09:22:29 timed out
+13.02 09:22:29 Scanning 253 point from 270
+13.02 09:22:29 Going to coordinates X=-16.232, Y=-40.344
+13.02 09:22:30 Moving is finished
+13.02 09:22:37 timed out
+13.02 09:22:38 Scanning 254 point from 270
+13.02 09:22:38 Going to coordinates X=-16.132, Y=-40.344
+13.02 09:22:38 Moving is finished
+13.02 09:22:46 timed out
+13.02 09:22:47 Scanning 255 point from 270
+13.02 09:22:47 Going to coordinates X=-16.032, Y=-40.344
+13.02 09:22:47 Moving is finished
+13.02 09:22:55 timed out
+13.02 09:22:56 Scanning 256 point from 270
+13.02 09:22:56 Going to coordinates X=-15.932, Y=-40.344
+13.02 09:22:56 Moving is finished
+13.02 09:23:04 timed out
+13.02 09:23:05 Scanning 257 point from 270
+13.02 09:23:05 Going to coordinates X=-15.832, Y=-40.344
+13.02 09:23:05 Moving is finished
+13.02 09:23:14 timed out
+13.02 09:23:14 Scanning 258 point from 270
+13.02 09:23:14 Going to coordinates X=-15.732, Y=-40.344
+13.02 09:23:15 Moving is finished
+13.02 09:23:23 timed out
+13.02 09:23:24 Scanning 259 point from 270
+13.02 09:23:24 Going to coordinates X=-15.632, Y=-40.344
+13.02 09:23:24 Moving is finished
+13.02 09:23:32 timed out
+13.02 09:23:33 Scanning 260 point from 270
+13.02 09:23:33 Going to coordinates X=-15.532, Y=-40.344
+13.02 09:23:33 Moving is finished
+13.02 09:23:41 timed out
+13.02 09:23:41 Scanning 261 point from 270
+13.02 09:23:41 Going to coordinates X=-15.432, Y=-40.344
+13.02 09:23:42 Moving is finished
+13.02 09:23:50 timed out
+13.02 09:23:50 Scanning 262 point from 270
+13.02 09:23:50 Going to coordinates X=-15.332, Y=-40.344
+13.02 09:23:51 Moving is finished
+13.02 09:23:59 timed out
+13.02 09:23:59 Scanning 263 point from 270
+13.02 09:23:59 Going to coordinates X=-15.232, Y=-40.344
+13.02 09:24:00 Moving is finished
+13.02 09:24:07 timed out
+13.02 09:24:08 Scanning 264 point from 270
+13.02 09:24:08 Going to coordinates X=-15.132, Y=-40.344
+13.02 09:24:08 Moving is finished
+13.02 09:24:16 timed out
+13.02 09:24:17 Scanning 265 point from 270
+13.02 09:24:17 Going to coordinates X=-15.032, Y=-40.344
+13.02 09:24:17 Moving is finished
+13.02 09:24:24 timed out
+13.02 09:24:25 Scanning 266 point from 270
+13.02 09:24:25 Going to coordinates X=-14.932, Y=-40.344
+13.02 09:24:25 Moving is finished
+13.02 09:24:33 timed out
+13.02 09:24:34 Scanning 267 point from 270
+13.02 09:24:34 Going to coordinates X=-14.832, Y=-40.344
+13.02 09:24:34 Moving is finished
+13.02 09:24:42 timed out
+13.02 09:24:43 Scanning 268 point from 270
+13.02 09:24:43 Going to coordinates X=-14.732, Y=-40.344
+13.02 09:24:43 Moving is finished
+13.02 09:24:50 timed out
+13.02 09:24:51 Scanning 269 point from 270
+13.02 09:24:51 Going to coordinates X=-14.632, Y=-40.344
+13.02 09:24:51 Moving is finished
+13.02 09:24:59 timed out
+13.02 09:30:00 Row 0: 13.02 09:30:00 Map: x1: -16.332, y1: -40.359, x2: -14.649, y2: -41.744, xres: 0.100, yres: 0.100, fname: M3-6
+13.02 09:30:00 Scanning 0 point from 270
+13.02 09:30:00 Going to coordinates X=-16.332, Y=-41.744
+13.02 09:30:01 Moving is finished
+13.02 09:31:46 Scanning 1 point from 270
+13.02 09:31:46 Going to coordinates X=-16.232, Y=-41.744
+13.02 09:31:46 Moving is finished
+13.02 09:33:30 Scanning 2 point from 270
+13.02 09:33:30 Going to coordinates X=-16.132, Y=-41.744
+13.02 09:33:31 Moving is finished
+13.02 09:35:15 Scanning 3 point from 270
+13.02 09:35:15 Going to coordinates X=-16.032, Y=-41.744
+13.02 09:35:16 Moving is finished
+13.02 09:37:00 Scanning 4 point from 270
+13.02 09:37:00 Going to coordinates X=-15.932, Y=-41.744
+13.02 09:37:00 Moving is finished
+13.02 09:38:45 Scanning 5 point from 270
+13.02 09:38:45 Going to coordinates X=-15.832, Y=-41.744
+13.02 09:38:45 Moving is finished
+13.02 09:40:30 Scanning 6 point from 270
+13.02 09:40:30 Going to coordinates X=-15.732, Y=-41.744
+13.02 09:40:30 Moving is finished
+13.02 09:42:15 Scanning 7 point from 270
+13.02 09:42:15 Going to coordinates X=-15.632, Y=-41.744
+13.02 09:42:15 Moving is finished
+13.02 09:44:00 Scanning 8 point from 270
+13.02 09:44:00 Going to coordinates X=-15.532, Y=-41.744
+13.02 09:44:00 Moving is finished
+13.02 09:45:44 Scanning 9 point from 270
+13.02 09:45:44 Going to coordinates X=-15.432, Y=-41.744
+13.02 09:45:45 Moving is finished
+13.02 09:47:29 Scanning 10 point from 270
+13.02 09:47:29 Going to coordinates X=-15.332, Y=-41.744
+13.02 09:47:30 Moving is finished
+13.02 09:49:14 Scanning 11 point from 270
+13.02 09:49:14 Going to coordinates X=-15.232, Y=-41.744
+13.02 09:49:14 Moving is finished
+13.02 09:50:59 Scanning 12 point from 270
+13.02 09:50:59 Going to coordinates X=-15.132, Y=-41.744
+13.02 09:50:59 Moving is finished
+13.02 09:52:44 Scanning 13 point from 270
+13.02 09:52:44 Going to coordinates X=-15.032, Y=-41.744
+13.02 09:52:44 Moving is finished
+13.02 09:54:29 Scanning 14 point from 270
+13.02 09:54:29 Going to coordinates X=-14.932, Y=-41.744
+13.02 09:54:29 Moving is finished
+13.02 09:56:14 Scanning 15 point from 270
+13.02 09:56:14 Going to coordinates X=-14.832, Y=-41.744
+13.02 09:56:15 Moving is finished
+13.02 09:57:59 Scanning 16 point from 270
+13.02 09:57:59 Going to coordinates X=-14.732, Y=-41.744
+13.02 09:57:59 Moving is finished
+13.02 09:59:44 Scanning 17 point from 270
+13.02 09:59:44 Going to coordinates X=-14.632, Y=-41.744
+13.02 09:59:44 Moving is finished
+13.02 10:01:29 Scanning 18 point from 270
+13.02 10:01:29 Going to coordinates X=-16.332, Y=-41.644
+13.02 10:01:30 Moving is finished
+13.02 10:03:15 Scanning 19 point from 270
+13.02 10:03:15 Going to coordinates X=-16.232, Y=-41.644
+13.02 10:03:16 Moving is finished
+13.02 10:05:00 Scanning 20 point from 270
+13.02 10:05:00 Going to coordinates X=-16.132, Y=-41.644
+13.02 10:05:01 Moving is finished
+13.02 10:06:46 Scanning 21 point from 270
+13.02 10:06:46 Going to coordinates X=-16.032, Y=-41.644
+13.02 10:06:46 Moving is finished
+13.02 10:08:31 Scanning 22 point from 270
+13.02 10:08:31 Going to coordinates X=-15.932, Y=-41.644
+13.02 10:08:32 Moving is finished
+13.02 10:10:16 Scanning 23 point from 270
+13.02 10:10:16 Going to coordinates X=-15.832, Y=-41.644
+13.02 10:10:17 Moving is finished
+13.02 10:12:01 Scanning 24 point from 270
+13.02 10:12:01 Going to coordinates X=-15.732, Y=-41.644
+13.02 10:12:02 Moving is finished
+13.02 10:13:46 Scanning 25 point from 270
+13.02 10:13:46 Going to coordinates X=-15.632, Y=-41.644
+13.02 10:13:46 Moving is finished
+13.02 10:15:31 Scanning 26 point from 270
+13.02 10:15:31 Going to coordinates X=-15.532, Y=-41.644
+13.02 10:15:32 Moving is finished
+13.02 10:17:17 Scanning 27 point from 270
+13.02 10:17:17 Going to coordinates X=-15.432, Y=-41.644
+13.02 10:17:17 Moving is finished
+13.02 10:19:02 Scanning 28 point from 270
+13.02 10:19:02 Going to coordinates X=-15.332, Y=-41.644
+13.02 10:19:02 Moving is finished
+13.02 10:20:48 Scanning 29 point from 270
+13.02 10:20:48 Going to coordinates X=-15.232, Y=-41.644
+13.02 10:20:48 Moving is finished
+13.02 10:22:32 Scanning 30 point from 270
+13.02 10:22:32 Going to coordinates X=-15.132, Y=-41.644
+13.02 10:22:33 Moving is finished
+13.02 10:24:18 Scanning 31 point from 270
+13.02 10:24:18 Going to coordinates X=-15.032, Y=-41.644
+13.02 10:24:18 Moving is finished
+13.02 10:26:02 Scanning 32 point from 270
+13.02 10:26:02 Going to coordinates X=-14.932, Y=-41.644
+13.02 10:26:03 Moving is finished
+13.02 10:27:48 Scanning 33 point from 270
+13.02 10:27:48 Going to coordinates X=-14.832, Y=-41.644
+13.02 10:27:48 Moving is finished
+13.02 10:29:33 Scanning 34 point from 270
+13.02 10:29:33 Going to coordinates X=-14.732, Y=-41.644
+13.02 10:29:33 Moving is finished
+13.02 10:31:18 Scanning 35 point from 270
+13.02 10:31:18 Going to coordinates X=-14.632, Y=-41.644
+13.02 10:31:18 Moving is finished
+13.02 10:33:03 Scanning 36 point from 270
+13.02 10:33:03 Going to coordinates X=-16.332, Y=-41.544
+13.02 10:33:04 Moving is finished
+13.02 10:34:49 Scanning 37 point from 270
+13.02 10:34:49 Going to coordinates X=-16.232, Y=-41.544
+13.02 10:34:49 Moving is finished
+13.02 10:36:34 Scanning 38 point from 270
+13.02 10:36:34 Going to coordinates X=-16.132, Y=-41.544
+13.02 10:36:35 Moving is finished
+13.02 10:38:20 Scanning 39 point from 270
+13.02 10:38:20 Going to coordinates X=-16.032, Y=-41.544
+13.02 10:38:20 Moving is finished
+13.02 10:40:05 Scanning 40 point from 270
+13.02 10:40:05 Going to coordinates X=-15.932, Y=-41.544
+13.02 10:40:05 Moving is finished
+13.02 10:41:49 Scanning 41 point from 270
+13.02 10:41:49 Going to coordinates X=-15.832, Y=-41.544
+13.02 10:41:50 Moving is finished
+13.02 10:43:34 Scanning 42 point from 270
+13.02 10:43:34 Going to coordinates X=-15.732, Y=-41.544
+13.02 10:43:35 Moving is finished
+13.02 10:45:19 Scanning 43 point from 270
+13.02 10:45:19 Going to coordinates X=-15.632, Y=-41.544
+13.02 10:45:20 Moving is finished
+13.02 10:47:04 Scanning 44 point from 270
+13.02 10:47:04 Going to coordinates X=-15.532, Y=-41.544
+13.02 10:47:05 Moving is finished
+13.02 10:48:50 Scanning 45 point from 270
+13.02 10:48:50 Going to coordinates X=-15.432, Y=-41.544
+13.02 10:48:50 Moving is finished
+13.02 10:50:35 Scanning 46 point from 270
+13.02 10:50:35 Going to coordinates X=-15.332, Y=-41.544
+13.02 10:50:36 Moving is finished
+13.02 10:52:21 Scanning 47 point from 270
+13.02 10:52:21 Going to coordinates X=-15.232, Y=-41.544
+13.02 10:52:21 Moving is finished
+13.02 10:54:06 Scanning 48 point from 270
+13.02 10:54:06 Going to coordinates X=-15.132, Y=-41.544
+13.02 10:54:07 Moving is finished
+13.02 10:55:52 Scanning 49 point from 270
+13.02 10:55:52 Going to coordinates X=-15.032, Y=-41.544
+13.02 10:55:52 Moving is finished
+13.02 10:57:37 Scanning 50 point from 270
+13.02 10:57:37 Going to coordinates X=-14.932, Y=-41.544
+13.02 10:57:38 Moving is finished
+13.02 10:59:22 Scanning 51 point from 270
+13.02 10:59:22 Going to coordinates X=-14.832, Y=-41.544
+13.02 10:59:22 Moving is finished
+13.02 11:01:08 Scanning 52 point from 270
+13.02 11:01:08 Going to coordinates X=-14.732, Y=-41.544
+13.02 11:01:08 Moving is finished
+13.02 11:02:52 Scanning 53 point from 270
+13.02 11:02:52 Going to coordinates X=-14.632, Y=-41.544
+13.02 11:02:53 Moving is finished
+13.02 11:04:38 Scanning 54 point from 270
+13.02 11:04:38 Going to coordinates X=-16.332, Y=-41.444
+13.02 11:04:39 Moving is finished
+13.02 11:06:23 Scanning 55 point from 270
+13.02 11:06:23 Going to coordinates X=-16.232, Y=-41.444
+13.02 11:06:24 Moving is finished
+13.02 11:08:08 Scanning 56 point from 270
+13.02 11:08:08 Going to coordinates X=-16.132, Y=-41.444
+13.02 11:08:09 Moving is finished
+13.02 11:09:53 Scanning 57 point from 270
+13.02 11:09:53 Going to coordinates X=-16.032, Y=-41.444
+13.02 11:09:53 Moving is finished
+13.02 11:11:38 Scanning 58 point from 270
+13.02 11:11:38 Going to coordinates X=-15.932, Y=-41.444
+13.02 11:11:38 Moving is finished
+13.02 11:13:23 Scanning 59 point from 270
+13.02 11:13:23 Going to coordinates X=-15.832, Y=-41.444
+13.02 11:13:23 Moving is finished
+13.02 11:15:09 Scanning 60 point from 270
+13.02 11:15:09 Going to coordinates X=-15.732, Y=-41.444
+13.02 11:15:09 Moving is finished
+13.02 11:16:54 Scanning 61 point from 270
+13.02 11:16:54 Going to coordinates X=-15.632, Y=-41.444
+13.02 11:16:54 Moving is finished
+13.02 11:18:39 Scanning 62 point from 270
+13.02 11:18:39 Going to coordinates X=-15.532, Y=-41.444
+13.02 11:18:39 Moving is finished
+13.02 11:20:24 Scanning 63 point from 270
+13.02 11:20:24 Going to coordinates X=-15.432, Y=-41.444
+13.02 11:20:24 Moving is finished
+13.02 11:22:09 Scanning 64 point from 270
+13.02 11:22:09 Going to coordinates X=-15.332, Y=-41.444
+13.02 11:22:09 Moving is finished
+13.02 11:23:54 Scanning 65 point from 270
+13.02 11:23:54 Going to coordinates X=-15.232, Y=-41.444
+13.02 11:23:54 Moving is finished
+13.02 11:25:38 Scanning 66 point from 270
+13.02 11:25:38 Going to coordinates X=-15.132, Y=-41.444
+13.02 11:25:39 Moving is finished
+13.02 11:27:23 Scanning 67 point from 270
+13.02 11:27:23 Going to coordinates X=-15.032, Y=-41.444
+13.02 11:27:23 Moving is finished
+13.02 11:29:08 Scanning 68 point from 270
+13.02 11:29:08 Going to coordinates X=-14.932, Y=-41.444
+13.02 11:29:08 Moving is finished
+13.02 11:30:52 Scanning 69 point from 270
+13.02 11:30:52 Going to coordinates X=-14.832, Y=-41.444
+13.02 11:30:53 Moving is finished
+13.02 11:32:37 Scanning 70 point from 270
+13.02 11:32:37 Going to coordinates X=-14.732, Y=-41.444
+13.02 11:32:38 Moving is finished
+13.02 11:34:22 Scanning 71 point from 270
+13.02 11:34:22 Going to coordinates X=-14.632, Y=-41.444
+13.02 11:34:23 Moving is finished
+13.02 11:36:08 Scanning 72 point from 270
+13.02 11:36:08 Going to coordinates X=-16.332, Y=-41.344
+13.02 11:36:09 Moving is finished
+13.02 11:37:54 Scanning 73 point from 270
+13.02 11:37:54 Going to coordinates X=-16.232, Y=-41.344
+13.02 11:37:55 Moving is finished
+13.02 11:39:40 Scanning 74 point from 270
+13.02 11:39:40 Going to coordinates X=-16.132, Y=-41.344
+13.02 11:39:40 Moving is finished
+13.02 11:41:25 Scanning 75 point from 270
+13.02 11:41:25 Going to coordinates X=-16.032, Y=-41.344
+13.02 11:41:25 Moving is finished
+13.02 11:43:09 Scanning 76 point from 270
+13.02 11:43:09 Going to coordinates X=-15.932, Y=-41.344
+13.02 11:43:10 Moving is finished
+13.02 11:44:55 Scanning 77 point from 270
+13.02 11:44:55 Going to coordinates X=-15.832, Y=-41.344
+13.02 11:44:55 Moving is finished
+13.02 11:46:39 Scanning 78 point from 270
+13.02 11:46:39 Going to coordinates X=-15.732, Y=-41.344
+13.02 11:46:40 Moving is finished
+13.02 11:48:24 Scanning 79 point from 270
+13.02 11:48:24 Going to coordinates X=-15.632, Y=-41.344
+13.02 11:48:24 Moving is finished
+13.02 11:50:09 Scanning 80 point from 270
+13.02 11:50:09 Going to coordinates X=-15.532, Y=-41.344
+13.02 11:50:09 Moving is finished
+13.02 11:51:54 Scanning 81 point from 270
+13.02 11:51:54 Going to coordinates X=-15.432, Y=-41.344
+13.02 11:51:54 Moving is finished
+13.02 11:53:38 Scanning 82 point from 270
+13.02 11:53:38 Going to coordinates X=-15.332, Y=-41.344
+13.02 11:53:39 Moving is finished
+13.02 11:55:23 Scanning 83 point from 270
+13.02 11:55:23 Going to coordinates X=-15.232, Y=-41.344
+13.02 11:55:24 Moving is finished
+13.02 11:57:08 Scanning 84 point from 270
+13.02 11:57:08 Going to coordinates X=-15.132, Y=-41.344
+13.02 11:57:09 Moving is finished
+13.02 11:58:54 Scanning 85 point from 270
+13.02 11:58:54 Going to coordinates X=-15.032, Y=-41.344
+13.02 11:58:54 Moving is finished
+13.02 11:59:49 Stopped!

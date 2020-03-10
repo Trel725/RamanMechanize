@@ -1,0 +1,1053 @@
+19.10 19:20:45 Initializing grbl...
+19.10 19:20:46 Got the response: b''
+19.10 19:21:46 Row 0: 19.10 19:21:46 Map: x1: -14.0, y1: -38.0, x2: -14.635, y2: -38.462, xres: 0.050, yres: 0.020, fname: M1-E1
+19.10 19:21:46 Scanning 0 point from 350
+19.10 19:21:46 Going to coordinates X=-14.635, Y=-38.462
+19.10 19:21:46 Moving is finished
+19.10 19:25:11 Scanning 1 point from 350
+19.10 19:25:11 Going to coordinates X=-14.585, Y=-38.462
+19.10 19:25:11 Moving is finished
+19.10 19:28:36 Scanning 2 point from 350
+19.10 19:28:36 Going to coordinates X=-14.535, Y=-38.462
+19.10 19:28:37 Moving is finished
+19.10 19:32:01 Scanning 3 point from 350
+19.10 19:32:01 Going to coordinates X=-14.485, Y=-38.462
+19.10 19:32:01 Moving is finished
+19.10 19:35:26 Scanning 4 point from 350
+19.10 19:35:26 Going to coordinates X=-14.435, Y=-38.462
+19.10 19:35:26 Moving is finished
+19.10 19:38:51 Scanning 5 point from 350
+19.10 19:38:51 Going to coordinates X=-14.385, Y=-38.462
+19.10 19:38:51 Moving is finished
+19.10 19:42:16 Scanning 6 point from 350
+19.10 19:42:16 Going to coordinates X=-14.335, Y=-38.462
+19.10 19:42:16 Moving is finished
+19.10 19:45:41 Scanning 7 point from 350
+19.10 19:45:41 Going to coordinates X=-14.285, Y=-38.462
+19.10 19:45:41 Moving is finished
+19.10 19:49:05 Scanning 8 point from 350
+19.10 19:49:05 Going to coordinates X=-14.235, Y=-38.462
+19.10 19:49:06 Moving is finished
+19.10 19:52:31 Scanning 9 point from 350
+19.10 19:52:31 Going to coordinates X=-14.185, Y=-38.462
+19.10 19:52:31 Moving is finished
+19.10 19:55:56 Scanning 10 point from 350
+19.10 19:55:56 Going to coordinates X=-14.135, Y=-38.462
+19.10 19:55:56 Moving is finished
+19.10 19:59:20 Scanning 11 point from 350
+19.10 19:59:20 Going to coordinates X=-14.085, Y=-38.462
+19.10 19:59:20 Moving is finished
+19.10 20:02:45 Scanning 12 point from 350
+19.10 20:02:45 Going to coordinates X=-14.035, Y=-38.462
+19.10 20:02:45 Moving is finished
+19.10 20:06:10 Scanning 13 point from 350
+19.10 20:06:10 Going to coordinates X=-13.985, Y=-38.462
+19.10 20:06:10 Moving is finished
+19.10 20:09:34 Scanning 14 point from 350
+19.10 20:09:34 Going to coordinates X=-14.635, Y=-38.442
+19.10 20:09:35 Moving is finished
+19.10 20:13:00 Scanning 15 point from 350
+19.10 20:13:00 Going to coordinates X=-14.585, Y=-38.442
+19.10 20:13:00 Moving is finished
+19.10 20:16:25 Scanning 16 point from 350
+19.10 20:16:25 Going to coordinates X=-14.535, Y=-38.442
+19.10 20:16:25 Moving is finished
+19.10 20:19:50 Scanning 17 point from 350
+19.10 20:19:50 Going to coordinates X=-14.485, Y=-38.442
+19.10 20:19:51 Moving is finished
+19.10 20:23:16 Scanning 18 point from 350
+19.10 20:23:16 Going to coordinates X=-14.435, Y=-38.442
+19.10 20:23:16 Moving is finished
+19.10 20:26:40 Scanning 19 point from 350
+19.10 20:26:40 Going to coordinates X=-14.385, Y=-38.442
+19.10 20:26:40 Moving is finished
+19.10 20:30:05 Scanning 20 point from 350
+19.10 20:30:05 Going to coordinates X=-14.335, Y=-38.442
+19.10 20:30:05 Moving is finished
+19.10 20:33:30 Scanning 21 point from 350
+19.10 20:33:30 Going to coordinates X=-14.285, Y=-38.442
+19.10 20:33:30 Moving is finished
+19.10 20:36:55 Scanning 22 point from 350
+19.10 20:36:55 Going to coordinates X=-14.235, Y=-38.442
+19.10 20:36:55 Moving is finished
+19.10 20:40:19 Scanning 23 point from 350
+19.10 20:40:19 Going to coordinates X=-14.185, Y=-38.442
+19.10 20:40:20 Moving is finished
+19.10 20:43:44 Scanning 24 point from 350
+19.10 20:43:44 Going to coordinates X=-14.135, Y=-38.442
+19.10 20:43:44 Moving is finished
+19.10 20:47:10 Scanning 25 point from 350
+19.10 20:47:10 Going to coordinates X=-14.085, Y=-38.442
+19.10 20:47:10 Moving is finished
+19.10 20:50:35 Scanning 26 point from 350
+19.10 20:50:35 Going to coordinates X=-14.035, Y=-38.442
+19.10 20:50:35 Moving is finished
+19.10 20:54:00 Scanning 27 point from 350
+19.10 20:54:00 Going to coordinates X=-13.985, Y=-38.442
+19.10 20:54:00 Moving is finished
+19.10 20:57:25 Scanning 28 point from 350
+19.10 20:57:25 Going to coordinates X=-14.635, Y=-38.422
+19.10 20:57:25 Moving is finished
+19.10 21:00:50 Scanning 29 point from 350
+19.10 21:00:50 Going to coordinates X=-14.585, Y=-38.422
+19.10 21:00:50 Moving is finished
+19.10 21:04:15 Scanning 30 point from 350
+19.10 21:04:15 Going to coordinates X=-14.535, Y=-38.422
+19.10 21:04:15 Moving is finished
+19.10 21:07:39 Scanning 31 point from 350
+19.10 21:07:39 Going to coordinates X=-14.485, Y=-38.422
+19.10 21:07:39 Moving is finished
+19.10 21:11:04 Scanning 32 point from 350
+19.10 21:11:04 Going to coordinates X=-14.435, Y=-38.422
+19.10 21:11:04 Moving is finished
+19.10 21:14:28 Scanning 33 point from 350
+19.10 21:14:28 Going to coordinates X=-14.385, Y=-38.422
+19.10 21:14:29 Moving is finished
+19.10 21:17:54 Scanning 34 point from 350
+19.10 21:17:54 Going to coordinates X=-14.335, Y=-38.422
+19.10 21:17:54 Moving is finished
+19.10 21:21:18 Scanning 35 point from 350
+19.10 21:21:18 Going to coordinates X=-14.285, Y=-38.422
+19.10 21:21:19 Moving is finished
+19.10 21:24:43 Scanning 36 point from 350
+19.10 21:24:43 Going to coordinates X=-14.235, Y=-38.422
+19.10 21:24:43 Moving is finished
+19.10 21:28:08 Scanning 37 point from 350
+19.10 21:28:08 Going to coordinates X=-14.185, Y=-38.422
+19.10 21:28:08 Moving is finished
+19.10 21:31:33 Scanning 38 point from 350
+19.10 21:31:33 Going to coordinates X=-14.135, Y=-38.422
+19.10 21:31:33 Moving is finished
+19.10 21:34:58 Scanning 39 point from 350
+19.10 21:34:58 Going to coordinates X=-14.085, Y=-38.422
+19.10 21:34:58 Moving is finished
+19.10 21:38:23 Scanning 40 point from 350
+19.10 21:38:23 Going to coordinates X=-14.035, Y=-38.422
+19.10 21:38:23 Moving is finished
+19.10 21:41:48 Scanning 41 point from 350
+19.10 21:41:48 Going to coordinates X=-13.985, Y=-38.422
+19.10 21:41:48 Moving is finished
+19.10 21:45:13 Scanning 42 point from 350
+19.10 21:45:13 Going to coordinates X=-14.635, Y=-38.402
+19.10 21:45:13 Moving is finished
+19.10 21:48:38 Scanning 43 point from 350
+19.10 21:48:38 Going to coordinates X=-14.585, Y=-38.402
+19.10 21:48:38 Moving is finished
+19.10 21:52:03 Scanning 44 point from 350
+19.10 21:52:03 Going to coordinates X=-14.535, Y=-38.402
+19.10 21:52:03 Moving is finished
+19.10 21:55:27 Scanning 45 point from 350
+19.10 21:55:27 Going to coordinates X=-14.485, Y=-38.402
+19.10 21:55:28 Moving is finished
+19.10 21:58:53 Scanning 46 point from 350
+19.10 21:58:53 Going to coordinates X=-14.435, Y=-38.402
+19.10 21:58:53 Moving is finished
+19.10 22:02:18 Scanning 47 point from 350
+19.10 22:02:18 Going to coordinates X=-14.385, Y=-38.402
+19.10 22:02:18 Moving is finished
+19.10 22:05:43 Scanning 48 point from 350
+19.10 22:05:43 Going to coordinates X=-14.335, Y=-38.402
+19.10 22:05:43 Moving is finished
+19.10 22:09:08 Scanning 49 point from 350
+19.10 22:09:08 Going to coordinates X=-14.285, Y=-38.402
+19.10 22:09:08 Moving is finished
+19.10 22:12:33 Scanning 50 point from 350
+19.10 22:12:33 Going to coordinates X=-14.235, Y=-38.402
+19.10 22:12:34 Moving is finished
+19.10 22:15:58 Scanning 51 point from 350
+19.10 22:15:58 Going to coordinates X=-14.185, Y=-38.402
+19.10 22:15:58 Moving is finished
+19.10 22:19:23 Scanning 52 point from 350
+19.10 22:19:23 Going to coordinates X=-14.135, Y=-38.402
+19.10 22:19:23 Moving is finished
+19.10 22:22:48 Scanning 53 point from 350
+19.10 22:22:48 Going to coordinates X=-14.085, Y=-38.402
+19.10 22:22:48 Moving is finished
+19.10 22:26:14 Scanning 54 point from 350
+19.10 22:26:14 Going to coordinates X=-14.035, Y=-38.402
+19.10 22:26:14 Moving is finished
+19.10 22:29:39 Scanning 55 point from 350
+19.10 22:29:39 Going to coordinates X=-13.985, Y=-38.402
+19.10 22:29:39 Moving is finished
+19.10 22:33:03 Scanning 56 point from 350
+19.10 22:33:03 Going to coordinates X=-14.635, Y=-38.382
+19.10 22:33:04 Moving is finished
+19.10 22:36:29 Scanning 57 point from 350
+19.10 22:36:29 Going to coordinates X=-14.585, Y=-38.382
+19.10 22:36:29 Moving is finished
+19.10 22:39:53 Scanning 58 point from 350
+19.10 22:39:53 Going to coordinates X=-14.535, Y=-38.382
+19.10 22:39:53 Moving is finished
+19.10 22:43:18 Scanning 59 point from 350
+19.10 22:43:18 Going to coordinates X=-14.485, Y=-38.382
+19.10 22:43:19 Moving is finished
+19.10 22:46:43 Scanning 60 point from 350
+19.10 22:46:43 Going to coordinates X=-14.435, Y=-38.382
+19.10 22:46:43 Moving is finished
+19.10 22:50:08 Scanning 61 point from 350
+19.10 22:50:08 Going to coordinates X=-14.385, Y=-38.382
+19.10 22:50:08 Moving is finished
+19.10 22:53:33 Scanning 62 point from 350
+19.10 22:53:33 Going to coordinates X=-14.335, Y=-38.382
+19.10 22:53:33 Moving is finished
+19.10 22:56:58 Scanning 63 point from 350
+19.10 22:56:58 Going to coordinates X=-14.285, Y=-38.382
+19.10 22:56:59 Moving is finished
+19.10 23:00:23 Scanning 64 point from 350
+19.10 23:00:23 Going to coordinates X=-14.235, Y=-38.382
+19.10 23:00:24 Moving is finished
+19.10 23:03:49 Scanning 65 point from 350
+19.10 23:03:49 Going to coordinates X=-14.185, Y=-38.382
+19.10 23:03:49 Moving is finished
+19.10 23:07:14 Scanning 66 point from 350
+19.10 23:07:14 Going to coordinates X=-14.135, Y=-38.382
+19.10 23:07:14 Moving is finished
+19.10 23:10:39 Scanning 67 point from 350
+19.10 23:10:39 Going to coordinates X=-14.085, Y=-38.382
+19.10 23:10:40 Moving is finished
+19.10 23:14:04 Scanning 68 point from 350
+19.10 23:14:04 Going to coordinates X=-14.035, Y=-38.382
+19.10 23:14:04 Moving is finished
+19.10 23:17:29 Scanning 69 point from 350
+19.10 23:17:29 Going to coordinates X=-13.985, Y=-38.382
+19.10 23:17:29 Moving is finished
+19.10 23:20:53 Scanning 70 point from 350
+19.10 23:20:53 Going to coordinates X=-14.635, Y=-38.362
+19.10 23:20:54 Moving is finished
+19.10 23:24:19 Scanning 71 point from 350
+19.10 23:24:19 Going to coordinates X=-14.585, Y=-38.362
+19.10 23:24:19 Moving is finished
+19.10 23:27:44 Scanning 72 point from 350
+19.10 23:27:44 Going to coordinates X=-14.535, Y=-38.362
+19.10 23:27:44 Moving is finished
+19.10 23:31:09 Scanning 73 point from 350
+19.10 23:31:09 Going to coordinates X=-14.485, Y=-38.362
+19.10 23:31:09 Moving is finished
+19.10 23:34:34 Scanning 74 point from 350
+19.10 23:34:34 Going to coordinates X=-14.435, Y=-38.362
+19.10 23:34:34 Moving is finished
+19.10 23:37:59 Scanning 75 point from 350
+19.10 23:37:59 Going to coordinates X=-14.385, Y=-38.362
+19.10 23:38:00 Moving is finished
+19.10 23:41:24 Scanning 76 point from 350
+19.10 23:41:24 Going to coordinates X=-14.335, Y=-38.362
+19.10 23:41:24 Moving is finished
+19.10 23:44:49 Scanning 77 point from 350
+19.10 23:44:49 Going to coordinates X=-14.285, Y=-38.362
+19.10 23:44:49 Moving is finished
+19.10 23:48:14 Scanning 78 point from 350
+19.10 23:48:14 Going to coordinates X=-14.235, Y=-38.362
+19.10 23:48:14 Moving is finished
+19.10 23:51:39 Scanning 79 point from 350
+19.10 23:51:39 Going to coordinates X=-14.185, Y=-38.362
+19.10 23:51:39 Moving is finished
+19.10 23:55:04 Scanning 80 point from 350
+19.10 23:55:04 Going to coordinates X=-14.135, Y=-38.362
+19.10 23:55:04 Moving is finished
+19.10 23:58:28 Scanning 81 point from 350
+19.10 23:58:28 Going to coordinates X=-14.085, Y=-38.362
+19.10 23:58:28 Moving is finished
+20.10 00:01:53 Scanning 82 point from 350
+20.10 00:01:53 Going to coordinates X=-14.035, Y=-38.362
+20.10 00:01:53 Moving is finished
+20.10 00:05:18 Scanning 83 point from 350
+20.10 00:05:18 Going to coordinates X=-13.985, Y=-38.362
+20.10 00:05:18 Moving is finished
+20.10 00:08:42 Scanning 84 point from 350
+20.10 00:08:42 Going to coordinates X=-14.635, Y=-38.342
+20.10 00:08:43 Moving is finished
+20.10 00:12:07 Scanning 85 point from 350
+20.10 00:12:07 Going to coordinates X=-14.585, Y=-38.342
+20.10 00:12:08 Moving is finished
+20.10 00:15:32 Scanning 86 point from 350
+20.10 00:15:32 Going to coordinates X=-14.535, Y=-38.342
+20.10 00:15:32 Moving is finished
+20.10 00:18:58 Scanning 87 point from 350
+20.10 00:18:58 Going to coordinates X=-14.485, Y=-38.342
+20.10 00:18:58 Moving is finished
+20.10 00:22:22 Scanning 88 point from 350
+20.10 00:22:22 Going to coordinates X=-14.435, Y=-38.342
+20.10 00:22:23 Moving is finished
+20.10 00:25:48 Scanning 89 point from 350
+20.10 00:25:48 Going to coordinates X=-14.385, Y=-38.342
+20.10 00:25:48 Moving is finished
+20.10 00:29:13 Scanning 90 point from 350
+20.10 00:29:13 Going to coordinates X=-14.335, Y=-38.342
+20.10 00:29:13 Moving is finished
+20.10 00:32:38 Scanning 91 point from 350
+20.10 00:32:38 Going to coordinates X=-14.285, Y=-38.342
+20.10 00:32:38 Moving is finished
+20.10 00:36:03 Scanning 92 point from 350
+20.10 00:36:03 Going to coordinates X=-14.235, Y=-38.342
+20.10 00:36:03 Moving is finished
+20.10 00:39:27 Scanning 93 point from 350
+20.10 00:39:27 Going to coordinates X=-14.185, Y=-38.342
+20.10 00:39:27 Moving is finished
+20.10 00:42:52 Scanning 94 point from 350
+20.10 00:42:52 Going to coordinates X=-14.135, Y=-38.342
+20.10 00:42:52 Moving is finished
+20.10 00:46:17 Scanning 95 point from 350
+20.10 00:46:17 Going to coordinates X=-14.085, Y=-38.342
+20.10 00:46:17 Moving is finished
+20.10 00:49:42 Scanning 96 point from 350
+20.10 00:49:42 Going to coordinates X=-14.035, Y=-38.342
+20.10 00:49:42 Moving is finished
+20.10 00:53:07 Scanning 97 point from 350
+20.10 00:53:07 Going to coordinates X=-13.985, Y=-38.342
+20.10 00:53:07 Moving is finished
+20.10 00:56:32 Scanning 98 point from 350
+20.10 00:56:32 Going to coordinates X=-14.635, Y=-38.322
+20.10 00:56:32 Moving is finished
+20.10 00:59:57 Scanning 99 point from 350
+20.10 00:59:57 Going to coordinates X=-14.585, Y=-38.322
+20.10 00:59:57 Moving is finished
+20.10 01:03:22 Scanning 100 point from 350
+20.10 01:03:22 Going to coordinates X=-14.535, Y=-38.322
+20.10 01:03:22 Moving is finished
+20.10 01:06:47 Scanning 101 point from 350
+20.10 01:06:47 Going to coordinates X=-14.485, Y=-38.322
+20.10 01:06:47 Moving is finished
+20.10 01:10:11 Scanning 102 point from 350
+20.10 01:10:11 Going to coordinates X=-14.435, Y=-38.322
+20.10 01:10:12 Moving is finished
+20.10 01:13:36 Scanning 103 point from 350
+20.10 01:13:36 Going to coordinates X=-14.385, Y=-38.322
+20.10 01:13:37 Moving is finished
+20.10 01:17:01 Scanning 104 point from 350
+20.10 01:17:01 Going to coordinates X=-14.335, Y=-38.322
+20.10 01:17:01 Moving is finished
+20.10 01:20:26 Scanning 105 point from 350
+20.10 01:20:26 Going to coordinates X=-14.285, Y=-38.322
+20.10 01:20:26 Moving is finished
+20.10 01:23:51 Scanning 106 point from 350
+20.10 01:23:51 Going to coordinates X=-14.235, Y=-38.322
+20.10 01:23:51 Moving is finished
+20.10 01:27:16 Scanning 107 point from 350
+20.10 01:27:16 Going to coordinates X=-14.185, Y=-38.322
+20.10 01:27:16 Moving is finished
+20.10 01:30:41 Scanning 108 point from 350
+20.10 01:30:41 Going to coordinates X=-14.135, Y=-38.322
+20.10 01:30:41 Moving is finished
+20.10 01:34:06 Scanning 109 point from 350
+20.10 01:34:06 Going to coordinates X=-14.085, Y=-38.322
+20.10 01:34:07 Moving is finished
+20.10 01:37:31 Scanning 110 point from 350
+20.10 01:37:31 Going to coordinates X=-14.035, Y=-38.322
+20.10 01:37:31 Moving is finished
+20.10 01:40:56 Scanning 111 point from 350
+20.10 01:40:56 Going to coordinates X=-13.985, Y=-38.322
+20.10 01:40:56 Moving is finished
+20.10 01:44:21 Scanning 112 point from 350
+20.10 01:44:21 Going to coordinates X=-14.635, Y=-38.302
+20.10 01:44:22 Moving is finished
+20.10 01:47:46 Scanning 113 point from 350
+20.10 01:47:46 Going to coordinates X=-14.585, Y=-38.302
+20.10 01:47:46 Moving is finished
+20.10 01:51:10 Scanning 114 point from 350
+20.10 01:51:10 Going to coordinates X=-14.535, Y=-38.302
+20.10 01:51:11 Moving is finished
+20.10 01:54:35 Scanning 115 point from 350
+20.10 01:54:35 Going to coordinates X=-14.485, Y=-38.302
+20.10 01:54:35 Moving is finished
+20.10 01:58:00 Scanning 116 point from 350
+20.10 01:58:00 Going to coordinates X=-14.435, Y=-38.302
+20.10 01:58:00 Moving is finished
+20.10 02:01:25 Scanning 117 point from 350
+20.10 02:01:25 Going to coordinates X=-14.385, Y=-38.302
+20.10 02:01:25 Moving is finished
+20.10 02:04:50 Scanning 118 point from 350
+20.10 02:04:50 Going to coordinates X=-14.335, Y=-38.302
+20.10 02:04:50 Moving is finished
+20.10 02:08:15 Scanning 119 point from 350
+20.10 02:08:15 Going to coordinates X=-14.285, Y=-38.302
+20.10 02:08:15 Moving is finished
+20.10 02:11:39 Scanning 120 point from 350
+20.10 02:11:39 Going to coordinates X=-14.235, Y=-38.302
+20.10 02:11:40 Moving is finished
+20.10 02:15:04 Scanning 121 point from 350
+20.10 02:15:04 Going to coordinates X=-14.185, Y=-38.302
+20.10 02:15:05 Moving is finished
+20.10 02:18:29 Scanning 122 point from 350
+20.10 02:18:29 Going to coordinates X=-14.135, Y=-38.302
+20.10 02:18:29 Moving is finished
+20.10 02:21:54 Scanning 123 point from 350
+20.10 02:21:54 Going to coordinates X=-14.085, Y=-38.302
+20.10 02:21:54 Moving is finished
+20.10 02:25:19 Scanning 124 point from 350
+20.10 02:25:19 Going to coordinates X=-14.035, Y=-38.302
+20.10 02:25:19 Moving is finished
+20.10 02:28:43 Scanning 125 point from 350
+20.10 02:28:43 Going to coordinates X=-13.985, Y=-38.302
+20.10 02:28:43 Moving is finished
+20.10 02:32:08 Scanning 126 point from 350
+20.10 02:32:08 Going to coordinates X=-14.635, Y=-38.282
+20.10 02:32:09 Moving is finished
+20.10 02:35:34 Scanning 127 point from 350
+20.10 02:35:34 Going to coordinates X=-14.585, Y=-38.282
+20.10 02:35:34 Moving is finished
+20.10 02:38:59 Scanning 128 point from 350
+20.10 02:38:59 Going to coordinates X=-14.535, Y=-38.282
+20.10 02:38:59 Moving is finished
+20.10 02:42:24 Scanning 129 point from 350
+20.10 02:42:24 Going to coordinates X=-14.485, Y=-38.282
+20.10 02:42:24 Moving is finished
+20.10 02:45:49 Scanning 130 point from 350
+20.10 02:45:49 Going to coordinates X=-14.435, Y=-38.282
+20.10 02:45:49 Moving is finished
+20.10 02:49:14 Scanning 131 point from 350
+20.10 02:49:14 Going to coordinates X=-14.385, Y=-38.282
+20.10 02:49:14 Moving is finished
+20.10 02:52:38 Scanning 132 point from 350
+20.10 02:52:38 Going to coordinates X=-14.335, Y=-38.282
+20.10 02:52:38 Moving is finished
+20.10 02:56:03 Scanning 133 point from 350
+20.10 02:56:03 Going to coordinates X=-14.285, Y=-38.282
+20.10 02:56:03 Moving is finished
+20.10 02:59:27 Scanning 134 point from 350
+20.10 02:59:27 Going to coordinates X=-14.235, Y=-38.282
+20.10 02:59:27 Moving is finished
+20.10 03:02:52 Scanning 135 point from 350
+20.10 03:02:52 Going to coordinates X=-14.185, Y=-38.282
+20.10 03:02:52 Moving is finished
+20.10 03:06:17 Scanning 136 point from 350
+20.10 03:06:17 Going to coordinates X=-14.135, Y=-38.282
+20.10 03:06:17 Moving is finished
+20.10 03:09:42 Scanning 137 point from 350
+20.10 03:09:42 Going to coordinates X=-14.085, Y=-38.282
+20.10 03:09:42 Moving is finished
+20.10 03:13:07 Scanning 138 point from 350
+20.10 03:13:07 Going to coordinates X=-14.035, Y=-38.282
+20.10 03:13:07 Moving is finished
+20.10 03:16:31 Scanning 139 point from 350
+20.10 03:16:31 Going to coordinates X=-13.985, Y=-38.282
+20.10 03:16:32 Moving is finished
+20.10 03:19:56 Scanning 140 point from 350
+20.10 03:19:56 Going to coordinates X=-14.635, Y=-38.262
+20.10 03:19:57 Moving is finished
+20.10 03:23:22 Scanning 141 point from 350
+20.10 03:23:22 Going to coordinates X=-14.585, Y=-38.262
+20.10 03:23:22 Moving is finished
+20.10 03:26:46 Scanning 142 point from 350
+20.10 03:26:46 Going to coordinates X=-14.535, Y=-38.262
+20.10 03:26:47 Moving is finished
+20.10 03:30:11 Scanning 143 point from 350
+20.10 03:30:11 Going to coordinates X=-14.485, Y=-38.262
+20.10 03:30:12 Moving is finished
+20.10 03:33:36 Scanning 144 point from 350
+20.10 03:33:36 Going to coordinates X=-14.435, Y=-38.262
+20.10 03:33:36 Moving is finished
+20.10 03:37:01 Scanning 145 point from 350
+20.10 03:37:01 Going to coordinates X=-14.385, Y=-38.262
+20.10 03:37:01 Moving is finished
+20.10 03:40:26 Scanning 146 point from 350
+20.10 03:40:26 Going to coordinates X=-14.335, Y=-38.262
+20.10 03:40:26 Moving is finished
+20.10 03:43:50 Scanning 147 point from 350
+20.10 03:43:50 Going to coordinates X=-14.285, Y=-38.262
+20.10 03:43:51 Moving is finished
+20.10 03:47:15 Scanning 148 point from 350
+20.10 03:47:15 Going to coordinates X=-14.235, Y=-38.262
+20.10 03:47:16 Moving is finished
+20.10 03:50:40 Scanning 149 point from 350
+20.10 03:50:40 Going to coordinates X=-14.185, Y=-38.262
+20.10 03:50:40 Moving is finished
+20.10 03:54:05 Scanning 150 point from 350
+20.10 03:54:05 Going to coordinates X=-14.135, Y=-38.262
+20.10 03:54:05 Moving is finished
+20.10 03:57:30 Scanning 151 point from 350
+20.10 03:57:30 Going to coordinates X=-14.085, Y=-38.262
+20.10 03:57:30 Moving is finished
+20.10 04:00:55 Scanning 152 point from 350
+20.10 04:00:55 Going to coordinates X=-14.035, Y=-38.262
+20.10 04:00:55 Moving is finished
+20.10 04:04:20 Scanning 153 point from 350
+20.10 04:04:20 Going to coordinates X=-13.985, Y=-38.262
+20.10 04:04:20 Moving is finished
+20.10 04:07:45 Scanning 154 point from 350
+20.10 04:07:45 Going to coordinates X=-14.635, Y=-38.242
+20.10 04:07:46 Moving is finished
+20.10 04:11:10 Scanning 155 point from 350
+20.10 04:11:10 Going to coordinates X=-14.585, Y=-38.242
+20.10 04:11:10 Moving is finished
+20.10 04:14:36 Scanning 156 point from 350
+20.10 04:14:36 Going to coordinates X=-14.535, Y=-38.242
+20.10 04:14:36 Moving is finished
+20.10 04:18:01 Scanning 157 point from 350
+20.10 04:18:01 Going to coordinates X=-14.485, Y=-38.242
+20.10 04:18:01 Moving is finished
+20.10 04:21:26 Scanning 158 point from 350
+20.10 04:21:26 Going to coordinates X=-14.435, Y=-38.242
+20.10 04:21:26 Moving is finished
+20.10 04:24:51 Scanning 159 point from 350
+20.10 04:24:51 Going to coordinates X=-14.385, Y=-38.242
+20.10 04:24:51 Moving is finished
+20.10 04:28:16 Scanning 160 point from 350
+20.10 04:28:16 Going to coordinates X=-14.335, Y=-38.242
+20.10 04:28:16 Moving is finished
+20.10 04:31:41 Scanning 161 point from 350
+20.10 04:31:41 Going to coordinates X=-14.285, Y=-38.242
+20.10 04:31:41 Moving is finished
+20.10 04:35:06 Scanning 162 point from 350
+20.10 04:35:06 Going to coordinates X=-14.235, Y=-38.242
+20.10 04:35:06 Moving is finished
+20.10 04:38:31 Scanning 163 point from 350
+20.10 04:38:31 Going to coordinates X=-14.185, Y=-38.242
+20.10 04:38:31 Moving is finished
+20.10 04:41:56 Scanning 164 point from 350
+20.10 04:41:56 Going to coordinates X=-14.135, Y=-38.242
+20.10 04:41:56 Moving is finished
+20.10 04:45:21 Scanning 165 point from 350
+20.10 04:45:21 Going to coordinates X=-14.085, Y=-38.242
+20.10 04:45:21 Moving is finished
+20.10 04:48:46 Scanning 166 point from 350
+20.10 04:48:46 Going to coordinates X=-14.035, Y=-38.242
+20.10 04:48:47 Moving is finished
+20.10 04:52:11 Scanning 167 point from 350
+20.10 04:52:11 Going to coordinates X=-13.985, Y=-38.242
+20.10 04:52:11 Moving is finished
+20.10 04:55:36 Scanning 168 point from 350
+20.10 04:55:36 Going to coordinates X=-14.635, Y=-38.222
+20.10 04:55:37 Moving is finished
+20.10 04:59:01 Scanning 169 point from 350
+20.10 04:59:01 Going to coordinates X=-14.585, Y=-38.222
+20.10 04:59:02 Moving is finished
+20.10 05:02:26 Scanning 170 point from 350
+20.10 05:02:26 Going to coordinates X=-14.535, Y=-38.222
+20.10 05:02:26 Moving is finished
+20.10 05:05:51 Scanning 171 point from 350
+20.10 05:05:51 Going to coordinates X=-14.485, Y=-38.222
+20.10 05:05:51 Moving is finished
+20.10 05:09:17 Scanning 172 point from 350
+20.10 05:09:17 Going to coordinates X=-14.435, Y=-38.222
+20.10 05:09:17 Moving is finished
+20.10 05:12:42 Scanning 173 point from 350
+20.10 05:12:42 Going to coordinates X=-14.385, Y=-38.222
+20.10 05:12:42 Moving is finished
+20.10 05:16:07 Scanning 174 point from 350
+20.10 05:16:07 Going to coordinates X=-14.335, Y=-38.222
+20.10 05:16:07 Moving is finished
+20.10 05:19:31 Scanning 175 point from 350
+20.10 05:19:31 Going to coordinates X=-14.285, Y=-38.222
+20.10 05:19:32 Moving is finished
+20.10 05:22:56 Scanning 176 point from 350
+20.10 05:22:56 Going to coordinates X=-14.235, Y=-38.222
+20.10 05:22:56 Moving is finished
+20.10 05:26:21 Scanning 177 point from 350
+20.10 05:26:21 Going to coordinates X=-14.185, Y=-38.222
+20.10 05:26:21 Moving is finished
+20.10 05:29:45 Scanning 178 point from 350
+20.10 05:29:45 Going to coordinates X=-14.135, Y=-38.222
+20.10 05:29:45 Moving is finished
+20.10 05:33:10 Scanning 179 point from 350
+20.10 05:33:10 Going to coordinates X=-14.085, Y=-38.222
+20.10 05:33:10 Moving is finished
+20.10 05:36:34 Scanning 180 point from 350
+20.10 05:36:34 Going to coordinates X=-14.035, Y=-38.222
+20.10 05:36:34 Moving is finished
+20.10 05:39:59 Scanning 181 point from 350
+20.10 05:39:59 Going to coordinates X=-13.985, Y=-38.222
+20.10 05:39:59 Moving is finished
+20.10 05:43:24 Scanning 182 point from 350
+20.10 05:43:24 Going to coordinates X=-14.635, Y=-38.202
+20.10 05:43:25 Moving is finished
+20.10 05:46:49 Scanning 183 point from 350
+20.10 05:46:49 Going to coordinates X=-14.585, Y=-38.202
+20.10 05:46:50 Moving is finished
+20.10 05:50:14 Scanning 184 point from 350
+20.10 05:50:14 Going to coordinates X=-14.535, Y=-38.202
+20.10 05:50:15 Moving is finished
+20.10 05:53:39 Scanning 185 point from 350
+20.10 05:53:39 Going to coordinates X=-14.485, Y=-38.202
+20.10 05:53:39 Moving is finished
+20.10 05:57:04 Scanning 186 point from 350
+20.10 05:57:04 Going to coordinates X=-14.435, Y=-38.202
+20.10 05:57:04 Moving is finished
+20.10 06:00:29 Scanning 187 point from 350
+20.10 06:00:29 Going to coordinates X=-14.385, Y=-38.202
+20.10 06:00:29 Moving is finished
+20.10 06:03:54 Scanning 188 point from 350
+20.10 06:03:54 Going to coordinates X=-14.335, Y=-38.202
+20.10 06:03:54 Moving is finished
+20.10 06:07:19 Scanning 189 point from 350
+20.10 06:07:19 Going to coordinates X=-14.285, Y=-38.202
+20.10 06:07:19 Moving is finished
+20.10 06:10:44 Scanning 190 point from 350
+20.10 06:10:44 Going to coordinates X=-14.235, Y=-38.202
+20.10 06:10:44 Moving is finished
+20.10 06:14:09 Scanning 191 point from 350
+20.10 06:14:09 Going to coordinates X=-14.185, Y=-38.202
+20.10 06:14:09 Moving is finished
+20.10 06:17:33 Scanning 192 point from 350
+20.10 06:17:33 Going to coordinates X=-14.135, Y=-38.202
+20.10 06:17:34 Moving is finished
+20.10 06:20:58 Scanning 193 point from 350
+20.10 06:20:58 Going to coordinates X=-14.085, Y=-38.202
+20.10 06:20:59 Moving is finished
+20.10 06:24:24 Scanning 194 point from 350
+20.10 06:24:24 Going to coordinates X=-14.035, Y=-38.202
+20.10 06:24:24 Moving is finished
+20.10 06:27:49 Scanning 195 point from 350
+20.10 06:27:49 Going to coordinates X=-13.985, Y=-38.202
+20.10 06:27:49 Moving is finished
+20.10 06:31:14 Scanning 196 point from 350
+20.10 06:31:14 Going to coordinates X=-14.635, Y=-38.182
+20.10 06:31:14 Moving is finished
+20.10 06:34:39 Scanning 197 point from 350
+20.10 06:34:39 Going to coordinates X=-14.585, Y=-38.182
+20.10 06:34:39 Moving is finished
+20.10 06:38:04 Scanning 198 point from 350
+20.10 06:38:04 Going to coordinates X=-14.535, Y=-38.182
+20.10 06:38:04 Moving is finished
+20.10 06:41:28 Scanning 199 point from 350
+20.10 06:41:28 Going to coordinates X=-14.485, Y=-38.182
+20.10 06:41:28 Moving is finished
+20.10 06:44:53 Scanning 200 point from 350
+20.10 06:44:53 Going to coordinates X=-14.435, Y=-38.182
+20.10 06:44:53 Moving is finished
+20.10 06:48:18 Scanning 201 point from 350
+20.10 06:48:18 Going to coordinates X=-14.385, Y=-38.182
+20.10 06:48:18 Moving is finished
+20.10 06:51:43 Scanning 202 point from 350
+20.10 06:51:43 Going to coordinates X=-14.335, Y=-38.182
+20.10 06:51:43 Moving is finished
+20.10 06:55:07 Scanning 203 point from 350
+20.10 06:55:07 Going to coordinates X=-14.285, Y=-38.182
+20.10 06:55:07 Moving is finished
+20.10 06:58:32 Scanning 204 point from 350
+20.10 06:58:32 Going to coordinates X=-14.235, Y=-38.182
+20.10 06:58:32 Moving is finished
+20.10 07:01:57 Scanning 205 point from 350
+20.10 07:01:57 Going to coordinates X=-14.185, Y=-38.182
+20.10 07:01:57 Moving is finished
+20.10 07:05:22 Scanning 206 point from 350
+20.10 07:05:22 Going to coordinates X=-14.135, Y=-38.182
+20.10 07:05:22 Moving is finished
+20.10 07:08:46 Scanning 207 point from 350
+20.10 07:08:46 Going to coordinates X=-14.085, Y=-38.182
+20.10 07:08:46 Moving is finished
+20.10 07:12:11 Scanning 208 point from 350
+20.10 07:12:11 Going to coordinates X=-14.035, Y=-38.182
+20.10 07:12:12 Moving is finished
+20.10 07:15:36 Scanning 209 point from 350
+20.10 07:15:36 Going to coordinates X=-13.985, Y=-38.182
+20.10 07:15:36 Moving is finished
+20.10 07:19:01 Scanning 210 point from 350
+20.10 07:19:01 Going to coordinates X=-14.635, Y=-38.162
+20.10 07:19:01 Moving is finished
+20.10 07:22:25 Scanning 211 point from 350
+20.10 07:22:25 Going to coordinates X=-14.585, Y=-38.162
+20.10 07:22:26 Moving is finished
+20.10 07:25:50 Scanning 212 point from 350
+20.10 07:25:50 Going to coordinates X=-14.535, Y=-38.162
+20.10 07:25:50 Moving is finished
+20.10 07:29:15 Scanning 213 point from 350
+20.10 07:29:15 Going to coordinates X=-14.485, Y=-38.162
+20.10 07:29:15 Moving is finished
+20.10 07:32:40 Scanning 214 point from 350
+20.10 07:32:40 Going to coordinates X=-14.435, Y=-38.162
+20.10 07:32:41 Moving is finished
+20.10 07:36:05 Scanning 215 point from 350
+20.10 07:36:05 Going to coordinates X=-14.385, Y=-38.162
+20.10 07:36:05 Moving is finished
+20.10 07:39:30 Scanning 216 point from 350
+20.10 07:39:30 Going to coordinates X=-14.335, Y=-38.162
+20.10 07:39:31 Moving is finished
+20.10 07:42:55 Scanning 217 point from 350
+20.10 07:42:55 Going to coordinates X=-14.285, Y=-38.162
+20.10 07:42:55 Moving is finished
+20.10 07:46:20 Scanning 218 point from 350
+20.10 07:46:20 Going to coordinates X=-14.235, Y=-38.162
+20.10 07:46:20 Moving is finished
+20.10 07:49:46 Scanning 219 point from 350
+20.10 07:49:46 Going to coordinates X=-14.185, Y=-38.162
+20.10 07:49:46 Moving is finished
+20.10 07:53:10 Scanning 220 point from 350
+20.10 07:53:10 Going to coordinates X=-14.135, Y=-38.162
+20.10 07:53:11 Moving is finished
+20.10 07:56:36 Scanning 221 point from 350
+20.10 07:56:36 Going to coordinates X=-14.085, Y=-38.162
+20.10 07:56:36 Moving is finished
+20.10 08:00:00 Scanning 222 point from 350
+20.10 08:00:00 Going to coordinates X=-14.035, Y=-38.162
+20.10 08:00:01 Moving is finished
+20.10 08:03:26 Scanning 223 point from 350
+20.10 08:03:26 Going to coordinates X=-13.985, Y=-38.162
+20.10 08:03:26 Moving is finished
+20.10 08:06:51 Scanning 224 point from 350
+20.10 08:06:51 Going to coordinates X=-14.635, Y=-38.142
+20.10 08:06:51 Moving is finished
+20.10 08:10:16 Scanning 225 point from 350
+20.10 08:10:16 Going to coordinates X=-14.585, Y=-38.142
+20.10 08:10:16 Moving is finished
+20.10 08:13:41 Scanning 226 point from 350
+20.10 08:13:41 Going to coordinates X=-14.535, Y=-38.142
+20.10 08:13:41 Moving is finished
+20.10 08:17:05 Scanning 227 point from 350
+20.10 08:17:05 Going to coordinates X=-14.485, Y=-38.142
+20.10 08:17:05 Moving is finished
+20.10 08:20:30 Scanning 228 point from 350
+20.10 08:20:30 Going to coordinates X=-14.435, Y=-38.142
+20.10 08:20:30 Moving is finished
+20.10 08:23:55 Scanning 229 point from 350
+20.10 08:23:55 Going to coordinates X=-14.385, Y=-38.142
+20.10 08:23:55 Moving is finished
+20.10 08:27:19 Scanning 230 point from 350
+20.10 08:27:19 Going to coordinates X=-14.335, Y=-38.142
+20.10 08:27:20 Moving is finished
+20.10 08:30:44 Scanning 231 point from 350
+20.10 08:30:44 Going to coordinates X=-14.285, Y=-38.142
+20.10 08:30:44 Moving is finished
+20.10 08:34:09 Scanning 232 point from 350
+20.10 08:34:09 Going to coordinates X=-14.235, Y=-38.142
+20.10 08:34:09 Moving is finished
+20.10 08:37:34 Scanning 233 point from 350
+20.10 08:37:34 Going to coordinates X=-14.185, Y=-38.142
+20.10 08:37:34 Moving is finished
+20.10 08:40:59 Scanning 234 point from 350
+20.10 08:40:59 Going to coordinates X=-14.135, Y=-38.142
+20.10 08:40:59 Moving is finished
+20.10 08:44:24 Scanning 235 point from 350
+20.10 08:44:24 Going to coordinates X=-14.085, Y=-38.142
+20.10 08:44:24 Moving is finished
+20.10 08:47:49 Scanning 236 point from 350
+20.10 08:47:49 Going to coordinates X=-14.035, Y=-38.142
+20.10 08:47:49 Moving is finished
+20.10 08:51:14 Scanning 237 point from 350
+20.10 08:51:14 Going to coordinates X=-13.985, Y=-38.142
+20.10 08:51:14 Moving is finished
+20.10 08:54:39 Scanning 238 point from 350
+20.10 08:54:39 Going to coordinates X=-14.635, Y=-38.122
+20.10 08:54:39 Moving is finished
+20.10 08:58:05 Scanning 239 point from 350
+20.10 08:58:05 Going to coordinates X=-14.585, Y=-38.122
+20.10 08:58:05 Moving is finished
+20.10 09:01:29 Scanning 240 point from 350
+20.10 09:01:29 Going to coordinates X=-14.535, Y=-38.122
+20.10 09:01:30 Moving is finished
+20.10 09:04:54 Scanning 241 point from 350
+20.10 09:04:54 Going to coordinates X=-14.485, Y=-38.122
+20.10 09:04:54 Moving is finished
+20.10 09:08:19 Scanning 242 point from 350
+20.10 09:08:19 Going to coordinates X=-14.435, Y=-38.122
+20.10 09:08:19 Moving is finished
+20.10 09:11:44 Scanning 243 point from 350
+20.10 09:11:44 Going to coordinates X=-14.385, Y=-38.122
+20.10 09:11:44 Moving is finished
+20.10 09:15:09 Scanning 244 point from 350
+20.10 09:15:09 Going to coordinates X=-14.335, Y=-38.122
+20.10 09:15:09 Moving is finished
+20.10 09:18:33 Scanning 245 point from 350
+20.10 09:18:33 Going to coordinates X=-14.285, Y=-38.122
+20.10 09:18:34 Moving is finished
+20.10 09:21:58 Scanning 246 point from 350
+20.10 09:21:58 Going to coordinates X=-14.235, Y=-38.122
+20.10 09:21:59 Moving is finished
+20.10 09:25:24 Scanning 247 point from 350
+20.10 09:25:24 Going to coordinates X=-14.185, Y=-38.122
+20.10 09:25:24 Moving is finished
+20.10 09:28:49 Scanning 248 point from 350
+20.10 09:28:49 Going to coordinates X=-14.135, Y=-38.122
+20.10 09:28:49 Moving is finished
+20.10 09:32:14 Scanning 249 point from 350
+20.10 09:32:14 Going to coordinates X=-14.085, Y=-38.122
+20.10 09:32:14 Moving is finished
+20.10 09:35:39 Scanning 250 point from 350
+20.10 09:35:39 Going to coordinates X=-14.035, Y=-38.122
+20.10 09:35:39 Moving is finished
+20.10 09:39:04 Scanning 251 point from 350
+20.10 09:39:04 Going to coordinates X=-13.985, Y=-38.122
+20.10 09:39:04 Moving is finished
+20.10 09:42:28 Scanning 252 point from 350
+20.10 09:42:28 Going to coordinates X=-14.635, Y=-38.102
+20.10 09:42:29 Moving is finished
+20.10 09:45:53 Scanning 253 point from 350
+20.10 09:45:53 Going to coordinates X=-14.585, Y=-38.102
+20.10 09:45:53 Moving is finished
+20.10 09:49:18 Scanning 254 point from 350
+20.10 09:49:18 Going to coordinates X=-14.535, Y=-38.102
+20.10 09:49:19 Moving is finished
+20.10 09:52:43 Scanning 255 point from 350
+20.10 09:52:43 Going to coordinates X=-14.485, Y=-38.102
+20.10 09:52:43 Moving is finished
+20.10 09:56:08 Scanning 256 point from 350
+20.10 09:56:08 Going to coordinates X=-14.435, Y=-38.102
+20.10 09:56:08 Moving is finished
+20.10 09:59:32 Scanning 257 point from 350
+20.10 09:59:32 Going to coordinates X=-14.385, Y=-38.102
+20.10 09:59:33 Moving is finished
+20.10 10:02:57 Scanning 258 point from 350
+20.10 10:02:57 Going to coordinates X=-14.335, Y=-38.102
+20.10 10:02:57 Moving is finished
+20.10 10:06:22 Scanning 259 point from 350
+20.10 10:06:22 Going to coordinates X=-14.285, Y=-38.102
+20.10 10:06:22 Moving is finished
+20.10 10:09:47 Scanning 260 point from 350
+20.10 10:09:47 Going to coordinates X=-14.235, Y=-38.102
+20.10 10:09:47 Moving is finished
+20.10 10:13:12 Scanning 261 point from 350
+20.10 10:13:12 Going to coordinates X=-14.185, Y=-38.102
+20.10 10:13:12 Moving is finished
+20.10 10:16:37 Scanning 262 point from 350
+20.10 10:16:37 Going to coordinates X=-14.135, Y=-38.102
+20.10 10:16:37 Moving is finished
+20.10 10:20:02 Scanning 263 point from 350
+20.10 10:20:02 Going to coordinates X=-14.085, Y=-38.102
+20.10 10:20:02 Moving is finished
+20.10 10:23:27 Scanning 264 point from 350
+20.10 10:23:27 Going to coordinates X=-14.035, Y=-38.102
+20.10 10:23:27 Moving is finished
+20.10 10:26:51 Scanning 265 point from 350
+20.10 10:26:51 Going to coordinates X=-13.985, Y=-38.102
+20.10 10:26:52 Moving is finished
+20.10 10:30:17 Scanning 266 point from 350
+20.10 10:30:17 Going to coordinates X=-14.635, Y=-38.082
+20.10 10:30:17 Moving is finished
+20.10 10:33:42 Scanning 267 point from 350
+20.10 10:33:42 Going to coordinates X=-14.585, Y=-38.082
+20.10 10:33:42 Moving is finished
+20.10 10:37:06 Scanning 268 point from 350
+20.10 10:37:06 Going to coordinates X=-14.535, Y=-38.082
+20.10 10:37:06 Moving is finished
+20.10 10:40:32 Scanning 269 point from 350
+20.10 10:40:32 Going to coordinates X=-14.485, Y=-38.082
+20.10 10:40:32 Moving is finished
+20.10 10:43:56 Scanning 270 point from 350
+20.10 10:43:56 Going to coordinates X=-14.435, Y=-38.082
+20.10 10:43:57 Moving is finished
+20.10 10:47:21 Scanning 271 point from 350
+20.10 10:47:21 Going to coordinates X=-14.385, Y=-38.082
+20.10 10:47:21 Moving is finished
+20.10 10:50:46 Scanning 272 point from 350
+20.10 10:50:46 Going to coordinates X=-14.335, Y=-38.082
+20.10 10:50:46 Moving is finished
+20.10 10:54:10 Scanning 273 point from 350
+20.10 10:54:10 Going to coordinates X=-14.285, Y=-38.082
+20.10 10:54:11 Moving is finished
+20.10 10:57:35 Scanning 274 point from 350
+20.10 10:57:35 Going to coordinates X=-14.235, Y=-38.082
+20.10 10:57:35 Moving is finished
+20.10 11:01:00 Scanning 275 point from 350
+20.10 11:01:00 Going to coordinates X=-14.185, Y=-38.082
+20.10 11:01:00 Moving is finished
+20.10 11:04:25 Scanning 276 point from 350
+20.10 11:04:25 Going to coordinates X=-14.135, Y=-38.082
+20.10 11:04:25 Moving is finished
+20.10 11:07:49 Scanning 277 point from 350
+20.10 11:07:49 Going to coordinates X=-14.085, Y=-38.082
+20.10 11:07:49 Moving is finished
+20.10 11:11:14 Scanning 278 point from 350
+20.10 11:11:14 Going to coordinates X=-14.035, Y=-38.082
+20.10 11:11:14 Moving is finished
+20.10 11:14:39 Scanning 279 point from 350
+20.10 11:14:39 Going to coordinates X=-13.985, Y=-38.082
+20.10 11:14:39 Moving is finished
+20.10 11:18:03 Scanning 280 point from 350
+20.10 11:18:03 Going to coordinates X=-14.635, Y=-38.062
+20.10 11:18:04 Moving is finished
+20.10 11:21:29 Scanning 281 point from 350
+20.10 11:21:29 Going to coordinates X=-14.585, Y=-38.062
+20.10 11:21:29 Moving is finished
+20.10 11:24:54 Scanning 282 point from 350
+20.10 11:24:54 Going to coordinates X=-14.535, Y=-38.062
+20.10 11:24:54 Moving is finished
+20.10 11:28:19 Scanning 283 point from 350
+20.10 11:28:19 Going to coordinates X=-14.485, Y=-38.062
+20.10 11:28:19 Moving is finished
+20.10 11:31:44 Scanning 284 point from 350
+20.10 11:31:44 Going to coordinates X=-14.435, Y=-38.062
+20.10 11:31:44 Moving is finished
+20.10 11:35:09 Scanning 285 point from 350
+20.10 11:35:09 Going to coordinates X=-14.385, Y=-38.062
+20.10 11:35:09 Moving is finished
+20.10 11:38:35 Scanning 286 point from 350
+20.10 11:38:35 Going to coordinates X=-14.335, Y=-38.062
+20.10 11:38:35 Moving is finished
+20.10 11:41:59 Scanning 287 point from 350
+20.10 11:41:59 Going to coordinates X=-14.285, Y=-38.062
+20.10 11:42:00 Moving is finished
+20.10 11:45:24 Scanning 288 point from 350
+20.10 11:45:24 Going to coordinates X=-14.235, Y=-38.062
+20.10 11:45:25 Moving is finished
+20.10 11:48:49 Scanning 289 point from 350
+20.10 11:48:49 Going to coordinates X=-14.185, Y=-38.062
+20.10 11:48:49 Moving is finished
+20.10 11:52:14 Scanning 290 point from 350
+20.10 11:52:14 Going to coordinates X=-14.135, Y=-38.062
+20.10 11:52:14 Moving is finished
+20.10 11:55:39 Scanning 291 point from 350
+20.10 11:55:39 Going to coordinates X=-14.085, Y=-38.062
+20.10 11:55:39 Moving is finished
+20.10 11:59:04 Scanning 292 point from 350
+20.10 11:59:04 Going to coordinates X=-14.035, Y=-38.062
+20.10 11:59:04 Moving is finished
+20.10 12:02:29 Scanning 293 point from 350
+20.10 12:02:29 Going to coordinates X=-13.985, Y=-38.062
+20.10 12:02:29 Moving is finished
+20.10 12:05:54 Scanning 294 point from 350
+20.10 12:05:54 Going to coordinates X=-14.635, Y=-38.042
+20.10 12:05:54 Moving is finished
+20.10 12:09:19 Scanning 295 point from 350
+20.10 12:09:19 Going to coordinates X=-14.585, Y=-38.042
+20.10 12:09:19 Moving is finished
+20.10 12:12:44 Scanning 296 point from 350
+20.10 12:12:44 Going to coordinates X=-14.535, Y=-38.042
+20.10 12:12:44 Moving is finished
+20.10 12:16:08 Scanning 297 point from 350
+20.10 12:16:08 Going to coordinates X=-14.485, Y=-38.042
+20.10 12:16:08 Moving is finished
+20.10 12:19:33 Scanning 298 point from 350
+20.10 12:19:33 Going to coordinates X=-14.435, Y=-38.042
+20.10 12:19:33 Moving is finished
+20.10 12:22:58 Scanning 299 point from 350
+20.10 12:22:58 Going to coordinates X=-14.385, Y=-38.042
+20.10 12:22:58 Moving is finished
+20.10 12:26:23 Scanning 300 point from 350
+20.10 12:26:23 Going to coordinates X=-14.335, Y=-38.042
+20.10 12:26:24 Moving is finished
+20.10 12:29:48 Scanning 301 point from 350
+20.10 12:29:48 Going to coordinates X=-14.285, Y=-38.042
+20.10 12:29:48 Moving is finished
+20.10 12:33:13 Scanning 302 point from 350
+20.10 12:33:13 Going to coordinates X=-14.235, Y=-38.042
+20.10 12:33:13 Moving is finished
+20.10 12:36:38 Scanning 303 point from 350
+20.10 12:36:38 Going to coordinates X=-14.185, Y=-38.042
+20.10 12:36:38 Moving is finished
+20.10 12:40:03 Scanning 304 point from 350
+20.10 12:40:03 Going to coordinates X=-14.135, Y=-38.042
+20.10 12:40:04 Moving is finished
+20.10 12:43:28 Scanning 305 point from 350
+20.10 12:43:28 Going to coordinates X=-14.085, Y=-38.042
+20.10 12:43:28 Moving is finished
+20.10 12:46:53 Scanning 306 point from 350
+20.10 12:46:53 Going to coordinates X=-14.035, Y=-38.042
+20.10 12:46:53 Moving is finished
+20.10 12:50:18 Scanning 307 point from 350
+20.10 12:50:18 Going to coordinates X=-13.985, Y=-38.042
+20.10 12:50:18 Moving is finished
+20.10 12:53:43 Scanning 308 point from 350
+20.10 12:53:43 Going to coordinates X=-14.635, Y=-38.022
+20.10 12:53:44 Moving is finished
+20.10 12:57:08 Scanning 309 point from 350
+20.10 12:57:08 Going to coordinates X=-14.585, Y=-38.022
+20.10 12:57:08 Moving is finished
+20.10 13:00:33 Scanning 310 point from 350
+20.10 13:00:33 Going to coordinates X=-14.535, Y=-38.022
+20.10 13:00:33 Moving is finished
+20.10 13:03:58 Scanning 311 point from 350
+20.10 13:03:58 Going to coordinates X=-14.485, Y=-38.022
+20.10 13:03:58 Moving is finished
+20.10 13:07:23 Scanning 312 point from 350
+20.10 13:07:23 Going to coordinates X=-14.435, Y=-38.022
+20.10 13:07:23 Moving is finished
+20.10 13:10:48 Scanning 313 point from 350
+20.10 13:10:48 Going to coordinates X=-14.385, Y=-38.022
+20.10 13:10:48 Moving is finished
+20.10 13:14:12 Scanning 314 point from 350
+20.10 13:14:12 Going to coordinates X=-14.335, Y=-38.022
+20.10 13:14:13 Moving is finished
+20.10 13:17:38 Scanning 315 point from 350
+20.10 13:17:38 Going to coordinates X=-14.285, Y=-38.022
+20.10 13:17:38 Moving is finished
+20.10 13:21:03 Scanning 316 point from 350
+20.10 13:21:03 Going to coordinates X=-14.235, Y=-38.022
+20.10 13:21:03 Moving is finished
+20.10 13:24:28 Scanning 317 point from 350
+20.10 13:24:28 Going to coordinates X=-14.185, Y=-38.022
+20.10 13:24:28 Moving is finished
+20.10 13:27:52 Scanning 318 point from 350
+20.10 13:27:52 Going to coordinates X=-14.135, Y=-38.022
+20.10 13:27:53 Moving is finished
+20.10 13:31:17 Scanning 319 point from 350
+20.10 13:31:17 Going to coordinates X=-14.085, Y=-38.022
+20.10 13:31:17 Moving is finished
+20.10 13:34:42 Scanning 320 point from 350
+20.10 13:34:42 Going to coordinates X=-14.035, Y=-38.022
+20.10 13:34:42 Moving is finished
+20.10 13:38:07 Scanning 321 point from 350
+20.10 13:38:07 Going to coordinates X=-13.985, Y=-38.022
+20.10 13:38:07 Moving is finished
+20.10 13:41:32 Scanning 322 point from 350
+20.10 13:41:32 Going to coordinates X=-14.635, Y=-38.002
+20.10 13:41:32 Moving is finished
+20.10 13:44:57 Scanning 323 point from 350
+20.10 13:44:57 Going to coordinates X=-14.585, Y=-38.002
+20.10 13:44:57 Moving is finished
+20.10 13:48:22 Scanning 324 point from 350
+20.10 13:48:22 Going to coordinates X=-14.535, Y=-38.002
+20.10 13:48:22 Moving is finished
+20.10 13:51:47 Scanning 325 point from 350
+20.10 13:51:47 Going to coordinates X=-14.485, Y=-38.002
+20.10 13:51:47 Moving is finished
+20.10 13:55:12 Scanning 326 point from 350
+20.10 13:55:12 Going to coordinates X=-14.435, Y=-38.002
+20.10 13:55:12 Moving is finished
+20.10 13:58:37 Scanning 327 point from 350
+20.10 13:58:37 Going to coordinates X=-14.385, Y=-38.002
+20.10 13:58:37 Moving is finished
+20.10 14:02:02 Scanning 328 point from 350
+20.10 14:02:02 Going to coordinates X=-14.335, Y=-38.002
+20.10 14:02:02 Moving is finished
+20.10 14:05:26 Scanning 329 point from 350
+20.10 14:05:26 Going to coordinates X=-14.285, Y=-38.002
+20.10 14:05:27 Moving is finished
+20.10 14:08:51 Scanning 330 point from 350
+20.10 14:08:51 Going to coordinates X=-14.235, Y=-38.002
+20.10 14:08:52 Moving is finished
+20.10 14:12:16 Scanning 331 point from 350
+20.10 14:12:16 Going to coordinates X=-14.185, Y=-38.002
+20.10 14:12:16 Moving is finished
+20.10 14:15:41 Scanning 332 point from 350
+20.10 14:15:41 Going to coordinates X=-14.135, Y=-38.002
+20.10 14:15:41 Moving is finished
+20.10 14:19:06 Scanning 333 point from 350
+20.10 14:19:06 Going to coordinates X=-14.085, Y=-38.002
+20.10 14:19:06 Moving is finished
+20.10 14:22:31 Scanning 334 point from 350
+20.10 14:22:31 Going to coordinates X=-14.035, Y=-38.002
+20.10 14:22:31 Moving is finished
+20.10 14:25:55 Scanning 335 point from 350
+20.10 14:25:55 Going to coordinates X=-13.985, Y=-38.002
+20.10 14:25:55 Moving is finished
+20.10 14:29:20 Scanning 336 point from 350
+20.10 14:29:20 Going to coordinates X=-14.635, Y=-37.982
+20.10 14:29:21 Moving is finished
+20.10 14:32:46 Scanning 337 point from 350
+20.10 14:32:46 Going to coordinates X=-14.585, Y=-37.982
+20.10 14:32:46 Moving is finished
+20.10 14:36:11 Scanning 338 point from 350
+20.10 14:36:11 Going to coordinates X=-14.535, Y=-37.982
+20.10 14:36:11 Moving is finished
+20.10 14:39:36 Scanning 339 point from 350
+20.10 14:39:36 Going to coordinates X=-14.485, Y=-37.982
+20.10 14:39:36 Moving is finished
+20.10 14:43:00 Scanning 340 point from 350
+20.10 14:43:00 Going to coordinates X=-14.435, Y=-37.982
+20.10 14:43:01 Moving is finished
+20.10 14:46:25 Scanning 341 point from 350
+20.10 14:46:25 Going to coordinates X=-14.385, Y=-37.982
+20.10 14:46:26 Moving is finished
+20.10 14:49:50 Scanning 342 point from 350
+20.10 14:49:50 Going to coordinates X=-14.335, Y=-37.982
+20.10 14:49:50 Moving is finished
+20.10 14:53:15 Scanning 343 point from 350
+20.10 14:53:15 Going to coordinates X=-14.285, Y=-37.982
+20.10 14:53:15 Moving is finished
+20.10 14:56:40 Scanning 344 point from 350
+20.10 14:56:40 Going to coordinates X=-14.235, Y=-37.982
+20.10 14:56:41 Moving is finished
+20.10 15:00:05 Scanning 345 point from 350
+20.10 15:00:05 Going to coordinates X=-14.185, Y=-37.982
+20.10 15:00:05 Moving is finished
+20.10 15:03:30 Scanning 346 point from 350
+20.10 15:03:30 Going to coordinates X=-14.135, Y=-37.982
+20.10 15:03:30 Moving is finished
+20.10 15:06:55 Scanning 347 point from 350
+20.10 15:06:55 Going to coordinates X=-14.085, Y=-37.982
+20.10 15:06:55 Moving is finished
+20.10 15:10:19 Scanning 348 point from 350
+20.10 15:10:19 Going to coordinates X=-14.035, Y=-37.982
+20.10 15:10:20 Moving is finished
+20.10 15:13:44 Scanning 349 point from 350
+20.10 15:13:44 Going to coordinates X=-13.985, Y=-37.982
+20.10 15:13:45 Moving is finished

@@ -1,0 +1,15 @@
+16.07 11:41:00 Initializing grbl...
+16.07 11:41:01 Got the response: b''
+16.07 11:41:32 Row 0: 16.07 11:41:32 Map: x1: -15.202, y1: -35.959, x2: -12.933, y2: -39.785, xres: 0.250, yres: 0.250, fname: dvd_ntp
+16.07 11:41:32 Scanning 0 point from 187
+16.07 11:41:32 Going to coordinates X=-15.202, Y=-39.785
+16.07 11:41:36 Moving is finished
+16.07 11:41:42 Timeout of 5 seconds is reached, stopping current point...
+16.07 11:41:47 Scanning 1 point from 187
+16.07 11:41:47 Going to coordinates X=-14.952, Y=-39.785
+16.07 11:41:47 Moving is finished
+16.07 11:41:53 Timeout of 5 seconds is reached, stopping current point...
+16.07 11:41:58 Scanning 2 point from 187
+16.07 11:41:58 Going to coordinates X=-14.702, Y=-39.785
+16.07 11:41:58 Moving is finished
+16.07 11:42:02 Stopped!

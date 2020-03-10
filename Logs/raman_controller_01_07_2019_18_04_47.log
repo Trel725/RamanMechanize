@@ -1,0 +1,83 @@
+01.07 18:04:58 Initializing grbl...
+01.07 18:04:58 Got the response: b''
+01.07 18:08:45 Row 0: 01.07 18:08:45 Map: x1: -29.117, y1: -39.495, x2: -29.059, y2: -39.557, xres: 0.010, yres: 0.010, fname: hfp2cooh2
+01.07 18:08:45 Scanning 0 point from 56
+01.07 18:08:45 Going to coordinates X=-29.117, Y=-39.557
+01.07 18:08:46 Moving is finished
+01.07 18:10:22 Scanning 1 point from 56
+01.07 18:10:22 Going to coordinates X=-29.107, Y=-39.557
+01.07 18:10:23 Moving is finished
+01.07 18:12:00 Scanning 2 point from 56
+01.07 18:12:00 Going to coordinates X=-29.097, Y=-39.557
+01.07 18:12:00 Moving is finished
+01.07 18:13:38 Scanning 3 point from 56
+01.07 18:13:38 Going to coordinates X=-29.087, Y=-39.557
+01.07 18:13:38 Moving is finished
+01.07 18:15:15 Scanning 4 point from 56
+01.07 18:15:15 Going to coordinates X=-29.077, Y=-39.557
+01.07 18:15:15 Moving is finished
+01.07 18:16:52 Scanning 5 point from 56
+01.07 18:16:52 Going to coordinates X=-29.067, Y=-39.557
+01.07 18:16:52 Moving is finished
+01.07 18:18:29 Scanning 6 point from 56
+01.07 18:18:29 Going to coordinates X=-29.057, Y=-39.557
+01.07 18:18:29 Moving is finished
+01.07 18:20:06 Scanning 7 point from 56
+01.07 18:20:06 Going to coordinates X=-29.117, Y=-39.547
+01.07 18:20:06 Moving is finished
+01.07 18:21:44 Scanning 8 point from 56
+01.07 18:21:44 Going to coordinates X=-29.107, Y=-39.547
+01.07 18:21:44 Moving is finished
+01.07 18:23:20 Scanning 9 point from 56
+01.07 18:23:20 Going to coordinates X=-29.097, Y=-39.547
+01.07 18:23:20 Moving is finished
+01.07 18:24:58 Scanning 10 point from 56
+01.07 18:24:58 Going to coordinates X=-29.087, Y=-39.547
+01.07 18:24:58 Moving is finished
+01.07 18:26:35 Scanning 11 point from 56
+01.07 18:26:35 Going to coordinates X=-29.077, Y=-39.547
+01.07 18:26:35 Moving is finished
+01.07 18:28:12 Scanning 12 point from 56
+01.07 18:28:12 Going to coordinates X=-29.067, Y=-39.547
+01.07 18:28:12 Moving is finished
+01.07 18:29:49 Scanning 13 point from 56
+01.07 18:29:49 Going to coordinates X=-29.057, Y=-39.547
+01.07 18:29:49 Moving is finished
+01.07 18:31:26 Scanning 14 point from 56
+01.07 18:31:26 Going to coordinates X=-29.117, Y=-39.537
+01.07 18:31:27 Moving is finished
+01.07 18:33:04 Scanning 15 point from 56
+01.07 18:33:04 Going to coordinates X=-29.107, Y=-39.537
+01.07 18:33:04 Moving is finished
+01.07 18:34:41 Scanning 16 point from 56
+01.07 18:34:41 Going to coordinates X=-29.097, Y=-39.537
+01.07 18:34:41 Moving is finished
+01.07 18:36:18 Scanning 17 point from 56
+01.07 18:36:18 Going to coordinates X=-29.087, Y=-39.537
+01.07 18:36:18 Moving is finished
+01.07 18:37:48 Stopped!
+01.07 18:39:20 Can't send the command to GRBL
+01.07 18:39:20 Write timeout01.07 18:39:20 Write timeout
+
+01.07 18:39:25 Can't send the command to GRBL
+01.07 18:39:25 Write timeout01.07 18:39:25 Write timeout
+
+01.07 18:42:35 Row 0: 01.07 18:42:35 Map: x1: -29.902, y1: -41.113, x2: -29.62, y2: -40.763, xres: 0.010, yres: 0.010, fname: hfp2cooh
+01.07 18:42:35 Scanning 0 point from 1080
+01.07 18:42:35 Going to coordinates X=-29.902, Y=-41.113
+01.07 18:42:35 Moving is finished
+01.07 18:44:12 Scanning 1 point from 1080
+01.07 18:44:12 Going to coordinates X=-29.892, Y=-41.113
+01.07 18:44:12 Moving is finished
+01.07 18:45:48 Scanning 2 point from 1080
+01.07 18:45:48 Going to coordinates X=-29.882, Y=-41.113
+01.07 18:45:48 Moving is finished
+01.07 18:47:25 Scanning 3 point from 1080
+01.07 18:47:25 Going to coordinates X=-29.872, Y=-41.113
+01.07 18:47:25 Moving is finished
+01.07 18:49:01 Scanning 4 point from 1080
+01.07 18:49:01 Going to coordinates X=-29.862, Y=-41.113
+01.07 18:49:02 Moving is finished
+01.07 18:50:38 Scanning 5 point from 1080
+01.07 18:50:38 Going to coordinates X=-29.852, Y=-41.113
+01.07 18:50:38 Moving is finished

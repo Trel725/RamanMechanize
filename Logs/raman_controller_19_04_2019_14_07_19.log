@@ -1,0 +1,397 @@
+19.04 14:07:20 Initializing grbl...
+19.04 14:07:21 Got the response: b''
+19.04 14:09:28 Row 0: 19.04 14:09:28 Map: x1: -28.41, y1: -37.68, x2: -27.327, y2: -37.629, xres: 0.010, yres: 0.010, fname: 3serawashedcooh
+19.04 14:09:28 Scanning 0 point from 770
+19.04 14:09:28 Going to coordinates X=-28.410, Y=-37.680
+19.04 14:09:29 Moving is finished
+19.04 14:11:05 Scanning 1 point from 770
+19.04 14:11:05 Going to coordinates X=-28.400, Y=-37.680
+19.04 14:11:06 Moving is finished
+19.04 14:12:42 Scanning 2 point from 770
+19.04 14:12:42 Going to coordinates X=-28.390, Y=-37.680
+19.04 14:12:42 Moving is finished
+19.04 14:14:19 Scanning 3 point from 770
+19.04 14:14:19 Going to coordinates X=-28.380, Y=-37.680
+19.04 14:14:19 Moving is finished
+19.04 14:15:55 Scanning 4 point from 770
+19.04 14:15:55 Going to coordinates X=-28.370, Y=-37.680
+19.04 14:15:55 Moving is finished
+19.04 14:17:32 Scanning 5 point from 770
+19.04 14:17:32 Going to coordinates X=-28.360, Y=-37.680
+19.04 14:17:32 Moving is finished
+19.04 14:19:08 Scanning 6 point from 770
+19.04 14:19:08 Going to coordinates X=-28.350, Y=-37.680
+19.04 14:19:08 Moving is finished
+19.04 14:20:45 Scanning 7 point from 770
+19.04 14:20:45 Going to coordinates X=-28.340, Y=-37.680
+19.04 14:20:45 Moving is finished
+19.04 14:22:22 Scanning 8 point from 770
+19.04 14:22:22 Going to coordinates X=-28.330, Y=-37.680
+19.04 14:22:22 Moving is finished
+19.04 14:24:00 Scanning 9 point from 770
+19.04 14:24:00 Going to coordinates X=-28.320, Y=-37.680
+19.04 14:24:00 Moving is finished
+19.04 14:25:37 Scanning 10 point from 770
+19.04 14:25:37 Going to coordinates X=-28.310, Y=-37.680
+19.04 14:25:37 Moving is finished
+19.04 14:27:14 Scanning 11 point from 770
+19.04 14:27:14 Going to coordinates X=-28.300, Y=-37.680
+19.04 14:27:14 Moving is finished
+19.04 14:28:50 Scanning 12 point from 770
+19.04 14:28:50 Going to coordinates X=-28.290, Y=-37.680
+19.04 14:28:50 Moving is finished
+19.04 14:30:27 Scanning 13 point from 770
+19.04 14:30:27 Going to coordinates X=-28.280, Y=-37.680
+19.04 14:30:27 Moving is finished
+19.04 14:32:03 Scanning 14 point from 770
+19.04 14:32:03 Going to coordinates X=-28.270, Y=-37.680
+19.04 14:32:04 Moving is finished
+19.04 14:33:40 Scanning 15 point from 770
+19.04 14:33:40 Going to coordinates X=-28.260, Y=-37.680
+19.04 14:33:40 Moving is finished
+19.04 14:35:17 Scanning 16 point from 770
+19.04 14:35:17 Going to coordinates X=-28.250, Y=-37.680
+19.04 14:35:17 Moving is finished
+19.04 14:36:54 Scanning 17 point from 770
+19.04 14:36:54 Going to coordinates X=-28.240, Y=-37.680
+19.04 14:36:54 Moving is finished
+19.04 14:38:31 Scanning 18 point from 770
+19.04 14:38:31 Going to coordinates X=-28.230, Y=-37.680
+19.04 14:38:31 Moving is finished
+19.04 14:40:07 Scanning 19 point from 770
+19.04 14:40:07 Going to coordinates X=-28.220, Y=-37.680
+19.04 14:40:07 Moving is finished
+19.04 14:41:44 Scanning 20 point from 770
+19.04 14:41:44 Going to coordinates X=-28.210, Y=-37.680
+19.04 14:41:44 Moving is finished
+19.04 14:43:21 Scanning 21 point from 770
+19.04 14:43:21 Going to coordinates X=-28.200, Y=-37.680
+19.04 14:43:21 Moving is finished
+19.04 14:44:57 Scanning 22 point from 770
+19.04 14:44:57 Going to coordinates X=-28.190, Y=-37.680
+19.04 14:44:57 Moving is finished
+19.04 14:46:34 Scanning 23 point from 770
+19.04 14:46:34 Going to coordinates X=-28.180, Y=-37.680
+19.04 14:46:34 Moving is finished
+19.04 14:48:11 Scanning 24 point from 770
+19.04 14:48:11 Going to coordinates X=-28.170, Y=-37.680
+19.04 14:48:11 Moving is finished
+19.04 14:49:48 Scanning 25 point from 770
+19.04 14:49:48 Going to coordinates X=-28.160, Y=-37.680
+19.04 14:49:48 Moving is finished
+19.04 14:51:25 Scanning 26 point from 770
+19.04 14:51:25 Going to coordinates X=-28.150, Y=-37.680
+19.04 14:51:25 Moving is finished
+19.04 14:53:02 Scanning 27 point from 770
+19.04 14:53:02 Going to coordinates X=-28.140, Y=-37.680
+19.04 14:53:02 Moving is finished
+19.04 14:54:39 Scanning 28 point from 770
+19.04 14:54:39 Going to coordinates X=-28.130, Y=-37.680
+19.04 14:54:39 Moving is finished
+19.04 14:56:15 Scanning 29 point from 770
+19.04 14:56:15 Going to coordinates X=-28.120, Y=-37.680
+19.04 14:56:16 Moving is finished
+19.04 14:57:52 Scanning 30 point from 770
+19.04 14:57:52 Going to coordinates X=-28.110, Y=-37.680
+19.04 14:57:52 Moving is finished
+19.04 14:59:29 Scanning 31 point from 770
+19.04 14:59:29 Going to coordinates X=-28.100, Y=-37.680
+19.04 14:59:29 Moving is finished
+19.04 15:01:07 Scanning 32 point from 770
+19.04 15:01:07 Going to coordinates X=-28.090, Y=-37.680
+19.04 15:01:07 Moving is finished
+19.04 15:02:44 Scanning 33 point from 770
+19.04 15:02:44 Going to coordinates X=-28.080, Y=-37.680
+19.04 15:02:44 Moving is finished
+19.04 15:04:21 Scanning 34 point from 770
+19.04 15:04:21 Going to coordinates X=-28.070, Y=-37.680
+19.04 15:04:21 Moving is finished
+19.04 15:05:58 Scanning 35 point from 770
+19.04 15:05:58 Going to coordinates X=-28.060, Y=-37.680
+19.04 15:05:58 Moving is finished
+19.04 15:07:35 Scanning 36 point from 770
+19.04 15:07:35 Going to coordinates X=-28.050, Y=-37.680
+19.04 15:07:35 Moving is finished
+19.04 15:09:11 Scanning 37 point from 770
+19.04 15:09:11 Going to coordinates X=-28.040, Y=-37.680
+19.04 15:09:12 Moving is finished
+19.04 15:10:49 Scanning 38 point from 770
+19.04 15:10:49 Going to coordinates X=-28.030, Y=-37.680
+19.04 15:10:49 Moving is finished
+19.04 15:12:26 Scanning 39 point from 770
+19.04 15:12:26 Going to coordinates X=-28.020, Y=-37.680
+19.04 15:12:26 Moving is finished
+19.04 15:14:03 Scanning 40 point from 770
+19.04 15:14:03 Going to coordinates X=-28.010, Y=-37.680
+19.04 15:14:03 Moving is finished
+19.04 15:15:40 Scanning 41 point from 770
+19.04 15:15:40 Going to coordinates X=-28.000, Y=-37.680
+19.04 15:15:40 Moving is finished
+19.04 15:17:16 Scanning 42 point from 770
+19.04 15:17:16 Going to coordinates X=-27.990, Y=-37.680
+19.04 15:17:17 Moving is finished
+19.04 15:18:53 Scanning 43 point from 770
+19.04 15:18:53 Going to coordinates X=-27.980, Y=-37.680
+19.04 15:18:53 Moving is finished
+19.04 15:20:30 Scanning 44 point from 770
+19.04 15:20:30 Going to coordinates X=-27.970, Y=-37.680
+19.04 15:20:30 Moving is finished
+19.04 15:22:07 Scanning 45 point from 770
+19.04 15:22:07 Going to coordinates X=-27.960, Y=-37.680
+19.04 15:22:07 Moving is finished
+19.04 15:23:44 Scanning 46 point from 770
+19.04 15:23:44 Going to coordinates X=-27.950, Y=-37.680
+19.04 15:23:45 Moving is finished
+19.04 15:25:21 Scanning 47 point from 770
+19.04 15:25:21 Going to coordinates X=-27.940, Y=-37.680
+19.04 15:25:21 Moving is finished
+19.04 15:26:58 Scanning 48 point from 770
+19.04 15:26:58 Going to coordinates X=-27.930, Y=-37.680
+19.04 15:26:58 Moving is finished
+19.04 15:28:35 Scanning 49 point from 770
+19.04 15:28:35 Going to coordinates X=-27.920, Y=-37.680
+19.04 15:28:35 Moving is finished
+19.04 15:30:11 Scanning 50 point from 770
+19.04 15:30:11 Going to coordinates X=-27.910, Y=-37.680
+19.04 15:30:11 Moving is finished
+19.04 15:31:48 Scanning 51 point from 770
+19.04 15:31:48 Going to coordinates X=-27.900, Y=-37.680
+19.04 15:31:48 Moving is finished
+19.04 15:33:24 Scanning 52 point from 770
+19.04 15:33:24 Going to coordinates X=-27.890, Y=-37.680
+19.04 15:33:24 Moving is finished
+19.04 15:35:00 Scanning 53 point from 770
+19.04 15:35:00 Going to coordinates X=-27.880, Y=-37.680
+19.04 15:35:01 Moving is finished
+19.04 15:36:37 Scanning 54 point from 770
+19.04 15:36:37 Going to coordinates X=-27.870, Y=-37.680
+19.04 15:36:37 Moving is finished
+19.04 15:38:14 Scanning 55 point from 770
+19.04 15:38:14 Going to coordinates X=-27.860, Y=-37.680
+19.04 15:38:14 Moving is finished
+19.04 15:39:50 Scanning 56 point from 770
+19.04 15:39:50 Going to coordinates X=-27.850, Y=-37.680
+19.04 15:39:50 Moving is finished
+19.04 15:41:27 Scanning 57 point from 770
+19.04 15:41:27 Going to coordinates X=-27.840, Y=-37.680
+19.04 15:41:27 Moving is finished
+19.04 15:43:04 Scanning 58 point from 770
+19.04 15:43:04 Going to coordinates X=-27.830, Y=-37.680
+19.04 15:43:04 Moving is finished
+19.04 15:44:40 Scanning 59 point from 770
+19.04 15:44:40 Going to coordinates X=-27.820, Y=-37.680
+19.04 15:44:40 Moving is finished
+19.04 15:46:17 Scanning 60 point from 770
+19.04 15:46:17 Going to coordinates X=-27.810, Y=-37.680
+19.04 15:46:17 Moving is finished
+19.04 15:47:54 Scanning 61 point from 770
+19.04 15:47:54 Going to coordinates X=-27.800, Y=-37.680
+19.04 15:47:54 Moving is finished
+19.04 15:49:30 Scanning 62 point from 770
+19.04 15:49:30 Going to coordinates X=-27.790, Y=-37.680
+19.04 15:49:31 Moving is finished
+19.04 15:51:08 Scanning 63 point from 770
+19.04 15:51:08 Going to coordinates X=-27.780, Y=-37.680
+19.04 15:51:08 Moving is finished
+19.04 15:52:44 Scanning 64 point from 770
+19.04 15:52:44 Going to coordinates X=-27.770, Y=-37.680
+19.04 15:52:44 Moving is finished
+19.04 15:54:21 Scanning 65 point from 770
+19.04 15:54:21 Going to coordinates X=-27.760, Y=-37.680
+19.04 15:54:21 Moving is finished
+19.04 15:55:58 Scanning 66 point from 770
+19.04 15:55:58 Going to coordinates X=-27.750, Y=-37.680
+19.04 15:55:58 Moving is finished
+19.04 15:57:35 Scanning 67 point from 770
+19.04 15:57:35 Going to coordinates X=-27.740, Y=-37.680
+19.04 15:57:35 Moving is finished
+19.04 15:59:13 Scanning 68 point from 770
+19.04 15:59:13 Going to coordinates X=-27.730, Y=-37.680
+19.04 15:59:13 Moving is finished
+19.04 16:00:50 Scanning 69 point from 770
+19.04 16:00:50 Going to coordinates X=-27.720, Y=-37.680
+19.04 16:00:50 Moving is finished
+19.04 16:02:26 Scanning 70 point from 770
+19.04 16:02:26 Going to coordinates X=-27.710, Y=-37.680
+19.04 16:02:26 Moving is finished
+19.04 16:04:03 Scanning 71 point from 770
+19.04 16:04:03 Going to coordinates X=-27.700, Y=-37.680
+19.04 16:04:03 Moving is finished
+19.04 16:05:40 Scanning 72 point from 770
+19.04 16:05:40 Going to coordinates X=-27.690, Y=-37.680
+19.04 16:05:40 Moving is finished
+19.04 16:07:17 Scanning 73 point from 770
+19.04 16:07:17 Going to coordinates X=-27.680, Y=-37.680
+19.04 16:07:17 Moving is finished
+19.04 16:08:55 Scanning 74 point from 770
+19.04 16:08:55 Going to coordinates X=-27.670, Y=-37.680
+19.04 16:08:55 Moving is finished
+19.04 16:10:32 Scanning 75 point from 770
+19.04 16:10:32 Going to coordinates X=-27.660, Y=-37.680
+19.04 16:10:32 Moving is finished
+19.04 16:12:08 Scanning 76 point from 770
+19.04 16:12:08 Going to coordinates X=-27.650, Y=-37.680
+19.04 16:12:08 Moving is finished
+19.04 16:13:45 Scanning 77 point from 770
+19.04 16:13:45 Going to coordinates X=-27.640, Y=-37.680
+19.04 16:13:45 Moving is finished
+19.04 16:15:23 Scanning 78 point from 770
+19.04 16:15:23 Going to coordinates X=-27.630, Y=-37.680
+19.04 16:15:23 Moving is finished
+19.04 16:16:59 Scanning 79 point from 770
+19.04 16:16:59 Going to coordinates X=-27.620, Y=-37.680
+19.04 16:17:00 Moving is finished
+19.04 16:18:36 Scanning 80 point from 770
+19.04 16:18:36 Going to coordinates X=-27.610, Y=-37.680
+19.04 16:18:36 Moving is finished
+19.04 16:20:13 Scanning 81 point from 770
+19.04 16:20:13 Going to coordinates X=-27.600, Y=-37.680
+19.04 16:20:13 Moving is finished
+19.04 16:21:51 Scanning 82 point from 770
+19.04 16:21:51 Going to coordinates X=-27.590, Y=-37.680
+19.04 16:21:51 Moving is finished
+19.04 16:23:28 Scanning 83 point from 770
+19.04 16:23:28 Going to coordinates X=-27.580, Y=-37.680
+19.04 16:23:28 Moving is finished
+19.04 16:25:05 Scanning 84 point from 770
+19.04 16:25:05 Going to coordinates X=-27.570, Y=-37.680
+19.04 16:25:05 Moving is finished
+19.04 16:26:42 Scanning 85 point from 770
+19.04 16:26:42 Going to coordinates X=-27.560, Y=-37.680
+19.04 16:26:42 Moving is finished
+19.04 16:28:18 Scanning 86 point from 770
+19.04 16:28:18 Going to coordinates X=-27.550, Y=-37.680
+19.04 16:28:18 Moving is finished
+19.04 16:29:55 Scanning 87 point from 770
+19.04 16:29:55 Going to coordinates X=-27.540, Y=-37.680
+19.04 16:29:55 Moving is finished
+19.04 16:31:32 Scanning 88 point from 770
+19.04 16:31:32 Going to coordinates X=-27.530, Y=-37.680
+19.04 16:31:32 Moving is finished
+19.04 16:33:09 Scanning 89 point from 770
+19.04 16:33:09 Going to coordinates X=-27.520, Y=-37.680
+19.04 16:33:09 Moving is finished
+19.04 16:34:45 Scanning 90 point from 770
+19.04 16:34:45 Going to coordinates X=-27.510, Y=-37.680
+19.04 16:34:46 Moving is finished
+19.04 16:36:22 Scanning 91 point from 770
+19.04 16:36:22 Going to coordinates X=-27.500, Y=-37.680
+19.04 16:36:23 Moving is finished
+19.04 16:37:59 Scanning 92 point from 770
+19.04 16:37:59 Going to coordinates X=-27.490, Y=-37.680
+19.04 16:37:59 Moving is finished
+19.04 16:39:36 Scanning 93 point from 770
+19.04 16:39:36 Going to coordinates X=-27.480, Y=-37.680
+19.04 16:39:36 Moving is finished
+19.04 16:41:13 Scanning 94 point from 770
+19.04 16:41:13 Going to coordinates X=-27.470, Y=-37.680
+19.04 16:41:13 Moving is finished
+19.04 16:42:50 Scanning 95 point from 770
+19.04 16:42:50 Going to coordinates X=-27.460, Y=-37.680
+19.04 16:42:50 Moving is finished
+19.04 16:44:26 Scanning 96 point from 770
+19.04 16:44:26 Going to coordinates X=-27.450, Y=-37.680
+19.04 16:44:26 Moving is finished
+19.04 16:46:03 Scanning 97 point from 770
+19.04 16:46:03 Going to coordinates X=-27.440, Y=-37.680
+19.04 16:46:03 Moving is finished
+19.04 16:47:39 Scanning 98 point from 770
+19.04 16:47:39 Going to coordinates X=-27.430, Y=-37.680
+19.04 16:47:39 Moving is finished
+19.04 16:49:16 Scanning 99 point from 770
+19.04 16:49:16 Going to coordinates X=-27.420, Y=-37.680
+19.04 16:49:16 Moving is finished
+19.04 16:50:53 Scanning 100 point from 770
+19.04 16:50:53 Going to coordinates X=-27.410, Y=-37.680
+19.04 16:50:53 Moving is finished
+19.04 16:52:30 Scanning 101 point from 770
+19.04 16:52:30 Going to coordinates X=-27.400, Y=-37.680
+19.04 16:52:30 Moving is finished
+19.04 16:54:07 Scanning 102 point from 770
+19.04 16:54:07 Going to coordinates X=-27.390, Y=-37.680
+19.04 16:54:07 Moving is finished
+19.04 16:55:43 Scanning 103 point from 770
+19.04 16:55:43 Going to coordinates X=-27.380, Y=-37.680
+19.04 16:55:43 Moving is finished
+19.04 16:57:20 Scanning 104 point from 770
+19.04 16:57:20 Going to coordinates X=-27.370, Y=-37.680
+19.04 16:57:20 Moving is finished
+19.04 16:58:57 Scanning 105 point from 770
+19.04 16:58:57 Going to coordinates X=-27.360, Y=-37.680
+19.04 16:58:57 Moving is finished
+19.04 17:00:34 Scanning 106 point from 770
+19.04 17:00:34 Going to coordinates X=-27.350, Y=-37.680
+19.04 17:00:34 Moving is finished
+19.04 17:02:11 Scanning 107 point from 770
+19.04 17:02:11 Going to coordinates X=-27.340, Y=-37.680
+19.04 17:02:11 Moving is finished
+19.04 17:03:48 Scanning 108 point from 770
+19.04 17:03:48 Going to coordinates X=-27.330, Y=-37.680
+19.04 17:03:48 Moving is finished
+19.04 17:05:24 Scanning 109 point from 770
+19.04 17:05:24 Going to coordinates X=-27.320, Y=-37.680
+19.04 17:05:24 Moving is finished
+19.04 17:07:01 Scanning 110 point from 770
+19.04 17:07:01 Going to coordinates X=-28.410, Y=-37.670
+19.04 17:07:02 Moving is finished
+19.04 17:08:39 Scanning 111 point from 770
+19.04 17:08:39 Going to coordinates X=-28.400, Y=-37.670
+19.04 17:08:39 Moving is finished
+19.04 17:10:17 Scanning 112 point from 770
+19.04 17:10:17 Going to coordinates X=-28.390, Y=-37.670
+19.04 17:10:17 Moving is finished
+19.04 17:11:54 Scanning 113 point from 770
+19.04 17:11:54 Going to coordinates X=-28.380, Y=-37.670
+19.04 17:11:54 Moving is finished
+19.04 17:13:31 Scanning 114 point from 770
+19.04 17:13:31 Going to coordinates X=-28.370, Y=-37.670
+19.04 17:13:31 Moving is finished
+19.04 17:15:08 Scanning 115 point from 770
+19.04 17:15:08 Going to coordinates X=-28.360, Y=-37.670
+19.04 17:15:08 Moving is finished
+19.04 17:16:45 Scanning 116 point from 770
+19.04 17:16:45 Going to coordinates X=-28.350, Y=-37.670
+19.04 17:16:45 Moving is finished
+19.04 17:18:22 Scanning 117 point from 770
+19.04 17:18:22 Going to coordinates X=-28.340, Y=-37.670
+19.04 17:18:22 Moving is finished
+19.04 17:19:58 Scanning 118 point from 770
+19.04 17:19:58 Going to coordinates X=-28.330, Y=-37.670
+19.04 17:19:59 Moving is finished
+19.04 17:21:36 Scanning 119 point from 770
+19.04 17:21:36 Going to coordinates X=-28.320, Y=-37.670
+19.04 17:21:36 Moving is finished
+19.04 17:23:12 Scanning 120 point from 770
+19.04 17:23:12 Going to coordinates X=-28.310, Y=-37.670
+19.04 17:23:13 Moving is finished
+19.04 17:24:49 Scanning 121 point from 770
+19.04 17:24:49 Going to coordinates X=-28.300, Y=-37.670
+19.04 17:24:49 Moving is finished
+19.04 17:26:26 Scanning 122 point from 770
+19.04 17:26:26 Going to coordinates X=-28.290, Y=-37.670
+19.04 17:26:26 Moving is finished
+19.04 17:28:02 Scanning 123 point from 770
+19.04 17:28:02 Going to coordinates X=-28.280, Y=-37.670
+19.04 17:28:03 Moving is finished
+19.04 17:29:39 Scanning 124 point from 770
+19.04 17:29:39 Going to coordinates X=-28.270, Y=-37.670
+19.04 17:29:39 Moving is finished
+19.04 17:31:16 Scanning 125 point from 770
+19.04 17:31:16 Going to coordinates X=-28.260, Y=-37.670
+19.04 17:31:16 Moving is finished
+19.04 17:32:53 Scanning 126 point from 770
+19.04 17:32:53 Going to coordinates X=-28.250, Y=-37.670
+19.04 17:32:53 Moving is finished
+19.04 17:34:31 Scanning 127 point from 770
+19.04 17:34:31 Going to coordinates X=-28.240, Y=-37.670
+19.04 17:34:31 Moving is finished
+19.04 17:36:07 Scanning 128 point from 770
+19.04 17:36:07 Going to coordinates X=-28.230, Y=-37.670
+19.04 17:36:07 Moving is finished
+19.04 17:37:44 Scanning 129 point from 770
+19.04 17:37:44 Going to coordinates X=-28.220, Y=-37.670
+19.04 17:37:44 Moving is finished
+19.04 17:39:21 Scanning 130 point from 770
+19.04 17:39:21 Going to coordinates X=-28.210, Y=-37.670
+19.04 17:39:21 Moving is finished
+19.04 17:40:40 Stopped!

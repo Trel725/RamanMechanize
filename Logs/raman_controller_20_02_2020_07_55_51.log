@@ -1,0 +1,121 @@
+20.02 07:55:59 Initializing grbl...
+20.02 07:55:59 Got the response: b''
+20.02 08:12:01 Can't send the command to GRBL
+20.02 08:12:01 Write timeout20.02 08:12:01 Write timeout
+20.02 08:29:32 Focused at  114
+20.02 08:29:43 Row 0: 20.02 08:29:43 Map: x1: -11.404, y1: -42.544, x2: -9.942, y2: -41.097, xres: 0.100, yres: 0.100, fname: T-6
+20.02 08:29:43 Scanning 0 point from 256
+20.02 08:29:43 Going to coordinates X=-11.404, Y=-42.544
+20.02 08:29:44 Moving is finished
+20.02 08:31:28 Scanning 1 point from 256
+20.02 08:31:28 Going to coordinates X=-11.304, Y=-42.544
+20.02 08:31:29 Moving is finished
+20.02 08:33:13 Scanning 2 point from 256
+20.02 08:33:13 Going to coordinates X=-11.204, Y=-42.544
+20.02 08:33:14 Moving is finished
+20.02 08:34:58 Scanning 3 point from 256
+20.02 08:34:58 Going to coordinates X=-11.104, Y=-42.544
+20.02 08:34:59 Moving is finished
+20.02 08:36:43 Scanning 4 point from 256
+20.02 08:36:43 Going to coordinates X=-11.004, Y=-42.544
+20.02 08:36:44 Moving is finished
+20.02 08:38:29 Scanning 5 point from 256
+20.02 08:38:29 Going to coordinates X=-10.904, Y=-42.544
+20.02 08:38:29 Moving is finished
+20.02 08:40:14 Scanning 6 point from 256
+20.02 08:40:14 Going to coordinates X=-10.804, Y=-42.544
+20.02 08:40:14 Moving is finished
+20.02 08:41:58 Scanning 7 point from 256
+20.02 08:41:58 Going to coordinates X=-10.704, Y=-42.544
+20.02 08:41:59 Moving is finished
+20.02 08:43:43 Scanning 8 point from 256
+20.02 08:43:43 Going to coordinates X=-10.604, Y=-42.544
+20.02 08:43:44 Moving is finished
+20.02 08:45:28 Scanning 9 point from 256
+20.02 08:45:28 Going to coordinates X=-10.504, Y=-42.544
+20.02 08:45:29 Moving is finished
+20.02 08:47:13 Scanning 10 point from 256
+20.02 08:47:13 Going to coordinates X=-10.404, Y=-42.544
+20.02 08:47:14 Moving is finished
+20.02 08:48:58 Scanning 11 point from 256
+20.02 08:48:58 Going to coordinates X=-10.304, Y=-42.544
+20.02 08:48:58 Moving is finished
+20.02 08:50:43 Scanning 12 point from 256
+20.02 08:50:43 Going to coordinates X=-10.204, Y=-42.544
+20.02 08:50:44 Moving is finished
+20.02 08:52:28 Scanning 13 point from 256
+20.02 08:52:28 Going to coordinates X=-10.104, Y=-42.544
+20.02 08:52:28 Moving is finished
+20.02 08:54:13 Scanning 14 point from 256
+20.02 08:55:03 Going to coordinates X=-10.004, Y=-42.544
+20.02 08:56:03 Moving is finished
+20.02 08:57:47 Scanning 15 point from 256
+20.02 08:58:37 Going to coordinates X=-9.904, Y=-42.544
+20.02 08:59:38 Moving is finished
+20.02 09:01:22 Scanning 16 point from 256
+20.02 09:02:12 Going to coordinates X=-11.404, Y=-42.444
+20.02 09:03:12 Moving is finished
+20.02 09:04:57 Scanning 17 point from 256
+20.02 09:05:47 Going to coordinates X=-11.304, Y=-42.444
+20.02 09:06:47 Moving is finished
+20.02 09:08:32 Scanning 18 point from 256
+20.02 09:09:22 Going to coordinates X=-11.204, Y=-42.444
+20.02 09:10:22 Moving is finished
+20.02 09:12:07 Scanning 19 point from 256
+20.02 09:12:57 Going to coordinates X=-11.104, Y=-42.444
+20.02 09:13:57 Moving is finished
+20.02 09:15:42 Scanning 20 point from 256
+20.02 09:16:32 Going to coordinates X=-11.004, Y=-42.444
+20.02 09:17:32 Moving is finished
+20.02 09:19:17 Scanning 21 point from 256
+20.02 09:20:07 Going to coordinates X=-10.904, Y=-42.444
+20.02 09:21:07 Moving is finished
+20.02 09:22:52 Scanning 22 point from 256
+20.02 09:23:42 Going to coordinates X=-10.804, Y=-42.444
+20.02 09:24:42 Moving is finished
+20.02 09:26:27 Scanning 23 point from 256
+20.02 09:27:17 Going to coordinates X=-10.704, Y=-42.444
+20.02 09:28:17 Moving is finished
+20.02 09:30:02 Scanning 24 point from 256
+20.02 09:30:52 Going to coordinates X=-10.604, Y=-42.444
+20.02 09:31:52 Moving is finished
+20.02 09:33:37 Scanning 25 point from 256
+20.02 09:34:27 Going to coordinates X=-10.504, Y=-42.444
+20.02 09:35:27 Moving is finished
+20.02 09:37:12 Scanning 26 point from 256
+20.02 09:38:02 Going to coordinates X=-10.404, Y=-42.444
+20.02 09:39:02 Moving is finished
+20.02 09:40:47 Scanning 27 point from 256
+20.02 09:41:37 Going to coordinates X=-10.304, Y=-42.444
+20.02 09:42:37 Moving is finished
+20.02 09:44:21 Scanning 28 point from 256
+20.02 09:45:11 Going to coordinates X=-10.204, Y=-42.444
+20.02 09:46:11 Moving is finished
+20.02 09:47:56 Scanning 29 point from 256
+20.02 09:48:47 Going to coordinates X=-10.104, Y=-42.444
+20.02 09:49:47 Moving is finished
+20.02 09:51:32 Scanning 30 point from 256
+20.02 09:52:22 Going to coordinates X=-10.004, Y=-42.444
+20.02 09:53:22 Moving is finished
+20.02 09:55:06 Scanning 31 point from 256
+20.02 09:55:56 Going to coordinates X=-9.904, Y=-42.444
+20.02 09:56:57 Moving is finished
+20.02 09:58:41 Scanning 32 point from 256
+20.02 09:59:31 Going to coordinates X=-11.404, Y=-42.344
+20.02 10:00:31 Moving is finished
+20.02 10:02:17 Scanning 33 point from 256
+20.02 10:03:07 Going to coordinates X=-11.304, Y=-42.344
+20.02 10:04:07 Moving is finished
+20.02 10:05:52 Scanning 34 point from 256
+20.02 10:06:42 Going to coordinates X=-11.204, Y=-42.344
+20.02 10:07:42 Moving is finished
+20.02 10:09:27 Scanning 35 point from 256
+20.02 10:10:17 Going to coordinates X=-11.104, Y=-42.344
+20.02 10:11:17 Moving is finished
+20.02 10:13:02 Scanning 36 point from 256
+20.02 10:13:53 Going to coordinates X=-11.004, Y=-42.344
+20.02 10:14:53 Moving is finished
+20.02 10:16:37 Scanning 37 point from 256
+20.02 10:17:27 Going to coordinates X=-10.904, Y=-42.344
+20.02 10:18:27 Moving is finished
+20.02 10:19:46 Stopped!

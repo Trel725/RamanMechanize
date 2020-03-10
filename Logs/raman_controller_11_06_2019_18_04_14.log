@@ -1,0 +1,70 @@
+11.06 18:04:20 Initializing grbl...
+11.06 18:04:20 Got the response: b''
+11.06 18:19:31 Can't send the command to GRBL
+11.06 18:19:31 Write timeout11.06 18:19:31 Write timeout
+
+11.06 18:19:49 Row 0: 11.06 18:19:49 Goto: -33.327; -37.041; 0.000
+11.06 18:19:49 Going to coordinates X=-33.327, Y=-37.041
+11.06 18:19:49 Moving is finished
+11.06 18:19:50 Row 1: 11.06 18:19:50 Raman: AAC-7
+11.06 18:19:50 Starting signal collection to the file AAC-7
+11.06 18:21:30 Data is collected!
+11.06 18:21:30 Row 2: 11.06 18:21:30 Goto: -33.268; -37.041; 0.000
+11.06 18:21:30 Going to coordinates X=-33.268, Y=-37.041
+11.06 18:21:30 Moving is finished
+11.06 18:21:31 Row 3: 11.06 18:21:31 Raman: AAC-7
+11.06 18:21:31 Starting signal collection to the file AAC-7
+11.06 18:21:42 Could not find 'Save AS' in 'dict_keys(['X-Axis Calibration', 'Auto XCAL', 'X CAL Default ', '', 'Intensity(Y) Calibration', 'Y CAL Default ', '0', '1', '2', 'Auto Baseline', 'Auto Baseline 2', 'Manual Baseline', 'MBL Peak Normalized', 'Manual/Auto Baseline Setup', '3', 'Save Reference Spectrum', 'First Derivative ', 'Raw Spectrum', 'Hot Pixel Disable', '4', 'Laser on/off'])'
+11.06 18:21:43 Data is collected!
+11.06 18:21:43 Row 4: 11.06 18:21:43 Goto: -33.268; -37.124; 0.000
+11.06 18:21:43 Going to coordinates X=-33.268, Y=-37.124
+11.06 18:21:43 Moving is finished
+11.06 18:21:44 Row 5: 11.06 18:21:44 Raman: AAC-7
+11.06 18:21:44 Starting signal collection to the file AAC-7
+11.06 18:21:58 Data is collected!
+11.06 18:21:58 Row 6: 11.06 18:21:58 Goto: -33.380; -37.124; 0.000
+11.06 18:21:58 Going to coordinates X=-33.380, Y=-37.124
+11.06 18:21:58 Moving is finished
+11.06 18:21:59 Row 7: 11.06 18:21:59 Raman: AAC-7
+11.06 18:21:59 Starting signal collection to the file AAC-7
+11.06 18:23:10 Data is collected!
+11.06 18:23:10 Row 8: 11.06 18:23:10 Paused
+11.06 18:23:16 Goto: -33.380; -37.000; 0.000
+11.06 18:23:16 Going to coordinates X=-33.380, Y=-37.000
+11.06 18:23:17 Moving is finished
+11.06 18:23:18 Row 9: 11.06 18:23:18 Raman: AAC-7
+11.06 18:23:18 Starting signal collection to the file AAC-7
+
+11.06 18:23:19 Data is collected!
+11.06 18:23:29 Row 0: 11.06 18:23:29 Goto: -33.327; -37.041; 0.000
+11.06 18:23:29 Going to coordinates X=-33.327, Y=-37.041
+11.06 18:23:30 Moving is finished
+11.06 18:23:31 Row 1: 11.06 18:23:31 Raman: AAC-7
+11.06 18:23:31 Starting signal collection to the file AAC-7
+11.06 18:25:09 Data is collected!
+11.06 18:25:09 Row 2: 11.06 18:25:09 Goto: -33.268; -37.041; 0.000
+11.06 18:25:09 Going to coordinates X=-33.268, Y=-37.041
+11.06 18:25:09 Moving is finished
+11.06 18:25:10 Row 3: 11.06 18:25:10 Raman: AAC-7
+11.06 18:25:10 Starting signal collection to the file AAC-7
+11.06 18:26:49 Data is collected!
+11.06 18:26:49 Row 4: 11.06 18:26:49 Goto: -33.268; -37.124; 0.000
+11.06 18:26:49 Going to coordinates X=-33.268, Y=-37.124
+11.06 18:26:49 Status responce is malformed
+11.06 18:26:49 list index out of range
+11.06 18:26:49 Moving is finished
+11.06 18:26:50 Row 5: 11.06 18:26:50 Raman: AAC-7
+11.06 18:26:50 Starting signal collection to the file AAC-7
+11.06 18:28:29 Data is collected!
+11.06 18:28:29 Row 6: 11.06 18:28:29 Goto: -33.380; -37.124; 0.000
+11.06 18:28:29 Going to coordinates X=-33.380, Y=-37.124
+11.06 18:28:29 Moving is finished
+11.06 18:28:30 Row 7: 11.06 18:28:30 Raman: AAC-7
+11.06 18:28:30 Starting signal collection to the file AAC-7
+11.06 18:30:10 Data is collected!
+11.06 18:30:10 Row 8: 11.06 18:30:10 Goto: -33.380; -37.000; 0.000
+11.06 18:30:10 Going to coordinates X=-33.380, Y=-37.000
+11.06 18:30:10 Moving is finished
+11.06 18:30:11 Row 9: 11.06 18:30:11 Raman: AAC-7
+11.06 18:30:11 Starting signal collection to the file AAC-7
+11.06 18:31:50 Data is collected!

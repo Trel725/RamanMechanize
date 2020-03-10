@@ -1,0 +1,2570 @@
+28.06 19:09:29 Initializing grbl...
+28.06 19:09:29 Got the response: b''
+28.06 19:10:52 Write timeout28.06 19:10:52 Can't send the command to GRBL
+
+28.06 19:12:07 Row 0: 28.06 19:12:07 Map: x1: -28.0, y1: -38.0, x2: -26.668, y2: -41.433, xres: 0.050, yres: 0.050, fname: DNAtarg
+28.06 19:12:07 Scanning 0 point from 1960
+28.06 19:12:07 Going to coordinates X=-28.000, Y=-41.433
+28.06 19:12:07 Moving is finished
+28.06 19:13:44 Scanning 1 point from 1960
+28.06 19:13:44 Going to coordinates X=-27.950, Y=-41.433
+28.06 19:13:44 Moving is finished
+28.06 19:15:21 Scanning 2 point from 1960
+28.06 19:15:21 Going to coordinates X=-27.900, Y=-41.433
+28.06 19:15:21 Moving is finished
+28.06 19:16:58 Scanning 3 point from 1960
+28.06 19:16:58 Going to coordinates X=-27.850, Y=-41.433
+28.06 19:16:58 Moving is finished
+28.06 19:18:34 Scanning 4 point from 1960
+28.06 19:18:34 Going to coordinates X=-27.800, Y=-41.433
+28.06 19:18:34 Moving is finished
+28.06 19:20:11 Scanning 5 point from 1960
+28.06 19:20:11 Going to coordinates X=-27.750, Y=-41.433
+28.06 19:20:11 Moving is finished
+28.06 19:21:47 Scanning 6 point from 1960
+28.06 19:21:47 Going to coordinates X=-27.700, Y=-41.433
+28.06 19:21:48 Moving is finished
+28.06 19:23:24 Scanning 7 point from 1960
+28.06 19:23:24 Going to coordinates X=-27.650, Y=-41.433
+28.06 19:23:25 Moving is finished
+28.06 19:25:01 Scanning 8 point from 1960
+28.06 19:25:01 Going to coordinates X=-27.600, Y=-41.433
+28.06 19:25:01 Moving is finished
+28.06 19:26:37 Scanning 9 point from 1960
+28.06 19:26:37 Going to coordinates X=-27.550, Y=-41.433
+28.06 19:26:38 Moving is finished
+28.06 19:28:14 Scanning 10 point from 1960
+28.06 19:28:14 Going to coordinates X=-27.500, Y=-41.433
+28.06 19:28:14 Moving is finished
+28.06 19:29:51 Scanning 11 point from 1960
+28.06 19:29:51 Going to coordinates X=-27.450, Y=-41.433
+28.06 19:29:51 Moving is finished
+28.06 19:31:28 Scanning 12 point from 1960
+28.06 19:31:28 Going to coordinates X=-27.400, Y=-41.433
+28.06 19:31:28 Moving is finished
+28.06 19:33:04 Scanning 13 point from 1960
+28.06 19:33:04 Going to coordinates X=-27.350, Y=-41.433
+28.06 19:33:04 Moving is finished
+28.06 19:34:41 Scanning 14 point from 1960
+28.06 19:34:41 Going to coordinates X=-27.300, Y=-41.433
+28.06 19:34:41 Moving is finished
+28.06 19:36:18 Scanning 15 point from 1960
+28.06 19:36:18 Going to coordinates X=-27.250, Y=-41.433
+28.06 19:36:19 Moving is finished
+28.06 19:37:55 Scanning 16 point from 1960
+28.06 19:37:55 Going to coordinates X=-27.200, Y=-41.433
+28.06 19:37:55 Moving is finished
+28.06 19:39:32 Scanning 17 point from 1960
+28.06 19:39:32 Going to coordinates X=-27.150, Y=-41.433
+28.06 19:39:32 Moving is finished
+28.06 19:41:09 Scanning 18 point from 1960
+28.06 19:41:09 Going to coordinates X=-27.100, Y=-41.433
+28.06 19:41:09 Moving is finished
+28.06 19:42:45 Scanning 19 point from 1960
+28.06 19:42:45 Going to coordinates X=-27.050, Y=-41.433
+28.06 19:42:45 Moving is finished
+28.06 19:44:22 Scanning 20 point from 1960
+28.06 19:44:22 Going to coordinates X=-27.000, Y=-41.433
+28.06 19:44:22 Moving is finished
+28.06 19:45:59 Scanning 21 point from 1960
+28.06 19:45:59 Going to coordinates X=-26.950, Y=-41.433
+28.06 19:45:59 Moving is finished
+28.06 19:47:35 Scanning 22 point from 1960
+28.06 19:47:35 Going to coordinates X=-26.900, Y=-41.433
+28.06 19:47:36 Moving is finished
+28.06 19:49:12 Scanning 23 point from 1960
+28.06 19:49:12 Going to coordinates X=-26.850, Y=-41.433
+28.06 19:49:12 Moving is finished
+28.06 19:50:49 Scanning 24 point from 1960
+28.06 19:50:49 Going to coordinates X=-26.800, Y=-41.433
+28.06 19:50:49 Moving is finished
+28.06 19:52:26 Scanning 25 point from 1960
+28.06 19:52:26 Going to coordinates X=-26.750, Y=-41.433
+28.06 19:52:26 Moving is finished
+28.06 19:54:02 Scanning 26 point from 1960
+28.06 19:54:02 Going to coordinates X=-26.700, Y=-41.433
+28.06 19:54:03 Moving is finished
+28.06 19:55:39 Scanning 27 point from 1960
+28.06 19:55:39 Going to coordinates X=-26.650, Y=-41.433
+28.06 19:55:40 Moving is finished
+28.06 19:57:17 Scanning 28 point from 1960
+28.06 19:57:17 Going to coordinates X=-28.000, Y=-41.383
+28.06 19:57:17 Moving is finished
+28.06 19:58:54 Scanning 29 point from 1960
+28.06 19:58:54 Going to coordinates X=-27.950, Y=-41.383
+28.06 19:58:54 Moving is finished
+28.06 20:00:30 Scanning 30 point from 1960
+28.06 20:00:30 Going to coordinates X=-27.900, Y=-41.383
+28.06 20:00:31 Moving is finished
+28.06 20:02:07 Scanning 31 point from 1960
+28.06 20:02:07 Going to coordinates X=-27.850, Y=-41.383
+28.06 20:02:07 Moving is finished
+28.06 20:03:44 Scanning 32 point from 1960
+28.06 20:03:44 Going to coordinates X=-27.800, Y=-41.383
+28.06 20:03:44 Moving is finished
+28.06 20:05:21 Scanning 33 point from 1960
+28.06 20:05:21 Going to coordinates X=-27.750, Y=-41.383
+28.06 20:05:21 Moving is finished
+28.06 20:06:57 Scanning 34 point from 1960
+28.06 20:06:57 Going to coordinates X=-27.700, Y=-41.383
+28.06 20:06:58 Moving is finished
+28.06 20:08:34 Scanning 35 point from 1960
+28.06 20:08:34 Going to coordinates X=-27.650, Y=-41.383
+28.06 20:08:34 Moving is finished
+28.06 20:10:11 Scanning 36 point from 1960
+28.06 20:10:11 Going to coordinates X=-27.600, Y=-41.383
+28.06 20:10:11 Moving is finished
+28.06 20:11:47 Scanning 37 point from 1960
+28.06 20:11:47 Going to coordinates X=-27.550, Y=-41.383
+28.06 20:11:48 Moving is finished
+28.06 20:13:24 Scanning 38 point from 1960
+28.06 20:13:24 Going to coordinates X=-27.500, Y=-41.383
+28.06 20:13:24 Moving is finished
+28.06 20:15:01 Scanning 39 point from 1960
+28.06 20:15:01 Going to coordinates X=-27.450, Y=-41.383
+28.06 20:15:01 Moving is finished
+28.06 20:16:38 Scanning 40 point from 1960
+28.06 20:16:38 Going to coordinates X=-27.400, Y=-41.383
+28.06 20:16:38 Moving is finished
+28.06 20:18:14 Scanning 41 point from 1960
+28.06 20:18:14 Going to coordinates X=-27.350, Y=-41.383
+28.06 20:18:14 Moving is finished
+28.06 20:19:51 Scanning 42 point from 1960
+28.06 20:19:51 Going to coordinates X=-27.300, Y=-41.383
+28.06 20:19:51 Moving is finished
+28.06 20:21:27 Scanning 43 point from 1960
+28.06 20:21:27 Going to coordinates X=-27.250, Y=-41.383
+28.06 20:21:27 Moving is finished
+28.06 20:23:04 Scanning 44 point from 1960
+28.06 20:23:04 Going to coordinates X=-27.200, Y=-41.383
+28.06 20:23:04 Moving is finished
+28.06 20:24:40 Scanning 45 point from 1960
+28.06 20:24:40 Going to coordinates X=-27.150, Y=-41.383
+28.06 20:24:41 Moving is finished
+28.06 20:26:17 Scanning 46 point from 1960
+28.06 20:26:17 Going to coordinates X=-27.100, Y=-41.383
+28.06 20:26:17 Moving is finished
+28.06 20:27:55 Scanning 47 point from 1960
+28.06 20:27:55 Going to coordinates X=-27.050, Y=-41.383
+28.06 20:27:55 Moving is finished
+28.06 20:29:31 Scanning 48 point from 1960
+28.06 20:29:31 Going to coordinates X=-27.000, Y=-41.383
+28.06 20:29:31 Moving is finished
+28.06 20:31:08 Scanning 49 point from 1960
+28.06 20:31:08 Going to coordinates X=-26.950, Y=-41.383
+28.06 20:31:08 Moving is finished
+28.06 20:32:45 Scanning 50 point from 1960
+28.06 20:32:45 Going to coordinates X=-26.900, Y=-41.383
+28.06 20:32:45 Moving is finished
+28.06 20:34:22 Scanning 51 point from 1960
+28.06 20:34:22 Going to coordinates X=-26.850, Y=-41.383
+28.06 20:34:22 Moving is finished
+28.06 20:35:59 Scanning 52 point from 1960
+28.06 20:35:59 Going to coordinates X=-26.800, Y=-41.383
+28.06 20:35:59 Moving is finished
+28.06 20:37:35 Scanning 53 point from 1960
+28.06 20:37:35 Going to coordinates X=-26.750, Y=-41.383
+28.06 20:37:35 Moving is finished
+28.06 20:39:12 Scanning 54 point from 1960
+28.06 20:39:12 Going to coordinates X=-26.700, Y=-41.383
+28.06 20:39:12 Moving is finished
+28.06 20:40:49 Scanning 55 point from 1960
+28.06 20:40:49 Going to coordinates X=-26.650, Y=-41.383
+28.06 20:40:49 Moving is finished
+28.06 20:42:26 Scanning 56 point from 1960
+28.06 20:42:26 Going to coordinates X=-28.000, Y=-41.333
+28.06 20:42:27 Moving is finished
+28.06 20:44:03 Scanning 57 point from 1960
+28.06 20:44:03 Going to coordinates X=-27.950, Y=-41.333
+28.06 20:44:04 Moving is finished
+28.06 20:45:41 Scanning 58 point from 1960
+28.06 20:45:41 Going to coordinates X=-27.900, Y=-41.333
+28.06 20:45:41 Moving is finished
+28.06 20:47:17 Scanning 59 point from 1960
+28.06 20:47:17 Going to coordinates X=-27.850, Y=-41.333
+28.06 20:47:18 Moving is finished
+28.06 20:48:54 Scanning 60 point from 1960
+28.06 20:48:54 Going to coordinates X=-27.800, Y=-41.333
+28.06 20:48:54 Moving is finished
+28.06 20:50:31 Scanning 61 point from 1960
+28.06 20:50:31 Going to coordinates X=-27.750, Y=-41.333
+28.06 20:50:31 Moving is finished
+28.06 20:52:08 Scanning 62 point from 1960
+28.06 20:52:08 Going to coordinates X=-27.700, Y=-41.333
+28.06 20:52:08 Moving is finished
+28.06 20:53:45 Scanning 63 point from 1960
+28.06 20:53:45 Going to coordinates X=-27.650, Y=-41.333
+28.06 20:53:45 Moving is finished
+28.06 20:55:22 Scanning 64 point from 1960
+28.06 20:55:22 Going to coordinates X=-27.600, Y=-41.333
+28.06 20:55:22 Moving is finished
+28.06 20:56:58 Scanning 65 point from 1960
+28.06 20:56:58 Going to coordinates X=-27.550, Y=-41.333
+28.06 20:56:58 Moving is finished
+28.06 20:58:35 Scanning 66 point from 1960
+28.06 20:58:35 Going to coordinates X=-27.500, Y=-41.333
+28.06 20:58:35 Moving is finished
+28.06 21:00:12 Scanning 67 point from 1960
+28.06 21:00:12 Going to coordinates X=-27.450, Y=-41.333
+28.06 21:00:12 Moving is finished
+28.06 21:01:48 Scanning 68 point from 1960
+28.06 21:01:48 Going to coordinates X=-27.400, Y=-41.333
+28.06 21:01:49 Moving is finished
+28.06 21:03:25 Scanning 69 point from 1960
+28.06 21:03:25 Going to coordinates X=-27.350, Y=-41.333
+28.06 21:03:25 Moving is finished
+28.06 21:05:02 Scanning 70 point from 1960
+28.06 21:05:02 Going to coordinates X=-27.300, Y=-41.333
+28.06 21:05:02 Moving is finished
+28.06 21:06:39 Scanning 71 point from 1960
+28.06 21:06:39 Going to coordinates X=-27.250, Y=-41.333
+28.06 21:06:39 Moving is finished
+28.06 21:08:15 Scanning 72 point from 1960
+28.06 21:08:15 Going to coordinates X=-27.200, Y=-41.333
+28.06 21:08:16 Moving is finished
+28.06 21:09:53 Scanning 73 point from 1960
+28.06 21:09:53 Going to coordinates X=-27.150, Y=-41.333
+28.06 21:09:53 Moving is finished
+28.06 21:11:30 Scanning 74 point from 1960
+28.06 21:11:30 Going to coordinates X=-27.100, Y=-41.333
+28.06 21:11:30 Moving is finished
+28.06 21:13:06 Scanning 75 point from 1960
+28.06 21:13:06 Going to coordinates X=-27.050, Y=-41.333
+28.06 21:13:06 Moving is finished
+28.06 21:14:43 Scanning 76 point from 1960
+28.06 21:14:43 Going to coordinates X=-27.000, Y=-41.333
+28.06 21:14:43 Moving is finished
+28.06 21:16:19 Scanning 77 point from 1960
+28.06 21:16:19 Going to coordinates X=-26.950, Y=-41.333
+28.06 21:16:20 Moving is finished
+28.06 21:17:56 Scanning 78 point from 1960
+28.06 21:17:56 Going to coordinates X=-26.900, Y=-41.333
+28.06 21:17:56 Moving is finished
+28.06 21:19:32 Scanning 79 point from 1960
+28.06 21:19:32 Going to coordinates X=-26.850, Y=-41.333
+28.06 21:19:33 Moving is finished
+28.06 21:21:09 Scanning 80 point from 1960
+28.06 21:21:09 Going to coordinates X=-26.800, Y=-41.333
+28.06 21:21:09 Moving is finished
+28.06 21:22:46 Scanning 81 point from 1960
+28.06 21:22:46 Going to coordinates X=-26.750, Y=-41.333
+28.06 21:22:46 Moving is finished
+28.06 21:24:22 Scanning 82 point from 1960
+28.06 21:24:22 Going to coordinates X=-26.700, Y=-41.333
+28.06 21:24:23 Moving is finished
+28.06 21:25:59 Scanning 83 point from 1960
+28.06 21:25:59 Going to coordinates X=-26.650, Y=-41.333
+28.06 21:25:59 Moving is finished
+28.06 21:27:36 Scanning 84 point from 1960
+28.06 21:27:36 Going to coordinates X=-28.000, Y=-41.283
+28.06 21:27:37 Moving is finished
+28.06 21:29:13 Scanning 85 point from 1960
+28.06 21:29:13 Going to coordinates X=-27.950, Y=-41.283
+28.06 21:29:13 Moving is finished
+28.06 21:30:50 Scanning 86 point from 1960
+28.06 21:30:50 Going to coordinates X=-27.900, Y=-41.283
+28.06 21:30:50 Moving is finished
+28.06 21:32:26 Scanning 87 point from 1960
+28.06 21:32:26 Going to coordinates X=-27.850, Y=-41.283
+28.06 21:32:26 Moving is finished
+28.06 21:34:03 Scanning 88 point from 1960
+28.06 21:34:03 Going to coordinates X=-27.800, Y=-41.283
+28.06 21:34:03 Moving is finished
+28.06 21:35:40 Scanning 89 point from 1960
+28.06 21:35:40 Going to coordinates X=-27.750, Y=-41.283
+28.06 21:35:40 Moving is finished
+28.06 21:37:16 Scanning 90 point from 1960
+28.06 21:37:16 Going to coordinates X=-27.700, Y=-41.283
+28.06 21:37:16 Moving is finished
+28.06 21:38:53 Scanning 91 point from 1960
+28.06 21:38:53 Going to coordinates X=-27.650, Y=-41.283
+28.06 21:38:53 Moving is finished
+28.06 21:40:29 Scanning 92 point from 1960
+28.06 21:40:29 Going to coordinates X=-27.600, Y=-41.283
+28.06 21:40:30 Moving is finished
+28.06 21:42:06 Scanning 93 point from 1960
+28.06 21:42:06 Going to coordinates X=-27.550, Y=-41.283
+28.06 21:42:07 Moving is finished
+28.06 21:43:43 Scanning 94 point from 1960
+28.06 21:43:43 Going to coordinates X=-27.500, Y=-41.283
+28.06 21:43:43 Moving is finished
+28.06 21:45:20 Scanning 95 point from 1960
+28.06 21:45:20 Going to coordinates X=-27.450, Y=-41.283
+28.06 21:45:20 Moving is finished
+28.06 21:46:57 Scanning 96 point from 1960
+28.06 21:46:57 Going to coordinates X=-27.400, Y=-41.283
+28.06 21:46:57 Moving is finished
+28.06 21:48:33 Scanning 97 point from 1960
+28.06 21:48:33 Going to coordinates X=-27.350, Y=-41.283
+28.06 21:48:33 Moving is finished
+28.06 21:50:10 Scanning 98 point from 1960
+28.06 21:50:10 Going to coordinates X=-27.300, Y=-41.283
+28.06 21:50:10 Moving is finished
+28.06 21:51:46 Scanning 99 point from 1960
+28.06 21:51:46 Going to coordinates X=-27.250, Y=-41.283
+28.06 21:51:46 Moving is finished
+28.06 21:53:23 Scanning 100 point from 1960
+28.06 21:53:23 Going to coordinates X=-27.200, Y=-41.283
+28.06 21:53:23 Moving is finished
+28.06 21:55:00 Scanning 101 point from 1960
+28.06 21:55:00 Going to coordinates X=-27.150, Y=-41.283
+28.06 21:55:00 Moving is finished
+28.06 21:56:36 Scanning 102 point from 1960
+28.06 21:56:36 Going to coordinates X=-27.100, Y=-41.283
+28.06 21:56:36 Moving is finished
+28.06 21:58:13 Scanning 103 point from 1960
+28.06 21:58:13 Going to coordinates X=-27.050, Y=-41.283
+28.06 21:58:13 Moving is finished
+28.06 21:59:50 Scanning 104 point from 1960
+28.06 21:59:50 Going to coordinates X=-27.000, Y=-41.283
+28.06 21:59:50 Moving is finished
+28.06 22:01:26 Scanning 105 point from 1960
+28.06 22:01:26 Going to coordinates X=-26.950, Y=-41.283
+28.06 22:01:27 Moving is finished
+28.06 22:03:03 Scanning 106 point from 1960
+28.06 22:03:03 Going to coordinates X=-26.900, Y=-41.283
+28.06 22:03:03 Moving is finished
+28.06 22:04:39 Scanning 107 point from 1960
+28.06 22:04:39 Going to coordinates X=-26.850, Y=-41.283
+28.06 22:04:40 Moving is finished
+28.06 22:06:16 Scanning 108 point from 1960
+28.06 22:06:16 Going to coordinates X=-26.800, Y=-41.283
+28.06 22:06:16 Moving is finished
+28.06 22:07:53 Scanning 109 point from 1960
+28.06 22:07:53 Going to coordinates X=-26.750, Y=-41.283
+28.06 22:07:53 Moving is finished
+28.06 22:09:30 Scanning 110 point from 1960
+28.06 22:09:30 Going to coordinates X=-26.700, Y=-41.283
+28.06 22:09:30 Moving is finished
+28.06 22:11:06 Scanning 111 point from 1960
+28.06 22:11:06 Going to coordinates X=-26.650, Y=-41.283
+28.06 22:11:07 Moving is finished
+28.06 22:12:43 Scanning 112 point from 1960
+28.06 22:12:43 Going to coordinates X=-28.000, Y=-41.233
+28.06 22:12:44 Moving is finished
+28.06 22:14:20 Scanning 113 point from 1960
+28.06 22:14:20 Going to coordinates X=-27.950, Y=-41.233
+28.06 22:14:21 Moving is finished
+28.06 22:15:57 Scanning 114 point from 1960
+28.06 22:15:57 Going to coordinates X=-27.900, Y=-41.233
+28.06 22:15:57 Moving is finished
+28.06 22:17:33 Scanning 115 point from 1960
+28.06 22:17:33 Going to coordinates X=-27.850, Y=-41.233
+28.06 22:17:34 Moving is finished
+28.06 22:19:10 Scanning 116 point from 1960
+28.06 22:19:10 Going to coordinates X=-27.800, Y=-41.233
+28.06 22:19:10 Moving is finished
+28.06 22:20:47 Scanning 117 point from 1960
+28.06 22:20:47 Going to coordinates X=-27.750, Y=-41.233
+28.06 22:20:47 Moving is finished
+28.06 22:22:24 Scanning 118 point from 1960
+28.06 22:22:24 Going to coordinates X=-27.700, Y=-41.233
+28.06 22:22:24 Moving is finished
+28.06 22:24:01 Scanning 119 point from 1960
+28.06 22:24:01 Going to coordinates X=-27.650, Y=-41.233
+28.06 22:24:01 Moving is finished
+28.06 22:25:37 Scanning 120 point from 1960
+28.06 22:25:37 Going to coordinates X=-27.600, Y=-41.233
+28.06 22:25:37 Moving is finished
+28.06 22:27:14 Scanning 121 point from 1960
+28.06 22:27:14 Going to coordinates X=-27.550, Y=-41.233
+28.06 22:27:14 Moving is finished
+28.06 22:28:50 Scanning 122 point from 1960
+28.06 22:28:50 Going to coordinates X=-27.500, Y=-41.233
+28.06 22:28:51 Moving is finished
+28.06 22:30:27 Scanning 123 point from 1960
+28.06 22:30:27 Going to coordinates X=-27.450, Y=-41.233
+28.06 22:30:27 Moving is finished
+28.06 22:32:03 Scanning 124 point from 1960
+28.06 22:32:03 Going to coordinates X=-27.400, Y=-41.233
+28.06 22:32:04 Moving is finished
+28.06 22:33:40 Scanning 125 point from 1960
+28.06 22:33:40 Going to coordinates X=-27.350, Y=-41.233
+28.06 22:33:40 Moving is finished
+28.06 22:35:17 Scanning 126 point from 1960
+28.06 22:35:17 Going to coordinates X=-27.300, Y=-41.233
+28.06 22:35:17 Moving is finished
+28.06 22:36:54 Scanning 127 point from 1960
+28.06 22:36:54 Going to coordinates X=-27.250, Y=-41.233
+28.06 22:36:54 Moving is finished
+28.06 22:38:30 Scanning 128 point from 1960
+28.06 22:38:30 Going to coordinates X=-27.200, Y=-41.233
+28.06 22:38:31 Moving is finished
+28.06 22:40:07 Scanning 129 point from 1960
+28.06 22:40:07 Going to coordinates X=-27.150, Y=-41.233
+28.06 22:40:07 Moving is finished
+28.06 22:41:44 Scanning 130 point from 1960
+28.06 22:41:44 Going to coordinates X=-27.100, Y=-41.233
+28.06 22:41:45 Moving is finished
+28.06 22:43:21 Scanning 131 point from 1960
+28.06 22:43:21 Going to coordinates X=-27.050, Y=-41.233
+28.06 22:43:21 Moving is finished
+28.06 22:44:58 Scanning 132 point from 1960
+28.06 22:44:58 Going to coordinates X=-27.000, Y=-41.233
+28.06 22:44:58 Moving is finished
+28.06 22:46:35 Scanning 133 point from 1960
+28.06 22:46:35 Going to coordinates X=-26.950, Y=-41.233
+28.06 22:46:35 Moving is finished
+28.06 22:48:11 Scanning 134 point from 1960
+28.06 22:48:11 Going to coordinates X=-26.900, Y=-41.233
+28.06 22:48:12 Moving is finished
+28.06 22:49:48 Scanning 135 point from 1960
+28.06 22:49:48 Going to coordinates X=-26.850, Y=-41.233
+28.06 22:49:48 Moving is finished
+28.06 22:51:24 Scanning 136 point from 1960
+28.06 22:51:24 Going to coordinates X=-26.800, Y=-41.233
+28.06 22:51:25 Moving is finished
+28.06 22:53:01 Scanning 137 point from 1960
+28.06 22:53:01 Going to coordinates X=-26.750, Y=-41.233
+28.06 22:53:01 Moving is finished
+28.06 22:54:37 Scanning 138 point from 1960
+28.06 22:54:37 Going to coordinates X=-26.700, Y=-41.233
+28.06 22:54:38 Moving is finished
+28.06 22:56:15 Scanning 139 point from 1960
+28.06 22:56:15 Going to coordinates X=-26.650, Y=-41.233
+28.06 22:56:15 Moving is finished
+28.06 22:57:52 Scanning 140 point from 1960
+28.06 22:57:52 Going to coordinates X=-28.000, Y=-41.183
+28.06 22:57:53 Moving is finished
+28.06 22:59:29 Scanning 141 point from 1960
+28.06 22:59:29 Going to coordinates X=-27.950, Y=-41.183
+28.06 22:59:29 Moving is finished
+28.06 23:01:07 Scanning 142 point from 1960
+28.06 23:01:07 Going to coordinates X=-27.900, Y=-41.183
+28.06 23:01:07 Moving is finished
+28.06 23:02:43 Scanning 143 point from 1960
+28.06 23:02:43 Going to coordinates X=-27.850, Y=-41.183
+28.06 23:02:44 Moving is finished
+28.06 23:04:20 Scanning 144 point from 1960
+28.06 23:04:20 Going to coordinates X=-27.800, Y=-41.183
+28.06 23:04:20 Moving is finished
+28.06 23:05:56 Scanning 145 point from 1960
+28.06 23:05:56 Going to coordinates X=-27.750, Y=-41.183
+28.06 23:05:57 Moving is finished
+28.06 23:07:33 Scanning 146 point from 1960
+28.06 23:07:33 Going to coordinates X=-27.700, Y=-41.183
+28.06 23:07:34 Moving is finished
+28.06 23:09:10 Scanning 147 point from 1960
+28.06 23:09:10 Going to coordinates X=-27.650, Y=-41.183
+28.06 23:09:11 Moving is finished
+28.06 23:10:47 Scanning 148 point from 1960
+28.06 23:10:47 Going to coordinates X=-27.600, Y=-41.183
+28.06 23:10:48 Moving is finished
+28.06 23:12:24 Scanning 149 point from 1960
+28.06 23:12:24 Going to coordinates X=-27.550, Y=-41.183
+28.06 23:12:24 Moving is finished
+28.06 23:14:01 Scanning 150 point from 1960
+28.06 23:14:01 Going to coordinates X=-27.500, Y=-41.183
+28.06 23:14:01 Moving is finished
+28.06 23:15:38 Scanning 151 point from 1960
+28.06 23:15:38 Going to coordinates X=-27.450, Y=-41.183
+28.06 23:15:38 Moving is finished
+28.06 23:17:14 Scanning 152 point from 1960
+28.06 23:17:14 Going to coordinates X=-27.400, Y=-41.183
+28.06 23:17:15 Moving is finished
+28.06 23:18:51 Scanning 153 point from 1960
+28.06 23:18:51 Going to coordinates X=-27.350, Y=-41.183
+28.06 23:18:51 Moving is finished
+28.06 23:20:28 Scanning 154 point from 1960
+28.06 23:20:28 Going to coordinates X=-27.300, Y=-41.183
+28.06 23:20:28 Moving is finished
+28.06 23:22:05 Scanning 155 point from 1960
+28.06 23:22:05 Going to coordinates X=-27.250, Y=-41.183
+28.06 23:22:05 Moving is finished
+28.06 23:23:41 Scanning 156 point from 1960
+28.06 23:23:41 Going to coordinates X=-27.200, Y=-41.183
+28.06 23:23:41 Moving is finished
+28.06 23:25:18 Scanning 157 point from 1960
+28.06 23:25:18 Going to coordinates X=-27.150, Y=-41.183
+28.06 23:25:18 Moving is finished
+28.06 23:26:54 Scanning 158 point from 1960
+28.06 23:26:54 Going to coordinates X=-27.100, Y=-41.183
+28.06 23:26:55 Moving is finished
+28.06 23:28:31 Scanning 159 point from 1960
+28.06 23:28:31 Going to coordinates X=-27.050, Y=-41.183
+28.06 23:28:31 Moving is finished
+28.06 23:30:07 Scanning 160 point from 1960
+28.06 23:30:07 Going to coordinates X=-27.000, Y=-41.183
+28.06 23:30:08 Moving is finished
+28.06 23:31:44 Scanning 161 point from 1960
+28.06 23:31:44 Going to coordinates X=-26.950, Y=-41.183
+28.06 23:31:44 Moving is finished
+28.06 23:33:21 Scanning 162 point from 1960
+28.06 23:33:21 Going to coordinates X=-26.900, Y=-41.183
+28.06 23:33:21 Moving is finished
+28.06 23:34:57 Scanning 163 point from 1960
+28.06 23:34:57 Going to coordinates X=-26.850, Y=-41.183
+28.06 23:34:58 Moving is finished
+28.06 23:36:35 Scanning 164 point from 1960
+28.06 23:36:35 Going to coordinates X=-26.800, Y=-41.183
+28.06 23:36:35 Moving is finished
+28.06 23:38:12 Scanning 165 point from 1960
+28.06 23:38:12 Going to coordinates X=-26.750, Y=-41.183
+28.06 23:38:12 Moving is finished
+28.06 23:39:49 Scanning 166 point from 1960
+28.06 23:39:49 Going to coordinates X=-26.700, Y=-41.183
+28.06 23:39:49 Moving is finished
+28.06 23:41:25 Scanning 167 point from 1960
+28.06 23:41:25 Going to coordinates X=-26.650, Y=-41.183
+28.06 23:41:26 Moving is finished
+28.06 23:43:02 Scanning 168 point from 1960
+28.06 23:43:02 Going to coordinates X=-28.000, Y=-41.133
+28.06 23:43:03 Moving is finished
+28.06 23:44:40 Scanning 169 point from 1960
+28.06 23:44:40 Going to coordinates X=-27.950, Y=-41.133
+28.06 23:44:40 Moving is finished
+28.06 23:46:16 Scanning 170 point from 1960
+28.06 23:46:16 Going to coordinates X=-27.900, Y=-41.133
+28.06 23:46:16 Moving is finished
+28.06 23:47:53 Scanning 171 point from 1960
+28.06 23:47:53 Going to coordinates X=-27.850, Y=-41.133
+28.06 23:47:53 Moving is finished
+28.06 23:49:29 Scanning 172 point from 1960
+28.06 23:49:29 Going to coordinates X=-27.800, Y=-41.133
+28.06 23:49:30 Moving is finished
+28.06 23:51:06 Scanning 173 point from 1960
+28.06 23:51:06 Going to coordinates X=-27.750, Y=-41.133
+28.06 23:51:06 Moving is finished
+28.06 23:52:43 Scanning 174 point from 1960
+28.06 23:52:43 Going to coordinates X=-27.700, Y=-41.133
+28.06 23:52:43 Moving is finished
+28.06 23:54:20 Scanning 175 point from 1960
+28.06 23:54:20 Going to coordinates X=-27.650, Y=-41.133
+28.06 23:54:20 Moving is finished
+28.06 23:55:56 Scanning 176 point from 1960
+28.06 23:55:56 Going to coordinates X=-27.600, Y=-41.133
+28.06 23:55:56 Moving is finished
+28.06 23:57:33 Scanning 177 point from 1960
+28.06 23:57:33 Going to coordinates X=-27.550, Y=-41.133
+28.06 23:57:33 Moving is finished
+28.06 23:59:09 Scanning 178 point from 1960
+28.06 23:59:09 Going to coordinates X=-27.500, Y=-41.133
+28.06 23:59:10 Moving is finished
+29.06 00:00:46 Scanning 179 point from 1960
+29.06 00:00:46 Going to coordinates X=-27.450, Y=-41.133
+29.06 00:00:46 Moving is finished
+29.06 00:02:23 Scanning 180 point from 1960
+29.06 00:02:23 Going to coordinates X=-27.400, Y=-41.133
+29.06 00:02:23 Moving is finished
+29.06 00:03:59 Scanning 181 point from 1960
+29.06 00:03:59 Going to coordinates X=-27.350, Y=-41.133
+29.06 00:03:59 Moving is finished
+29.06 00:05:36 Scanning 182 point from 1960
+29.06 00:05:36 Going to coordinates X=-27.300, Y=-41.133
+29.06 00:05:36 Moving is finished
+29.06 00:07:13 Scanning 183 point from 1960
+29.06 00:07:13 Going to coordinates X=-27.250, Y=-41.133
+29.06 00:07:13 Moving is finished
+29.06 00:08:50 Scanning 184 point from 1960
+29.06 00:08:50 Going to coordinates X=-27.200, Y=-41.133
+29.06 00:08:50 Moving is finished
+29.06 00:10:26 Scanning 185 point from 1960
+29.06 00:10:26 Going to coordinates X=-27.150, Y=-41.133
+29.06 00:10:27 Moving is finished
+29.06 00:12:03 Scanning 186 point from 1960
+29.06 00:12:03 Going to coordinates X=-27.100, Y=-41.133
+29.06 00:12:03 Moving is finished
+29.06 00:13:40 Scanning 187 point from 1960
+29.06 00:13:40 Going to coordinates X=-27.050, Y=-41.133
+29.06 00:13:40 Moving is finished
+29.06 00:15:16 Scanning 188 point from 1960
+29.06 00:15:16 Going to coordinates X=-27.000, Y=-41.133
+29.06 00:15:17 Moving is finished
+29.06 00:16:53 Scanning 189 point from 1960
+29.06 00:16:53 Going to coordinates X=-26.950, Y=-41.133
+29.06 00:16:53 Moving is finished
+29.06 00:18:30 Scanning 190 point from 1960
+29.06 00:18:30 Going to coordinates X=-26.900, Y=-41.133
+29.06 00:18:30 Moving is finished
+29.06 00:20:06 Scanning 191 point from 1960
+29.06 00:20:06 Going to coordinates X=-26.850, Y=-41.133
+29.06 00:20:07 Moving is finished
+29.06 00:21:43 Scanning 192 point from 1960
+29.06 00:21:43 Going to coordinates X=-26.800, Y=-41.133
+29.06 00:21:43 Moving is finished
+29.06 00:23:19 Scanning 193 point from 1960
+29.06 00:23:19 Going to coordinates X=-26.750, Y=-41.133
+29.06 00:23:20 Moving is finished
+29.06 00:24:56 Scanning 194 point from 1960
+29.06 00:24:56 Going to coordinates X=-26.700, Y=-41.133
+29.06 00:24:57 Moving is finished
+29.06 00:26:33 Scanning 195 point from 1960
+29.06 00:26:33 Going to coordinates X=-26.650, Y=-41.133
+29.06 00:26:33 Moving is finished
+29.06 00:28:10 Scanning 196 point from 1960
+29.06 00:28:10 Going to coordinates X=-28.000, Y=-41.083
+29.06 00:28:11 Moving is finished
+29.06 00:29:47 Scanning 197 point from 1960
+29.06 00:29:47 Going to coordinates X=-27.950, Y=-41.083
+29.06 00:29:48 Moving is finished
+29.06 00:31:25 Scanning 198 point from 1960
+29.06 00:31:25 Going to coordinates X=-27.900, Y=-41.083
+29.06 00:31:25 Moving is finished
+29.06 00:33:01 Scanning 199 point from 1960
+29.06 00:33:01 Going to coordinates X=-27.850, Y=-41.083
+29.06 00:33:01 Moving is finished
+29.06 00:34:38 Scanning 200 point from 1960
+29.06 00:34:38 Going to coordinates X=-27.800, Y=-41.083
+29.06 00:34:38 Moving is finished
+29.06 00:36:15 Scanning 201 point from 1960
+29.06 00:36:15 Going to coordinates X=-27.750, Y=-41.083
+29.06 00:36:15 Moving is finished
+29.06 00:37:51 Scanning 202 point from 1960
+29.06 00:37:51 Going to coordinates X=-27.700, Y=-41.083
+29.06 00:37:52 Moving is finished
+29.06 00:39:28 Scanning 203 point from 1960
+29.06 00:39:28 Going to coordinates X=-27.650, Y=-41.083
+29.06 00:39:28 Moving is finished
+29.06 00:41:05 Scanning 204 point from 1960
+29.06 00:41:05 Going to coordinates X=-27.600, Y=-41.083
+29.06 00:41:05 Moving is finished
+29.06 00:42:41 Scanning 205 point from 1960
+29.06 00:42:41 Going to coordinates X=-27.550, Y=-41.083
+29.06 00:42:42 Moving is finished
+29.06 00:44:18 Scanning 206 point from 1960
+29.06 00:44:18 Going to coordinates X=-27.500, Y=-41.083
+29.06 00:44:18 Moving is finished
+29.06 00:45:55 Scanning 207 point from 1960
+29.06 00:45:55 Going to coordinates X=-27.450, Y=-41.083
+29.06 00:45:55 Moving is finished
+29.06 00:47:32 Scanning 208 point from 1960
+29.06 00:47:32 Going to coordinates X=-27.400, Y=-41.083
+29.06 00:47:32 Moving is finished
+29.06 00:49:08 Scanning 209 point from 1960
+29.06 00:49:08 Going to coordinates X=-27.350, Y=-41.083
+29.06 00:49:09 Moving is finished
+29.06 00:50:45 Scanning 210 point from 1960
+29.06 00:50:45 Going to coordinates X=-27.300, Y=-41.083
+29.06 00:50:45 Moving is finished
+29.06 00:52:22 Scanning 211 point from 1960
+29.06 00:52:22 Going to coordinates X=-27.250, Y=-41.083
+29.06 00:52:22 Moving is finished
+29.06 00:53:59 Scanning 212 point from 1960
+29.06 00:53:59 Going to coordinates X=-27.200, Y=-41.083
+29.06 00:53:59 Moving is finished
+29.06 00:55:37 Scanning 213 point from 1960
+29.06 00:55:37 Going to coordinates X=-27.150, Y=-41.083
+29.06 00:55:37 Moving is finished
+29.06 00:57:14 Scanning 214 point from 1960
+29.06 00:57:14 Going to coordinates X=-27.100, Y=-41.083
+29.06 00:57:14 Moving is finished
+29.06 00:58:50 Scanning 215 point from 1960
+29.06 00:58:50 Going to coordinates X=-27.050, Y=-41.083
+29.06 00:58:51 Moving is finished
+29.06 01:00:27 Scanning 216 point from 1960
+29.06 01:00:27 Going to coordinates X=-27.000, Y=-41.083
+29.06 01:00:27 Moving is finished
+29.06 01:02:03 Scanning 217 point from 1960
+29.06 01:02:03 Going to coordinates X=-26.950, Y=-41.083
+29.06 01:02:04 Moving is finished
+29.06 01:03:40 Scanning 218 point from 1960
+29.06 01:03:40 Going to coordinates X=-26.900, Y=-41.083
+29.06 01:03:40 Moving is finished
+29.06 01:05:16 Scanning 219 point from 1960
+29.06 01:05:16 Going to coordinates X=-26.850, Y=-41.083
+29.06 01:05:17 Moving is finished
+29.06 01:06:53 Scanning 220 point from 1960
+29.06 01:06:53 Going to coordinates X=-26.800, Y=-41.083
+29.06 01:06:53 Moving is finished
+29.06 01:08:30 Scanning 221 point from 1960
+29.06 01:08:30 Going to coordinates X=-26.750, Y=-41.083
+29.06 01:08:30 Moving is finished
+29.06 01:10:07 Scanning 222 point from 1960
+29.06 01:10:07 Going to coordinates X=-26.700, Y=-41.083
+29.06 01:10:07 Moving is finished
+29.06 01:11:44 Scanning 223 point from 1960
+29.06 01:11:44 Going to coordinates X=-26.650, Y=-41.083
+29.06 01:11:44 Moving is finished
+29.06 01:13:20 Scanning 224 point from 1960
+29.06 01:13:20 Going to coordinates X=-28.000, Y=-41.033
+29.06 01:13:21 Moving is finished
+29.06 01:14:57 Scanning 225 point from 1960
+29.06 01:14:57 Going to coordinates X=-27.950, Y=-41.033
+29.06 01:14:58 Moving is finished
+29.06 01:16:35 Scanning 226 point from 1960
+29.06 01:16:35 Going to coordinates X=-27.900, Y=-41.033
+29.06 01:16:35 Moving is finished
+29.06 01:18:12 Scanning 227 point from 1960
+29.06 01:18:12 Going to coordinates X=-27.850, Y=-41.033
+29.06 01:18:12 Moving is finished
+29.06 01:19:48 Scanning 228 point from 1960
+29.06 01:19:48 Going to coordinates X=-27.800, Y=-41.033
+29.06 01:19:48 Moving is finished
+29.06 01:21:25 Scanning 229 point from 1960
+29.06 01:21:25 Going to coordinates X=-27.750, Y=-41.033
+29.06 01:21:25 Moving is finished
+29.06 01:23:02 Scanning 230 point from 1960
+29.06 01:23:02 Going to coordinates X=-27.700, Y=-41.033
+29.06 01:23:02 Moving is finished
+29.06 01:24:39 Scanning 231 point from 1960
+29.06 01:24:39 Going to coordinates X=-27.650, Y=-41.033
+29.06 01:24:39 Moving is finished
+29.06 01:26:16 Scanning 232 point from 1960
+29.06 01:26:16 Going to coordinates X=-27.600, Y=-41.033
+29.06 01:26:16 Moving is finished
+29.06 01:27:53 Scanning 233 point from 1960
+29.06 01:27:53 Going to coordinates X=-27.550, Y=-41.033
+29.06 01:27:53 Moving is finished
+29.06 01:29:29 Scanning 234 point from 1960
+29.06 01:29:29 Going to coordinates X=-27.500, Y=-41.033
+29.06 01:29:29 Moving is finished
+29.06 01:31:06 Scanning 235 point from 1960
+29.06 01:31:06 Going to coordinates X=-27.450, Y=-41.033
+29.06 01:31:06 Moving is finished
+29.06 01:32:43 Scanning 236 point from 1960
+29.06 01:32:43 Going to coordinates X=-27.400, Y=-41.033
+29.06 01:32:43 Moving is finished
+29.06 01:34:19 Scanning 237 point from 1960
+29.06 01:34:19 Going to coordinates X=-27.350, Y=-41.033
+29.06 01:34:20 Moving is finished
+29.06 01:35:56 Scanning 238 point from 1960
+29.06 01:35:56 Going to coordinates X=-27.300, Y=-41.033
+29.06 01:35:56 Moving is finished
+29.06 01:37:33 Scanning 239 point from 1960
+29.06 01:37:33 Going to coordinates X=-27.250, Y=-41.033
+29.06 01:37:33 Moving is finished
+29.06 01:39:10 Scanning 240 point from 1960
+29.06 01:39:10 Going to coordinates X=-27.200, Y=-41.033
+29.06 01:39:10 Moving is finished
+29.06 01:40:46 Scanning 241 point from 1960
+29.06 01:40:46 Going to coordinates X=-27.150, Y=-41.033
+29.06 01:40:46 Moving is finished
+29.06 01:42:23 Scanning 242 point from 1960
+29.06 01:42:23 Going to coordinates X=-27.100, Y=-41.033
+29.06 01:42:23 Moving is finished
+29.06 01:44:00 Scanning 243 point from 1960
+29.06 01:44:00 Going to coordinates X=-27.050, Y=-41.033
+29.06 01:44:00 Moving is finished
+29.06 01:45:36 Scanning 244 point from 1960
+29.06 01:45:36 Going to coordinates X=-27.000, Y=-41.033
+29.06 01:45:36 Moving is finished
+29.06 01:47:13 Scanning 245 point from 1960
+29.06 01:47:13 Going to coordinates X=-26.950, Y=-41.033
+29.06 01:47:13 Moving is finished
+29.06 01:48:50 Scanning 246 point from 1960
+29.06 01:48:50 Going to coordinates X=-26.900, Y=-41.033
+29.06 01:48:50 Moving is finished
+29.06 01:50:27 Scanning 247 point from 1960
+29.06 01:50:27 Going to coordinates X=-26.850, Y=-41.033
+29.06 01:50:28 Moving is finished
+29.06 01:52:04 Scanning 248 point from 1960
+29.06 01:52:04 Going to coordinates X=-26.800, Y=-41.033
+29.06 01:52:05 Moving is finished
+29.06 01:53:41 Scanning 249 point from 1960
+29.06 01:53:41 Going to coordinates X=-26.750, Y=-41.033
+29.06 01:53:41 Moving is finished
+29.06 01:55:18 Scanning 250 point from 1960
+29.06 01:55:18 Going to coordinates X=-26.700, Y=-41.033
+29.06 01:55:18 Moving is finished
+29.06 01:56:55 Scanning 251 point from 1960
+29.06 01:56:55 Going to coordinates X=-26.650, Y=-41.033
+29.06 01:56:55 Moving is finished
+29.06 01:58:31 Scanning 252 point from 1960
+29.06 01:58:31 Going to coordinates X=-28.000, Y=-40.983
+29.06 01:58:32 Moving is finished
+29.06 02:00:09 Scanning 253 point from 1960
+29.06 02:00:09 Going to coordinates X=-27.950, Y=-40.983
+29.06 02:00:09 Moving is finished
+29.06 02:01:45 Scanning 254 point from 1960
+29.06 02:01:45 Going to coordinates X=-27.900, Y=-40.983
+29.06 02:01:46 Moving is finished
+29.06 02:03:22 Scanning 255 point from 1960
+29.06 02:03:22 Going to coordinates X=-27.850, Y=-40.983
+29.06 02:03:22 Moving is finished
+29.06 02:04:59 Scanning 256 point from 1960
+29.06 02:04:59 Going to coordinates X=-27.800, Y=-40.983
+29.06 02:04:59 Moving is finished
+29.06 02:06:36 Scanning 257 point from 1960
+29.06 02:06:36 Going to coordinates X=-27.750, Y=-40.983
+29.06 02:06:36 Moving is finished
+29.06 02:08:12 Scanning 258 point from 1960
+29.06 02:08:12 Going to coordinates X=-27.700, Y=-40.983
+29.06 02:08:13 Moving is finished
+29.06 02:09:49 Scanning 259 point from 1960
+29.06 02:09:49 Going to coordinates X=-27.650, Y=-40.983
+29.06 02:09:49 Moving is finished
+29.06 02:11:26 Scanning 260 point from 1960
+29.06 02:11:26 Going to coordinates X=-27.600, Y=-40.983
+29.06 02:11:26 Moving is finished
+29.06 02:13:03 Scanning 261 point from 1960
+29.06 02:13:03 Going to coordinates X=-27.550, Y=-40.983
+29.06 02:13:03 Moving is finished
+29.06 02:14:39 Scanning 262 point from 1960
+29.06 02:14:39 Going to coordinates X=-27.500, Y=-40.983
+29.06 02:14:40 Moving is finished
+29.06 02:16:16 Scanning 263 point from 1960
+29.06 02:16:16 Going to coordinates X=-27.450, Y=-40.983
+29.06 02:16:16 Moving is finished
+29.06 02:17:53 Scanning 264 point from 1960
+29.06 02:17:53 Going to coordinates X=-27.400, Y=-40.983
+29.06 02:17:53 Moving is finished
+29.06 02:19:29 Scanning 265 point from 1960
+29.06 02:19:29 Going to coordinates X=-27.350, Y=-40.983
+29.06 02:19:30 Moving is finished
+29.06 02:21:06 Scanning 266 point from 1960
+29.06 02:21:06 Going to coordinates X=-27.300, Y=-40.983
+29.06 02:21:06 Moving is finished
+29.06 02:22:42 Scanning 267 point from 1960
+29.06 02:22:42 Going to coordinates X=-27.250, Y=-40.983
+29.06 02:22:43 Moving is finished
+29.06 02:24:19 Scanning 268 point from 1960
+29.06 02:24:19 Going to coordinates X=-27.200, Y=-40.983
+29.06 02:24:19 Moving is finished
+29.06 02:25:56 Scanning 269 point from 1960
+29.06 02:25:56 Going to coordinates X=-27.150, Y=-40.983
+29.06 02:25:56 Moving is finished
+29.06 02:27:33 Scanning 270 point from 1960
+29.06 02:27:33 Going to coordinates X=-27.100, Y=-40.983
+29.06 02:27:33 Moving is finished
+29.06 02:29:10 Scanning 271 point from 1960
+29.06 02:29:10 Going to coordinates X=-27.050, Y=-40.983
+29.06 02:29:10 Moving is finished
+29.06 02:30:46 Scanning 272 point from 1960
+29.06 02:30:46 Going to coordinates X=-27.000, Y=-40.983
+29.06 02:30:46 Moving is finished
+29.06 02:32:23 Scanning 273 point from 1960
+29.06 02:32:23 Going to coordinates X=-26.950, Y=-40.983
+29.06 02:32:23 Moving is finished
+29.06 02:34:00 Scanning 274 point from 1960
+29.06 02:34:00 Going to coordinates X=-26.900, Y=-40.983
+29.06 02:34:00 Moving is finished
+29.06 02:35:36 Scanning 275 point from 1960
+29.06 02:35:36 Going to coordinates X=-26.850, Y=-40.983
+29.06 02:35:36 Moving is finished
+29.06 02:37:13 Scanning 276 point from 1960
+29.06 02:37:13 Going to coordinates X=-26.800, Y=-40.983
+29.06 02:37:13 Moving is finished
+29.06 02:38:49 Scanning 277 point from 1960
+29.06 02:38:49 Going to coordinates X=-26.750, Y=-40.983
+29.06 02:38:50 Moving is finished
+29.06 02:40:26 Scanning 278 point from 1960
+29.06 02:40:26 Going to coordinates X=-26.700, Y=-40.983
+29.06 02:40:26 Moving is finished
+29.06 02:42:03 Scanning 279 point from 1960
+29.06 02:42:03 Going to coordinates X=-26.650, Y=-40.983
+29.06 02:42:03 Moving is finished
+29.06 02:43:39 Scanning 280 point from 1960
+29.06 02:43:39 Going to coordinates X=-28.000, Y=-40.933
+29.06 02:43:40 Moving is finished
+29.06 02:45:17 Scanning 281 point from 1960
+29.06 02:45:17 Going to coordinates X=-27.950, Y=-40.933
+29.06 02:45:17 Moving is finished
+29.06 02:46:53 Scanning 282 point from 1960
+29.06 02:46:53 Going to coordinates X=-27.900, Y=-40.933
+29.06 02:46:53 Moving is finished
+29.06 02:48:30 Scanning 283 point from 1960
+29.06 02:48:30 Going to coordinates X=-27.850, Y=-40.933
+29.06 02:48:30 Moving is finished
+29.06 02:50:07 Scanning 284 point from 1960
+29.06 02:50:07 Going to coordinates X=-27.800, Y=-40.933
+29.06 02:50:07 Moving is finished
+29.06 02:51:43 Scanning 285 point from 1960
+29.06 02:51:43 Going to coordinates X=-27.750, Y=-40.933
+29.06 02:51:43 Moving is finished
+29.06 02:53:20 Scanning 286 point from 1960
+29.06 02:53:20 Going to coordinates X=-27.700, Y=-40.933
+29.06 02:53:20 Moving is finished
+29.06 02:54:57 Scanning 287 point from 1960
+29.06 02:54:57 Going to coordinates X=-27.650, Y=-40.933
+29.06 02:54:57 Moving is finished
+29.06 02:56:33 Scanning 288 point from 1960
+29.06 02:56:33 Going to coordinates X=-27.600, Y=-40.933
+29.06 02:56:34 Moving is finished
+29.06 02:58:10 Scanning 289 point from 1960
+29.06 02:58:10 Going to coordinates X=-27.550, Y=-40.933
+29.06 02:58:10 Moving is finished
+29.06 02:59:47 Scanning 290 point from 1960
+29.06 02:59:47 Going to coordinates X=-27.500, Y=-40.933
+29.06 02:59:47 Moving is finished
+29.06 03:01:23 Scanning 291 point from 1960
+29.06 03:01:23 Going to coordinates X=-27.450, Y=-40.933
+29.06 03:01:24 Moving is finished
+29.06 03:03:00 Scanning 292 point from 1960
+29.06 03:03:00 Going to coordinates X=-27.400, Y=-40.933
+29.06 03:03:00 Moving is finished
+29.06 03:04:37 Scanning 293 point from 1960
+29.06 03:04:37 Going to coordinates X=-27.350, Y=-40.933
+29.06 03:04:37 Moving is finished
+29.06 03:06:13 Scanning 294 point from 1960
+29.06 03:06:13 Going to coordinates X=-27.300, Y=-40.933
+29.06 03:06:14 Moving is finished
+29.06 03:07:50 Scanning 295 point from 1960
+29.06 03:07:50 Going to coordinates X=-27.250, Y=-40.933
+29.06 03:07:50 Moving is finished
+29.06 03:09:27 Scanning 296 point from 1960
+29.06 03:09:27 Going to coordinates X=-27.200, Y=-40.933
+29.06 03:09:27 Moving is finished
+29.06 03:11:03 Scanning 297 point from 1960
+29.06 03:11:03 Going to coordinates X=-27.150, Y=-40.933
+29.06 03:11:04 Moving is finished
+29.06 03:12:40 Scanning 298 point from 1960
+29.06 03:12:40 Going to coordinates X=-27.100, Y=-40.933
+29.06 03:12:40 Moving is finished
+29.06 03:14:16 Scanning 299 point from 1960
+29.06 03:14:16 Going to coordinates X=-27.050, Y=-40.933
+29.06 03:14:17 Moving is finished
+29.06 03:15:53 Scanning 300 point from 1960
+29.06 03:15:53 Going to coordinates X=-27.000, Y=-40.933
+29.06 03:15:53 Moving is finished
+29.06 03:17:30 Scanning 301 point from 1960
+29.06 03:17:30 Going to coordinates X=-26.950, Y=-40.933
+29.06 03:17:30 Moving is finished
+29.06 03:19:07 Scanning 302 point from 1960
+29.06 03:19:07 Going to coordinates X=-26.900, Y=-40.933
+29.06 03:19:07 Moving is finished
+29.06 03:20:43 Scanning 303 point from 1960
+29.06 03:20:43 Going to coordinates X=-26.850, Y=-40.933
+29.06 03:20:43 Moving is finished
+29.06 03:22:20 Scanning 304 point from 1960
+29.06 03:22:20 Going to coordinates X=-26.800, Y=-40.933
+29.06 03:22:20 Moving is finished
+29.06 03:23:57 Scanning 305 point from 1960
+29.06 03:23:57 Going to coordinates X=-26.750, Y=-40.933
+29.06 03:23:57 Moving is finished
+29.06 03:25:33 Scanning 306 point from 1960
+29.06 03:25:33 Going to coordinates X=-26.700, Y=-40.933
+29.06 03:25:34 Moving is finished
+29.06 03:27:10 Scanning 307 point from 1960
+29.06 03:27:10 Going to coordinates X=-26.650, Y=-40.933
+29.06 03:27:10 Moving is finished
+29.06 03:28:47 Scanning 308 point from 1960
+29.06 03:28:47 Going to coordinates X=-28.000, Y=-40.883
+29.06 03:28:48 Moving is finished
+29.06 03:30:24 Scanning 309 point from 1960
+29.06 03:30:24 Going to coordinates X=-27.950, Y=-40.883
+29.06 03:30:24 Moving is finished
+29.06 03:32:01 Scanning 310 point from 1960
+29.06 03:32:01 Going to coordinates X=-27.900, Y=-40.883
+29.06 03:32:01 Moving is finished
+29.06 03:33:37 Scanning 311 point from 1960
+29.06 03:33:37 Going to coordinates X=-27.850, Y=-40.883
+29.06 03:33:37 Moving is finished
+29.06 03:35:14 Scanning 312 point from 1960
+29.06 03:35:14 Going to coordinates X=-27.800, Y=-40.883
+29.06 03:35:14 Moving is finished
+29.06 03:36:50 Scanning 313 point from 1960
+29.06 03:36:50 Going to coordinates X=-27.750, Y=-40.883
+29.06 03:36:51 Moving is finished
+29.06 03:38:27 Scanning 314 point from 1960
+29.06 03:38:27 Going to coordinates X=-27.700, Y=-40.883
+29.06 03:38:27 Moving is finished
+29.06 03:40:03 Scanning 315 point from 1960
+29.06 03:40:03 Going to coordinates X=-27.650, Y=-40.883
+29.06 03:40:04 Moving is finished
+29.06 03:41:40 Scanning 316 point from 1960
+29.06 03:41:40 Going to coordinates X=-27.600, Y=-40.883
+29.06 03:41:40 Moving is finished
+29.06 03:43:17 Scanning 317 point from 1960
+29.06 03:43:17 Going to coordinates X=-27.550, Y=-40.883
+29.06 03:43:17 Moving is finished
+29.06 03:44:53 Scanning 318 point from 1960
+29.06 03:44:53 Going to coordinates X=-27.500, Y=-40.883
+29.06 03:44:53 Moving is finished
+29.06 03:46:30 Scanning 319 point from 1960
+29.06 03:46:30 Going to coordinates X=-27.450, Y=-40.883
+29.06 03:46:30 Moving is finished
+29.06 03:48:07 Scanning 320 point from 1960
+29.06 03:48:07 Going to coordinates X=-27.400, Y=-40.883
+29.06 03:48:07 Moving is finished
+29.06 03:49:43 Scanning 321 point from 1960
+29.06 03:49:43 Going to coordinates X=-27.350, Y=-40.883
+29.06 03:49:43 Moving is finished
+29.06 03:51:20 Scanning 322 point from 1960
+29.06 03:51:20 Going to coordinates X=-27.300, Y=-40.883
+29.06 03:51:20 Moving is finished
+29.06 03:52:57 Scanning 323 point from 1960
+29.06 03:52:57 Going to coordinates X=-27.250, Y=-40.883
+29.06 03:52:57 Moving is finished
+29.06 03:54:33 Scanning 324 point from 1960
+29.06 03:54:33 Going to coordinates X=-27.200, Y=-40.883
+29.06 03:54:33 Moving is finished
+29.06 03:56:10 Scanning 325 point from 1960
+29.06 03:56:10 Going to coordinates X=-27.150, Y=-40.883
+29.06 03:56:10 Moving is finished
+29.06 03:57:47 Scanning 326 point from 1960
+29.06 03:57:47 Going to coordinates X=-27.100, Y=-40.883
+29.06 03:57:47 Moving is finished
+29.06 03:59:23 Scanning 327 point from 1960
+29.06 03:59:23 Going to coordinates X=-27.050, Y=-40.883
+29.06 03:59:23 Moving is finished
+29.06 04:01:00 Scanning 328 point from 1960
+29.06 04:01:00 Going to coordinates X=-27.000, Y=-40.883
+29.06 04:01:00 Moving is finished
+29.06 04:02:36 Scanning 329 point from 1960
+29.06 04:02:36 Going to coordinates X=-26.950, Y=-40.883
+29.06 04:02:36 Moving is finished
+29.06 04:04:13 Scanning 330 point from 1960
+29.06 04:04:13 Going to coordinates X=-26.900, Y=-40.883
+29.06 04:04:13 Moving is finished
+29.06 04:05:50 Scanning 331 point from 1960
+29.06 04:05:50 Going to coordinates X=-26.850, Y=-40.883
+29.06 04:05:50 Moving is finished
+29.06 04:07:27 Scanning 332 point from 1960
+29.06 04:07:27 Going to coordinates X=-26.800, Y=-40.883
+29.06 04:07:27 Moving is finished
+29.06 04:09:03 Scanning 333 point from 1960
+29.06 04:09:03 Going to coordinates X=-26.750, Y=-40.883
+29.06 04:09:04 Moving is finished
+29.06 04:10:40 Scanning 334 point from 1960
+29.06 04:10:40 Going to coordinates X=-26.700, Y=-40.883
+29.06 04:10:40 Moving is finished
+29.06 04:12:17 Scanning 335 point from 1960
+29.06 04:12:17 Going to coordinates X=-26.650, Y=-40.883
+29.06 04:12:17 Moving is finished
+29.06 04:13:53 Scanning 336 point from 1960
+29.06 04:13:53 Going to coordinates X=-28.000, Y=-40.833
+29.06 04:13:54 Moving is finished
+29.06 04:15:30 Scanning 337 point from 1960
+29.06 04:15:30 Going to coordinates X=-27.950, Y=-40.833
+29.06 04:15:31 Moving is finished
+29.06 04:17:07 Scanning 338 point from 1960
+29.06 04:17:07 Going to coordinates X=-27.900, Y=-40.833
+29.06 04:17:07 Moving is finished
+29.06 04:18:44 Scanning 339 point from 1960
+29.06 04:18:44 Going to coordinates X=-27.850, Y=-40.833
+29.06 04:18:44 Moving is finished
+29.06 04:20:21 Scanning 340 point from 1960
+29.06 04:20:21 Going to coordinates X=-27.800, Y=-40.833
+29.06 04:20:21 Moving is finished
+29.06 04:21:57 Scanning 341 point from 1960
+29.06 04:21:57 Going to coordinates X=-27.750, Y=-40.833
+29.06 04:21:58 Moving is finished
+29.06 04:23:34 Scanning 342 point from 1960
+29.06 04:23:34 Going to coordinates X=-27.700, Y=-40.833
+29.06 04:23:34 Moving is finished
+29.06 04:25:11 Scanning 343 point from 1960
+29.06 04:25:11 Going to coordinates X=-27.650, Y=-40.833
+29.06 04:25:11 Moving is finished
+29.06 04:26:47 Scanning 344 point from 1960
+29.06 04:26:47 Going to coordinates X=-27.600, Y=-40.833
+29.06 04:26:47 Moving is finished
+29.06 04:28:24 Scanning 345 point from 1960
+29.06 04:28:24 Going to coordinates X=-27.550, Y=-40.833
+29.06 04:28:24 Moving is finished
+29.06 04:30:00 Scanning 346 point from 1960
+29.06 04:30:00 Going to coordinates X=-27.500, Y=-40.833
+29.06 04:30:01 Moving is finished
+29.06 04:31:37 Scanning 347 point from 1960
+29.06 04:31:37 Going to coordinates X=-27.450, Y=-40.833
+29.06 04:31:37 Moving is finished
+29.06 04:33:14 Scanning 348 point from 1960
+29.06 04:33:14 Going to coordinates X=-27.400, Y=-40.833
+29.06 04:33:14 Moving is finished
+29.06 04:34:50 Scanning 349 point from 1960
+29.06 04:34:50 Going to coordinates X=-27.350, Y=-40.833
+29.06 04:34:50 Moving is finished
+29.06 04:36:27 Scanning 350 point from 1960
+29.06 04:36:27 Going to coordinates X=-27.300, Y=-40.833
+29.06 04:36:27 Moving is finished
+29.06 04:38:03 Scanning 351 point from 1960
+29.06 04:38:03 Going to coordinates X=-27.250, Y=-40.833
+29.06 04:38:04 Moving is finished
+29.06 04:39:40 Scanning 352 point from 1960
+29.06 04:39:40 Going to coordinates X=-27.200, Y=-40.833
+29.06 04:39:40 Moving is finished
+29.06 04:41:17 Scanning 353 point from 1960
+29.06 04:41:17 Going to coordinates X=-27.150, Y=-40.833
+29.06 04:41:17 Moving is finished
+29.06 04:42:53 Scanning 354 point from 1960
+29.06 04:42:53 Going to coordinates X=-27.100, Y=-40.833
+29.06 04:42:53 Moving is finished
+29.06 04:44:30 Scanning 355 point from 1960
+29.06 04:44:30 Going to coordinates X=-27.050, Y=-40.833
+29.06 04:44:30 Moving is finished
+29.06 04:46:07 Scanning 356 point from 1960
+29.06 04:46:07 Going to coordinates X=-27.000, Y=-40.833
+29.06 04:46:07 Moving is finished
+29.06 04:47:43 Scanning 357 point from 1960
+29.06 04:47:43 Going to coordinates X=-26.950, Y=-40.833
+29.06 04:47:43 Moving is finished
+29.06 04:49:20 Scanning 358 point from 1960
+29.06 04:49:20 Going to coordinates X=-26.900, Y=-40.833
+29.06 04:49:20 Moving is finished
+29.06 04:50:56 Scanning 359 point from 1960
+29.06 04:50:56 Going to coordinates X=-26.850, Y=-40.833
+29.06 04:50:56 Moving is finished
+29.06 04:52:33 Scanning 360 point from 1960
+29.06 04:52:33 Going to coordinates X=-26.800, Y=-40.833
+29.06 04:52:33 Moving is finished
+29.06 04:54:10 Scanning 361 point from 1960
+29.06 04:54:10 Going to coordinates X=-26.750, Y=-40.833
+29.06 04:54:10 Moving is finished
+29.06 04:55:47 Scanning 362 point from 1960
+29.06 04:55:47 Going to coordinates X=-26.700, Y=-40.833
+29.06 04:55:47 Moving is finished
+29.06 04:57:23 Scanning 363 point from 1960
+29.06 04:57:23 Going to coordinates X=-26.650, Y=-40.833
+29.06 04:57:23 Moving is finished
+29.06 04:59:00 Scanning 364 point from 1960
+29.06 04:59:00 Going to coordinates X=-28.000, Y=-40.783
+29.06 04:59:01 Moving is finished
+29.06 05:00:38 Scanning 365 point from 1960
+29.06 05:00:38 Going to coordinates X=-27.950, Y=-40.783
+29.06 05:00:38 Moving is finished
+29.06 05:02:14 Scanning 366 point from 1960
+29.06 05:02:14 Going to coordinates X=-27.900, Y=-40.783
+29.06 05:02:15 Moving is finished
+29.06 05:03:51 Scanning 367 point from 1960
+29.06 05:03:51 Going to coordinates X=-27.850, Y=-40.783
+29.06 05:03:51 Moving is finished
+29.06 05:05:28 Scanning 368 point from 1960
+29.06 05:05:28 Going to coordinates X=-27.800, Y=-40.783
+29.06 05:05:28 Moving is finished
+29.06 05:07:05 Scanning 369 point from 1960
+29.06 05:07:05 Going to coordinates X=-27.750, Y=-40.783
+29.06 05:07:05 Moving is finished
+29.06 05:08:41 Scanning 370 point from 1960
+29.06 05:08:41 Going to coordinates X=-27.700, Y=-40.783
+29.06 05:08:42 Moving is finished
+29.06 05:10:18 Scanning 371 point from 1960
+29.06 05:10:18 Going to coordinates X=-27.650, Y=-40.783
+29.06 05:10:18 Moving is finished
+29.06 05:11:55 Scanning 372 point from 1960
+29.06 05:11:55 Going to coordinates X=-27.600, Y=-40.783
+29.06 05:11:55 Moving is finished
+29.06 05:13:32 Scanning 373 point from 1960
+29.06 05:13:32 Going to coordinates X=-27.550, Y=-40.783
+29.06 05:13:32 Moving is finished
+29.06 05:15:09 Scanning 374 point from 1960
+29.06 05:15:09 Going to coordinates X=-27.500, Y=-40.783
+29.06 05:15:09 Moving is finished
+29.06 05:16:45 Scanning 375 point from 1960
+29.06 05:16:45 Going to coordinates X=-27.450, Y=-40.783
+29.06 05:16:46 Moving is finished
+29.06 05:18:22 Scanning 376 point from 1960
+29.06 05:18:22 Going to coordinates X=-27.400, Y=-40.783
+29.06 05:18:22 Moving is finished
+29.06 05:19:59 Scanning 377 point from 1960
+29.06 05:19:59 Going to coordinates X=-27.350, Y=-40.783
+29.06 05:19:59 Moving is finished
+29.06 05:21:35 Scanning 378 point from 1960
+29.06 05:21:35 Going to coordinates X=-27.300, Y=-40.783
+29.06 05:21:35 Moving is finished
+29.06 05:23:12 Scanning 379 point from 1960
+29.06 05:23:12 Going to coordinates X=-27.250, Y=-40.783
+29.06 05:23:12 Moving is finished
+29.06 05:24:48 Scanning 380 point from 1960
+29.06 05:24:48 Going to coordinates X=-27.200, Y=-40.783
+29.06 05:24:49 Moving is finished
+29.06 05:26:25 Scanning 381 point from 1960
+29.06 05:26:25 Going to coordinates X=-27.150, Y=-40.783
+29.06 05:26:25 Moving is finished
+29.06 05:28:02 Scanning 382 point from 1960
+29.06 05:28:02 Going to coordinates X=-27.100, Y=-40.783
+29.06 05:28:02 Moving is finished
+29.06 05:29:39 Scanning 383 point from 1960
+29.06 05:29:39 Going to coordinates X=-27.050, Y=-40.783
+29.06 05:29:39 Moving is finished
+29.06 05:31:15 Scanning 384 point from 1960
+29.06 05:31:15 Going to coordinates X=-27.000, Y=-40.783
+29.06 05:31:15 Moving is finished
+29.06 05:32:52 Scanning 385 point from 1960
+29.06 05:32:52 Going to coordinates X=-26.950, Y=-40.783
+29.06 05:32:52 Moving is finished
+29.06 05:34:29 Scanning 386 point from 1960
+29.06 05:34:29 Going to coordinates X=-26.900, Y=-40.783
+29.06 05:34:29 Moving is finished
+29.06 05:36:05 Scanning 387 point from 1960
+29.06 05:36:05 Going to coordinates X=-26.850, Y=-40.783
+29.06 05:36:06 Moving is finished
+29.06 05:37:42 Scanning 388 point from 1960
+29.06 05:37:42 Going to coordinates X=-26.800, Y=-40.783
+29.06 05:37:42 Moving is finished
+29.06 05:39:19 Scanning 389 point from 1960
+29.06 05:39:19 Going to coordinates X=-26.750, Y=-40.783
+29.06 05:39:19 Moving is finished
+29.06 05:40:55 Scanning 390 point from 1960
+29.06 05:40:55 Going to coordinates X=-26.700, Y=-40.783
+29.06 05:40:56 Moving is finished
+29.06 05:42:32 Scanning 391 point from 1960
+29.06 05:42:32 Going to coordinates X=-26.650, Y=-40.783
+29.06 05:42:32 Moving is finished
+29.06 05:44:08 Scanning 392 point from 1960
+29.06 05:44:08 Going to coordinates X=-28.000, Y=-40.733
+29.06 05:44:09 Moving is finished
+29.06 05:45:46 Scanning 393 point from 1960
+29.06 05:45:46 Going to coordinates X=-27.950, Y=-40.733
+29.06 05:45:46 Moving is finished
+29.06 05:47:22 Scanning 394 point from 1960
+29.06 05:47:22 Going to coordinates X=-27.900, Y=-40.733
+29.06 05:47:22 Moving is finished
+29.06 05:48:59 Scanning 395 point from 1960
+29.06 05:48:59 Going to coordinates X=-27.850, Y=-40.733
+29.06 05:48:59 Moving is finished
+29.06 05:50:36 Scanning 396 point from 1960
+29.06 05:50:36 Going to coordinates X=-27.800, Y=-40.733
+29.06 05:50:36 Moving is finished
+29.06 05:52:12 Scanning 397 point from 1960
+29.06 05:52:12 Going to coordinates X=-27.750, Y=-40.733
+29.06 05:52:13 Moving is finished
+29.06 05:53:49 Scanning 398 point from 1960
+29.06 05:53:49 Going to coordinates X=-27.700, Y=-40.733
+29.06 05:53:49 Moving is finished
+29.06 05:55:26 Scanning 399 point from 1960
+29.06 05:55:26 Going to coordinates X=-27.650, Y=-40.733
+29.06 05:55:26 Moving is finished
+29.06 05:57:02 Scanning 400 point from 1960
+29.06 05:57:02 Going to coordinates X=-27.600, Y=-40.733
+29.06 05:57:02 Moving is finished
+29.06 05:58:39 Scanning 401 point from 1960
+29.06 05:58:39 Going to coordinates X=-27.550, Y=-40.733
+29.06 05:58:39 Moving is finished
+29.06 06:00:16 Scanning 402 point from 1960
+29.06 06:00:16 Going to coordinates X=-27.500, Y=-40.733
+29.06 06:00:16 Moving is finished
+29.06 06:01:53 Scanning 403 point from 1960
+29.06 06:01:53 Going to coordinates X=-27.450, Y=-40.733
+29.06 06:01:53 Moving is finished
+29.06 06:03:29 Scanning 404 point from 1960
+29.06 06:03:29 Going to coordinates X=-27.400, Y=-40.733
+29.06 06:03:29 Moving is finished
+29.06 06:05:06 Scanning 405 point from 1960
+29.06 06:05:06 Going to coordinates X=-27.350, Y=-40.733
+29.06 06:05:06 Moving is finished
+29.06 06:06:42 Scanning 406 point from 1960
+29.06 06:06:42 Going to coordinates X=-27.300, Y=-40.733
+29.06 06:06:43 Moving is finished
+29.06 06:08:19 Scanning 407 point from 1960
+29.06 06:08:19 Going to coordinates X=-27.250, Y=-40.733
+29.06 06:08:19 Moving is finished
+29.06 06:09:56 Scanning 408 point from 1960
+29.06 06:09:56 Going to coordinates X=-27.200, Y=-40.733
+29.06 06:09:56 Moving is finished
+29.06 06:11:32 Scanning 409 point from 1960
+29.06 06:11:32 Going to coordinates X=-27.150, Y=-40.733
+29.06 06:11:33 Moving is finished
+29.06 06:13:09 Scanning 410 point from 1960
+29.06 06:13:09 Going to coordinates X=-27.100, Y=-40.733
+29.06 06:13:09 Moving is finished
+29.06 06:14:46 Scanning 411 point from 1960
+29.06 06:14:46 Going to coordinates X=-27.050, Y=-40.733
+29.06 06:14:46 Moving is finished
+29.06 06:16:23 Scanning 412 point from 1960
+29.06 06:16:23 Going to coordinates X=-27.000, Y=-40.733
+29.06 06:16:23 Moving is finished
+29.06 06:18:00 Scanning 413 point from 1960
+29.06 06:18:00 Going to coordinates X=-26.950, Y=-40.733
+29.06 06:18:00 Moving is finished
+29.06 06:19:37 Scanning 414 point from 1960
+29.06 06:19:37 Going to coordinates X=-26.900, Y=-40.733
+29.06 06:19:37 Moving is finished
+29.06 06:21:13 Scanning 415 point from 1960
+29.06 06:21:13 Going to coordinates X=-26.850, Y=-40.733
+29.06 06:21:13 Moving is finished
+29.06 06:22:50 Scanning 416 point from 1960
+29.06 06:22:50 Going to coordinates X=-26.800, Y=-40.733
+29.06 06:22:50 Moving is finished
+29.06 06:24:26 Scanning 417 point from 1960
+29.06 06:24:26 Going to coordinates X=-26.750, Y=-40.733
+29.06 06:24:27 Moving is finished
+29.06 06:26:03 Scanning 418 point from 1960
+29.06 06:26:03 Going to coordinates X=-26.700, Y=-40.733
+29.06 06:26:03 Moving is finished
+29.06 06:27:40 Scanning 419 point from 1960
+29.06 06:27:40 Going to coordinates X=-26.650, Y=-40.733
+29.06 06:27:40 Moving is finished
+29.06 06:29:16 Scanning 420 point from 1960
+29.06 06:29:16 Going to coordinates X=-28.000, Y=-40.683
+29.06 06:29:17 Moving is finished
+29.06 06:30:54 Scanning 421 point from 1960
+29.06 06:30:54 Going to coordinates X=-27.950, Y=-40.683
+29.06 06:30:54 Moving is finished
+29.06 06:32:30 Scanning 422 point from 1960
+29.06 06:32:30 Going to coordinates X=-27.900, Y=-40.683
+29.06 06:32:31 Moving is finished
+29.06 06:34:07 Scanning 423 point from 1960
+29.06 06:34:07 Going to coordinates X=-27.850, Y=-40.683
+29.06 06:34:07 Moving is finished
+29.06 06:35:44 Scanning 424 point from 1960
+29.06 06:35:44 Going to coordinates X=-27.800, Y=-40.683
+29.06 06:35:44 Moving is finished
+29.06 06:37:21 Scanning 425 point from 1960
+29.06 06:37:21 Going to coordinates X=-27.750, Y=-40.683
+29.06 06:37:21 Moving is finished
+29.06 06:38:58 Scanning 426 point from 1960
+29.06 06:38:58 Going to coordinates X=-27.700, Y=-40.683
+29.06 06:38:58 Moving is finished
+29.06 06:40:35 Scanning 427 point from 1960
+29.06 06:40:35 Going to coordinates X=-27.650, Y=-40.683
+29.06 06:40:35 Moving is finished
+29.06 06:42:11 Scanning 428 point from 1960
+29.06 06:42:11 Going to coordinates X=-27.600, Y=-40.683
+29.06 06:42:12 Moving is finished
+29.06 06:43:48 Scanning 429 point from 1960
+29.06 06:43:48 Going to coordinates X=-27.550, Y=-40.683
+29.06 06:43:48 Moving is finished
+29.06 06:45:25 Scanning 430 point from 1960
+29.06 06:45:25 Going to coordinates X=-27.500, Y=-40.683
+29.06 06:45:25 Moving is finished
+29.06 06:47:01 Scanning 431 point from 1960
+29.06 06:47:01 Going to coordinates X=-27.450, Y=-40.683
+29.06 06:47:02 Moving is finished
+29.06 06:48:39 Scanning 432 point from 1960
+29.06 06:48:39 Going to coordinates X=-27.400, Y=-40.683
+29.06 06:48:40 Moving is finished
+29.06 06:50:16 Scanning 433 point from 1960
+29.06 06:50:16 Going to coordinates X=-27.350, Y=-40.683
+29.06 06:50:16 Moving is finished
+29.06 06:51:53 Scanning 434 point from 1960
+29.06 06:51:53 Going to coordinates X=-27.300, Y=-40.683
+29.06 06:51:53 Moving is finished
+29.06 06:53:29 Scanning 435 point from 1960
+29.06 06:53:29 Going to coordinates X=-27.250, Y=-40.683
+29.06 06:53:30 Moving is finished
+29.06 06:55:06 Scanning 436 point from 1960
+29.06 06:55:06 Going to coordinates X=-27.200, Y=-40.683
+29.06 06:55:06 Moving is finished
+29.06 06:56:43 Scanning 437 point from 1960
+29.06 06:56:43 Going to coordinates X=-27.150, Y=-40.683
+29.06 06:56:43 Moving is finished
+29.06 06:58:19 Scanning 438 point from 1960
+29.06 06:58:19 Going to coordinates X=-27.100, Y=-40.683
+29.06 06:58:20 Moving is finished
+29.06 06:59:56 Scanning 439 point from 1960
+29.06 06:59:56 Going to coordinates X=-27.050, Y=-40.683
+29.06 06:59:56 Moving is finished
+29.06 07:01:33 Scanning 440 point from 1960
+29.06 07:01:33 Going to coordinates X=-27.000, Y=-40.683
+29.06 07:01:34 Moving is finished
+29.06 07:03:10 Scanning 441 point from 1960
+29.06 07:03:10 Going to coordinates X=-26.950, Y=-40.683
+29.06 07:03:10 Moving is finished
+29.06 07:04:47 Scanning 442 point from 1960
+29.06 07:04:47 Going to coordinates X=-26.900, Y=-40.683
+29.06 07:04:48 Moving is finished
+29.06 07:06:24 Scanning 443 point from 1960
+29.06 07:06:24 Going to coordinates X=-26.850, Y=-40.683
+29.06 07:06:24 Moving is finished
+29.06 07:08:00 Scanning 444 point from 1960
+29.06 07:08:00 Going to coordinates X=-26.800, Y=-40.683
+29.06 07:08:01 Moving is finished
+29.06 07:09:38 Scanning 445 point from 1960
+29.06 07:09:38 Going to coordinates X=-26.750, Y=-40.683
+29.06 07:09:38 Moving is finished
+29.06 07:11:15 Scanning 446 point from 1960
+29.06 07:11:15 Going to coordinates X=-26.700, Y=-40.683
+29.06 07:11:15 Moving is finished
+29.06 07:12:51 Scanning 447 point from 1960
+29.06 07:12:51 Going to coordinates X=-26.650, Y=-40.683
+29.06 07:12:52 Moving is finished
+29.06 07:14:28 Scanning 448 point from 1960
+29.06 07:14:28 Going to coordinates X=-28.000, Y=-40.633
+29.06 07:14:29 Moving is finished
+29.06 07:16:06 Scanning 449 point from 1960
+29.06 07:16:06 Going to coordinates X=-27.950, Y=-40.633
+29.06 07:16:06 Moving is finished
+29.06 07:17:42 Scanning 450 point from 1960
+29.06 07:17:42 Going to coordinates X=-27.900, Y=-40.633
+29.06 07:17:43 Moving is finished
+29.06 07:19:19 Scanning 451 point from 1960
+29.06 07:19:19 Going to coordinates X=-27.850, Y=-40.633
+29.06 07:19:19 Moving is finished
+29.06 07:20:56 Scanning 452 point from 1960
+29.06 07:20:56 Going to coordinates X=-27.800, Y=-40.633
+29.06 07:20:56 Moving is finished
+29.06 07:22:32 Scanning 453 point from 1960
+29.06 07:22:32 Going to coordinates X=-27.750, Y=-40.633
+29.06 07:22:32 Moving is finished
+29.06 07:24:09 Scanning 454 point from 1960
+29.06 07:24:09 Going to coordinates X=-27.700, Y=-40.633
+29.06 07:24:10 Moving is finished
+29.06 07:25:46 Scanning 455 point from 1960
+29.06 07:25:46 Going to coordinates X=-27.650, Y=-40.633
+29.06 07:25:46 Moving is finished
+29.06 07:27:23 Scanning 456 point from 1960
+29.06 07:27:23 Going to coordinates X=-27.600, Y=-40.633
+29.06 07:27:23 Moving is finished
+29.06 07:29:00 Scanning 457 point from 1960
+29.06 07:29:00 Going to coordinates X=-27.550, Y=-40.633
+29.06 07:29:01 Moving is finished
+29.06 07:30:38 Scanning 458 point from 1960
+29.06 07:30:38 Going to coordinates X=-27.500, Y=-40.633
+29.06 07:30:38 Moving is finished
+29.06 07:32:15 Scanning 459 point from 1960
+29.06 07:32:15 Going to coordinates X=-27.450, Y=-40.633
+29.06 07:32:15 Moving is finished
+29.06 07:33:52 Scanning 460 point from 1960
+29.06 07:33:52 Going to coordinates X=-27.400, Y=-40.633
+29.06 07:33:52 Moving is finished
+29.06 07:35:29 Scanning 461 point from 1960
+29.06 07:35:29 Going to coordinates X=-27.350, Y=-40.633
+29.06 07:35:29 Moving is finished
+29.06 07:37:05 Scanning 462 point from 1960
+29.06 07:37:05 Going to coordinates X=-27.300, Y=-40.633
+29.06 07:37:06 Moving is finished
+29.06 07:38:42 Scanning 463 point from 1960
+29.06 07:38:42 Going to coordinates X=-27.250, Y=-40.633
+29.06 07:38:42 Moving is finished
+29.06 07:40:19 Scanning 464 point from 1960
+29.06 07:40:19 Going to coordinates X=-27.200, Y=-40.633
+29.06 07:40:19 Moving is finished
+29.06 07:41:55 Scanning 465 point from 1960
+29.06 07:41:55 Going to coordinates X=-27.150, Y=-40.633
+29.06 07:41:55 Moving is finished
+29.06 07:43:32 Scanning 466 point from 1960
+29.06 07:43:32 Going to coordinates X=-27.100, Y=-40.633
+29.06 07:43:32 Moving is finished
+29.06 07:45:09 Scanning 467 point from 1960
+29.06 07:45:09 Going to coordinates X=-27.050, Y=-40.633
+29.06 07:45:09 Moving is finished
+29.06 07:46:45 Scanning 468 point from 1960
+29.06 07:46:45 Going to coordinates X=-27.000, Y=-40.633
+29.06 07:46:45 Moving is finished
+29.06 07:48:22 Scanning 469 point from 1960
+29.06 07:48:22 Going to coordinates X=-26.950, Y=-40.633
+29.06 07:48:22 Moving is finished
+29.06 07:49:59 Scanning 470 point from 1960
+29.06 07:49:59 Going to coordinates X=-26.900, Y=-40.633
+29.06 07:49:59 Moving is finished
+29.06 07:51:35 Scanning 471 point from 1960
+29.06 07:51:35 Going to coordinates X=-26.850, Y=-40.633
+29.06 07:51:36 Moving is finished
+29.06 07:53:12 Scanning 472 point from 1960
+29.06 07:53:12 Going to coordinates X=-26.800, Y=-40.633
+29.06 07:53:12 Moving is finished
+29.06 07:54:49 Scanning 473 point from 1960
+29.06 07:54:49 Going to coordinates X=-26.750, Y=-40.633
+29.06 07:54:49 Moving is finished
+29.06 07:56:26 Scanning 474 point from 1960
+29.06 07:56:26 Going to coordinates X=-26.700, Y=-40.633
+29.06 07:56:26 Moving is finished
+29.06 07:58:03 Scanning 475 point from 1960
+29.06 07:58:03 Going to coordinates X=-26.650, Y=-40.633
+29.06 07:58:03 Moving is finished
+29.06 07:59:40 Scanning 476 point from 1960
+29.06 07:59:40 Going to coordinates X=-28.000, Y=-40.583
+29.06 07:59:40 Moving is finished
+29.06 08:01:17 Scanning 477 point from 1960
+29.06 08:01:17 Going to coordinates X=-27.950, Y=-40.583
+29.06 08:01:18 Moving is finished
+29.06 08:02:54 Scanning 478 point from 1960
+29.06 08:02:54 Going to coordinates X=-27.900, Y=-40.583
+29.06 08:02:54 Moving is finished
+29.06 08:04:31 Scanning 479 point from 1960
+29.06 08:04:31 Going to coordinates X=-27.850, Y=-40.583
+29.06 08:04:31 Moving is finished
+29.06 08:06:07 Scanning 480 point from 1960
+29.06 08:06:07 Going to coordinates X=-27.800, Y=-40.583
+29.06 08:06:08 Moving is finished
+29.06 08:07:44 Scanning 481 point from 1960
+29.06 08:07:44 Going to coordinates X=-27.750, Y=-40.583
+29.06 08:07:44 Moving is finished
+29.06 08:09:21 Scanning 482 point from 1960
+29.06 08:09:21 Going to coordinates X=-27.700, Y=-40.583
+29.06 08:09:21 Moving is finished
+29.06 08:10:57 Scanning 483 point from 1960
+29.06 08:10:57 Going to coordinates X=-27.650, Y=-40.583
+29.06 08:10:57 Moving is finished
+29.06 08:12:34 Scanning 484 point from 1960
+29.06 08:12:34 Going to coordinates X=-27.600, Y=-40.583
+29.06 08:12:34 Moving is finished
+29.06 08:14:11 Scanning 485 point from 1960
+29.06 08:14:11 Going to coordinates X=-27.550, Y=-40.583
+29.06 08:14:11 Moving is finished
+29.06 08:15:47 Scanning 486 point from 1960
+29.06 08:15:47 Going to coordinates X=-27.500, Y=-40.583
+29.06 08:15:47 Moving is finished
+29.06 08:17:24 Scanning 487 point from 1960
+29.06 08:17:24 Going to coordinates X=-27.450, Y=-40.583
+29.06 08:17:24 Moving is finished
+29.06 08:19:02 Scanning 488 point from 1960
+29.06 08:19:02 Going to coordinates X=-27.400, Y=-40.583
+29.06 08:19:02 Moving is finished
+29.06 08:20:38 Scanning 489 point from 1960
+29.06 08:20:38 Going to coordinates X=-27.350, Y=-40.583
+29.06 08:20:38 Moving is finished
+29.06 08:22:15 Scanning 490 point from 1960
+29.06 08:22:15 Going to coordinates X=-27.300, Y=-40.583
+29.06 08:22:15 Moving is finished
+29.06 08:23:51 Scanning 491 point from 1960
+29.06 08:23:51 Going to coordinates X=-27.250, Y=-40.583
+29.06 08:23:52 Moving is finished
+29.06 08:25:28 Scanning 492 point from 1960
+29.06 08:25:28 Going to coordinates X=-27.200, Y=-40.583
+29.06 08:25:28 Moving is finished
+29.06 08:27:05 Scanning 493 point from 1960
+29.06 08:27:05 Going to coordinates X=-27.150, Y=-40.583
+29.06 08:27:05 Moving is finished
+29.06 08:28:41 Scanning 494 point from 1960
+29.06 08:28:41 Going to coordinates X=-27.100, Y=-40.583
+29.06 08:28:42 Moving is finished
+29.06 08:30:18 Scanning 495 point from 1960
+29.06 08:30:18 Going to coordinates X=-27.050, Y=-40.583
+29.06 08:30:18 Moving is finished
+29.06 08:31:55 Scanning 496 point from 1960
+29.06 08:31:55 Going to coordinates X=-27.000, Y=-40.583
+29.06 08:31:55 Moving is finished
+29.06 08:33:31 Scanning 497 point from 1960
+29.06 08:33:31 Going to coordinates X=-26.950, Y=-40.583
+29.06 08:33:32 Moving is finished
+29.06 08:35:08 Scanning 498 point from 1960
+29.06 08:35:08 Going to coordinates X=-26.900, Y=-40.583
+29.06 08:35:08 Moving is finished
+29.06 08:36:45 Scanning 499 point from 1960
+29.06 08:36:45 Going to coordinates X=-26.850, Y=-40.583
+29.06 08:36:45 Moving is finished
+29.06 08:38:21 Scanning 500 point from 1960
+29.06 08:38:21 Going to coordinates X=-26.800, Y=-40.583
+29.06 08:38:22 Moving is finished
+29.06 08:39:58 Scanning 501 point from 1960
+29.06 08:39:58 Going to coordinates X=-26.750, Y=-40.583
+29.06 08:39:58 Moving is finished
+29.06 08:41:34 Scanning 502 point from 1960
+29.06 08:41:34 Going to coordinates X=-26.700, Y=-40.583
+29.06 08:41:35 Moving is finished
+29.06 08:43:11 Scanning 503 point from 1960
+29.06 08:43:11 Going to coordinates X=-26.650, Y=-40.583
+29.06 08:43:11 Moving is finished
+29.06 08:44:48 Scanning 504 point from 1960
+29.06 08:44:48 Going to coordinates X=-28.000, Y=-40.533
+29.06 08:44:49 Moving is finished
+29.06 08:46:25 Scanning 505 point from 1960
+29.06 08:46:25 Going to coordinates X=-27.950, Y=-40.533
+29.06 08:46:25 Moving is finished
+29.06 08:48:02 Scanning 506 point from 1960
+29.06 08:48:02 Going to coordinates X=-27.900, Y=-40.533
+29.06 08:48:02 Moving is finished
+29.06 08:49:38 Scanning 507 point from 1960
+29.06 08:49:38 Going to coordinates X=-27.850, Y=-40.533
+29.06 08:49:39 Moving is finished
+29.06 08:51:15 Scanning 508 point from 1960
+29.06 08:51:15 Going to coordinates X=-27.800, Y=-40.533
+29.06 08:51:16 Moving is finished
+29.06 08:52:52 Scanning 509 point from 1960
+29.06 08:52:52 Going to coordinates X=-27.750, Y=-40.533
+29.06 08:52:52 Moving is finished
+29.06 08:54:29 Scanning 510 point from 1960
+29.06 08:54:29 Going to coordinates X=-27.700, Y=-40.533
+29.06 08:54:29 Moving is finished
+29.06 08:56:06 Scanning 511 point from 1960
+29.06 08:56:06 Going to coordinates X=-27.650, Y=-40.533
+29.06 08:56:06 Moving is finished
+29.06 08:57:42 Scanning 512 point from 1960
+29.06 08:57:42 Going to coordinates X=-27.600, Y=-40.533
+29.06 08:57:42 Moving is finished
+29.06 08:59:19 Scanning 513 point from 1960
+29.06 08:59:19 Going to coordinates X=-27.550, Y=-40.533
+29.06 08:59:19 Moving is finished
+29.06 09:00:55 Scanning 514 point from 1960
+29.06 09:00:55 Going to coordinates X=-27.500, Y=-40.533
+29.06 09:00:56 Moving is finished
+29.06 09:02:32 Scanning 515 point from 1960
+29.06 09:02:32 Going to coordinates X=-27.450, Y=-40.533
+29.06 09:02:32 Moving is finished
+29.06 09:04:09 Scanning 516 point from 1960
+29.06 09:04:09 Going to coordinates X=-27.400, Y=-40.533
+29.06 09:04:09 Moving is finished
+29.06 09:05:45 Scanning 517 point from 1960
+29.06 09:05:45 Going to coordinates X=-27.350, Y=-40.533
+29.06 09:05:46 Moving is finished
+29.06 09:07:22 Scanning 518 point from 1960
+29.06 09:07:22 Going to coordinates X=-27.300, Y=-40.533
+29.06 09:07:23 Moving is finished
+29.06 09:08:59 Scanning 519 point from 1960
+29.06 09:08:59 Going to coordinates X=-27.250, Y=-40.533
+29.06 09:08:59 Moving is finished
+29.06 09:10:35 Scanning 520 point from 1960
+29.06 09:10:35 Going to coordinates X=-27.200, Y=-40.533
+29.06 09:10:36 Moving is finished
+29.06 09:12:12 Scanning 521 point from 1960
+29.06 09:12:12 Going to coordinates X=-27.150, Y=-40.533
+29.06 09:12:12 Moving is finished
+29.06 09:13:49 Scanning 522 point from 1960
+29.06 09:13:49 Going to coordinates X=-27.100, Y=-40.533
+29.06 09:13:49 Moving is finished
+29.06 09:15:25 Scanning 523 point from 1960
+29.06 09:15:25 Going to coordinates X=-27.050, Y=-40.533
+29.06 09:15:26 Moving is finished
+29.06 09:17:02 Scanning 524 point from 1960
+29.06 09:17:02 Going to coordinates X=-27.000, Y=-40.533
+29.06 09:17:02 Moving is finished
+29.06 09:18:39 Scanning 525 point from 1960
+29.06 09:18:39 Going to coordinates X=-26.950, Y=-40.533
+29.06 09:18:39 Moving is finished
+29.06 09:20:16 Scanning 526 point from 1960
+29.06 09:20:16 Going to coordinates X=-26.900, Y=-40.533
+29.06 09:20:17 Moving is finished
+29.06 09:21:53 Scanning 527 point from 1960
+29.06 09:21:53 Going to coordinates X=-26.850, Y=-40.533
+29.06 09:21:53 Moving is finished
+29.06 09:23:30 Scanning 528 point from 1960
+29.06 09:23:30 Going to coordinates X=-26.800, Y=-40.533
+29.06 09:23:30 Moving is finished
+29.06 09:25:07 Scanning 529 point from 1960
+29.06 09:25:07 Going to coordinates X=-26.750, Y=-40.533
+29.06 09:25:07 Moving is finished
+29.06 09:26:43 Scanning 530 point from 1960
+29.06 09:26:43 Going to coordinates X=-26.700, Y=-40.533
+29.06 09:26:44 Moving is finished
+29.06 09:28:20 Scanning 531 point from 1960
+29.06 09:28:20 Going to coordinates X=-26.650, Y=-40.533
+29.06 09:28:20 Moving is finished
+29.06 09:29:57 Scanning 532 point from 1960
+29.06 09:29:57 Going to coordinates X=-28.000, Y=-40.483
+29.06 09:29:58 Moving is finished
+29.06 09:31:34 Scanning 533 point from 1960
+29.06 09:31:34 Going to coordinates X=-27.950, Y=-40.483
+29.06 09:31:34 Moving is finished
+29.06 09:33:11 Scanning 534 point from 1960
+29.06 09:33:11 Going to coordinates X=-27.900, Y=-40.483
+29.06 09:33:11 Moving is finished
+29.06 09:34:47 Scanning 535 point from 1960
+29.06 09:34:47 Going to coordinates X=-27.850, Y=-40.483
+29.06 09:34:48 Moving is finished
+29.06 09:36:24 Scanning 536 point from 1960
+29.06 09:36:24 Going to coordinates X=-27.800, Y=-40.483
+29.06 09:36:25 Moving is finished
+29.06 09:38:01 Scanning 537 point from 1960
+29.06 09:38:01 Going to coordinates X=-27.750, Y=-40.483
+29.06 09:38:01 Moving is finished
+29.06 09:39:38 Scanning 538 point from 1960
+29.06 09:39:38 Going to coordinates X=-27.700, Y=-40.483
+29.06 09:39:38 Moving is finished
+29.06 09:41:14 Scanning 539 point from 1960
+29.06 09:41:14 Going to coordinates X=-27.650, Y=-40.483
+29.06 09:41:15 Moving is finished
+29.06 09:42:51 Scanning 540 point from 1960
+29.06 09:42:51 Going to coordinates X=-27.600, Y=-40.483
+29.06 09:42:51 Moving is finished
+29.06 09:44:28 Scanning 541 point from 1960
+29.06 09:44:28 Going to coordinates X=-27.550, Y=-40.483
+29.06 09:44:28 Moving is finished
+29.06 09:46:05 Scanning 542 point from 1960
+29.06 09:46:05 Going to coordinates X=-27.500, Y=-40.483
+29.06 09:46:05 Moving is finished
+29.06 09:47:41 Scanning 543 point from 1960
+29.06 09:47:41 Going to coordinates X=-27.450, Y=-40.483
+29.06 09:47:41 Moving is finished
+29.06 09:49:18 Scanning 544 point from 1960
+29.06 09:49:18 Going to coordinates X=-27.400, Y=-40.483
+29.06 09:49:18 Moving is finished
+29.06 09:50:55 Scanning 545 point from 1960
+29.06 09:50:55 Going to coordinates X=-27.350, Y=-40.483
+29.06 09:50:55 Moving is finished
+29.06 09:52:31 Scanning 546 point from 1960
+29.06 09:52:31 Going to coordinates X=-27.300, Y=-40.483
+29.06 09:52:31 Moving is finished
+29.06 09:54:08 Scanning 547 point from 1960
+29.06 09:54:08 Going to coordinates X=-27.250, Y=-40.483
+29.06 09:54:08 Moving is finished
+29.06 09:55:45 Scanning 548 point from 1960
+29.06 09:55:45 Going to coordinates X=-27.200, Y=-40.483
+29.06 09:55:45 Moving is finished
+29.06 09:57:21 Scanning 549 point from 1960
+29.06 09:57:21 Going to coordinates X=-27.150, Y=-40.483
+29.06 09:57:22 Moving is finished
+29.06 09:58:59 Scanning 550 point from 1960
+29.06 09:58:59 Going to coordinates X=-27.100, Y=-40.483
+29.06 09:58:59 Moving is finished
+29.06 10:00:35 Scanning 551 point from 1960
+29.06 10:00:35 Going to coordinates X=-27.050, Y=-40.483
+29.06 10:00:36 Moving is finished
+29.06 10:02:13 Scanning 552 point from 1960
+29.06 10:02:13 Going to coordinates X=-27.000, Y=-40.483
+29.06 10:02:13 Moving is finished
+29.06 10:03:50 Scanning 553 point from 1960
+29.06 10:03:50 Going to coordinates X=-26.950, Y=-40.483
+29.06 10:03:50 Moving is finished
+29.06 10:05:27 Scanning 554 point from 1960
+29.06 10:05:27 Going to coordinates X=-26.900, Y=-40.483
+29.06 10:05:27 Moving is finished
+29.06 10:07:04 Scanning 555 point from 1960
+29.06 10:07:04 Going to coordinates X=-26.850, Y=-40.483
+29.06 10:07:05 Moving is finished
+29.06 10:08:41 Scanning 556 point from 1960
+29.06 10:08:41 Going to coordinates X=-26.800, Y=-40.483
+29.06 10:08:41 Moving is finished
+29.06 10:10:18 Scanning 557 point from 1960
+29.06 10:10:18 Going to coordinates X=-26.750, Y=-40.483
+29.06 10:10:18 Moving is finished
+29.06 10:11:54 Scanning 558 point from 1960
+29.06 10:11:54 Going to coordinates X=-26.700, Y=-40.483
+29.06 10:11:54 Moving is finished
+29.06 10:13:31 Scanning 559 point from 1960
+29.06 10:13:31 Going to coordinates X=-26.650, Y=-40.483
+29.06 10:13:31 Moving is finished
+29.06 10:15:07 Scanning 560 point from 1960
+29.06 10:15:07 Going to coordinates X=-28.000, Y=-40.433
+29.06 10:15:08 Moving is finished
+29.06 10:16:45 Scanning 561 point from 1960
+29.06 10:16:45 Going to coordinates X=-27.950, Y=-40.433
+29.06 10:16:45 Moving is finished
+29.06 10:18:21 Scanning 562 point from 1960
+29.06 10:18:21 Going to coordinates X=-27.900, Y=-40.433
+29.06 10:18:22 Moving is finished
+29.06 10:19:58 Scanning 563 point from 1960
+29.06 10:19:58 Going to coordinates X=-27.850, Y=-40.433
+29.06 10:19:58 Moving is finished
+29.06 10:21:34 Scanning 564 point from 1960
+29.06 10:21:34 Going to coordinates X=-27.800, Y=-40.433
+29.06 10:21:34 Moving is finished
+29.06 10:23:11 Scanning 565 point from 1960
+29.06 10:23:11 Going to coordinates X=-27.750, Y=-40.433
+29.06 10:23:11 Moving is finished
+29.06 10:24:47 Scanning 566 point from 1960
+29.06 10:24:47 Going to coordinates X=-27.700, Y=-40.433
+29.06 10:24:48 Moving is finished
+29.06 10:26:24 Scanning 567 point from 1960
+29.06 10:26:24 Going to coordinates X=-27.650, Y=-40.433
+29.06 10:26:24 Moving is finished
+29.06 10:28:01 Scanning 568 point from 1960
+29.06 10:28:01 Going to coordinates X=-27.600, Y=-40.433
+29.06 10:28:01 Moving is finished
+29.06 10:29:37 Scanning 569 point from 1960
+29.06 10:29:37 Going to coordinates X=-27.550, Y=-40.433
+29.06 10:29:37 Moving is finished
+29.06 10:31:14 Scanning 570 point from 1960
+29.06 10:31:14 Going to coordinates X=-27.500, Y=-40.433
+29.06 10:31:14 Moving is finished
+29.06 10:32:50 Scanning 571 point from 1960
+29.06 10:32:50 Going to coordinates X=-27.450, Y=-40.433
+29.06 10:32:51 Moving is finished
+29.06 10:34:27 Scanning 572 point from 1960
+29.06 10:34:27 Going to coordinates X=-27.400, Y=-40.433
+29.06 10:34:27 Moving is finished
+29.06 10:36:04 Scanning 573 point from 1960
+29.06 10:36:04 Going to coordinates X=-27.350, Y=-40.433
+29.06 10:36:04 Moving is finished
+29.06 10:37:40 Scanning 574 point from 1960
+29.06 10:37:40 Going to coordinates X=-27.300, Y=-40.433
+29.06 10:37:41 Moving is finished
+29.06 10:39:17 Scanning 575 point from 1960
+29.06 10:39:17 Going to coordinates X=-27.250, Y=-40.433
+29.06 10:39:17 Moving is finished
+29.06 10:40:54 Scanning 576 point from 1960
+29.06 10:40:54 Going to coordinates X=-27.200, Y=-40.433
+29.06 10:40:54 Moving is finished
+29.06 10:42:30 Scanning 577 point from 1960
+29.06 10:42:30 Going to coordinates X=-27.150, Y=-40.433
+29.06 10:42:31 Moving is finished
+29.06 10:44:07 Scanning 578 point from 1960
+29.06 10:44:07 Going to coordinates X=-27.100, Y=-40.433
+29.06 10:44:07 Moving is finished
+29.06 10:45:43 Scanning 579 point from 1960
+29.06 10:45:43 Going to coordinates X=-27.050, Y=-40.433
+29.06 10:45:44 Moving is finished
+29.06 10:47:20 Scanning 580 point from 1960
+29.06 10:47:20 Going to coordinates X=-27.000, Y=-40.433
+29.06 10:47:20 Moving is finished
+29.06 10:48:57 Scanning 581 point from 1960
+29.06 10:48:57 Going to coordinates X=-26.950, Y=-40.433
+29.06 10:48:57 Moving is finished
+29.06 10:50:33 Scanning 582 point from 1960
+29.06 10:50:33 Going to coordinates X=-26.900, Y=-40.433
+29.06 10:50:34 Moving is finished
+29.06 10:52:10 Scanning 583 point from 1960
+29.06 10:52:10 Going to coordinates X=-26.850, Y=-40.433
+29.06 10:52:10 Moving is finished
+29.06 10:53:46 Scanning 584 point from 1960
+29.06 10:53:46 Going to coordinates X=-26.800, Y=-40.433
+29.06 10:53:47 Moving is finished
+29.06 10:55:23 Scanning 585 point from 1960
+29.06 10:55:23 Going to coordinates X=-26.750, Y=-40.433
+29.06 10:55:23 Moving is finished
+29.06 10:57:00 Scanning 586 point from 1960
+29.06 10:57:00 Going to coordinates X=-26.700, Y=-40.433
+29.06 10:57:00 Moving is finished
+29.06 10:58:36 Scanning 587 point from 1960
+29.06 10:58:36 Going to coordinates X=-26.650, Y=-40.433
+29.06 10:58:36 Moving is finished
+29.06 11:00:13 Scanning 588 point from 1960
+29.06 11:00:13 Going to coordinates X=-28.000, Y=-40.383
+29.06 11:00:14 Moving is finished
+29.06 11:01:50 Scanning 589 point from 1960
+29.06 11:01:50 Going to coordinates X=-27.950, Y=-40.383
+29.06 11:01:50 Moving is finished
+29.06 11:03:27 Scanning 590 point from 1960
+29.06 11:03:27 Going to coordinates X=-27.900, Y=-40.383
+29.06 11:03:27 Moving is finished
+29.06 11:05:04 Scanning 591 point from 1960
+29.06 11:05:04 Going to coordinates X=-27.850, Y=-40.383
+29.06 11:05:04 Moving is finished
+29.06 11:06:41 Scanning 592 point from 1960
+29.06 11:06:41 Going to coordinates X=-27.800, Y=-40.383
+29.06 11:06:41 Moving is finished
+29.06 11:08:18 Scanning 593 point from 1960
+29.06 11:08:18 Going to coordinates X=-27.750, Y=-40.383
+29.06 11:08:18 Moving is finished
+29.06 11:09:55 Scanning 594 point from 1960
+29.06 11:09:55 Going to coordinates X=-27.700, Y=-40.383
+29.06 11:09:55 Moving is finished
+29.06 11:11:32 Scanning 595 point from 1960
+29.06 11:11:32 Going to coordinates X=-27.650, Y=-40.383
+29.06 11:11:32 Moving is finished
+29.06 11:13:08 Scanning 596 point from 1960
+29.06 11:13:08 Going to coordinates X=-27.600, Y=-40.383
+29.06 11:13:09 Moving is finished
+29.06 11:14:45 Scanning 597 point from 1960
+29.06 11:14:45 Going to coordinates X=-27.550, Y=-40.383
+29.06 11:14:45 Moving is finished
+29.06 11:16:21 Scanning 598 point from 1960
+29.06 11:16:21 Going to coordinates X=-27.500, Y=-40.383
+29.06 11:16:22 Moving is finished
+29.06 11:17:58 Scanning 599 point from 1960
+29.06 11:17:58 Going to coordinates X=-27.450, Y=-40.383
+29.06 11:17:58 Moving is finished
+29.06 11:19:35 Scanning 600 point from 1960
+29.06 11:19:35 Going to coordinates X=-27.400, Y=-40.383
+29.06 11:19:35 Moving is finished
+29.06 11:21:12 Scanning 601 point from 1960
+29.06 11:21:12 Going to coordinates X=-27.350, Y=-40.383
+29.06 11:21:12 Moving is finished
+29.06 11:22:48 Scanning 602 point from 1960
+29.06 11:22:48 Going to coordinates X=-27.300, Y=-40.383
+29.06 11:22:48 Moving is finished
+29.06 11:24:25 Scanning 603 point from 1960
+29.06 11:24:25 Going to coordinates X=-27.250, Y=-40.383
+29.06 11:24:25 Moving is finished
+29.06 11:26:01 Scanning 604 point from 1960
+29.06 11:26:01 Going to coordinates X=-27.200, Y=-40.383
+29.06 11:26:02 Moving is finished
+29.06 11:27:38 Scanning 605 point from 1960
+29.06 11:27:38 Going to coordinates X=-27.150, Y=-40.383
+29.06 11:27:38 Moving is finished
+29.06 11:29:15 Scanning 606 point from 1960
+29.06 11:29:15 Going to coordinates X=-27.100, Y=-40.383
+29.06 11:29:15 Moving is finished
+29.06 11:30:51 Scanning 607 point from 1960
+29.06 11:30:51 Going to coordinates X=-27.050, Y=-40.383
+29.06 11:30:52 Moving is finished
+29.06 11:32:28 Scanning 608 point from 1960
+29.06 11:32:28 Going to coordinates X=-27.000, Y=-40.383
+29.06 11:32:28 Moving is finished
+29.06 11:34:05 Scanning 609 point from 1960
+29.06 11:34:05 Going to coordinates X=-26.950, Y=-40.383
+29.06 11:34:05 Moving is finished
+29.06 11:35:41 Scanning 610 point from 1960
+29.06 11:35:41 Going to coordinates X=-26.900, Y=-40.383
+29.06 11:35:42 Moving is finished
+29.06 11:37:18 Scanning 611 point from 1960
+29.06 11:37:18 Going to coordinates X=-26.850, Y=-40.383
+29.06 11:37:18 Moving is finished
+29.06 11:38:55 Scanning 612 point from 1960
+29.06 11:38:55 Going to coordinates X=-26.800, Y=-40.383
+29.06 11:38:55 Moving is finished
+29.06 11:40:31 Scanning 613 point from 1960
+29.06 11:40:31 Going to coordinates X=-26.750, Y=-40.383
+29.06 11:40:31 Moving is finished
+29.06 11:42:08 Scanning 614 point from 1960
+29.06 11:42:08 Going to coordinates X=-26.700, Y=-40.383
+29.06 11:42:08 Moving is finished
+29.06 11:43:45 Scanning 615 point from 1960
+29.06 11:43:45 Going to coordinates X=-26.650, Y=-40.383
+29.06 11:43:45 Moving is finished
+29.06 11:45:21 Scanning 616 point from 1960
+29.06 11:45:21 Going to coordinates X=-28.000, Y=-40.333
+29.06 11:45:22 Moving is finished
+29.06 11:46:59 Scanning 617 point from 1960
+29.06 11:46:59 Going to coordinates X=-27.950, Y=-40.333
+29.06 11:46:59 Moving is finished
+29.06 11:48:35 Scanning 618 point from 1960
+29.06 11:48:35 Going to coordinates X=-27.900, Y=-40.333
+29.06 11:48:35 Moving is finished
+29.06 11:50:12 Scanning 619 point from 1960
+29.06 11:50:12 Going to coordinates X=-27.850, Y=-40.333
+29.06 11:50:12 Moving is finished
+29.06 11:51:49 Scanning 620 point from 1960
+29.06 11:51:49 Going to coordinates X=-27.800, Y=-40.333
+29.06 11:51:49 Moving is finished
+29.06 11:53:25 Scanning 621 point from 1960
+29.06 11:53:25 Going to coordinates X=-27.750, Y=-40.333
+29.06 11:53:26 Moving is finished
+29.06 11:55:02 Scanning 622 point from 1960
+29.06 11:55:02 Going to coordinates X=-27.700, Y=-40.333
+29.06 11:55:02 Moving is finished
+29.06 11:56:39 Scanning 623 point from 1960
+29.06 11:56:39 Going to coordinates X=-27.650, Y=-40.333
+29.06 11:56:39 Moving is finished
+29.06 11:58:16 Scanning 624 point from 1960
+29.06 11:58:16 Going to coordinates X=-27.600, Y=-40.333
+29.06 11:58:16 Moving is finished
+29.06 11:59:52 Scanning 625 point from 1960
+29.06 11:59:52 Going to coordinates X=-27.550, Y=-40.333
+29.06 11:59:52 Moving is finished
+29.06 12:01:29 Scanning 626 point from 1960
+29.06 12:01:29 Going to coordinates X=-27.500, Y=-40.333
+29.06 12:01:29 Moving is finished
+29.06 12:03:05 Scanning 627 point from 1960
+29.06 12:03:05 Going to coordinates X=-27.450, Y=-40.333
+29.06 12:03:06 Moving is finished
+29.06 12:04:42 Scanning 628 point from 1960
+29.06 12:04:42 Going to coordinates X=-27.400, Y=-40.333
+29.06 12:04:42 Moving is finished
+29.06 12:06:19 Scanning 629 point from 1960
+29.06 12:06:19 Going to coordinates X=-27.350, Y=-40.333
+29.06 12:06:19 Moving is finished
+29.06 12:07:56 Scanning 630 point from 1960
+29.06 12:07:56 Going to coordinates X=-27.300, Y=-40.333
+29.06 12:07:56 Moving is finished
+29.06 12:09:32 Scanning 631 point from 1960
+29.06 12:09:32 Going to coordinates X=-27.250, Y=-40.333
+29.06 12:09:32 Moving is finished
+29.06 12:11:09 Scanning 632 point from 1960
+29.06 12:11:09 Going to coordinates X=-27.200, Y=-40.333
+29.06 12:11:09 Moving is finished
+29.06 12:12:45 Scanning 633 point from 1960
+29.06 12:12:45 Going to coordinates X=-27.150, Y=-40.333
+29.06 12:12:46 Moving is finished
+29.06 12:14:22 Scanning 634 point from 1960
+29.06 12:14:22 Going to coordinates X=-27.100, Y=-40.333
+29.06 12:14:22 Moving is finished
+29.06 12:15:59 Scanning 635 point from 1960
+29.06 12:15:59 Going to coordinates X=-27.050, Y=-40.333
+29.06 12:15:59 Moving is finished
+29.06 12:17:35 Scanning 636 point from 1960
+29.06 12:17:35 Going to coordinates X=-27.000, Y=-40.333
+29.06 12:17:36 Moving is finished
+29.06 12:19:12 Scanning 637 point from 1960
+29.06 12:19:12 Going to coordinates X=-26.950, Y=-40.333
+29.06 12:19:12 Moving is finished
+29.06 12:20:49 Scanning 638 point from 1960
+29.06 12:20:49 Going to coordinates X=-26.900, Y=-40.333
+29.06 12:20:49 Moving is finished
+29.06 12:22:25 Scanning 639 point from 1960
+29.06 12:22:25 Going to coordinates X=-26.850, Y=-40.333
+29.06 12:22:26 Moving is finished
+29.06 12:24:02 Scanning 640 point from 1960
+29.06 12:24:02 Going to coordinates X=-26.800, Y=-40.333
+29.06 12:24:02 Moving is finished
+29.06 12:25:39 Scanning 641 point from 1960
+29.06 12:25:39 Going to coordinates X=-26.750, Y=-40.333
+29.06 12:25:39 Moving is finished
+29.06 12:27:16 Scanning 642 point from 1960
+29.06 12:27:16 Going to coordinates X=-26.700, Y=-40.333
+29.06 12:27:16 Moving is finished
+29.06 12:28:52 Scanning 643 point from 1960
+29.06 12:28:52 Going to coordinates X=-26.650, Y=-40.333
+29.06 12:28:52 Moving is finished
+29.06 12:30:30 Scanning 644 point from 1960
+29.06 12:30:30 Going to coordinates X=-28.000, Y=-40.283
+29.06 12:30:30 Moving is finished
+29.06 12:32:07 Scanning 645 point from 1960
+29.06 12:32:07 Going to coordinates X=-27.950, Y=-40.283
+29.06 12:32:07 Moving is finished
+29.06 12:33:44 Scanning 646 point from 1960
+29.06 12:33:44 Going to coordinates X=-27.900, Y=-40.283
+29.06 12:33:44 Moving is finished
+29.06 12:35:21 Scanning 647 point from 1960
+29.06 12:35:21 Going to coordinates X=-27.850, Y=-40.283
+29.06 12:35:21 Moving is finished
+29.06 12:36:57 Scanning 648 point from 1960
+29.06 12:36:57 Going to coordinates X=-27.800, Y=-40.283
+29.06 12:36:57 Moving is finished
+29.06 12:38:34 Scanning 649 point from 1960
+29.06 12:38:34 Going to coordinates X=-27.750, Y=-40.283
+29.06 12:38:34 Moving is finished
+29.06 12:40:11 Scanning 650 point from 1960
+29.06 12:40:11 Going to coordinates X=-27.700, Y=-40.283
+29.06 12:40:11 Moving is finished
+29.06 12:41:47 Scanning 651 point from 1960
+29.06 12:41:47 Going to coordinates X=-27.650, Y=-40.283
+29.06 12:41:47 Moving is finished
+29.06 12:43:24 Scanning 652 point from 1960
+29.06 12:43:24 Going to coordinates X=-27.600, Y=-40.283
+29.06 12:43:24 Moving is finished
+29.06 12:45:01 Scanning 653 point from 1960
+29.06 12:45:01 Going to coordinates X=-27.550, Y=-40.283
+29.06 12:45:01 Moving is finished
+29.06 12:46:37 Scanning 654 point from 1960
+29.06 12:46:37 Going to coordinates X=-27.500, Y=-40.283
+29.06 12:46:37 Moving is finished
+29.06 12:48:14 Scanning 655 point from 1960
+29.06 12:48:14 Going to coordinates X=-27.450, Y=-40.283
+29.06 12:48:14 Moving is finished
+29.06 12:49:50 Scanning 656 point from 1960
+29.06 12:49:50 Going to coordinates X=-27.400, Y=-40.283
+29.06 12:49:50 Moving is finished
+29.06 12:51:27 Scanning 657 point from 1960
+29.06 12:51:27 Going to coordinates X=-27.350, Y=-40.283
+29.06 12:51:27 Moving is finished
+29.06 12:53:03 Scanning 658 point from 1960
+29.06 12:53:03 Going to coordinates X=-27.300, Y=-40.283
+29.06 12:53:04 Moving is finished
+29.06 12:54:40 Scanning 659 point from 1960
+29.06 12:54:40 Going to coordinates X=-27.250, Y=-40.283
+29.06 12:54:40 Moving is finished
+29.06 12:56:17 Scanning 660 point from 1960
+29.06 12:56:17 Going to coordinates X=-27.200, Y=-40.283
+29.06 12:56:17 Moving is finished
+29.06 12:57:53 Scanning 661 point from 1960
+29.06 12:57:53 Going to coordinates X=-27.150, Y=-40.283
+29.06 12:57:54 Moving is finished
+29.06 12:59:31 Scanning 662 point from 1960
+29.06 12:59:31 Going to coordinates X=-27.100, Y=-40.283
+29.06 12:59:31 Moving is finished
+29.06 13:01:08 Scanning 663 point from 1960
+29.06 13:01:08 Going to coordinates X=-27.050, Y=-40.283
+29.06 13:01:08 Moving is finished
+29.06 13:02:45 Scanning 664 point from 1960
+29.06 13:02:45 Going to coordinates X=-27.000, Y=-40.283
+29.06 13:02:45 Moving is finished
+29.06 13:04:22 Scanning 665 point from 1960
+29.06 13:04:22 Going to coordinates X=-26.950, Y=-40.283
+29.06 13:04:22 Moving is finished
+29.06 13:05:58 Scanning 666 point from 1960
+29.06 13:05:58 Going to coordinates X=-26.900, Y=-40.283
+29.06 13:05:58 Moving is finished
+29.06 13:07:35 Scanning 667 point from 1960
+29.06 13:07:35 Going to coordinates X=-26.850, Y=-40.283
+29.06 13:07:35 Moving is finished
+29.06 13:09:12 Scanning 668 point from 1960
+29.06 13:09:12 Going to coordinates X=-26.800, Y=-40.283
+29.06 13:09:12 Moving is finished
+29.06 13:10:48 Scanning 669 point from 1960
+29.06 13:10:48 Going to coordinates X=-26.750, Y=-40.283
+29.06 13:10:49 Moving is finished
+29.06 13:12:25 Scanning 670 point from 1960
+29.06 13:12:25 Going to coordinates X=-26.700, Y=-40.283
+29.06 13:12:25 Moving is finished
+29.06 13:14:01 Scanning 671 point from 1960
+29.06 13:14:01 Going to coordinates X=-26.650, Y=-40.283
+29.06 13:14:02 Moving is finished
+29.06 13:15:38 Scanning 672 point from 1960
+29.06 13:15:38 Going to coordinates X=-28.000, Y=-40.233
+29.06 13:15:39 Moving is finished
+29.06 13:17:15 Scanning 673 point from 1960
+29.06 13:17:15 Going to coordinates X=-27.950, Y=-40.233
+29.06 13:17:15 Moving is finished
+29.06 13:18:52 Scanning 674 point from 1960
+29.06 13:18:52 Going to coordinates X=-27.900, Y=-40.233
+29.06 13:18:52 Moving is finished
+29.06 13:20:29 Scanning 675 point from 1960
+29.06 13:20:29 Going to coordinates X=-27.850, Y=-40.233
+29.06 13:20:29 Moving is finished
+29.06 13:22:06 Scanning 676 point from 1960
+29.06 13:22:06 Going to coordinates X=-27.800, Y=-40.233
+29.06 13:22:06 Moving is finished
+29.06 13:23:43 Scanning 677 point from 1960
+29.06 13:23:43 Going to coordinates X=-27.750, Y=-40.233
+29.06 13:23:43 Moving is finished
+29.06 13:25:20 Scanning 678 point from 1960
+29.06 13:25:20 Going to coordinates X=-27.700, Y=-40.233
+29.06 13:25:20 Moving is finished
+29.06 13:26:56 Scanning 679 point from 1960
+29.06 13:26:56 Going to coordinates X=-27.650, Y=-40.233
+29.06 13:26:56 Moving is finished
+29.06 13:28:33 Scanning 680 point from 1960
+29.06 13:28:33 Going to coordinates X=-27.600, Y=-40.233
+29.06 13:28:33 Moving is finished
+29.06 13:30:10 Scanning 681 point from 1960
+29.06 13:30:10 Going to coordinates X=-27.550, Y=-40.233
+29.06 13:30:10 Moving is finished
+29.06 13:31:47 Scanning 682 point from 1960
+29.06 13:31:47 Going to coordinates X=-27.500, Y=-40.233
+29.06 13:31:47 Moving is finished
+29.06 13:33:24 Scanning 683 point from 1960
+29.06 13:33:24 Going to coordinates X=-27.450, Y=-40.233
+29.06 13:33:24 Moving is finished
+29.06 13:35:00 Scanning 684 point from 1960
+29.06 13:35:00 Going to coordinates X=-27.400, Y=-40.233
+29.06 13:35:01 Moving is finished
+29.06 13:36:37 Scanning 685 point from 1960
+29.06 13:36:37 Going to coordinates X=-27.350, Y=-40.233
+29.06 13:36:37 Moving is finished
+29.06 13:38:14 Scanning 686 point from 1960
+29.06 13:38:14 Going to coordinates X=-27.300, Y=-40.233
+29.06 13:38:14 Moving is finished
+29.06 13:39:51 Scanning 687 point from 1960
+29.06 13:39:51 Going to coordinates X=-27.250, Y=-40.233
+29.06 13:39:51 Moving is finished
+29.06 13:41:27 Scanning 688 point from 1960
+29.06 13:41:27 Going to coordinates X=-27.200, Y=-40.233
+29.06 13:41:27 Moving is finished
+29.06 13:43:04 Scanning 689 point from 1960
+29.06 13:43:04 Going to coordinates X=-27.150, Y=-40.233
+29.06 13:43:04 Moving is finished
+29.06 13:44:40 Scanning 690 point from 1960
+29.06 13:44:40 Going to coordinates X=-27.100, Y=-40.233
+29.06 13:44:41 Moving is finished
+29.06 13:46:17 Scanning 691 point from 1960
+29.06 13:46:17 Going to coordinates X=-27.050, Y=-40.233
+29.06 13:46:17 Moving is finished
+29.06 13:47:54 Scanning 692 point from 1960
+29.06 13:47:54 Going to coordinates X=-27.000, Y=-40.233
+29.06 13:47:54 Moving is finished
+29.06 13:49:31 Scanning 693 point from 1960
+29.06 13:49:31 Going to coordinates X=-26.950, Y=-40.233
+29.06 13:49:31 Moving is finished
+29.06 13:51:08 Scanning 694 point from 1960
+29.06 13:51:08 Going to coordinates X=-26.900, Y=-40.233
+29.06 13:51:08 Moving is finished
+29.06 13:52:44 Scanning 695 point from 1960
+29.06 13:52:44 Going to coordinates X=-26.850, Y=-40.233
+29.06 13:52:44 Moving is finished
+29.06 13:54:21 Scanning 696 point from 1960
+29.06 13:54:21 Going to coordinates X=-26.800, Y=-40.233
+29.06 13:54:21 Moving is finished
+29.06 13:55:58 Scanning 697 point from 1960
+29.06 13:55:58 Going to coordinates X=-26.750, Y=-40.233
+29.06 13:55:58 Moving is finished
+29.06 13:57:34 Scanning 698 point from 1960
+29.06 13:57:34 Going to coordinates X=-26.700, Y=-40.233
+29.06 13:57:34 Moving is finished
+29.06 13:59:11 Scanning 699 point from 1960
+29.06 13:59:11 Going to coordinates X=-26.650, Y=-40.233
+29.06 13:59:11 Moving is finished
+29.06 14:00:48 Scanning 700 point from 1960
+29.06 14:00:48 Going to coordinates X=-28.000, Y=-40.183
+29.06 14:00:48 Moving is finished
+29.06 14:02:25 Scanning 701 point from 1960
+29.06 14:02:25 Going to coordinates X=-27.950, Y=-40.183
+29.06 14:02:25 Moving is finished
+29.06 14:04:01 Scanning 702 point from 1960
+29.06 14:04:01 Going to coordinates X=-27.900, Y=-40.183
+29.06 14:04:01 Moving is finished
+29.06 14:05:38 Scanning 703 point from 1960
+29.06 14:05:38 Going to coordinates X=-27.850, Y=-40.183
+29.06 14:05:38 Moving is finished
+29.06 14:07:14 Scanning 704 point from 1960
+29.06 14:07:14 Going to coordinates X=-27.800, Y=-40.183
+29.06 14:07:14 Moving is finished
+29.06 14:08:51 Scanning 705 point from 1960
+29.06 14:08:51 Going to coordinates X=-27.750, Y=-40.183
+29.06 14:08:51 Moving is finished
+29.06 14:10:28 Scanning 706 point from 1960
+29.06 14:10:28 Going to coordinates X=-27.700, Y=-40.183
+29.06 14:10:28 Moving is finished
+29.06 14:12:04 Scanning 707 point from 1960
+29.06 14:12:04 Going to coordinates X=-27.650, Y=-40.183
+29.06 14:12:04 Moving is finished
+29.06 14:13:41 Scanning 708 point from 1960
+29.06 14:13:41 Going to coordinates X=-27.600, Y=-40.183
+29.06 14:13:41 Moving is finished
+29.06 14:15:18 Scanning 709 point from 1960
+29.06 14:15:18 Going to coordinates X=-27.550, Y=-40.183
+29.06 14:15:18 Moving is finished
+29.06 14:16:55 Scanning 710 point from 1960
+29.06 14:16:55 Going to coordinates X=-27.500, Y=-40.183
+29.06 14:16:55 Moving is finished
+29.06 14:18:31 Scanning 711 point from 1960
+29.06 14:18:31 Going to coordinates X=-27.450, Y=-40.183
+29.06 14:18:31 Moving is finished
+29.06 14:20:08 Scanning 712 point from 1960
+29.06 14:20:08 Going to coordinates X=-27.400, Y=-40.183
+29.06 14:20:08 Moving is finished
+29.06 14:21:45 Scanning 713 point from 1960
+29.06 14:21:45 Going to coordinates X=-27.350, Y=-40.183
+29.06 14:21:45 Moving is finished
+29.06 14:23:21 Scanning 714 point from 1960
+29.06 14:23:21 Going to coordinates X=-27.300, Y=-40.183
+29.06 14:23:22 Moving is finished
+29.06 14:24:58 Scanning 715 point from 1960
+29.06 14:24:58 Going to coordinates X=-27.250, Y=-40.183
+29.06 14:24:58 Moving is finished
+29.06 14:26:34 Scanning 716 point from 1960
+29.06 14:26:34 Going to coordinates X=-27.200, Y=-40.183
+29.06 14:26:35 Moving is finished
+29.06 14:28:11 Scanning 717 point from 1960
+29.06 14:28:11 Going to coordinates X=-27.150, Y=-40.183
+29.06 14:28:11 Moving is finished
+29.06 14:29:48 Scanning 718 point from 1960
+29.06 14:29:48 Going to coordinates X=-27.100, Y=-40.183
+29.06 14:29:48 Moving is finished
+29.06 14:31:24 Scanning 719 point from 1960
+29.06 14:31:24 Going to coordinates X=-27.050, Y=-40.183
+29.06 14:31:25 Moving is finished
+29.06 14:33:01 Scanning 720 point from 1960
+29.06 14:33:01 Going to coordinates X=-27.000, Y=-40.183
+29.06 14:33:01 Moving is finished
+29.06 14:34:38 Scanning 721 point from 1960
+29.06 14:34:38 Going to coordinates X=-26.950, Y=-40.183
+29.06 14:34:38 Moving is finished
+29.06 14:36:14 Scanning 722 point from 1960
+29.06 14:36:14 Going to coordinates X=-26.900, Y=-40.183
+29.06 14:36:15 Moving is finished
+29.06 14:37:51 Scanning 723 point from 1960
+29.06 14:37:51 Going to coordinates X=-26.850, Y=-40.183
+29.06 14:37:51 Moving is finished
+29.06 14:39:28 Scanning 724 point from 1960
+29.06 14:39:28 Going to coordinates X=-26.800, Y=-40.183
+29.06 14:39:28 Moving is finished
+29.06 14:41:05 Scanning 725 point from 1960
+29.06 14:41:05 Going to coordinates X=-26.750, Y=-40.183
+29.06 14:41:05 Moving is finished
+29.06 14:42:41 Scanning 726 point from 1960
+29.06 14:42:41 Going to coordinates X=-26.700, Y=-40.183
+29.06 14:42:42 Moving is finished
+29.06 14:44:18 Scanning 727 point from 1960
+29.06 14:44:18 Going to coordinates X=-26.650, Y=-40.183
+29.06 14:44:18 Moving is finished
+29.06 14:45:55 Scanning 728 point from 1960
+29.06 14:45:55 Going to coordinates X=-28.000, Y=-40.133
+29.06 14:45:56 Moving is finished
+29.06 14:47:32 Scanning 729 point from 1960
+29.06 14:47:32 Going to coordinates X=-27.950, Y=-40.133
+29.06 14:47:32 Moving is finished
+29.06 14:49:09 Scanning 730 point from 1960
+29.06 14:49:09 Going to coordinates X=-27.900, Y=-40.133
+29.06 14:49:09 Moving is finished
+29.06 14:50:45 Scanning 731 point from 1960
+29.06 14:50:45 Going to coordinates X=-27.850, Y=-40.133
+29.06 14:50:46 Moving is finished
+29.06 14:52:22 Scanning 732 point from 1960
+29.06 14:52:22 Going to coordinates X=-27.800, Y=-40.133
+29.06 14:52:22 Moving is finished
+29.06 14:53:59 Scanning 733 point from 1960
+29.06 14:53:59 Going to coordinates X=-27.750, Y=-40.133
+29.06 14:53:59 Moving is finished
+29.06 14:55:35 Scanning 734 point from 1960
+29.06 14:55:35 Going to coordinates X=-27.700, Y=-40.133
+29.06 14:55:36 Moving is finished
+29.06 14:57:12 Scanning 735 point from 1960
+29.06 14:57:12 Going to coordinates X=-27.650, Y=-40.133
+29.06 14:57:12 Moving is finished
+29.06 14:58:49 Scanning 736 point from 1960
+29.06 14:58:49 Going to coordinates X=-27.600, Y=-40.133
+29.06 14:58:49 Moving is finished
+29.06 15:00:26 Scanning 737 point from 1960
+29.06 15:00:26 Going to coordinates X=-27.550, Y=-40.133
+29.06 15:00:26 Moving is finished
+29.06 15:02:02 Scanning 738 point from 1960
+29.06 15:02:02 Going to coordinates X=-27.500, Y=-40.133
+29.06 15:02:03 Moving is finished
+29.06 15:03:39 Scanning 739 point from 1960
+29.06 15:03:39 Going to coordinates X=-27.450, Y=-40.133
+29.06 15:03:39 Moving is finished
+29.06 15:05:16 Scanning 740 point from 1960
+29.06 15:05:16 Going to coordinates X=-27.400, Y=-40.133
+29.06 15:05:16 Moving is finished
+29.06 15:06:52 Scanning 741 point from 1960
+29.06 15:06:52 Going to coordinates X=-27.350, Y=-40.133
+29.06 15:06:52 Moving is finished
+29.06 15:08:29 Scanning 742 point from 1960
+29.06 15:08:29 Going to coordinates X=-27.300, Y=-40.133
+29.06 15:08:29 Moving is finished
+29.06 15:10:06 Scanning 743 point from 1960
+29.06 15:10:06 Going to coordinates X=-27.250, Y=-40.133
+29.06 15:10:06 Moving is finished
+29.06 15:11:42 Scanning 744 point from 1960
+29.06 15:11:42 Going to coordinates X=-27.200, Y=-40.133
+29.06 15:11:43 Moving is finished
+29.06 15:13:19 Scanning 745 point from 1960
+29.06 15:13:19 Going to coordinates X=-27.150, Y=-40.133
+29.06 15:13:19 Moving is finished
+29.06 15:14:55 Scanning 746 point from 1960
+29.06 15:14:55 Going to coordinates X=-27.100, Y=-40.133
+29.06 15:14:56 Moving is finished
+29.06 15:16:32 Scanning 747 point from 1960
+29.06 15:16:32 Going to coordinates X=-27.050, Y=-40.133
+29.06 15:16:32 Moving is finished
+29.06 15:18:08 Scanning 748 point from 1960
+29.06 15:18:08 Going to coordinates X=-27.000, Y=-40.133
+29.06 15:18:09 Moving is finished
+29.06 15:19:46 Scanning 749 point from 1960
+29.06 15:19:46 Going to coordinates X=-26.950, Y=-40.133
+29.06 15:19:46 Moving is finished
+29.06 15:21:23 Scanning 750 point from 1960
+29.06 15:21:23 Going to coordinates X=-26.900, Y=-40.133
+29.06 15:21:23 Moving is finished
+29.06 15:22:59 Scanning 751 point from 1960
+29.06 15:22:59 Going to coordinates X=-26.850, Y=-40.133
+29.06 15:23:00 Moving is finished
+29.06 15:24:36 Scanning 752 point from 1960
+29.06 15:24:36 Going to coordinates X=-26.800, Y=-40.133
+29.06 15:24:36 Moving is finished
+29.06 15:26:13 Scanning 753 point from 1960
+29.06 15:26:13 Going to coordinates X=-26.750, Y=-40.133
+29.06 15:26:13 Moving is finished
+29.06 15:27:49 Scanning 754 point from 1960
+29.06 15:27:49 Going to coordinates X=-26.700, Y=-40.133
+29.06 15:27:50 Moving is finished
+29.06 15:29:26 Scanning 755 point from 1960
+29.06 15:29:26 Going to coordinates X=-26.650, Y=-40.133
+29.06 15:29:27 Moving is finished
+29.06 15:31:03 Scanning 756 point from 1960
+29.06 15:31:03 Going to coordinates X=-28.000, Y=-40.083
+29.06 15:31:04 Moving is finished
+29.06 15:32:40 Scanning 757 point from 1960
+29.06 15:32:40 Going to coordinates X=-27.950, Y=-40.083
+29.06 15:32:41 Moving is finished
+29.06 15:34:18 Scanning 758 point from 1960
+29.06 15:34:18 Going to coordinates X=-27.900, Y=-40.083
+29.06 15:34:18 Moving is finished
+29.06 15:35:55 Scanning 759 point from 1960
+29.06 15:35:55 Going to coordinates X=-27.850, Y=-40.083
+29.06 15:35:55 Moving is finished
+29.06 15:37:32 Scanning 760 point from 1960
+29.06 15:37:32 Going to coordinates X=-27.800, Y=-40.083
+29.06 15:37:32 Moving is finished
+29.06 15:39:08 Scanning 761 point from 1960
+29.06 15:39:08 Going to coordinates X=-27.750, Y=-40.083
+29.06 15:39:08 Moving is finished
+29.06 15:40:45 Scanning 762 point from 1960
+29.06 15:40:45 Going to coordinates X=-27.700, Y=-40.083
+29.06 15:40:45 Moving is finished
+29.06 15:42:21 Scanning 763 point from 1960
+29.06 15:42:21 Going to coordinates X=-27.650, Y=-40.083
+29.06 15:42:22 Moving is finished
+29.06 15:43:58 Scanning 764 point from 1960
+29.06 15:43:58 Going to coordinates X=-27.600, Y=-40.083
+29.06 15:43:58 Moving is finished
+29.06 15:45:35 Scanning 765 point from 1960
+29.06 15:45:35 Going to coordinates X=-27.550, Y=-40.083
+29.06 15:45:35 Moving is finished
+29.06 15:47:12 Scanning 766 point from 1960
+29.06 15:47:12 Going to coordinates X=-27.500, Y=-40.083
+29.06 15:47:12 Moving is finished
+29.06 15:48:48 Scanning 767 point from 1960
+29.06 15:48:48 Going to coordinates X=-27.450, Y=-40.083
+29.06 15:48:49 Moving is finished
+29.06 15:50:26 Scanning 768 point from 1960
+29.06 15:50:26 Going to coordinates X=-27.400, Y=-40.083
+29.06 15:50:26 Moving is finished
+29.06 15:52:03 Scanning 769 point from 1960
+29.06 15:52:03 Going to coordinates X=-27.350, Y=-40.083
+29.06 15:52:03 Moving is finished
+29.06 15:53:39 Scanning 770 point from 1960
+29.06 15:53:39 Going to coordinates X=-27.300, Y=-40.083
+29.06 15:53:39 Moving is finished
+29.06 15:55:16 Scanning 771 point from 1960
+29.06 15:55:16 Going to coordinates X=-27.250, Y=-40.083
+29.06 15:55:16 Moving is finished
+29.06 15:56:53 Scanning 772 point from 1960
+29.06 15:56:53 Going to coordinates X=-27.200, Y=-40.083
+29.06 15:56:53 Moving is finished
+29.06 15:58:29 Scanning 773 point from 1960
+29.06 15:58:29 Going to coordinates X=-27.150, Y=-40.083
+29.06 15:58:29 Moving is finished
+29.06 16:00:06 Scanning 774 point from 1960
+29.06 16:00:06 Going to coordinates X=-27.100, Y=-40.083
+29.06 16:00:06 Moving is finished
+29.06 16:01:42 Scanning 775 point from 1960
+29.06 16:01:42 Going to coordinates X=-27.050, Y=-40.083
+29.06 16:01:42 Moving is finished
+29.06 16:03:19 Scanning 776 point from 1960
+29.06 16:03:19 Going to coordinates X=-27.000, Y=-40.083
+29.06 16:03:19 Moving is finished
+29.06 16:04:56 Scanning 777 point from 1960
+29.06 16:04:56 Going to coordinates X=-26.950, Y=-40.083
+29.06 16:04:56 Moving is finished
+29.06 16:06:32 Scanning 778 point from 1960
+29.06 16:06:32 Going to coordinates X=-26.900, Y=-40.083
+29.06 16:06:33 Moving is finished
+29.06 16:08:09 Scanning 779 point from 1960
+29.06 16:08:09 Going to coordinates X=-26.850, Y=-40.083
+29.06 16:08:09 Moving is finished
+29.06 16:09:46 Scanning 780 point from 1960
+29.06 16:09:46 Going to coordinates X=-26.800, Y=-40.083
+29.06 16:09:46 Moving is finished
+29.06 16:11:23 Scanning 781 point from 1960
+29.06 16:11:23 Going to coordinates X=-26.750, Y=-40.083
+29.06 16:11:23 Moving is finished
+29.06 16:12:59 Scanning 782 point from 1960
+29.06 16:12:59 Going to coordinates X=-26.700, Y=-40.083
+29.06 16:13:00 Moving is finished
+29.06 16:14:36 Scanning 783 point from 1960
+29.06 16:14:36 Going to coordinates X=-26.650, Y=-40.083
+29.06 16:14:36 Moving is finished
+29.06 16:16:13 Scanning 784 point from 1960
+29.06 16:16:13 Going to coordinates X=-28.000, Y=-40.033
+29.06 16:16:13 Moving is finished
+29.06 16:17:50 Scanning 785 point from 1960
+29.06 16:17:50 Going to coordinates X=-27.950, Y=-40.033
+29.06 16:17:50 Moving is finished
+29.06 16:19:27 Scanning 786 point from 1960
+29.06 16:19:27 Going to coordinates X=-27.900, Y=-40.033
+29.06 16:19:27 Moving is finished
+29.06 16:21:04 Scanning 787 point from 1960
+29.06 16:21:04 Going to coordinates X=-27.850, Y=-40.033
+29.06 16:21:04 Moving is finished
+29.06 16:22:40 Scanning 788 point from 1960
+29.06 16:22:40 Going to coordinates X=-27.800, Y=-40.033
+29.06 16:22:41 Moving is finished
+29.06 16:24:17 Scanning 789 point from 1960
+29.06 16:24:17 Going to coordinates X=-27.750, Y=-40.033
+29.06 16:24:17 Moving is finished
+29.06 16:25:54 Scanning 790 point from 1960
+29.06 16:25:54 Going to coordinates X=-27.700, Y=-40.033
+29.06 16:25:54 Moving is finished
+29.06 16:27:31 Scanning 791 point from 1960
+29.06 16:27:31 Going to coordinates X=-27.650, Y=-40.033
+29.06 16:27:31 Moving is finished
+29.06 16:29:07 Scanning 792 point from 1960
+29.06 16:29:07 Going to coordinates X=-27.600, Y=-40.033
+29.06 16:29:07 Moving is finished
+29.06 16:30:44 Scanning 793 point from 1960
+29.06 16:30:44 Going to coordinates X=-27.550, Y=-40.033
+29.06 16:30:44 Moving is finished
+29.06 16:32:21 Scanning 794 point from 1960
+29.06 16:32:21 Going to coordinates X=-27.500, Y=-40.033
+29.06 16:32:21 Moving is finished
+29.06 16:33:57 Scanning 795 point from 1960
+29.06 16:33:57 Going to coordinates X=-27.450, Y=-40.033
+29.06 16:33:58 Moving is finished
+29.06 16:35:34 Scanning 796 point from 1960
+29.06 16:35:34 Going to coordinates X=-27.400, Y=-40.033
+29.06 16:35:34 Moving is finished
+29.06 16:37:10 Scanning 797 point from 1960
+29.06 16:37:10 Going to coordinates X=-27.350, Y=-40.033
+29.06 16:37:11 Moving is finished
+29.06 16:38:47 Scanning 798 point from 1960
+29.06 16:38:47 Going to coordinates X=-27.300, Y=-40.033
+29.06 16:38:47 Moving is finished
+29.06 16:40:24 Scanning 799 point from 1960
+29.06 16:40:24 Going to coordinates X=-27.250, Y=-40.033
+29.06 16:40:24 Moving is finished
+29.06 16:42:01 Scanning 800 point from 1960
+29.06 16:42:01 Going to coordinates X=-27.200, Y=-40.033
+29.06 16:42:01 Moving is finished
+29.06 16:43:37 Scanning 801 point from 1960
+29.06 16:43:37 Going to coordinates X=-27.150, Y=-40.033
+29.06 16:43:37 Moving is finished
+29.06 16:45:14 Scanning 802 point from 1960
+29.06 16:45:14 Going to coordinates X=-27.100, Y=-40.033
+29.06 16:45:14 Moving is finished
+29.06 16:46:51 Scanning 803 point from 1960
+29.06 16:46:51 Going to coordinates X=-27.050, Y=-40.033
+29.06 16:46:51 Moving is finished
+29.06 16:48:28 Scanning 804 point from 1960
+29.06 16:48:28 Going to coordinates X=-27.000, Y=-40.033
+29.06 16:48:28 Moving is finished
+29.06 16:50:05 Scanning 805 point from 1960
+29.06 16:50:05 Going to coordinates X=-26.950, Y=-40.033
+29.06 16:50:05 Moving is finished
+29.06 16:51:41 Scanning 806 point from 1960
+29.06 16:51:41 Going to coordinates X=-26.900, Y=-40.033
+29.06 16:51:42 Moving is finished
+29.06 16:53:18 Scanning 807 point from 1960
+29.06 16:53:18 Going to coordinates X=-26.850, Y=-40.033
+29.06 16:53:18 Moving is finished
+29.06 16:54:55 Scanning 808 point from 1960
+29.06 16:54:55 Going to coordinates X=-26.800, Y=-40.033
+29.06 16:54:55 Moving is finished
+29.06 16:56:32 Scanning 809 point from 1960
+29.06 16:56:32 Going to coordinates X=-26.750, Y=-40.033
+29.06 16:56:32 Moving is finished
+29.06 16:58:09 Scanning 810 point from 1960
+29.06 16:58:09 Going to coordinates X=-26.700, Y=-40.033
+29.06 16:58:09 Moving is finished
+29.06 16:59:45 Scanning 811 point from 1960
+29.06 16:59:45 Going to coordinates X=-26.650, Y=-40.033
+29.06 16:59:45 Moving is finished
+29.06 17:01:22 Scanning 812 point from 1960
+29.06 17:01:22 Going to coordinates X=-28.000, Y=-39.983
+29.06 17:01:23 Moving is finished
+29.06 17:03:00 Scanning 813 point from 1960
+29.06 17:03:00 Going to coordinates X=-27.950, Y=-39.983
+29.06 17:03:00 Moving is finished
+29.06 17:04:36 Scanning 814 point from 1960
+29.06 17:04:36 Going to coordinates X=-27.900, Y=-39.983
+29.06 17:04:36 Moving is finished
+29.06 17:06:13 Scanning 815 point from 1960
+29.06 17:06:13 Going to coordinates X=-27.850, Y=-39.983
+29.06 17:06:13 Moving is finished
+29.06 17:07:49 Scanning 816 point from 1960
+29.06 17:07:49 Going to coordinates X=-27.800, Y=-39.983
+29.06 17:07:49 Moving is finished
+29.06 17:09:26 Scanning 817 point from 1960
+29.06 17:09:26 Going to coordinates X=-27.750, Y=-39.983
+29.06 17:09:26 Moving is finished
+29.06 17:11:02 Scanning 818 point from 1960
+29.06 17:11:02 Going to coordinates X=-27.700, Y=-39.983
+29.06 17:11:03 Moving is finished
+29.06 17:12:39 Scanning 819 point from 1960
+29.06 17:12:39 Going to coordinates X=-27.650, Y=-39.983
+29.06 17:12:39 Moving is finished
+29.06 17:14:16 Scanning 820 point from 1960
+29.06 17:14:16 Going to coordinates X=-27.600, Y=-39.983
+29.06 17:14:16 Moving is finished
+29.06 17:15:53 Scanning 821 point from 1960
+29.06 17:15:53 Going to coordinates X=-27.550, Y=-39.983
+29.06 17:15:53 Moving is finished
+29.06 17:17:30 Scanning 822 point from 1960
+29.06 17:17:30 Going to coordinates X=-27.500, Y=-39.983
+29.06 17:17:30 Moving is finished
+29.06 17:19:06 Scanning 823 point from 1960
+29.06 17:19:06 Going to coordinates X=-27.450, Y=-39.983
+29.06 17:19:06 Moving is finished
+29.06 17:20:43 Scanning 824 point from 1960
+29.06 17:20:43 Going to coordinates X=-27.400, Y=-39.983
+29.06 17:20:43 Moving is finished
+29.06 17:22:20 Scanning 825 point from 1960
+29.06 17:22:20 Going to coordinates X=-27.350, Y=-39.983
+29.06 17:22:20 Moving is finished
+29.06 17:23:56 Scanning 826 point from 1960
+29.06 17:23:56 Going to coordinates X=-27.300, Y=-39.983
+29.06 17:23:56 Moving is finished
+29.06 17:25:33 Scanning 827 point from 1960
+29.06 17:25:33 Going to coordinates X=-27.250, Y=-39.983
+29.06 17:25:33 Moving is finished
+29.06 17:27:10 Scanning 828 point from 1960
+29.06 17:27:10 Going to coordinates X=-27.200, Y=-39.983
+29.06 17:27:10 Moving is finished
+29.06 17:28:46 Scanning 829 point from 1960
+29.06 17:28:46 Going to coordinates X=-27.150, Y=-39.983
+29.06 17:28:47 Moving is finished
+29.06 17:30:23 Scanning 830 point from 1960
+29.06 17:30:23 Going to coordinates X=-27.100, Y=-39.983
+29.06 17:30:23 Moving is finished
+29.06 17:32:00 Scanning 831 point from 1960
+29.06 17:32:00 Going to coordinates X=-27.050, Y=-39.983
+29.06 17:32:00 Moving is finished
+29.06 17:33:36 Scanning 832 point from 1960
+29.06 17:33:36 Going to coordinates X=-27.000, Y=-39.983
+29.06 17:33:37 Moving is finished
+29.06 17:35:13 Scanning 833 point from 1960
+29.06 17:35:13 Going to coordinates X=-26.950, Y=-39.983
+29.06 17:35:13 Moving is finished
+29.06 17:36:50 Scanning 834 point from 1960
+29.06 17:36:50 Going to coordinates X=-26.900, Y=-39.983
+29.06 17:36:50 Moving is finished
+29.06 17:38:26 Scanning 835 point from 1960
+29.06 17:38:26 Going to coordinates X=-26.850, Y=-39.983
+29.06 17:38:26 Moving is finished
+29.06 17:40:03 Scanning 836 point from 1960
+29.06 17:40:03 Going to coordinates X=-26.800, Y=-39.983
+29.06 17:40:03 Status responce is malformed
+29.06 17:40:03 list index out of range
+29.06 17:40:03 Moving is finished
+29.06 17:41:40 Scanning 837 point from 1960
+29.06 17:41:40 Going to coordinates X=-26.750, Y=-39.983
+29.06 17:41:40 Moving is finished
+29.06 17:43:16 Scanning 838 point from 1960
+29.06 17:43:16 Going to coordinates X=-26.700, Y=-39.983
+29.06 17:43:17 Moving is finished
+29.06 17:44:53 Scanning 839 point from 1960
+29.06 17:44:53 Going to coordinates X=-26.650, Y=-39.983
+29.06 17:44:53 Moving is finished
+29.06 17:46:30 Scanning 840 point from 1960
+29.06 17:46:30 Going to coordinates X=-28.000, Y=-39.933
+29.06 17:46:30 Moving is finished
+29.06 17:48:07 Scanning 841 point from 1960
+29.06 17:48:07 Going to coordinates X=-27.950, Y=-39.933
+29.06 17:48:07 Moving is finished
+29.06 17:49:44 Scanning 842 point from 1960
+29.06 17:49:44 Going to coordinates X=-27.900, Y=-39.933
+29.06 17:49:44 Moving is finished
+29.06 17:51:20 Scanning 843 point from 1960
+29.06 17:51:20 Going to coordinates X=-27.850, Y=-39.933
+29.06 17:51:21 Moving is finished
+29.06 17:52:57 Scanning 844 point from 1960
+29.06 17:52:57 Going to coordinates X=-27.800, Y=-39.933
+29.06 17:52:57 Moving is finished
+29.06 17:54:34 Scanning 845 point from 1960
+29.06 17:54:34 Going to coordinates X=-27.750, Y=-39.933
+29.06 17:54:34 Moving is finished
+29.06 17:56:11 Scanning 846 point from 1960
+29.06 17:56:11 Going to coordinates X=-27.700, Y=-39.933
+29.06 17:56:11 Moving is finished
+29.06 17:57:47 Scanning 847 point from 1960
+29.06 17:57:47 Going to coordinates X=-27.650, Y=-39.933
+29.06 17:57:47 Moving is finished
+29.06 17:59:24 Scanning 848 point from 1960
+29.06 17:59:24 Going to coordinates X=-27.600, Y=-39.933
+29.06 17:59:24 Moving is finished
+29.06 18:01:00 Scanning 849 point from 1960
+29.06 18:01:00 Going to coordinates X=-27.550, Y=-39.933
+29.06 18:01:00 Moving is finished
+29.06 18:02:37 Scanning 850 point from 1960
+29.06 18:02:37 Going to coordinates X=-27.500, Y=-39.933
+29.06 18:02:37 Moving is finished
+29.06 18:04:14 Scanning 851 point from 1960
+29.06 18:04:14 Going to coordinates X=-27.450, Y=-39.933
+29.06 18:04:14 Moving is finished
+29.06 18:05:51 Scanning 852 point from 1960
+29.06 18:05:51 Going to coordinates X=-27.400, Y=-39.933
+29.06 18:05:51 Moving is finished
+29.06 18:07:28 Scanning 853 point from 1960
+29.06 18:07:28 Going to coordinates X=-27.350, Y=-39.933
+29.06 18:07:28 Moving is finished
+29.06 18:08:56 Stopped!

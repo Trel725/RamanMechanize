@@ -1,0 +1,39 @@
+29.10 10:16:46 Initializing grbl...
+29.10 10:16:46 Got the response: b''
+29.10 10:17:26 Error 8
+
+29.10 10:26:37 Can't send the command to GRBL
+29.10 10:26:37 Write timeout29.10 10:26:37 Write timeout
+29.10 10:48:03 Row 0: 29.10 10:48:03 Map: x1: -19.197, y1: -34.974, x2: -19.313, y2: -35.241, xres: 0.020, yres: 0.020, fname: 4-nitro
+29.10 10:48:03 Scanning 0 point from 105
+29.10 10:48:03 Going to coordinates X=-19.313, Y=-35.241
+29.10 10:48:03 Moving is finished
+29.10 10:49:48 Scanning 1 point from 105
+29.10 10:49:48 Going to coordinates X=-19.293, Y=-35.241
+29.10 10:49:48 Moving is finished
+29.10 10:51:33 Scanning 2 point from 105
+29.10 10:51:33 Going to coordinates X=-19.273, Y=-35.241
+29.10 10:51:33 Moving is finished
+29.10 10:53:17 Scanning 3 point from 105
+29.10 10:53:17 Going to coordinates X=-19.253, Y=-35.241
+29.10 10:53:17 Moving is finished
+29.10 10:55:03 Scanning 4 point from 105
+29.10 10:55:03 Going to coordinates X=-19.233, Y=-35.241
+29.10 10:55:03 Moving is finished
+29.10 10:56:48 Scanning 5 point from 105
+29.10 10:56:48 Going to coordinates X=-19.213, Y=-35.241
+29.10 10:56:48 Moving is finished
+29.10 10:58:34 Scanning 6 point from 105
+29.10 10:58:34 Going to coordinates X=-19.193, Y=-35.241
+29.10 10:58:34 Moving is finished
+29.10 10:59:18 Scanning 7 point from 105
+29.10 10:59:18 Going to coordinates X=-19.313, Y=-35.221
+29.10 10:59:19 Moving is finished
+
+29.10 10:59:48 Scanning 8 point from 105
+29.10 10:59:48 Going to coordinates X=-19.293, Y=-35.221
+29.10 10:59:48 Moving is finished
+
+29.10 10:59:50 Scanning 9 point from 105
+29.10 10:59:50 Going to coordinates X=-19.273, Y=-35.221
+29.10 10:59:51 Moving is finished
