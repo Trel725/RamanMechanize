@@ -66,15 +66,18 @@ class CommandExecutor(QThread):
         num_of_points = len(coords)
         for i, c in enumerate(coords):
             print("Scanning {0} point from {1}".format(i, num_of_points))
-            if self.mapaf:
-                if i % self.mapaf == 0:
-                    self.af.focus()
+
             if self.paused:
                 print("Paused")
                 while(self.paused):
                     time.sleep(0.1)
             try:
                 self.goToPos(c[0], c[1])
+
+                if self.mapaf:
+                    if i % self.mapaf == 0:
+                        self.af.focus()
+
                 func_timeout(self.map_timeout, self.performScanSave, args=(
                     fname, "x{0:4.3f}_y{1:4.3f}.spc".format(c[0], c[1])))
 

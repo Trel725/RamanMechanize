@@ -98,6 +98,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self, None, QtCore.Qt.WindowStaysOnTopHint)
         self.setupUi(self)
         self.sc = None
+        self.jogBusy = False
         self.ce = CommandExecutor()
         self.ce.listWidget = self.listWidget
         self.ce.updateRow.connect(self.onrowChange)
@@ -122,6 +123,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.selectSerialBox.addItems(self.list_serial_ports())
         self.AFButton.clicked.connect(self.autofocus)
         self.AFcheckBox.stateChanged.connect(self.AFcheckBoxHandler)
+        self.LEDButton.clicked.connect(self.ledToggle)
 
         if self.settings.contains("port"):
             saved_port = self.settings.value("port", type=str)
@@ -169,9 +171,13 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.actionUsage.triggered.connect(self.showHelp)
         self.actionLicense.triggered.connect(self.showLicense)
 
+    def ledToggle(self):
+        if self.sc is not None:
+            self.sc.ledToggle()
+
     def AFcheckBoxHandler(self):
         if self.AFcheckBox.isChecked():
-            self.ce.mapaf = 10
+            self.ce.mapaf = 1
         else:
             self.ce.mapaf = False
 
@@ -290,6 +296,9 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.sc.soft_reset()
 
     def keyPressEvent(self, e):
+        if self.jogBusy:
+            return
+
         if not e.isAutoRepeat() and not self.js.isRunning():
             feed = 1000
             if e.key() in self.key_switcher.keys():
@@ -302,6 +311,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                         self.js.single_step = False
                     self.js.coord = coord
                     self.js.start()
+                    self.jogBusy = True
                 else:
                     QtWidgets.QMessageBox.warning(
                         self, "Warning", "Please connect to the controller firstly")
@@ -337,6 +347,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                 self.key_pressed[e.key()] = False
                 self.js.resetFeed()
                 self.cancelJog()
+                self.jogBusy = False
                 if self.sc is not None:
                     self.sc.busy = False
 
@@ -362,7 +373,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     def goZero(self):
         if self.sc is not None:
-            self.sc.sendCommand("G0X-14Y-38Z0", block=False)
+            self.sc.sendCommand("G0X-14Y-38", block=False)
 
     def addCurrentPosition(self):
         newitem = QtWidgets.QListWidgetItem(None)

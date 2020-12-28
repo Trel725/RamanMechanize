@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>526</width>
-    <height>395</height>
+    <width>559</width>
+    <height>429</height>
    </rect>
   </property>
   <property name="focusPolicy">
@@ -268,16 +268,6 @@
       </item>
       <item>
        <layout class="QFormLayout" name="formLayout">
-        <item row="1" column="0">
-         <widget class="QPushButton" name="botRightButton">
-          <property name="focusPolicy">
-           <enum>Qt::NoFocus</enum>
-          </property>
-          <property name="text">
-           <string>Corner 2</string>
-          </property>
-         </widget>
-        </item>
         <item row="0" column="0">
          <widget class="QPushButton" name="topLeftButton">
           <property name="focusPolicy">
@@ -330,7 +320,24 @@
             </property>
            </widget>
           </item>
+          <item>
+           <widget class="QCheckBox" name="AFcheckBox">
+            <property name="text">
+             <string>AF</string>
+            </property>
+           </widget>
+          </item>
          </layout>
+        </item>
+        <item row="1" column="0">
+         <widget class="QPushButton" name="botRightButton">
+          <property name="focusPolicy">
+           <enum>Qt::NoFocus</enum>
+          </property>
+          <property name="text">
+           <string>Corner 2</string>
+          </property>
+         </widget>
         </item>
         <item row="1" column="1">
          <widget class="QPushButton" name="mapButton">
@@ -348,6 +355,61 @@
        <widget class="Line" name="line_3">
         <property name="orientation">
          <enum>Qt::Horizontal</enum>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_8">
+        <item>
+         <widget class="QPushButton" name="AFButton">
+          <property name="text">
+           <string>Focus</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_5">
+          <property name="text">
+           <string>min</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QDoubleSpinBox" name="MinFocusSpinBox">
+          <property name="minimum">
+           <double>-20.000000000000000</double>
+          </property>
+          <property name="maximum">
+           <double>20.000000000000000</double>
+          </property>
+          <property name="value">
+           <double>-2.000000000000000</double>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_6">
+          <property name="text">
+           <string>max</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QDoubleSpinBox" name="MaxFocusSpinBox">
+          <property name="maximum">
+           <double>20.000000000000000</double>
+          </property>
+          <property name="value">
+           <double>2.000000000000000</double>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QPushButton" name="LEDButton">
+        <property name="text">
+         <string>Toggle LED</string>
         </property>
        </widget>
       </item>
@@ -514,7 +576,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>526</width>
+     <width>559</width>
      <height>21</height>
     </rect>
    </property>

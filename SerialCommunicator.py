@@ -129,3 +129,6 @@ class SerialCommunicator(object):
 
     def soft_reset(self):
         self.ser.write(chr(0x18).encode())
+
+    def ledToggle(self):
+        self.ser.write(chr(0xa0).encode())
