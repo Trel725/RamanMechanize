@@ -65,34 +65,37 @@ class CommandExecutor(QThread):
                 coords.append([j[0], j[1]])
         num_of_points = len(coords)
         for i, c in enumerate(coords):
-            print("Scanning {0} point from {1}".format(i, num_of_points))
-
-            if self.paused:
-                print("Paused")
-                while(self.paused):
-                    time.sleep(0.1)
             try:
-                self.goToPos(c[0], c[1])
+                print("Scanning {0} point from {1}".format(i, num_of_points))
 
-                if self.mapaf:
-                    if i % self.mapaf == 0:
-                        self.af.focus()
+                if self.paused:
+                    print("Paused")
+                    while(self.paused):
+                        time.sleep(0.1)
+                try:
+                    self.goToPos(c[0], c[1])
 
-                func_timeout(self.map_timeout, self.performScanSave, args=(
-                    fname, "x{0:4.3f}_y{1:4.3f}.spc".format(c[0], c[1])))
+                    if self.mapaf:
+                        if i % self.mapaf == 0:
+                            self.af.focus()
 
-            except FunctionTimedOut:
-                print("Timeout of {} seconds is reached, stopping current point...".format(
-                    self.map_timeout))
-                self.ramanc.resetApp()
-                time.sleep(1)
-                pass
+                    func_timeout(self.map_timeout, self.performScanSave, args=(
+                        fname, "x{0:4.3f}_y{1:4.3f}.spc".format(c[0], c[1])))
 
+                except FunctionTimedOut:
+                    print("Timeout of {} seconds is reached, stopping current point...".format(
+                        self.map_timeout))
+                    self.ramanc.resetApp()
+                    time.sleep(1)
+                    pass
+
+                except Exception as e:
+                    print(
+                        "Something went wrong during map collection, trying to contionue...")
+                    print(str(e))
+                    pass
             except Exception as e:
-                print(
-                    "Something went wrong during map collection, trying to contionue...")
-                print(str(e))
-                pass
+                continue
             self.ramanc.escapeApp()
 
     def performScanSave(self, fname, command):

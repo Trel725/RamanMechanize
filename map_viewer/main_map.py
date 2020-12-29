@@ -1,7 +1,7 @@
 import sys
 import os
 import spc
-from PyQt5 import QtWidgets
+from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtWidgets import QFileDialog, QSizePolicy
 from PyQt5.QtGui import QIntValidator
 from mapdesign import Ui_MainWindow
@@ -63,7 +63,11 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         self.freqEdit.setValidator(val)
         self.method = "CT"
         self.triangulate = False
-        self.zdata=None
+        self.zdata = None
+        self.pltWidget.setFocusPolicy(QtCore.Qt.ClickFocus)
+        self.pltWidget.setFocus()
+        self.pltWidget.fig.canvas.mpl_connect(
+            'button_press_event', self.pick_handler)
 
     def method_box_handler(self):
         if self.methodBox.currentText() == "Spline":
@@ -90,6 +94,17 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
     def update_handler(self):
         self.plot(self.slider.value())
 
+    def pick_handler(self, event):
+        if len(self.spectra) > 1:
+            plt.figure()
+            dists = [np.linalg.norm([event.xdata - s.x, event.ydata - s.y])
+                     for s in self.spectra]
+            idx = np.argmin(dists)
+            plt.plot(self.spectra[idx].datax, self.spectra[idx].datay)
+            plt.xlabel("Raman shift, cm$^{-1}$")
+            plt.ylabel("Intensity, a.u.")
+            plt.show()
+
     def plot(self, value):
         if len(self.spectra) == 0:
             return 0
@@ -104,11 +119,12 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
             self.cb.remove()
 
         if self.interp:
-            xnew, ynew, znew = self.interpolate(xs, ys, zs, self.interp, method=self.method)
+            xnew, ynew, znew = self.interpolate(
+                xs, ys, zs, self.interp, method=self.method)
             if len(znew.shape) < 2:
                 znew = znew.reshape(ynew.shape[0], xnew.shape[0]).T
             im = self.pltWidget.ax.pcolormesh(xnew, ynew, znew.T)
-            self.zdata=znew
+            self.zdata = znew
             self.cb = self.pltWidget.fig.colorbar(im)
             self.pltWidget.draw()
             self.freqEdit.setText(str(value))
@@ -118,11 +134,12 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
             subdiv = self.TriangSpinBox.value()
             triang = tri.Triangulation(xs, ys)
             #mask = tri.TriAnalyzer(triang).get_flat_tri_mask(0.1)
-            #triang.set_mask(mask)
+            # triang.set_mask(mask)
             refiner = tri.UniformTriRefiner(triang)
             tri_refi, z_test_refi = refiner.refine_field(zs, subdiv=subdiv)
-            im = self.pltWidget.ax.tripcolor(tri_refi, z_test_refi, cmap=plt.cm.CMRmap)
-            #return
+            im = self.pltWidget.ax.tripcolor(
+                tri_refi, z_test_refi, cmap=plt.cm.CMRmap)
+            # return
 
         else:
             im = self.pltWidget.ax.hexbin(xs, ys, C=zs, cmap=cm.jet, bins=None)
@@ -141,7 +158,8 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         xnew = np.arange(min(x), max(x) + dx, dx)
         ynew = np.arange(min(y), max(y) + dx, dx)
         if method == "spline":
-            tck = bisplrep(x, y, z, s=self.smoothSpinBox.value(), kx=order, ky=order)
+            tck = bisplrep(x, y, z, s=self.smoothSpinBox.value(),
+                           kx=order, ky=order)
             znew = bisplev(xnew[:-1], ynew[:-1], tck)
             return xnew, ynew, znew
         g = np.meshgrid(xnew, ynew)
@@ -149,7 +167,8 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         return xnew, ynew, griddata(points, z, positions.T, fill_value=0.0, method="cubic", rescale=True)
 
     def get_directory(self):
-        pth = str(QFileDialog.getExistingDirectory(self, "Select Directory", "c:/AutoRaman/Mapping"))
+        pth = str(QFileDialog.getExistingDirectory(
+            self, "Select Directory", "c:/AutoRaman/Mapping"))
         if len(pth) < 2:
             return
         self.spectra = []
@@ -166,11 +185,13 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         if self.zdata is not None:
             obj['/0/data'] = GwyDataField(np.flipud(self.zdata))
         else:
-            QtWidgets.QMessageBox.warning(self, "Warning", "Data need to be on a grid. Please interpolate firstly")
+            QtWidgets.QMessageBox.warning(
+                self, "Warning", "Data need to be on a grid. Please interpolate firstly")
             return
-        pth = str(QFileDialog.getSaveFileName(self, 'Export to', filter="Gwyddion files (*.gwy)",)[0])
+        pth = str(QFileDialog.getSaveFileName(
+            self, 'Export to', filter="Gwyddion files (*.gwy)",)[0])
         if pth[-4:] != ".gwy":
-            pth+=".gwy"
+            pth += ".gwy"
         print(pth)
 
         obj.tofile(pth)

@@ -170,6 +170,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.help = HelpWindow()
         self.actionUsage.triggered.connect(self.showHelp)
         self.actionLicense.triggered.connect(self.showLicense)
+        self.lastpress = 0
+        self.lastrelease = 0
 
     def ledToggle(self):
         if self.sc is not None:
@@ -299,6 +301,11 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         if self.jogBusy:
             return
 
+        #print((time.time_ns() - self.lastrelease)/1e9)
+        if (time.time_ns() - self.lastrelease) < 0.25e9:
+            #print('too early')
+            return
+
         if not e.isAutoRepeat() and not self.js.isRunning():
             feed = 1000
             if e.key() in self.key_switcher.keys():
@@ -310,6 +317,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                     else:
                         self.js.single_step = False
                     self.js.coord = coord
+                    self.lastpress = time.time_ns()
                     self.js.start()
                     self.jogBusy = True
                 else:
@@ -348,6 +356,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
                 self.js.resetFeed()
                 self.cancelJog()
                 self.jogBusy = False
+                self.lastrelease = time.time_ns()
                 if self.sc is not None:
                     self.sc.busy = False
 
