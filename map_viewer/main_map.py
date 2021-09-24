@@ -100,9 +100,11 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
             dists = [np.linalg.norm([event.xdata - s.x, event.ydata - s.y])
                      for s in self.spectra]
             idx = np.argmin(dists)
-            plt.plot(self.spectra[idx].datax, self.spectra[idx].datay)
+            plt.plot(self.spectra[idx].datax,
+                     self.spectra[idx].datay)
             plt.xlabel("Raman shift, cm$^{-1}$")
             plt.ylabel("Intensity, a.u.")
+            plt.title(self.spectra[idx].fname)
             plt.show()
 
     def plot(self, value):
@@ -210,7 +212,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
                 if i[0] == 'y':
                     y = float(i[1:])
             try:
-                entry = MapEntry(s.x, s.sub[0].y)
+                entry = MapEntry(s.x, s.sub[0].y, fname=file)
                 entry.x, entry.y = x, y
                 self.spectra.append(entry)
                 counter += 1

@@ -24,8 +24,8 @@ class SerialCommunicator(object):
             self.busy = True
         command = command.strip().strip('\n')
         command += '\n'
-        self.ser.reset_input_buffer()
         try:
+            self.ser.reset_input_buffer()
             self.ser.write(command.encode())
         except Exception as e:
             print("Can't send the command to GRBL")
@@ -80,9 +80,9 @@ class SerialCommunicator(object):
             self.verifyBuffer()
             status, coord, fs = None, None, None
             keys = ['status', 'coordinates', 'fs']
-            self.ser.write('?'.encode())
-            time.sleep(0.1)
             try:
+                self.ser.write('?'.encode())
+                time.sleep(0.1)
                 resp = self.ser.read(size=self.ser.in_waiting).decode()
             except Exception as e:
                 print("Can't read GRBL status response")

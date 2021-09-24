@@ -302,7 +302,7 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
             return
 
         #print((time.time_ns() - self.lastrelease)/1e9)
-        if (time.time_ns() - self.lastrelease) < 0.25e9:
+        if (time.time_ns() - self.lastrelease) < 0.3e9:
             #print('too early')
             return
 
