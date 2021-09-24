@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>559</width>
-    <height>429</height>
+    <height>455</height>
    </rect>
   </property>
   <property name="focusPolicy">
@@ -364,6 +364,19 @@
          <widget class="QPushButton" name="AFButton">
           <property name="text">
            <string>Focus</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="focusModeBox">
+          <property name="editable">
+           <bool>false</bool>
+          </property>
+          <property name="currentText">
+           <string/>
+          </property>
+          <property name="currentIndex">
+           <number>-1</number>
           </property>
          </widget>
         </item>

@@ -11,7 +11,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(559, 429)
+        MainWindow.resize(559, 455)
         MainWindow.setFocusPolicy(QtCore.Qt.StrongFocus)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setFocusPolicy(QtCore.Qt.StrongFocus)
@@ -196,6 +196,11 @@ class Ui_MainWindow(object):
         self.AFButton = QtWidgets.QPushButton(self.centralwidget)
         self.AFButton.setObjectName("AFButton")
         self.horizontalLayout_8.addWidget(self.AFButton)
+        self.focusModeBox = QtWidgets.QComboBox(self.centralwidget)
+        self.focusModeBox.setEditable(False)
+        self.focusModeBox.setCurrentText("Mode")
+        self.focusModeBox.setObjectName("focusModeBox")
+        self.horizontalLayout_8.addWidget(self.focusModeBox)
         self.label_5 = QtWidgets.QLabel(self.centralwidget)
         self.label_5.setObjectName("label_5")
         self.horizontalLayout_8.addWidget(self.label_5)
@@ -324,6 +329,7 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         self.selectSerialBox.setCurrentIndex(0)
+        self.focusModeBox.setCurrentIndex(-1)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def retranslateUi(self, MainWindow):

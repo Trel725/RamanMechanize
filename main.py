@@ -123,6 +123,8 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
         self.selectSerialBox.addItems(self.list_serial_ports())
         self.AFButton.clicked.connect(self.autofocus)
         self.AFcheckBox.stateChanged.connect(self.AFcheckBoxHandler)
+        self.focusModeBox.currentIndexChanged.connect(self.AFchangeMode)
+        self.focusModeBox.addItems(list(self.ce.af.modes.keys()))
         self.LEDButton.clicked.connect(self.ledToggle)
 
         if self.settings.contains("port"):
@@ -176,6 +178,13 @@ class StepperControlGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
     def ledToggle(self):
         if self.sc is not None:
             self.sc.ledToggle()
+
+    def AFchangeMode(self, mode):
+        modes = [self.focusModeBox.itemText(
+            i) for i in range(self.focusModeBox.count())]
+        mode = modes[mode]
+        print(f"Selecting {mode} as autofocus mode")
+        self.ce.af.select_mode(mode)
 
     def AFcheckBoxHandler(self):
         if self.AFcheckBox.isChecked():

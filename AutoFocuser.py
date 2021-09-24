@@ -3,6 +3,7 @@ from SerialCommunicator import SerialCommunicator
 import time
 import mss
 from scipy.optimize import *
+from scipy.ndimage.filters import *
 
 
 class AutoFocuser(object):
@@ -15,16 +16,29 @@ class AutoFocuser(object):
         self.sct = mss.mss()
         self.monitor = {"top": 510, "left": 210, "width": 540, "height": 380}
         self.pos = 0
-        self.bounds = [-5, 5]
+        self.bounds = [-2, 2]
+        self.modes = {'intensity': self.measure_intensity,
+                      'edges': self.measure_int_edges}
+        self.mode = 'intensity'
 
     @staticmethod
     def rgb2gray(rgb):
         return np.dot(rgb[..., :3], [0.2989, 0.5870, 0.1140])
 
-    def intensity(self, im):
-        im = im[:, :, 2]  # red channel
+    def measure_edges(self, im):
+        return -1 * np.abs(gaussian_gradient_magnitude(im, sigma=3)).sum() / im.size
+
+    def measure_intensity(self, im):
+        red = im[:, :, 2]  # red channel
         # im = self.rgb2gray(im)
-        return im.max()  # np.percentile(im, 99)
+        return -1 * red.max() / 255.0
+
+    def select_mode(self, mode):
+        assert mode in self.modes, "Unsupported mode"
+        self.mode = mode
+
+    def measure_int_edges(self, im):
+        return self.measure_intensity(im), 1 * self.measure_edges(im)
 
     def get_frame(self):
         im = np.array(self.sct.grab(self.monitor))
@@ -40,8 +54,12 @@ class AutoFocuser(object):
         dx = x - self.pos
         self.move(dx)
         self.pos += dx
-        i = self.intensity(self.get_frame())
-        return -i
+        i = self.modes[self.mode](self.get_frame())
+        # print(i)
+        try:
+            return sum(i)
+        except:
+            return i
 
     def focus(self):
         res = minimize_scalar(self.loss, bounds=self.bounds,
@@ -50,11 +68,11 @@ class AutoFocuser(object):
 
 
 if __name__ == '__main__':
-    sc = SerialCommunicator("COM4")
+    sc = SerialCommunicator("COM5")
     sc.initializeGrbl()
     time.sleep(2)
     print(sc.sendCommand("$X\n", read_resp=True))
 
     af = AutoFocuser(sc)
     res = af.focus()
-    print(res.fun)
+    print(res)
